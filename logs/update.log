@@ -1,0 +1,1796 @@
+[2026-07-13 14:28:05] [INFO] ============================================================
+[2026-07-13 14:28:05] [INFO] News Update Started
+[2026-07-13 14:28:05] [INFO] ============================================================
+[2026-07-13 14:28:05] [INFO] This is an INFO message.
+[2026-07-13 14:28:05] [WARNING] This is a WARNING message.
+[2026-07-13 14:28:05] [ERROR] This is an ERROR message.
+[2026-07-13 14:28:05] [INFO] ============================================================
+[2026-07-13 14:28:05] [INFO] News Update Finished
+[2026-07-13 14:28:05] [INFO] ============================================================
+[2026-07-13 15:42:04] [INFO] ============================================================
+[2026-07-13 15:42:04] [INFO] News Update Started
+[2026-07-13 15:42:04] [INFO] ============================================================
+[2026-07-13 15:42:04] [INFO] This is an INFO message.
+[2026-07-13 15:42:04] [WARNING] This is a WARNING message.
+[2026-07-13 15:42:04] [ERROR] This is an ERROR message.
+[2026-07-13 15:42:04] [INFO] ============================================================
+[2026-07-13 15:42:04] [INFO] News Update Finished
+[2026-07-13 15:42:04] [INFO] ============================================================
+[2026-07-13 16:03:45] [INFO] ============================================================
+[2026-07-13 16:03:45] [INFO] News Update Started
+[2026-07-13 16:03:45] [INFO] ============================================================
+[2026-07-13 16:03:45] [INFO] Creating news structure
+[2026-07-13 16:03:45] [INFO] Reading : Lokmat
+[2026-07-13 16:03:45] [INFO] Reading Lokmat
+[2026-07-13 16:03:45] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 16:03:45] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 16:03:45] [INFO] 0 articles
+[2026-07-13 16:03:45] [INFO] Reading : eSakal
+[2026-07-13 16:03:45] [INFO] Reading eSakal
+[2026-07-13 16:03:46] [INFO] 338 articles
+[2026-07-13 16:03:46] [INFO] Reading : Loksatta
+[2026-07-13 16:03:46] [INFO] Reading Loksatta
+[2026-07-13 16:03:46] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 16:03:46] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 16:03:46] [INFO] 0 articles
+[2026-07-13 16:03:46] [INFO] Removing duplicates
+[2026-07-13 16:03:46] [INFO] Unique Articles : 338
+[2026-07-13 16:03:46] [INFO] Categorizing
+[2026-07-13 16:03:46] [INFO] maharashtra : 5
+[2026-07-13 16:03:46] [INFO] india : 5
+[2026-07-13 16:03:46] [INFO] world : 5
+[2026-07-13 16:03:46] [INFO] sports : 3
+[2026-07-13 16:03:46] [INFO] business : 3
+[2026-07-13 16:03:46] [INFO] news.json updated
+[2026-07-13 16:03:46] [INFO] ============================================================
+[2026-07-13 16:03:46] [INFO] News Update Finished
+[2026-07-13 16:03:46] [INFO] ============================================================
+[2026-07-13 16:09:18] [INFO] ============================================================
+[2026-07-13 16:09:18] [INFO] News Update Started
+[2026-07-13 16:09:18] [INFO] ============================================================
+[2026-07-13 16:09:18] [INFO] Creating news structure
+[2026-07-13 16:09:18] [INFO] Reading : Lokmat
+[2026-07-13 16:09:18] [INFO] Reading Lokmat
+[2026-07-13 16:09:18] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 16:09:18] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 16:09:18] [INFO] 0 articles
+[2026-07-13 16:09:18] [INFO] Reading : eSakal
+[2026-07-13 16:09:18] [INFO] Reading eSakal
+[2026-07-13 16:09:19] [INFO] 339 articles
+[2026-07-13 16:09:19] [INFO] Reading : Loksatta
+[2026-07-13 16:09:19] [INFO] Reading Loksatta
+[2026-07-13 16:09:19] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 16:09:19] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 16:09:19] [INFO] 0 articles
+[2026-07-13 16:09:19] [INFO] Removing duplicates
+[2026-07-13 16:09:19] [INFO] Unique Articles : 339
+[2026-07-13 16:09:19] [INFO] Categorizing
+[2026-07-13 16:09:19] [INFO] maharashtra : 5
+[2026-07-13 16:09:19] [INFO] india : 5
+[2026-07-13 16:09:19] [INFO] world : 5
+[2026-07-13 16:09:19] [INFO] sports : 3
+[2026-07-13 16:09:19] [INFO] business : 3
+[2026-07-13 16:09:19] [INFO] news.json updated
+[2026-07-13 16:09:19] [INFO] ============================================================
+[2026-07-13 16:09:19] [INFO] News Update Finished
+[2026-07-13 16:09:19] [INFO] ============================================================
+[2026-07-13 17:49:28] [INFO] ============================================================
+[2026-07-13 17:49:28] [INFO] News Update Started
+[2026-07-13 17:49:28] [INFO] ============================================================
+[2026-07-13 17:49:28] [INFO] Creating news structure
+[2026-07-13 17:49:28] [INFO] Reading : Lokmat
+[2026-07-13 17:49:28] [INFO] Reading Lokmat
+[2026-07-13 17:49:28] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 17:49:28] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 17:49:28] [INFO] 0 articles
+[2026-07-13 17:49:28] [INFO] Reading : eSakal
+[2026-07-13 17:49:28] [INFO] Reading eSakal
+[2026-07-13 17:49:29] [INFO] 349 articles
+[2026-07-13 17:49:29] [INFO] Reading : Loksatta
+[2026-07-13 17:49:29] [INFO] Reading Loksatta
+[2026-07-13 17:49:29] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 17:49:29] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 17:49:29] [INFO] 0 articles
+[2026-07-13 17:49:29] [INFO] Removing duplicates
+[2026-07-13 17:49:29] [INFO] Unique Articles : 349
+[2026-07-13 17:49:29] [INFO] Categorizing
+[2026-07-13 17:49:29] [INFO] maharashtra : 5
+[2026-07-13 17:49:29] [INFO] india : 5
+[2026-07-13 17:49:29] [INFO] world : 5
+[2026-07-13 17:49:29] [INFO] sports : 3
+[2026-07-13 17:49:29] [INFO] business : 3
+[2026-07-13 17:49:29] [INFO] news.json updated
+[2026-07-13 17:49:29] [INFO] ============================================================
+[2026-07-13 17:49:29] [INFO] News Update Finished
+[2026-07-13 17:49:29] [INFO] ============================================================
+[2026-07-13 18:03:30] [INFO] ============================================================
+[2026-07-13 18:03:30] [INFO] News Update Started
+[2026-07-13 18:03:30] [INFO] ============================================================
+[2026-07-13 18:03:30] [INFO] Creating news structure
+[2026-07-13 18:03:30] [INFO] Reading : Lokmat
+[2026-07-13 18:03:30] [INFO] Reading Lokmat
+[2026-07-13 18:03:30] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 18:03:30] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 18:03:30] [INFO] 0 articles
+[2026-07-13 18:03:30] [INFO] Reading : eSakal
+[2026-07-13 18:03:30] [INFO] Reading eSakal
+[2026-07-13 18:03:31] [INFO] 349 articles
+[2026-07-13 18:03:31] [INFO] Reading : Loksatta
+[2026-07-13 18:03:31] [INFO] Reading Loksatta
+[2026-07-13 18:03:31] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 18:03:31] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 18:03:31] [INFO] 0 articles
+[2026-07-13 18:03:31] [INFO] Removing duplicates
+[2026-07-13 18:03:31] [INFO] Unique Articles : 349
+[2026-07-13 18:03:31] [INFO] Categorizing
+[2026-07-13 18:03:31] [INFO] maharashtra : 5
+[2026-07-13 18:03:31] [INFO] india : 5
+[2026-07-13 18:03:31] [INFO] world : 5
+[2026-07-13 18:03:31] [INFO] sports : 3
+[2026-07-13 18:03:31] [INFO] business : 3
+[2026-07-13 18:03:31] [INFO] news.json updated
+[2026-07-13 18:03:31] [INFO] ============================================================
+[2026-07-13 18:03:31] [INFO] News Update Finished
+[2026-07-13 18:03:31] [INFO] ============================================================
+[2026-07-13 21:28:44] [INFO] ============================================================
+[2026-07-13 21:28:44] [INFO] News Update Started
+[2026-07-13 21:28:44] [INFO] ============================================================
+[2026-07-13 21:28:44] [INFO] Creating news structure
+[2026-07-13 21:28:44] [INFO] Reading : Lokmat
+[2026-07-13 21:28:44] [INFO] Reading Lokmat
+[2026-07-13 21:28:45] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 21:28:45] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 21:28:45] [INFO] 0 articles
+[2026-07-13 21:28:45] [INFO] Reading : eSakal
+[2026-07-13 21:28:45] [INFO] Reading eSakal
+[2026-07-13 21:28:45] [INFO] 322 articles
+[2026-07-13 21:28:45] [INFO] Reading : Loksatta
+[2026-07-13 21:28:45] [INFO] Reading Loksatta
+[2026-07-13 21:28:47] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 21:28:47] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 21:28:47] [INFO] 0 articles
+[2026-07-13 21:28:47] [INFO] Removing duplicates
+[2026-07-13 21:28:47] [INFO] Unique Articles : 322
+[2026-07-13 21:28:47] [INFO] Categorizing
+[2026-07-13 21:28:47] [INFO] maharashtra : 5
+[2026-07-13 21:28:47] [INFO] india : 5
+[2026-07-13 21:28:47] [INFO] world : 5
+[2026-07-13 21:28:47] [INFO] sports : 3
+[2026-07-13 21:28:47] [INFO] business : 3
+[2026-07-13 21:28:47] [INFO] news.json updated
+[2026-07-13 21:28:47] [INFO] ============================================================
+[2026-07-13 21:28:47] [INFO] News Update Finished
+[2026-07-13 21:28:47] [INFO] ============================================================
+[2026-07-13 21:34:51] [INFO] ============================================================
+[2026-07-13 21:34:51] [INFO] News Update Started
+[2026-07-13 21:34:51] [INFO] ============================================================
+[2026-07-13 21:34:51] [INFO] Creating news structure
+[2026-07-13 21:34:51] [INFO] Reading : Lokmat
+[2026-07-13 21:34:51] [INFO] Reading Lokmat
+[2026-07-13 21:34:51] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 21:34:51] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 21:34:51] [INFO] 0 articles
+[2026-07-13 21:34:51] [INFO] Reading : eSakal
+[2026-07-13 21:34:51] [INFO] Reading eSakal
+[2026-07-13 21:34:51] [INFO] 323 articles
+[2026-07-13 21:34:51] [INFO] Reading : Loksatta
+[2026-07-13 21:34:51] [INFO] Reading Loksatta
+[2026-07-13 21:34:52] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 21:34:52] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 21:34:52] [INFO] 0 articles
+[2026-07-13 21:34:52] [INFO] Removing duplicates
+[2026-07-13 21:34:52] [INFO] Unique Articles : 323
+[2026-07-13 21:34:52] [INFO] Categorizing
+[2026-07-13 21:34:52] [INFO] maharashtra : 5
+[2026-07-13 21:34:52] [INFO] india : 5
+[2026-07-13 21:34:52] [INFO] world : 5
+[2026-07-13 21:34:52] [INFO] sports : 3
+[2026-07-13 21:34:52] [INFO] business : 3
+[2026-07-13 21:34:52] [INFO] news.json updated
+[2026-07-13 21:34:52] [INFO] ============================================================
+[2026-07-13 21:34:52] [INFO] News Update Finished
+[2026-07-13 21:34:52] [INFO] ============================================================
+[2026-07-13 21:52:34] [INFO] ============================================================
+[2026-07-13 21:52:34] [INFO] News Update Started
+[2026-07-13 21:52:34] [INFO] ============================================================
+[2026-07-13 21:52:34] [INFO] Creating news structure
+[2026-07-13 21:52:34] [INFO] Reading : Lokmat
+[2026-07-13 21:52:34] [INFO] Reading Lokmat
+[2026-07-13 21:52:35] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 21:52:35] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 21:52:35] [INFO] 0 articles
+[2026-07-13 21:52:35] [INFO] Reading : eSakal
+[2026-07-13 21:52:35] [INFO] Reading eSakal
+[2026-07-13 21:52:35] [INFO] 322 articles
+[2026-07-13 21:52:35] [INFO] Reading : Loksatta
+[2026-07-13 21:52:35] [INFO] Reading Loksatta
+[2026-07-13 21:52:35] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 21:52:35] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 21:52:35] [INFO] 0 articles
+[2026-07-13 21:52:35] [INFO] Removing duplicates
+[2026-07-13 21:52:35] [INFO] Unique Articles : 322
+[2026-07-13 21:52:35] [INFO] Categorizing
+[2026-07-13 21:52:35] [INFO] maharashtra : 5
+[2026-07-13 21:52:35] [INFO] india : 5
+[2026-07-13 21:52:36] [INFO] world : 5
+[2026-07-13 21:52:36] [INFO] sports : 3
+[2026-07-13 21:52:36] [INFO] business : 3
+[2026-07-13 21:52:36] [INFO] news.json updated
+[2026-07-13 21:52:36] [INFO] ============================================================
+[2026-07-13 21:52:36] [INFO] News Update Finished
+[2026-07-13 21:52:36] [INFO] ============================================================
+[2026-07-13 22:40:45] [INFO] ============================================================
+[2026-07-13 22:40:45] [INFO] News Update Started
+[2026-07-13 22:40:45] [INFO] ============================================================
+[2026-07-13 22:40:45] [INFO] Creating news structure
+[2026-07-13 22:40:45] [INFO] Reading : Lokmat
+[2026-07-13 22:40:45] [INFO] Reading Lokmat
+[2026-07-13 22:40:45] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 22:40:45] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 22:40:45] [INFO] 0 articles
+[2026-07-13 22:40:45] [INFO] Reading : eSakal
+[2026-07-13 22:40:45] [INFO] Reading eSakal
+[2026-07-13 22:40:46] [INFO] 318 articles
+[2026-07-13 22:40:46] [INFO] Reading : Loksatta
+[2026-07-13 22:40:46] [INFO] Reading Loksatta
+[2026-07-13 22:40:46] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 22:40:46] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 22:40:46] [INFO] 0 articles
+[2026-07-13 22:40:46] [INFO] Removing duplicates
+[2026-07-13 22:40:46] [INFO] Unique Articles : 318
+[2026-07-13 22:40:46] [INFO] Categorizing
+[2026-07-13 22:40:46] [INFO] maharashtra : 5
+[2026-07-13 22:40:46] [INFO] india : 5
+[2026-07-13 22:40:46] [INFO] world : 5
+[2026-07-13 22:40:46] [INFO] sports : 3
+[2026-07-13 22:40:46] [INFO] business : 3
+[2026-07-13 22:40:46] [INFO] news.json updated
+[2026-07-13 22:40:46] [INFO] ============================================================
+[2026-07-13 22:40:46] [INFO] News Update Finished
+[2026-07-13 22:40:46] [INFO] ============================================================
+[2026-07-13 22:43:33] [INFO] ============================================================
+[2026-07-13 22:43:33] [INFO] News Update Started
+[2026-07-13 22:43:33] [INFO] ============================================================
+[2026-07-13 22:43:33] [INFO] Creating news structure
+[2026-07-13 22:43:33] [INFO] Reading : Lokmat
+[2026-07-13 22:43:33] [INFO] Reading Lokmat
+[2026-07-13 22:43:34] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 22:43:34] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 22:43:34] [INFO] 0 articles
+[2026-07-13 22:43:34] [INFO] Reading : eSakal
+[2026-07-13 22:43:34] [INFO] Reading eSakal
+[2026-07-13 22:43:34] [INFO] 319 articles
+[2026-07-13 22:43:34] [INFO] Reading : Loksatta
+[2026-07-13 22:43:34] [INFO] Reading Loksatta
+[2026-07-13 22:43:34] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 22:43:34] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 22:43:34] [INFO] 0 articles
+[2026-07-13 22:43:34] [INFO] Removing duplicates
+[2026-07-13 22:43:34] [INFO] Unique Articles : 319
+[2026-07-13 22:43:34] [INFO] Categorizing
+[2026-07-13 22:43:34] [INFO] maharashtra : 5
+[2026-07-13 22:43:34] [INFO] india : 5
+[2026-07-13 22:43:34] [INFO] world : 5
+[2026-07-13 22:43:34] [INFO] sports : 3
+[2026-07-13 22:43:34] [INFO] business : 3
+[2026-07-13 22:43:35] [INFO] news.json updated
+[2026-07-13 22:43:35] [INFO] ============================================================
+[2026-07-13 22:43:35] [INFO] News Update Finished
+[2026-07-13 22:43:35] [INFO] ============================================================
+[2026-07-13 22:44:29] [INFO] ============================================================
+[2026-07-13 22:44:29] [INFO] News Update Started
+[2026-07-13 22:44:29] [INFO] ============================================================
+[2026-07-13 22:44:29] [INFO] Creating news structure
+[2026-07-13 22:44:29] [INFO] Reading : Lokmat
+[2026-07-13 22:44:29] [INFO] Reading Lokmat
+[2026-07-13 22:44:29] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 22:44:29] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 22:44:29] [INFO] 0 articles
+[2026-07-13 22:44:29] [INFO] Reading : eSakal
+[2026-07-13 22:44:29] [INFO] Reading eSakal
+[2026-07-13 22:44:30] [INFO] 319 articles
+[2026-07-13 22:44:30] [INFO] Reading : Loksatta
+[2026-07-13 22:44:30] [INFO] Reading Loksatta
+[2026-07-13 22:44:30] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 22:44:30] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 22:44:30] [INFO] 0 articles
+[2026-07-13 22:44:30] [INFO] Removing duplicates
+[2026-07-13 22:44:30] [INFO] Unique Articles : 319
+[2026-07-13 22:44:30] [INFO] Categorizing
+[2026-07-13 22:44:30] [INFO] maharashtra : 5
+[2026-07-13 22:44:30] [INFO] india : 5
+[2026-07-13 22:44:30] [INFO] world : 5
+[2026-07-13 22:44:30] [INFO] sports : 3
+[2026-07-13 22:44:30] [INFO] business : 3
+[2026-07-13 22:44:30] [INFO] news.json updated
+[2026-07-13 22:44:30] [INFO] ============================================================
+[2026-07-13 22:44:30] [INFO] News Update Finished
+[2026-07-13 22:44:30] [INFO] ============================================================
+[2026-07-13 22:58:15] [INFO] ============================================================
+[2026-07-13 22:58:15] [INFO] News Update Started
+[2026-07-13 22:58:15] [INFO] ============================================================
+[2026-07-13 22:58:15] [INFO] Creating news structure
+[2026-07-13 22:58:15] [INFO] Reading : Lokmat
+[2026-07-13 22:58:15] [INFO] Reading Lokmat
+[2026-07-13 22:58:15] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 22:58:16] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 22:58:16] [INFO] 0 articles
+[2026-07-13 22:58:16] [INFO] Reading : eSakal
+[2026-07-13 22:58:16] [INFO] Reading eSakal
+[2026-07-13 22:58:16] [INFO] 321 articles
+[2026-07-13 22:58:16] [INFO] Reading : Loksatta
+[2026-07-13 22:58:16] [INFO] Reading Loksatta
+[2026-07-13 22:58:16] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 22:58:16] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 22:58:16] [INFO] 0 articles
+[2026-07-13 22:58:16] [INFO] Removing duplicates
+[2026-07-13 22:58:16] [INFO] Unique Articles : 321
+[2026-07-13 22:58:17] [INFO] Categorizing
+[2026-07-13 22:58:17] [INFO] maharashtra : 5
+[2026-07-13 22:58:17] [INFO] india : 5
+[2026-07-13 22:58:17] [INFO] world : 5
+[2026-07-13 22:58:17] [INFO] sports : 3
+[2026-07-13 22:58:17] [INFO] business : 3
+[2026-07-13 22:58:17] [INFO] news.json updated
+[2026-07-13 22:58:17] [INFO] ============================================================
+[2026-07-13 22:58:17] [INFO] News Update Finished
+[2026-07-13 22:58:17] [INFO] ============================================================
+[2026-07-13 22:59:06] [INFO] ============================================================
+[2026-07-13 22:59:06] [INFO] News Update Started
+[2026-07-13 22:59:06] [INFO] ============================================================
+[2026-07-13 22:59:06] [INFO] Creating news structure
+[2026-07-13 22:59:06] [INFO] Reading : Lokmat
+[2026-07-13 22:59:06] [INFO] Reading Lokmat
+[2026-07-13 22:59:06] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 22:59:06] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 22:59:06] [INFO] 0 articles
+[2026-07-13 22:59:06] [INFO] Reading : eSakal
+[2026-07-13 22:59:06] [INFO] Reading eSakal
+[2026-07-13 22:59:07] [INFO] 321 articles
+[2026-07-13 22:59:07] [INFO] Reading : Loksatta
+[2026-07-13 22:59:07] [INFO] Reading Loksatta
+[2026-07-13 22:59:07] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 22:59:07] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 22:59:07] [INFO] 0 articles
+[2026-07-13 22:59:07] [INFO] Removing duplicates
+[2026-07-13 22:59:07] [INFO] Unique Articles : 321
+[2026-07-13 22:59:07] [INFO] Categorizing
+[2026-07-13 22:59:07] [INFO] maharashtra : 5
+[2026-07-13 22:59:07] [INFO] india : 5
+[2026-07-13 22:59:07] [INFO] world : 5
+[2026-07-13 22:59:07] [INFO] sports : 3
+[2026-07-13 22:59:07] [INFO] business : 3
+[2026-07-13 22:59:07] [INFO] news.json updated
+[2026-07-13 22:59:07] [INFO] ============================================================
+[2026-07-13 22:59:07] [INFO] News Update Finished
+[2026-07-13 22:59:07] [INFO] ============================================================
+[2026-07-13 23:25:12] [INFO] ============================================================
+[2026-07-13 23:25:12] [INFO] News Update Started
+[2026-07-13 23:25:12] [INFO] ============================================================
+[2026-07-13 23:25:12] [INFO] Creating news structure
+[2026-07-13 23:25:12] [INFO] Reading : Lokmat
+[2026-07-13 23:25:12] [INFO] Reading Lokmat
+[2026-07-13 23:25:12] [ERROR] Download failed : https://www.lokmat.com/rss
+[2026-07-13 23:25:12] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/
+[2026-07-13 23:25:12] [INFO] 0 articles
+[2026-07-13 23:25:12] [INFO] Reading : eSakal
+[2026-07-13 23:25:12] [INFO] Reading eSakal
+[2026-07-13 23:25:13] [INFO] 325 articles
+[2026-07-13 23:25:13] [INFO] Reading : Loksatta
+[2026-07-13 23:25:13] [INFO] Reading Loksatta
+[2026-07-13 23:25:13] [ERROR] Loksatta RSS parsing failed.
+[2026-07-13 23:25:13] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-13 23:25:13] [INFO] 0 articles
+[2026-07-13 23:25:13] [INFO] Removing duplicates
+[2026-07-13 23:25:13] [INFO] Unique Articles : 325
+[2026-07-13 23:25:13] [INFO] Categorizing
+[2026-07-13 23:25:13] [INFO] maharashtra : 5
+[2026-07-13 23:25:13] [INFO] india : 5
+[2026-07-13 23:25:13] [INFO] world : 5
+[2026-07-13 23:25:13] [INFO] sports : 3
+[2026-07-13 23:25:13] [INFO] business : 3
+[2026-07-13 23:25:13] [INFO] news.json updated
+[2026-07-13 23:25:13] [INFO] ============================================================
+[2026-07-13 23:25:13] [INFO] News Update Finished
+[2026-07-13 23:25:13] [INFO] ============================================================
+[2026-07-14 00:06:26] [INFO] ============================================================
+[2026-07-14 00:06:26] [INFO] News Update Started
+[2026-07-14 00:06:26] [INFO] ============================================================
+[2026-07-14 00:06:26] [INFO] Creating news structure
+[2026-07-14 00:06:26] [INFO] Reading : Lokmat
+[2026-07-14 00:06:26] [INFO] Reading Lokmat
+[2026-07-14 00:06:26] [INFO] 10 articles
+[2026-07-14 00:06:26] [INFO] Reading : Lokmat
+[2026-07-14 00:06:26] [INFO] Reading Lokmat
+[2026-07-14 00:06:26] [ERROR] Download failed : https://www.lokmat.com/rss/national.xml
+[2026-07-14 00:06:26] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/national.xml
+[2026-07-14 00:06:26] [INFO] 0 articles
+[2026-07-14 00:06:26] [INFO] Reading : Lokmat
+[2026-07-14 00:06:26] [INFO] Reading Lokmat
+[2026-07-14 00:06:26] [INFO] 10 articles
+[2026-07-14 00:06:26] [INFO] Reading : Lokmat
+[2026-07-14 00:06:26] [INFO] Reading Lokmat
+[2026-07-14 00:06:26] [INFO] 10 articles
+[2026-07-14 00:06:26] [INFO] Reading : Lokmat
+[2026-07-14 00:06:26] [INFO] Reading Lokmat
+[2026-07-14 00:06:26] [INFO] 10 articles
+[2026-07-14 00:06:26] [INFO] Reading : eSakal
+[2026-07-14 00:06:26] [INFO] Reading eSakal
+[2026-07-14 00:06:27] [INFO] 373 articles
+[2026-07-14 00:06:27] [INFO] Reading : Loksatta
+[2026-07-14 00:06:27] [INFO] Reading Loksatta
+[2026-07-14 00:06:27] [ERROR] Loksatta RSS parsing failed.
+[2026-07-14 00:06:27] [ERROR] not well-formed (invalid token): line 2, column 84
+[2026-07-14 00:06:27] [INFO] 0 articles
+[2026-07-14 00:06:27] [INFO] Removing duplicates
+[2026-07-14 00:06:27] [INFO] Unique Articles : 413
+[2026-07-14 00:06:27] [INFO] Categorizing
+[2026-07-14 00:06:27] [INFO] maharashtra : 5
+[2026-07-14 00:06:27] [INFO] india : 5
+[2026-07-14 00:06:27] [INFO] world : 5
+[2026-07-14 00:06:27] [INFO] sports : 3
+[2026-07-14 00:06:27] [INFO] business : 3
+[2026-07-14 00:06:27] [INFO] news.json updated
+[2026-07-14 00:06:27] [INFO] ============================================================
+[2026-07-14 00:06:27] [INFO] News Update Finished
+[2026-07-14 00:06:27] [INFO] ============================================================
+[2026-07-14 00:20:41] [INFO] ============================================================
+[2026-07-14 00:20:41] [INFO] News Update Started
+[2026-07-14 00:20:41] [INFO] ============================================================
+[2026-07-14 00:20:41] [INFO] Creating news structure
+[2026-07-14 00:20:41] [INFO] Reading : eSakal
+[2026-07-14 00:20:41] [INFO] Reading eSakal
+[2026-07-14 00:20:42] [INFO] 374 articles
+[2026-07-14 00:20:42] [INFO] Reading : Lokmat
+[2026-07-14 00:20:42] [INFO] Reading Lokmat
+[2026-07-14 00:20:42] [INFO] 10 articles
+[2026-07-14 00:20:42] [INFO] Reading : Lokmat
+[2026-07-14 00:20:42] [INFO] Reading Lokmat
+[2026-07-14 00:20:42] [ERROR] Download failed : https://www.lokmat.com/rss/national.xml
+[2026-07-14 00:20:42] [ERROR] 403 Client Error: Forbidden for url: https://www.lokmat.com/rss/national.xml
+[2026-07-14 00:20:42] [INFO] 0 articles
+[2026-07-14 00:20:42] [INFO] Reading : Lokmat
+[2026-07-14 00:20:42] [INFO] Reading Lokmat
+[2026-07-14 00:20:42] [INFO] 10 articles
+[2026-07-14 00:20:42] [INFO] Reading : Lokmat
+[2026-07-14 00:20:42] [INFO] Reading Lokmat
+[2026-07-14 00:20:42] [INFO] 10 articles
+[2026-07-14 00:20:42] [INFO] Reading : Lokmat
+[2026-07-14 00:20:42] [INFO] Reading Lokmat
+[2026-07-14 00:20:42] [INFO] 10 articles
+[2026-07-14 00:20:42] [WARNING] Skipped : Loksatta
+[2026-07-14 00:20:42] [INFO] Removing duplicates
+[2026-07-14 00:20:42] [INFO] Unique Articles : 414
+[2026-07-14 00:20:42] [INFO] Categorizing
+[2026-07-14 00:20:42] [INFO] maharashtra : 5
+[2026-07-14 00:20:42] [INFO] india : 5
+[2026-07-14 00:20:42] [INFO] world : 5
+[2026-07-14 00:20:42] [INFO] sports : 3
+[2026-07-14 00:20:42] [INFO] business : 3
+[2026-07-14 00:20:42] [INFO] news.json updated
+[2026-07-14 00:20:42] [INFO] ============================================================
+[2026-07-14 00:20:42] [INFO] News Update Finished
+[2026-07-14 00:20:42] [INFO] ============================================================
+[2026-07-14 01:01:22] [INFO] ============================================================
+[2026-07-14 01:01:22] [INFO] News Update Started
+[2026-07-14 01:01:22] [INFO] ============================================================
+[2026-07-14 01:01:22] [INFO] Creating news structure
+[2026-07-14 01:01:22] [INFO] Reading : eSakal
+[2026-07-14 01:01:22] [INFO] Reading eSakal
+[2026-07-14 01:01:23] [INFO] 374 articles
+[2026-07-14 01:01:23] [INFO] Reading : Lokmat
+[2026-07-14 01:01:23] [INFO] Reading Lokmat
+[2026-07-14 01:01:23] [INFO] 10 articles
+[2026-07-14 01:01:23] [WARNING] Skipped : Lokmat
+[2026-07-14 01:01:23] [INFO] Reading : Lokmat
+[2026-07-14 01:01:23] [INFO] Reading Lokmat
+[2026-07-14 01:01:23] [INFO] 10 articles
+[2026-07-14 01:01:23] [INFO] Reading : Lokmat
+[2026-07-14 01:01:23] [INFO] Reading Lokmat
+[2026-07-14 01:01:23] [INFO] 10 articles
+[2026-07-14 01:01:23] [INFO] Reading : Lokmat
+[2026-07-14 01:01:23] [INFO] Reading Lokmat
+[2026-07-14 01:01:23] [INFO] 10 articles
+[2026-07-14 01:01:23] [WARNING] Skipped : Loksatta
+[2026-07-14 01:01:23] [INFO] Removing duplicates
+[2026-07-14 01:01:23] [INFO] Unique Articles : 414
+[2026-07-14 01:01:23] [INFO] Categorizing
+[2026-07-14 01:01:23] [INFO] maharashtra : 5
+[2026-07-14 01:01:23] [INFO] india : 5
+[2026-07-14 01:01:23] [INFO] world : 5
+[2026-07-14 01:01:23] [INFO] sports : 3
+[2026-07-14 01:01:23] [INFO] business : 3
+[2026-07-14 01:01:23] [INFO] news.json updated
+[2026-07-14 01:01:23] [INFO] ============================================================
+[2026-07-14 01:01:23] [INFO] News Update Finished
+[2026-07-14 01:01:23] [INFO] ============================================================
+[2026-07-14 01:24:04] [INFO] ============================================================
+[2026-07-14 01:24:04] [INFO] News Update Started
+[2026-07-14 01:24:04] [INFO] ============================================================
+[2026-07-14 01:24:04] [INFO] Creating news structure
+[2026-07-14 01:24:04] [INFO] Reading : eSakal
+[2026-07-14 01:24:04] [INFO] Reading eSakal
+[2026-07-14 01:24:04] [INFO] 374 articles
+[2026-07-14 01:24:04] [INFO] Reading : Lokmat
+[2026-07-14 01:24:04] [INFO] Reading Lokmat
+[2026-07-14 01:24:04] [INFO] 10 articles
+[2026-07-14 01:24:04] [WARNING] Skipped : Lokmat
+[2026-07-14 01:24:04] [INFO] Reading : Lokmat
+[2026-07-14 01:24:04] [INFO] Reading Lokmat
+[2026-07-14 01:24:04] [INFO] 10 articles
+[2026-07-14 01:24:04] [INFO] Reading : Lokmat
+[2026-07-14 01:24:04] [INFO] Reading Lokmat
+[2026-07-14 01:24:05] [INFO] 10 articles
+[2026-07-14 01:24:05] [INFO] Reading : Lokmat
+[2026-07-14 01:24:05] [INFO] Reading Lokmat
+[2026-07-14 01:24:05] [INFO] 10 articles
+[2026-07-14 01:24:05] [WARNING] Skipped : Loksatta
+[2026-07-14 01:24:05] [INFO] Removing duplicates
+[2026-07-14 01:24:05] [INFO] Unique Articles : 414
+[2026-07-14 01:24:05] [INFO] Categorizing
+[2026-07-14 01:24:05] [INFO] maharashtra : 5
+[2026-07-14 01:24:05] [INFO] india : 5
+[2026-07-14 01:24:05] [INFO] world : 5
+[2026-07-14 01:24:05] [INFO] sports : 3
+[2026-07-14 01:24:05] [INFO] business : 3
+[2026-07-14 01:24:05] [INFO] news.json updated
+[2026-07-14 01:24:05] [INFO] ============================================================
+[2026-07-14 01:24:05] [INFO] News Update Finished
+[2026-07-14 01:24:05] [INFO] ============================================================
+[2026-07-14 19:52:14] [INFO] ============================================================
+[2026-07-14 19:52:14] [INFO] News Update Started
+[2026-07-14 19:52:14] [INFO] ============================================================
+[2026-07-14 19:52:14] [INFO] Creating news structure
+[2026-07-14 19:52:14] [INFO] Reading : eSakal
+[2026-07-14 19:52:14] [INFO] Reading eSakal
+[2026-07-14 19:52:15] [ERROR] Download failed : https://www.esakal.com/sitemap/google-news.xml
+[2026-07-14 19:52:15] [ERROR] 404 Client Error: Not Found for url: https://www.esakal.com/sitemap/google-news.xml
+[2026-07-14 19:52:15] [INFO] 0 articles
+[2026-07-14 19:52:15] [INFO] Reading : Lokmat
+[2026-07-14 19:52:15] [INFO] Reading Lokmat
+[2026-07-14 19:52:15] [INFO] 10 articles
+[2026-07-14 19:52:15] [INFO] Reading : Lokmat
+[2026-07-14 19:52:15] [INFO] Reading Lokmat
+[2026-07-14 19:52:15] [INFO] 10 articles
+[2026-07-14 19:52:15] [INFO] Reading : Lokmat
+[2026-07-14 19:52:15] [INFO] Reading Lokmat
+[2026-07-14 19:52:16] [INFO] 10 articles
+[2026-07-14 19:52:16] [INFO] Reading : Lokmat
+[2026-07-14 19:52:16] [INFO] Reading Lokmat
+[2026-07-14 19:52:16] [INFO] 10 articles
+[2026-07-14 19:52:16] [INFO] Reading : Lokmat
+[2026-07-14 19:52:16] [INFO] Reading Lokmat
+[2026-07-14 19:52:16] [INFO] 10 articles
+[2026-07-14 19:52:16] [WARNING] Skipped : Loksatta
+[2026-07-14 19:52:16] [INFO] Removing duplicates
+[2026-07-14 19:52:16] [INFO] Unique Articles : 50
+[2026-07-14 19:52:16] [INFO] Categorizing
+[2026-07-14 19:52:16] [INFO] maharashtra : 5
+[2026-07-14 19:52:16] [INFO] india : 5
+[2026-07-14 19:52:16] [INFO] world : 5
+[2026-07-14 19:52:16] [INFO] sports : 3
+[2026-07-14 19:52:16] [INFO] business : 3
+[2026-07-14 19:52:16] [INFO] news.json updated
+[2026-07-14 19:52:16] [INFO] ============================================================
+[2026-07-14 19:52:16] [INFO] News Update Finished
+[2026-07-14 19:52:16] [INFO] ============================================================
+[2026-07-14 19:58:58] [INFO] ============================================================
+[2026-07-14 19:58:58] [INFO] News Update Started
+[2026-07-14 19:58:58] [INFO] ============================================================
+[2026-07-14 19:58:58] [INFO] Creating news structure
+[2026-07-14 19:58:58] [INFO] Reading : eSakal
+[2026-07-14 19:58:58] [INFO] Reading eSakal
+[2026-07-14 19:58:58] [ERROR] Download failed : https://www.esakal.com/sitemap/google-news.xml
+[2026-07-14 19:58:58] [ERROR] 404 Client Error: Not Found for url: https://www.esakal.com/sitemap/google-news.xml
+[2026-07-14 19:58:58] [INFO] 0 articles
+[2026-07-14 19:58:58] [INFO] Reading : Lokmat
+[2026-07-14 19:58:58] [INFO] Reading Lokmat
+[2026-07-14 19:58:58] [INFO] 10 articles
+[2026-07-14 19:58:58] [INFO] Reading : Lokmat
+[2026-07-14 19:58:58] [INFO] Reading Lokmat
+[2026-07-14 19:58:58] [INFO] 10 articles
+[2026-07-14 19:58:58] [INFO] Reading : Lokmat
+[2026-07-14 19:58:58] [INFO] Reading Lokmat
+[2026-07-14 19:58:59] [INFO] 10 articles
+[2026-07-14 19:58:59] [INFO] Reading : Lokmat
+[2026-07-14 19:58:59] [INFO] Reading Lokmat
+[2026-07-14 19:58:59] [INFO] 10 articles
+[2026-07-14 19:58:59] [INFO] Reading : Lokmat
+[2026-07-14 19:58:59] [INFO] Reading Lokmat
+[2026-07-14 19:58:59] [INFO] 10 articles
+[2026-07-14 19:58:59] [WARNING] Skipped : Loksatta
+[2026-07-14 19:58:59] [INFO] Removing duplicates
+[2026-07-14 19:58:59] [INFO] Unique Articles : 50
+[2026-07-14 19:58:59] [INFO] Categorizing
+[2026-07-14 19:58:59] [INFO] maharashtra : 5
+[2026-07-14 19:58:59] [INFO] india : 5
+[2026-07-14 19:58:59] [INFO] world : 5
+[2026-07-14 19:58:59] [INFO] sports : 3
+[2026-07-14 19:58:59] [INFO] business : 3
+[2026-07-14 19:58:59] [INFO] news.json updated
+[2026-07-14 19:58:59] [INFO] ============================================================
+[2026-07-14 19:58:59] [INFO] News Update Finished
+[2026-07-14 19:58:59] [INFO] ============================================================
+[2026-07-14 21:01:15] [INFO] ============================================================
+[2026-07-14 21:01:15] [INFO] News Update Started
+[2026-07-14 21:01:15] [INFO] ============================================================
+[2026-07-14 21:01:15] [INFO] Creating news structure
+[2026-07-14 21:01:15] [INFO] Reading : eSakal
+[2026-07-14 21:01:15] [INFO] Reading eSakal
+[2026-07-14 21:01:16] [INFO] 450 articles
+[2026-07-14 21:01:16] [INFO] Reading : Lokmat
+[2026-07-14 21:01:16] [INFO] Reading Lokmat
+[2026-07-14 21:01:16] [INFO] 10 articles
+[2026-07-14 21:01:16] [INFO] Reading : Lokmat
+[2026-07-14 21:01:16] [INFO] Reading Lokmat
+[2026-07-14 21:01:16] [INFO] 10 articles
+[2026-07-14 21:01:16] [INFO] Reading : Lokmat
+[2026-07-14 21:01:16] [INFO] Reading Lokmat
+[2026-07-14 21:01:16] [INFO] 10 articles
+[2026-07-14 21:01:16] [INFO] Reading : Lokmat
+[2026-07-14 21:01:16] [INFO] Reading Lokmat
+[2026-07-14 21:01:16] [INFO] 10 articles
+[2026-07-14 21:01:16] [INFO] Reading : Lokmat
+[2026-07-14 21:01:16] [INFO] Reading Lokmat
+[2026-07-14 21:01:16] [INFO] 10 articles
+[2026-07-14 21:01:16] [WARNING] Skipped : Loksatta
+[2026-07-14 21:01:16] [INFO] Removing duplicates
+[2026-07-14 21:01:16] [INFO] Unique Articles : 500
+[2026-07-14 21:01:16] [INFO] Categorizing
+[2026-07-14 21:01:16] [INFO] maharashtra : 5
+[2026-07-14 21:01:17] [INFO] india : 5
+[2026-07-14 21:01:17] [INFO] world : 5
+[2026-07-14 21:01:17] [INFO] sports : 3
+[2026-07-14 21:01:17] [INFO] business : 3
+[2026-07-14 21:01:17] [INFO] news.json updated
+[2026-07-14 21:01:17] [INFO] ============================================================
+[2026-07-14 21:01:17] [INFO] News Update Finished
+[2026-07-14 21:01:17] [INFO] ============================================================
+[2026-07-14 21:14:58] [INFO] ============================================================
+[2026-07-14 21:14:58] [INFO] News Update Started
+[2026-07-14 21:14:58] [INFO] ============================================================
+[2026-07-14 21:14:58] [INFO] Creating news structure
+[2026-07-14 21:14:58] [INFO] Reading : eSakal
+[2026-07-14 21:14:58] [INFO] Reading eSakal
+[2026-07-14 21:14:58] [INFO] 450 articles
+[2026-07-14 21:14:58] [INFO] Reading : Lokmat
+[2026-07-14 21:14:58] [INFO] Reading Lokmat
+[2026-07-14 21:14:58] [INFO] 10 articles
+[2026-07-14 21:14:58] [INFO] Reading : Lokmat
+[2026-07-14 21:14:58] [INFO] Reading Lokmat
+[2026-07-14 21:14:59] [INFO] 10 articles
+[2026-07-14 21:14:59] [INFO] Reading : Lokmat
+[2026-07-14 21:14:59] [INFO] Reading Lokmat
+[2026-07-14 21:14:59] [INFO] 10 articles
+[2026-07-14 21:15:00] [INFO] Reading : Lokmat
+[2026-07-14 21:15:00] [INFO] Reading Lokmat
+[2026-07-14 21:15:00] [INFO] 10 articles
+[2026-07-14 21:15:00] [INFO] Reading : Lokmat
+[2026-07-14 21:15:00] [INFO] Reading Lokmat
+[2026-07-14 21:15:00] [INFO] 10 articles
+[2026-07-14 21:15:00] [WARNING] Skipped : Loksatta
+[2026-07-14 21:15:00] [INFO] Removing duplicates
+[2026-07-14 21:15:00] [INFO] Unique Articles : 500
+[2026-07-14 21:15:00] [INFO] Categorizing
+[2026-07-14 21:15:00] [INFO] maharashtra : 5
+[2026-07-14 21:15:00] [INFO] india : 5
+[2026-07-14 21:15:00] [INFO] world : 5
+[2026-07-14 21:15:00] [INFO] sports : 3
+[2026-07-14 21:15:00] [INFO] business : 3
+[2026-07-14 21:15:00] [INFO] news.json updated
+[2026-07-14 21:15:00] [INFO] ============================================================
+[2026-07-14 21:15:00] [INFO] News Update Finished
+[2026-07-14 21:15:00] [INFO] ============================================================
+[2026-07-14 22:30:30] [INFO] ============================================================
+[2026-07-14 22:30:30] [INFO] News Update Started
+[2026-07-14 22:30:30] [INFO] ============================================================
+[2026-07-14 22:30:30] [INFO] Creating news structure
+[2026-07-14 22:30:30] [INFO] Reading : eSakal
+[2026-07-14 22:30:30] [INFO] Reading eSakal
+[2026-07-14 22:30:31] [INFO] 453 articles
+[2026-07-14 22:30:31] [INFO] Reading : Lokmat
+[2026-07-14 22:30:31] [INFO] Reading Lokmat
+[2026-07-14 22:30:31] [INFO] 10 articles
+[2026-07-14 22:30:31] [INFO] Reading : Lokmat
+[2026-07-14 22:30:31] [INFO] Reading Lokmat
+[2026-07-14 22:30:31] [INFO] 10 articles
+[2026-07-14 22:30:31] [INFO] Reading : Lokmat
+[2026-07-14 22:30:32] [INFO] Reading Lokmat
+[2026-07-14 22:30:32] [INFO] 10 articles
+[2026-07-14 22:30:32] [INFO] Reading : Lokmat
+[2026-07-14 22:30:32] [INFO] Reading Lokmat
+[2026-07-14 22:30:32] [INFO] 10 articles
+[2026-07-14 22:30:32] [INFO] Reading : Lokmat
+[2026-07-14 22:30:32] [INFO] Reading Lokmat
+[2026-07-14 22:30:32] [INFO] 10 articles
+[2026-07-14 22:30:32] [WARNING] Skipped : Loksatta
+[2026-07-14 22:30:32] [INFO] Removing duplicates
+[2026-07-14 22:30:32] [INFO] Unique Articles : 503
+[2026-07-14 22:30:33] [INFO] Categorizing
+[2026-07-14 22:30:33] [INFO] maharashtra : 5
+[2026-07-14 22:30:33] [INFO] india : 5
+[2026-07-14 22:30:33] [INFO] world : 5
+[2026-07-14 22:30:33] [INFO] sports : 3
+[2026-07-14 22:30:33] [INFO] business : 3
+[2026-07-14 22:30:33] [INFO] news.json updated
+[2026-07-14 22:30:33] [INFO] ============================================================
+[2026-07-14 22:30:33] [INFO] News Update Finished
+[2026-07-14 22:30:33] [INFO] ============================================================
+[2026-07-14 22:43:50] [INFO] ============================================================
+[2026-07-14 22:43:50] [INFO] News Update Started
+[2026-07-14 22:43:50] [INFO] ============================================================
+[2026-07-14 22:43:50] [INFO] Creating news structure
+[2026-07-14 22:43:50] [INFO] Reading : eSakal
+[2026-07-14 22:43:50] [INFO] Reading eSakal
+[2026-07-14 22:43:51] [INFO] 455 articles
+[2026-07-14 22:43:51] [INFO] Reading : Lokmat
+[2026-07-14 22:43:51] [INFO] Reading Lokmat
+[2026-07-14 22:43:51] [INFO] 0 articles
+[2026-07-14 22:43:51] [INFO] Reading : Loksatta
+[2026-07-14 22:43:51] [INFO] Reading Loksatta
+[2026-07-14 22:43:51] [INFO] 671 articles
+[2026-07-14 22:43:51] [INFO] Reading : Maharashtra Times
+[2026-07-14 22:43:51] [INFO] Reading Maharashtra Times
+[2026-07-14 22:43:51] [INFO] 283 articles
+[2026-07-14 22:43:51] [INFO] Removing duplicates
+[2026-07-14 22:43:51] [INFO] Unique Articles : 1409
+[2026-07-14 22:43:51] [INFO] Categorizing
+[2026-07-14 22:43:52] [INFO] maharashtra : 5
+[2026-07-14 22:43:52] [INFO] india : 5
+[2026-07-14 22:43:52] [INFO] world : 5
+[2026-07-14 22:43:52] [INFO] sports : 3
+[2026-07-14 22:43:52] [INFO] business : 3
+[2026-07-14 22:43:52] [INFO] news.json updated
+[2026-07-14 22:43:52] [INFO] ============================================================
+[2026-07-14 22:43:52] [INFO] News Update Finished
+[2026-07-14 22:43:52] [INFO] ============================================================
+[2026-07-15 10:04:45] [INFO] ============================================================
+[2026-07-15 10:04:45] [INFO] News Update Started
+[2026-07-15 10:04:45] [INFO] ============================================================
+[2026-07-15 10:04:45] [INFO] Creating news structure
+[2026-07-15 10:04:45] [INFO] Reading : eSakal
+[2026-07-15 10:04:45] [INFO] Reading eSakal
+[2026-07-15 10:04:45] [INFO] 463 articles
+[2026-07-15 10:04:45] [INFO] Reading : Lokmat
+[2026-07-15 10:04:45] [INFO] Reading Lokmat
+[2026-07-15 10:04:45] [INFO] 0 articles
+[2026-07-15 10:04:45] [INFO] Reading : Loksatta
+[2026-07-15 10:04:45] [INFO] Reading Loksatta
+[2026-07-15 10:04:50] [INFO] 701 articles
+[2026-07-15 10:04:50] [INFO] Reading : Maharashtra Times
+[2026-07-15 10:04:50] [INFO] Reading Maharashtra Times
+[2026-07-15 10:04:50] [INFO] 284 articles
+[2026-07-15 10:04:50] [INFO] Removing duplicates
+[2026-07-15 10:04:50] [INFO] Unique Articles : 1448
+[2026-07-15 10:04:50] [INFO] Categorizing
+[2026-07-15 10:04:50] [INFO] maharashtra : 5
+[2026-07-15 10:04:50] [INFO] india : 5
+[2026-07-15 10:04:50] [INFO] world : 5
+[2026-07-15 10:04:50] [INFO] sports : 3
+[2026-07-15 10:04:50] [INFO] business : 3
+[2026-07-15 10:04:50] [INFO] news.json updated
+[2026-07-15 10:04:50] [INFO] ============================================================
+[2026-07-15 10:04:50] [INFO] News Update Finished
+[2026-07-15 10:04:50] [INFO] ============================================================
+[2026-07-15 11:18:46] [INFO] ============================================================
+[2026-07-15 11:18:46] [INFO] News Update Started
+[2026-07-15 11:18:46] [INFO] ============================================================
+[2026-07-15 11:18:46] [INFO] Creating news structure
+[2026-07-15 11:18:46] [INFO] Reading : eSakal
+[2026-07-15 11:18:46] [INFO] Reading eSakal
+[2026-07-15 11:18:47] [INFO] Unique Articles : 466
+[2026-07-15 11:18:47] [INFO] 466 articles
+[2026-07-15 11:18:47] [INFO] Reading : Lokmat
+[2026-07-15 11:18:47] [INFO] Reading Lokmat
+[2026-07-15 11:44:34] [INFO] ============================================================
+[2026-07-15 11:44:34] [INFO] News Update Started
+[2026-07-15 11:44:34] [INFO] ============================================================
+[2026-07-15 11:44:34] [INFO] Creating news structure
+[2026-07-15 11:44:34] [INFO] Reading : eSakal
+[2026-07-15 11:44:34] [INFO] Reading eSakal
+[2026-07-15 11:44:34] [INFO] eSakal : 465 urls
+[2026-07-15 11:44:34] [INFO] eSakal Sitemap : 465 articles
+[2026-07-15 11:44:34] [INFO] Unique Articles : 465
+[2026-07-15 11:44:34] [INFO] 465 articles
+[2026-07-15 11:44:34] [INFO] Reading : Lokmat
+[2026-07-15 11:44:34] [INFO] Reading Lokmat
+[2026-07-15 11:44:34] [INFO] Lokmat : 3022 urls
+[2026-07-15 12:04:55] [INFO] ============================================================
+[2026-07-15 12:04:55] [INFO] News Update Started
+[2026-07-15 12:04:55] [INFO] ============================================================
+[2026-07-15 12:04:55] [INFO] Creating news structure
+[2026-07-15 12:04:55] [INFO] Reading : eSakal
+[2026-07-15 12:04:55] [INFO] Reading eSakal
+[2026-07-15 12:04:55] [INFO] eSakal : Processing 200 latest urls
+[2026-07-15 12:04:55] [INFO] eSakal Sitemap : 200 articles
+[2026-07-15 12:04:55] [INFO] Unique Articles : 200
+[2026-07-15 12:04:55] [INFO] 200 articles
+[2026-07-15 12:04:55] [INFO] Reading : Lokmat
+[2026-07-15 12:04:55] [INFO] Reading Lokmat
+[2026-07-15 12:04:56] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-15 12:05:02] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-15 12:05:02] [INFO] Unique Articles : 50
+[2026-07-15 12:05:02] [INFO] 50 articles
+[2026-07-15 12:05:02] [INFO] Reading : Loksatta
+[2026-07-15 12:05:02] [INFO] Reading Loksatta
+[2026-07-15 12:05:02] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-15 12:05:02] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-15 12:05:02] [INFO] Unique Articles : 100
+[2026-07-15 12:05:02] [INFO] 100 articles
+[2026-07-15 12:05:02] [INFO] Reading : Maharashtra Times
+[2026-07-15 12:05:02] [INFO] Reading Maharashtra Times
+[2026-07-15 12:05:03] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-15 12:05:03] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-15 12:05:03] [INFO] Unique Articles : 100
+[2026-07-15 12:05:03] [INFO] 100 articles
+[2026-07-15 12:05:03] [INFO] Removing duplicates
+[2026-07-15 12:05:03] [INFO] Unique Articles : 450
+[2026-07-15 12:05:03] [INFO] Categorizing
+[2026-07-15 12:05:03] [INFO] maharashtra : 5
+[2026-07-15 12:05:03] [INFO] india : 5
+[2026-07-15 12:05:03] [INFO] world : 5
+[2026-07-15 12:05:03] [INFO] sports : 3
+[2026-07-15 12:05:03] [INFO] business : 3
+[2026-07-15 12:05:03] [INFO] news.json updated
+[2026-07-15 12:05:03] [INFO] ============================================================
+[2026-07-15 12:05:03] [INFO] News Update Finished
+[2026-07-15 12:05:03] [INFO] ============================================================
+[2026-07-16 13:57:06] [INFO] ============================================================
+[2026-07-16 13:57:06] [INFO] News Update Started
+[2026-07-16 13:57:06] [INFO] ============================================================
+[2026-07-16 13:57:06] [INFO] Creating news structure
+[2026-07-16 13:57:06] [INFO] Reading : eSakal
+[2026-07-16 13:57:06] [INFO] Reading eSakal
+[2026-07-16 13:57:07] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 13:57:07] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 13:57:07] [INFO] Unique Articles : 200
+[2026-07-16 13:57:07] [INFO] 200 articles
+[2026-07-16 13:57:07] [INFO] Reading : Lokmat
+[2026-07-16 13:57:07] [INFO] Reading Lokmat
+[2026-07-16 13:57:07] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 13:57:23] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 13:57:23] [INFO] Unique Articles : 50
+[2026-07-16 13:57:23] [INFO] 50 articles
+[2026-07-16 13:57:23] [INFO] Reading : Loksatta
+[2026-07-16 13:57:23] [INFO] Reading Loksatta
+[2026-07-16 13:57:28] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 13:57:28] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 13:57:28] [INFO] Unique Articles : 100
+[2026-07-16 13:57:28] [INFO] 100 articles
+[2026-07-16 13:57:28] [INFO] Reading : Maharashtra Times
+[2026-07-16 13:57:28] [INFO] Reading Maharashtra Times
+[2026-07-16 13:57:28] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 13:57:28] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 13:57:28] [INFO] Unique Articles : 100
+[2026-07-16 13:57:28] [INFO] 100 articles
+[2026-07-16 13:57:28] [INFO] Removing duplicates
+[2026-07-16 13:57:28] [INFO] Unique Articles : 450
+[2026-07-16 13:57:28] [INFO] Categorizing
+[2026-07-16 13:57:28] [INFO] maharashtra : 5
+[2026-07-16 13:57:28] [INFO] india : 5
+[2026-07-16 13:57:28] [INFO] world : 5
+[2026-07-16 13:57:28] [INFO] sports : 3
+[2026-07-16 13:57:28] [INFO] business : 3
+[2026-07-16 13:57:28] [INFO] news.json updated
+[2026-07-16 13:57:28] [INFO] ============================================================
+[2026-07-16 13:57:28] [INFO] News Update Finished
+[2026-07-16 13:57:28] [INFO] ============================================================
+[2026-07-16 14:39:32] [INFO] ============================================================
+[2026-07-16 14:39:32] [INFO] News Update Started
+[2026-07-16 14:39:32] [INFO] ============================================================
+[2026-07-16 14:39:32] [INFO] Creating news structure
+[2026-07-16 14:39:32] [INFO] Reading : eSakal
+[2026-07-16 14:39:32] [INFO] Reading eSakal
+[2026-07-16 14:39:33] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 14:39:33] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 14:39:33] [INFO] Unique Articles : 200
+[2026-07-16 14:39:33] [INFO] 200 articles
+[2026-07-16 14:39:33] [INFO] Reading : Lokmat
+[2026-07-16 14:39:33] [INFO] Reading Lokmat
+[2026-07-16 14:39:33] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 14:39:47] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 14:39:47] [INFO] Unique Articles : 50
+[2026-07-16 14:39:47] [INFO] 50 articles
+[2026-07-16 14:39:47] [INFO] Reading : Loksatta
+[2026-07-16 14:39:47] [INFO] Reading Loksatta
+[2026-07-16 14:39:47] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 14:39:47] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 14:39:47] [INFO] Unique Articles : 100
+[2026-07-16 14:39:47] [INFO] 100 articles
+[2026-07-16 14:39:47] [INFO] Reading : Maharashtra Times
+[2026-07-16 14:39:47] [INFO] Reading Maharashtra Times
+[2026-07-16 14:39:47] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 14:39:47] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 14:39:47] [INFO] Unique Articles : 100
+[2026-07-16 14:39:47] [INFO] 100 articles
+[2026-07-16 14:39:47] [INFO] Removing duplicates
+[2026-07-16 14:39:47] [INFO] Unique Articles : 450
+[2026-07-16 14:39:47] [INFO] Categorizing
+[2026-07-16 14:39:47] [INFO] maharashtra : 5
+[2026-07-16 14:39:47] [INFO] india : 5
+[2026-07-16 14:39:47] [INFO] world : 5
+[2026-07-16 14:39:47] [INFO] sports : 3
+[2026-07-16 14:39:47] [INFO] business : 3
+[2026-07-16 14:39:47] [INFO] news.json updated
+[2026-07-16 14:39:47] [INFO] ============================================================
+[2026-07-16 14:39:47] [INFO] News Update Finished
+[2026-07-16 14:39:47] [INFO] ============================================================
+[2026-07-16 16:12:22] [INFO] ============================================================
+[2026-07-16 16:12:22] [INFO] News Update Started
+[2026-07-16 16:12:22] [INFO] ============================================================
+[2026-07-16 16:12:22] [INFO] Creating news structure
+[2026-07-16 16:12:22] [INFO] Reading : eSakal
+[2026-07-16 16:12:22] [INFO] Reading eSakal
+[2026-07-16 16:12:22] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 16:12:22] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 16:12:22] [INFO] Unique Articles : 200
+[2026-07-16 16:12:22] [INFO] 200 articles
+[2026-07-16 16:12:22] [INFO] Reading : Lokmat
+[2026-07-16 16:12:22] [INFO] Reading Lokmat
+[2026-07-16 16:12:23] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 16:12:33] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 16:12:33] [INFO] Unique Articles : 50
+[2026-07-16 16:12:33] [INFO] 50 articles
+[2026-07-16 16:12:33] [INFO] Reading : Loksatta
+[2026-07-16 16:12:33] [INFO] Reading Loksatta
+[2026-07-16 16:12:34] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 16:12:34] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 16:12:34] [INFO] Unique Articles : 100
+[2026-07-16 16:12:34] [INFO] 100 articles
+[2026-07-16 16:12:34] [INFO] Reading : Maharashtra Times
+[2026-07-16 16:12:34] [INFO] Reading Maharashtra Times
+[2026-07-16 16:12:34] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 16:12:34] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 16:12:34] [INFO] Unique Articles : 100
+[2026-07-16 16:12:34] [INFO] 100 articles
+[2026-07-16 16:12:34] [INFO] Removing duplicates
+[2026-07-16 16:12:34] [INFO] Unique Articles : 450
+[2026-07-16 16:12:34] [INFO] Categorizing
+[2026-07-16 16:12:34] [INFO] maharashtra : 5
+[2026-07-16 16:12:34] [INFO] india : 5
+[2026-07-16 16:12:34] [INFO] world : 5
+[2026-07-16 16:12:34] [INFO] sports : 3
+[2026-07-16 16:12:34] [INFO] business : 3
+[2026-07-16 16:12:34] [INFO] news.json updated
+[2026-07-16 16:12:34] [INFO] ============================================================
+[2026-07-16 16:12:34] [INFO] News Update Finished
+[2026-07-16 16:12:34] [INFO] ============================================================
+[2026-07-16 16:37:10] [INFO] ============================================================
+[2026-07-16 16:37:10] [INFO] News Update Started
+[2026-07-16 16:37:10] [INFO] ============================================================
+[2026-07-16 16:37:10] [INFO] Creating news structure
+[2026-07-16 16:37:10] [INFO] Reading : eSakal
+[2026-07-16 16:37:10] [INFO] Reading eSakal
+[2026-07-16 16:37:10] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 16:37:11] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 16:37:11] [INFO] Unique Articles : 200
+[2026-07-16 16:37:11] [INFO] 200 articles
+[2026-07-16 16:37:11] [INFO] Reading : Lokmat
+[2026-07-16 16:37:11] [INFO] Reading Lokmat
+[2026-07-16 16:37:11] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 16:37:18] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 16:37:18] [INFO] Unique Articles : 50
+[2026-07-16 16:37:18] [INFO] 50 articles
+[2026-07-16 16:37:18] [INFO] Reading : Loksatta
+[2026-07-16 16:37:18] [INFO] Reading Loksatta
+[2026-07-16 16:37:18] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 16:37:18] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 16:37:18] [INFO] Unique Articles : 100
+[2026-07-16 16:37:18] [INFO] 100 articles
+[2026-07-16 16:37:18] [INFO] Reading : Maharashtra Times
+[2026-07-16 16:37:18] [INFO] Reading Maharashtra Times
+[2026-07-16 16:37:19] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 16:37:19] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 16:37:19] [INFO] Unique Articles : 100
+[2026-07-16 16:37:19] [INFO] 100 articles
+[2026-07-16 16:37:19] [INFO] Removing duplicates
+[2026-07-16 16:37:19] [INFO] Unique Articles : 450
+[2026-07-16 16:37:19] [INFO] Categorizing
+[2026-07-16 16:37:19] [INFO] maharashtra : 5
+[2026-07-16 16:37:19] [INFO] india : 5
+[2026-07-16 16:37:19] [INFO] world : 5
+[2026-07-16 16:37:19] [INFO] sports : 3
+[2026-07-16 16:37:19] [INFO] business : 3
+[2026-07-16 16:37:19] [INFO] news.json updated
+[2026-07-16 16:37:19] [INFO] ============================================================
+[2026-07-16 16:37:19] [INFO] News Update Finished
+[2026-07-16 16:37:19] [INFO] ============================================================
+[2026-07-16 16:52:51] [INFO] ============================================================
+[2026-07-16 16:52:51] [INFO] News Update Started
+[2026-07-16 16:52:51] [INFO] ============================================================
+[2026-07-16 16:52:51] [INFO] Creating news structure
+[2026-07-16 16:52:51] [INFO] Reading : eSakal
+[2026-07-16 16:52:51] [INFO] Reading eSakal
+[2026-07-16 16:52:51] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 16:52:51] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 16:52:51] [INFO] Unique Articles : 200
+[2026-07-16 16:52:51] [INFO] 200 articles
+[2026-07-16 16:52:51] [INFO] Reading : Lokmat
+[2026-07-16 16:52:51] [INFO] Reading Lokmat
+[2026-07-16 16:52:51] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 16:52:55] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 16:52:55] [INFO] Unique Articles : 50
+[2026-07-16 16:52:55] [INFO] 50 articles
+[2026-07-16 16:52:55] [INFO] Reading : Loksatta
+[2026-07-16 16:52:55] [INFO] Reading Loksatta
+[2026-07-16 16:53:00] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 16:53:00] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 16:53:00] [INFO] Unique Articles : 100
+[2026-07-16 16:53:00] [INFO] 100 articles
+[2026-07-16 16:53:00] [INFO] Reading : Maharashtra Times
+[2026-07-16 16:53:00] [INFO] Reading Maharashtra Times
+[2026-07-16 16:53:00] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 16:53:00] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 16:53:00] [INFO] Unique Articles : 100
+[2026-07-16 16:53:00] [INFO] 100 articles
+[2026-07-16 16:53:00] [INFO] Removing duplicates
+[2026-07-16 16:53:00] [INFO] Unique Articles : 450
+[2026-07-16 16:53:00] [INFO] Categorizing
+[2026-07-16 16:53:00] [INFO] maharashtra : 5
+[2026-07-16 16:53:00] [INFO] india : 5
+[2026-07-16 16:53:00] [INFO] world : 5
+[2026-07-16 16:53:00] [INFO] sports : 3
+[2026-07-16 16:53:00] [INFO] business : 3
+[2026-07-16 16:53:00] [INFO] news.json updated
+[2026-07-16 16:53:00] [INFO] ============================================================
+[2026-07-16 16:53:00] [INFO] News Update Finished
+[2026-07-16 16:53:00] [INFO] ============================================================
+[2026-07-16 18:23:58] [INFO] ============================================================
+[2026-07-16 18:23:58] [INFO] News Update Started
+[2026-07-16 18:23:58] [INFO] ============================================================
+[2026-07-16 18:23:58] [INFO] Creating news structure
+[2026-07-16 18:23:58] [INFO] Reading : eSakal
+[2026-07-16 18:23:58] [INFO] Reading eSakal
+[2026-07-16 18:23:58] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 18:23:58] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 18:23:58] [INFO] Unique Articles : 200
+[2026-07-16 18:23:58] [INFO] 200 articles
+[2026-07-16 18:23:58] [INFO] Reading : Lokmat
+[2026-07-16 18:23:58] [INFO] Reading Lokmat
+[2026-07-16 18:23:59] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 18:24:08] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 18:24:08] [INFO] Unique Articles : 50
+[2026-07-16 18:24:08] [INFO] 50 articles
+[2026-07-16 18:24:08] [INFO] Reading : Loksatta
+[2026-07-16 18:24:08] [INFO] Reading Loksatta
+[2026-07-16 18:24:13] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 18:24:13] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 18:24:13] [INFO] Unique Articles : 100
+[2026-07-16 18:24:13] [INFO] 100 articles
+[2026-07-16 18:24:13] [INFO] Reading : Maharashtra Times
+[2026-07-16 18:24:13] [INFO] Reading Maharashtra Times
+[2026-07-16 18:24:13] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 18:24:13] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 18:24:13] [INFO] Unique Articles : 100
+[2026-07-16 18:24:13] [INFO] 100 articles
+[2026-07-16 18:24:13] [INFO] Removing duplicates
+[2026-07-16 18:24:13] [INFO] Unique Articles : 450
+[2026-07-16 18:24:13] [INFO] Categorizing
+[2026-07-16 18:24:13] [INFO] maharashtra : 5
+[2026-07-16 18:24:13] [INFO] india : 5
+[2026-07-16 18:24:13] [INFO] world : 5
+[2026-07-16 18:24:13] [INFO] sports : 3
+[2026-07-16 18:24:13] [INFO] business : 3
+[2026-07-16 18:24:13] [INFO] news.json updated
+[2026-07-16 18:24:13] [INFO] ============================================================
+[2026-07-16 18:24:13] [INFO] News Update Finished
+[2026-07-16 18:24:13] [INFO] ============================================================
+[2026-07-16 18:55:53] [INFO] ============================================================
+[2026-07-16 18:55:53] [INFO] News Update Started
+[2026-07-16 18:55:53] [INFO] ============================================================
+[2026-07-16 18:55:53] [INFO] Creating news structure
+[2026-07-16 18:55:53] [INFO] Reading : eSakal
+[2026-07-16 18:55:53] [INFO] Reading eSakal
+[2026-07-16 18:55:53] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 18:55:53] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 18:55:53] [INFO] Unique Articles : 200
+[2026-07-16 18:55:53] [INFO] 200 articles
+[2026-07-16 18:55:53] [INFO] Reading : Lokmat
+[2026-07-16 18:55:53] [INFO] Reading Lokmat
+[2026-07-16 18:55:53] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 18:56:05] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 18:56:05] [INFO] Unique Articles : 50
+[2026-07-16 18:56:05] [INFO] 50 articles
+[2026-07-16 18:56:05] [INFO] Reading : Loksatta
+[2026-07-16 18:56:05] [INFO] Reading Loksatta
+[2026-07-16 18:56:05] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 18:56:05] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 18:56:05] [INFO] Unique Articles : 100
+[2026-07-16 18:56:05] [INFO] 100 articles
+[2026-07-16 18:56:05] [INFO] Reading : Maharashtra Times
+[2026-07-16 18:56:05] [INFO] Reading Maharashtra Times
+[2026-07-16 18:56:06] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 18:56:06] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 18:56:06] [INFO] Unique Articles : 100
+[2026-07-16 18:56:06] [INFO] 100 articles
+[2026-07-16 18:56:06] [INFO] Removing duplicates
+[2026-07-16 18:56:06] [INFO] Unique Articles : 450
+[2026-07-16 18:56:06] [INFO] Categorizing
+[2026-07-16 18:56:06] [INFO] maharashtra : 5
+[2026-07-16 18:56:06] [INFO] india : 5
+[2026-07-16 18:56:06] [INFO] world : 5
+[2026-07-16 18:56:06] [INFO] sports : 3
+[2026-07-16 18:56:06] [INFO] business : 3
+[2026-07-16 18:56:06] [INFO] news.json updated
+[2026-07-16 18:56:06] [INFO] ============================================================
+[2026-07-16 18:56:06] [INFO] News Update Finished
+[2026-07-16 18:56:06] [INFO] ============================================================
+[2026-07-16 19:14:21] [INFO] ============================================================
+[2026-07-16 19:14:21] [INFO] News Update Started
+[2026-07-16 19:14:21] [INFO] ============================================================
+[2026-07-16 19:14:21] [INFO] Creating news structure
+[2026-07-16 19:14:21] [INFO] Reading : eSakal
+[2026-07-16 19:14:21] [INFO] Reading eSakal
+[2026-07-16 19:14:21] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 19:14:21] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 19:14:21] [INFO] Unique Articles : 200
+[2026-07-16 19:14:21] [INFO] 200 articles
+[2026-07-16 19:14:21] [INFO] Reading : Lokmat
+[2026-07-16 19:14:21] [INFO] Reading Lokmat
+[2026-07-16 19:14:21] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 19:14:29] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 19:14:29] [INFO] Unique Articles : 50
+[2026-07-16 19:14:29] [INFO] 50 articles
+[2026-07-16 19:14:29] [INFO] Reading : Loksatta
+[2026-07-16 19:14:29] [INFO] Reading Loksatta
+[2026-07-16 19:14:29] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 19:14:29] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 19:14:29] [INFO] Unique Articles : 100
+[2026-07-16 19:14:29] [INFO] 100 articles
+[2026-07-16 19:14:29] [INFO] Reading : Maharashtra Times
+[2026-07-16 19:14:30] [INFO] Reading Maharashtra Times
+[2026-07-16 19:14:30] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 19:14:30] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 19:14:30] [INFO] Unique Articles : 100
+[2026-07-16 19:14:30] [INFO] 100 articles
+[2026-07-16 19:14:30] [INFO] Removing duplicates
+[2026-07-16 19:14:30] [INFO] Unique Articles : 450
+[2026-07-16 19:14:30] [INFO] Categorizing
+[2026-07-16 19:14:30] [INFO] maharashtra : 5
+[2026-07-16 19:14:30] [INFO] india : 5
+[2026-07-16 19:14:30] [INFO] world : 5
+[2026-07-16 19:14:30] [INFO] sports : 3
+[2026-07-16 19:14:30] [INFO] business : 3
+[2026-07-16 19:14:30] [INFO] news.json updated
+[2026-07-16 19:14:30] [INFO] ============================================================
+[2026-07-16 19:14:30] [INFO] News Update Finished
+[2026-07-16 19:14:30] [INFO] ============================================================
+[2026-07-16 19:22:06] [INFO] ============================================================
+[2026-07-16 19:22:06] [INFO] News Update Started
+[2026-07-16 19:22:06] [INFO] ============================================================
+[2026-07-16 19:22:06] [INFO] Creating news structure
+[2026-07-16 19:22:06] [INFO] Reading : eSakal
+[2026-07-16 19:22:06] [INFO] Reading eSakal
+[2026-07-16 19:22:06] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 19:22:06] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 19:22:06] [INFO] Unique Articles : 200
+[2026-07-16 19:22:06] [INFO] 200 articles
+[2026-07-16 19:22:06] [INFO] Reading : Lokmat
+[2026-07-16 19:22:06] [INFO] Reading Lokmat
+[2026-07-16 19:22:06] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 19:22:15] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 19:22:15] [INFO] Unique Articles : 50
+[2026-07-16 19:22:15] [INFO] 50 articles
+[2026-07-16 19:22:15] [INFO] Reading : Loksatta
+[2026-07-16 19:22:15] [INFO] Reading Loksatta
+[2026-07-16 19:22:19] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 19:22:19] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 19:22:19] [INFO] Unique Articles : 100
+[2026-07-16 19:22:19] [INFO] 100 articles
+[2026-07-16 19:22:19] [INFO] Reading : Maharashtra Times
+[2026-07-16 19:22:19] [INFO] Reading Maharashtra Times
+[2026-07-16 19:22:19] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 19:22:19] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 19:22:19] [INFO] Unique Articles : 100
+[2026-07-16 19:22:19] [INFO] 100 articles
+[2026-07-16 19:22:19] [INFO] Removing duplicates
+[2026-07-16 19:22:19] [INFO] Unique Articles : 450
+[2026-07-16 19:22:19] [INFO] Categorizing
+[2026-07-16 19:22:19] [INFO] maharashtra : 5
+[2026-07-16 19:22:19] [INFO] india : 5
+[2026-07-16 19:22:19] [INFO] world : 5
+[2026-07-16 19:22:19] [INFO] sports : 3
+[2026-07-16 19:22:19] [INFO] business : 3
+[2026-07-16 19:22:19] [INFO] news.json updated
+[2026-07-16 19:22:19] [INFO] ============================================================
+[2026-07-16 19:22:19] [INFO] News Update Finished
+[2026-07-16 19:22:19] [INFO] ============================================================
+[2026-07-16 19:59:06] [INFO] ============================================================
+[2026-07-16 19:59:06] [INFO] News Update Started
+[2026-07-16 19:59:06] [INFO] ============================================================
+[2026-07-16 19:59:06] [INFO] Creating news structure
+[2026-07-16 19:59:06] [INFO] Reading : eSakal
+[2026-07-16 19:59:06] [INFO] Reading eSakal
+[2026-07-16 19:59:07] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 19:59:07] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 19:59:07] [INFO] Unique Articles : 200
+[2026-07-16 19:59:07] [INFO] 200 articles
+[2026-07-16 19:59:07] [INFO] Reading : Lokmat
+[2026-07-16 19:59:07] [INFO] Reading Lokmat
+[2026-07-16 19:59:07] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 19:59:16] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 19:59:16] [INFO] Unique Articles : 50
+[2026-07-16 19:59:16] [INFO] 50 articles
+[2026-07-16 19:59:16] [INFO] Reading : Loksatta
+[2026-07-16 19:59:16] [INFO] Reading Loksatta
+[2026-07-16 19:59:17] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 19:59:17] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 19:59:17] [INFO] Unique Articles : 100
+[2026-07-16 19:59:17] [INFO] 100 articles
+[2026-07-16 19:59:17] [INFO] Reading : Maharashtra Times
+[2026-07-16 19:59:17] [INFO] Reading Maharashtra Times
+[2026-07-16 19:59:17] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 19:59:17] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 19:59:17] [INFO] Unique Articles : 100
+[2026-07-16 19:59:17] [INFO] 100 articles
+[2026-07-16 19:59:17] [INFO] Removing duplicates
+[2026-07-16 19:59:17] [INFO] Unique Articles : 450
+[2026-07-16 19:59:17] [INFO] Categorizing
+[2026-07-16 19:59:18] [INFO] maharashtra : 5
+[2026-07-16 19:59:18] [INFO] india : 5
+[2026-07-16 19:59:18] [INFO] world : 5
+[2026-07-16 19:59:18] [INFO] sports : 3
+[2026-07-16 19:59:18] [INFO] business : 3
+[2026-07-16 19:59:18] [INFO] news.json updated
+[2026-07-16 19:59:18] [INFO] ============================================================
+[2026-07-16 19:59:18] [INFO] News Update Finished
+[2026-07-16 19:59:18] [INFO] ============================================================
+[2026-07-16 20:09:48] [INFO] ============================================================
+[2026-07-16 20:09:48] [INFO] News Update Started
+[2026-07-16 20:09:48] [INFO] ============================================================
+[2026-07-16 20:09:48] [INFO] Creating news structure
+[2026-07-16 20:09:48] [INFO] Reading : eSakal
+[2026-07-16 20:09:48] [INFO] Reading eSakal
+[2026-07-16 20:09:48] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 20:09:48] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 20:09:48] [INFO] Unique Articles : 200
+[2026-07-16 20:09:48] [INFO] 200 articles
+[2026-07-16 20:09:48] [INFO] Reading : Lokmat
+[2026-07-16 20:09:48] [INFO] Reading Lokmat
+[2026-07-16 20:09:48] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 20:09:54] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 20:09:54] [INFO] Unique Articles : 50
+[2026-07-16 20:09:54] [INFO] 50 articles
+[2026-07-16 20:09:54] [INFO] Reading : Loksatta
+[2026-07-16 20:09:54] [INFO] Reading Loksatta
+[2026-07-16 20:09:54] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 20:09:54] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 20:09:54] [INFO] Unique Articles : 100
+[2026-07-16 20:09:54] [INFO] 100 articles
+[2026-07-16 20:09:54] [INFO] Reading : Maharashtra Times
+[2026-07-16 20:09:54] [INFO] Reading Maharashtra Times
+[2026-07-16 20:09:55] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 20:09:55] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 20:09:55] [INFO] Unique Articles : 100
+[2026-07-16 20:09:55] [INFO] 100 articles
+[2026-07-16 20:09:55] [INFO] Removing duplicates
+[2026-07-16 20:09:55] [INFO] Unique Articles : 450
+[2026-07-16 20:09:55] [INFO] Categorizing
+[2026-07-16 20:09:57] [INFO] maharashtra : 5
+[2026-07-16 20:09:57] [INFO] india : 5
+[2026-07-16 20:09:57] [INFO] world : 5
+[2026-07-16 20:09:57] [INFO] sports : 3
+[2026-07-16 20:09:57] [INFO] business : 3
+[2026-07-16 20:09:57] [INFO] news.json updated
+[2026-07-16 20:09:57] [INFO] ============================================================
+[2026-07-16 20:09:57] [INFO] News Update Finished
+[2026-07-16 20:09:57] [INFO] ============================================================
+[2026-07-16 20:33:04] [INFO] ============================================================
+[2026-07-16 20:33:04] [INFO] News Update Started
+[2026-07-16 20:33:04] [INFO] ============================================================
+[2026-07-16 20:33:04] [INFO] Creating news structure
+[2026-07-16 20:33:04] [INFO] Reading : eSakal
+[2026-07-16 20:33:04] [INFO] Reading eSakal
+[2026-07-16 20:33:05] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 20:33:05] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 20:33:05] [INFO] Unique Articles : 200
+[2026-07-16 20:33:05] [INFO] 200 articles
+[2026-07-16 20:33:05] [INFO] Reading : Lokmat
+[2026-07-16 20:33:05] [INFO] Reading Lokmat
+[2026-07-16 20:33:05] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 20:33:19] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 20:33:19] [INFO] Unique Articles : 50
+[2026-07-16 20:33:19] [INFO] 50 articles
+[2026-07-16 20:33:19] [INFO] Reading : Loksatta
+[2026-07-16 20:33:19] [INFO] Reading Loksatta
+[2026-07-16 20:33:27] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 20:33:27] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 20:33:27] [INFO] Unique Articles : 100
+[2026-07-16 20:33:27] [INFO] 100 articles
+[2026-07-16 20:33:27] [INFO] Reading : Maharashtra Times
+[2026-07-16 20:33:27] [INFO] Reading Maharashtra Times
+[2026-07-16 20:33:28] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 20:33:28] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 20:33:28] [INFO] Unique Articles : 100
+[2026-07-16 20:33:28] [INFO] 100 articles
+[2026-07-16 20:33:28] [INFO] Removing duplicates
+[2026-07-16 20:33:28] [INFO] Unique Articles : 450
+[2026-07-16 20:33:28] [INFO] Categorizing
+[2026-07-16 20:33:30] [INFO] maharashtra : 5
+[2026-07-16 20:33:30] [INFO] india : 5
+[2026-07-16 20:33:30] [INFO] world : 5
+[2026-07-16 20:33:30] [INFO] sports : 3
+[2026-07-16 20:33:30] [INFO] business : 3
+[2026-07-16 20:33:30] [INFO] news.json updated
+[2026-07-16 20:33:30] [INFO] ============================================================
+[2026-07-16 20:33:30] [INFO] News Update Finished
+[2026-07-16 20:33:30] [INFO] ============================================================
+[2026-07-16 21:18:17] [INFO] ============================================================
+[2026-07-16 21:18:17] [INFO] News Update Started
+[2026-07-16 21:18:17] [INFO] ============================================================
+[2026-07-16 21:18:17] [INFO] Creating news structure
+[2026-07-16 21:18:17] [INFO] Reading : eSakal
+[2026-07-16 21:18:17] [INFO] Reading eSakal
+[2026-07-16 21:18:17] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 21:18:17] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 21:18:17] [INFO] Unique Articles : 200
+[2026-07-16 21:18:17] [INFO] 200 articles
+[2026-07-16 21:18:17] [INFO] Reading : Lokmat
+[2026-07-16 21:18:17] [INFO] Reading Lokmat
+[2026-07-16 21:18:17] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 21:18:30] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 21:18:30] [INFO] Unique Articles : 50
+[2026-07-16 21:18:30] [INFO] 50 articles
+[2026-07-16 21:18:30] [INFO] Reading : Loksatta
+[2026-07-16 21:18:30] [INFO] Reading Loksatta
+[2026-07-16 21:18:30] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 21:18:30] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 21:18:30] [INFO] Unique Articles : 100
+[2026-07-16 21:18:30] [INFO] 100 articles
+[2026-07-16 21:18:30] [INFO] Reading : Maharashtra Times
+[2026-07-16 21:18:30] [INFO] Reading Maharashtra Times
+[2026-07-16 21:18:30] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 21:18:30] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 21:18:30] [INFO] Unique Articles : 100
+[2026-07-16 21:18:30] [INFO] 100 articles
+[2026-07-16 21:18:30] [INFO] Removing duplicates
+[2026-07-16 21:18:30] [INFO] Unique Articles : 450
+[2026-07-16 21:18:30] [INFO] Categorizing
+[2026-07-16 21:18:33] [INFO] maharashtra : 5
+[2026-07-16 21:18:33] [INFO] india : 5
+[2026-07-16 21:18:33] [INFO] world : 5
+[2026-07-16 21:18:33] [INFO] sports : 3
+[2026-07-16 21:18:33] [INFO] business : 3
+[2026-07-16 21:18:33] [INFO] news.json updated
+[2026-07-16 21:18:33] [INFO] ============================================================
+[2026-07-16 21:18:33] [INFO] News Update Finished
+[2026-07-16 21:18:33] [INFO] ============================================================
+[2026-07-16 22:58:53] [INFO] ============================================================
+[2026-07-16 22:58:53] [INFO] News Update Started
+[2026-07-16 22:58:53] [INFO] ============================================================
+[2026-07-16 22:58:53] [INFO] Creating news structure
+[2026-07-16 22:58:53] [INFO] Reading : eSakal
+[2026-07-16 22:58:53] [INFO] Reading eSakal
+[2026-07-16 22:58:53] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 22:58:53] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 22:58:53] [INFO] Unique Articles : 200
+[2026-07-16 22:58:53] [INFO] 200 articles
+[2026-07-16 22:58:53] [INFO] Reading : Lokmat
+[2026-07-16 22:58:53] [INFO] Reading Lokmat
+[2026-07-16 22:58:54] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 22:59:14] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 22:59:14] [INFO] Unique Articles : 50
+[2026-07-16 22:59:14] [INFO] 50 articles
+[2026-07-16 22:59:14] [INFO] Reading : Loksatta
+[2026-07-16 22:59:14] [INFO] Reading Loksatta
+[2026-07-16 22:59:14] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 22:59:14] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 22:59:14] [INFO] Unique Articles : 100
+[2026-07-16 22:59:14] [INFO] 100 articles
+[2026-07-16 22:59:14] [INFO] Reading : Maharashtra Times
+[2026-07-16 22:59:14] [INFO] Reading Maharashtra Times
+[2026-07-16 22:59:14] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 22:59:14] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 22:59:14] [INFO] Unique Articles : 100
+[2026-07-16 22:59:14] [INFO] 100 articles
+[2026-07-16 22:59:14] [INFO] Removing duplicates
+[2026-07-16 22:59:14] [INFO] Unique Articles : 450
+[2026-07-16 22:59:14] [INFO] Categorizing
+[2026-07-16 22:59:18] [INFO] maharashtra : 5
+[2026-07-16 22:59:18] [INFO] india : 5
+[2026-07-16 22:59:18] [INFO] world : 5
+[2026-07-16 22:59:18] [INFO] sports : 3
+[2026-07-16 22:59:18] [INFO] business : 3
+[2026-07-16 22:59:18] [INFO] news.json updated
+[2026-07-16 22:59:18] [INFO] ============================================================
+[2026-07-16 22:59:18] [INFO] News Update Finished
+[2026-07-16 22:59:18] [INFO] ============================================================
+[2026-07-16 23:41:26] [INFO] ============================================================
+[2026-07-16 23:41:26] [INFO] News Update Started
+[2026-07-16 23:41:26] [INFO] ============================================================
+[2026-07-16 23:41:26] [INFO] Creating news structure
+[2026-07-16 23:41:26] [INFO] Reading : eSakal
+[2026-07-16 23:41:26] [INFO] Reading eSakal
+[2026-07-16 23:41:26] [INFO] eSakal : Processing 200 latest urls
+[2026-07-16 23:41:26] [INFO] eSakal Sitemap : 200 articles
+[2026-07-16 23:41:26] [INFO] Unique Articles : 200
+[2026-07-16 23:41:26] [INFO] 200 articles
+[2026-07-16 23:41:26] [INFO] Reading : Lokmat
+[2026-07-16 23:41:26] [INFO] Reading Lokmat
+[2026-07-16 23:41:26] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-16 23:41:43] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-16 23:41:43] [INFO] Unique Articles : 50
+[2026-07-16 23:41:43] [INFO] 50 articles
+[2026-07-16 23:41:43] [INFO] Reading : Loksatta
+[2026-07-16 23:41:43] [INFO] Reading Loksatta
+[2026-07-16 23:41:43] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-16 23:41:43] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-16 23:41:43] [INFO] Unique Articles : 100
+[2026-07-16 23:41:43] [INFO] 100 articles
+[2026-07-16 23:41:43] [INFO] Reading : Maharashtra Times
+[2026-07-16 23:41:43] [INFO] Reading Maharashtra Times
+[2026-07-16 23:41:44] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-16 23:41:44] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-16 23:41:44] [INFO] Unique Articles : 100
+[2026-07-16 23:41:44] [INFO] 100 articles
+[2026-07-16 23:41:44] [INFO] Removing duplicates
+[2026-07-16 23:41:44] [INFO] Unique Articles : 450
+[2026-07-16 23:41:44] [INFO] Categorizing
+[2026-07-16 23:41:48] [INFO] maharashtra : 5
+[2026-07-16 23:41:48] [INFO] india : 5
+[2026-07-16 23:41:48] [INFO] world : 5
+[2026-07-16 23:41:48] [INFO] sports : 3
+[2026-07-16 23:41:48] [INFO] business : 3
+[2026-07-16 23:41:48] [INFO] news.json updated
+[2026-07-16 23:41:48] [INFO] ============================================================
+[2026-07-16 23:41:48] [INFO] News Update Finished
+[2026-07-16 23:41:48] [INFO] ============================================================
+[2026-07-17 00:29:10] [INFO] ============================================================
+[2026-07-17 00:29:10] [INFO] News Update Started
+[2026-07-17 00:29:10] [INFO] ============================================================
+[2026-07-17 00:29:10] [INFO] Creating news structure
+[2026-07-17 00:29:11] [INFO] Reading : eSakal
+[2026-07-17 00:29:11] [INFO] Reading eSakal
+[2026-07-17 00:29:11] [INFO] eSakal : Processing 200 latest urls
+[2026-07-17 00:29:11] [INFO] eSakal Sitemap : 200 articles
+[2026-07-17 00:29:11] [INFO] Unique Articles : 200
+[2026-07-17 00:29:11] [INFO] 200 articles
+[2026-07-17 00:29:11] [INFO] Reading : Lokmat
+[2026-07-17 00:29:11] [INFO] Reading Lokmat
+[2026-07-17 00:29:11] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-17 00:29:33] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-17 00:29:33] [INFO] Unique Articles : 50
+[2026-07-17 00:29:33] [INFO] 50 articles
+[2026-07-17 00:29:33] [INFO] Reading : Loksatta
+[2026-07-17 00:29:33] [INFO] Reading Loksatta
+[2026-07-17 00:29:39] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-17 00:29:39] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-17 00:29:39] [INFO] Unique Articles : 100
+[2026-07-17 00:29:39] [INFO] 100 articles
+[2026-07-17 00:29:39] [INFO] Reading : Maharashtra Times
+[2026-07-17 00:29:39] [INFO] Reading Maharashtra Times
+[2026-07-17 00:29:39] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-17 00:29:39] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-17 00:29:39] [INFO] Unique Articles : 100
+[2026-07-17 00:29:39] [INFO] 100 articles
+[2026-07-17 00:29:39] [INFO] Removing duplicates
+[2026-07-17 00:29:39] [INFO] Unique Articles : 450
+[2026-07-17 00:29:39] [INFO] Categorizing
+[2026-07-17 00:29:43] [INFO] maharashtra : 5
+[2026-07-17 00:29:43] [INFO] india : 5
+[2026-07-17 00:29:43] [INFO] world : 5
+[2026-07-17 00:29:43] [INFO] sports : 3
+[2026-07-17 00:29:43] [INFO] business : 3
+[2026-07-17 00:29:43] [INFO] news.json updated
+[2026-07-17 00:29:43] [INFO] ============================================================
+[2026-07-17 00:29:43] [INFO] News Update Finished
+[2026-07-17 00:29:43] [INFO] ============================================================
+[2026-07-17 01:11:36] [INFO] ============================================================
+[2026-07-17 01:11:36] [INFO] News Update Started
+[2026-07-17 01:11:36] [INFO] ============================================================
+[2026-07-17 01:11:36] [INFO] Creating news structure
+[2026-07-17 01:11:36] [INFO] Reading : eSakal
+[2026-07-17 01:11:36] [INFO] Reading eSakal
+[2026-07-17 01:11:37] [INFO] eSakal : Processing 200 latest urls
+[2026-07-17 01:11:37] [INFO] eSakal Sitemap : 200 articles
+[2026-07-17 01:11:37] [INFO] Unique Articles : 200
+[2026-07-17 01:11:37] [INFO] 200 articles
+[2026-07-17 01:11:37] [INFO] Reading : Lokmat
+[2026-07-17 01:11:37] [INFO] Reading Lokmat
+[2026-07-17 01:11:37] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-17 01:11:57] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-17 01:11:57] [INFO] Unique Articles : 50
+[2026-07-17 01:11:57] [INFO] 50 articles
+[2026-07-17 01:11:57] [INFO] Reading : Loksatta
+[2026-07-17 01:11:57] [INFO] Reading Loksatta
+[2026-07-17 01:11:57] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-17 01:11:57] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-17 01:11:57] [INFO] Unique Articles : 100
+[2026-07-17 01:11:57] [INFO] 100 articles
+[2026-07-17 01:11:57] [INFO] Reading : Maharashtra Times
+[2026-07-17 01:11:57] [INFO] Reading Maharashtra Times
+[2026-07-17 01:11:58] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-17 01:11:58] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-17 01:11:58] [INFO] Unique Articles : 100
+[2026-07-17 01:11:58] [INFO] 100 articles
+[2026-07-17 01:11:58] [INFO] Removing duplicates
+[2026-07-17 01:11:58] [INFO] Unique Articles : 450
+[2026-07-17 01:11:58] [INFO] Categorizing
+[2026-07-17 01:11:58] [ERROR] score_category() missing 1 required positional argument: 'keywords'
+[2026-07-17 01:11:58] [INFO] ============================================================
+[2026-07-17 01:11:58] [INFO] News Update Finished
+[2026-07-17 01:11:58] [INFO] ============================================================
+[2026-07-17 01:45:19] [INFO] ============================================================
+[2026-07-17 01:45:19] [INFO] News Update Started
+[2026-07-17 01:45:19] [INFO] ============================================================
+[2026-07-17 01:45:19] [INFO] Creating news structure
+[2026-07-17 01:45:19] [INFO] Reading : eSakal
+[2026-07-17 01:45:19] [INFO] Reading eSakal
+[2026-07-17 01:45:19] [INFO] eSakal : Processing 200 latest urls
+[2026-07-17 01:45:19] [INFO] eSakal Sitemap : 200 articles
+[2026-07-17 01:45:19] [INFO] Unique Articles : 200
+[2026-07-17 01:45:19] [INFO] 200 articles
+[2026-07-17 01:45:19] [INFO] Reading : Lokmat
+[2026-07-17 01:45:19] [INFO] Reading Lokmat
+[2026-07-17 01:45:19] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-17 01:45:41] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-17 01:45:41] [INFO] Unique Articles : 50
+[2026-07-17 01:45:41] [INFO] 50 articles
+[2026-07-17 01:45:41] [INFO] Reading : Loksatta
+[2026-07-17 01:45:41] [INFO] Reading Loksatta
+[2026-07-17 01:45:41] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-17 01:45:41] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-17 01:45:41] [INFO] Unique Articles : 100
+[2026-07-17 01:45:41] [INFO] 100 articles
+[2026-07-17 01:45:41] [INFO] Reading : Maharashtra Times
+[2026-07-17 01:45:41] [INFO] Reading Maharashtra Times
+[2026-07-17 01:45:42] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-17 01:45:42] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-17 01:45:42] [INFO] Unique Articles : 100
+[2026-07-17 01:45:42] [INFO] 100 articles
+[2026-07-17 01:45:42] [INFO] Removing duplicates
+[2026-07-17 01:45:42] [INFO] Unique Articles : 450
+[2026-07-17 01:45:42] [INFO] Categorizing
+[2026-07-17 01:45:42] [INFO] maharashtra : 5
+[2026-07-17 01:45:42] [INFO] india : 5
+[2026-07-17 01:45:42] [INFO] world : 5
+[2026-07-17 01:45:42] [INFO] sports : 3
+[2026-07-17 01:45:42] [INFO] business : 3
+[2026-07-17 01:45:42] [INFO] news.json updated
+[2026-07-17 01:45:42] [INFO] ============================================================
+[2026-07-17 01:45:42] [INFO] News Update Finished
+[2026-07-17 01:45:42] [INFO] ============================================================
+[2026-07-17 02:18:33] [INFO] ============================================================
+[2026-07-17 02:18:33] [INFO] News Update Started
+[2026-07-17 02:18:33] [INFO] ============================================================
+[2026-07-17 02:18:33] [INFO] Creating news structure
+[2026-07-17 02:18:33] [INFO] Reading : eSakal
+[2026-07-17 02:18:33] [INFO] Reading eSakal
+[2026-07-17 02:18:33] [INFO] eSakal : Processing 200 latest urls
+[2026-07-17 02:18:33] [INFO] eSakal Sitemap : 200 articles
+[2026-07-17 02:18:33] [INFO] Unique Articles : 200
+[2026-07-17 02:18:33] [INFO] 200 articles
+[2026-07-17 02:18:33] [INFO] Reading : Lokmat
+[2026-07-17 02:18:33] [INFO] Reading Lokmat
+[2026-07-17 02:18:33] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-17 02:19:07] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-17 02:19:07] [INFO] Unique Articles : 50
+[2026-07-17 02:19:07] [INFO] 50 articles
+[2026-07-17 02:19:07] [INFO] Reading : Loksatta
+[2026-07-17 02:19:07] [INFO] Reading Loksatta
+[2026-07-17 02:19:07] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-17 02:19:07] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-17 02:19:07] [INFO] Unique Articles : 100
+[2026-07-17 02:19:07] [INFO] 100 articles
+[2026-07-17 02:19:07] [INFO] Reading : Maharashtra Times
+[2026-07-17 02:19:07] [INFO] Reading Maharashtra Times
+[2026-07-17 02:19:08] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-17 02:19:08] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-17 02:19:08] [INFO] Unique Articles : 100
+[2026-07-17 02:19:08] [INFO] 100 articles
+[2026-07-17 02:19:08] [INFO] Removing duplicates
+[2026-07-17 02:19:08] [INFO] Unique Articles : 450
+[2026-07-17 02:19:08] [INFO] Categorizing
+[2026-07-17 02:19:08] [INFO] maharashtra : 5
+[2026-07-17 02:19:08] [INFO] india : 5
+[2026-07-17 02:19:08] [INFO] world : 5
+[2026-07-17 02:19:08] [INFO] sports : 3
+[2026-07-17 02:19:08] [INFO] business : 3
+[2026-07-17 02:19:08] [INFO] news.json updated
+[2026-07-17 02:19:08] [INFO] ============================================================
+[2026-07-17 02:19:08] [INFO] News Update Finished
+[2026-07-17 02:19:08] [INFO] ============================================================
+[2026-07-17 02:32:05] [INFO] ============================================================
+[2026-07-17 02:32:05] [INFO] News Update Started
+[2026-07-17 02:32:05] [INFO] ============================================================
+[2026-07-17 02:32:05] [INFO] Creating news structure
+[2026-07-17 02:32:05] [INFO] Reading : eSakal
+[2026-07-17 02:32:05] [INFO] Reading eSakal
+[2026-07-17 02:32:05] [INFO] eSakal : Processing 200 latest urls
+[2026-07-17 02:32:05] [INFO] eSakal Sitemap : 200 articles
+[2026-07-17 02:32:05] [INFO] Unique Articles : 200
+[2026-07-17 02:32:05] [INFO] 200 articles
+[2026-07-17 02:32:05] [INFO] Reading : Lokmat
+[2026-07-17 02:32:05] [INFO] Reading Lokmat
+[2026-07-17 02:32:06] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-17 02:32:34] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-17 02:32:34] [INFO] Unique Articles : 50
+[2026-07-17 02:32:34] [INFO] 50 articles
+[2026-07-17 02:32:34] [INFO] Reading : Loksatta
+[2026-07-17 02:32:34] [INFO] Reading Loksatta
+[2026-07-17 02:32:34] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-17 02:32:34] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-17 02:32:34] [INFO] Unique Articles : 100
+[2026-07-17 02:32:34] [INFO] 100 articles
+[2026-07-17 02:32:34] [INFO] Reading : Maharashtra Times
+[2026-07-17 02:32:34] [INFO] Reading Maharashtra Times
+[2026-07-17 02:32:34] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-17 02:32:34] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-17 02:32:34] [INFO] Unique Articles : 100
+[2026-07-17 02:32:34] [INFO] 100 articles
+[2026-07-17 02:32:34] [INFO] Removing duplicates
+[2026-07-17 02:32:34] [INFO] Unique Articles : 450
+[2026-07-17 02:32:34] [INFO] Categorizing
+[2026-07-17 02:32:34] [INFO] maharashtra : 5
+[2026-07-17 02:32:34] [INFO] india : 5
+[2026-07-17 02:32:34] [INFO] world : 5
+[2026-07-17 02:32:34] [INFO] sports : 3
+[2026-07-17 02:32:34] [INFO] business : 3
+[2026-07-17 02:32:34] [INFO] news.json updated
+[2026-07-17 02:32:34] [INFO] ============================================================
+[2026-07-17 02:32:34] [INFO] News Update Finished
+[2026-07-17 02:32:34] [INFO] ============================================================
+[2026-07-17 02:41:57] [INFO] ============================================================
+[2026-07-17 02:41:57] [INFO] News Update Started
+[2026-07-17 02:41:57] [INFO] ============================================================
+[2026-07-17 02:41:57] [INFO] Creating news structure
+[2026-07-17 02:41:57] [INFO] Reading : eSakal
+[2026-07-17 02:41:57] [INFO] Reading eSakal
+[2026-07-17 02:41:57] [INFO] eSakal : Processing 200 latest urls
+[2026-07-17 02:41:57] [INFO] eSakal Sitemap : 200 articles
+[2026-07-17 02:41:57] [INFO] Unique Articles : 200
+[2026-07-17 02:41:57] [INFO] 200 articles
+[2026-07-17 02:41:57] [INFO] Reading : Lokmat
+[2026-07-17 02:41:57] [INFO] Reading Lokmat
+[2026-07-17 02:41:57] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-17 02:42:53] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-17 02:42:53] [INFO] Unique Articles : 50
+[2026-07-17 02:42:53] [INFO] 50 articles
+[2026-07-17 02:42:53] [INFO] Reading : Loksatta
+[2026-07-17 02:42:53] [INFO] Reading Loksatta
+[2026-07-17 02:42:53] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-17 02:42:53] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-17 02:42:53] [INFO] Unique Articles : 100
+[2026-07-17 02:42:53] [INFO] 100 articles
+[2026-07-17 02:42:53] [INFO] Reading : Maharashtra Times
+[2026-07-17 02:42:53] [INFO] Reading Maharashtra Times
+[2026-07-17 02:42:54] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-17 02:42:54] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-17 02:42:54] [INFO] Unique Articles : 100
+[2026-07-17 02:42:54] [INFO] 100 articles
+[2026-07-17 02:42:54] [INFO] Removing duplicates
+[2026-07-17 02:42:54] [INFO] Unique Articles : 450
+[2026-07-17 02:42:54] [INFO] Categorizing
+[2026-07-17 02:42:54] [INFO] maharashtra : 5
+[2026-07-17 02:42:54] [INFO] india : 5
+[2026-07-17 02:42:54] [INFO] world : 5
+[2026-07-17 02:42:54] [INFO] sports : 3
+[2026-07-17 02:42:54] [INFO] business : 3
+[2026-07-17 02:42:54] [INFO] news.json updated
+[2026-07-17 02:42:54] [INFO] ============================================================
+[2026-07-17 02:42:54] [INFO] News Update Finished
+[2026-07-17 02:42:54] [INFO] ============================================================
+[2026-07-17 02:59:35] [INFO] ============================================================
+[2026-07-17 02:59:35] [INFO] News Update Started
+[2026-07-17 02:59:35] [INFO] ============================================================
+[2026-07-17 02:59:35] [INFO] Creating news structure
+[2026-07-17 02:59:35] [INFO] Reading eSakal
+[2026-07-17 02:59:35] [INFO] Reading Lokmat
+[2026-07-17 02:59:35] [INFO] Reading Loksatta
+[2026-07-17 02:59:35] [INFO] Reading Maharashtra Times
+[2026-07-17 02:59:36] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-17 02:59:36] [INFO] eSakal : Processing 200 latest urls
+[2026-07-17 02:59:36] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-17 02:59:36] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-17 02:59:36] [INFO] eSakal Sitemap : 200 articles
+[2026-07-17 02:59:36] [INFO] Reading : Maharashtra Times
+[2026-07-17 02:59:36] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-17 02:59:36] [INFO] Unique Articles : 100
+[2026-07-17 02:59:36] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-17 02:59:36] [INFO] 100 articles
+[2026-07-17 02:59:36] [INFO] Reading : eSakal
+[2026-07-17 02:59:36] [INFO] Unique Articles : 200
+[2026-07-17 02:59:36] [INFO] 200 articles
+[2026-07-17 02:59:36] [INFO] Reading : Loksatta
+[2026-07-17 02:59:36] [INFO] Unique Articles : 100
+[2026-07-17 02:59:36] [INFO] 100 articles
+[2026-07-17 03:00:09] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-17 03:00:09] [INFO] Reading : Lokmat
+[2026-07-17 03:00:09] [INFO] Unique Articles : 50
+[2026-07-17 03:00:09] [INFO] 50 articles
+[2026-07-17 03:00:09] [INFO] Removing duplicates
+[2026-07-17 03:00:09] [INFO] Unique Articles : 450
+[2026-07-17 03:00:09] [INFO] Categorizing
+[2026-07-17 03:00:09] [INFO] maharashtra : 5
+[2026-07-17 03:00:09] [INFO] india : 5
+[2026-07-17 03:00:09] [INFO] world : 5
+[2026-07-17 03:00:09] [INFO] sports : 3
+[2026-07-17 03:00:09] [INFO] business : 3
+[2026-07-17 03:00:09] [INFO] news.json updated
+[2026-07-17 03:00:09] [INFO] ============================================================
+[2026-07-17 03:00:09] [INFO] News Update Finished
+[2026-07-17 03:00:09] [INFO] ============================================================
+[2026-07-17 19:07:16] [INFO] ============================================================
+[2026-07-17 19:07:16] [INFO] News Update Started
+[2026-07-17 19:07:16] [INFO] ============================================================
+[2026-07-17 19:07:16] [INFO] Creating news structure
+[2026-07-17 19:07:16] [INFO] Reading eSakal
+[2026-07-17 19:07:16] [INFO] Reading Lokmat
+[2026-07-17 19:07:16] [INFO] Reading Loksatta
+[2026-07-17 19:07:16] [INFO] Reading Maharashtra Times
+[2026-07-17 19:07:17] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-17 19:07:17] [INFO] eSakal : Processing 200 latest urls
+[2026-07-17 19:07:17] [INFO] eSakal Sitemap : 200 articles
+[2026-07-17 19:07:17] [INFO] Reading : eSakal
+[2026-07-17 19:07:17] [INFO] Unique Articles : 200
+[2026-07-17 19:07:17] [INFO] 200 articles
+[2026-07-17 19:07:18] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-17 19:07:18] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-17 19:07:18] [INFO] Reading : Loksatta
+[2026-07-17 19:07:18] [INFO] Unique Articles : 100
+[2026-07-17 19:07:18] [INFO] 100 articles
+[2026-07-17 19:07:18] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-17 19:07:18] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-17 19:07:18] [INFO] Reading : Maharashtra Times
+[2026-07-17 19:07:18] [INFO] Unique Articles : 100
+[2026-07-17 19:07:18] [INFO] 100 articles
+[2026-07-17 19:07:24] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-17 19:07:24] [INFO] Reading : Lokmat
+[2026-07-17 19:07:24] [INFO] Unique Articles : 50
+[2026-07-17 19:07:24] [INFO] 50 articles
+[2026-07-17 19:07:24] [INFO] Removing duplicates
+[2026-07-17 19:07:24] [INFO] Unique Articles : 450
+[2026-07-17 19:07:24] [INFO] Categorizing
+[2026-07-17 19:07:24] [INFO] maharashtra : 5
+[2026-07-17 19:07:24] [INFO] india : 5
+[2026-07-17 19:07:24] [INFO] world : 5
+[2026-07-17 19:07:24] [INFO] sports : 3
+[2026-07-17 19:07:24] [INFO] business : 3
+[2026-07-17 19:07:24] [INFO] news.json updated
+[2026-07-17 19:07:24] [INFO] ============================================================
+[2026-07-17 19:07:24] [INFO] News Update Finished
+[2026-07-17 19:07:24] [INFO] ============================================================
+[2026-07-17 19:52:23] [INFO] ============================================================
+[2026-07-17 19:52:23] [INFO] News Update Started
+[2026-07-17 19:52:23] [INFO] ============================================================
+[2026-07-17 19:52:23] [INFO] Creating news structure
+[2026-07-17 19:52:23] [INFO] Reading eSakal
+[2026-07-17 19:52:23] [INFO] Reading Lokmat
+[2026-07-17 19:52:23] [INFO] Reading Loksatta
+[2026-07-17 19:52:23] [INFO] Reading Maharashtra Times
+[2026-07-17 19:52:23] [INFO] Lokmat : Processing 50 latest urls
+[2026-07-17 19:52:24] [INFO] eSakal : Processing 200 latest urls
+[2026-07-17 19:52:24] [INFO] eSakal Sitemap : 200 articles
+[2026-07-17 19:52:24] [INFO] Reading : eSakal
+[2026-07-17 19:52:24] [INFO] Unique Articles : 200
+[2026-07-17 19:52:24] [INFO] 200 articles
+[2026-07-17 19:52:25] [INFO] Maharashtra Times : Processing 100 latest urls
+[2026-07-17 19:52:25] [INFO] Maharashtra Times Sitemap : 100 articles
+[2026-07-17 19:52:25] [INFO] Reading : Maharashtra Times
+[2026-07-17 19:52:25] [INFO] Unique Articles : 100
+[2026-07-17 19:52:25] [INFO] 100 articles
+[2026-07-17 19:52:28] [INFO] Loksatta : Processing 100 latest urls
+[2026-07-17 19:52:28] [INFO] Loksatta Sitemap : 100 articles
+[2026-07-17 19:52:28] [INFO] Reading : Loksatta
+[2026-07-17 19:52:28] [INFO] Unique Articles : 100
+[2026-07-17 19:52:28] [INFO] 100 articles
+[2026-07-17 19:52:33] [INFO] Lokmat Sitemap : 50 articles
+[2026-07-17 19:52:33] [INFO] Reading : Lokmat
+[2026-07-17 19:52:33] [INFO] Unique Articles : 50
+[2026-07-17 19:52:33] [INFO] 50 articles
+[2026-07-17 19:52:33] [INFO] Feed download time : 9.69 sec
+[2026-07-17 19:52:33] [INFO] Removing duplicates
+[2026-07-17 19:52:33] [INFO] Unique Articles : 450
+[2026-07-17 19:52:33] [INFO] Categorizing
+[2026-07-17 19:52:33] [INFO] Categorization time : 0.04 sec
+[2026-07-17 19:52:33] [INFO] maharashtra : 5
+[2026-07-17 19:52:33] [INFO] india : 5
+[2026-07-17 19:52:33] [INFO] world : 5
+[2026-07-17 19:52:33] [INFO] sports : 3
+[2026-07-17 19:52:33] [INFO] business : 3
+[2026-07-17 19:52:33] [INFO] JSON write time : 0.01 sec
+[2026-07-17 19:52:33] [INFO] news.json updated
+[2026-07-17 19:52:33] [INFO] Total execution : 9.77 sec
+[2026-07-17 19:52:33] [INFO] ============================================================
+[2026-07-17 19:52:33] [INFO] News Update Finished
+[2026-07-17 19:52:33] [INFO] ============================================================

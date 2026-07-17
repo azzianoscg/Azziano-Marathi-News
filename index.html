@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="mr">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>आजच्या प्रमुख मराठी बातम्या</title>
+
+    <meta name="description"
+          content="Azziano Senior Citizen Group - Today's Marathi News">
+
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+    <main class="page">
+
+        <!-- ===================================================== -->
+        <!-- Header -->
+        <!-- ===================================================== -->
+
+<header class="page-header">
+
+    <h1>📰 आजच्या प्रमुख मराठी बातम्या</h1>
+
+    <p class="subtitle">
+        Azziano Senior Citizen Group
+    </p>
+
+    <div class="page-info">
+
+        <div id="todayDate"></div>
+
+        <div id="currentTime"></div>
+
+        <div id="lastUpdated"></div>
+
+    </div>
+
+</header>
+        <!-- ===================================================== -->
+        <!-- Featured News -->
+        <!-- ===================================================== -->
+
+        <section class="featured-section">
+
+            <h2>⭐ आजची मुख्य बातमी</h2>
+
+            <div id="featuredNews">
+
+                <div class="loading">
+
+                    बातम्या लोड होत आहेत...
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- ===================================================== -->
+        <!-- News Accordion -->
+        <!-- ===================================================== -->
+
+        <section class="accordion">
+
+            <!-- Maharashtra -->
+
+            <div class="accordion-item">
+
+                <button class="accordion-header active" id="header-maharashtra">
+                     <span>🔴 महाराष्ट्र</span>
+                     <span class="arrow">▼</span>
+                </button>
+
+                <div class="accordion-body open">
+
+                    <div id="maharashtraNews"></div>
+
+                </div>
+
+            </div>
+
+            <!-- India -->
+
+            <div class="accordion-item">
+
+               <button class="accordion-header" id="header-india">
+                    <span>🔵 भारत</span>
+                    <span class="arrow">▶</span>
+                </button>
+
+                <div class="accordion-body">
+
+                    <div id="indiaNews"></div>
+
+                </div>
+
+            </div>
+
+            <!-- World -->
+
+            <div class="accordion-item">
+
+                <button class="accordion-header" id="header-world">
+                    <span>🌍 जग</span>
+                    <span class="arrow">▶</span>
+                </button>
+
+                <div class="accordion-body">
+
+                    <div id="worldNews"></div>
+
+                </div>
+
+            </div>
+
+            <!-- Sports -->
+
+            <div class="accordion-item">
+
+                <button class="accordion-header" id="header-sports">
+                    <span>🏏 क्रीडा</span>
+                    <span class="arrow">▶</span>
+                </button>
+
+                <div class="accordion-body">
+
+                    <div id="sportsNews"></div>
+
+                </div>
+
+            </div>
+
+            <!-- Business -->
+
+            <div class="accordion-item">
+
+            <button class="accordion-header" id="header-business">
+                <span>💼 व्यवसाय</span>
+                <span class="arrow">▶</span>
+            </button>
+
+                <div class="accordion-body">
+
+                    <div id="businessNews"></div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- ===================================================== -->
+    <!-- Footer -->
+    <!-- ===================================================== -->
+
+    <footer>
+
+        <div>
+            
+            स्रोत :
+
+            लोकमत |
+            सकाळ |
+            लोकसत्ता |
+            TV9 मराठी |
+            ABP माझा
+
+        </div>
+
+    </footer>
+
+    <!-- ===================================================== -->
+    <!-- JavaScript Modules -->
+    <!-- ===================================================== -->
+
+    <script src="js/utils.js"></script>
+
+    <script src="js/accordion.js"></script>
+
+    <script src="js/news.js"></script>
+
+    <script src="js/app.js"></script>
+
+</body>
+
+</html>
