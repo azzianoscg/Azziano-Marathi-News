@@ -11,8 +11,7 @@ Version : 1.0
 """
 
 import json
-from datetime import datetime
-
+from datetime import datetime, timezone, timedelta
 from config import NEWS_JSON
 
 # ----------------------------------------------------------
@@ -44,9 +43,11 @@ def create_news_structure():
 
 def update_timestamp(news_data):
 
-    news_data["lastUpdated"] = datetime.now().strftime(
-        "%d-%m-%Y %H:%M"
-    )
+    ist = timezone(timedelta(hours=5, minutes=30))
+
+    news_data["lastUpdated"] = (
+        datetime.now(ist).strftime("%d-%m-%Y | %I:%M %p") + " IST"
+        )
 
 
 # ----------------------------------------------------------
