@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "18-07-2026 05:54",
+    "lastUpdated": "18-07-2026 | 12:13 PM IST",
     "maharashtra": [
         {
-            "id": "525715f135f6",
+            "id": "7f973d814bbb",
+            "feed": "lokmat",
+            "title": "“नागपूरच्या कार्यक्रमावरुन लक्ष भरकटवण्यासाठीच वांगचुक यांच्यावर दडपशाही”; राऊतांचा आरोप",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-18T12:08:33",
+            "url": "https://www.lokmat.com/nagpur/oppression-against-wangchuk-to-divert-attention-from-nagpur-program-says-sanjay-raut-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raut-ram-mandir-sonam_2026071744836.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d5898b897c66",
+            "feed": "lokmat",
+            "title": "Shravani Kudale: विषय काेणताही असाे ‘इन डेप्थ’ अभ्यास केला पाहिजे; 'नीट' मध्ये अव्वल ठरलेल्या श्रावणीचे मत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-18T12:07:44",
+            "url": "https://www.lokmat.com/pune/no-matter-what-the-subject-one-should-study-it-in-depth-says-shravani-kudale-who-topped-in-neet-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-student-4-a_2026071744837.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ff4e5ed86c14",
+            "feed": "lokmat",
+            "title": "Kolhapur-Gokul Dudh Sangh Election: 'गोकुळ'ने सभासद रद्दच्या नोटीसा बजावलेल्या संस्था एकवटल्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-18T12:04:06",
+            "url": "https://www.lokmat.com/kolhapur/organizations-that-had-issued-notices-to-cancel-members-by-gokul-dudh-sangh-unite-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gokul-news-court-sanstha-today-news_2026071744833.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3e978b64a687",
             "feed": "loksatta",
-            "title": "पुन्हा एक नवे काम; आता शिक्षकांना वॉट्सअँप ग्रुप तयार करीत गुणवत्ता वाढीचे प्रयत्न करण्याची जबाबदारी..",
+            "title": "देशात दडपशाही, भाजपच्या पायाखालची वाळू सरकली, संजय राऊत यांचा हल्लाबोल",
             "source": {
                 "id": "loksatta",
                 "name": "Loksatta",
                 "website": "https://www.loksatta.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-18T11:18:46",
-            "url": "https://www.loksatta.com/nagpur/wardha-teachers-whatsapp-groups-academic-quality-improvement-education-department-order-sap-05-6026543/",
-            "image": "https://images.loksattaimg.com/2026/07/New-Project-2026-07-18T111125.299.jpg",
+            "published": "2026-07-18T12:02:05",
+            "url": "https://www.loksatta.com/nagpur/sanjay-raut-nagpur-ramraksha-pathan-sonam-wangchuk-bjp-target-uddhav-thackeray-sap-05-6026599/",
+            "image": "https://images.loksattaimg.com/2026/07/New-Project-2026-07-18T115325.982.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3161cfcd97c0",
-            "feed": "esakal",
-            "title": "Maharashtra Farmers: खत खरेदीसाठी शेतकऱ्यांचा तासन्‌तास खोळंबा ऑनलाइन यंत्रणा ठप्प ; पेरणीच्या हंगामात सेवा केंद्रांची स्थिती",
+            "id": "b0d6f1a0c09d",
+            "feed": "lokmat",
+            "title": "अखेर प्रतीक्षा संपणार! म्हाडाच्या मुंबईतील २,६४० घरांची लॉटरी पुढच्या आठवड्यात",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-18T11:18:40",
-            "url": "https://www.esakal.com/maharashtra/maharashtra-fertilizer-online-system-server-down-kharif-farmers-fertilizer-distribution-sangli-agriculture-news-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-18/do2ofny5/Abhi.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4e31730f34b3",
-            "feed": "loksatta",
-            "title": "Devendra Phadnavis : क्वांटम तंत्रज्ञानामुळे काय होणार? मुख्यमंत्री देवेंद्र फडणवीस म्हणाले, ‘७५ ते ८० टक्के रोजगारांवर तंत्रज्ञानाचा प्रभाव…’",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-18T11:17:31",
-            "url": "https://www.loksatta.com/pune/devendra-fadnavis-quantum-technology-maharashtra-mission-iiser-pune-print-news-rub-99-6026532/",
-            "image": "https://images.loksattaimg.com/2026/07/devendra-fadnavis-quantum-technology.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7e3e2cac8d9f",
-            "feed": "loksatta",
-            "title": "Quantam Technology : राज्यातील चार शिक्षण संस्थांमध्ये आता ‘क्वांटम तंत्रज्ञानाचे’ धडे!",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-18T11:10:28",
-            "url": "https://www.loksatta.com/pune/quantum-technology-courses-in-maharashtra-colleges-pune-print-news-rub-99-6026468/",
-            "image": "https://images.loksattaimg.com/2026/07/Quantam-Technology-.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e58ede30dd97",
-            "feed": "loksatta",
-            "title": "विदर्भात दुष्काळसदृश परिस्थितीमुळे पिके धोक्यात; कृषी शास्त्रज्ञ म्हणतात,’ आपत्कालीन नियोजनावर…’",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-18T11:09:56",
-            "url": "https://www.loksatta.com/nagpur/vidarbha-drought-kharif-crops-pdkv-agricultural-scientists-emergency-planning-akola-sap-05-6026528/",
-            "image": "https://images.loksattaimg.com/2026/07/New-Project-2026-07-18T110216.601.jpg",
+            "published": "2026-07-18T12:01:30",
+            "url": "https://www.lokmat.com/mumbai/the-wait-is-finally-over-mhadas-lottery-for-2640-houses-in-mumbai-next-week-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mhada-new-1108dssf_2026061725979.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "2d17a89179be",
-            "feed": "esakal",
-            "title": "UP लग्न केल्यावर या लोकांच्या खात्यात येणार ३५ हजार रुपये! काय आहेत नियम व अटी?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-18T11:23:42",
-            "url": "https://www.esakal.com/desh/uttar-pradesh-disability-marriage-incentive-scheme-35000-financial-assistance-eligibility-online-application-government-scheme-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-18/ogbg8hpc/government-new-scheme-35000-to-be-deposited-into-accounts-of-these-individuals-upon-marriage.jpg.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1ede9004b803",
-            "feed": "lokmat",
-            "title": "\"आंदोलन संपणार नाही, २० जुलैला...\"; अभिजीत दीपके यांचं जंतर-मंतरवर आमरण उपोषण सुरू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-18T11:16:56",
-            "url": "https://www.lokmat.com/national/abhijeet-dipke-has-announced-that-he-is-starting-a-hunger-strike-after-sonam-wangchuk-was-shifted-to-hospital-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abhijeet-dipke_2026071744815.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f33e7c5baef2",
-            "feed": "loksatta",
-            "title": "Photos: आषाढी एकादशीनिमित्त अभिनेत्री कोमल कुंभारचं पतीबरोबर वारीत सुंदर फोटोशूट",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": null
-            },
-            "published": "2026-07-18T11:05:04",
-            "url": "https://www.loksatta.com/photos/entertainment-gallery/6026511/marathi-actress-komal-kumbhar-gokul-dashwant-ashadi-ekadashi-wari-2026-traditional-look-photoshoot-viral-sdn-96/",
-            "image": "https://images.loksattaimg.com/2026/07/Komal-Kumbhar-Gokul-Dashwant-Wari-2026.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2aaff5709de5",
-            "feed": "lokmat",
-            "title": "अगदी कमी दुधात करा टपरीसारखा फक्कड चहा! एक घोट घेताच येईल तरतरी-पाहा टपरीवरची युक्ती...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-18T11:05:01",
-            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-make-strong-tea-with-less-milk-thick-and-strong-tea-with-less-milk-less-milk-more-flavor-tea-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-make-strong-tea-with-less-milk_2026071743168.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d5958fbd1c54",
+            "id": "904d35820dac",
             "feed": "maharashtratimes",
-            "title": "Crime News : 8 वर्षांच्या रिलेशननंतर प्रेमभंग, मुंबईत तरुणीने जीवन संपवलं, कुटुंबीयांनी बॉडी प्रियकराच्या घरी नेली, मंगळसूत्र घालून अंत्यविधी करण्याची मागणी",
+            "title": "Atul Pawar : अतुल साप चावल्याने गेला! स्कूल संचालकाच्या बायकोचे स्कूल बसचालकाशी संबंध, पतीचा काटा काढला, पण पवार कुटुंबाने छडा लावलाच",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-18T11:05:00",
-            "url": "https://maharashtratimes.com/india-news/andhra-pradesh-techie-addagalla-keerthi-dies-in-mumbai-pg-room-family-takes-body-to-boyfriend-sai-sumanth-home/articleshow/132474374.cms",
+            "published": "2026-07-18T12:09:05",
+            "url": "https://maharashtratimes.com/india-news/meerut-school-director-atul-pawar-murder-wife-damini-kills-with-school-bus-driver-tushar-snake-byte/articleshow/132475148.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "8bbc629c584a",
+            "feed": "loksatta",
+            "title": "जिकडे तिकडे प्रचंड पैसा दिसणार; मंगळाचे नक्षत्र गोचर ‘या’ तीन राशींना हवं ते मिळवून देणार, रातोरात आयुष्य बदलणार",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": null
+            },
+            "published": "2026-07-18T12:06:18",
+            "url": "https://www.loksatta.com/astrology/mangal-nakshatra-gochar-2026-mithun-kanya-and-makar-zodic-sign-will-get-high-career-growth-and-healthy-lifestyle-sap-20-6026489/",
+            "image": "https://images.loksattaimg.com/2026/07/New-Project-2026-07-18T120328.732.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a38fd155913c",
+            "feed": "esakal",
+            "title": "सोनम वांगचुकना हटवण्यासाठी ३० सेकंदाचा प्लॅन, पहाटे ३ पासून हालचाली; साध्या वेशात पोलीस, चादरीचा पडदा लावून उचललं",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-18T12:04:49",
+            "url": "https://www.esakal.com/desh/sonam-wangchuk-hospital-shift-delhi-police-executed-30-second-operation-at-jantar-mantar-details-surface-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-18/yjg3golg/sonam-wangchuk-jantar-mantar.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "cf395db1549b",
+            "feed": "maharashtratimes",
+            "title": "Ek Hota Malin Trailer : 'एक होतं माळीण' एका पावसात होत्याचं नव्हतं झालं, नैसर्गिक आपत्तीवर आधारित पहिला मराठी चित्रपट, ट्रेलरने वेधले लक्ष",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-18T12:03:40",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/ek-hota-malin-new-marathi-movie-trailer-based-on-natural-disaster/articleshow/132474819.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "a6918b40275c",
+            "feed": "esakal",
+            "title": "Premium|Jhabua Dolls : भिल्ल जीवनाचा आरसा झाबुआ बाहुल्या",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-18T12:00:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/jhabua-cloth-dolls-tribal-handicraft-eco-friendly-dolls-madhya-pradesh-traditional-art-recycled-fabric-indian-folk-craft-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-13/nc3vh4kn/Abhi-17.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "world": [
+        {
+            "id": "bd31d62590e8",
+            "feed": "esakal",
+            "title": "US Visa: महिनाभरात नोकरी मिळवा, अन्यथा अमेरिका सोडा! व्हिसा नियमांतील बदलांमुळे विद्यार्थी अडचणीत",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-18T11:55:29",
+            "url": "https://www.esakal.com/global/us-visa-new-rules-students-job-within-one-month-or-leave-america-impact-on-indian-students-marathi-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-18/sn1s47ca/Copy-of-Copy-of-banner-2026-07-18T114438.377.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "e61c8e77ba41",
             "feed": "lokmat",
@@ -198,38 +214,6 @@
             "category_reason": "feed"
         },
         {
-            "id": "de25e999cd43",
-            "feed": "lokmat",
-            "title": "जगभरात असंख्य वेळा खरेदी-विक्री झालेल्या निद्रिस्त जिप्सीचे गूढ...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-18T08:53:14",
-            "url": "https://www.lokmat.com/editorial/the-mystery-of-the-sleeping-gypsy-who-has-been-bought-and-sold-countless-times-around-the-world-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/grypsyh3_2026071744748.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "6564f081679d",
-            "feed": "lokmat",
-            "title": "१८ वर्षे विमानतळावरच राहिलेल्या माणसाची कहाणी; 'त्याच्या' आयुष्यात कसा आला इतका मोठा ट्विस्ट?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-18T08:45:13",
-            "url": "https://www.lokmat.com/photos/jarahatke/story-of-mehran-karimi-nasseri-was-an-iranian-refugee-who-lived-in-the-departure-lounge-of-paris-charles-de-gaulle-airport-for-18-years-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/airport-mehran-kasimi_2026071744743.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
             "id": "7c3dc6b0c619",
             "feed": "loksatta",
             "title": "ऑलिम्पिक आख्यान: ऑलिम्पिक मैदानावर बहिष्कारास्त्र!",
@@ -244,59 +228,107 @@
             "image": "https://images.loksattaimg.com/2026/07/Olympic-History-Boycott-Politics.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "affc525a8a29",
+            "feed": "loksatta",
+            "title": "गर्भपाताविषयी मौन का?",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": null
+            },
+            "published": "2026-07-18T01:07:00",
+            "url": "https://www.loksatta.com/chaturang/women-miscarriage-at-workplace-quest-global-survey-maternity-benefit-law-zws-70-6025012/",
+            "image": "https://images.loksattaimg.com/2026/07/chatu02-8.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "83adf3dee3a7",
+            "id": "f83544ab3d35",
             "feed": "esakal",
-            "title": "Badminton : भारताची स्टार खेळाडू पी.व्ही. सिंधू दोन वर्षानंतर जेतेपदाची लढत खेळणार; Japan Open च्या फायनलमध्ये प्रवेश",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-07-18T11:02:17",
-            "url": "https://www.esakal.com/krida/cricket/pv-sindhu-storms-into-japan-open-final-since-2024-as-chen-yufei-retires-injured-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-18/u72a69av/PV-Sindhu-enters-Japan-Open-2026-final",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d9b0e6b9c86d",
-            "feed": "esakal",
-            "title": "Donald Trump: FIFA फायनलमध्ये ट्रम्पची एंट्री! विजेत्या खेळाडूंना मिळणार सोन्याची खास अंगठी",
+            "title": "Messi vs Maradona: मेस्सी अजूनही मॅराडोनापेक्षा मोठा नाही? भारतीय फुटबॉल दिग्गजाचं धक्कादायक मत",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-18T11:00:50",
-            "url": "https://www.esakal.com/krida/donald-trump-to-present-fifa-club-world-cup-final-trophy-winning-team-to-receive-golden-rings-metlife-stadium-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-18/gl3qlldd/fifa-2026-2.jpg",
+            "published": "2026-07-18T12:12:12",
+            "url": "https://www.esakal.com/krida/messi-vs-maradona-baichung-bhutia-big-statement-before-fifa-world-cup-final-argentina-vs-spain-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-18/174tkr8r/fifa-2026-4.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "113c571bae2c",
+            "id": "ce4043d74368",
+            "feed": "maharashtratimes",
+            "title": "FIFA World Cup 2026 : फिफा फुटबॉल फायनलमध्ये तिसऱ्या नंबरसाठी आज इंग्लंड-फ्रान्समध्ये लढत, 279 कोटी कोटीचं बक्षीस कोण जिंकणार?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-07-18T12:09:54",
+            "url": "https://maharashtratimes.com/sports/football/news/fifa-world-cup-2026-third-place-playoff-france-vs-england-kylian-mbappe-chance-for-golden-boot/articleshow/132474706.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "eddef23bb1a0",
+            "feed": "loksatta",
+            "title": "IND vs ENG: लॉर्ड्सच्या ऐतिहासिक मैदानावर ‘आर-पारची’ लढाई!कसा आहे दोन्ही संघांचा हेड टू हेड रेकॉर्ड?",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": null
+            },
+            "published": "2026-07-18T11:58:52",
+            "url": "https://www.loksatta.com/krida/india-vs-england-head-to-head-record-at-lords-cricket-ground-cricket-news-in-marathi-rohit-sharma-retirement-amd-2000-6026636/",
+            "image": "https://images.loksattaimg.com/2026/07/IND-vs-ENG-29.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "business": [
+        {
+            "id": "79a98c557130",
             "feed": "lokmat",
-            "title": "टीम इंडियाला वर्ल्डकप जिंकून देणाऱ्या स्टार क्रिकेटपटूला श्रीलंकेत अटक, टी-२०  लीगमध्ये मॅचफिक्सिंग केल्याचा आरोप",
+            "title": "Jalna Nanded Expressway : विकास की विनाश? वडिलोपार्जित फळबागेवर चालणार कुऱ्हाड, शेतकऱ्यांचे डोळे पाणावले",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "sports"
+                "category": null
             },
-            "published": "2026-07-18T10:54:17",
-            "url": "https://www.lokmat.com/cricket/news/star-cricketer-manjot-kalra-who-led-team-india-to-world-cup-victory-arrested-in-sri-lanka-accused-of-match-fixing-in-t20-league-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manjit-kalra-1_2026071744809.jpg",
+            "published": "2026-07-18T12:08:33",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-jalna-nanded-expressway-development-or-destruction-the-axe-will-be-used-on-ancestral-orchards-farmers-eyes-watered-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jalna-nanded-expressway-1_2026071744834.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "74bbc888e0c2",
+            "feed": "maharashtratimes",
+            "title": "रिलायन्स ब्रॉडकास्टनं केली 'ONE BIG WORLD' ची घोषणा, AI-सक्षम भविष्यासाठी मीडिया आणि मनोरंजन क्षेत्रातील नवा अध्याय",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-07-18T11:35:38",
+            "url": "https://maharashtratimes.com/business/business-news/rbnl-launches-one-big-world-to-transform-sp-indias-media-and-entertainment-landscape/articleshow/132474602.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "business": [
+        },
         {
             "id": "7fc959a1ad33",
             "feed": "loksatta",
@@ -312,38 +344,6 @@
             "image": "https://images.loksattaimg.com/2026/07/pri-1.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "3c618c51f507",
-            "feed": "lokmat",
-            "title": "Gold Price Today: सोनं झालं स्वस्त, या आठवड्यात चांदीचा दरही २ हजारांनी झाला कमी; गुंतवणूकीची योग्य वेळ आहे का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-07-18T11:16:09",
-            "url": "https://www.lokmat.com/business/savings-investments/gold-price-today-18-july-2026-gold-has-become-cheaper-silver-price-has-also-decreased-by-2-thousand-this-week-is-it-the-right-time-to-invest-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gold-demand-in-india_2026041692933.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9b22d495a566",
-            "feed": "lokmat",
-            "title": "Tur Soybean Market : तुरीला कमाल ८,२०० रुपयांचा दर; सोयाबीन, मुगालाही तेजीचा आधार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-18T11:13:58",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-tur-soybean-market-tur-price-reaches-a-maximum-of-rs-8200-soybean-mung-bean-also-gain-support-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tur-soybean-market-1_2026071744813.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
