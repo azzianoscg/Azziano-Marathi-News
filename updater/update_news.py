@@ -242,14 +242,17 @@ def main():
 
         save_start = time.perf_counter()
 
-        save_json(news_json)
+        saved = save_json(news_json)
 
         info(
             f"JSON write time : "
             f"{time.perf_counter() - save_start:.2f} sec"
         )
 
-        info("news.json updated")
+        if saved:
+            info("news.json updated")
+        else:
+            error("Failed to update news.json")
 
     except Exception as ex:
 
