@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "19-07-2026 | 12:47 PM IST",
+    "lastUpdated": "19-07-2026 | 05:10 PM IST",
     "maharashtra": [
         {
-            "id": "e168c1be789b",
+            "id": "7dcd2cf0a5e2",
+            "feed": "esakal",
+            "title": "Maharashtra Live Updates Marathi: सरकार बदलण्याचा प्रयत्न झाला पाहिजे - उद्धव ठाकरे",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-19T17:06:23",
+            "url": "https://www.esakal.com/maharashtra/19-july-2026-sunday-live-updates-fifa-world-cup-shiv-sena-ubt-sonam-wangchuk-eknath-shinde-ram-mandir-abhijit-dipake-ashadhi-wari-mumbai-pune-rain-traffic-marathi-news-srk94-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-19/74b3dy2i/live-update-marathi.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "316185153deb",
             "feed": "loksatta",
-            "title": "सर्व प्रोटोकॉल सोडून पालकमंत्री गोरेनी दुचाकी वर फिरून केली पाहणी; भाविकांशी साधला संवाद; स्वच्छतेला प्राधान्य देण्याचे निर्देश- गोरे",
+            "title": "मिरज पंचायत समिती सभापती निवड रद्दच्या निर्णयाला मविआचे आव्हान",
             "source": {
                 "id": "loksatta",
                 "name": "Loksatta",
                 "website": "https://www.loksatta.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-19T12:47:33",
-            "url": "https://www.loksatta.com/maharashtra/jayakumar-gore-pandharpur-ashadhi-ekadashi-bullet-ride-inspection-sap-05-6028141/",
-            "image": "https://images.loksattaimg.com/2026/07/New-Project-2026-07-19T123955.689.jpg",
+            "published": "2026-07-19T17:04:56",
+            "url": "https://www.loksatta.com/kolhapur/miraj-panchayat-samiti-sabhapati-election-cancelled-mvia-challenges-divisional-commissioner-order-sangli-sap-05-6028622/",
+            "image": "https://images.loksattaimg.com/2026/07/New-Project-2026-07-19T165628.601.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "aa594ed254b1",
-            "feed": "loksatta",
-            "title": "पावसाच्या पुनरागमनाने बारवी धरणात ५४ टक्के पाणीसाठा",
+            "id": "654385d4dc6b",
+            "feed": "esakal",
+            "title": "Pune Jagannath Rathayatra: पुण्यात इस्कॉनची भव्य श्री श्री जगन्नाथ रथयात्रा; जयघोष, पुष्पवृष्टी आणि हजारो भाविकांच्या सहभागाने शहर भक्तिमय",
             "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-19T12:45:44",
-            "url": "https://www.loksatta.com/thane/barvi-dam-water-level-thane-badlapur-heavy-rain-update-ssb-93-6027973/",
-            "image": "https://images.loksattaimg.com/2026/07/dam-2.png",
+            "published": "2026-07-19T17:04:00",
+            "url": "https://www.esakal.com/pune/pune-iskcon-bhavya-shri-shri-jagannath-rathyatra-pune-jagannath-rath-yatra-2026-iskcon-pune-lord-jagannath-balram-subhadra-tilak-road-devotees-mahaprasad-hare-krishna-procession-latest-news-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-19/ajederur/Esakal-7.png",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0fc0a36e5f80",
-            "feed": "loksatta",
-            "title": "पन्नाशी झाल्यानंतर कृत्रिम गर्भधारणेसाठी परवानगी नाही",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-19T12:38:48",
-            "url": "https://www.loksatta.com/mumbai/mumbai-high-court-dismisses-petition-art-act-pregnancy-age-limit-50-years-medical-unfitness-ssb-93-6028022/",
-            "image": "https://images.loksattaimg.com/2026/07/pregnant1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8182b4ff78ce",
+            "id": "f17999985fe7",
             "feed": "lokmat",
-            "title": "NEET 2026 Results: नीट-यूजी निकालात गुणांचा मोठा गोंधळ ? पुण्यातील आर्यन चव्हाण याला ७०७ ऐवजी २१७ गुण",
+            "title": "मोशी परिसरात दहा दिवसांपासून वारंवार वीज खंडित",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-19T12:38:07",
-            "url": "https://www.lokmat.com/pune/neet-ug-2026-results-big-confusion-in-marks-in-neet-ug-results-punes-aryan-chavan-got-217-marks-instead-of-707-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/neet-pune-result00_2026071745338.jpg",
+            "published": "2026-07-19T17:02:41",
+            "url": "https://www.lokmat.com/pune/frequent-power-outages-in-moshi-area-for-ten-days-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/outaage_2026071745568.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6500e4b647da",
+            "id": "1711139dd78b",
             "feed": "esakal",
-            "title": "Raigad History: रायगडात इतिहासाचा अनमोल ठेवा! अलिबागजवळ १८९८ मधील ब्रिटिशकालीन शिवमंदिराचा शिलालेख प्रकाशात; इतिहास संशोधकाचा मोठा शोध..",
+            "title": "Marathwada Crop Crisis: पावसाने दडी मारताच पाचोड-पैठणमध्ये खरिप पिके शेवटची घटका मोजत; शेतकऱ्यांवर दुबार पेरणीचे संकट",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-19T12:34:55",
-            "url": "https://www.esakal.com/kokan/rare-1898-inscription-discovered-at-ancient-shiva-temple-near-alibag-reveals-forgotten-history-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-19/80jwv7i2/sudhir-jadhav-satara-17.jpg",
+            "published": "2026-07-19T16:58:25",
+            "url": "https://www.esakal.com/marathwada/marathwada-crop-crisis-kharif-farmers-face-re-sowing-woes-paithan-drought-kharif-crops-rain-deficit-pachod-farmers-re-sowing-crisis-cotton-bajra-moong-crop-damage-maharashtra-agriculture-news-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-19/srkm1tc5/Esakal-6.png",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "8afd80b4fdca",
+            "id": "8d84c5478a50",
             "feed": "maharashtratimes",
-            "title": "Moshi Building Collapse: कचऱ्याच्या डोंगरांवर वर्गीकरणाचा उपाय",
+            "title": "Kushal Badrike : भाऊ कदमच्या एका प्रश्नानं राहुल देशपांडेंना आलेला राग, कुशल बद्रिकेनं सांगितला 'चला हवा येऊ द्या'चा किस्सा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-19T12:43:45",
-            "url": "https://maharashtratimes.com/editorial/ravivar-mata/pune-moshi-building-collapse-9-workers-death-pcmc-suspends-2-officials/articleshow/132490984.cms",
+            "published": "2026-07-19T17:03:28",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/kushal-badrike-talks-about-rahul-deshpande-gets-angry-on-bhau-kadam-in-chala-hawa-yeu-dya/articleshow/132493700.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "cd59bce51dff",
+            "id": "a1176f45071a",
             "feed": "loksatta",
-            "title": "नवं घर, गाडी अन् गडगंज श्रीमंती…ऑगस्ट महिन्याच्या सुरुवातीलाच ‘या’ राशींचं नशीब उजळणार; वैभवलक्ष्मी प्रसन्न होणार",
+            "title": "Chanakya Niti: नात्यात वारंवार धोका मिळतोय? मग वाचा चाणक्यांचे ‘हे’ सल्ले, होईल फायदा",
             "source": {
                 "id": "loksatta",
                 "name": "Loksatta",
                 "website": "https://www.loksatta.com",
                 "category": null
             },
-            "published": "2026-07-19T12:43:37",
-            "url": "https://www.loksatta.com/astrology/august-rashifal-2026-aries-gemini-leo-scorpio-and-pisces-may-get-lucky-next-month-srk-21-6028075/",
-            "image": "https://images.loksattaimg.com/2026/07/ChatGPT-Image-Jul-19-2026-12_42_55-PM.png",
+            "published": "2026-07-19T17:01:05",
+            "url": "https://www.loksatta.com/trending/chanakya-niti-quotes-on-trust-betrayal-and-forgiveness-rules-to-deal-with-cheaters-in-relationship-life-lessons-sjr-98-6028633/",
+            "image": "https://images.loksattaimg.com/2026/07/chanakya-niti-on-trust.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "465b0a087f80",
+            "id": "6aa21d47fb79",
             "feed": "lokmat",
-            "title": "जयपूरमध्ये १०० वर्षे जुन्या वाड्याच्या उत्खननादरम्यान सापडला मुघलकालीन खजिना? रात्रीच्या अंधारात गावकऱ्यांची शोधाशोध",
+            "title": "Ashadhi Ekadashi 2026 : उपवासाला करा चमचमीत साबुदाणा खिचडी; चिकट होणार नाही; मऊ-मोकळी होईल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-19T12:43:37",
-            "url": "https://www.lokmat.com/national/jaipur-shocker-ancient-mughal-era-silver-coins-found-during-old-house-excavation-villagers-rush-with-torches-to-dig-all-night-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jaipur-treasure-found-news_2026071745342.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "53c0716a7143",
-            "feed": "loksatta",
-            "title": "Video : कार्तिक आर्यनला राष्ट्रीय पुरस्कार जाहीर; ‘त्या’ क्षणी कशी होती अभिनेत्याची रिअॅक्शन? आई-वडिलांनी मिठी मारली अन्…",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
                 "category": null
             },
-            "published": "2026-07-19T12:43:36",
-            "url": "https://www.loksatta.com/manoranjan/bollywood/kartik-aaryan-wins-best-actor-national-film-award-chandu-champion-celebration-video-viral-psm-08-6028135/",
-            "image": "https://images.loksattaimg.com/2026/07/72th-national-film-award-kartik-aaryan-wins-best-actor-chandu-champion-1.jpg",
+            "published": "2026-07-19T16:57:33",
+            "url": "https://www.lokmat.com/sakhi/food/ashadhi-ekadashi-2026-ashadhi-ekadashi-special-sabudana-khichdi-recipe-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-07-19-at-1.04.05-pm_2026071745561.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "ebede6456749",
+            "id": "85b8667f6d26",
+            "feed": "maharashtratimes",
+            "title": "Ashadhi Wari: चालविसी हाती...",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-19T16:54:41",
+            "url": "https://maharashtratimes.com/editorial/samwad/ashadhi-wari-2026-warkari-in-khaki-the-heart-touching-journey-of-police-personnel/articleshow/132493519.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1a48f69566e1",
             "feed": "esakal",
-            "title": "Electricity Saving Tips : घरातला पंखा साफ न केल्याने लाईट बिल जास्त येतं? लाखो लोक करतात 'ही' चूक, एका बदलाने वीजबिल होईल कमी",
+            "title": "तुळशीची पानं पिवळी का पडतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-19T12:38:44",
-            "url": "https://www.esakal.com/sci-tech/light-bill-reducing-tips-why-ceiling-fan-cleaning-affect-electricity-bill-money-saving-ideas-ssg2",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-19/ihi5oqk8/electricity-bill-saving-unique-tips",
+            "published": "2026-07-19T16:49:38",
+            "url": "https://www.esakal.com/ampstories/web-story/why-tulsi-leaves-turn-yellow-and-how-to-fix-it-easily-marathi-information-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-19/an7q5pl1/Why-Tulsi-Leaves-Turn-Yellow-11.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "d890a6eb3e65",
-            "feed": "lokmat",
-            "title": "PV Sindhu Japan Open 2026: पीव्ही सिंधूचा ७ वर्षांचा दुष्काळ संपला! यामागुचीला धूळ चारत पटकावले जपान ओपनचे जेतेपद",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-19T10:52:40",
-            "url": "https://www.lokmat.com/other-sports/japan-open-2026-pv-sindhus-historic-feat-beats-yamaguchi-to-win-japan-open-title-ends-7-year-drought-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pv-sindhu-japan-open-winner_2026071745302.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "0c78080ac785",
+            "id": "fdfe69ded431",
             "feed": "loksatta",
-            "title": "Chanakya niti: ‘हे’ ४ लोक तुमचे वैवाहिक जीवन उद्ध्वस्त करतात; त्यांच्यापासून दूर राहणेच उत्तम; चाणक्यांचा सल्ला",
+            "title": "बिन्यामिन नेतान्याहूंना न्यूयॉर्कमध्ये होऊ शकते अटक? महापौर ममदानींच्या वक्तव्यामुळे खळबळ",
             "source": {
                 "id": "loksatta",
                 "name": "Loksatta",
                 "website": "https://www.loksatta.com",
                 "category": null
             },
-            "published": "2026-07-19T09:51:45",
-            "url": "https://www.loksatta.com/trending/chanakya-niti-4-people-who-can-ruin-married-life-relationship-tips-srk-21-6027881/",
-            "image": "https://images.loksattaimg.com/2026/07/ChatGPT-Image-Jul-19-2026-09_50_54-AM.png",
+            "published": "2026-07-19T14:54:07",
+            "url": "https://www.loksatta.com/desh-videsh/benjamin-netanyahu-arrest-threat-new-york-mayor-zohran-mamdani-israel-gaza-war-gkt-96-6028389/",
+            "image": "https://images.loksattaimg.com/2026/07/Benjamin-Netanyahu-Arrest.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "01555e662c65",
-            "feed": "loksatta",
-            "title": "जॉर्डनमध्ये २ सैनिक मारले गेल्यानंतर अमेरिकेचे इराणवर भीषण हवाई हल्ले, पश्चिम आशियात पुन्हा युद्धाचे ढग गडद",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": null
-            },
-            "published": "2026-07-19T08:51:53",
-            "url": "https://www.loksatta.com/desh-videsh/us-airstrikes-on-iran-jordan-attack-american-troops-killed-latest-marathi-news-sgk-96-6027851/",
-            "image": "https://images.loksattaimg.com/2026/07/us-airstrikes-on-iran-jordan-military-conflict.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "e9ac98fc23b2",
+            "id": "5de4f8c4101c",
             "feed": "lokmat",
-            "title": "आमच्या हातात ब्लेड अन् तुमचा गळा असेल...; इराणमध्ये गृहयुद्धाची ठिणगी? अमेरिकेसोबत चर्चेत सहभागी असलेल्या नेत्यांना धमकी",
+            "title": "Russia-Ukraine War: युक्रेनच्या ३७० आत्मघाती ड्रोनने रशियाच्या आकाशात काळोख! संतापलेल्या पुतिन यांनी केला क्षेपणास्त्रांचा महावर्षाव; युद्ध आणखी भडकणार?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-07-19T08:21:50",
-            "url": "https://www.lokmat.com/international/we-will-have-a-blade-in-our-hands-and-your-throat-spark-of-civil-war-in-iran-threat-to-leaders-involved-in-talks-with-america-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raghachi-pezeshkian-34_2026071745265.jpg",
+            "published": "2026-07-19T14:18:34",
+            "url": "https://www.lokmat.com/international/russia-ukraine-war-370-ukrainian-suicide-drones-darken-russias-skies-angry-putin-launches-missile-barrage-will-the-war-flare-up-further-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ukrainian-drone-strikes-moscow-black-smok_2026071745384.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c2dd42945465",
-            "feed": "loksatta",
-            "title": "साकाची हॅट्ट्रिक ठरली भारी, एमबाप्पने रचला विश्वविक्रम; १० गोलच्या थरारक सामन्यात इंग्लंडने फ्रान्सला हरवून जिंकले कांस्यपदक!",
+            "id": "9c057e287c27",
+            "feed": "esakal",
+            "title": "Premium|Strait of Hormuz Conflict : अमेरिका-इस्राईल-इराण संघर्षात होर्मुझ का ठरली सर्वात महत्त्वाची सामरिक कडी?",
             "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-19T08:20:29",
-            "url": "https://www.loksatta.com/desh-videsh/football-fifa-world-cup-bronze-medal-match-france-vs-england-match-result-mbappe-saka-record-sgk-96-6027824/",
-            "image": "https://images.loksattaimg.com/2026/07/fifa-world-cup-france-vs-england-match-result-mbappe-saka.jpg.jpg",
+            "published": "2026-07-18T20:31:14",
+            "url": "https://www.esakal.com/premium-article/strait-of-hormuz-conflict-global-oil-supply-iran-us-israel-gulf-energy-crisis-shipping-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-18/xlgzqawd/Abhi-2.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "0f6f36f02d30",
+            "feed": "maharashtratimes",
+            "title": "Iran vs US : Middle east मध्ये Desalination plant फोडले, संघर्ष पेटला, आरपारचा खेळ सुरु",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-18T20:08:56",
+            "url": "https://maharashtratimes.com/video/mt-originals/iran-america-conflicts/videoshow/132482276.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "fccf34137fde",
+            "feed": "esakal",
+            "title": "Premium|Impact of Technology : स्मार्ट जग, असुरक्षित भविष्य?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-18T19:07:47",
+            "url": "https://www.esakal.com/premium-article/technology-impact-smart-living-health-environment-digital-life-smart-cities-future-balance-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-18/tursrbmk/Abhi.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "10eabc60d95b",
-            "feed": "esakal",
-            "title": "Gary Sobers: गॅरी सोबर्सच्या फटकेबाजीने दणाणले होते नागपूर विद्यापीठाचे मैदान, ६८ वर्षांपूर्वी ठोकलेल्या नाबाद १६१ धावा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-07-19T12:42:40",
-            "url": "https://www.esakal.com/krida/cricket/gary-sobers-161-not-out-nagpur-university-ground-historic-west-indies-vs-combined-universities-match-1958-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-19/s2ctgps2/Gary-Sobers.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bc4410316a39",
-            "feed": "esakal",
-            "title": "England vs France: साकाची हॅट्ट्रिक, इंग्लंडचा ६-४ ने दणदणीत विजय; एमबाप्पेने मोडला मेस्सीचा विश्वचषक विक्रम",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-19T11:49:01",
-            "url": "https://www.esakal.com/krida/england-vs-france-third-place-playoff-saka-hat-trick-mbappe-breaks-messi-world-cup-record-fifa-world-cup-2026-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-19/bvwwo8tz/fifa-world-cup-final-2026.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "53f253c55a8e",
+            "id": "e2ff6c6ebab7",
             "feed": "loksatta",
-            "title": "जपानमध्ये तिरंगा फडकला! PV Sindhu ने इतिहास घडवला; ‘हा’ रेकॉर्ड करणारी ठरली पहिलीच भारतीय खेळाडू",
+            "title": "“तो आता २० वर्षांचा नाही, तर…”, रोहित – विराटच्या भविष्याबाबत कपिल देव यांचं मोठं वक्तव्य, म्हणाले…",
             "source": {
                 "id": "loksatta",
                 "name": "Loksatta",
                 "website": "https://www.loksatta.com",
                 "category": null
             },
-            "published": "2026-07-19T11:36:27",
-            "url": "https://www.loksatta.com/krida/pv-sindhu-creates-history-becomes-first-ever-indian-women-to-win-japan-open-750-title-amd-2000-6028019/",
-            "image": "https://images.loksattaimg.com/2026/07/pv-sindhu-1-1.jpg",
+            "published": "2026-07-19T17:06:25",
+            "url": "https://www.loksatta.com/krida/former-world-cup-winning-captain-kapil-dev-reacts-on-virat-kohli-and-rohit-sharma-odi-cricket-future-amd-2000-6028635/",
+            "image": "https://images.loksattaimg.com/2026/06/rohit-sharma-virat-kohli-2.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "b83cf6df9bea",
+            "feed": "loksatta",
+            "title": "रोहित-विराटच्या जोडीने इतिहास घडवला! क्रिकेटच्या इतिहासात अशी कामगिरी करणारी पहिली भारतीय जोडी",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": null
+            },
+            "published": "2026-07-19T16:54:35",
+            "url": "https://www.loksatta.com/krida/rohit-sharma-virat-kohli-creates-history-become-first-indian-pair-to-play-400-matches-together-ind-vs-eng-lords-odi-bdg-99-6028603/",
+            "image": "https://images.loksattaimg.com/2026/07/ROKO.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "d78884737611",
+            "feed": "lokmat",
+            "title": "IND vs ENG : क्रिकेटच्या महानायकासाठी लॉर्ड्स झाले स्तब्ध; गॅरी सोबर्स यांच्या स्मरणार्थ एक मिनिट मौन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-07-19T16:01:45",
+            "url": "https://www.lokmat.com/cricket/news/england-and-india-players-observe-a-minutes-silence-in-memory-of-legendary-all-rounder-sir-gary-sobers-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/one-minute-silence-to-remember-gary-sobers-m_2026071745499.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "dfa42c81f3c7",
+            "id": "f033af21d98b",
             "feed": "lokmat",
-            "title": "रानडुकरांच्या त्रासापुढे शेतकरी पुरते धास्तावले; पन्हाळा परिसरात उसासह पिकांची नासधूस",
+            "title": "पर्यावरणवाद्यांच्या लढ्याला मोठे यश; रायगड जिल्ह्यातील ११ पाणथळींना लवकरच कायदेशीर संरक्षण",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-19T12:26:07",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/farmers-are-terrified-by-the-threat-of-wild-boars-crops-including-sugarcane-are-destroyed-in-the-panhala-area-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/u-34-wild-boar-cantrol_2026071745300.jpeg",
+            "published": "2026-07-19T17:03:15",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/a-big-success-for-environmentalists-fight-11-wetlands-in-raigad-district-will-soon-get-legal-protection-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-r-34-34-raigad_2026071745569.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "03dedb713f76",
-            "feed": "lokmat",
-            "title": "तुम्हीही टोमॅटोची लागवड करताय, नाशिक येथील 100 एकर क्षेत्रावर बोगस बियाणे आढळले!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-19T12:23:05",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-cultivating-tomatoes-bogus-seeds-were-found-on-100-acres-of-land-in-nashik-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tomato-beej_2026071745332.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "17fe5553764c",
+            "id": "430753e3f066",
             "feed": "loksatta",
-            "title": "कतरिना कैफने शेअर केले मुलाबरोबरचे फोटो; विहानची झलक दाखवत म्हणाली, “तू माझ्या आयुष्यातील…”",
+            "title": "Photos: ‘तारिणी’ मालिकेतील शिवानी सोनारचा स्टायलिश अंदाज; फोटो शेअर करत म्हणाली…",
             "source": {
                 "id": "loksatta",
                 "name": "Loksatta",
                 "website": "https://www.loksatta.com",
                 "category": null
             },
-            "published": "2026-07-19T12:11:29",
-            "url": "https://www.loksatta.com/manoranjan/bollywood/katrina-kaif-shares-photos-of-son-vihaan-kaushal-birthday-celebration-with-vicky-kaushal-hrc-97-6028073/",
-            "image": "https://images.loksattaimg.com/2026/07/katrina-kaif-birthday-celebration-son-vihaan-vicky-kaushal.jpg",
+            "published": "2026-07-19T16:31:17",
+            "url": "https://www.loksatta.com/photos/entertainment-gallery/6028570/tarini-marathi-tv-serial-fame-actress-shivani-sonar-stylish-look-photoshoot-viral-on-social-media-sdn-96/",
+            "image": "https://images.loksattaimg.com/2026/07/Shivani-Sonar-Stylish-Look-Photoshoot.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "436eeeae354e",
+            "feed": "lokmat",
+            "title": "HDFC, ICICI ते PNB...'या' मोठ्या बँकांनी पहिल्या तिमाहीत केली कोट्यवधींची कमाई, कर्जवाटपामुळे नफ्यात वाढ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-07-19T16:24:39",
+            "url": "https://www.lokmat.com/business/banking-loans/q1-bank-results-2026-hdfc-icici-to-pnb-these-big-banks-earned-crores-in-the-first-quarter-profit-increased-due-to-loan-distribution-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/banksss_2026071745536.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ]
 }
