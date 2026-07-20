@@ -26,7 +26,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          python -m pip install --upgrade pip
+          pip install requests feedparser lxml beautifulsoup4
 
       - name: Run news updater
         working-directory: updater
