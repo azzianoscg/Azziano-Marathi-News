@@ -1,331 +1,347 @@
 {
-    "lastUpdated": "20-07-2026 | 04:07 AM IST",
+    "lastUpdated": "20-07-2026 | 01:51 PM IST",
     "maharashtra": [
         {
-            "id": "bb4e777ec3d5",
-            "feed": "lokmat",
-            "title": "गाद्या, बादल्या, सॅनिटरी नॅपकिन... सगळेच नाल्यात !",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-20T03:08:41",
-            "url": "https://www.lokmat.com/mumbai/mattresses-buckets-sanitary-napkins-all-in-the-drain-a-a283-c941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-bmc_2026071745672.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e6263adf1f83",
-            "feed": "lokmat",
-            "title": "भंगारवाल्याकडे खंडणी; शिंदेसेनेच्या महिला उपजिल्हाप्रमुख पूजा बनसोडे यांना अटक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-20T02:59:39",
-            "url": "https://www.lokmat.com/navi-mumbai/extortion-to-scrap-dealer-shinde-senas-female-sub-district-chief-pooja-bansode-arrested-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pooja-bansode_2026071745670.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "762f37f38a05",
-            "feed": "lokmat",
-            "title": "पाकबरोबर चर्चेची तयारी तर वांगचुकबरोबर का नाही? उद्धव ठाकरे यांचा सवाल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-20T02:54:55",
-            "url": "https://www.lokmat.com/mumbai/why-are-we-ready-for-talks-with-pakistan-but-not-with-wangchuk-uddhav-thackerays-question-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shiv-sena-uddhav-thackeray-_2026071745666.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ada30a0105d2",
-            "feed": "loksatta",
-            "title": "मंत्रालयातील स्वच्छतागृहांची दैनावस्था; मुख्य सचिवांकडे तक्रार",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-20T02:06:00",
-            "url": "https://www.loksatta.com/mumbai/mantralaya-mumbai-contaminated-water-dirty-toilets-employees-letter-chief-secretary-infrastructure-issues-zws-70-6029223/",
-            "image": "https://images.loksattaimg.com/2026/07/mantralay-4.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d1f4784d8904",
-            "feed": "loksatta",
-            "title": "ग्रामीण भागातही इंग्रजी शाळांचे वाढते आकर्षण",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": null
-            },
-            "published": "2026-07-20T01:38:17",
-            "url": "https://www.loksatta.com/aurangabad/marathi-school-vs-english-medium-rural-parents-craze-chhatrapati-sambhajinagar-zws-70-6029215/",
-            "image": "https://images.loksattaimg.com/2026/07/english-medium-school-craze.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "india": [
-        {
-            "id": "f104c84ca9de",
-            "feed": "lokmat",
-            "title": "राष्ट्रीय महामार्गांचे काम महाराष्ट्रात ‘सुसाट’; देशाच्या एकूण कामांपैकी १० टक्के कामे राज्यात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-20T03:58:03",
-            "url": "https://www.lokmat.com/national/national-highways-work-in-maharashtra-is-well-done-10-percent-of-the-countrys-total-work-is-done-in-the-state-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nationls-road_2026071745683.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b9d188d1ad7f",
-            "feed": "lokmat",
-            "title": "काश्मीरमध्ये ढगफुटी; पूंछ-राजौरीत १६ मृत्युमुखी; अनेक जण बेपत्ता, अचानक आलेल्या पुराने जीवितहानी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-20T03:51:00",
-            "url": "https://www.lokmat.com/national/cloudburst-in-kashmir-16-dead-in-poonch-rajouri-many-missing-flash-floods-claim-lives-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jammu-kashmir-rain_2026071745682.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2c43404acdc6",
-            "feed": "lokmat",
-            "title": "सर्वपक्षीय बैठकीतून विरोधकांचा वॉकआऊट, नंतर पुन्हा सहभागी; संसदेचे पावसाळी अधिवेशन वादळी ठरण्याची चिन्हे",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-20T03:27:53",
-            "url": "https://www.lokmat.com/national/opposition-walks-out-of-all-party-meeting-then-rejoins-signs-that-the-monsoon-session-of-parliament-will-be-stormy-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/loksabha-parlment-meeting_2026071745677.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "199b5d2fdc00",
-            "feed": "lokmat",
-            "title": "हायकोर्टाच्या दणक्यानंतर रमेश म्हात्रेची शरणागती; ३ ऑगस्टपर्यंत न्यायालयीन कोठडी; कारागृहात रवानगी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-20T03:21:49",
-            "url": "https://www.lokmat.com/kalyan-dombivli/ramesh-mhatre-surrenders-after-high-courts-reprimand-judicial-custody-till-august-3-sent-to-jail-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramesh-mhatre-court_2026071745675.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "cf12bcb8f817",
-            "feed": "lokmat",
-            "title": "‘कॉक्रोच’चे आज 'चलो संसद', तरुणाईने दणाणणार राजधानी : समर्थकांना मोठ्या संख्येने जमण्याचे दीपकेंचे आवाहन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-20T03:15:42",
-            "url": "https://www.lokmat.com/national/cockroach-to-hold-chalo-sansad-today-capital-will-be-filled-with-youth-deepke-appeals-to-supporters-to-gather-in-large-numbers-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sonam-wangchuk-delhi-protest-hutt_2026071745674.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "world": [
-        {
-            "id": "61e881b23012",
-            "feed": "loksatta",
-            "title": "अमेरिकेला अयातुल्ला अली खामेनींची हत्या करणं कसं शक्य झालं? इराणची कुठे चूक झाली? परराष्ट्रमंत्र्यांचा मोठा खुलासा",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": null
-            },
-            "published": "2026-07-19T22:30:30",
-            "url": "https://www.loksatta.com/desh-videsh/ayatollah-ali-khamenei-assassination-us-iran-war-update-intel-leak-abbas-araghchi-security-breach-gkt-96-6029047/",
-            "image": "https://images.loksattaimg.com/2026/07/Ayatollah-Ali-Khamenei-Assassination.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "ab93d286b545",
-            "feed": "loksatta",
-            "title": "अमेरिकेशी युद्ध की शांतता? इराणचा अंतिम निर्णय कोण घेतं? परराष्ट्रमंत्री अब्बास अराघची यांचा मोजतबा खामेनींबाबत खुलासा",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": null
-            },
-            "published": "2026-07-19T19:57:11",
-            "url": "https://www.loksatta.com/desh-videsh/us-iran-war-update-abbas-araghchi-mojtaba-khamenei-decision-middle-east-gkt-96-6028899/",
-            "image": "https://images.loksattaimg.com/2026/07/Abbas-Araghchi-Mojtaba-Khamenei-Decision.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "93570889f997",
-            "feed": "lokmat",
-            "title": "६० किमीवर भारतीय सीमारेषा, LAC जवळ चीनचा युद्धसराव; लडाखमध्ये जिथे संघर्ष झाला, तिथेच...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-07-19T18:48:28",
-            "url": "https://www.lokmat.com/international/china-pla-releases-video-which-shows-exercise-being-carried-out-by-an-artillery-regiment-60-km-from-india-lac-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/china-army-exercise-near-lac_2026071745607.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7f4acbd0aefc",
-            "feed": "loksatta",
-            "title": "Chanakya Niti: तुमचा वेळ वाया घालवणाऱ्या अन् पैसा नष्ट करणाऱ्या लोकांपासून राहा दूर; अन्यथा भविष्य होईल उद्ध्वस्त!",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": null
-            },
-            "published": "2026-07-19T18:06:58",
-            "url": "https://www.loksatta.com/trending/chanakya-niti-stay-away-from-these-5-people-who-waste-your-time-and-money-otherwise-your-future-will-be-ruined-snk-94-6028660/",
-            "image": "https://images.loksattaimg.com/2026/07/chanakya_3f68af.png",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "sports": [
-        {
-            "id": "04c29c13e501",
-            "feed": "loksatta",
-            "title": "FIFA WC: मेस्सीचं स्वप्न भंगलं, स्पेन वर्ल्ड चॅम्पियन! थरारक सामन्यात अर्जेंटिनावर १-० ने मात; १६ वर्षांनंतर जेतेपदावर कोरलं नाव",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": null
-            },
-            "published": "2026-07-20T04:01:47",
-            "url": "https://www.loksatta.com/krida/spain-vs-argentina-fifa-world-cup-2026-final-highlights-spain-won-by-1-0-register-historic-win-after-16-years-ferran-torres-goal-amd-2000-6029236/",
-            "image": "https://images.loksattaimg.com/2026/07/spain-vs-argentina.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "6b5aa5f29033",
+            "id": "2fc9afccd7ec",
             "feed": "esakal",
-            "title": "FIFA WORLD CUP 2026 PRIZE MONEY:  ४,८१,४०,००,०००! स्पेनने विजेतेपदाच्या ट्रॉफीसह जिंकली बक्कळ रक्कम; अर्जेंटिनाला किती बक्षीस मिळाले वाचा...  जाणून घ्या वर्ल्ड कप विजेत्यांची यादी",
+            "title": "Konkan Voters SRR Campaign : गावाकडची नाळ धोक्यात? मुंबईतील चाकरमान्यांना ग्रामपंचायतींचे थेट कॉल; 'या' एका चुकीमुळे हक्काचं मत जाऊ शकतं!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-20T03:52:17",
-            "url": "https://www.esakal.com/krida/spain-crowned-world-champions-take-home-record-prize-money-full-fifa-world-cup-payout-list-winner-list-marathi-football-news-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-19/t2krz8io/Spain-vs-Argentina-FIFA-World-Cup-2026-Final-2.jpg",
+            "published": "2026-07-20T13:50:03",
+            "url": "https://www.esakal.com/kokan/konkan-migrants-special-voter-revision-srr-campaign-ratnagiri-sindhudurg-raigad-voter-list-document-verification-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-20/wc6ljk5i/Konkan-migrant-voter-verification-campaign",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e90393695ef8",
-            "feed": "lokmat",
-            "title": "Spain vs Argentina World Cup Final : स्पेन दुसऱ्यांदा जगजेत्ता! मेस्सीच्या अर्जेंटिनाचं स्वप्न भंगले",
+            "id": "095dfd6432a7",
+            "feed": "esakal",
+            "title": "Panchgani Tourism: पावसात खुलले पाचगणीचे निसर्गसौंदर्य! धबधबे, धुके अन् हिरवाई अनुभवण्यासाठी पर्यटकांची प्रचंड गर्दी",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
             },
-            "published": "2026-07-20T03:42:04",
-            "url": "https://www.lokmat.com/football/fifa-world-cup-final-2026-ferran-torres-clinched-spains-second-world-cup-title-with-an-extra-time-winner-against-lionel-messi-world-champions-argentina-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/spain-vs-argentina-world-cup-final-2026-m_2026071745680.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "business": [
-        {
-            "id": "6f8487895d54",
-            "feed": "lokmat",
-            "title": "Airtel च्या 'अनलिमिटेड 5G' डेटावर मर्यादा? हॉटस्पॉट शेअरिंगबाबत सोशल मीडियावर चर्चा; कंपनीने दिले स्पष्टीकरण",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-07-19T20:36:13",
-            "url": "https://www.lokmat.com/business/news/airtels-unlimited-5g-data-limit-social-media-discussion-on-hotspot-sharing-company-gives-clarification-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/airtel-unlimited-data_2026071745624.jpg",
+            "published": "2026-07-20T13:49:19",
+            "url": "https://www.esakal.com/satara/panchgani-comes-alive-in-monsoon-tourists-flock-to-enjoy-waterfalls-mist-and-lush-greenery-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-20/mczb8dhi/sudhir-jadhav-satara-22.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "2c87f0c61b0b",
+            "id": "7c9a1d739cbd",
+            "feed": "loksatta",
+            "title": "अभिजीत दिपकेंचे नागपूरच्या जनतेला आवाहन आणि भर पावसात रस्त्यावर तरुणाईसह वृध्द महिलाही…",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-20T13:46:20",
+            "url": "https://www.loksatta.com/nagpur/abhijit-dipke-nagpur-protest-sonam-wangchuk-support-updates-marathi-news-rak-94-6029882/",
+            "image": "https://images.loksattaimg.com/2026/07/latest-marathi-news-2026-07-20T134310.643.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5720e0e99fc1",
+            "feed": "loksatta",
+            "title": "लहान मुलं पळवणारा असल्याच्या अफवेवरून तरुणाला मारहाण; मारहाणीचा व्हिडीओ व्हायरल",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": null
+            },
+            "published": "2026-07-20T13:42:18",
+            "url": "https://www.loksatta.com/vasaivirar/nalasopara-mob-lynching-child-lifter-rumor-youth-beaten-tulinj-police-palghar-sap-05-6029864/",
+            "image": "https://images.loksattaimg.com/2026/07/New-Project-2026-07-12T131143.885-7.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "5dee67fe314f",
             "feed": "lokmat",
-            "title": "Draksh Bag : द्राक्ष बागेत 'केवडा' या बुरशीजन्य रोगाचा प्रादुर्भाव, कसा कराल बंदोबस्त, वाचा सविस्तर",
+            "title": "सोनम वांगचुक यांच्या आमरण उपोषणाच्या समर्थनार्थ ठाण्यात आंदोलन, धर्मेंद्र प्रधान यांच्या राजीनाम्याची मागणी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-20T13:35:27",
+            "url": "https://www.lokmat.com/thane/protest-in-thane-in-support-of-sonam-wangchuks-fast-unto-death-demand-for-dharmendra-pradhans-resignation-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thane-andolan-1_2026071745965.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "eaedc0562b7a",
+            "feed": "maharashtratimes",
+            "title": "Shreyas Talpade : कॅन्सरचं नाव ऐकलं, तरी धक्का बसायचा,  परिस्थिती आणखी भीषण होईल;  पदार्थांमधील भेसळ विचार करायला लावणारी,  श्रेयस तळपदेनं व्यक्त केली चिंता",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-20T13:48:25",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/shreyas-talpade-talks-about-adulteration-of-food-and-the-india-story-slow-poison-in-progress-movie/articleshow/132509721.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "680fee735ad3",
+            "feed": "esakal",
+            "title": "Measles Outbreak In India: WHO चा धक्कादायक अहवाल! गोवरच्या रुग्णांमध्ये भारत जगात दुसऱ्या क्रमांकावर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-20T13:47:19",
+            "url": "https://www.esakal.com/health/measles-outbreak-india-who-report-second-highest-cases-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-20/j5peowuh/Measles-Cases.png",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "e734c7ddd05d",
+            "feed": "loksatta",
+            "title": "Photos: ‘सनई चौघडे’ मालिकेतील जय आणि शरूचा भरपावसात रोमँटिक अंदाज; फोटो व्हायरल",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": null
+            },
+            "published": "2026-07-20T13:46:38",
+            "url": "https://www.loksatta.com/photos/entertainment-gallery/6029877/zee-marathi-sanai-chaughade-tv-serial-sharvari-parab-jay-rajyadhyaksha-romantic-photoshoot-in-rain-sdn-96/",
+            "image": "https://images.loksattaimg.com/2026/07/Sanai-Chaughade-Sharvari-Jay-Romantic-Photoshoot.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "074286340f42",
+            "feed": "loksatta",
+            "title": "‘रामायण’ चित्रपटाच्या भव्य सोहळ्यात अवतरले दिग्गज कलाकार; ‘या’ तारखेला होणार ट्रेलर रिलीज!",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": null
+            },
+            "published": "2026-07-20T13:46:37",
+            "url": "https://www.loksatta.com/photos/entertainment-gallery/6029880/ramayan-pratham-sankalp-event-ranbir-kapoor-sai-pallavi-yash-movie-trailer-release-date-svk-05/",
+            "image": "https://images.loksattaimg.com/2026/07/New-Project-160.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "54ea35476688",
+            "feed": "maharashtratimes",
+            "title": "Sonam Wangchuk: भयसूचक संवादहीनता",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-20T13:42:54",
+            "url": "https://maharashtratimes.com/editorial/sonam-wangchuk-hunger-strike-special-explained/articleshow/132509451.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "world": [
+        {
+            "id": "9c2d13c108da",
+            "feed": "lokmat",
+            "title": "सर्व काही ठीक चाललेले! भारतीय क्रू असलेल्या जहाजावर अचानक रशियाची मिसाईल आदळली, एका मागोमाग एक अशी तीन...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-07-20T13:25:03",
+            "url": "https://www.lokmat.com/international/russia-ukraine-war-everything-was-going-well-a-russian-missile-suddenly-hit-a-ship-with-an-indian-crew-in-black-sea-three-such-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-attack-on-black-sea-ships-indian_2026071745959.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "dccd6264420e",
+            "feed": "lokmat",
+            "title": "Crime News : मुस्कान, बबीता अन् दामिनी… पतीचा काटा काढणाऱ्या तीन महिला, आता एकच जेलमध्ये!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-19T20:35:01",
-            "url": "https://www.lokmat.com/agriculture/smart-farming/latest-news-outbreak-of-fungal-disease-kevda-in-grape-farm-how-to-control-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/draksh-farm_2026071745614.jpeg",
+            "published": "2026-07-20T13:07:29",
+            "url": "https://www.lokmat.com/crime/crime-news-muskan-babita-and-damini-three-women-who-cheated-on-their-husbands-now-only-one-in-jail-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/muskan-babita_2026071745934.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "577516594c5d",
+            "feed": "loksatta",
+            "title": "US Iran conflict: अमेरिका व इराण यांच्यात हल्ल्यांची तीव्रता का वाढली? युद्धजन्य परिस्थितीमुळे भारताला कोणता धोका?",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": null
+            },
+            "published": "2026-07-20T11:57:51",
+            "url": "https://www.loksatta.com/explained/us-iran-conflict-hormuz-strait-impact-on-india-war-crisis-css-98-6029606/",
+            "image": "https://images.loksattaimg.com/2026/07/New-Project-2026-07-20T115521.364.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "2547c9f26d56",
+            "feed": "loksatta",
+            "title": "जगातील ८४.४ कोटी मूत्रपिंड विकारग्रस्तांपैकी निम्म्या रुग्णांचे निदानच नाही! ‘द लॅन्सेट’च्या अभ्यासातून धक्कादायक वास्तव",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": null
+            },
+            "published": "2026-07-20T11:38:11",
+            "url": "https://www.loksatta.com/lifestyle/health-tips/chronic-kidney-disease-lancet-study-silent-killer-global-health-warning-health-news-marathi-hsp-89-6029570/",
+            "image": "https://images.loksattaimg.com/2026/07/Gemini_Generated_Image_nnt707nnt707nnt7.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "ab7940423964",
+            "feed": "esakal",
+            "title": "UK Visa Rules 2026: स्कॉलरशिप मिळूनही यूकेचा व्हिसा हुकणार? विद्यार्थ्यांचे परदेशी शिक्षणाचे स्वप्न टांगणीला!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-20T11:25:46",
+            "url": "https://www.esakal.com/education-jobs/uk-visa-rules-2026-scholarship-milunyahi-visa-huknar-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-20/oqvahvhg/UK-Visa-Rules-2026.png",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        }
+    ],
+    "sports": [
+        {
+            "id": "1e89f08a7e9f",
+            "feed": "maharashtratimes",
+            "title": "Rohit Sharma : अखेर हिटमॅन मनातलं बोलला! रोहित शर्मा याचे निवृत्तीबाबत मोठे विधान; आता माझं एकच काम... काय म्हणाला?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-07-20T13:26:31",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-player-rohit-sharma-big-statement-on-retirement-after-series/articleshow/132509425.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "662a5adc47c2",
+            "feed": "loksatta",
+            "title": "२०२७ चा वर्ल्डकप टीम इंडिया जिंकणार? स्पेनच्या विजयानंतर जुळून आलाय खास योगायोग; १६ वर्षांपूर्वी नेमकं काय घडलं होतं?",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": null
+            },
+            "published": "2026-07-20T13:21:42",
+            "url": "https://www.loksatta.com/krida/spain-fifa-world-cup-2026-win-india-cricket-world-cup-2027-coincidence-connection-ms-dhoni-bdg-99-6029758/",
+            "image": "https://images.loksattaimg.com/2026/07/ODI-WC.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "43872bcb49e2",
+            "id": "ece21fc13838",
             "feed": "lokmat",
-            "title": "टाटा समूहाची मोठी झेप! पुढील १८ महिन्यांत एअर इंडियाच्या ताफ्यात दाखल होणार ६० वीन विमाने...",
+            "title": "आता २०२७चा क्रिकेट वर्ल्डकप टीम इंडिया जिंकणार; सोशल मीडियावर 'त्या' योगायोगाची चर्चा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-07-20T13:18:14",
+            "url": "https://www.lokmat.com/cricket/news/fifa-world-cup-2026-now-team-india-will-win-the-2027-cricket-world-cup-that-coincidence-is-being-discussed-on-social-media-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/team-india-2027-world-cup-1_2026071745851.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "business": [
+        {
+            "id": "65ba31ec1bd6",
+            "feed": "lokmat",
+            "title": "\"हे त्याच्या कठोर परिश्रमाचं फळ...\",'रामायण' सिनेमात पतीला लक्ष्मणाच्या भूमिकेत पाहून भावुक झाली अभिनेत्री, पोस्ट शेअर करत म्हणाली...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-20T13:32:14",
+            "url": "https://www.lokmat.com/filmy/television/actress-sargun-mehta-shares-emotional-post-after-seeing-her-husband-ravi-dubey-play-laxman-role-in-ramayana-movie-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ravi-dubey-1_2026071745962.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "1fcfa2eaa504",
+            "feed": "loksatta",
+            "title": "Shankar Sharma Stock Market Prediction: हर्षद मेहता काळातील तो ‘मॅजिक नंबर’ आता शक्य नाही! भारतीय शेअर बाजाराबद्दल शंकर शर्मांचा मोठा इशारा",
+            "source": {
+                "id": "loksatta",
+                "name": "Loksatta",
+                "website": "https://www.loksatta.com",
+                "category": "business"
+            },
+            "published": "2026-07-20T13:28:16",
+            "url": "https://www.loksatta.com/business/news/shankarlal-sharma-indian-stock-market-prediction-harshad-mehta-cagr-returns-aam-93-6029798/",
+            "image": "https://images.loksattaimg.com/2026/07/shankar-sharma-stock-market-prediction-harshad-mehta-cagr.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "cd244b2517c3",
+            "feed": "lokmat",
+            "title": "गुंतवणुकीची मोठी संधी; उद्या होणार SBI फंड्स मॅनेजमेंट IPO ची लिस्टिंग; ग्रे मार्केटमधून सकारात्मक संकेत....",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-07-19T19:40:40",
-            "url": "https://www.lokmat.com/business/news/air-india-fleet-expansion-60-new-aircraft-to-join-air-indias-fleet-in-the-next-18-months-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/air-india-fleet_2026071745618.jpg",
+            "published": "2026-07-20T13:21:48",
+            "url": "https://www.lokmat.com/business/stock-market/sbi-funds-management-ipo-investment-opportunity-sbi-funds-management-ipo-listing-tomorrow-positive-signals-from-the-grey-market-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sbi-fund-ipo_2026071745954.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
