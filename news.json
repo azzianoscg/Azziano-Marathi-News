@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "21-07-2026 | 02:25 AM IST",
+    "lastUpdated": "21-07-2026 | 05:44 AM IST",
     "maharashtra": [
+        {
+            "id": "b922fdd842d4",
+            "feed": "lokmat",
+            "title": "NEET Protest In Mumbai: चैत्यभूमीवर जाण्याआधीच आंदाेलकांना पाेलिसांनी अडविले; धरपकड, झटापटही",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-21T05:28:49",
+            "url": "https://www.lokmat.com/mumbai/neet-protest-in-mumbai-police-stopped-the-protesters-before-they-could-reach-chaityabhoomi-arrests-and-scuffles-ensued-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-chaitybhumi-protest_2026071746397.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2265886b8251",
+            "feed": "lokmat",
+            "title": "शनिचरा मार्केटमधील गुन्हेगारांच्या अड्ड्यांवर बुलडोजर, चिंचखेडेसह अनेकांचे अड्डे उध्वस्त; नागरिकांना दिलासा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-21T03:24:50",
+            "url": "https://www.lokmat.com/nagpur/bulldozers-on-the-places-of-criminals-in-shanichara-market-chinchkhede-and-many-others-place-destroyed-relief-for-citizens-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjruyj_2026071746393.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "eda9f0b03ea4",
+            "feed": "lokmat",
+            "title": "गोखले, चिंचखेडे दोन्ही टोळ्यांवर मकोका लागणार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-21T03:02:09",
+            "url": "https://www.lokmat.com/nagpur/mcoca-will-be-imposed-on-both-gokhale-and-chinchkhede-groups-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-reds-ssd_2026071746389.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c60a14e34e74",
             "feed": "esakal",
@@ -32,136 +80,88 @@
             "image": "https://cf-images.assettype.com/esakal/2025-02-28/az34zy3w/sudhir-jadhav-satara-12.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "68ec2b7eab13",
-            "feed": "esakal",
-            "title": "कामगारानेच बनविला मालकाला लुटण्याचा प्लॅन! गावाकडील सराईत गुन्हेगारांची घेतली मदत, पैसे घेऊन मालकाची कार निघाली, हातातील बंदुक दाखवून तिघांनी कार अडविली, पण चालकाने असे काही केले की प्लॅनच फसला...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-20T23:55:00",
-            "url": "https://www.esakal.com/maharashtra/it-was-the-worker-himself-who-hatched-the-plot-to-rob-his-employer-he-enlisted-the-help-of-seasoned-criminals-from-his-village-the-employer-set-out-in-his-car-carrying-cash-and-three-men-intercepted-the-vehicle-by-brandishing-a-gunbut-the-drivers-quick-thinking-caused-the-entire-plan-to-backfire",
-            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/1pistol_0.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fc866a443763",
-            "feed": "esakal",
-            "title": "High Speed Train : पुरंदर विमानतळासाठी पुण्यातून वेगवान रेल्वे; दिवे घाटात जुळ्या बोगद्यांचा विचार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-20T23:39:29",
-            "url": "https://www.esakal.com/pune/high-speed-rail-link-planned-from-pune-to-purandar-airport-twin-tunnels-proposed-through-dive-ghat-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-20/0cuuczvc/High-Speed-Train",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c64803ab8461",
-            "feed": "lokmat",
-            "title": "कोयना साठा ६० टीएमसीच्या उंबरठ्यावर, पाथरपुंजला १८१ मिलिमीटर; कण्हेर, बलकवडी धरणातून पाण्याचा विसर्ग",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-20T23:20:45",
-            "url": "https://www.lokmat.com/satara/koyna-reservoir-at-60-tmc-patharpunjal-at-181-mm-water-released-from-kanher-balkawadi-dams-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/koina-hf_2026071746379.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "2354c5cfd668",
+            "id": "7ff8914b0ffe",
             "feed": "lokmat",
-            "title": "सिक्किममध्ये दरड कोसळली, बोगद्यात २७ कामगार अडकले; विषारी वायूच्या गळतीने बचावकार्यात अडथळे",
+            "title": "Cockroach Janata Party Protest Delhi: जंतर-मंतरवर घुमला तरुणाईचा एल्गार! आंदोलकांचा बॅरिकेड्स तोडत पुढे जाण्याचा प्रयत्न",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-07-21T00:29:51",
-            "url": "https://www.lokmat.com/national/landslide-in-sikkim-27-workers-trapped-in-tunnel-toxic-gas-leak-hampers-rescue-operations-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sikkim-fre_2026071746384.jpg",
+            "published": "2026-07-21T05:16:53",
+            "url": "https://www.lokmat.com/national/cockroach-janata-party-protest-delhi-youths-elgar-revolves-around-jantar-mantar-protesters-try-to-move-forward-by-breaking-barricades-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/delhi-jantar-mantar-protest_2026071746394.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d67ce629c0af",
-            "feed": "lokmat",
-            "title": "डहाणूत भरदिवसा न्यू लक्ष्मी ज्वेलर्सवर सशस्त्र दरोडा; लाखोचे दागिने लंपास",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-20T23:28:12",
-            "url": "https://www.lokmat.com/vasai-virar/armed-robbery-at-new-lakshmi-jewellers-in-broad-daylight-in-dahanu-jewellery-worth-lakhs-looted-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jkryik_2026071746381.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "caf1a2e2093e",
-            "feed": "esakal",
-            "title": "रक्तबंबाळ आंदोलन! कुणाचं डोकं फुटलं तर कुणाचं नाक... CJP आंदोलनातील हादरवून टाकणारी दृश्ये समोर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-20T22:18:24",
-            "url": "https://www.esakal.com/ampstories/web-story/from-broken-noses-to-head-injuries-shocking-images-emerge-from-cjp-parliament-protest-see-photos-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-20/kogiwpj3/CJP-Parliament-Protest-Violence-Photo.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "36bca100d452",
+            "id": "9253b4d79839",
             "feed": "maharashtratimes",
-            "title": "Hema Malini : 'आंदोलनातून काहीही साध्य होणार नाही', CJP आंदोलनावर हेमा मालिनी यांची प्रतिक्रिया",
+            "title": "अंक भविष्य, 21 July 2026: मूलांक 1 सावध राहा, वस्तू हरवण्याची भीती! मूलांक 5 प्रोजेक्ट वेळेत पूर्ण! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-20T21:23:23",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/hema-malini-reacted-on-cjp-protest-talks-about-modi-government/articleshow/132518979.cms",
+            "published": "2026-07-21T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-21-july-2026-gajakesari-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/132518725.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "4325b2708cbf",
+            "id": "0f1201cd02ff",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 21 जुलै 2026 : या राशींना मिळणार गुडन्यूज  तर या राशींना बसणार मोठा फटका ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-21T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-21-july-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/132518585.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "53a9a7a1a9d3",
             "feed": "esakal",
-            "title": "''E20 पेट्रोलमुळे जुन्या गाड्यांचेही नुकसान होत नाही'', 'इथेनॉल'वरुन उपस्थित झालेल्या प्रश्नांवर संसदेत सविस्तर उत्तर",
+            "title": "अन्नाची विषबाधा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-20T21:21:47",
-            "url": "https://www.esakal.com/sci-tech/e20-petrol-safe-old-cars-government-parliament-clarification-ethanol-blending-engine-performance-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-20/wdm0yfk1/Latest-Marathi-Breaking-News-2026-07-20T211857.535.jpg",
+            "published": "2026-07-21T04:54:00",
+            "url": "https://www.esakal.com/health/food-poisoning-causes-symptoms-and-prevention-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-20/6hqftslx/Food-Poisoning",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
+        },
+        {
+            "id": "81ff011a9a95",
+            "feed": "lokmat",
+            "title": "CJP Delhi protest violence: CJP आंदोलनात राडा! ५ वरिष्ठ IPS अधिकाऱ्यांसह ११८ पोलीस जखमी, १५-२० वाहनांची तोडफोड; ७० हून अधिक ताब्यात!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-07-21T02:47:19",
+            "url": "https://www.lokmat.com/national/cjp-protest-118-police-officers-including-5-senior-ips-officers-injured-15-20-vehicles-vandalised-70-arrested-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cjp-delhi-protest-violence-fd-dgd-f_2026071746392.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "world": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "23db40828a8d",
+            "feed": "lokmat",
+            "title": "आयसीआयसीआय बँकेच्या गोल्ड लोन घोटाळ्यात आणखी एक आरोपी जेरबंद",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-21T02:54:06",
+            "url": "https://www.lokmat.com/crime/another-accused-arrested-in-icici-bank-gold-loan-scam-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjkyivi_2026071746388.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "711fc45fb4ee",
             "feed": "lokmat",
             "title": "कुलगुरू डॉ. विलास खर्चे रमले भात लागवडीत, इगतपुरी विभागीय संशोधन केंद्रास भेट",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/anand-raste_2026071746280.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "166a2507d98b",
-            "feed": "lokmat",
-            "title": "ISRO मध्ये ₹४० हजारांची नोकरी ते आज एका रॉकेट कंपनीचे CEO; कोण आहेत पवन कुमार चंदना?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-07-20T18:53:00",
-            "url": "https://www.lokmat.com/business/news/from-a-rs40000-job-in-isro-to-ceo-of-a-rocket-company-today-who-is-pawan-kumar-chandana-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rocket-launch_2026071746304.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
