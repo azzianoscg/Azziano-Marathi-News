@@ -1,299 +1,347 @@
 {
-    "lastUpdated": "22-07-2026 | 05:37 AM IST",
+    "lastUpdated": "22-07-2026 | 03:37 PM IST",
     "maharashtra": [
         {
-            "id": "364af65e6e1e",
+            "id": "a9a5fc3b5284",
+            "feed": "esakal",
+            "title": "Jalna Congress BJP Protest: जालन्यात काँग्रेस-भाजप कार्यकर्ते आमनेसामने; दिल्लीतील आंदोलनाचे पडसाद",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-22T15:32:43",
+            "url": "https://www.esakal.com/marathwada/jalna-congress-bjp-workers-face-off-delhi-protest-fallout-kalyan-kale-office-police-intervention-maharashtra-news-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/30n5h4nf/Abhi.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b7c79fe15f59",
+            "feed": "esakal",
+            "title": "Wagholi Gas Leak: मुलींच्या वसतिगृहात मध्यरात्री गॅस गळती, अनर्थ टळला; वाघोलीतील जी एच रायसोनी संकुलातील वसतिगृहातील प्रकार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-22T15:27:12",
+            "url": "https://www.esakal.com/pune/wagholi-gh-raisoni-girls-hostel-gas-leak-midnight-evacuation-hostel-safety-student-alert-major-mishap-pune-news-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/0tdudsew/Abhi-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0901ca4e8d8b",
+            "feed": "maharashtratimes",
+            "title": "अजित पवार यांच्यासोबतच्या अमाप आठवणी; धनंजय मुंडे, अदिती तटकरेंना अश्रू अनावर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-22T15:20:55",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/dhananjay-munde-aditi-tatkare-gets-emotional-on-ajit-pawar-s-birth-anniversary/videoshow/132555869.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d9254ce72c62",
+            "feed": "esakal",
+            "title": "Live Updates Marathi : उजनी धरणातून भीमा नदीत ३५०० क्युसेक ने विसर्ग सुरू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-22T15:16:05",
+            "url": "https://www.esakal.com/maharashtra/maharashtra-live-news-22-july-2026-india-trending-news-today-mumbai-rains-2026-neet-ug-2026-protest-cjp-jantar-mantar-sonam-wangchuk-update-assam-floods-india-weather-alert-rahul-gandhi-protest-farmer-protest-fta-mumbai-rains-today-pune-heavy-rain-alert-maharashtra-monsoon-2026-mumbai-weather-update-pune-ghats-red-alert-maharashtra-rain-news-ymk86-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-21/2m67ubu7/live-update.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3d09d51a3a79",
             "feed": "lokmat",
-            "title": "बेस्ट बस अपघात मानवी चुकांमुळेच, बेस्ट प्रशासनाने केलेल्या प्राथमिक चौकशीत ठपका",
+            "title": "संशोधकांना गाइड मिळत नाही, कडक नियम लागू; नागपूर विद्यापीठाच्या पीएचडी नियमांवर प्रश्नचिन्ह",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-22T05:16:03",
-            "url": "https://www.lokmat.com/mumbai/best-bus-accident-was-due-to-human-error-preliminary-investigation-conducted-by-best-administration-found-fault-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-best-accident_2026071747067.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9b0f22af9770",
-            "feed": "esakal",
-            "title": "Mottled Wood Owl : लालसर डोळे, अंगावर राखाडी-पांढऱ्या रंगांचे ठिपके अन् झाडांच्या खोडात लपणारा पक्षी! भुदरगडच्या जंगलात आढळले दुर्मीळ 'रक्तलोचन' घुबड",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-22T05:15:48",
-            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/mottled-wood-owl-spotted-in-bhudargad-kolhapur-first-official-record-rare-bird-biodiversity-conservation-western-maharashtra-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-21/yxml2hm3/Rare-bird-discovered-in-Maharashtra-forest",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "acb0da9b8b52",
-            "feed": "esakal",
-            "title": "Khadakwasla Dam Water Storage : पुणेकरांची पाण्याची चिंता मिटणार! पानशेत धरण 69 टक्के भरले; खडकवासला साखळीत 'इतके' टीएमसी पाणी जमा, पाहा पाण्याची स्थिती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-22T04:58:34",
-            "url": "https://www.esakal.com/pune/panshet-dam-water-level-69-percent-khadakwasla-project-water-storage-pune-water-supply-heavy-rain-monsoon-update-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-09/bucwn63c/Khadakwasla-reservoir-water-release-news",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0f51c5bc3431",
-            "feed": "esakal",
-            "title": "Maharashtra Farm Loan Waiver : अजितदादांच्या जयंतीचा मुहूर्त! 56 लाख शेतकऱ्यांना 37 हजार कोटी रुपयांची कर्जमाफी; कर्जमुक्तीची पहिली यादी आज होणार प्रसिद्ध",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-22T04:43:14",
-            "url": "https://www.esakal.com/mumbai/maharashtra-farm-loan-waiver-2026-ahilyadevi-holkar-crop-loan-waiver-beneficiary-list-income-tax-verification-cm-devendra-fadnavis-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-21/e4phzbng/Maharashtra-farm-loan-waiver-latest-news",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a276425ff983",
-            "feed": "esakal",
-            "title": "Pune Red Alert : पुणे जिल्ह्याला आज 'रेड अलर्ट'; पुढील दोन दिवस पावसाचा जोर कायम राहणार, हवामान विभागाचा इशारा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-22T04:24:35",
-            "url": "https://www.esakal.com/pune/pune-heavy-rain-red-alert-imd-weather-forecast-pune-district-monsoon-update-july-2026-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-21/9n4gqvt3/Pune-district-weather-forecast",
+            "published": "2026-07-22T15:12:01",
+            "url": "https://www.lokmat.com/nagpur/researchers-do-not-get-a-guide-strict-rules-apply-question-mark-on-nagpur-universitys-phd-rules-a-a1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-07-22-at-3.11.07-pm-1_2026071747482.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "5669d78a247e",
-            "feed": "lokmat",
-            "title": "स्थानिक स्वराज्य संस्थांच्या निवडणुका लांबवू नका; सर्वोच्च न्यायालयाचे राज्य निवडणूक आयोगाला निर्देश",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-22T05:31:09",
-            "url": "https://www.lokmat.com/national/dont-delay-local-body-elections-supreme-court-directs-state-election-commission-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supreme-court-election-local-body_2026071747071.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "463d6ef37650",
-            "feed": "lokmat",
-            "title": "राहुल, प्रियांकांचा पंतप्रधानांच्या घराबाहेर ठिय्या; तरुणांच्या आंदोलनाला विरोधकांचे बळ : राजकीय नेते जंतर-मंतरवर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-22T05:24:25",
-            "url": "https://www.lokmat.com/national/rahul-priyanka-sit-outside-pms-house-oppositions-support-for-youths-protest-political-leaders-at-jantar-mantar-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/delhi-congress-rahul-gandhi-protest_2026071747069.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "82e02d80eaea",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 22 जुलै 2026 : या राशींसाठी मंगलकार्याचे योग तर या राशींचा दिवस अडचणींचा ! पहा तुमचे राशिभविष्य काय सांगते ?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-22T05:00:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-22-july-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/132542809.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "9900da6cded4",
-            "feed": "maharashtratimes",
-            "title": "अंक भविष्य, 22 July 2026: मूलांक 2 सकारात्मक विचार करा! मूलांक 8 ऑफिसमध्ये हुशारीचे कौतुक! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-22T05:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-22-july-2026-vashi-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/132542128.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2fe40ed4a93c",
-            "feed": "lokmat",
-            "title": "\"विद्यार्थ्यांना राजकीय 'मोहरा' बनवू नका... NEET वरील चर्चेसाठी सरकार पूर्णपणे तयार!\"; धर्मेंद्र प्रधान यांचा राहुल गांधींवर पलटवार!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-22T03:04:11",
-            "url": "https://www.lokmat.com/national/do-not-make-students-political-vanguards-government-fully-ready-for-discussion-on-neet-dharmendra-pradhan-reaction-rahul-gandhi-neet-protest-pm-residence-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dharmendra-pradhan-on-rahul-gandhi-neet_2026071747062.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "world": [
-        {
-            "id": "445bf7b25778",
-            "feed": "maharashtratimes",
-            "title": "‘४४८ करोड बँकेत पण वर्ल्ड ट्रॉफी प्लास्टिकच्या पिशवीत’, फुटबॉल फॅन्स स्पॅनिश खेळाडूंवर भडकले, व्हिडीओ व्हायरल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-21T14:30:35",
-            "url": "https://maharashtratimes.com/viral/viral-news/spains-marc-cucurella-sparks-buzz-after-carrying-world-cup-trophy-in-a-plastic-bag/articleshow/132532229.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "40d4d3c6863f",
+            "id": "ef246f7fb4b1",
             "feed": "esakal",
-            "title": "तूपात भाजलेला लसूण ठरतो आरोग्यासाठी अमृत! 'हे' आहेत फायदे",
+            "title": "शिक्षणमंत्री असेलल्या धर्मेंद्र प्रधानांचं शिक्षण किती?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-21T13:11:51",
-            "url": "https://www.esakal.com/ampstories/web-story/garlic-with-ghee-benefits-for-immunity-heart-digestion-blood-pressure-who-should-not-eat-garlic-health-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-21/pyt3sl1u/GARLIC-HEALTH-BENEFITS",
+            "published": "2026-07-22T15:34:09",
+            "url": "https://www.esakal.com/ampstories/web-story/dharmendra-pradhan-education-cjp-protests-delhi-jantar-mantar-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/yp01v9a0/Dharmendra-Pradhan-Educational-Qualification-1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "ecda7dc9063a",
+            "feed": "esakal",
+            "title": "Atom Bomb Sweet: इथली माणसं ॲटम बॉम्बही खातात का?\" इंदिरा गांधीही झाल्या होत्या हैराण; जौनपूरच्या प्रसिद्ध मिठाईची जाणून घ्या रेसिपी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-22T15:33:42",
+            "url": "https://www.esakal.com/food/jaunpur-atom-bomb-sweet-unique-name-and-taste-drives-daily-sales",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/ms2w4xjs/jaunpur-famous-atom-bomb-mithai-1.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "f3bf14f17bd3",
+            "feed": "maharashtratimes",
+            "title": "Couple Dispute: प्रेम करतोस ना, मग सिद्ध करून दाखव! विवाहित GFचं बोलणं मनावर घेतलं; BFचा जीव गेला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-22T15:32:05",
+            "url": "https://maharashtratimes.com/india-news/up-shocker-kanpur-youth-dies-after-alleged-remarks-by-married-girlfriend-during-dispute/articleshow/132555756.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "c75585759e25",
+            "feed": "lokmat",
+            "title": "Commonwealth Games 2026: कॉमनवेल्थ गेम्स 2026 स्पर्धेचे वेळापत्रक जाहीर; कधी आणि कुठं होणार भारतीय अॅथलेटिक्सचे सामने?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-22T15:31:11",
+            "url": "https://www.lokmat.com/other-sports/commonwealth-games-india-schedule-neeraj-chopra-mirabai-chanu-lovlina-borgohain-lead-india-medal-hopes-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/neeraj-chopra-2_2026071747496.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "60336d23d340",
+            "feed": "maharashtratimes",
+            "title": "Manoj Muntashir : 'CJP आंदोलक विद्यार्थी हे देशद्रोही,पूर्ण जबाबदारीनेच बोलतोय', बॉलिवूडमधील लेखकाचे वक्तव्य, नेटकऱ्यांचा संताप",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-22T15:30:39",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/manoj-muntashir-labels-jantar-mantar-protesters-as-traitors-faces-severe-backlash/articleshow/132555567.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "world": [
+        {
+            "id": "c671a5aa5185",
+            "feed": "lokmat",
+            "title": "जगातील सर्वात सुरक्षित ठिकाण! अणुहल्ल्याचाही परिणाम नाही; जाणून घ्या येथे किती लोक राहू शकतात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-22T14:24:14",
+            "url": "https://www.lokmat.com/jarahatke/interesting-facts-finland-helsinki-bunker-city-world-most-secure-nuclear-bunker-a-a583/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/finland-bunker2_2026071747422.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "2cc0425b10ec",
+            "feed": "esakal",
+            "title": "Saharanpur Furniture: अशी बनते सहारणपूरची जगप्रसिद्ध 'लाख लाकडी कला'! जाळीदार नक्षीकाम आणि मुघलाई फर्निचरने जिंकली देश-विदेशातील मने",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-22T13:07:26",
+            "url": "https://www.esakal.com/lifestyle/saharanpur-woodcraft-world-famous-lac-wood-art-furniture-history",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/qmth08zc/saharanpur-wood-craft-history.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "04ed45e5b424",
+            "feed": "esakal",
+            "title": "बापरे! या लोकांसाठी लसूण ठरू शकतो घातक! का आणि कुणी खाऊ नये? वाचा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-22T12:36:00",
+            "url": "https://www.esakal.com/ampstories/web-story/garlic-side-effects-who-should-not-eat-garlic-health-risks-garlic-overconsumption-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/iogvfq7y/GARLIC-SIDE-EFFECTS",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "0f9562790b75",
+            "feed": "esakal",
+            "title": "Press Freedom Debate: पत्रकारांच्या खासगी जीवनात लुडबुड, नातेवाइकांच्या ‘कॉल रेकॉर्ड’साठी ट्रम्प प्रशासनाचा प्रयत्न",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-22T12:14:10",
+            "url": "https://www.esakal.com/global/donald-trump-new-york-times-journalists-call-records-press-freedom-media-privacy-air-force-one-report-us-news-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/wskcuvwh/Abhi.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "796e7af0ad1a",
+            "feed": "esakal",
+            "title": "Premium|War and Peace Philosophy : युद्ध थांबवण्याचे स्वप्न; युरोपीय विचारवंतांच्या शांततेच्या संकल्पनांचा वेध",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-22T10:00:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/war-and-peace-philosophy-european-thinkers-kant-rousseau-penn-perry-history-global-peace-colonialism-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-20/mqkgoaww/Abhi-39.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "a6ba941b6ea5",
-            "feed": "maharashtratimes",
-            "title": "R Ashwin : रोहित शर्मा आणि विराट कोहलीला कोणी टचही करू शकत नाही; आर अश्विन असं का म्हणाला?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-07-21T21:29:44",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/r-ashwin-big-statement-on-rohit-sharma-virat-kohli-future/articleshow/132540891.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "809da9b5e26b",
-            "feed": "maharashtratimes",
-            "title": "India vs Zimbabwe 1st T20I : वैभव सूर्यवंशी पुन्हा मैदानात उतरणार; भारत-झिम्बाब्वे सामना लाइव्ह कुठे पाहायचा?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-07-21T21:00:13",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-zimbabwe-1st-t20-live-streaming-where-to-watch-shreyas-iyer-vaibhav-suryavanshi/articleshow/132539870.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a954a981c312",
+            "id": "73bda968d5a5",
             "feed": "esakal",
-            "title": "IND vs ZIM: झिम्बाब्वेत वैभव सूर्यवंशीची खरी परीक्षा! पहिला सामना कधी, किती वाजता; संपूर्ण वेळापत्रक एका क्लिकवर",
+            "title": "भारतीय संघात स्थान मिळत नाही म्हणून, कुलदीप यादवने निवडली दुसरी वाट! आता 'या' परदेशी संघासाठी खेळणार पाच वन डे सामने",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-07-21T20:02:42",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-zimbabwe-first-match-vaibhav-suryavanshi-date-time-live-streaming-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-21/zgyzp2px/vaibhav-suryavnshi.jpg",
+            "published": "2026-07-22T14:49:59",
+            "url": "https://www.esakal.com/krida/cricket/kuldeep-yadav-joins-yorkshire-for-county-stint-set-to-play-5-matches-in-one-day-cup-3-matches-in-county-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/sc91ok6y/Kuldeep-Yadav-signs-for-Yorkshire-County-Cricket",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a1d4de9982b8",
+            "feed": "lokmat",
+            "title": "'त्या क्षणाची गेल्या अनेक दिवसांपासून वाट पाहतोय' झिम्बाब्वेविरुद्धच्या मालिकेआधी आयपीएल स्टारनं थोपटले दंड!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-07-22T14:23:21",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-zim-ashok-sharma-eyes-dream-india-debut-in-zimbabwe-said-my-first-target-will-be-to-wear-the-india-jersey-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ashok-sharma_2026071747420.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e839be6d46a0",
+            "feed": "maharashtratimes",
+            "title": "Vaibhav Sooryavanshi : वैभव आता सोडत नसतो! WC फायनलमध्ये 175 धावांची तुफानी खेळी, झिम्बाब्वेला भिडण्याआधी सूर्यवंशीने सांगून टाकलंय, म्हणाला...",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-07-22T13:41:13",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/vaibhav-big-statement-about-his-batting-before-zimbabwe-t20-series/articleshow/132553975.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "a3b3a75d2bd5",
-            "feed": "esakal",
-            "title": "एका दारूच्या बाटलीवर सरकार किती कर वसूल करतं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-21T21:20:55",
-            "url": "https://www.esakal.com/ampstories/web-story/how-much-tax-does-government-collect-on-rs-1000-liquor-bottle-india-state-wise-liquor-tax-explained-marathi-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-21/g2g2unep/State-wise-Liquor-Tax-Explained-1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "6a8b8f051899",
+            "id": "156b64d38f63",
             "feed": "lokmat",
-            "title": "शेतकऱ्यांनी किटकनाशके फवारणी करतांना कधीही 'ही' चूक करू नका, जाणून घ्या सविस्तर",
+            "title": "कोल्हापूर जिल्ह्यातील 'हे' चार लघुपाटबंधारे ओव्हरफ्लो; कोयना व राधानगरी धरणे किती टक्के भरली?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-21T20:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-farmers-should-never-make-mistake-while-spraying-pesticides-know-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/faravani_2026071746906.jpeg",
+            "published": "2026-07-22T15:26:40",
+            "url": "https://www.lokmat.com/agriculture/weather/these-four-small-irrigation-dams-in-kolhapur-district-overflow-what-percentage-of-koyna-and-radhanagari-dams-are-filled-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dam-water-inc_2026071747487.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "f7ac33228b45",
+            "id": "c06f96a29605",
             "feed": "lokmat",
-            "title": "पावसाचा जोर वाढला, पुढील पाच दिवस राज्यातील 'या' भागात मुसळधार पाऊस, वाचा हवामान अंदाज",
+            "title": "ITR भरताना चूक झाली? घाबरू नका; आयकर विभाग चुका सुधारण्याची दुसरी संधी देतो; जाणून घ्या प्रक्रिया...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-07-22T15:08:54",
+            "url": "https://www.lokmat.com/business/income-tax/made-a-mistake-while-filing-itr-dont-panic-income-tax-department-gives-second-chance-to-correct-mistakes-know-the-process-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/itr-filingg_2026071747476.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "478960f099e2",
+            "feed": "lokmat",
+            "title": "Agriculture News : 10 व 12.5 एचपी कृषीपंपधारकांनाही थकीत वीजबिल माफी मिळणार का? जाणून घ्या सविस्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-21T19:30:02",
-            "url": "https://www.lokmat.com/agriculture/weather/latest-news-rains-increase-in-intensity-heavy-rains-in-maharashtra-for-next-five-days-read-the-weather-forecast-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/musaldhar_2026071747019.jpeg",
+            "published": "2026-07-22T14:50:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-agriculture-news-will-10-and-125-hp-agricultural-pump-owners-also-get-waiver-of-outstanding-electricity-bills-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/krushi-piump_2026071747318.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
