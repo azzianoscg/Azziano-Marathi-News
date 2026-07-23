@@ -1,183 +1,215 @@
 {
-    "lastUpdated": "23-07-2026 | 05:46 AM IST",
+    "lastUpdated": "23-07-2026 | 03:35 PM IST",
     "maharashtra": [
         {
-            "id": "ce5b83fa5b49",
+            "id": "f1959081421b",
+            "feed": "maharashtratimes",
+            "title": "Pune News : आमचूर ठरलं आदिवासी कुटुंबांचा उत्पन्न स्त्रोत ;आमचूरने निर्माण केली  बाजारपेठ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-23T15:25:38",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/amchur-production-creates-livelihood-opportunities-for-tribal-families-in-nadurbar/articleshow/132576751.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5acd3bae6222",
             "feed": "lokmat",
-            "title": "स्वाईन फ्लूचे  ७ महिन्यांत २५ रुग्ण, एकाचा मृत्यू; महापालिका ॲलर्ट मोडवर",
+            "title": "दिल्लीतील लाठीमाराविरोधात मनसेचे ठाण्यात आंदोलन; मोठ्या प्रमाणात विद्यार्थी वर्ग सहभागी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-23T05:33:10",
-            "url": "https://www.lokmat.com/nagpur/25-swine-flu-patients-in-7-months-one-death-municipal-corporation-on-alert-mode-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fgeq_2026071747782.jpg",
+            "published": "2026-07-23T15:23:17",
+            "url": "https://www.lokmat.com/thane/mns-protests-in-thane-against-lathicharge-in-delhi-large-number-of-students-participate-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thane-march-1_2026071748170.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f937248fdaae",
+            "id": "c609552732f2",
             "feed": "lokmat",
-            "title": "घरी परतला तो गप्प... डोळ्यांत भीती अन् मनात वेदना; शिक्षकाच्या मारहाणीने १४ वर्षीय विद्यार्थी मानसिक धक्क्यात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-23T04:14:21",
-            "url": "https://www.lokmat.com/nagpur/he-returned-home-silently-fear-in-his-eyes-and-pain-in-his-heart-14-year-old-student-in-mental-shock-after-being-beaten-by-teacher-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-sfsdsd_2026071747772.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "47a93866dee2",
-            "feed": "lokmat",
-            "title": "ई-ऑफिसमध्ये सांगलीची राज्यात बाजी! ई-पावती निर्मितीत राज्यात प्रथम",
+            "title": "७ लाखांच्या जबरी चोरीचा बनाव उघड; 'त्या' नोकरानेच साथीदाराच्या मदतीने रचला कट, एक अटकेत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-23T02:54:30",
-            "url": "https://www.lokmat.com/sangli/sangli-wins-in-the-state-in-e-office-first-in-the-state-in-e-receipt-production-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/565jh_2026071747771.jpg",
+            "published": "2026-07-23T15:18:45",
+            "url": "https://www.lokmat.com/parabhani/parbhani-lcb-exposes-fake-rs-7-lakh-robbery-plot-one-arrested-property-worth-rs-4-lakh-seized-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/robbery-parbhani-crime-fraud-fea_2026071748147.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "dd1b677c4cc1",
+            "id": "b0df9a7cf93b",
+            "feed": "maharashtratimes",
+            "title": "Pune Shivajinagar Flyover: पुण्याच्या मध्यवर्ती भागात कोंडी फुटणार, शिवाजीनगर उड्डाणपुलासाठी ७३.५२ कोटी; १.५ वर्षांत मार्ग पूर्ण",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-23T15:16:21",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/pmc-approves-73-52-crores-shivajinagar-flyover-project-in-pune/articleshow/132576581.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "379e1903838b",
             "feed": "lokmat",
-            "title": "जिल्ह्याच्या पश्चिमेला पावसाचा तडाखा; विजेच्या धक्क्याने बैलजोडी ठार; कोयना साठा ७० टीएमसीकडे",
+            "title": "कृषिपंप थकीत वीजबिल माफीचा सर्वाधिक लाभ पश्चिम महाराष्ट्राला",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-23T02:07:20",
-            "url": "https://www.lokmat.com/satara/rain-lashed-the-western-part-of-the-district-a-pair-of-bulls-were-killed-by-lightning-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/htryfj_2026071747770.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3cf22c4b0efb",
-            "feed": "esakal",
-            "title": "MBBS Mahakumbh : भावी डॉक्टरांसाठी ‘एमबीबीएस महाकुंभ’; ‘सकाळ विद्या’ आणि ‘वे टू ॲडमिशन’ यांच्यावतीने दोन ऑगस्टला आयोजन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-22T23:58:48",
-            "url": "https://www.esakal.com/pune/mbbs-mahakumbh-for-aspiring-doctors-sakal-vidya-and-way-to-admission-to-organize-event-on-august-2-student-education-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-22/lm3iqiwo/Sakal-Vidya",
+            "published": "2026-07-23T15:15:39",
+            "url": "https://www.lokmat.com/nagpur/western-maharashtra-benefits-the-most-from-the-waiver-of-outstanding-electricity-bills-for-agricultural-pumps-a-a932-c1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-07-23-at-3.13.13-pm-1_2026071748167.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "65b22512a723",
-            "feed": "lokmat",
-            "title": "चर्चेची तयारी; तोडगा निघणार? सरकार : पेपरफुटीच्या मुद्द्याचे राजकारण नको, प्रत्येक प्रश्नाला संसदेत उत्तर देऊ",
+            "id": "3859bc3fd847",
+            "feed": "esakal",
+            "title": "Latest Marathi Update : धुळे जिल्ह्यातील मुंबई आग्रा महामार्गावरील देवभाने फाट्यावर रास्ता रोको आंदोलन",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-07-23T05:37:38",
-            "url": "https://www.lokmat.com/national/preparations-for-discussion-will-a-solution-be-found-government-no-politics-on-the-issue-of-paper-leakage-will-answer-every-question-in-parliament-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/delhi-cjp-protest-student_2026071747784.jpg",
+            "published": "2026-07-23T15:34:51",
+            "url": "https://www.esakal.com/desh/jantar-mantar-hunger-strike-sonam-wangchuk-cockroach-janata-party-supreme-court-sansad-morcha-parliament-monsoon-session-weather-rain-forecast-imd-alert-mumbai-pune-marathwada-vidarbha-pandharpur-ashadhi-wari-cm-devendra-fadnavis-eknath-shinde-sharad-pawar-uddhav-thackeray-23-july-2026-update-marathi-srs92-snk89-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-23/dfelx3z1/Latest-Marathi-News-Live-Update",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "1cdf730bb32e",
+            "id": "565c4b9cbf75",
             "feed": "lokmat",
-            "title": "सुप्रीम कोर्ट : आमचा वेळ वाया घालवू नका, आम्हाला कोणतेही व्हिडीओ पाहायचे नाहीत",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-23T05:31:36",
-            "url": "https://www.lokmat.com/national/supreme-court-dont-waste-our-time-we-dont-want-to-watch-any-videos-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supreme-court-delhi-cjp-protest_2026071747780.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "348dcc5f1c63",
-            "feed": "lokmat",
-            "title": "सलमान खानचा विद्यार्थी आंदोलनाला पाठींबा; म्हणाला, \"आंदोलन हिंसक वळणावर गेलं, वाईट वाटलं!\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-23T05:27:12",
-            "url": "https://www.lokmat.com/national/salman-khan-supports-student-protest-said-the-protest-turned-violent-i-feel-bad-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/salman-khan-hryf_2026071747779.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "db6b646c2238",
-            "feed": "lokmat",
-            "title": "कासा गायकवाड पाड्यात पुराचा वेढा; धाडसी बचावकार्यात चार जणांची सुखरूप सुटका",
+            "title": "\"धर्म, पक्ष विसरा... पेपरफुटीने मुलांची स्वप्नं उद्ध्वस्त झाली\" अभिनेत्री शिवानी रांगोळे आक्रमक, म्हणाली \"मुलांचे जीव गेले...\"",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-23T05:20:28",
-            "url": "https://www.lokmat.com/vasai-virar/flood-hits-kasa-gaikwad-pada-four-people-rescued-safely-in-daring-rescue-operation-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/palghar-flood_2026071747777.jpg",
+            "published": "2026-07-23T15:29:29",
+            "url": "https://www.lokmat.com/filmy/television/shivani-rangole-on-student-protest-neet-paper-leak-cjp-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shivani-rangole-on-student-protest-neet-paper-leak-cjp_2026071748179.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "5b717ae7897e",
-            "feed": "maharashtratimes",
-            "title": "अंक भविष्य, 23 July 2026: मूलांक 4 संयमाने परिस्थिती हाताळा! मूलांक 5 नवीन तंत्रज्ञानामुळे कामात वेग! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "id": "732e9ba5b915",
+            "feed": "lokmat",
+            "title": "दोन जुळ्या बहिणींचे मागे पडले... आता ३ सख्ख्या बहिणींनी रचला एकाच तरुणाशी विवाह! उत्तर प्रदेशातील धक्कादायक व्हिडिओ व्हायरल",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-07-23T15:27:38",
+            "url": "https://www.lokmat.com/national/three-sisters-marry-one-man-amroha-two-twin-sisters-fell-behind-now-3-identical-sisters-have-arranged-to-marry-the-same-young-man-shocking-video-from-uttar-pradesh-goes-viral-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/three-sisters-married-to-same-man-trending-news_2026071748180.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a29b13c65a2b",
+            "feed": "lokmat",
+            "title": "सदोष दारुगोळ्यामुळे ६२.१० कोटी रुपयांचे नुकसान, PAC ने संरक्षण मंत्रालयाला फटकारले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-07-23T15:27:33",
+            "url": "https://www.lokmat.com/national/pac-slams-defence-ministry-for-causing-loss-of-rs-6210-crore-due-to-faulty-ammunition-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/toph-khana-1_2026071748183.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8aaf3c6c36b6",
+            "feed": "lokmat",
+            "title": "Ashadhi Ekadashi 2026: ना खवा, ना पाक! १० मिनिटांत करा उपवासाची बर्फी, तोंडात टाकताच विरघळेल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-23T05:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-23-july-2026-bhadra-rajyog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/132562209.cms",
-            "image": "",
+            "published": "2026-07-23T15:26:55",
+            "url": "https://www.lokmat.com/sakhi/food/ashadhi-ekadashi-recipes-fasting-barfi-recipe-10-minute-barfi-easy-vrat-sweets-recipe-maharashtrian-fasting-recipes-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/10-minute-barfi-recipe_2026071748175.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "acb9600c0090",
+            "id": "702ab6890d12",
             "feed": "lokmat",
-            "title": "'छप्परफाड' कमाई! स्पेनच्या एका गोलमुळे मिया खलिफा मालामाल; लावलेले १० कोटी अन् मिळवले तब्बल...",
+            "title": "१ वर्षे की २, बाळाला स्तनपान जास्तीतजास्त किती दिवस करावे, आई आणि बाळासाठी त्याचे फायदे काय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-22T18:47:07",
-            "url": "https://www.lokmat.com/social-viral/mia-khalifa-won-1-65-million-dollars-on-the-fifa-world-cup-2026-final-placing-1-million-dollar-spain-beat-lionel-messi-argentina-ferran-torres-yamine-yamal-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mia-khalifa-2207_2026071747690.jpg",
+            "published": "2026-07-23T14:31:59",
+            "url": "https://www.lokmat.com/sakhi/parenting/how-long-should-a-baby-be-breastfed-for-1-year-or-2-years-how-long-should-a-baby-be-breastfed-who-breastfeeding-recommendations-benefits-of-breastfeeding-for-baby-and-mother-when-should-breastfeeding-stop-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/breastfeeding-guide-for-parents_2026071748114.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "e347c608086b",
+            "feed": "lokmat",
+            "title": "NEET गोंधळावरून तसलीमा नसरीन यांना झाली बांगालदेश आंदोलनाची आठवण; सोशल पोस्ट चर्चेत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-07-23T14:15:01",
+            "url": "https://www.lokmat.com/international/taslima-nasreen-reminded-of-bangladesh-protest-over-neet-issue-and-cockroach-janta-party-jantar-mantar-protest-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/taslima-nasrin-jantar-mantar_2026071748098.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "caed89af8b24",
+            "feed": "esakal",
+            "title": "Premium|Japan Men's Restroom Sanitary Bins : स्वच्छतेला नवा अर्थ!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-23T10:01:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/japan-mens-restroom-sanitary-bins-adult-diaper-disposal-public-hygiene-inclusive-toilets-aging-population-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-20/as4l5jvi/Abhi-41.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
@@ -196,152 +228,104 @@
             "image": "https://cf-images.assettype.com/esakal/2026-07-22/9z6utdmi/Indrayani-rice-side-effects.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "2cc0425b10ec",
-            "feed": "esakal",
-            "title": "Saharanpur Furniture: अशी बनते सहारणपूरची जगप्रसिद्ध 'लाख लाकडी कला'! जाळीदार नक्षीकाम आणि मुघलाई फर्निचरने जिंकली देश-विदेशातील मने",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-22T13:07:26",
-            "url": "https://www.esakal.com/lifestyle/saharanpur-woodcraft-world-famous-lac-wood-art-furniture-history",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-22/qmth08zc/saharanpur-wood-craft-history.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "04ed45e5b424",
-            "feed": "esakal",
-            "title": "बापरे! या लोकांसाठी लसूण ठरू शकतो घातक! का आणि कुणी खाऊ नये? वाचा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-22T12:36:00",
-            "url": "https://www.esakal.com/ampstories/web-story/garlic-side-effects-who-should-not-eat-garlic-health-risks-garlic-overconsumption-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-22/iogvfq7y/GARLIC-SIDE-EFFECTS",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "0f9562790b75",
-            "feed": "esakal",
-            "title": "Press Freedom Debate: पत्रकारांच्या खासगी जीवनात लुडबुड, नातेवाइकांच्या ‘कॉल रेकॉर्ड’साठी ट्रम्प प्रशासनाचा प्रयत्न",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-22T12:14:10",
-            "url": "https://www.esakal.com/global/donald-trump-new-york-times-journalists-call-records-press-freedom-media-privacy-air-force-one-report-us-news-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-22/wskcuvwh/Abhi.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "96e18ae38526",
+            "id": "b7e00867b881",
             "feed": "maharashtratimes",
-            "title": "IND vs ZIM T20 Series : भारत-झिम्बाब्वे सामने फ्रीमध्ये कुठे पाहायचे? वेळ बदलली, नवीन चॅनेलवर होणार थेट प्रक्षेपण",
+            "title": "IND vs ZIM : झिम्बाव्बेविरूद्ध होणाऱ्या सामन्याच्या मैदानाचं वैभवसोबत खास नातं, इंग्लंडला एकट्यानेच पाजलेलं पाणी, ऐतिहासिक खेळीबद्दल जाणून घ्या",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-07-22T22:00:49",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-zimbabwe-t20-series-live-telecast-time-4-30-pm-unite-8-sports-tv-fancode/articleshow/132562969.cms",
+            "published": "2026-07-23T15:17:40",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-zim-1st-t20-vaibhav-sooryavanshi-historic-innings-of-175-runs-harare-sports-club-under-19-world-cup-2026/articleshow/132576350.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "5641149ab42f",
-            "feed": "maharashtratimes",
-            "title": "Team India : आयर्लंडनंतर इंग्लंडने धडा शिकवला, आता झिम्बाब्वेची धमकी; टीम इंडियाला मोठं आव्हान, मालिकेपूर्वी श्रेयस अय्यर काय म्हणाला?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-07-22T21:04:59",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-zimbabwe-t20-series-sikandar-raza-challenge-team-india-shreyas-iyer-defensive-mindset/articleshow/132561913.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "57670173b785",
+            "id": "9ca7f5996ac0",
             "feed": "esakal",
-            "title": "IND vs ZIM: 'आयर्लंडने डोळे उघडले' झिम्बाब्वेविरुद्ध मालिकेपूर्वी कॅप्टन श्रेयस अय्यरचे मोठे वक्तव्य; म्हणाला, युवा खेळाडूंनी...",
+            "title": "WTC Final 2027 Venue: जागतिक कसोटी अजिंक्यपद स्पर्धेची फायनल कुठे होणार? भारतीय संघ पात्र ठरू शकणार का? ICC ची घोषणा...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-07-22T20:16:48",
-            "url": "https://www.esakal.com/krida/cricket/shreyas-iyer-on-team-india-readiness-young-squad-ahead-of-zimbabwe-t20i-series-ireland-england-failure-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-22/j8h8xkie/Shreyas-Iyer-Reflects-on-Zimbabwe-vs-India-T20I-Series.jpg",
+            "published": "2026-07-23T15:13:49",
+            "url": "https://www.esakal.com/krida/cricket/world-test-championship-final-2027-to-be-played-at-the-oval-can-india-qualify-for-the-ultimate-test-clash-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-23/qwd1jz6w/Indian-Qualification-Scenario-for-WTC-Final-2027",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "business": [
+        },
         {
-            "id": "8a505bca167b",
+            "id": "3b7b56678876",
             "feed": "lokmat",
-            "title": "वीजबिल माफीचा सर्वाधिक लाभ कुणाला, महाराष्ट्रातील विभागनिहाय कुणाच्या वाट्याला किती निधी येणार?",
+            "title": "Commonwealth Games 2026 : ओपनिंग सेरेमनीआधीच भारताचे पहिले पदक निश्चित; बॉक्सिंग क्वीन लव्हलिनाची कमाल!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-22T21:40:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-how-much-vij-bill-mafi-money-will-be-allocated-to-each-department-in-maharashtra-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vij-bill-4_2026071747750.jpeg",
+            "published": "2026-07-23T14:50:48",
+            "url": "https://www.lokmat.com/other-sports/lovlina-borgohain-confirms-indias-first-medal-in-commonwealth-games-2026-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lovlina-borgohain-confirms-indias-first-medal-in-commonwealth-games-2026-m_2026071748130.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        },
+            "category_reason": "keyword"
+        }
+    ],
+    "business": [
         {
-            "id": "e7355cc704c0",
+            "id": "1633f5bd479d",
             "feed": "lokmat",
-            "title": "कच्च्या तेलाच्या किमतींमध्ये मोठी उसळी; ब्रेंट क्रूड ९५ डॉलर्स पार, आणखी वाढण्याची शक्यता...",
+            "title": "देशातील साखरेचा साठा संपतोय? अचानक किंमत वाढली, काय आहे कारण, जाणून घ्या",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-07-22T20:49:16",
-            "url": "https://www.lokmat.com/business/news/crude-oil-price-big-jump-in-crude-oil-prices-brent-crude-crosses-95-likely-to-increase-further-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/brent-crude_2026071747755.jpg",
+            "published": "2026-07-23T15:07:23",
+            "url": "https://www.lokmat.com/business/news/is-the-country-running-out-of-sugar-the-price-has-suddenly-increased-what-is-the-reason-know-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sugar-news-1_2026071748155.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4a74a3012059",
+            "id": "9afcf42c6809",
             "feed": "lokmat",
-            "title": "Shetkari Karjmafi : कर्जमाफीची पहिली यादी जाहीर, पहिल्या यादीत 'या' जिल्ह्यांचा समावेश, सहकार मंत्री म्हणाले?",
+            "title": "Google ची ऐतिहासिक कामगिरी; अवघ्या तीन महिन्यांत १,०८,१४,९७,००,००,००० रुपयांचा नफा! एकूण उलाढाल पाहून चक्रावून जाल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-07-23T15:06:37",
+            "url": "https://www.lokmat.com/business/news/googles-historic-achievement-profit-of-rs-10814970000000-in-just-three-months-you-will-be-amazed-to-see-the-total-turnover-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/google-shares_2026071748152.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f82c0d9cb86b",
+            "feed": "lokmat",
+            "title": "इगतपुरी तालुक्यातील भावली धरण ओव्हर फ्लो; दारणा, कडवा धरणातूनही विसर्ग सुरू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-22T20:41:12",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/shetkari-karjmafi-first-list-of-loan-waiver-announced-included-seven-districts-of-maharashtra-said-minister-babasaheb-patil-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/karj-mafi-yadi_2026071747753.jpeg",
+            "published": "2026-07-23T14:49:54",
+            "url": "https://www.lokmat.com/agriculture/weather/bhavli-dam-in-igatpuri-taluka-overflows-discharge-also-starts-from-darna-kadwa-dams-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/u-34-34-34-u-nashik-dam-water-update_2026071748038.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
