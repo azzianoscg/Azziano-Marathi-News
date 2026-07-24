@@ -1,201 +1,233 @@
 {
-    "lastUpdated": "24-07-2026 | 03:10 PM IST",
+    "lastUpdated": "24-07-2026 | 08:48 PM IST",
     "maharashtra": [
         {
-            "id": "d7f8ac65a2d4",
+            "id": "35578e5d3cfe",
+            "feed": "lokmat",
+            "title": "Cockroach Janata Party: भरपावसात तरुण रस्त्यावर! इन्कलाब जिंदाबाद नारा, ‘धर्मेंद्र प्रधान राजीनामा द्या’ घोषणांनी पुणे शहर दणाणले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-24T20:43:41",
+            "url": "https://www.lokmat.com/pune/cockroach-janata-party-youth-on-the-streets-in-heavy-rain-inquilab-zindabad-slogans-dharmendra-pradhan-resign-slogans-rock-pune-city-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cockroach-janta-party-andolan-4_2026071749233.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c77b076e5f91",
             "feed": "esakal",
-            "title": "Heavy Rain in Pokharkarwadi: पोखरकरवाडीत रस्ता वाहून गेला; संपर्क तुटल्याने नागरिक व विद्यार्थ्यांचे हाल",
+            "title": "National Peace Movement: राष्ट्रीय आंदोलनांच्या पार्श्वभूमीवर चित्रपटसृष्टी, इन्फ्लुएन्सर्स आणि मीडियासोबत मैत्रेय दादाश्रीजींचा शांती, संवाद आणि ऐक्याचा संदेश",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-24T15:07:01",
-            "url": "https://www.esakal.com/pune/pokharkarwadi-road-washed-away-heavy-rain-ambegaon-road-connectivity-disrupted-dimbhe-dam-water-release-alert-ghod-river-monsoon-update-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-24/zjb9s0ui/Abhi-1.jpg",
+            "published": "2026-07-24T20:42:45",
+            "url": "https://www.esakal.com/mumbai/peace-dialogue-unity-message-maitreya-dadashreeji-maitreya-dada-shree-peace-message-national-protests-mumbai-maitribodh-parivar-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-24/lccvaznh/Esakal-14.png",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fe872d2f6b8c",
-            "feed": "esakal",
-            "title": "Khadakwasla Dam: खडकवासला धरणातील विसर्ग ४,७०८ क्युसेक; धरणसाखळीत ७८.४९ टक्के पाणीसाठा; नदीकाठच्या नागरिकांना सतर्कतेचे आवाहन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-24T15:01:41",
-            "url": "https://www.esakal.com/pune/khadakwasla-dam-water-release-4708-cusecs-pune-dam-chain-78-percent-water-storage-mutha-river-rainfall-monsoon-update-public-safety-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-24/gkhnurbx/Abhi.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7ddd8401b77a",
-            "feed": "esakal",
-            "title": "Pandharpur Wari: २७ वर्षाची परंपरा असलेल्या थापलिंग पायी दिंडी सोहळ्यात तरुणांचा उस्फूर्त सहभाग",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-24T14:57:21",
-            "url": "https://www.esakal.com/maharashtra/27-year-thapaling-palkhi-dindi-pandharpur-wari-valati-ambegaon-young-devotees-bhajan-kirtan-ashadhi-ekadashi-vithoba-pilgrimage-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-24/twi1zlyl/Abhi-2.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9578f3cab327",
+            "id": "8ba1a7c83eb6",
             "feed": "maharashtratimes",
-            "title": "Sushma Andhare | टीईटी घोटाळ्याप्रकरणी ठाकरेंवर आरोप, सुषमा अंधारे भडकल्या, पुराव्यासकट बोलल्या",
+            "title": "Central Railway : मध्य रेल्वे मार्गावर अनेक गाड्या रद्द, काही गाड्या दुसऱ्या मार्गाला वळवल्या, वाचा A टू Z",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-24T14:56:11",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/sushma-andhare-critisized-devendra-fadnavis/videoshow/132601360.cms",
+            "published": "2026-07-24T20:42:37",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/central-railway-cancels-short-terminates-short-originates-and-diverts-several-trains/articleshow/132608875.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "87c251f7f6b9",
+            "id": "b301841fd0c7",
             "feed": "esakal",
-            "title": "Maharashtra Farm Loan Waiver : शेतकऱ्यांसाठी ऐतिहासिक निर्णय! 2 लाखांपर्यंत कर्जमाफी अन् 48 हजार कोटींची वीज बिले माफ; काय म्हणाले आमदार गाडगीळ, खाडे?",
+            "title": "Latest Marathi News Live Update : पुणेकरांसाठी आनंदाची बातमी, धरणसाठयाने गाठली मागील वर्षाची सरासरी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-24T20:34:50",
+            "url": "https://www.esakal.com/maharashtra/marathi-news-live-update-24-july-2026-sonam-wangchuk-ended-hunger-strike-dharmendra-pradhan-resignation-neet-paper-leak-case-jantar-mantar-student-protest-pm-modi-jp-nadda-rahul-gandhi-ashadhi-wari-pandharpur-weather-imd-cm-devendra-fadnavis-farm-loan-waiver-mumbai-pune-traffic-update-bam92-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "360b4820a3ba",
+            "feed": "esakal",
+            "title": "Raigad Health: वीज नसताना मोबाईल टॉर्चच्या उजेडात यशस्वी प्रसूती; जांभूळपाडा आरोग्य केंद्रातील डॉक्टरांची धडाडी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-24T14:55:54",
-            "url": "https://www.esakal.com/paschim-maharashtra/maharashtra-ahilyadevi-holkar-farm-loan-waiver-scheme-2026-rs-2-lakh-farmer-debt-relief-electricity-bill-waiver-devendra-fadnavis-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-24/vytkvpjf/Maharashtra-Farm-Loan-Waiver-Scheme-2026",
+            "published": "2026-07-24T20:24:12",
+            "url": "https://www.esakal.com/kokan/successful-delivery-without-electricity-jambhulpada-jambhulpada-primary-health-centre-mobile-torch-delivery-sudhagad-raigad-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-24/m1n7joj9/Esakal-13.png",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "9bfbdf74f354",
-            "feed": "esakal",
-            "title": "नीट परीक्षेतील गैरप्रकारांवर सुप्रीम कोर्टाची नाराजी; सरकारच्या कामकाजावर ठेवणार बारीक नजर",
+            "id": "cb4192af7a91",
+            "feed": "maharashtratimes",
+            "title": "NEET Paper Leak: NTAचे 47 अधिकारी निलंबित; शिक्षण मंत्रालयाची मोठी कारवाई; पण धर्मेंद्र प्रधानांचा राजीनामा नाहीच",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-24T15:10:13",
-            "url": "https://www.esakal.com/desh/neet-paper-leak-supreme-court-strict-action-central-government-nta-exam-transparency-law-update-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-24/5m85azgq/NEET-Paper-Leak-Case",
+            "published": "2026-07-24T20:35:35",
+            "url": "https://maharashtratimes.com/india-news/47-nta-officials-sacked-amid-nationwide-student-protest-by-cjp-over-neet-paper-leak/articleshow/132608800.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "763efaa36d89",
-            "feed": "esakal",
-            "title": "Paper Leak Bill: मोठी बातमी! पेपरफुटी करणाऱ्यांना १० वर्षांची शिक्षा होणार; मोदी मंत्रिमंडळाची विधेयकाला मंजुरी, तरतुदी काय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-24T15:06:36",
-            "url": "https://www.esakal.com/desh/modi-cabinet-has-approved-bill-on-reforms-regarding-paper-leaks-provision-will-be-made-for-10-years-of-imprisonment-and-fine-of-10-crore-for-guilty-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-24/mufla6wq/Paper-Leak-Bill-Approved.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "67d05c0379c2",
+            "id": "92b95c795ba0",
             "feed": "lokmat",
-            "title": "\"त्याची मेहनत, अप्रतिम काम...\", यशने रणबीर कपूरचं केलं कौतुक; 'रामायण'बद्दल म्हणाला...",
+            "title": "NEET पेपरफुटीनंतर सरकारची मोठी कारवाई; NTA मधील ४७ अधिकाऱ्यांची हकालपट्टी, परीक्षा व्यवस्थेत होणार मोठे बदल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-07-24T20:30:17",
+            "url": "https://www.lokmat.com/national/government-takes-major-action-after-neet-paper-leak-47-officials-from-nta-dismissed-major-changes-to-the-examination-system-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nta-govt_2026071749230.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9ca44b07c379",
+            "feed": "lokmat",
+            "title": "Ashadhi Ekadashi 2026: साबुदाणा वडा तेलात फुटतो- कढईला चिकटतो? ७ टिप्स- वडा होईल एकदम परफेक्ट- कुरकुरीत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-24T15:05:24",
-            "url": "https://www.lokmat.com/filmy/bollywood/actor-yash-praises-ranbir-kapoor-acting-and-his-dedication-for-ramayana-movie-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yash-ranbir_2026071748840.jpg",
+            "published": "2026-07-24T20:30:02",
+            "url": "https://www.lokmat.com/sakhi/photos/beauty/how-to-make-crispy-sabudana-vada-why-sabudana-vada-bursts-in-oil-sabudana-vada-tips-and-tricks-how-to-prevent-sabudana-vada-from-breaking-ashadhi-ekadashi-2026-recipes-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-prevent-sabudana-vada-from-breaking_2026071749115.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "780a954086db",
-            "feed": "esakal",
-            "title": "कसे दिसायचे भारतातील पहिले चित्रपटगृह? १२० वर्षांपूर्वीचे फोटो आले समोर",
+            "id": "0e7464c9fed7",
+            "feed": "maharashtratimes",
+            "title": "Uddhav Thackeray Strategy : ऑपरेशन टायगरनंतर उद्धव ठाकरेंच्या विरोधाची धार तीव्र, भाजपला जड जाणार?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-24T15:04:50",
-            "url": "https://www.esakal.com/ampstories/web-story/india-first-cinema-hall-elphinstone-picture-palace-kolkata-history-jf-madan-minerva-theatre-indian-cinema-origins-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-24/2ir1oqyg/4.jpg",
+            "published": "2026-07-24T20:27:54",
+            "url": "https://maharashtratimes.com/video/mt-originals/uddhav-thackeray-strategy-after-operation-tiger/videoshow/132608778.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
         },
         {
-            "id": "416735692e10",
+            "id": "98d066c63076",
             "feed": "lokmat",
-            "title": "Ashadhi Ekadashi 2026 : उपासाला करा खमंग कुरकुरीत आलू टिक्की, एवढी भारी की उपवास होईल आनंदी",
+            "title": "CJP आंदोलकांच्या समर्थनार्थ पोलीस कॉन्स्टेबलनं सोडली नोकरी! लाच घेतल्याच्या आरोपांमुळे वादात!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "india"
             },
-            "published": "2026-07-24T15:03:07",
-            "url": "https://www.lokmat.com/sakhi/food/ashadhi-ekadashi-2026-make-delicious-crispy-potato-tikkis-for-fasting-easy-recipes-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aloo-tikki-fasting-2_2026071748838.jpeg",
+            "published": "2026-07-24T20:21:35",
+            "url": "https://www.lokmat.com/national/police-constable-quits-job-in-support-of-cjp-protesters-controversy-over-bribery-allegations-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cjp-protest-gf_2026071749226.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         }
     ],
     "world": [
         {
-            "id": "c49ea89e3d46",
-            "feed": "lokmat",
-            "title": "पाकिस्तान-सौदी अरेबियाने इस्रायलला मान्यता द्यावी; ट्रम्प यांनी ठेवलेली मोठी अट मान्य होणार?",
+            "id": "172b70693ead",
+            "feed": "esakal",
+            "title": "बांगलादेशात मोठा राजकीय उलटफेर! राष्ट्रपती मोहम्मद शहाबुद्दीन यांचा राजीनामा; कार्यकाळ २०२८ पर्यंत असतानाही का पद सोडले?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-07-24T14:46:43",
-            "url": "https://www.lokmat.com/international/pakistan-and-saudi-arabia-should-recognize-israel-will-donald-trump-big-condition-be-accepted-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-saudi-arabia-israel-and-america_2026071748814.jpg",
+            "published": "2026-07-24T19:58:26",
+            "url": "https://www.esakal.com/global/bangladesh-president-mohammed-shahabuddin-has-resigned-due-to-suffering-from-various-ailments-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-24/iabqelqu/Mohammed-Shahabuddin-Resignation.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "004dc625d46a",
-            "feed": "lokmat",
-            "title": "Saudi Prince Found Dead: सौदीच्या राजकुमाराचा लंडनच्या आलिशान हॉटेलमध्ये सापडला मृतदेह, मृत्युचे धक्कादायक कारण...",
+            "id": "f541a14abc46",
+            "feed": "esakal",
+            "title": "औरंगजेबचा सर्वात विश्वासू सहकारी कोण होता?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-07-24T13:08:26",
-            "url": "https://www.lokmat.com/international/saudi-prince-found-dead-body-of-saudi-prince-found-in-a-luxurious-london-hotel-shocking-cause-of-death-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saudi-prince-found-dead-at-london-hotel_2026071748719.jpeg",
+            "published": "2026-07-24T18:16:03",
+            "url": "https://www.esakal.com/ampstories/web-story/who-was-aurangzeb-most-trusted-person-asad-khan-close-associates-and-influential-nobles-in-mughal-history-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-24/0c4rm1hw/1.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "ce254b6acebe",
+            "feed": "esakal",
+            "title": "ऐकावं ते नवलंच! तो पत्नीवर २० वर्ष रुसला, एकही शब्द नाही बोलला; कारण काय तर...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-24T17:00:26",
+            "url": "https://www.esakal.com/global/japanese-man-did-not-speak-to-his-wife-for-20-years-due-to-she-giving-more-attention-to-kids-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-24/iaprsfco/Japanese-Man-Didnt-Speak-To-His-Wife-For-20-Years.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "98803905a92b",
+            "feed": "esakal",
+            "title": "जगातील सर्वात जुना देश कोणता?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-24T16:41:00",
+            "url": "https://www.esakal.com/ampstories/web-story/which-is-the-oldest-country-in-the-world-history-san-marino-india-egypt-china-iran-explained-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-24/sb1nl6xc/oldest-country-in-the-world-1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         },
         {
             "id": "0e358d601dc2",
@@ -212,85 +244,53 @@
             "image": "https://cf-images.assettype.com/esakal/2026-07-24/htqzd2ij/Healthy-Heart-Tips-by-WHO.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "f36c096205b8",
-            "feed": "esakal",
-            "title": "Trump Tariffs : डोनाल्ड ट्रम्प यांचा भारतासह ६० देशांना झटका, नवीन टॅरिफ जाहीर; व्यापारावर होणार परिणाम",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-24T08:14:23",
-            "url": "https://www.esakal.com/global/trump-new-tariffs-india-10-percent-us-trade-policy-forced-labor-china-japan-global-impact-2026-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-24/6llsxn6g/tarrif-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7f4d7fb0f3d4",
-            "feed": "esakal",
-            "title": "Nepal PM Balen Shah: नेपाळचे पंतप्रधान बालेन शाह शंभर दिवसांमध्येच आले अडचणीत; सरकारविरोधात संघर्ष पेटला",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-23T17:32:20",
-            "url": "https://www.esakal.com/global/nepal-pm-balen-shah-protests-farmers-tomato-kathmandu-unrest-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-23/rf9qqu2g/Latest-Marathi-Breaking-News-2026-07-23T172914.742.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "de1a0c50883d",
-            "feed": "lokmat",
-            "title": "Vaibhav Suryavanshi: रेकॉर्डब्रेक फिफ्टीनंतर वैभव सूर्यवंशीचं खास सेलिब्रेशन; 'A' चा इशारा नेमका कुणासाठी होता?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-07-24T14:29:53",
-            "url": "https://www.lokmat.com/cricket/news/vaibhav-suryavanshi-vaibhav-suryavanshis-special-celebration-after-record-breaking-fifty-who-exactly-was-the-a-hint-for-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vaibhav-suryavanshi-celebration-1_2026071748803.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "30ebee3b4d3c",
-            "feed": "esakal",
-            "title": "Student Protest: \"आजच्या तरुणांना दडपणे अन् त्यांचे ब्रेनवॉश करणे, यशस्वी होणार नाही,\" भारतीय क्रिकेटपटूने सरकारला दाखवला आरसा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-07-24T14:24:09",
-            "url": "https://www.esakal.com/krida/cricket/former-indian-cricketer-sanjay-manjrekar-backs-students-says-suppressing-todays-youth-will-never-work-neet-paper-leak-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-24/i5j8174r/Sanjay-Manjrekar-voiced-support-for-students",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ce2f7962c6ef",
+            "id": "3cf46dbfd35b",
             "feed": "maharashtratimes",
-            "title": "IND vs PAK : आशियाई क्रीडा स्पर्धेतील क्रिकेटचे शेड्यूल जाहीर! भारत-पाक महामुकाबला होणार पण एका अटीवर, दोन्ही संघांना जिंकावं लागणार; समीकरण जाणून घ्या",
+            "title": "Gautam Gambhir vs VVS Laxman : कोच बदलताच टीम इंडिया जिंकली, खेळाडूही चमकले! लक्ष्मणमुळे गंभीरचा पत्ता कट, बीसीसीआय काय निर्णय घेणार?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-07-24T13:43:33",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/asian-games-2026-cricket-schedule-how-india-vs-pakistan-match-held-under-condition/articleshow/132599819.cms",
+            "published": "2026-07-24T20:34:40",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-first-t20-win-after-seven-matches-vvs-laxman-coaching-gautam-gambhir-t20-coach-debate/articleshow/132607886.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1579eea54807",
+            "feed": "esakal",
+            "title": "England Test Captain: इंग्लंडच्या कसोटी संघाचा नवा कर्णधार कोण? ECBच्या एका निर्णयाने वाढवलं सस्पेन्स,नेमकं कोणाचं नाव चर्चेत?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-07-24T19:40:58",
+            "url": "https://www.esakal.com/krida/cricket/joe-root-england-test-captain-return-after-ben-stokes-retirement-ecb-pakistan-test-series-ashes-2027-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-24/ol5bf8ml/joe-root.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c84b2120d736",
+            "feed": "maharashtratimes",
+            "title": "Student Protest Delhi : देशातल्या विद्यार्थ्यांना दडपण्याचा प्रयत्न कधीही यशस्वी होणार नाही, माजी क्रिकेटर रोखठोक बोलला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-07-24T19:04:53",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/sanjay-manjrekar-supports-student-protest-neet-paper-leak-dharmendra-pradhan/articleshow/132605366.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -298,52 +298,52 @@
     ],
     "business": [
         {
-            "id": "94b3817f8b8b",
+            "id": "f8506004ea31",
             "feed": "lokmat",
-            "title": "भारतीय रेल्वेची हरित ऊर्जेकडे मोठी झेप! ट्रेनच्या टपावर बसवले सोलर पॅनेल; वीज बचतीसह प्रदूषणातही होणार घट",
+            "title": "पीक विमा घोटाळ्यातील नवे रॅकेट उघड; मूळ जमीन मालकांना अंधारात ठेवून बनावट दस्तऐवजाद्वारे लुटले लाखो रुपये",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-24T20:39:27",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/new-racket-in-crop-insurance-scam-exposed-lakhs-of-rupees-looted-through-fake-documents-keeping-original-land-owners-in-the-dark-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ur-34-34-34-34-u-34-jalgaon-crop-insurance_2026071749231.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7044c397123a",
+            "feed": "esakal",
+            "title": "Premium|The Active Side of Infinity : माया संस्कृतीच्या गूढ विचारांतून गुंतवणूक आणि जीवनदृष्टीचा नवा अर्थ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-24T20:06:48",
+            "url": "https://www.esakal.com/premium-article/the-active-side-of-infinity-carlos-castaneda-maya-inca-toltec-philosophy-investment-psychology-decision-making-mindset-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-24/hia0brwk/Abhi-1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "fbeea3e5cc7b",
+            "feed": "lokmat",
+            "title": "भारताच्या परकीय चलनसाठ्यात सलग तिसऱ्या आठवड्यात वाढ; फॉरेक्स रिझर्व्ह ६७६.२३७ अब्ज डॉलर्सवर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-07-24T15:05:53",
-            "url": "https://www.lokmat.com/business/news/indian-railways-big-leap-towards-green-energy-solar-panels-installed-on-the-top-of-the-train-along-with-saving-electricity-pollution-will-also-be-reduced-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/solar-panel-on-trainnn_2026071748842.jpg",
+            "published": "2026-07-24T19:51:36",
+            "url": "https://www.lokmat.com/business/savings-investments/forex-reserve-indias-foreign-exchange-reserves-increase-for-the-third-consecutive-week-forex-reserves-at-676237-billion-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/forex-resrvee_2026071749216.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "9ccdbec54273",
-            "feed": "lokmat",
-            "title": "Crop Insurance : ३० कोटींचा पीक विमा भरला; पण शेतकऱ्यांच्या खात्यात आले फक्त ५००-७०० रुपये!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-24T14:56:46",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-crop-insurance-crop-insurance-of-rs-30-crores-paid-but-only-rs-500-700-came-in-the-farmers-accounts-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crop-insurance-jalna-1_2026071748829.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "9f73336b12dd",
-            "feed": "lokmat",
-            "title": "तणनाशक मारूनही तण जळत नाहीये? फवारणी करताना नक्की करा 'हे' सोपे उपाय",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-24T14:31:19",
-            "url": "https://www.lokmat.com/agriculture/smart-farming/weeds-not-burning-even-after-spraying-with-herbicide-be-sure-to-follow-these-simple-steps-while-spraying-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/herbicide-spraying-advice_2026071748806.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
