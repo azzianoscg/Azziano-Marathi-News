@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "25-07-2026 | 11:38 PM IST",
+    "lastUpdated": "26-07-2026 | 03:16 AM IST",
     "maharashtra": [
+        {
+            "id": "f2d1a57b5f74",
+            "feed": "lokmat",
+            "title": "मुलीचे अपहरण, बलात्कार आणि बळजबरीने धर्मांतर; मानकापूरमध्ये चारजणांवर गुन्हा दाखल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-26T03:13:05",
+            "url": "https://www.lokmat.com/nagpur/girls-kidnapping-rape-and-forced-conversion-case-registered-against-four-in-mankapur-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-dharmantaran_2026071749782.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "83a9e25fe9a5",
+            "feed": "lokmat",
+            "title": "आषाढी एकादशीनिमित्त कारागृहात भरली ‘विठ्ठल नामाची शाळा’; दिवसभर विठ्ठल नामाचा गजर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-26T03:05:45",
+            "url": "https://www.lokmat.com/nagpur/viththal-nam-in-prison-on-the-occasion-of-ashadhi-ekadashi-viththal-named-alarm-throughout-the-day-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjkui_2026071749781.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5d17ad1d5ebd",
+            "feed": "lokmat",
+            "title": "गँगवाॅर! मांडवलीसाठी बोलवून प्रतिस्पर्धी गुन्हेगाराची निर्घृण हत्या; जुन्या वैमनस्यातून मानेवाडा घाटाजवळ थरार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-26T02:55:19",
+            "url": "https://www.lokmat.com/nagpur/gangwar-brutal-murder-of-rival-criminal-thrilling-near-manewada-ghat-due-to-old-enmity-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-reds-ss_2026071749779.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a25e19db83f8",
+            "feed": "maharashtratimes",
+            "title": "BJP Politics : शिक्षण खात्याची जबाबदारी प्रल्हाद जोशींकडे, मग फडणवीस तातडीनं दिल्लीत का? महायुतीच्या बड्या मंत्र्यानं दिलं उत्तर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-26T00:11:21",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/radhakrishna-vikhe-patil-on-dharmendra-pradhan-resignation-impact-on-maharashtra-politics-devendra-fadanvis/articleshow/132631973.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "098e2be0033b",
             "feed": "esakal",
@@ -16,152 +80,88 @@
             "image": "https://cf-images.assettype.com/esakal/2026-03-07/lo8jrujd/Abhi-2026-03-07T084111.257.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "fc101b8b0be5",
-            "feed": "maharashtratimes",
-            "title": "MPSC Paper Leak Allegations: 'एमपीएससी' औषध निरीक्षक परीक्षेत पेपरफुटीचा संशय; सोशल मीडियावर खळबळ, आयोग काय म्हणाले?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-25T23:11:06",
-            "url": "https://maharashtratimes.com/career/career-news/mpsc-drug-inspector-exam-paper-leak-allegations-commission-denies-claims-maharashtra-lokseva-aayog/articleshow/132630382.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "0f78d4526524",
-            "feed": "esakal",
-            "title": "SRPF Women Recruitment : 'एसआरपीएफ'मध्ये महिलांची भरती कधी? सहा वर्षांनंतरही घोषणा कागदावरच; उमेदवारांचा सरकारला सवाल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-25T22:51:25",
-            "url": "https://www.esakal.com/pune/srpf-women-recruitment-delayed-for-six-years-candidates-demand-inclusion-in-upcoming-police-recruitment-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2024-07/124fc9b4-d776-4480-860d-5c50edc900b9/Nashik%20News%20-%202024-07-24T192306.463.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "32d74bf4bca6",
-            "feed": "esakal",
-            "title": "Pen NEET Candle March : NEET पेपरफुटीप्रकरणी पेणमध्ये कॅंडल मार्च; सर्वपक्षीय, सर्वधर्मीय संघटनांचे सरकारविरोधात आंदोलन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-25T22:42:51",
-            "url": "https://www.esakal.com/kokan/pen-candle-march-against-neet-paper-leak-all-party-organisations-protest-raigad-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-25/elhhx4s5/Esakal-21.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "3a4a6186f890",
-            "feed": "esakal",
-            "title": "Maharashtra Political News : \"संवादातूनच प्रश्न सुटतात, हिंसेने नाही\"; अण्णा हजारेंचे शांततेचे आवाहन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-25T22:36:00",
-            "url": "https://www.esakal.com/ahmednagar/anna-hazare-appeals-for-dialogue-and-peace-says-problems-cannot-be-solved-through-violence-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-06-22/4ql3cksf/Anna-Hazare",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "7959082d37e5",
-            "feed": "esakal",
-            "title": "घरच्या घरी ३० दिवसांत उगवणाऱ्या पालेभाज्या!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-25T23:28:40",
-            "url": "https://www.esakal.com/ampstories/web-story/leafy-green-vegetables-you-can-grow-harvest-in-just-30-days-at-home-gardening-marathi-information-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-25/pzmdlonu/Leafy-Greens-for-Your-Home-Garden-1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "989c906407da",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 26 July 2026: रवि प्रदोष, उभयचरी योग, हंस राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-25T23:04:19",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-26-july-2026-in-marathi-ravi-pradosh-ubhayachari-yog-hans-rajyog-and-shubha-muhurta/articleshow/132629537.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "f7bd1ce03027",
-            "feed": "maharashtratimes",
-            "title": "Pralhad Joshi : प्रल्हाद जोशींकडे शिक्षण मंत्रालयाची धुरा; किती शिकले आहेत मोदी सरकारचे हे मंत्री?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-25T22:46:11",
-            "url": "https://maharashtratimes.com/india-news/pralhad-joshi-educational-qualification-education-ministry-charge-early-life-political-journey/articleshow/132630291.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "eabb8c2279ee",
+            "id": "341fd754a20a",
             "feed": "lokmat",
-            "title": "'फ्री उमर खालिद-शर्जिल इमाम 'च्या फलकावरून आझाद मैदानात गोंधळ; दोन गट आमनेसामने, सुदीप दळवी ताब्यात",
+            "title": "\"पदापेक्षाही देश महत्त्वाचा...!\"; धर्मेंद्र प्रधान यांच्या राजीनाम्यानंतर अमित शाह यांची पहिली प्रतिक्रिया",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-07-26T02:44:00",
+            "url": "https://www.lokmat.com/national/the-country-is-more-important-than-the-position-amit-shahs-first-reaction-after-dharmendra-pradhans-resignation-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amit-shah-dharmendra-pradhan_2026071749778.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "793005598365",
+            "feed": "lokmat",
+            "title": "\"त्यांना हे माहीत आहे की...!\"; प्रल्हाद जोशी देशाचे नवे शिक्षणमंत्री होताच CJP ची पहिली प्रतिक्रिया",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-07-26T01:42:26",
+            "url": "https://www.lokmat.com/national/cjps-first-reaction-as-soon-as-pralhad-joshi-became-the-countrys-new-education-minister-saurav-das-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cjp-reaction-on-pralhad-joshi-rr_2026071749775.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4be190445a91",
+            "feed": "lokmat",
+            "title": "वेर्ण्यात भीषण दुर्घटना! उच्चदाब वीजवाहिनी टेम्पोवर कोसळली; क्लिनरचा जागीच मृत्यू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-25T22:15:24",
-            "url": "https://www.lokmat.com/goa/free-umar-khalid-sharjeel-imam-placard-causes-chaos-in-azad-maidan-two-groups-face-each-other-sudeep-dalvi-in-possession-a-a1016/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fre-umar-khalid-free-sarjeel-protest-zeng_2026071749766.jpg",
+            "published": "2026-07-26T00:00:01",
+            "url": "https://www.lokmat.com/goa/horrific-accident-in-verna-high-voltage-power-line-falls-on-tempo-cleaner-dies-on-the-spot-a-a1016/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/accident-at-birla-junction-at-night_2026071749773.png",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "dc2f8973c629",
+            "id": "9c61bb11f36a",
             "feed": "esakal",
-            "title": "आरशात स्वतःला ओळखतो, साधनांचाही करतो वापर; 'हा' आहे जगातील सर्वात बुद्धिमान प्राणी",
+            "title": "स्कीनसाठी कॉफी उपयुक्त असते का?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-25T22:09:05",
-            "url": "https://www.esakal.com/ampstories/web-story/which-is-most-intelligent-creature-after-humans-what-makes-ganges-dolphin-special-know-reason-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-25/e3wfex4x/Dolphin-Intelligence.jpg",
+            "published": "2026-07-25T23:56:24",
+            "url": "https://www.esakal.com/ampstories/web-story/coffee-good-for-your-skin-benefits-risks-expert-tips-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-25/o0h1yuk6/coffee-for-skin-4.jpg",
             "isBreaking": false,
             "category_reason": "default"
+        },
+        {
+            "id": "ee93b6e5a8c7",
+            "feed": "lokmat",
+            "title": "शिक्षणमंत्रिपदाची जबाबदारी मिळताच प्रल्हाद जोशी यांची पहिली प्रतिक्रिया, पंतप्रधानांचे मानले आभार; धर्मेंद्र प्रधानांसंदर्भात काय म्हणाले?\"",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-07-25T23:54:00",
+            "url": "https://www.lokmat.com/national/pralhad-joshis-first-reaction-after-taking-charge-as-the-education-minister-was-i-thanked-the-prime-minister-what-did-he-say-about-dharmendra-pradhan-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pralhad-joshi-education-minister-reaction-hrdsd_2026071749771.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "world": [
