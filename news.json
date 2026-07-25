@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "25-07-2026 | 04:33 PM IST",
+    "lastUpdated": "25-07-2026 | 08:20 PM IST",
     "maharashtra": [
-        {
-            "id": "3db71cb93baf",
-            "feed": "lokmat",
-            "title": "Satara News: बोंद्रीजवळ खांब पडल्याने २० गावे अंधारात, वीजपुरवठा सुरळीत करण्यासाठी प्रयत्न सुरू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-25T16:27:06",
-            "url": "https://www.lokmat.com/satara/power-supply-to-20-villages-disrupted-after-an-electricity-transmission-pole-collapsed-near-bondri-village-in-patan-taluka-satara-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/patan-ele-khamb-coll_2026071749609.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b2c68b9e751a",
-            "feed": "lokmat",
-            "title": "धनकवडीतील शंकर महाराज उड्डाणपुलावर पावसाच्या पाण्याचा धोका; वाहनचालकांच्या सुरक्षेचा प्रश्न ऐरणीवर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-25T16:21:32",
-            "url": "https://www.lokmat.com/pune/pune-news-danger-of-rainwater-on-shankar-maharaj-flyover-in-dhankawadi-safety-of-drivers-on-the-agenda-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pune-water-000_2026071749606.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7661a20ecd71",
-            "feed": "lokmat",
-            "title": "कशेडी घाटात अमोनिया गॅसवाहू टँकर उलटला; गळती न झाल्याने अनर्थ टळला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-25T16:20:44",
-            "url": "https://www.lokmat.com/ratnagiri/an-ammonia-gas-tanker-overturned-in-the-kashedi-ghat-on-the-mumbai-goa-national-highway-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kaseli-ghat-trak_2026071749605.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
         {
             "id": "0b1707c5ad64",
             "feed": "esakal",
-            "title": "Live Updates Marathi : TET पेपरफुटी प्रकरणात आणखी दोन आरोपींना अटक",
+            "title": "Live Updates Marathi : राष्ट्रपती द्रौपदी मुर्मू यांनी धर्मेंद्र प्रधान यांचा राजीनामा स्वीकारला",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-25T16:18:32",
+            "published": "2026-07-25T20:15:39",
             "url": "https://www.esakal.com/maharashtra/pandharpur-ashadhi-ekadashi-2026-live-updates-vitthal-rukmini-mandir-palki-yatra-ashadhi-wari-cm-devendra-fadnavis-marathi-news-bam92-srk94-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-07-25/9eeu44ri/Latest-Political-News-in-Marathi-5.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "315b44d436f5",
+            "id": "0d6bcff612bd",
+            "feed": "esakal",
+            "title": "PMPML bus depot land : पीएमपी डेपोसाठी महापालिकेकडे २४ जागांची मागणी; ३० दिवसांत प्रशासन अहवाल देणार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-25T20:12:32",
+            "url": "https://www.esakal.com/pune/pmpml-demands-24-land-parcels-from-pune-municipal-corporation-for-new-bus-depots-report-in-30-days-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-25/o169q4yk/Abhi.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "102786a99cca",
             "feed": "lokmat",
-            "title": "पुणे-बंगळुरू राष्ट्रीय महामार्गावर उभ्या ट्रकवर लक्झरी धडकली; १५ प्रवासी जखमी, धनगरवाडीजवळ दुर्घटना",
+            "title": "कोकणवासीयांची मागणी मान्य, ३ सुपरफास्ट ट्रेनना नवा थांबा दिला; टाइमटेबल आले, पटापट चेक करा!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-25T16:16:23",
-            "url": "https://www.lokmat.com/satara/fifteen-passengers-were-seriously-injured-when-a-speeding-luxury-bus-rammed-into-a-stationary-truck-within-the-limits-of-dhangarwadi-in-khandala-taluka-on-the-pune-bengaluru-national-highway-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bus-khandal-accident_2026071749599.jpg",
+            "published": "2026-07-25T20:08:34",
+            "url": "https://www.lokmat.com/mumbai/demand-of-konkan-railway-residents-fulfilled-3-superfast-trains-including-rajdhani-given-halt-at-sawantwadi-timetables-are-out-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sawantwadi-road-1_2023121138739.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5a2419d245c0",
+            "feed": "lokmat",
+            "title": "खडकवासला, पवना धरणांचा विसर्ग कमी; नदीकाठच्या नागरिकांना दिलासा, तरीही सतर्कतेचा इशारा कायम",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-25T20:07:43",
+            "url": "https://www.lokmat.com/pune/khadakwasla-pawana-dams-discharge-reduced-relief-for-riverside-residents-but-alert-remains-in-place-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-khadakwasala-p-dam-4_2026071749744.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8b7593b0f6a6",
+            "feed": "esakal",
+            "title": "Uruli Kanchan News: उरुळी कांचन ठरणार नव्या पुण्याचे लॉजिस्टिक हब; मेट्रो, रिंग रोड, विमानतळ जोडणीचा रोडमॅप : आमदार माऊली कटके",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-25T20:07:10",
+            "url": "https://www.esakal.com/pune/uruli-kanchan-to-emerge-as-new-pune-logistics-hub-mauli-katke-on-metro-ring-road-purandar-airport-connectivity-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-25/yr1i67ng/Esakal-10.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "17e70178d43b",
-            "feed": "lokmat",
-            "title": "सावधान! 'चार्जिंग टॉर्च' ठरली मृत्यूचे कारण; विजेचा धक्का लागून १९ वर्षीय तरुणाचा अंत",
+            "id": "76d59a4606db",
+            "feed": "maharashtratimes",
+            "title": "Hina Khan : 'आपल्या समाजात एकापाठोपाठ एक लग्न करणं चांगलं मानलं जात नाही', आमिर खानच्या तिसऱ्या लग्नावर हिना खानचं वक्तव्य",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-25T16:28:02",
-            "url": "https://www.lokmat.com/national/caution-charging-torch-turns-out-to-be-the-cause-of-death-19-year-old-youth-dies-of-electric-shock-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/battery-shock-1_2026071749610.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fe500961f8eb",
-            "feed": "lokmat",
-            "title": "Indian Railway Facts : भल्या पहाटे म्हणजे रोज ३ वाजता का वाजवला जातो रेल्वेचा हॉर्न? जाणून घ्या लोकोपायलटचं सीक्रेट...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-25T16:27:34",
-            "url": "https://www.lokmat.com/jarahatke/indian-railway-facts-why-do-trains-blow-their-horns-at-3-am-the-surprising-reason-revealed-a-a583/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/train-morning-horn1_2026071749593.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "166036e795f3",
-            "feed": "lokmat",
-            "title": "पश्चिम महाराष्ट्राची प्रसिद्ध लाटीवडी! कुरकुरीत मसालेदार - पारंपरिक खमंग चवीचा पदार्थ, नक्की खाऊन पाहा...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-25T16:24:00",
-            "url": "https://www.lokmat.com/sakhi/food/how-to-make-traditional-lativadi-recipe-at-home-crispy-and-soft-lativadi-recipe-lativadi-recipe-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lativadi-recipe_2026071749597.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "c99f704dab28",
-            "feed": "lokmat",
-            "title": "Ravi Pradosh Vrat 2026: २६ जुलै रवी प्रदोष; मान-सन्मान, शिवकृपा आणि समृद्धीसाठी 'असे' करा व्रत",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-25T16:18:41",
-            "url": "https://www.lokmat.com/bhakti/ravi-pradosh-vrat-2026-26th-july-ravi-pradosh-do-this-fast-for-honor-shivas-grace-and-prosperity-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ravi-pradosh-2026-vrat-vidhi_2026071749600.jpg",
+            "published": "2026-07-25T19:58:57",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/hina-khan-talks-about-aamir-khan-third-marriage-with-gauri-spratt/articleshow/132628366.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "d33e68a065e4",
+            "id": "f8232cb1550b",
+            "feed": "maharashtratimes",
+            "title": "CJP Project: NDA सरकारमधील मंत्र्याची लेकही CJP आंदोलनात; PM मोदींविरोधात आक्षेपार्ह घोषणा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-25T19:57:36",
+            "url": "https://maharashtratimes.com/india-news/assam-nda-minister-keshab-mahanta-daughter-joins-cjp-protest-uses-abusive-language-for-pm-modi/articleshow/132628200.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b5d3325d4339",
             "feed": "esakal",
-            "title": "हा लोकशाहीचा विजय! धर्मेंद्र प्रधानांच्या राजीनाम्यानंतर सोनम वांगचुक नेमकं काय म्हणाले?",
+            "title": "NEET Paper Leak:  जंतर-मंतरवरील आंदोलनाला मोठं यश! धर्मेंद्र प्रधानांचा राजीनामा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-25T16:16:59",
-            "url": "https://www.esakal.com/desh/sonam-wangchuk-reaction-on-dharmendra-pradhan-resignation-calls-it-victory-of-democracy-after-student-protest-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-25/jipurblp/Sonam-Wangchuk-Reacts-to-Dharmendra-Pradhans-Resignation",
+            "published": "2026-07-25T19:50:48",
+            "url": "https://www.esakal.com/videos/neet-paper-leak-dharmendra-pradhan-resignation-jantar-mantar-student-youth-protest-india",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-25/i6n2vd7l/amar-tupe-sakal-video-15.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "91a06ae6172b",
+            "feed": "esakal",
+            "title": "विषय चांगला पण.. कसा आहे श्रेयस तळपदे अन् काजल अग्रवालचा 'द इंडिया स्टोरी'? वाचा रिव्ह्यू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-25T19:47:42",
+            "url": "https://www.esakal.com/premier/shreyas-talpade-kajal-aggarwal-the-india-story-movie-review-in-marathi-rating-cast-performance-storyline-verdict-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-25/rm3ppc44/the-india-story.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "0a3d41c49ce1",
+            "feed": "esakal",
+            "title": "Dharmendra Pradhan Resignation: प्रधानांचा राजीनामा अन् दीपकेंच्या गावात जयघोष! संतुक पिंपरीत गावकऱ्यांचा मोठा जल्लोष...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-25T19:46:36",
+            "url": "https://www.esakal.com/videos/abhijeet-dipke-santuk-pimpri-village-dharmendra-pradhan-resignation-cockroach-janta-party-sam-tv-protest",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-25/zkk2ad87/amar-tupe-sakal-video-16.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "4cbff4e38075",
+            "feed": "esakal",
+            "title": "Accident News: भीषण अपघात! प्रवासी आणि गृह मंत्रालयाच्या बसची भीषण धडक; ३५ जणांचा मृत्यू, कुठे घडली घटना?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-25T18:29:49",
+            "url": "https://www.esakal.com/global/syria-accident-collision-between-passenger-bus-and-interior-ministry-bus-on-highway-connecting-damascus-to-eastern-province-of-deir-ez-zor-35-killed-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-25/6jwesyy4/Syria-Road-Accident.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "731ef28f9cdb",
             "feed": "esakal",
@@ -228,122 +244,106 @@
             "image": "https://cf-images.assettype.com/esakal/2026-07-24/iabqelqu/Mohammed-Shahabuddin-Resignation.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "f541a14abc46",
-            "feed": "esakal",
-            "title": "औरंगजेबचा सर्वात विश्वासू सहकारी कोण होता?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-24T18:16:03",
-            "url": "https://www.esakal.com/ampstories/web-story/who-was-aurangzeb-most-trusted-person-asad-khan-close-associates-and-influential-nobles-in-mughal-history-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-24/0c4rm1hw/1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "c0c5d4489531",
+            "id": "bc4d8fe39dd1",
             "feed": "lokmat",
-            "title": "कोण आहे Yash Thakur? धोनीला पाहून क्रिकेटची सुरुवात; आता विदर्भकराला टीम इंडियाकडून पदार्पणाची संधी",
+            "title": "IND vs ZIM : कोच बदलला अन् अय्यरच्या कॅप्टन्सीत टीम इंडियाचे 'अच्छे दिन'; झिम्बाब्वेविरुद्धची मालिका खिशात!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-07-25T16:28:19",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-zim-who-is-yash-thakur-makes-t20i-debut-for-india-vs-zimbabwe-2026-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ash-thakur-makes-2nd-t20i-debut-in-india-tour-of-zimbabwe-2026-m_2026071749602.jpg",
+            "published": "2026-07-25T20:13:37",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-zim-2nd-t20i-india-won-by-90-runs-seal-series-vs-zimbabwe-in-harare-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-zim-team-t20i-m_2026071749742.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "cd997229da89",
+            "id": "ab2d9b1d3ec5",
             "feed": "esakal",
-            "title": "IND vs ZIM: विदर्भाच्या खेळाडूचे भारतासाठी पदार्पण! दुसऱ्या T20I साठी संधी, पाहा Playing XI",
+            "title": "IND vs ZIM: श्रेयस अय्यरच्या नेतृत्वात भारताने जिंकली पहिली T20I मालिका; झिम्बाब्वेचा दुसर्‍या सामन्यात उडवला धुव्वा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-07-25T16:17:00",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-zimbabwe-2nd-t20i-toss-playing-xi-vidarbha-bowler-yash-thakur-debut-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-25/yqk6ozrn/India-vs-Zimbabwe-2nd-T20I.jpg",
+            "published": "2026-07-25T20:04:12",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-zim-2nd-t20i-india-lead-series-2-0-under-shreyas-iyer-captaincy-with-90-run-victory-in-harare-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-25/l9bc9jft/India-vs-Zimbabwe-2nd-T20I-1.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9ca261a80811",
+            "id": "e46fe4e4678a",
             "feed": "lokmat",
-            "title": "IND vs ZIM T20I : झिम्बाब्वेविरुद्धच्या T20I मध्ये सर्वाधिक विकेट्स घेणारे भारतीय गोलंदाज; 'नंबर वन' कोण?",
+            "title": "ईशान किशनची शानदार खेळी; शतक थोडक्यात हुकलं! पण T20I नंबर वन फलंदाजाने 'या' विक्रमाला घातली गवसणी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-07-25T15:36:37",
-            "url": "https://www.lokmat.com/cricket/photos/indian-team-highest-wicket-taker-against-zimbabwe-in-t20i-ravi-bishnoi-axar-patel-washington-sundar-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-team-highest-wicket-taker-against-zimbabwe-in-t20i-m-7_2026071749585.jpg",
+            "published": "2026-07-25T18:38:56",
+            "url": "https://www.lokmat.com/cricket/news/number-1-t20i-batter-ishan-kishan-hits-12th-half-century-in-2nd-t20i-against-zimbabwe-and-equals-abhishek-sharma-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ishan-kishan-hits-12th-half-century-in-2nd-t20i-against-zimbabwe-m_2026071749683.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "96561efbf787",
+            "id": "db105cbdb8ee",
             "feed": "lokmat",
-            "title": "जगात भारी पंढरीची वारी! अभिनेता संदीप पाठकने शेअर केले वारीतील भक्तिमय क्षण, पाहा व्हिडीओ",
+            "title": "Kanda Market : ना लासलगाव, ना सोलापूर 'या' मार्केटमध्ये कांद्याला सर्वाधिक दर मिळाला, वाचा आजचे मार्केट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-25T16:24:43",
-            "url": "https://www.lokmat.com/filmy/marathi-cinema/sandeep-pathak-shares-pandharpur-wari-photos-video-ashadhi-ekadashi-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sandeep-pathak-shares-pandharpur-wari-photos-video-ashadhi-ekadashi_2026071749608.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "3c89a41ac959",
-            "feed": "lokmat",
-            "title": "Girna Dam : गिरणाने हतनूरलाही टाकले मागे, गिरणा धरणात 48 तासांत 29 टक्क्यांनी जलसाठा वाढला!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-25T16:20:02",
-            "url": "https://www.lokmat.com/agriculture/weather/latest-news-girna-even-surpassed-hatnoor-water-storage-in-girna-dam-increased-by-29-percent-in-48-hours-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/girna-dma_2026071749468.jpeg",
+            "published": "2026-07-25T20:05:01",
+            "url": "https://www.lokmat.com/agriculture/market-yard/kanda-market-neither-lasalgaon-nor-solapur-got-highest-price-for-onions-in-nagpur-market-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/anda-25-july_2026071749738.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "da85fbb2bb5b",
-            "feed": "maharashtratimes",
-            "title": "Venugopal Dhoot : घराघरात पहिला कलर टीव्ही पोहोचविणारा ब्रॅण्ड व्हिडिओकॉन, एवढी मोठी कंपनी अचानक बंद कशी पडली? संपूर्ण प्रकरण वाचा",
+            "id": "7f6bb72fb956",
+            "feed": "lokmat",
+            "title": "मारुती सुझुकीची बहुप्रतीक्षित 'ब्रेझा टर्बो बूस्टरजेट' लाँच! किंमत आणि दमदार फीचर्स ऐकाल, तर नक्कीच विचार कराल",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-07-25T16:11:00",
-            "url": "https://maharashtratimes.com/business/business-news/videocon-downfall-venugopal-dhoot-one-single-mistake-cost-50000-crore-tv-company-90000-crore/articleshow/132622161.cms",
-            "image": "",
+            "published": "2026-07-25T20:03:48",
+            "url": "https://www.lokmat.com/auto/maruti-suzukis-much-awaited-brezza-turbo-boosterjet-launched-if-you-hear-the-price-and-powerful-features-you-will-definitely-think-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/brezza-turbo_2026071749736.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
+        },
+        {
+            "id": "59f8b103ac3f",
+            "feed": "lokmat",
+            "title": "Moh Seeds Oil : मोहाच्या बियांपासून तेलनिर्मिती, तर चोथ्यापासून पेंड निर्मिती, कशी असते संपूर्ण प्रक्रिया",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-25T17:31:30",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-how-is-entire-process-of-producing-oil-from-seeds-of-the-tolambi-plant-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tolambi_2026071749546.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
