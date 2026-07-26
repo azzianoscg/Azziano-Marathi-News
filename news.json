@@ -1,183 +1,199 @@
 {
-    "lastUpdated": "26-07-2026 | 01:16 PM IST",
+    "lastUpdated": "26-07-2026 | 05:19 PM IST",
     "maharashtra": [
         {
-            "id": "dae953b1730f",
-            "feed": "esakal",
-            "title": "Ashadhi Wari: ‘ग्राम विकास’चा प्रती वारकरी ५०० रुपये खर्च; १५० कोटींची आषाढी वारी, २४ तासात दर्शन रांगेत १८ लाखाहून अधिक भाविक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-26T13:05:25",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/ashadhi-wari-2026-rs-150-crore-allocated-for-pilgrim-services-over-18-lakh-devotees-queue-for-vitthal-darshan-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/h4rp6zto/sudhir-jadhav-satara-18.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "12808a6fe2c2",
+            "id": "f5a806ebab28",
             "feed": "maharashtratimes",
-            "title": "मुंबईतील विजयोत्सव विद्यार्थ्यांचाच; मुंबईतील रॅलीत संदीप देशपांडेंच्या टीशर्टची चर्चा",
+            "title": "Gunratan Sadavarte On Thackeray Brothers | 'ठाकरेंना बो&^%$ घालायची सवय', सदावर्तेंचा हल्लाबोल",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-26T13:03:14",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mns-leader-sandip-deshpandes-t-shirt-sparks-discussion-at-cjp-victory-rally-in-mumbai/videoshow/132637902.cms",
+            "published": "2026-07-26T17:17:06",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/gunratna-sadavarte-launches-a-scathing-attack-on-the-thackeray-brothers/videoshow/132640786.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "860118e9317c",
-            "feed": "esakal",
-            "title": "FDA Action: तुकाराम मुंढेचा कारवाईचा धडाका! दिशाभूल करणाऱ्या सौंदर्य प्रसाधनांचा साठा जप्त, १५ हून अधिक उत्पादनांवर बंदी",
+            "id": "eb6dcef7d531",
+            "feed": "maharashtratimes",
+            "title": "Maharashtra MBBS Bond Service Cancelled: 'एमबीबीएस'च्या विद्यार्थ्यांसाठी मोठा निर्णय! १ वर्षाचा बॉण्ड अखेर रद्द; पदवीनंतर थेट मिळणार PG ला प्रवेश",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-26T12:58:10",
-            "url": "https://www.esakal.com/maharashtra/tukaram-mundhe-fda-took-action-against-cosmetic-and-banned-more-than-15-beauty-products-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/4bxpeovm/FDA-Action-On-Cosmetic-Products.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "46e64338da96",
-            "feed": "esakal",
-            "title": "Ujani Dam: उजनी धरणाकडे ७४ हजार क्युसेक पाण्याची आवक; साठा ७४ टक्क्यांवर, शेतकऱ्यांना दिलासा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-26T12:48:04",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/ujani-dam-water-level-rises-as-bhima-river-inflow-touches-74030-cusecs-farmers-get-major-irrigation-relief-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/jn2a8b1f/sudhir-jadhav-satara-17.jpg",
+            "published": "2026-07-26T17:14:19",
+            "url": "https://maharashtratimes.com/career/career-news/maharashtra-govt-cancels-mbbs-one-year-bond-service-medical-students-welcomes-decision/articleshow/132640555.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "954b4e489561",
+            "id": "435d14b3234b",
             "feed": "lokmat",
-            "title": "साखरेचे खाणार त्याला महागात पडणार; १ किलो पन्नाशीपार, सामान्यांना फटका",
+            "title": "बुटात पेपर लपवला, ८ हजारात खरेदी अन् १.५ कोटींची कमाई! TET घोटाळ्यातील मुख्य आरोपीला अटक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-26T12:44:56",
-            "url": "https://www.lokmat.com/mumbai/sugar-will-cost-more-to-those-who-eat-it-1-kg-costs-more-than-fifty-rupees-common-people-will-be-affected-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/suger455_2026071749915.jpg",
+            "published": "2026-07-26T16:51:03",
+            "url": "https://www.lokmat.com/maharashtra/mastermind-of-tet-paper-leak-arrested-bhiwandi-police-nab-two-key-accused-from-bihar-14-arrested-in-total-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-tet-paper-leak_2026071750052.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "9de1afe0d540",
+            "feed": "esakal",
+            "title": "Abhangvani Program Vasai : विठ्ठलाच्या नामसमरणात रंगले वसईकर; ‘अभंगवाणी’ कार्यक्रमाला उत्स्फूर्त प्रतिसाद",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-26T16:29:19",
+            "url": "https://www.esakal.com/mumbai/vasai-abhangvani-program-organised-by-sahitya-jallosh-received-huge-response-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-26/nfizmco5/Esakal-3.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f056057a56d7",
+            "feed": "esakal",
+            "title": "Wadapur Barrage Cum Bridge : ई-सकाळच्या वृत्ताची दखल; वडापूर बंधाऱ्याचे बॅरेज-कम-पुलात रूपांतर करण्याची आ. समाधान आवताडे यांची मागणी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-26T16:22:19",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/mla-samadhan-awatade-demands-barrage-cum-bridge-at-siddhapur-wadapur-bhima-river-solapur-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-26/ex13a4l0/Esakal-2.png",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "bbbf8157a41e",
-            "feed": "esakal",
-            "title": "रात्री दही खाण्याआधी 'हे' वाचा!",
+            "id": "187558659afa",
+            "feed": "maharashtratimes",
+            "title": "Jasmin Bhasin : CRP लेव्हल वाढली, वाढदिवशीच गंभीर आजाराचं निदान; जास्मिन भसीननं सांगितला प्रसंग, म्हणाली, 'वारंवार आजारी पडत होते'",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-26T13:15:14",
-            "url": "https://www.esakal.com/ampstories/web-story/before-eating-curd-at-night-read-this-first-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/36nmx5z9/eating-curd-at-night-1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "0d7fdb4f34d3",
-            "feed": "esakal",
-            "title": "Whatsapp New Features : व्हॉट्सॲपने केला मोठा धमाका! 'या' युजर्सना मिळतायत जबरदस्त फीचर्स; PDF एडिटिंगसुद्धा सामील",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-26T13:09:22",
-            "url": "https://www.esakal.com/sci-tech/whatsapp-new-features-pdf-editing-ipad-account-android-auto-carplay-support-ssg2",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/oatmyvbm/latest-marathi-news-2026-07-26T123734.998.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "61c2c11212cb",
-            "feed": "esakal",
-            "title": "खेसारी लाल यादववर भडकली मलायका अरोरा; कारण ठरला तो व्हिडिओ",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-26T13:06:08",
-            "url": "https://www.esakal.com/premier/malaika-arora-slams-bhojpuri-star-khesari-lal-yadav-over-viral-stray-dog-red-carpet-controversy-video-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/f3rechwr/malaika-arora-angry-on-khesari-lal-yadav.jpg",
+            "published": "2026-07-26T17:13:16",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/jasmin-bhasin-diagnosed-with-terminal-ileitis-on-her-birthday-actress-shares-health-update/articleshow/132640241.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "61618313e8cf",
+            "id": "74ccfa8a6bb6",
             "feed": "esakal",
-            "title": "Guru Purnima Significance : अंधारातून प्रकाशात नेणारा...",
+            "title": "Latest Marathi News Update : GEN G नंतर आता आणखी एका आंदोलनाची हाक; E 20 वरून विरोधात आक्रोश",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-26T13:02:12",
-            "url": "https://www.esakal.com/saptarang/guru-purnima-teachers-trees-life-lessons-nature-gratitude-marathi-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/0laf39rd/Abhi-17.jpg",
+            "published": "2026-07-26T17:10:06",
+            "url": "https://www.esakal.com/desh/marathi-news-live-update-26-july-2026-jantar-mantar-protest-gen-z-dharmendra-pradhan-resign-neet-paper-leak-case-bjp-india-pm-modi-jp-nadda-rahul-gandhi-weather-imd-rain-forecast-cm-devendra-fadnavis-farm-loan-waiver-mumbai-pune-traffic-update-ssy93-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-21/2m67ubu7/live-update.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "c3ba8a8bd9e8",
+            "id": "5bbda0b5de35",
             "feed": "lokmat",
-            "title": "गुळाचा चहा नासतो ? ही घ्या गुळाचा चहा करण्याची फक्कड आणि परफेक्ट रेसिपी, पावसाळ्यात स्पेशल आनंद",
+            "title": "बाबाची एन्ट्री होताच टाळ्या वाजवल्या अन्...; संकर्षण कऱ्हाडेच्या लेकाचा Video व्हायरल; 'कुटुंब किर्रतन' नाटकाच्या वेळी काय घडलं?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-26T12:55:55",
-            "url": "https://www.lokmat.com/sakhi/food/here-is-the-perfect-and-easy-recipe-for-making-jaggery-tea-a-special-treat-during-the-monsoon-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jaggery-tea-_2026071749920.jpeg",
+            "published": "2026-07-26T17:01:18",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/video-of-sankarshan-karhades-son-goes-viral-while-watching-kutumb-kirtan-natak-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/video-of-sankarshan-karhades-son-goes-viral-while-watching-kutumb-kirtan-natak_2026071750057.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "61ca6ee3486d",
+            "feed": "esakal",
+            "title": "Premium|Supreme Court on Obscenity : शिवी म्हणजे अश्लीलता? सर्वोच्च न्यायालयाच्या निरीक्षणाचा अर्थ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-26T17:00:00",
+            "url": "https://www.esakal.com/premium-article/supreme-court-obscenity-swear-words-language-society-marathi-article-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-26/2whpfg8x/Abhi-18.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "f86a40ab6cbd",
+            "feed": "maharashtratimes",
+            "title": "आर्थिक राशिभविष्य 27 जुलै 2026: उभयचरी योगाचा प्रभाव!  मेष, वृषभ, मिथुनसह या राशींसाठी लाभाचा योग, मेहनतीचे फळ मिळेल! तुमची राशी काय सांगते? पाहा, तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-26T17:00:00",
+            "url": "https://maharashtratimes.com/astro/financial-horoscope/financial-money-horoscope-27-july-2026-ubhayachari-yog-arthik-rashi-astrology-bhavishya-marathi/articleshow/132628953.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "e086edc6a052",
+            "id": "8aea7cc18fca",
             "feed": "lokmat",
-            "title": "एच-१बी व्हिसावर अतिरिक्त शुल्काचा डाव कोर्टाने उधळला; १ लाख डॉलर्स शुल्कप्रकरणी ट्रम्प यांना दणका",
+            "title": "'युद्ध नको, तडजोड करा'; डोनाल्ड ट्रम्प यांनी इराणवरील हल्ल्यांना घातला लगाम; जागतिक राजकारणात खळबळ",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-07-26T09:55:27",
-            "url": "https://www.lokmat.com/international/court-thwarts-plan-to-impose-additional-fees-on-h-1b-visas-trump-gets-hit-with-100000-fee-case-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/doanald-trump-h1b-via3_2026071749826.jpg",
+            "published": "2026-07-26T16:53:19",
+            "url": "https://www.lokmat.com/international/dont-want-war-compromise-donald-trump-reins-in-attacks-on-iran-stirs-up-world-politics-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-us-donald-trump_2026071750045.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d4ee99b4a764",
+            "feed": "lokmat",
+            "title": "रशिया-युक्रेन युद्धाचा पुन्हा भडका! काळ्या समुद्रात व्यापारी जहाजावर भीषण हल्ला; दोन भारतीय खलाशी बेपत्ता, आठवड्यात दुसरी घटना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-07-26T15:45:22",
+            "url": "https://www.lokmat.com/international/russia-ukraine-war-flares-up-again-fierce-attack-on-merchant-ship-in-the-black-sea-two-indian-sailors-missing-second-incident-in-a-week-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russi-ukraine-indian-missing-after-commercial-ship-attacked_2026071750010.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -232,100 +248,100 @@
     ],
     "sports": [
         {
-            "id": "6df40c84872c",
-            "feed": "esakal",
-            "title": "Who Is Yash Thakur? आईची भीती अन् भारताला मिळाला नवा स्टार! 'वुशू'चे मैदान सोडणारा विदर्भाचा यश कसा बनला फास्ट बॉलर?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-07-26T13:14:08",
-            "url": "https://www.esakal.com/krida/cricket/how-mothers-fear-turned-wushu-player-yash-thakur-into-indian-fast-bowler-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/cty98598/Yash-Thakur-India-vs-Zimbabwe-2nd-T20I.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d86586674bc8",
+            "id": "3ea851d1c128",
             "feed": "maharashtratimes",
-            "title": "IND vs ZIM 3rd T20 : भारत वि. झिम्बाब्वे आज शेवटचा सामना, भारतीय संघात 4 मोठे बदल होणार? अभिषेक शर्मालाही बाहेर करण्याची शक्यता",
+            "title": "Hardik Pandya CSK Offer : हार्दिक पांड्यासाठी चेन्नईने लावली ताकद! 2 स्टार खेळाडूंसह 10 कोटीही देणार, पण मुंबई अडून बसलीय; एका अटीमुळे पेच",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-07-26T12:07:02",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-zim-3rd-t20-predicted-playing-11-last-match-four-changes-in-team-india/articleshow/132637015.cms",
+            "published": "2026-07-26T17:11:11",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/hardik-pandya-ipl-trade-rumours-csk-mi-offer-shivam-dube-dewald-brevis-ayush-mhatre/articleshow/132640018.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "34a8341438ce",
+            "id": "ea01076f1e0f",
+            "feed": "maharashtratimes",
+            "title": "ZIM vs IND 3rd T20 : भारत वि. झिम्बाब्वे शेवटचा सामना, भारताच्या प्लेइंग 11 मधून दोघांचा पत्ता कट, कोणाची झाली एन्ट्री?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-07-26T16:33:39",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/zim-vs-ind-3rd-t20-toss-update-team-india-win-toss-and-playing-11-two-changes-in-squad/articleshow/132639995.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "40243030bd0f",
             "feed": "esakal",
-            "title": "IND vs ZIM: MY BAD...! ईशान किशनने सोपा रन-आऊट सोडला अन् डोक्यालाच हात लावला; Video Viral",
+            "title": "COMMONWEALTH GAMES 2026 : भारताच्या खात्यात आणखी एक पदक! ऋषिकांत सिंगने राष्ट्रकुल विक्रम मोडला, रौप्यपदक जिंकले",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-07-26T11:54:22",
-            "url": "https://www.esakal.com/krida/cricket/ishan-kishan-misses-easy-run-out-vs-zimbabwe-viral-video-wins-internet-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/6h09tzu9/Ishan-Kishan-India-vs-Zimbabwe-2nd-T20I.jpg",
+            "published": "2026-07-26T16:25:32",
+            "url": "https://www.esakal.com/krida/cricket/cwg26-indias-rishikanta-singh-creates-commonwealth-games-record-clinches-silver-medal-in-mens-60-kg-weightlifting-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-26/uqby2j2h/Rishikanta-Singh-Commonwealth-Games-2026-silver-medal",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "567c207850bf",
-            "feed": "esakal",
-            "title": "Gold and Silver Rate: २० दिवसांत सोन्याची घसरण चांदी तब्बल १२,२५६ ने स्वस्त… काय आहे आजचा सोने-चांदीचा भाव?",
+            "id": "1b4cb6b4c143",
+            "feed": "lokmat",
+            "title": "पुढील आठवड्यात ४९ कंपन्यांकडून लाभांशाची बरसात; 'ही' कंपनी प्रति शेअर देणार ₹२४०, तुमच्याकडे आहे का?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
             },
-            "published": "2026-07-26T12:44:07",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/gold-price-today-silver-price-falls-over-rs-12256-in-20-days-latest-gold-and-silver-rates-july-2026-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/orpiv1t4/Gold-Price-Today-Gold-and-Silver-Rates-Drop-Sharply-in-20-Days.jpg",
+            "published": "2026-07-26T17:01:06",
+            "url": "https://www.lokmat.com/business/stock-market/dividends-to-be-paid-by-49-companies-next-week-this-company-will-pay-rs240-per-share-do-you-have-any-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/divident_2026071750060.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "cd8f88f75a58",
+            "id": "dfe18d9ce7c4",
             "feed": "lokmat",
-            "title": "नाशिकची आठ धरणे ओव्हरफ्लो, गंगापूर धरण 84 टक्क्यांवर, गिरणा खोऱ्यातील धरणे किती भरली?",
+            "title": "पंढरीत पूरस्थिती, सतर्कतेचा इशारा; वीर धरणातून होतोय पाण्याचा मोठा विसर्ग",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-26T12:30:02",
-            "url": "https://www.lokmat.com/agriculture/weather/eight-dams-of-nashik-overflow-gangapur-dam-at-84-percent-see-nashik-dam-storage-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nashik-panisatha_2026071749895.jpeg",
+            "published": "2026-07-26T16:37:25",
+            "url": "https://www.lokmat.com/agriculture/weather/flood-situation-in-pandhari-alert-issued-large-release-of-water-from-veer-dam-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-u-34-chandrabhaga-river_2026071750043.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "43f41f7d890f",
+            "id": "f347b27d1458",
             "feed": "lokmat",
-            "title": "दुकानदारांकडून कृषी निविष्ठांच्या विक्रीत मनमानी; कारवाई करण्याची शेतकऱ्यांकडून होतेय मागणी",
+            "title": "Dragon Fruit Farming Success Story : कमी पाण्यातही भरघोस नफा! ड्रॅगन फ्रूट शेतीने बदलले हिंगोलीच्या शेतकऱ्याचे नशीब",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-26T12:02:30",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/arbitrary-sale-of-agricultural-inputs-by-shopkeepers-farmers-demand-action-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-urea-fertilizer-farmer-agriculture_2026071749868.jpeg",
+            "published": "2026-07-26T16:22:57",
+            "url": "https://www.lokmat.com/agriculture/success-story/latest-news-dragon-fruit-farming-success-story-huge-profits-even-with-less-water-dragon-fruit-farming-changed-the-fortunes-of-a-hingoli-farmer-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dragon-fruit-farming-success-story-1_2026071750018.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
