@@ -1,82 +1,82 @@
 {
-    "lastUpdated": "26-07-2026 | 09:17 PM IST",
+    "lastUpdated": "27-07-2026 | 01:46 AM IST",
     "maharashtra": [
         {
-            "id": "299dd5e0f3a9",
-            "feed": "maharashtratimes",
-            "title": "Mumbai Fire : भायखळा पोलीस ठाण्यात भीषण आग, अग्निशामक दलाच्या 8 गाड्या घटनास्थळी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-26T21:12:32",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/fire-breaks-out-at-byculla-police-station-in-mumbai/articleshow/132643747.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "92523222ca7d",
+            "id": "e17d45c60cfc",
             "feed": "esakal",
-            "title": "आदिती तटकरेंचं लाडक्या बहिणींबाबतचं विधान चर्चेत, म्हणाल्या, ''पैसे दिले की महिला...''",
+            "title": "पुण्यातील पावसाने उजनी धरण १०० टक्के! सोलापुरात पाऊस नाही, पुणे जिल्ह्यातील ८ धरणांचे दरवाजे उघडले; उजनीतून शेतीसाठी सोडले पाणी, वाचा...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-07-26T21:06:59",
-            "url": "https://www.esakal.com/vidarbha/maharashtra-minister-aditi-tatkare-ladki-bahin-yojana-shopping-remark-washim-women-reaction-latest-news-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/3odszdix/Aditi-Tatkares-Ladki-Bahin-Remark-Sparks-Debate",
+            "published": "2026-07-26T23:59:00",
+            "url": "https://www.esakal.com/maharashtra/rain-in-pune-fills-ujani-dam-to-100-capacity-no-rainfall-in-solapur-gates-of-8-dams-in-pune-district-opened-water-released-from-ujani-for-agricultureread-more",
+            "image": "https://cf-images.assettype.com/esakal/2021-08/97b94d73-4daf-4766-87bd-41e9538228ca/eSakal__25_.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "720235141dec",
+            "id": "e65c4356d098",
+            "feed": "esakal",
+            "title": "सोलापूर- मुंबई विमानसेवा पुन्हा सुरू! जाताना ४५ तर येताना २० प्रवाशांनी केले बुकिंग; तिकीट दर ३५०० ते ५५०० रूपये, आठवड्यातील ‘या’ ४ दिवशी विमानसेवा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-26T23:59:00",
+            "url": "https://www.esakal.com/maharashtra/solapur-mumbai-flight-service-resumes-bookings-made-by-45-passengers-for-the-outbound-flight-and-20-for-the-return-ticket-prices-range-from-3500-to-5500-service-operates-on-these-four-days-of-the-week",
+            "image": "https://cf-images.assettype.com/esakal/2025-08-21/5qytlbcd/star-air",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "cd17cfbd4e18",
             "feed": "maharashtratimes",
-            "title": "Ram Mandir Case : मंदिरं कशी चालवावी याचं प्रशिक्षण शासनाला नाही, आचार्यांच्या ताब्यात द्या,  जगद्‌गुरू रामानंदाचार्य नरेंद्राचार्य महाराज यांची मागणी",
+            "title": "Jalgaon Crime : माणूस म्हणावं की हैवान? दारु पिण्यासाठी पत्नीकडे पैसे मागितले, नकार दिल्याने तिला संपविले, भडगावमध्ये मन हेलावणारी घटना",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-26T20:49:10",
-            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/ramanandacharya-narendracharya-maharaj-reaction-on-ayodhya-ram-mandir-case/articleshow/132643473.cms",
+            "published": "2026-07-26T23:54:29",
+            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/jalgaon-news-man-ends-life-of-his-wife-in-bhadgaon/articleshow/132646201.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fc8a74837546",
-            "feed": "maharashtratimes",
-            "title": "Nagpur Crime : आधी इन्स्टाग्रामवर मैत्री, घाटावर बोलावून मित्रानेच केला घात, चौघांनी मिळून एकाला संपवलं; विश्वास नांगरे पाटील घटनास्थळी पोहोचताच...",
+            "id": "e23eacb0a9a8",
+            "feed": "esakal",
+            "title": "सोलापुरातील धक्कादायक घटना! घरी वाद झाला, पतीने पत्नीला रात्री १२ वाजता माहेरी सोडले अन्‌ विवाहितेने मुलीसोबत केली रेल्वेखाली आत्महत्या; महिला सुरक्षा शाखेकडे तक्रार, तरीही...",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-26T20:49:09",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-manewada-crematorium-four-youth-killed-friend-together/articleshow/132643634.cms",
-            "image": "",
+            "published": "2026-07-26T23:42:00",
+            "url": "https://www.esakal.com/maharashtra/shocking-incident-in-solapur-following-a-domestic-dispute-a-husband-dropped-his-wife-off-at-her-parents-home-at-midnight-the-woman-subsequently-committed-suicide-by-jumping-in-front-of-a-train-with-her-daughter-despite-a-complaint-having-been-lodged-with-the-womens-safety-wing-the-tragedy-still-occurred",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-26/5hx07ma5/IMG20260726222221.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "13754ad48ecb",
+            "id": "7a3797ff153f",
             "feed": "maharashtratimes",
-            "title": "Raju Shetti On Sadabhau Khot | 'लाळघोटेपणा करायला काही मर्यादा असते'",
+            "title": "Thane News : शहापूरमध्ये धबधब्यावर अचानक पाणी वाढलं, पाहतापाहता पूर, 5 जण वाहून गेले",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-26T20:47:14",
-            "url": "https://maharashtratimes.com/maharashtra/kolhapur/raju-shetti-targets-sadabhau-khot/videoshow/132643595.cms",
+            "published": "2026-07-26T23:08:48",
+            "url": "https://maharashtratimes.com/maharashtra/thane/shahapur-heavy-rain-sudden-surge-of-water-at-chondhe-5-tourists-swept-away/articleshow/132644714.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -84,82 +84,82 @@
     ],
     "india": [
         {
-            "id": "3545fac8b619",
-            "feed": "maharashtratimes",
-            "title": "Actor Sudhir : अत्याचारामुळे दारूच्या आहारी गेलेल्या पत्नीचं वयाच्या 44व्या वर्षी निधन; एका भयानक घटनेनं बदललं सुप्रसिद्ध अभिनेत्याचं आयुष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-26T20:52:54",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/actor-sudhir-wife-model-sheila-ray-diet-at-age-of-44-know-painful-story-of-actor/articleshow/132643371.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1ac529ea4da9",
+            "id": "23f4b6744557",
             "feed": "lokmat",
-            "title": "ढाबा स्टाईल सिंधी कढी आणि गरमागरम भात- स्पेशल चमचमीत बेत, शेफ संजीव कपूर यांची स्पेशल रेसिपी!",
+            "title": "NEET पेपरफुटी आंदोलन संपलं, आता CJP पुढे काय करणार? अभिजीत दीपके यांनी दिलं स्पष्ट उत्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "india"
             },
-            "published": "2026-07-26T20:50:38",
-            "url": "https://www.lokmat.com/sakhi/food/dhaba-style-sindhi-kadhi-recipe-made-by-chef-sanjeev-kapoor-traditional-sindhi-curry-recipe-sindhi-food-recipes-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dhaba-style-sindhi-kadhi_2026071749962.jpeg",
+            "published": "2026-07-26T23:59:35",
+            "url": "https://www.lokmat.com/national/neet-paper-leak-protest-is-over-what-will-cjp-do-next-abhijit-deepke-tells-future-plan-punjab-paper-leak-politics-all-you-need-to-know-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abhijeet-dipke-future-cjp-2607_2026071750179.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
         {
-            "id": "ce3e05291d3a",
-            "feed": "lokmat",
-            "title": "वय वाढलं तरी चेहरा दिसेल विशीतल्या तरुणीसारखा! तांदळात मिसळा खास गोष्ट, रोज रात्री झोपताना लावल्यास चमकेल चेहरा- सुरकुत्या कमी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-26T20:50:14",
-            "url": "https://www.lokmat.com/sakhi/beauty/rice-face-pack-for-glowing-skin-rice-face-mask-for-wrinkles-natural-anti-ageing-face-pack-homemade-face-pack-for-glowing-skin-how-to-reduce-wrinkles-naturally-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/natural-skin-care-remedies_2026071750048.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "613c00d5868d",
+            "id": "2b4d1bda83fe",
             "feed": "esakal",
-            "title": "विद्यार्थी आंदोलन झालं, पण आता पुढं काय? कॉकरोच जनता पार्टीनं स्पष्ट केली भूमिका",
+            "title": "Belly Fat कमी होत नाही? आजच सोडा 'या' सवयी!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-26T20:49:17",
-            "url": "https://www.esakal.com/desh/cockroach-janata-party-cjp-not-entering-electoral-politics-after-student-protest-sourav-das-future-strategy-india-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/n29isexd/CJP-Clarifies-Future-Strategy-After-Student-Protest",
+            "published": "2026-07-26T23:59:11",
+            "url": "https://www.esakal.com/ampstories/web-story/avoid-these-daily-habits-to-reduce-belly-fat-naturally-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-26/8s7o9g9b/Drinks-for-Quick-Weight-Loss-Naturally-7.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "8cd7a3a1bf62",
-            "feed": "lokmat",
-            "title": "तोंडाची चव वाढवणारा कुरकुरीत स्नॅक! अवघ्या १० मिनिटांत करा सुपर क्रिस्पी पेरी पेरी पॉप रिंग्ज, चमचमीत- टेस्टी पदार्थ",
+            "id": "346714a02ce2",
+            "feed": "esakal",
+            "title": "केशर खाल्ल्याने शरीरात कोणते बदल होतात!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-26T20:48:28",
-            "url": "https://www.lokmat.com/sakhi/food/peri-peri-pop-rings-recipe-10-minute-snack-recipe-homemade-crispy-snacks-easy-evening-snack-recipe-quick-crunchy-snack-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/homemade-crispy-snacks_2026071750153.jpeg",
+            "published": "2026-07-26T23:54:45",
+            "url": "https://www.esakal.com/ampstories/web-story/what-happens-to-your-body-when-you-eat-saffron-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-26/vcax5l7t/Saffron-Purity-Test-9.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "0bbb07abd0f4",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 27 July 2026: राशी परिवर्तन योग, चंद्राधि योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-26T22:25:01",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-27july-2026-in-marathi-rashi-parivartan-yog-chandradhi-yog-and-shubha-muhurta/articleshow/132644508.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "cd91d9373d6c",
+            "feed": "esakal",
+            "title": "कोरफड पिवळी का पडते?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-26T22:22:44",
+            "url": "https://www.esakal.com/ampstories/web-story/why-aloe-vera-leaves-turn-yellow-and-how-to-fix-korfad-care-tips-home-gardening-marathi-information-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-26/wtg09k02/Why-Aloe-Vera-Turning-Yellow-11.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -248,52 +248,52 @@
     ],
     "sports": [
         {
-            "id": "2d49e09f4c9c",
+            "id": "27fa72b7bc4e",
             "feed": "maharashtratimes",
-            "title": "IND vs ZIM 3rd T20 : भारताचा झिम्बाब्वेवर सलग तिसरा विजय, वर्ल्ड कपनंतर जिंकली पहिलीच सीरीज; शेवटच्या सामन्याचा हिरो कोण?",
+            "title": "Mirabai Chanu Life Story : लाकडाच्या मोळ्या उचलताना किक बसली, गावातली मुलगी वेटलिफ्टर बनली, भारताची गोल्डन गर्ल मीराबाई चानूचा संघर्षमय प्रवास",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-07-26T20:53:59",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-zim-3rd-t20-india-won-by-35-runs-agaist-zimbabwe-iyer-first-time-win-series-as-a-captain/articleshow/132643593.cms",
+            "published": "2026-07-27T00:26:29",
+            "url": "https://maharashtratimes.com/sports/commonwealth-games/mirabai-chanu-inspirational-life-story-truck-drivers-lift-olympic-gold/articleshow/132646385.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c1e5301821c4",
-            "feed": "maharashtratimes",
-            "title": "Anahat Singh Wins Gold : 18 वर्षांच्या अनाहत सिंहने रचला इतिहास! 15 वर्षांचा इजिप्तचा दबदबा मोडत जिंकले गोल्ड; पंतप्रधान मोदींकडून कौतुक",
+            "id": "6a9c5c9fa653",
+            "feed": "lokmat",
+            "title": "IND vs SL: श्रीलंका दौऱ्यापूर्वी टीम इंडियाचं टेन्शन वाढलं; बुमराहसह ५ धुरंधरांच्या खेळण्यावर संभ्रम",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-07-26T20:43:28",
-            "url": "https://maharashtratimes.com/sports/other-sports/who-is-anahat-singh-indian-squash-player-historical-gold-medal-pm-modi-congratulates/articleshow/132643233.cms",
-            "image": "",
+            "published": "2026-07-27T00:00:41",
+            "url": "https://www.lokmat.com/cricket/photos/ind-vs-sl-india-test-squad-availability-and-fitness-update-jasprit-bumrah-washington-sundar-harshit-rana-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-zim-t20i-vaibhav-suryavanshi-bags-two-aawards-after-zimbabwe-series-m-2_2026071750170.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3e824fe1f072",
-            "feed": "esakal",
-            "title": "Commonwealth Games : भारताच्या मिराबाई चानूने इतिहास घडवला! सलग तिसऱ्यांदा जिंकलं सुवर्णपदक",
+            "id": "3e2b745c06e6",
+            "feed": "lokmat",
+            "title": "\"स्वप्न सत्यात उतरलं...\" झिम्बाब्वेविरुद्धची मालिका गाजवल्यावर वैभव सूर्यवंशीचा आनंद गगनात मावेना!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
             },
-            "published": "2026-07-26T20:32:38",
-            "url": "https://www.esakal.com/krida/mirabai-chanu-wins-third-consecutive-commonwealth-games-gold-medal-cwg-2026-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-26/2vndjplk/Mirabai-Chanu-Commonwealth-Games-2026.jpg",
+            "published": "2026-07-26T23:08:36",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-zim-t20i-vaibhav-suryavanshi-bags-two-aawards-after-zimbabwe-series-says-it-is-like-a-dream-come-true-for-me-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-zim-t20i-vaibhav-suryavanshi-bags-two-aawards-after-zimbabwe-series-m_2026071750166.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "business": [
