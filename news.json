@@ -1,167 +1,167 @@
 {
-    "lastUpdated": "27-07-2026 | 10:20 PM IST",
+    "lastUpdated": "28-07-2026 | 02:26 AM IST",
     "maharashtra": [
         {
-            "id": "b4dbe0f787b1",
-            "feed": "maharashtratimes",
-            "title": "Bribe Case: हुशारी दाखवली, तरीही PSI अडकला; फसवणुकीचा गुन्हा दाखल करण्यासाठी ६० वर्षीय व्यक्तीकडे लाच मागणं महागात, गुन्हा दाखल!",
+            "id": "551cb192962b",
+            "feed": "esakal",
+            "title": "सोलापुरात रोकड लुटण्यासाठी गोळीबार, ८ जण जेरबंद! आधी प्लॅन केला, नंतर साथीदार जमविले, मग पिस्तूल खरेदी केली; बोरामणीच्या जंगलातून सूत्रधार पकडला, वाचा...",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-27T21:48:28",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/police-sub-inspector-arrested-for-demanding-bribe-from-a-60-year-old/articleshow/132665986.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "823d16f2aa57",
-            "feed": "lokmat",
-            "title": "आधी १० लाखांची फसवणूक, मग जीवे मारण्याची धमकी अन् मग आळीपाळीने...; नागपुरात दोघांवर गुन्हा दाखल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-27T21:36:27",
-            "url": "https://www.lokmat.com/crime/nagpur-crime-woman-pressured-into-having-physical-relations-by-cheating-her-financially-threatened-to-kill-her-case-registered-against-two-a-a877-c747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-fraud-intimacy-2707_2026071750859.jpg",
+            "published": "2026-07-27T23:37:00",
+            "url": "https://www.esakal.com/paschim-maharashtra/firing-incident-in-solapur-to-loot-cash-8-arrested-they-hatched-a-plan-gathered-accomplices-and-purchased-a-pistol-the-mastermind-was-nabbed-from-the-boramani-forestread-on",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-27/51zb54iw/IMG-20260727-WA0215-1.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "17913e02e23e",
+            "id": "aefc76649c09",
+            "feed": "esakal",
+            "title": "Consumer Rights: नवीन कार द्यावी किंवा गाडीचे पैसे व्याजासह परत करावेत; ग्राहक आयोगाचा कार उत्पादक कंपनीला आदेश",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-27T23:16:32",
+            "url": "https://www.esakal.com/pune/consumer-commission-orders-mg-motor-new-car-or-refund-consumer-commission-orders-new-car-or-refund-over-manufacturing-defect-pune-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2022-12/2f3d7dd0-fde5-4c0c-b904-4f4d9eb806cc/Untitled__1200___675_px____2022_12_24T091721_294.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1c9d6d34928a",
+            "feed": "esakal",
+            "title": "TCS Job Fraud: टीसीएसमध्ये नोकरी व कार भाड्याने लावून देण्याचे आमिष; युवकाची १५.१४ लाखांची फसवणूक, बजाजनगरात ठकबाजावर गुन्हा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-27T23:11:18",
+            "url": "https://www.esakal.com/vidarbha/nagpur/tcs-job-scam-15-14-lakh-cheating-bajaj-nagar-nagpur-tcs-job-fraud-car-rental-scam-rs-15-lakh-cheating-bajajnagar-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-23/dzuwiw9o/Job-Fraud",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "259fd7a4ddba",
+            "feed": "esakal",
+            "title": "Nagpur widow exploitation case: लग्नाचे आमिष व गुंतवणुकीचा बहाणा; विधवेवर अत्याचार करून साडेदहा लाखांची लूट, दोघांना अटक",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-27T23:06:35",
+            "url": "https://www.esakal.com/vidarbha/widow-cheated-raped-on-promise-of-marriage-nagpur-widow-sexual-assault-marriage-promise-fraud-two-brothers-arrested-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2025-01-09/2vxsg4cu/chinmay-2.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "20bb4cb2a7b3",
             "feed": "maharashtratimes",
-            "title": "Pune Traffic: पुणेकरांसाठी आनंदाची बातमी; वाहतूक कोंडी फोडण्यासाठी ३ मोठे प्रकल्प, फडणवीसांनी कोणते आदेश दिले?",
+            "title": "Thane Politics : ठाण्यात महायुतीत नाराजी, विकासप्रकल्पांच्या लोकार्पण सोहळ्यात भाजपला डावलल्याचा आरोप",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-27T21:29:10",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/three-major-projects-to-alleviate-traffic-congestion-in-pune-cm-devendra-fadnavis-orders/articleshow/132665563.cms",
+            "published": "2026-07-27T23:02:42",
+            "url": "https://maharashtratimes.com/maharashtra/thane/bjp-leader-deputy-mayor-krishna-patil-allegations-of-bjp-being-sidelined-in-thane/articleshow/132667244.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4505ec3d9ad6",
-            "feed": "esakal",
-            "title": "Crime News: दुसऱ्या जातीतील तरुणावर प्रेम, आईचा संताप अनावर; गळा आवळून मुलीला संपवलं, ठाण्यात खळबळ",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-27T21:19:52",
-            "url": "https://www.esakal.com/mumbai/thane-crime-news-mother-killed-her-daughter-because-she-was-in-love-with-youth-from-different-caste-in-ulhasnagar-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "48c15b4ee2fd",
-            "feed": "esakal",
-            "title": "Latest Marathi News Update: आज राज्यासह देशात कुठे काय घडलं? जाणून घ्या...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-27T21:17:20",
-            "url": "https://www.esakal.com/maharashtra/marathi-news-live-update-27-july-2026-parliament-monsoon-session-pm-narendra-modi-rahul-gandhi-dharmendra-pradhan-resignation-neet-paper-leak-case-abhijeet-dipke-weather-imd-khadakwasla-koyna-dam-cm-devendra-fadnavis-farm-loan-waiver-mumbai-pune-traffic-update-bam92-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "b685aa84bb6e",
+            "id": "ac2bec6e5501",
+            "feed": "lokmat",
+            "title": "अनैतिक संबंधाच्या संशयातून मित्राचा खून, दोघांना अटक! शिक्रापूर पोलिस, स्थानिक गुन्हे शाखेची कारवाई",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-28T00:19:18",
+            "url": "https://www.lokmat.com/crime/murder-of-friend-on-suspicion-of-immoral-relationship-two-arrested-shikrapur-police-local-crime-branch-take-action-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pune-crime-talegao-2807_2026071750878.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "060aa3628575",
+            "feed": "lokmat",
+            "title": "खळबळजनक! पिंपरीत १० वर्षीय मुलीवर ६५ वर्षीय नराधमाकडून लैंगिक अत्याचार, गुन्हा दाखल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-27T23:58:57",
+            "url": "https://www.lokmat.com/crime/shocking-10-year-old-girl-physically-sexually-assaulted-by-65-year-old-man-in-pimpri-case-registered-in-wakad-police-station-a-a898-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-boy-girl-2109d_2026071750877.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "31d53f57fb7e",
             "feed": "esakal",
-            "title": "NEET Protest: बिहार सरकार आंदोलकांसमोर झुकलं! गुन्हे मागे घेण्याचा निर्णय, अटकेत असलेल्यांची सुटका",
+            "title": "शिजवलेले की भाजलेले? हेल्थसाठी कोणते चणे आहेत बेस्ट?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-27T22:09:01",
-            "url": "https://www.esakal.com/desh/bihar-government-neet-protest-fir-withdrawal-student-relief-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-27/hkriiqju/Latest-Marathi-Breaking-News-2026-07-27T220521.135.jpg",
+            "published": "2026-07-27T23:54:05",
+            "url": "https://www.esakal.com/ampstories/web-story/boiled-vs-roasted-chana-which-is-best-for-health-protein-weight-loss-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-27/9knfu92o/Cooked-VS-Roasted-Chana-Which-is-Best-for-Health-1.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "1e24acffa918",
+            "id": "37cce0f06a6b",
             "feed": "lokmat",
-            "title": "संसदेत दिवसभर गोंधळ, निवेदनाच्या मुद्द्यावरून अडून राहिले विरोधक, कामकाजात सतत अडथळे",
+            "title": "CJPला आणखी एक मोठे यश! बिहार सरकारने आंदोलक विद्यार्थ्यांवरील खटले मागे घेण्याची केली घोषणा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-07-27T21:58:08",
-            "url": "https://www.lokmat.com/national/chaos-in-parliament-monsoon-session-on-monday-opposition-demands-home-ministers-statements-over-neet-paper-leak-cjp-protest-police-action-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/parliament-monsoon-2707_2026071750871.jpg",
+            "published": "2026-07-27T23:38:26",
+            "url": "https://www.lokmat.com/national/bihar-government-will-withdraw-all-cases-lodged-against-students-in-cjp-protest-press-note-issued-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bihar-govt-cjp-2707_2026071750876.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "083f64ba7ee0",
+            "id": "161865ec1de6",
             "feed": "maharashtratimes",
-            "title": "BJP Leaders’ Daughters Celebrate Dharmendra Pradhan’s Resignation | CJP ला पाठिंबा, आंदोलनही केलं",
+            "title": "Star Actor Comeback on Zee Marathi: तो पुन्हा आला! मराठी छोट्या पडद्यावर  मोठं पक्षांतर, झी मराठीचा सुपस्टार स्वगृही, जोरदार कमबॅक",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-27T21:41:41",
-            "url": "https://maharashtratimes.com/video/mt-originals/bjp-leaders-daughters-celebrate-dharmendra-pradhans-resignation-cjp/videoshow/132665978.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "173d0aa2277c",
-            "feed": "maharashtratimes",
-            "title": "Pravin Tarde : 'मुळशीतील रिंगरोडच्या आजूबाजूच्या शेतजमिनी कोणी कोणी लाटल्या? सगळ्यांचा हिशोब होणार', प्रवीण तरडेंची पोस्ट चर्चेत",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-27T21:17:05",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/pravin-tarde-shares-cryptic-post-on-mulshi-ring-road-land/articleshow/132665433.cms",
+            "published": "2026-07-27T23:29:15",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/star-pravah-actor-shashank-ketkar-comeback-on-zee-marathi-kamali-tv-serial/articleshow/132667672.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "5de02dc041d1",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 28 July 2026: वरिष्ठ योग, रवि योग, त्रिएकादश योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-27T21:05:56",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-28-july-2026-in-marathi-varishtha-yog-ravi-yog-triekadash-yog-and-shubha-muhurta/articleshow/132665310.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
@@ -230,20 +230,20 @@
             "category_reason": "keyword"
         },
         {
-            "id": "3a640f0edcd3",
-            "feed": "lokmat",
-            "title": "Samreen Kaur : कोण आहे समरिन कौर? जिच्या प्रेमात भारताचा वेगवान गोलंदाज अर्शदीप सिंग झाला क्लीन बोल्ड",
+            "id": "52fa86bce503",
+            "feed": "maharashtratimes",
+            "title": "Crime News: हिरे व्यापाऱ्याचं मालीत अपहरण; कुटुंबानं खंडणीपायी 44 कोटी मोजले; 100 कोटींचा विषय सोडवला",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
             },
-            "published": "2026-07-27T18:22:53",
-            "url": "https://www.lokmat.com/sakhi/photos/social-viral/who-is-samreen-kaur-meet-actor-model-who-is-dating-cricketer-arshdeep-singh-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/samreen-kaur-arshdeep_2026071750773.jpeg",
+            "published": "2026-07-27T17:58:06",
+            "url": "https://maharashtratimes.com/international/international-news/indian-origin-diamond-trader-kidnapped-in-mali-freed-after-family-pays-rs-44-crore-ransom/articleshow/132661366.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         }
     ],
     "sports": [
