@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "28-07-2026 | 02:26 AM IST",
+    "lastUpdated": "28-07-2026 | 05:43 AM IST",
     "maharashtra": [
         {
             "id": "551cb192962b",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "bddca95ebe56",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 28 July 2026: मूलांक 5 मेहनत, फोकस, संयम महत्त्वाचा! मूलांक 9 ऑफिसमध्ये मेहनतीचे कौतुक! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-28T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-28-july-2026-rashi-parivartan-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/132659797.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c85b6a08f0ea",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 28 जुलै 2026 : कोणत्या राशींना मिळणार ग्रहांची साथ कोणाचे चमकणार भाग्य अचानक ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-28T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-28-july-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/132665996.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "ac2bec6e5501",
             "feed": "lokmat",
             "title": "अनैतिक संबंधाच्या संशयातून मित्राचा खून, दोघांना अटक! शिक्रापूर पोलिस, स्थानिक गुन्हे शाखेची कारवाई",
@@ -130,38 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-07-27/9knfu92o/Cooked-VS-Roasted-Chana-Which-is-Best-for-Health-1.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "37cce0f06a6b",
-            "feed": "lokmat",
-            "title": "CJPला आणखी एक मोठे यश! बिहार सरकारने आंदोलक विद्यार्थ्यांवरील खटले मागे घेण्याची केली घोषणा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-27T23:38:26",
-            "url": "https://www.lokmat.com/national/bihar-government-will-withdraw-all-cases-lodged-against-students-in-cjp-protest-press-note-issued-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bihar-govt-cjp-2707_2026071750876.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "161865ec1de6",
-            "feed": "maharashtratimes",
-            "title": "Star Actor Comeback on Zee Marathi: तो पुन्हा आला! मराठी छोट्या पडद्यावर  मोठं पक्षांतर, झी मराठीचा सुपस्टार स्वगृही, जोरदार कमबॅक",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-27T23:29:15",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/star-pravah-actor-shashank-ketkar-comeback-on-zee-marathi-kamali-tv-serial/articleshow/132667672.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "420c9d65754f",
+            "feed": "lokmat",
+            "title": "CWG 2026 : नाशिकच्या सर्वेश कुशारेची ऐतिहासिक 'उंच उडी'; राष्ट्रकुल स्पर्धेत रौप्यपदकाची कमाई",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-28T02:57:20",
+            "url": "https://www.lokmat.com/other-sports/indias-sarvesh-anil-kushare-clinched-the-silver-medal-in-the-mens-high-jump-at-the-glasgow-2026-commonwealth-games-clearing-225m-missed-out-on-gold-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indias-sarvesh-anil-kushare-clinched-the-silver-medal-in-the-mens-high-jump-at-the-glasgow-2026-weightlifting-glasgow-m_2026071750882.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "b6d92f55a9fb",
             "feed": "esakal",
             "title": "Commonwealth Games 2026: किराणा दुकान चालवणाऱ्या बापाच्या लेकीची अभिमानास्पद कामगिरी! बिंद्यारानी देवीने भारताला जिंकून दिले सहावे पदक",
@@ -276,22 +292,6 @@
             "published": "2026-07-27T21:31:27",
             "url": "https://www.lokmat.com/cricket/news/gautam-gambhir-trolled-himself-on-social-media-post-goes-viral-a-a1004/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gyaneshwari-yadav-weightlifting-silver-medal-m-2_2026071750857.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "43bdc8dab463",
-            "feed": "lokmat",
-            "title": "कर्णधार म्हणून 'कमबॅक' करणारा बाबर आझम पुन्हा 'फ्लॉप'! असा OUT झाला जणूकाही 'कॅच प्रॅक्टिस'च...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-07-27T20:41:18",
-            "url": "https://www.lokmat.com/cricket/news/babar-azam-flop-batting-on-test-captaincy-return-caught-out-pakistan-vs-west-indies-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/babar-azam-flop-2707_2026071750854.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
