@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "30-07-2026 | 09:48 PM IST",
+    "lastUpdated": "31-07-2026 | 02:16 AM IST",
     "maharashtra": [
         {
-            "id": "b157e6f8e112",
-            "feed": "lokmat",
-            "title": "सातारा जिल्ह्यातील तापोळा मार्ग अखेर चौथ्या दिवशी खुला; १०५ गावांचा संपर्क पुन्हा सुरू",
+            "id": "d02d5b1cedff",
+            "feed": "esakal",
+            "title": "सोलापूरसह बीड, लातूर, धाराशिवमध्ये बनावट दारू विक्री! चिंचोळी एमआयडीसीत बनावट दारूचा कारखाना; गोदामात 1 लाख रिकामे बॉक्स, 1 लाख बाटल्या, टॅंगो पंच, भिंगरी ब्रॅंडचे बनावट बूच, लेबल",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-30T21:37:17",
-            "url": "https://www.lokmat.com/satara/tapola-road-in-satara-district-finally-opens-on-fourth-day-connectivity-to-105-villages-restored-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tapola-satara-3007_2026071753157.jpg",
+            "published": "2026-07-30T23:59:00",
+            "url": "https://www.esakal.com/maharashtra/sale-of-spurious-liquor-in-solapur-beed-latur-and-dharashiv-a-spurious-liquor-factory-has-been-found-in-chincholi-midc-the-warehouse-contained-1-lakh-empty-boxes-1-lakh-bottles-and-counterfeit-caps-and-labels-for-brands-like-tango-punch-and-bhingri",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-30/sn6l131y/1731810-1.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ec6ad018ce7d",
-            "feed": "maharashtratimes",
-            "title": "Maharashtra Weather Alert: 3 विभागात अतिवृष्टीचा इशारा, 30-31 July 2026 साठी IMD Issues High Alert",
+            "id": "d5cec357f352",
+            "feed": "lokmat",
+            "title": "हद्दपार आरोपी अवैध पिस्तुलांसह जेरबंद; ठाणे गुन्हे शाखेची धडक कारवाई",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-30T21:23:11",
-            "url": "https://maharashtratimes.com/video/mt-originals/maharashtra-weather-rain-alert-vidarbha-marathwada-kokan-30-31-july-2026-warning-deep-depression/videoshow/132744765.cms",
-            "image": "",
+            "published": "2026-07-30T23:54:21",
+            "url": "https://www.lokmat.com/crime/deported-accused-arrested-with-illegal-pistols-thane-crime-branch-takes-strong-action-a-a554-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thane-crime-3007_2026071753172.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "44b558a05ae8",
+            "id": "a2701ba25da9",
             "feed": "lokmat",
-            "title": "नीट पेपर तपासणी घोटाळ्याचे दावे खोटे; हायकोर्टाने फेटाळल्या AI-निर्मित कागदपत्रांवर आधारित चार याचिका",
+            "title": "ठाणे महापालिकेच्या महसूलवाढीचा आयुक्त सौरभ राव यांनी घेतला आढावा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-30T21:17:42",
-            "url": "https://www.lokmat.com/maharashtra/neet-paper-verification-scam-claims-false-high-court-dismisses-four-petitions-based-on-ai-generated-documents-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-neet-3007_2026071753156.jpg",
+            "published": "2026-07-30T23:51:55",
+            "url": "https://www.lokmat.com/thane/commissioner-saurabh-rao-reviewed-the-revenue-increase-of-thane-municipal-corporation-a-a554-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thane-saurabh-rao-3007_2026071753171.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3396ad9628a4",
+            "id": "30464d3714e0",
             "feed": "esakal",
-            "title": "Commonwealth Para Athletics: तोरणडोंगरीच्या जिल्हा परिषद शाळेतील दिलीप गावितची ग्लास्गो राष्ट्रकुल पॅरा अ‍ॅथलेटिक्समध्ये सुवर्णभरारी",
+            "title": "सोलापूर शहर क्राईम ब्रॅंचची कारवाई! शहरातील साऊंड व्यावसायिक तरूणाकडे सापडले ६.८० लाखांचे मेफेड्रॉन; जुना पूना नाका परिसरात शहर गुन्हे शाखेची कारवाई, वाचा...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-30T20:43:57",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/dilip-gavit-wins-gold-commonwealth-para-athletics-glasgow-zilla-parishad-school-student-surgana-nashik-latest-marathi-news-breaking-news-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-30/u9u1bgp3/Esakal-43.jpg",
+            "published": "2026-07-30T23:33:36",
+            "url": "https://www.esakal.com/maharashtra/action-by-solapur-city-crime-branch-mephedrone-worth-680-lakh-seized-from-a-young-sound-system-professional-in-the-city-operation-conducted-by-the-city-crime-branch-in-the-juna-puna-naka-arearead-on",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-30/d3a3cjm0/PNE26W38792.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "445ca0499011",
+            "id": "28642e49de00",
             "feed": "esakal",
-            "title": "Maharashtra Rain: महाराष्ट्रात मुसळधार पावसाचा इशारा; १० जिल्ह्यांना IMDचा रेड अलर्ट, पुढील ४८ तास अतिवृष्टीचा धोका",
+            "title": "सोलापुरात पाऊस नाही तरी भीमा नदीला पूर! चिंचपूर, बरूर, औजसह आळगे, खानापूर, हिळ्ळी बंधारे पाण्याखाली; नदीकाठच्या गावांना सतर्कतेचा इशारा, वाचा...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-30T20:42:19",
-            "url": "https://www.esakal.com/mumbai/imd-issues-red-alert-for-heavy-rain-across-10-districts-on-high-alert-in-maharashtra-weather-news-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-30/z7dmf7gl/Heavy-rain-alert.jpg",
+            "published": "2026-07-30T23:26:37",
+            "url": "https://www.esakal.com/maharashtra/no-rain-in-solapur-yet-the-bhima-river-is-in-flood-weirs-at-chinchpur-barur-and-aujas-well-as-those-at-alge-khanapur-and-hilliare-submerged-riverside-villages-have-been-issued-an-alert-read-more",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-30/6ylsy112/JEU26B08168.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "170382e3804b",
-            "feed": "esakal",
-            "title": "मध कधीच का खराब होत नाही?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-30T21:40:02",
-            "url": "https://www.esakal.com/ampstories/web-story/why-does-honey-not-have-an-expiry-date-amazing-scientific-facts-you-should-know-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-30/7qrr03aj/Why-Honey-Does-not-Have-an-Expiry-Date-1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e2dae3bfef97",
-            "feed": "esakal",
-            "title": "हॉटेलच्या खोलीत बेडसमोरच आरसा का असतो? जाणून घ्या डिझाइनमागील खास रहस्य...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-30T21:09:42",
-            "url": "https://www.esakal.com/ampstories/web-story/why-do-hotel-rooms-always-have-mirror-facing-bed-know-reason-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-30/3bm7was4/Mirror-placement-in-hotel-rooms.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "cc37761ee996",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update: व्हीएसआयला अतिरिक्त जमिनीसाठी शासनाची मंजुरी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-30T21:08:58",
-            "url": "https://www.esakal.com/desh/marathi-news-live-update-30-july-2026-radhanagari-dam-reaches-100-capacity-automatic-gates-may-open-anytime-parliament-monsoon-session-pm-narendra-modi-rahul-gandhi-dharmendra-pradhan-resignation-neet-paper-leak-case-abhijeet-dipke-weather-imd-khadakwasla-koyna-dam-cm-devendra-fadnavis-farm-loan-waiver-mumbai-pune-traffic-update-srs92snk89",
-            "image": "https://cf-images.assettype.com/esakal/2024-03/d400462f-6713-4b33-8ed6-d973316daa07/latest_Marathi_News___2024_02_08T091255_317__1_.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0b3ef7f23b97",
-            "feed": "lokmat",
-            "title": "होर्मुझ संकटात सरकार ॲक्शन मोडवर!\"; इंधन अन् खतांसंदर्भात पंतप्रधान नरेंद्र मोदी यांचे मंत्र्यांना महत्त्वाचे निर्देश",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-07-30T21:04:33",
-            "url": "https://www.lokmat.com/national/government-on-action-mode-in-hormuz-strait-crisis-prime-minister-narendra-modis-important-instructions-to-ministers-regarding-fuel-and-fertilizers-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/narendra-modi-hry_2026071753154.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "155509fe27d1",
+            "id": "677b12605711",
             "feed": "maharashtratimes",
-            "title": "Ramayana Trailer : 'त्रेता युगात असे कपडे?', ग्लॅमरस शूर्पणखा, कैकेयीचा मॉडर्न लूक; 'रामयण' सिनेमातील स्त्री भूमिकांवर भडकले नेटकरी",
+            "title": "आधारकार्ड मागताच महिलेच्या अंगात झाला देवीचा संचार? बसमधील व्हिडिओ व्हायरल, हालचाली पाहून प्रवासी घाबरले",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-30T21:04:27",
-            "url": "https://maharashtratimes.com/photogallery/entertainment/ramayana-trailer-netizens-angry-on-sai-pallvi-sita-rakul-preet-singh-shurpanakha-lara-dutta-kaikeyi-look/photoshow/132744391.cms",
+            "published": "2026-07-30T23:50:15",
+            "url": "https://maharashtratimes.com/viral/viral-news/woman-starts-dancing-after-conductor-asks-for-aadhaar-card-in-karnataka-viral-video/articleshow/132748380.cms",
             "image": "",
             "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "c1ff94b1ce6a",
+            "feed": "lokmat",
+            "title": "\"मित्रहो, विकसित भारताचं स्वप्न पूर्ण करण्यासाठी...\"; पंतप्रधान मोदींचा संदेश; पेपरफुटी प्रतिबंधक विधेयक दोन्ही सभागृहात मंजूर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-07-30T23:33:59",
+            "url": "https://www.lokmat.com/national/pm-modi-video-message-after-anti-paper-leak-bill-passed-in-rajya-sabha-after-lok-sabha-developed-india-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/modi-anti-paperleak-bill-3007_2026071753170.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fec99adc693c",
+            "feed": "maharashtratimes",
+            "title": "एका छोट्याशा चुकीवरून शोधा, चौघांपैकी अंध असल्याचं नाटक करणारी व्यक्ती कोण? ९० टक्के लोक म्हणताहेत C",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-30T22:32:44",
+            "url": "https://maharashtratimes.com/viral/viral-news/find-the-fake-blind-person-in-60-seconds-this-puzzle-is-tricking-everyone/articleshow/132746272.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a110614c0b2e",
+            "feed": "esakal",
+            "title": "Anti paper leak bill: विरोधकांचा सभात्याग अन् 'पेपरफुटी'विरोधी विधेयक राज्यसभेत मंजूर; अंतिम मंजुरीसाठी राष्ट्रपतींकडे पाठवले जाणार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-30T22:31:19",
+            "url": "https://www.esakal.com/desh/rajya-sabha-passes-public-examinations-prevention-of-unfair-means-amendment-anti-paper-leak-bill-sent-to-president-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-30/pv1wt6d9/Latest-Marathi-Breaking-News-2026-07-30T222943.286.jpg",
+            "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "c4241c00ef01",
+            "feed": "lokmat",
+            "title": "E20 पेट्रोलमुळे वाहनांचे मायलेज ६ टक्क्यांपर्यंत कमी होऊ शकते! नितीन गडकरींची संसदेत अखेर कबुली",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-07-30T22:26:00",
+            "url": "https://www.lokmat.com/national/e20-petrol-can-reduce-vehicle-mileage-by-up-to-6-nitin-gadkari-in-parliament-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nitin-gadkari-3007f_2026071753165.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "89dd780538f4",
+            "feed": "lokmat",
+            "title": "पाकिस्तानचा सैतानी चेहरा! हमास प्रमाणेच तरुणीचा मृतदेह बोनटला बांधला अन्...; बलुचिस्तानात दहशतवादी बनले 'पाक' सैनिक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-07-30T22:04:17",
+            "url": "https://www.lokmat.com/international/the-devilish-face-of-pakistan-pakistan-army-brutality-in-balochistan-girl-body-tied-to-vehicle-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/balochistan-girl-body-tied-to-vehicle-pakistan_2026071753162.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "a3ef71481315",
             "feed": "esakal",
@@ -228,75 +244,75 @@
             "image": "https://cf-images.assettype.com/esakal/2026-07-26/fepjp3ed/Abhi-35.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "90074cebb57f",
-            "feed": "maharashtratimes",
-            "title": "Iran vs US conflicts : इराण-अमेरिका संघर्षाची धग वाढली, ट्रम्पमुळे मिडल इस्ट, इस्रायल, लेबनान पेटलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-30T15:07:46",
-            "url": "https://maharashtratimes.com/video/mt-originals/expl_iran-war/videoshow/132734857.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "b3582baf5592",
+            "id": "098d61ee7dec",
             "feed": "maharashtratimes",
-            "title": "Mrunal Yashasvi Dating : मृणाल ठाकूरला डेट करतोय यशस्वी जयस्वाल? एका व्हिडिओने रंगलेल्या चर्चांमागचं सत्य काय?",
+            "title": "Ajinkya Rahane Retirement : तुझं जास्त कौतुक झालं नाही, पण तरीही तूच आमचा हिरो! अजिंक्य रहाणेच्या निवृत्तीनंतर आई-वडिलांचं भावूक पत्र",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-07-30T21:21:45",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/mrunal-thakur-yashasvi-jaiswal-spotted-in-mumbai-cafe-viral-video-dating-rumours/articleshow/132743938.cms",
+            "published": "2026-07-31T01:23:07",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ajinkya-rahane-retirement-wife-radhika-shares-parents-emotional-letter/articleshow/132749560.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f9eb3946b219",
-            "feed": "lokmat",
-            "title": "IND vs SL : बुमराहच्या फिटनेसचं काय? तो श्रीलंकेविरुद्ध पहिला कसोटी सामना खेळणार का? मोठी अपडेट समोर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-07-30T20:54:42",
-            "url": "https://www.lokmat.com/cricket/news/jasprit-bumrah-to-start-bowling-this-week-likely-to-be-fit-for-1st-test-against-sri-lanka-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jasprit-bumrah-fitness-m_2026071753152.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6c8c25c9348f",
+            "id": "55b3cea673f9",
             "feed": "esakal",
-            "title": "Commonwealth Games 2026: भल्याभल्यांना टक्कर दिली, भारताची २० वर्षांची वाघिण जगाला भिडली! कोण आहे मार्टिना देवी मैबाम? थोडक्यात हुकले पदक",
+            "title": "Commonwealth Games 2026 : आजोबा भाजी विकायचे, वडील शिवणकाम करतात... लव्हप्रीतने भारतासाठी जिंकले ऐतिहासिक पदक!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-30T20:48:31",
-            "url": "https://www.esakal.com/krida/who-is-martina-devi-maibam-indias-20-year-old-weightlifting-sensation-narrowly-misses-cwg-2026-medal-in-womens-86kg-final-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-30/fvd0y9dd/Who-is-Martina-Devi-Maibam-Indian-weightlifter",
+            "published": "2026-07-31T00:54:13",
+            "url": "https://www.esakal.com/krida/heartbreak-for-lovepreet-singh-new-zealands-david-liti-snatches-gold-in-final-110-kg-weightlifting-in-commonwealth-games-2026-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-30/f8p607wo/Lovepreet-Singh-inspiring-success-story",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "641445dc9007",
+            "feed": "esakal",
+            "title": "Commonwealth Games 2026 : घोर निराशा... तजिंदरपाल सिंग तूर पदक जिंकण्यापासून वंचित, समरदीप सिंगलाही अपयश; नेमकं कुठे चुकले?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-31T00:42:13",
+            "url": "https://www.esakal.com/krida/commonwealth-games-2026-no-medal-for-india-tajinderpal-finishes-fifth-samardeep-singh-in-seventh-in-shot-put-final-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-30/8ok2at3a/Tajinderpal-Singh-Toor-Commonwealth-Games-2026-result",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "business": [
+        {
+            "id": "396ba13c989a",
+            "feed": "maharashtratimes",
+            "title": "MPSC ची ५ हजार ७०७ पदांसाठी मेगाभरती! तलाठी पदांचाही समावेश, १.२२ लाखांपर्यंत वेतन; अर्ज भरायला उरले अवघे काही दिवस",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-30T21:44:36",
+            "url": "https://maharashtratimes.com/career/career-news/mpsc-group-c-combined-prelims-2026-vacancy-increased-5707-posts-amvi-talathi-bharti-clerk-typist-tax-assistant/articleshow/132744814.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "91f62a20fb3f",
             "feed": "lokmat",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-34-34-34-u-onion-market-rate-today_2026071753075.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "a562e182f594",
-            "feed": "maharashtratimes",
-            "title": "Pavel Durov: 100 हून अधिक मुलांचा बाप, 63000 कोटींच्या संपत्तीचा मालक ‘वॉन्टेड’; रशियाकडून दहशतवादाला मदत केल्याचा ठपका",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-07-30T15:47:34",
-            "url": "https://maharashtratimes.com/business/business-news/pavel-durov-russian-telegram-founder-charged-over-terrorism-promotion-and-app-restrictions-in-latest-online-crackdown/articleshow/132734772.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
