@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "30-07-2026 | 02:02 AM IST",
+    "lastUpdated": "30-07-2026 | 05:44 AM IST",
     "maharashtra": [
+        {
+            "id": "f60746e6e4f5",
+            "feed": "lokmat",
+            "title": "CWG 2026 Gold For India : अवघ्या १०.७१ सेकंदात नाशिकच्या दिलीप गावितची 'सुवर्ण' धाव; मोहम्मद बासिलला रौप्य!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-30T03:24:43",
+            "url": "https://www.lokmat.com/other-sports/cwg-2026-glasgow-historic-day-nashik-dilip-mahadu-gavit-winning-gold-and-mohammed-basil-morssinganakath-claiming-silver-for-india-in-para-athletics-100m-t47-event-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cwg-2026-nashik-dilip-mahadu-gavit-winning-gold-for-india-at-glasgow-m_2026071752403.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "1c837e04c9a1",
             "feed": "lokmat",
@@ -64,25 +80,57 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devendra-fadnavis-aggresive-2907_2026071752397.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "b385d4c741f9",
-            "feed": "esakal",
-            "title": "Narayangaon Tractor Theft Case:  शेतकऱ्याचा चोरीला गेलेला ट्रॅक्टर सीसीटीव्हीच्या मदतीने परत; आरोपी मुद्देमालासह नारायणगाव पोलिसांच्या ताब्यात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-29T23:29:00",
-            "url": "https://www.esakal.com/pune/narayangaon-police-arrest-beed-patoda-tambarajuri-accused-baliram-jalindar-tambe-for-stealing-farmers-tractor-from-pargaon-tarfe-ale-junnar-taluka-pune-district-sunil-ramdas-dhome-nasir-raj-mohammad-momin-farm-cctv-based-investigation-alephata-api-pravin-sapange-dhananjay-patil-pramod-kshirsagar-local-crime-branch-junnar-crime-news-latest-marathi-breaking-news-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-29/xyzlbjqy/Esakal-20.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "4887782c02ca",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 30 July 2026: मूलांक 5 गरजवंतांना मदत करा! मूलांक 7 प्रॉपर्टीच्या कामात यश, प्रवासातून लाभ! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-30T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-30-july-2026-bhadra-rajyog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/132714985.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "7e7c50a2286d",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 30 जुलै 2026 : या राशींच्या कुंडलीतील ग्रह मजबूत मिळणार स्वामींची साथ तर या राशींचे वाढणार टेन्शन ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-30T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-30-july-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/132718025.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8acb01db41f4",
+            "feed": "lokmat",
+            "title": "CWG 2026 : गुडघ्याला गंभीर दुखापत; जिद्दीनं परतला अन् भारतासाठी पुन्हा जिंकलं रौप्य!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-30T02:05:44",
+            "url": "https://www.lokmat.com/other-sports/cwg-2026-murali-sreeshankar-1st-ever-indian-athlete-to-win-back-to-back-silver-medal-in-mens-long-jump-event-at-cwg-his-best-attempt-8-09m-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cwg-2026-murali-sreeshankar-1st-ever-indian-athlete-to-win-m_2026071752401.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "9827739491a1",
             "feed": "lokmat",
@@ -112,54 +160,6 @@
             "published": "2026-07-30T00:06:55",
             "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-30-july-2026-in-marathi-hans-rajyog-ayushman-yog-kendra-yog-and-shubha-muhurta/articleshow/132720144.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "92fc38e67e3b",
-            "feed": "esakal",
-            "title": "पेपरफुटीविरोधी विधेयकावर 'सीजेपी'ची पहिली प्रतिक्रिया; ''सरकारकडून केवळ शिक्षेवर फोकस पण गुन्हा कसा रोखणार?''",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-29T22:39:18",
-            "url": "https://www.esakal.com/desh/lok-sabha-passes-anti-paper-leak-bill-ashutosh-ranka-cjp-criticism-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-29/ledxk9f0/Latest-Marathi-Breaking-News-2026-07-29T223639.273.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1e6d0d742880",
-            "feed": "maharashtratimes",
-            "title": "General Knowledge: आधी राज्याचे मुख्यमंत्री अन् नंतर देशाचे पंतप्रधान! जाणून घ्या भारत घडवणाऱ्या 'या' ६ दिग्गजांचा इतिहास",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-29T22:11:10",
-            "url": "https://maharashtratimes.com/career/career-news/gk-quiz-in-marathi-indian-prime-ministers-who-were-chief-ministers-general-knowledge-2026/articleshow/132717145.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "d81d19aea486",
-            "feed": "lokmat",
-            "title": "रिंकू राजगुरूच्या आयुष्यातील 'रोमियो'ची चर्चा; पोस्टने चाहत्यांची वाढली उत्सुकता",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-29T22:02:17",
-            "url": "https://www.lokmat.com/filmy/marathi-cinema/discussion-of-romeo-in-rinku-rajgurus-life-post-increases-fans-curiosity-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rinku-rajguru-news_2026071752391.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
