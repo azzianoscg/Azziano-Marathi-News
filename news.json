@@ -1,347 +1,347 @@
 {
-    "lastUpdated": "31-07-2026 | 01:40 PM IST",
+    "lastUpdated": "31-07-2026 | 09:44 PM IST",
     "maharashtra": [
         {
-            "id": "168c4ea3a14e",
+            "id": "fc9091c74568",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : भिवंडी इमारत दुर्घटना : दोषींवर कठोर कारवाईचे आदेश; मुख्यमंत्री फडणवीसांची घटनास्थळी भेट",
+            "title": "Dhom Dam: वाईत धोक्याची घंटा! धोम धरणाचा विसर्ग वाढला; महागणपती मंदिरात घुसले पुराचे पाणी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-31T13:38:06",
+            "published": "2026-07-31T21:43:11",
+            "url": "https://www.esakal.com/satara/wai-flood-news-dhom-dam-water-release-increased-krishna-river-overflow-mahaganpati-temple-flooded-due-to-heavy-rain-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/0rtxn90u/sudhir-jadhav-satara-19.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6cb40375b248",
+            "feed": "maharashtratimes",
+            "title": "Maharashtra Rainfall : 3 दिवसात चित्र बददलं, IMD Report पावसाची तूट कमी, अनेक जिल्ह्यांना दिलासा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-07-31T21:37:39",
+            "url": "https://maharashtratimes.com/video/mt-originals/maharashtra-monsoon-rainfall-report-imd-heavy-rains-monsoon-deficit-july-2026/videoshow/132772147.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "168c4ea3a14e",
+            "feed": "esakal",
+            "title": "Latest Marathi News Live Update : नागपूर - रत्नागिरी राष्ट्रीय महामार्गावरील आंबा घाट जड वाहतुकीसाठी बंद",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-31T21:27:46",
             "url": "https://www.esakal.com/maharashtra/marathi-news-live-update-31-july-2026-parliament-monsoon-session-lok-sabha-rajya-sabha-pass-paper-leak-bill-neet-mpsc-exam-pm-narendra-modi-rahul-gandhi-abhijeet-dipke-maratha-andolan-manoj-jarange-weather-imd-khadakwasla-koyna-dam-cm-devendra-fadnavis-farm-loan-waiver-mumbai-pune-traffic-update-bam92-spb94",
             "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b6a564230665",
+            "id": "28e61b299e3e",
             "feed": "esakal",
-            "title": "Mumbai Local: सीएसएमटी-गोरेगाव लोकल ४५ दिवस बंद? रेल्वे प्रशासन मोठा निर्णय घेण्याच्या तयारीत, नेमके कारण काय?",
+            "title": "Pune Flood Alert: पुण्यात धोक्याची घंटा! एकतानगरमध्ये ४० कुटुंबांतील १०० नागरिक स्थलांतरित; मुठा नदीतील पातळीत वाढ झाल्याने पाणी घुसले",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-31T13:37:30",
-            "url": "https://www.esakal.com/mumbai/railway-administration-preparing-to-take-major-decision-of-csmt-goregaon-mumbai-local-train-service-closed-for-45-days-on-harbour-line-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/r2er2wfk/CSMT-Goregaon-mumbai-local-Update.jpg",
+            "published": "2026-07-31T21:21:16",
+            "url": "https://www.esakal.com/pune/pune-flood-alert-ektanagar-residents-shifted-after-mutha-river-water-level-rises-due-to-khadakwasla-dam-release-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/5aomepfy/sudhir-jadhav-satara-18.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ace44cdb5730",
+            "id": "6f413c0fe637",
             "feed": "esakal",
-            "title": "Solapur  Road Accident: एसटी बस आणि ट्रकचा भीषण अपघात; बस चालकासह एका प्रवाशी महिलाचा मृत्यू ; दहा जण जखमी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-31T13:36:24",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/st-bus-truck-road-accident-solapur-shelgi-bridge-umarga-msrtc-driver-passenger-life-lost-injured-investigation-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/jql090mk/Abhi.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d76a45f82ed6",
-            "feed": "esakal",
-            "title": "Baner Drug Syringes : पुण्यातील बाणेरमध्ये ड्रग्ज माफियांचा सुळसुळाट? सेवा रस्त्यावर उघड्यावर सापडल्या वापरलेल्या सिरिंज; ड्रग्ज रॅकेटचा नागरिकांना दाट संशय",
+            "title": "Pune MBBS Student: पुण्यात खळबळ! एमबीबीएस विद्यार्थी बेपत्ता; रॅगिंगच्या आरोपांवर बीजे मेडिकलचे मोठे विधान",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-31T13:34:03",
-            "url": "https://www.esakal.com/pune/baner-used-drug-syringes-found-pune-balewadi-service-road-drug-abuse-public-safety-health-risk-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/sbwncdb9/Drug-abuse-suspected-in-Baner-service-road",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7b60c94cd4d0",
-            "feed": "lokmat",
-            "title": "पुणे-सातारा महामार्गावरील हॉटेलांवर एफडीएचा धडक छापा; हॉटेल व्यावसायिकांमध्ये खळबळ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-31T13:29:39",
-            "url": "https://www.lokmat.com/pune/fda-raids-hotels-on-pune-satara-highway-hoteliers-in-a-state-of-excitement-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fd-a000_2026071753480.jpeg",
+            "published": "2026-07-31T21:02:16",
+            "url": "https://www.esakal.com/pune/pune-bj-medical-student-missing-ragging-allegations-rejected-by-college-anti-ragging-committee-investigation-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/abcznz1q/sudhir-jadhav-satara-17.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "b7e8d2ad1a41",
-            "feed": "lokmat",
-            "title": "सस्पेन्सचा असा थरार कधीच पाहिला नसेल, रिलीज होताच ओटीटीवर धुमाकूळ घालतेय ‘ही’ सीरिज, तुम्ही पाहिलीत का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-31T13:36:59",
-            "url": "https://www.lokmat.com/filmy/web-series/arshad-warsi-and-vir-hirani-starrer-pritam-and-pedro-web-series-trending-on-ott-where-to-watch-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pritam-and-pedro_2026071753472.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2a06c700b2da",
-            "feed": "lokmat",
-            "title": "अबबब! हे आहे जगातील सगळ्यात भव्य रेल्वे स्टेशन, प्लॅटफॉर्म इतके की मोजता मोजता थकाल...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-31T13:34:53",
-            "url": "https://www.lokmat.com/photos/jarahatke/interesting-facts-which-is-the-worlds-biggest-railway-station-with-44-platform-a-a583/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/biggest-railway-station-in-world-main_2026071753486.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "60eb66d60bb9",
-            "feed": "lokmat",
-            "title": "अभिनेत्रीने ४२ व्या वर्षी दिला मुलाला जन्म, म्हणालेली, \"आई होण्यासाठी तयार नव्हते पण...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-31T13:34:52",
-            "url": "https://www.lokmat.com/filmy/photos/television/actress-karishma-tanna-gave-birth-to-baby-boy-she-was-first-not-ready-to-become-mother-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kari-varun_2026071753489.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "7d43123c5609",
-            "feed": "lokmat",
-            "title": "Seema Kaliramna : पीएचडी अन् ३ वर्षांच्या मुलाची आई; डिस्कस थ्रोमध्ये मिळवलं कांस्यपदक, कोण आहे सीमा कालीरमन?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-31T13:29:33",
-            "url": "https://www.lokmat.com/sakhi/photos/inspirational/seema-kaliramna-phd-and-mother-of-3-year-old-wins-commonwealth-games-2026-discus-bronze-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/seema-kaliramna_2026071753477.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3e519d9d06a5",
+            "id": "53732fab4c10",
             "feed": "esakal",
-            "title": "UP मध्ये पुन्हा एकदा बदललं या शहराचे नाव, गेल्या ३० वर्षांत तब्बल ५ वेळा नाव बदलल्याने व्यापारी चिंतेत",
+            "title": "दूध आणि केळं एकत्र खाणं योग्य आहे का? आयुर्वेद काय सांगतं?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-31T13:26:43",
-            "url": "https://www.esakal.com/desh/up-bhadohi-name-change-sant-ravidas-nagar-proposal-carpet-industry-gi-tag-export-brand-identity-trade-concerns-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/n8wyb4dq/Abhi-1.jpg",
+            "published": "2026-07-31T21:23:45",
+            "url": "https://www.esakal.com/ampstories/web-story/should-you-eat-banana-with-milk-ayurveda-food-combination-side-effects-digestion-health-tips-marathi-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/c7om7anb/Banana-with-Milk-1.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "world": [
-        {
-            "id": "3a8a8c556ed2",
-            "feed": "lokmat",
-            "title": "'ऑपरेशन सिंदूर'वरुन अफवा पसवणारा पायलट अडकला; फ्रान्सची महत्त्वाची माहिती चीनला पुरवली",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-07-31T13:33:22",
-            "url": "https://www.lokmat.com/international/ex-french-pilot-who-questioned-iaf-in-operation-sindoor-under-investigation-for-spying-for-china-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pierre-henry-chuet_2026071753484.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         },
         {
-            "id": "28cd68af16a8",
-            "feed": "lokmat",
-            "title": "भारताच्या सीमेला लागून नेपाळमध्ये हिंसाचार सुरु झाला; सहा जिल्हे पेटले, लष्कर हायअलर्टवर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-07-31T12:52:57",
-            "url": "https://www.lokmat.com/international/nepal-violence-news-violence-breaks-out-in-nepal-along-indian-border-six-districts-set-on-fire-army-on-high-alert-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-p_2026071753417.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a50741e22909",
+            "id": "9f36c9a23f79",
             "feed": "esakal",
-            "title": "Spain Crisis : हे झॉम्बी नाहीत तर माणसं... फोटो हादरवणारे! समुद्रातून पोहत लोक स्पेनमध्ये का पोहोचले? मोरोक्कोतून का उडाली झुंबड?",
+            "title": "आयुर्वेदानुसार शिळे अन्न खावे की नाही?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-31T12:18:41",
-            "url": "https://www.esakal.com/global/spain-ceuta-crisis-why-thousands-of-moroccan-migrants-are-swimming-to-spain-and-what-is-driving-the-border-surge-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/l6c74s57/Why-Are-Thousands-Swimming-to-Spain-Inside-the-Ceuta-Border-Crisis.jpg",
+            "published": "2026-07-31T21:14:42",
+            "url": "https://www.esakal.com/ampstories/web-story/should-you-eat-leftover-food-what-does-ayurveda-say-about-stale-food-and-fresh-meals-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/x3ivfcz2/4.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "e3ada5f84ef4",
+            "id": "e29393ac5644",
+            "feed": "lokmat",
+            "title": "Gold For India In CWG 2026 : भारताची 'अस्मिता' बनली 'गोल्डन गर्ल'; ज्युदोमध्ये देशाला मिळवून दिलं पहिलं सुवर्णपदक!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-31T21:12:19",
+            "url": "https://www.lokmat.com/other-sports/indias-asmita-dey-clinched-the-womens-48kg-judo-gold-medal-at-the-commonwealth-games-2026-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indias-asmita-dey-clinched-the-womens-48kg-judo-gold-medal-m_2026071753963.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "d8b835fb9fa6",
             "feed": "maharashtratimes",
-            "title": "US Visa Rules: अमेरिकेत शिक्षणानंतर नोकरी करणे महागणार? ट्रम्प सरकार परदेशी विद्यार्थ्यांवर १००००० डॉलर शुल्क लादण्याच्या तयारीत!",
+            "title": "Ashadha Amavasya 2026 : आषाढ अमावस्या केव्हा आहे 11 की 12 ऑगस्ट ? जाणून घ्या अमावास्येला कोणते उपाय करावेत !",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-31T11:53:33",
-            "url": "https://maharashtratimes.com/career/career-news/donald-trump-govt-proposes-100k-usd-fee-opt-international-students-us-f-1-visa-department-of-homeland-security-proposals/articleshow/132758042.cms",
+            "published": "2026-07-31T21:00:00",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/ashadha-amavasya-2026-date-tithi-know-shubha-muhurta-daan-importance-ritual-and-jyotish-upay/articleshow/132770307.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "789ccfba7903",
+            "feed": "lokmat",
+            "title": "व्यापाऱ्यावर गोळीबार केलेल्या गुन्ह्याची उकल, मुख्य सूत्रधारासह ७ आरोपींना अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-31T20:48:48",
+            "url": "https://www.lokmat.com/vasai-virar/crime-of-shooting-at-businessman-solved-7-accused-including-main-suspect-arrested-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjrt7u_2026071753961.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        }
+    ],
+    "world": [
+        {
+            "id": "20f86ee907c6",
+            "feed": "maharashtratimes",
+            "title": "Spain Ceuta Migration: 24 तासांत 60000 स्थलांतरित समुद्रमार्गे पोहत पोहोचले; सीमेवर अनागोंदी, सैन्य तैनात, आणीबाणी घोषित",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-07-31T21:05:15",
+            "url": "https://maharashtratimes.com/international/international-news/41-dead-60000-migrants-enter-ceuta-in-24-hours-spain-declares-national-emergency-deploys-army/articleshow/132771281.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1dbc51282901",
+            "feed": "lokmat",
+            "title": "इंग्लंडचे नवे पंतप्रधान अँडी बर्नहॅम यांच्याशी PM मोदींची पहिल्यांदाच चर्चा, 'या' विषयांवर बातचीत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-07-31T21:01:45",
+            "url": "https://www.lokmat.com/international/pm-modi-first-time-talks-with-uk-pm-andy-burnham-to-strengthen-india-uk-ties-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-uk-pms-3107_2026071753962.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c866d97ce915",
+            "feed": "maharashtratimes",
+            "title": "Pakistan News: कराचीत 'धुरंधर' गँगवॉरची पुनरावृत्ती? गँगस्टर बलोचच्या भावावर बेछूट गोळीबार; ल्यारी हादरलं",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-07-31T19:51:24",
+            "url": "https://maharashtratimes.com/international/international-news/pakistan-gangster-uzair-balochs-brother-shot-in-lyari-hospitalized-after-critically-injured/articleshow/132769912.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d5cda81d3174",
+            "feed": "lokmat",
+            "title": "'रामायण'मधील कैकसी कोण? रजनीकांतसोबत काम केलेली ही अभिनेत्री साकारणार यशच्या आईची भूमिका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-31T18:58:30",
+            "url": "https://www.lokmat.com/filmy/bollywood/who-is-kaikasi-in-ramayana-this-actress-who-worked-with-rajinikanth-will-play-the-role-of-yashs-mother-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramayana-yash-mother_2026071753894.jpeg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "dae217397e5b",
+            "id": "8c31e9da9997",
             "feed": "esakal",
-            "title": "US Student Visa Rules : भारतीय विद्यार्थ्यांना मोठा धक्का ! अमेरिकेत शिक्षणानंतर नोकरी करणे कठीण, सरकार आकारणार ८० लाखांचे शुल्क",
+            "title": "'कॉकरोच जनता पार्टी'ची पाकिस्तानात क्रेझ! पाकमध्येही 'कॉकरोच पार्टी', देशाच्या गृहमंत्र्यानेच सरकारला दिला 'हा' इशारा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-31T08:42:27",
-            "url": "https://www.esakal.com/global/usa-student-visa-rules-opt-fee-100000-dollars-impact-international-indian-students-work-permit-h1b-update-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/53kbcncf/us-visa.jpg",
+            "published": "2026-07-31T18:42:20",
+            "url": "https://www.esakal.com/global/pakistan-cockroach-party-youth-movement-mohsin-naqvi-rebellion-fears-instagram-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/puwk1a1f/Latest-Marathi-Breaking-News-2026-07-31T184124.710.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "7b7d44b3d33d",
+            "id": "bf8513491bd7",
             "feed": "esakal",
-            "title": "Ajinkya Rahane: क्रिकेट संपलं तुझं कौतुक कमी झालं, पण तूच आमचा खरा हिरो! अजिंक्य रहाणेच्या निवृत्तीनंतर आई वडिलांचं भावूक पत्र व्हायरल",
+            "title": "Commonwealth Games 2026: पाच मिनिटांत दुसरे सुवर्ण! हर्ष सिंगची ज्यूदोत 'Golden' कामगिरी; भारतीय जवानाने प्रतिस्पर्धीला आसमान दाखवले",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "sports"
+                "category": null
             },
-            "published": "2026-07-31T13:29:15",
-            "url": "https://www.esakal.com/krida/cricket/ajinkya-rahane-retirement-parents-emotional-letter-shared-by-wife-radhika-instagram-viral-story-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/zdmilu1a/Commonwealth-2026-1.jpg",
+            "published": "2026-07-31T21:26:33",
+            "url": "https://www.esakal.com/krida/commonwealth-games-2026-harsh-singh-wins-historic-judo-gold-india-bags-second-gold-in-five-minutes-defeats-australias-joshua-katz-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/dm8p9scd/Harsh-Singh-wins-Commonwealth-Games-2026-Judo-Gold",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "d39a4fa48826",
+            "id": "1218bad9d25d",
+            "feed": "esakal",
+            "title": "Asmita Dey won historic Gold : अस्मिता डे हिने 'Golden Score'वर जिंकले सुवर्ण! राष्ट्रकुल स्पर्धेत ज्युदोपटूने इतिहास घडवला, पहिली भारतीय",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-31T21:00:21",
+            "url": "https://www.esakal.com/krida/asmita-dey-wins-historic-commonwealth-games-gold-creates-history-for-india-in-in-womens-48kg-becomes-1st-indian-to-win-gold-in-judo-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/ivrj2opm/Asmita-Dey-wins-historic-gold-at-Commonwealth-Games-2026",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7818461ca998",
             "feed": "maharashtratimes",
-            "title": "ODI World Cup 2027 : वनडे क्रिकेट वर्ल्ड कप 2027बाबत ICCकडून मोठी घोषणा, आता 12 नाहीतर 14 संघ आणि 57 सामने, कसा असणार फॉरमॅट? जाणून घ्या",
+            "title": "KKR New Captain : श्रेयस अय्यरनंतर रहाणेने सोडली साथ! आता गंभीरच्या जुन्या संघात सूर्याचे पुनरागमन होणार की हार्दिक बाजी मारणार?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-07-31T12:16:09",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/icc-announced-world-cup-2027-new-format-match-venue-and-know-the-details-of-format/articleshow/132758416.cms",
+            "published": "2026-07-31T20:56:50",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/kkr-new-captain-options-after-ajinkya-rahane-retirement-hardik-pandya-suryakumar-yadav/articleshow/132770787.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        }
+    ],
+    "business": [
+        {
+            "id": "4675462b56ce",
+            "feed": "lokmat",
+            "title": "फुल चार्जमध्ये १७०० किमी रेंज, ३ सेकंदात १०० चा 'स्पीड'! ३ ढासू कार भारतात पेटंट, ऑटो मार्केटमध्ये धमाका करणार ही कंपनी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-31T21:28:03",
+            "url": "https://www.lokmat.com/auto/1700-km-range-on-a-full-charge-100-kmh-speed-in-3-seconds-chery-3-new-cars-design-patent-filed-in-india-exeed-lepas-fulwin-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/exceed-exlantix-es7-gt_2026071753966.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         },
         {
-            "id": "48681964a40c",
+            "id": "6d83e61d93db",
             "feed": "esakal",
-            "title": "Commonwealth 2026: लग्नाच्या दुसऱ्याच दिवशी सरावाला गेली, आज जिंकले राष्ट्रकुल स्पर्धेचं कांस्यपदक; सीमा कालिरामणाची प्रेरणादायी कहाणी",
+            "title": "Premium|Life Cycle Hypothesis : आर्थिक प्राधान्यक्रम कसे बदलतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-31T12:07:54",
-            "url": "https://www.esakal.com/krida/seema-kaliramana-wins-commonwealth-games-2026-bronze-medal-womens-discus-throw-phd-scholar-inspiring-story-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/3aeo7n6x/Commonwealth-2026.jpg",
+            "published": "2026-07-31T20:36:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/life-cycle-hypothesis-financial-planning-by-age-saving-investment-retirement-income-money-management-personal-finance-economic-decisions-life-stages-guide-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-29/xlywtmt8/Abhi-56.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "business": [
-        {
-            "id": "2967f33e86fa",
-            "feed": "lokmat",
-            "title": "नाशिक जिल्ह्याला रेड अलर्ट, अनेक धरणांमधून विसर्ग वाढवला, जायकवाडीला किती पाणी पोहचलं?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-31T13:35:01",
-            "url": "https://www.lokmat.com/agriculture/weather/jayakvadi-dam-water-level-red-alert-for-nashik-district-discharge-increased-from-many-dams-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jayak-pani_2026071753388.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "b9000d70a454",
+            "id": "8c61121dd6d0",
             "feed": "lokmat",
-            "title": "Koyna Dam : कोयना धरणातून ५०७९ क्युसेकने विसर्ग; धरण भरण्यासाठी अजून किती टीएमसी पाण्याची गरज?",
+            "title": "‘गोवर्धन गोवंश सेवा केंद्र’ योजनेसाठी अर्ज करा, 25 लाखापर्यंत अनुदान मिळवा, वाचा संपूर्ण प्रक्रिया",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-31T13:33:45",
-            "url": "https://www.lokmat.com/agriculture/weather/koyna-dam-5079-cusecs-released-from-koyna-dam-how-many-more-tmc-of-water-is-needed-to-fill-the-dam-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/koyna-dam-water-discharge_2026071753454.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "dfa28bd0bc44",
-            "feed": "lokmat",
-            "title": "IGNOU MSc Climate Change Course 2026 : महापूर का येतो? दुष्काळ का वाढतो? इग्नू शिकवणार हवामान बदलाचं विज्ञान",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-31T13:30:57",
-            "url": "https://www.lokmat.com/agriculture/weather/latest-news-ignou-msc-climate-change-course-2026-why-do-floods-occur-why-do-droughts-increase-ignou-will-teach-the-science-of-climate-change-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ignou-msc-climate-change-course-2026-1_2026071753464.jpg",
+            "published": "2026-07-31T20:30:07",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/apply-for-govardhan-govansh-seva-kendra-scheme-get-grant-up-to-rs-25-lakh-read-the-complete-process-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/govardhan-seva_2026071753935.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
