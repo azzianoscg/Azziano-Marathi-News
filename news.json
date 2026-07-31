@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "31-07-2026 | 09:44 PM IST",
+    "lastUpdated": "01-08-2026 | 02:21 AM IST",
     "maharashtra": [
         {
-            "id": "fc9091c74568",
-            "feed": "esakal",
-            "title": "Dhom Dam: वाईत धोक्याची घंटा! धोम धरणाचा विसर्ग वाढला; महागणपती मंदिरात घुसले पुराचे पाणी",
+            "id": "cbc5a023fd55",
+            "feed": "lokmat",
+            "title": "नागपुरात भरचाैकात मारहाण करून युवकांचे अपहरण; पोलिसांच्या 'सिनेस्टाइल ॲक्शन'मुळे आरोपींची पळापळ",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-07-31T21:43:11",
-            "url": "https://www.esakal.com/satara/wai-flood-news-dhom-dam-water-release-increased-krishna-river-overflow-mahaganpati-temple-flooded-due-to-heavy-rain-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/0rtxn90u/sudhir-jadhav-satara-19.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6cb40375b248",
-            "feed": "maharashtratimes",
-            "title": "Maharashtra Rainfall : 3 दिवसात चित्र बददलं, IMD Report पावसाची तूट कमी, अनेक जिल्ह्यांना दिलासा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-31T21:37:39",
-            "url": "https://maharashtratimes.com/video/mt-originals/maharashtra-monsoon-rainfall-report-imd-heavy-rains-monsoon-deficit-july-2026/videoshow/132772147.cms",
-            "image": "",
+            "published": "2026-08-01T00:33:01",
+            "url": "https://www.lokmat.com/crime/youths-kidnapped-after-being-beaten-up-in-nagpur-accused-escapes-due-to-polices-cinestyle-action-a-a877-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-scene-police-2905sfffc_2026071753984.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "168c4ea3a14e",
+            "id": "91c9f0800b24",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : नागपूर - रत्नागिरी राष्ट्रीय महामार्गावरील आंबा घाट जड वाहतुकीसाठी बंद",
+            "title": "दोन वर्षांपासून राजमाता अहिल्यादेवींचा पुतळा झाकलेलाच! ५ वर्षे झाली तरी काम अपूर्ण; ‘पीडब्ल्यूडी’ देईना सुधारित ‘डीपीआर’; आता पुतळ्याची दिशा बदलणार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-31T21:27:46",
-            "url": "https://www.esakal.com/maharashtra/marathi-news-live-update-31-july-2026-parliament-monsoon-session-lok-sabha-rajya-sabha-pass-paper-leak-bill-neet-mpsc-exam-pm-narendra-modi-rahul-gandhi-abhijeet-dipke-maratha-andolan-manoj-jarange-weather-imd-khadakwasla-koyna-dam-cm-devendra-fadnavis-farm-loan-waiver-mumbai-pune-traffic-update-bam92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
+            "published": "2026-07-31T23:59:00",
+            "url": "https://www.esakal.com/maharashtra/the-statue-of-punyashlok-rajmata-ahilyadevi-holkar-at-solapur-university-has-remained-covered-for-two-years-work-remains-incomplete-even-after-five-years-the-pwd-has-failed-to-submit-the-revised-detailed-project-report-dpr-now-the-orientation-of-the-statue-is-set-to-be-changed",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/rl03288g/PNE26W38875.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "28e61b299e3e",
+            "id": "8e96fc059eb7",
             "feed": "esakal",
-            "title": "Pune Flood Alert: पुण्यात धोक्याची घंटा! एकतानगरमध्ये ४० कुटुंबांतील १०० नागरिक स्थलांतरित; मुठा नदीतील पातळीत वाढ झाल्याने पाणी घुसले",
+            "title": "AI in Defence Industry: संरक्षण उद्योगात मोठा बदल! AI मुळे अपघातांना बसणार आळा; केंद्र सरकारची नवी रणनीती",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-31T21:21:16",
-            "url": "https://www.esakal.com/pune/pune-flood-alert-ektanagar-residents-shifted-after-mutha-river-water-level-rises-due-to-khadakwasla-dam-release-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/5aomepfy/sudhir-jadhav-satara-18.jpg",
+            "published": "2026-07-31T23:27:36",
+            "url": "https://www.esakal.com/pune/ai-in-defence-industry-india-government-pushes-smart-safety-systems-to-prevent-accidents-and-improve-defence-production-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/5r3wgsyg/sudhir-jadhav-satara-26.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6f413c0fe637",
+            "id": "9e15d49eaa59",
+            "feed": "lokmat",
+            "title": "नाशिकला ‘रेड अलर्ट’! आठ तालुक्यांतील शाळा-महाविद्यालयांना शनिवारी सुट्टी; जिल्हाधिकाऱ्यांचे आदेश",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-07-31T23:18:51",
+            "url": "https://www.lokmat.com/nashik/red-alert-for-nashik-schools-and-colleges-in-eight-talukas-to-remain-closed-on-saturday-district-collector-orders-a-a994-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nashik-red-alert-3107_2026071753980.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1220ad2a099d",
             "feed": "esakal",
-            "title": "Pune MBBS Student: पुण्यात खळबळ! एमबीबीएस विद्यार्थी बेपत्ता; रॅगिंगच्या आरोपांवर बीजे मेडिकलचे मोठे विधान",
+            "title": "Koyna Dam: कोयना धरणाचा मध्यरात्री मोठा विसर्ग! 23,520 क्युसेक पाणी नदीत; कृष्णा-कोयना काठावरील गावांना अलर्ट",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-07-31T21:02:16",
-            "url": "https://www.esakal.com/pune/pune-bj-medical-student-missing-ragging-allegations-rejected-by-college-anti-ragging-committee-investigation-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/abcznz1q/sudhir-jadhav-satara-17.jpg",
+            "published": "2026-07-31T23:12:51",
+            "url": "https://www.esakal.com/satara/koyna-dam-midnight-water-release-reaches-23520-cusecs-heavy-rain-triggers-alert-for-krishna-koyna-riverbank-villages-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/p51nt738/sudhir-jadhav-satara-25.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "53732fab4c10",
-            "feed": "esakal",
-            "title": "दूध आणि केळं एकत्र खाणं योग्य आहे का? आयुर्वेद काय सांगतं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-31T21:23:45",
-            "url": "https://www.esakal.com/ampstories/web-story/should-you-eat-banana-with-milk-ayurveda-food-combination-side-effects-digestion-health-tips-marathi-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/c7om7anb/Banana-with-Milk-1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "9f36c9a23f79",
-            "feed": "esakal",
-            "title": "आयुर्वेदानुसार शिळे अन्न खावे की नाही?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-31T21:14:42",
-            "url": "https://www.esakal.com/ampstories/web-story/should-you-eat-leftover-food-what-does-ayurveda-say-about-stale-food-and-fresh-meals-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/x3ivfcz2/4.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e29393ac5644",
+            "id": "311f40bc20cb",
             "feed": "lokmat",
-            "title": "Gold For India In CWG 2026 : भारताची 'अस्मिता' बनली 'गोल्डन गर्ल'; ज्युदोमध्ये देशाला मिळवून दिलं पहिलं सुवर्णपदक!",
+            "title": "Metaचे 'इंडिया हेड' अरुण श्रीनिवास यांना धक्का! सायबर क्राईम पोलिसांनी दाखल केली FIR, कारण काय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "india"
             },
-            "published": "2026-07-31T21:12:19",
-            "url": "https://www.lokmat.com/other-sports/indias-asmita-dey-clinched-the-womens-48kg-judo-gold-medal-at-the-commonwealth-games-2026-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indias-asmita-dey-clinched-the-womens-48kg-judo-gold-medal-m_2026071753963.jpg",
+            "published": "2026-08-01T00:45:07",
+            "url": "https://www.lokmat.com/national/fir-filed-against-metas-india-head-arun-srinivas-action-taken-after-ai-video-of-pm-modi-surfaced-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/meta-arun-shrinivas-0108_2026071753985.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "d8b835fb9fa6",
+            "id": "05c088924434",
+            "feed": "lokmat",
+            "title": "जंतर मंतर आंदोलन, विद्यार्थ्यांकडून शिवीगाळ; पंतप्रधान मोदींनी GenZ ना घातली भावनिक साद, भरभरून बोलले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-01T00:04:54",
+            "url": "https://www.lokmat.com/national/jantar-mantar-protest-abuse-from-students-pm-modi-made-an-emotional-appeal-to-gen-z-spoke-eloquently-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/modi-genz-0108_2026071753983.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "292e56970951",
+            "feed": "esakal",
+            "title": "रोज रात्री झोपण्याआधी १ वेलची चघळण्याचे ‘हे’ फायदे तुम्हाला माहीत आहेत का?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-31T23:59:34",
+            "url": "https://www.esakal.com/ampstories/web-story/what-happens-if-you-chew-one-cardamom-before-bed-every-night-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-16/q18n3lsm/8.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "aa71755ac6d4",
             "feed": "maharashtratimes",
-            "title": "Ashadha Amavasya 2026 : आषाढ अमावस्या केव्हा आहे 11 की 12 ऑगस्ट ? जाणून घ्या अमावास्येला कोणते उपाय करावेत !",
+            "title": "City of Canals: डांबरी रस्ते नाही अन् वाहनांचा गोंगाट नाही! पाण्यावर वसलेल्या 'या' शहराचा थक्क करणारा इतिहास",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-07-31T21:00:00",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/ashadha-amavasya-2026-date-tithi-know-shubha-muhurta-daan-importance-ritual-and-jyotish-upay/articleshow/132770307.cms",
+            "published": "2026-07-31T23:42:09",
+            "url": "https://maharashtratimes.com/career/career-news/general-knowledge-gk-in-marathi-venice-city-of-canals-italy-sinking-city-history-118-islands-formation-grand-canal-bridges/articleshow/132774458.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "789ccfba7903",
+            "id": "9ba6734cb07c",
             "feed": "lokmat",
-            "title": "व्यापाऱ्यावर गोळीबार केलेल्या गुन्ह्याची उकल, मुख्य सूत्रधारासह ७ आरोपींना अटक",
+            "title": "बंदुकीच्या धाकावर लुटले अर्धा किलो सोने, १३ किलो चांदी; सराफा दुकानावर धक्कादायक दरोडा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-31T20:48:48",
-            "url": "https://www.lokmat.com/vasai-virar/crime-of-shooting-at-businessman-solved-7-accused-including-main-suspect-arrested-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjrt7u_2026071753961.jpg",
+            "published": "2026-07-31T23:11:40",
+            "url": "https://www.lokmat.com/crime/half-a-kilo-of-gold-13-kilos-of-silver-robbed-at-gunpoint-shocking-robbery-at-a-bullion-shop-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gold-shop-3107_2026071753978.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "4a26620b76f7",
+            "feed": "esakal",
+            "title": "रशियन तेल खरेदी करणाऱ्यांवर अमेरिकेकडून शंभर टक्के टॅरिफ; ट्रम्प यांच्या प्लॅनवर भारताची पहिली प्रतिक्रिया",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-31T23:13:16",
+            "url": "https://www.esakal.com/global/us-senate-passes-bill-russian-oil-tariff-india-response-energy-security-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/q9bpk9wa/Latest-Marathi-Breaking-News-2026-07-31T231023.456.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "20f86ee907c6",
             "feed": "maharashtratimes",
@@ -228,75 +244,75 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramayana-yash-mother_2026071753894.jpeg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "8c31e9da9997",
-            "feed": "esakal",
-            "title": "'कॉकरोच जनता पार्टी'ची पाकिस्तानात क्रेझ! पाकमध्येही 'कॉकरोच पार्टी', देशाच्या गृहमंत्र्यानेच सरकारला दिला 'हा' इशारा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-31T18:42:20",
-            "url": "https://www.esakal.com/global/pakistan-cockroach-party-youth-movement-mohsin-naqvi-rebellion-fears-instagram-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/puwk1a1f/Latest-Marathi-Breaking-News-2026-07-31T184124.710.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "bf8513491bd7",
+            "id": "cb88e0ee8565",
             "feed": "esakal",
-            "title": "Commonwealth Games 2026: पाच मिनिटांत दुसरे सुवर्ण! हर्ष सिंगची ज्यूदोत 'Golden' कामगिरी; भारतीय जवानाने प्रतिस्पर्धीला आसमान दाखवले",
+            "title": "Commonwealth Games 2026: नीरज चोप्राचे 'सुवर्ण' हुकले, Rumesh Pathirage ने मारली बाजी; पाकड्या अर्शद नदीमची लाज गेली, वाचा काय झालं...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-31T21:26:33",
-            "url": "https://www.esakal.com/krida/commonwealth-games-2026-harsh-singh-wins-historic-judo-gold-india-bags-second-gold-in-five-minutes-defeats-australias-joshua-katz-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/dm8p9scd/Harsh-Singh-wins-Commonwealth-Games-2026-Judo-Gold",
+            "published": "2026-08-01T02:15:30",
+            "url": "https://www.esakal.com/krida/sri-lankas-rumesh-pathirage-wins-gold-in-javelin-throw-at-cwg-2026-neeraj-chopra-misses-gold-yash-vir-singh-win-bronze-arshad-nadeem-eliminated-early-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/x7co975q/Rumesh-Tharanga-Pathirage",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "1218bad9d25d",
+            "id": "29bafe0d1b49",
             "feed": "esakal",
-            "title": "Asmita Dey won historic Gold : अस्मिता डे हिने 'Golden Score'वर जिंकले सुवर्ण! राष्ट्रकुल स्पर्धेत ज्युदोपटूने इतिहास घडवला, पहिली भारतीय",
+            "title": "TEJASWIN SHANKAR HISTORICAL MEDAL: तेजस्विन शंकरने इतिहास घडवला! खडतर अशा डेकॅथलॉन स्पर्धेत भारताला जिंकून दिले पहिले पदक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-07-31T21:00:21",
-            "url": "https://www.esakal.com/krida/asmita-dey-wins-historic-commonwealth-games-gold-creates-history-for-india-in-in-womens-48kg-becomes-1st-indian-to-win-gold-in-judo-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-31/ivrj2opm/Asmita-Dey-wins-historic-gold-at-Commonwealth-Games-2026",
+            "published": "2026-08-01T01:25:56",
+            "url": "https://www.esakal.com/krida/commonwealth-games-2026-tejaswin-shankar-wins-indias-first-ever-cwg-decathlon-medal-with-a-total-of-7976-points-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/7vl1zymi/Tejaswin-Shankar-Commonwealth-Games-2026-Decathlon-Medal",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "7818461ca998",
-            "feed": "maharashtratimes",
-            "title": "KKR New Captain : श्रेयस अय्यरनंतर रहाणेने सोडली साथ! आता गंभीरच्या जुन्या संघात सूर्याचे पुनरागमन होणार की हार्दिक बाजी मारणार?",
+            "id": "01a535c64e42",
+            "feed": "lokmat",
+            "title": "IND vs SL : टीम इंडियाला मोठा दिलासा! जसप्रीत बुमराहचा श्रीलंकेविरुद्ध खेळण्याचा मार्ग मोकळा",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-07-31T20:56:50",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/kkr-new-captain-options-after-ajinkya-rahane-retirement-hardik-pandya-suryakumar-yadav/articleshow/132770787.cms",
-            "image": "",
+            "published": "2026-07-31T23:45:42",
+            "url": "https://www.lokmat.com/cricket/news/jasprit-bumrah-fitness-update-indian-star-pacer-cleared-for-india-vs-sri-lanka-test-series-2026-after-coe-tests-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jasprit-bumrah-fitness-update-m_2026071753981.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "5036317a29d2",
+            "feed": "lokmat",
+            "title": "TVS Raider 'डॉक्टर डूम' एडिशन भारतात लाँच; जाणून घ्या किंमत अन् खासियत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-07-31T22:40:48",
+            "url": "https://www.lokmat.com/auto/tvs-raider-doctor-doom-edition-launched-in-india-know-the-price-and-features-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tvs-raider-rt_2026071753974.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "4675462b56ce",
             "feed": "lokmat",
@@ -328,22 +344,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-07-29/xlywtmt8/Abhi-56.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "8c61121dd6d0",
-            "feed": "lokmat",
-            "title": "‘गोवर्धन गोवंश सेवा केंद्र’ योजनेसाठी अर्ज करा, 25 लाखापर्यंत अनुदान मिळवा, वाचा संपूर्ण प्रक्रिया",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-31T20:30:07",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/apply-for-govardhan-govansh-seva-kendra-scheme-get-grant-up-to-rs-25-lakh-read-the-complete-process-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/govardhan-seva_2026071753935.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
