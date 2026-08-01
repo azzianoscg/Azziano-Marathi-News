@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "01-08-2026 | 02:21 AM IST",
+    "lastUpdated": "01-08-2026 | 05:44 AM IST",
     "maharashtra": [
         {
             "id": "cbc5a023fd55",
@@ -84,6 +84,54 @@
     ],
     "india": [
         {
+            "id": "5ae99c9d3482",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 1 ऑगस्ट 2026 : महिन्याची सुरुवात या राशींसाठी धडाक्यात,मिळणार गुडन्यूज तर या राशींची उडणार तारांबळ ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-01T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-1-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/132756177.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6cfe751cf6e2",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 1 August 2026: मूलांक 6 घाईगडबडीत निर्णय घेणे घातक! मूलांक 9 जोडीदाराची साथ,समस्यांवर करणार मात! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-01T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-1-august-2026-guru-aditya-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/132756626.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "09fe9e577960",
+            "feed": "lokmat",
+            "title": "Javelin Throw Final: नीरज चोप्राचे 'सुवर्ण' हुकले; श्रीलंकेच्या पथिरागेनं रचला इतिहास; भारताच्या यशवीरला कांस्य",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-01T02:44:53",
+            "url": "https://www.lokmat.com/other-sports/rumesh-pathirage-wins-gold-mens-javelin-throw-final-neeraj-chopra-clinches-silver-2-javelin-medals-for-india-as-yashvir-singh-gets-bronze-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cwg-2026-javelin-throw-final-m-1_2026071753990.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "311f40bc20cb",
             "feed": "lokmat",
             "title": "Metaचे 'इंडिया हेड' अरुण श्रीनिवास यांना धक्का! सायबर क्राईम पोलिसांनी दाखल केली FIR, कारण काय?",
@@ -114,54 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/modi-genz-0108_2026071753983.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "292e56970951",
-            "feed": "esakal",
-            "title": "रोज रात्री झोपण्याआधी १ वेलची चघळण्याचे ‘हे’ फायदे तुम्हाला माहीत आहेत का?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-07-31T23:59:34",
-            "url": "https://www.esakal.com/ampstories/web-story/what-happens-if-you-chew-one-cardamom-before-bed-every-night-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-16/q18n3lsm/8.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "aa71755ac6d4",
-            "feed": "maharashtratimes",
-            "title": "City of Canals: डांबरी रस्ते नाही अन् वाहनांचा गोंगाट नाही! पाण्यावर वसलेल्या 'या' शहराचा थक्क करणारा इतिहास",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-07-31T23:42:09",
-            "url": "https://maharashtratimes.com/career/career-news/general-knowledge-gk-in-marathi-venice-city-of-canals-italy-sinking-city-history-118-islands-formation-grand-canal-bridges/articleshow/132774458.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "9ba6734cb07c",
-            "feed": "lokmat",
-            "title": "बंदुकीच्या धाकावर लुटले अर्धा किलो सोने, १३ किलो चांदी; सराफा दुकानावर धक्कादायक दरोडा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-07-31T23:11:40",
-            "url": "https://www.lokmat.com/crime/half-a-kilo-of-gold-13-kilos-of-silver-robbed-at-gunpoint-shocking-robbery-at-a-bullion-shop-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gold-shop-3107_2026071753978.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
@@ -230,23 +230,39 @@
             "category_reason": "feed"
         },
         {
-            "id": "d5cda81d3174",
+            "id": "8c31e9da9997",
+            "feed": "esakal",
+            "title": "'कॉकरोच जनता पार्टी'ची पाकिस्तानात क्रेझ! पाकमध्येही 'कॉकरोच पार्टी', देशाच्या गृहमंत्र्यानेच सरकारला दिला 'हा' इशारा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-07-31T18:42:20",
+            "url": "https://www.esakal.com/global/pakistan-cockroach-party-youth-movement-mohsin-naqvi-rebellion-fears-instagram-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-31/puwk1a1f/Latest-Marathi-Breaking-News-2026-07-31T184124.710.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "sports": [
+        {
+            "id": "cb136e4d3f6a",
             "feed": "lokmat",
-            "title": "'रामायण'मधील कैकसी कोण? रजनीकांतसोबत काम केलेली ही अभिनेत्री साकारणार यशच्या आईची भूमिका",
+            "title": "ॲथलेटिक्समधील अष्टपैलूत्वाची परीक्षा पास; तेजस्विन शंकरचे कांस्यपदक भारतासाठी ठरले ऐतिहासिक!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-07-31T18:58:30",
-            "url": "https://www.lokmat.com/filmy/bollywood/who-is-kaikasi-in-ramayana-this-actress-who-worked-with-rajinikanth-will-play-the-role-of-yashs-mother-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramayana-yash-mother_2026071753894.jpeg",
+            "published": "2026-08-01T04:28:24",
+            "url": "https://www.lokmat.com/other-sports/tejaswin-shankar-wins-historic-bronze-medal-indias-first-commonwealth-games-decathlon-glory-at-glasgow-2026-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tejaswin-shankar-wins-historic-bronze-medal-indias-m_2026071753992.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        }
-    ],
-    "sports": [
+        },
         {
             "id": "cb88e0ee8565",
             "feed": "esakal",
@@ -278,22 +294,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-07-31/7vl1zymi/Tejaswin-Shankar-Commonwealth-Games-2026-Decathlon-Medal",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "01a535c64e42",
-            "feed": "lokmat",
-            "title": "IND vs SL : टीम इंडियाला मोठा दिलासा! जसप्रीत बुमराहचा श्रीलंकेविरुद्ध खेळण्याचा मार्ग मोकळा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-07-31T23:45:42",
-            "url": "https://www.lokmat.com/cricket/news/jasprit-bumrah-fitness-update-indian-star-pacer-cleared-for-india-vs-sri-lanka-test-series-2026-after-coe-tests-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jasprit-bumrah-fitness-update-m_2026071753981.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
