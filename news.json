@@ -1,170 +1,218 @@
 {
-    "lastUpdated": "01-08-2026 | 09:59 PM IST",
+    "lastUpdated": "02-08-2026 | 01:46 AM IST",
     "maharashtra": [
         {
-            "id": "08ab4f68058d",
-            "feed": "maharashtratimes",
-            "title": "Tukaram Mundhe : 21 वर्षांपूर्वी अमरावतीत भाषण केलं, प्रेरित होऊन चौथीतली विद्यार्थिनी UPSC उत्तीर्ण झाली, तुकाराम मुंढेंनी सांगितला किस्सा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-01T21:33:14",
-            "url": "https://maharashtratimes.com/maharashtra/amravati/tukaram-mundhe-share-his-21-years-old-experience-about-amravati/articleshow/132792411.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dc86c12c8ba2",
-            "feed": "esakal",
-            "title": "Crime News:  सुपे-अहिल्यानगरमध्ये दरोडेखोरांची सराईत टोळी उघड; ४ आरोपी अटकेत, ९९ हजारांचा मुद्देमाल जप्त",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-01T21:30:40",
-            "url": "https://www.esakal.com/pune/supe-police-bust-notorious-dacoit-gang-operating-in-supe-and-ahilyanagar-four-accused-arrested-gold-silver-ornaments-worth-99-thousand-seized-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-01/v2s1hsea/Esakal-21.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2b55240f8693",
-            "feed": "maharashtratimes",
-            "title": "Tukaram Mundhe : तीनवेळा अपयशाने खचलो होतो, तुकाराम मुंढेंनी जेन-झींना दिला यशाचा कानमंत्र",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-01T20:51:17",
-            "url": "https://maharashtratimes.com/maharashtra/amravati/ias-tukaram-mundhe-explain-secret-of-success-and-motivate-gen-z-generation/articleshow/132792152.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9b524f32ef45",
-            "feed": "esakal",
-            "title": "Teacher Salary: ई-केवायसीशिवाय ऑगस्टचे वेतन नाही; शिक्षण संचालकांचा कडक आदेश, मुदतवाढीला स्पष्ट नकार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-01T20:39:56",
-            "url": "https://www.esakal.com/marathwada/maharashtra-teachers-and-non-teaching-staff-must-complete-e-kyc-or-august-2026-salary-will-be-withheld-education-director-orders-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-01/behfrbn8/Esakal-20.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "4abe2144c24c",
+            "id": "56e44a72aa9b",
             "feed": "lokmat",
-            "title": "जुलैच्या अखेरच्या आठवड्यात पावसाचा जलवा; भरून निघाला संपूर्ण बॅकलॉग!",
+            "title": "NEET आंदोलनात Viral झालेली रिया अहिर शरद पवार यांच्या भेटीला, शेअर केले खास PHOTOS",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-01T20:38:14",
-            "url": "https://www.lokmat.com/nagpur/heavy-rains-in-the-last-week-of-july-the-entire-backlog-was-filled-a-a957-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-38_2026081754562.jpg",
+            "published": "2026-08-02T00:22:10",
+            "url": "https://www.lokmat.com/photos/mumbai/rhiya-ahir-who-went-viral-during-neet-protest-in-mumbai-meets-sharad-pawar-shares-special-photos-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rhiya-ahir-sharad-pawar-meeting-0208_2026081754603.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bf68b46e4b7d",
+            "feed": "esakal",
+            "title": "Maharashtra Politics: संजय राऊत हेच ‘महाराष्ट्राला लागलेला कलंक’ : भाजयुमोचे माजी जिल्हाध्यक्ष सुदर्शन यादव यांचा पलटवार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-01T23:41:39",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/bjp-sudarshan-yadav-slams-sanjay-raut-over-remarks-on-guardian-minister-jaykumar-gore-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-01/etd5lswg/Esakal-24.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "cbe50d426ba1",
+            "feed": "esakal",
+            "title": "Video: जुनं वचन पाळलं! मित्राची सैन्यात निवड होताच खांद्यावर बसवून काढली गावभर मिरवणूक; कोल्हापूरचा व्हिडीओ व्हायरल",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-01T23:06:45",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-village-friendship-pact-indian-army-selection-soldier-rohit-jondhale-santosh-mane-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-01/v3z00vr6/Latest-Marathi-Breaking-News-2026-08-01T230316.432.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "dbaaefa84cb2",
+            "feed": "lokmat",
+            "title": "\"नव्या तंत्रज्ञानात आपला ‘विवेक’ कुठे आहे?\"; तुकाराम मुंढे यांचा तरुणाईला रोखठोक सवाल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-01T22:57:42",
+            "url": "https://www.lokmat.com/amravati/where-is-our-conscience-in-new-technology-tukaram-mundhes-blunt-question-to-the-youth-a-a782-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tukaram-mundhe-genz-0108_2026081754594.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "e5c3ef21275e",
+            "feed": "maharashtratimes",
+            "title": "Government Job Scam : एक किंवा दोन नाही, तर तब्बल 117 जणांना सरकारी नोकरीचं स्वप्न दाखवलं, खोटी नियुक्तीपत्रे वाटली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-01T22:46:25",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/government-job-scam-117-victims-cheated-of-rupees-3-73-crore-fir-against-two/articleshow/132793690.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "e94670500297",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update : राज्यासह देशात आज कुठे काय घडलं? जाणून घ्या...",
+            "id": "452a41cc36bd",
+            "feed": "lokmat",
+            "title": "CWG 2026 Boxing Medal Tally: बॉक्सिंगमध्ये 'सोनेरी दिवस'; कोणत्याच देशाला जमलं नाही ते भारतानं करून दाखवलं!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-01T21:59:07",
-            "url": "https://www.esakal.com/desh/maharashtra-marathi-live-news-1-august-2026-weather-update-imd-rain-forecast-parliament-monsoon-session-nda-bjp-congress-pm-modi-jantar-mantar-protest-cjp-gold-silver-rate-share-market-devendra-fadnavis-eknath-shinde-sunetra-pawar-sports-entertainment-politics-finance-trending-viral-news-updates-ssy93-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2024-12-15/87gtoomj/live-update.jpg",
+            "published": "2026-08-02T01:40:53",
+            "url": "https://www.lokmat.com/other-sports/ankush-panghal-makes-super-comeback-to-win-gold-at-cwg-2026-india-finished-record-breaking-haul-of-7-gold-medals-and-3-silver-medals-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cwg-2026-boxing-medal-tally-m_2026081754614.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "e55e151e44ec",
-            "feed": "maharashtratimes",
-            "title": "Saorabh Choughule : 'तू डोंबिवलीचं नाव घेतलंस, मराठी मुलगा शून्यातून वर आला आणि आज स्वतःला सिद्ध केलं', अजिंक्य राहणेसाठी मराठी अभिनेत्याची खास पोस्ट",
+            "id": "70777c788866",
+            "feed": "lokmat",
+            "title": "नागपुरात ‘लुटेरी दुल्हन’ पुन्हा सक्रिय; मुख्य सूत्रधार 'राणी' गजाआड! फसवणूक करणाऱ्या टोळीचा पर्दाफाश",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-01T21:21:37",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/marathi-actor-saorabh-choughule-shares-emotional-post-for-ajinkya-rahane-retirement/articleshow/132792177.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "73f558319e89",
-            "feed": "esakal",
-            "title": "लोको पायलट हाय-स्पीड ट्रेन कशी थांबवतात? रेल्वेत अचानक ब्रेक लावणे शक्य का नसते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-01T21:00:00",
-            "url": "https://www.esakal.com/ampstories/web-story/how-do-loco-pilots-stop-speed-trains-know-why-is-it-not-possible-to-sudden-brakes-on-railway-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-01/daxa8ow4/Railway-Signal-System.jpg",
+            "published": "2026-08-02T01:00:17",
+            "url": "https://www.lokmat.com/crime/fraudulent-gang-exposed-robber-bride-active-again-in-the-city-main-mastermind-rani-gajaad-a-a877-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dulhan-arrested-0208_2026081754613.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "30352f46b01b",
+            "id": "e5bbce9daff8",
             "feed": "lokmat",
-            "title": "पावसानंतर आता दुष्काळाची भीती! 'सुपर अल नीनो'बाबत IMD, WMO चा मोठा इशारा; ऑगस्टमध्ये मान्सूनचं गणित बिघडणार?",
+            "title": "वाढदिवसाच्या पार्टीनंतर दोन गटात रक्तरंजित संघर्ष; चाकूहल्ल्यात 'टिल्ली' गंभीर, तिघे गजाआड",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-02T00:46:54",
+            "url": "https://www.lokmat.com/crime/bloody-clash-between-two-groups-after-birthday-party-tilli-critically-injured-in-knife-attack-three-injured-a-a877-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-crime-scene-2607_2026081754612.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "0ee34842aefc",
+            "feed": "lokmat",
+            "title": "CWG 2026 :'अशक्त, कुपोषित आहेस...' अशी हेटाळणी; बॉक्सिंगच्या 'नर्सरी'त घडलेल्या सचिनने रचला सुवर्णमयी इतिहास!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-02T00:18:51",
+            "url": "https://www.lokmat.com/other-sports/cwg-2026-sachin-siwach-wins-mens-60kg-boxing-gold-after-thrilling-3-2-split-decision-know-story-of-struggle-of-indian-boxer-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/boxing-sachin-siwach-wins-gold-in-mens-60kg-m_2026081754604.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "45a580524e14",
+            "feed": "lokmat",
+            "title": "पेपर लीक प्रकरणाच्या सुनावणीसाठी स्थापन केलेल्या फास्ट ट्रॅक कोर्टच्या न्यायाधीशांची बदली!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-01T20:58:10",
-            "url": "https://www.lokmat.com/photos/national/after-the-rains-now-there-is-fear-of-drought-imd-wmo-issue-big-warning-regarding-super-el-nino-will-the-monsoon-calculations-go-wrong-in-august-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/super-el-nino_2026081754564.jpg",
+            "published": "2026-08-01T23:35:16",
+            "url": "https://www.lokmat.com/national/judge-of-the-fast-track-court-set-up-to-hear-the-paper-leak-case-transferred-big-update-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-judge-0108_2026081754600.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "world": [
+        {
+            "id": "507767432e6c",
+            "feed": "lokmat",
+            "title": "गिट्टीखदान पोलिस ठाण्यातून पळालेला कुख्यात गुन्हेगार सापडला; गुन्हे शाखेच्या पथकाने केले जेरबंद",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-02T00:38:15",
+            "url": "https://www.lokmat.com/crime/notorious-criminal-who-escaped-from-gittikhadan-police-station-found-arrested-by-crime-branch-team-a-a877-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arrest-pic-3009mf_2026081754611.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "94110e4f3538",
+            "feed": "lokmat",
+            "title": "\"पश्चिम आशियातून ताबडतोब बाहेर पडा...!\" अमेरिकेची आपल्या नागरिकांना सूचना, इराणमध्ये काही तरी मोठं घडणार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-01T23:27:27",
+            "url": "https://www.lokmat.com/international/us-travel-advisory-to-its-citizens-middle-east-something-big-is-going-to-happen-in-iran-trump-iran-attack-warning-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/america-iran-war_2026081754596.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "8b72bbeb581c",
-            "feed": "esakal",
-            "title": "Deportation Rule: राष्ट्रीयत्वाची खात्री झाल्याशिवाय हकालपट्टी नाही; सर्वोच्च न्यायालयात केंद्राची भूमिका, निर्वासनासाठी ३ अटी अनिवार्य",
+            "id": "5c437792d70d",
+            "feed": "lokmat",
+            "title": "\"...तो इतने बम मारेंगे, गिन नहीं पाओगे!\"; ट्रम्प यांच्या धमकीनंतर इराणची 'सटकली', थेट 'हिटलिस्ट'च जाहीर केली!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
             },
-            "published": "2026-08-01T20:48:29",
-            "url": "https://www.esakal.com/desh/no-deportation-without-nationality-verification-centre-tells-supreme-court-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-01/e0zwpapg/Deportation-Rules.jpg",
+            "published": "2026-08-01T22:10:15",
+            "url": "https://www.lokmat.com/international/america-iran-conflict-trump-threat-about-energy-infrastructure-iran-says-we-will-drop-so-many-bombs-you-wont-be-able-to-count-middle-east-war-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/america-iran-hr_2026081754589.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "world": [
+            "category_reason": "feed"
+        },
         {
             "id": "25f6c258e86c",
             "feed": "esakal",
@@ -196,104 +244,56 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "61c6ef6ecca3",
-            "feed": "lokmat",
-            "title": "शिखरावर चढाई करत असताना भीषण हिमस्खलन, प्रसिद्ध गिर्यारोहकासह १० जणांचा मृत्यू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-01T18:21:26",
-            "url": "https://www.lokmat.com/international/a-massive-avalanche-while-climbing-the-peak-killed-10-people-including-a-famous-mountaineer-nirmal-purja-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nirmal-purja-1_2026081754495.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "17e4011650ac",
-            "feed": "esakal",
-            "title": "खेळाडूंच्या जर्सीचा रंग कोण ठरवतं? काय आहेत नियम? जाणून घ्या...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-01T17:31:00",
-            "url": "https://www.esakal.com/ampstories/web-story/who-decides-color-of-players-jerseys-why-do-players-have-to-wear-jerseys-of-different-colors-know-rules-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-01/g3ohgie2/Sports-jersey-colour-rules.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "0d3cd4a830bb",
-            "feed": "maharashtratimes",
-            "title": "GK in Marathi: जगातील 'या' १० देशांमध्ये पुरुषांपेक्षा महिलांची संख्या जास्त; रशिया आणि हाँगकाँग पहिल्या पाचमध्ये",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-01T15:12:25",
-            "url": "https://maharashtratimes.com/career/career-news/countries-with-highest-female-population-gender-ratio-gap-world-population-review/articleshow/132785919.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "07afb9a97d22",
+            "id": "a5b3d057af8d",
             "feed": "esakal",
-            "title": "Commonwealth Games 2026: बॉक्सर्सची गोल्डन कामगिरी! ३० मिनिटांत ३ सुवर्णपदकं... अरुंद्धती चौधरीचे निर्विवाद वर्चस्व; भारताची Medal Tally मध्ये मोठी झेप...",
+            "title": "Commonwealth Games 2026 : शेताच्या बांधावर अनवाणी धावणाऱ्या गुलवीर सिंगने राष्ट्रकुल स्पर्धेत इतिहास घडवला; ०.०४ सेकंदाच्या फरकाने जिंकले दुसरे पदक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-01T21:57:11",
-            "url": "https://www.esakal.com/krida/commonwealth-games-2026-indias-boxers-rewrite-history-with-five-gold-medals-arundhati-choudhary-win-gold-as-india-medal-tally-surges-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-01/0kfj3pl1/Arundhati-Choudhary-wins-gold-Commonwealth-Games-2026",
+            "published": "2026-08-02T00:51:57",
+            "url": "https://www.esakal.com/krida/commonwealth-games-2026-indias-gulveer-singh-edges-kenyan-rival-by-004-seconds-to-secure-5000m-bronze-claims-second-medal-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-01/paykjwck/Gulveer-Singh-won-a-sensational-bronze-medal-in-the-mens-5000m",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "c4959f00d40f",
+            "id": "b68a6c7364fd",
             "feed": "esakal",
-            "title": "Commonwealth Games 2026 : २२ वर्षीय प्रियाची पहिलीच राष्ट्रकुल स्पर्धा अन् सुवर्णपदक... शेतकऱ्याच्या लेकीने इतिहास घडवला",
+            "title": "Commonwealth Games 2026: ७ सुवर्ण, ३ रौप्य.. बॉक्सिंगपटूंची ऐतिहासिक कामगिरी; भारताची Medal Table मध्ये उत्तुंग भरारी, बघा कितव्या स्थानावर पोहोचले",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-01T21:36:15",
-            "url": "https://www.esakal.com/krida/farmers-daughter-priya-ghanghas-strikes-gold-on-commonwealth-games-debut-beat-canada-marie-bathoul-al-ahmadieh-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-01/zziftk08/Priya-Ghanghas-wins-gold-Commonwealth-Games-2026",
+            "published": "2026-08-01T23:54:04",
+            "url": "https://www.esakal.com/krida/commonwealth-games-2026-indias-boxers-rewrite-history-with-7-gold-medals-india-climbs-to-fourth-in-medal-table-with-38-medals-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-01/5z0izt6l/India-boxing-wins-8-gold-medals-Commonwealth-Games-2026",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "f3070598fc9e",
-            "feed": "esakal",
-            "title": "Commonwealth Games 2026 : साक्षी चौधरीचा गोल्डन पंच; भारतीय सैन्यात असलेल्या पोरीने जग जिंकलं! ज्युदोत उन्नतीची कांस्य क्रांती",
+            "id": "798516108f0b",
+            "feed": "lokmat",
+            "title": "Arundhati Choudhury Won Gold : तापानं फणफणत असतानाही ती रिंगमध्ये उतरली; अरुंधती चौधरीच्या 'सुवर्णमयी' जिद्दीला सलाम!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-01T21:14:45",
-            "url": "https://www.esakal.com/krida/commonwealth-games-2026-sakshi-chaudhary-wins-boxing-gold-unnati-sharma-adds-judo-bronze-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-01/w6p9ld70/Sakshi-Chaudhary-wins-boxing-gold-Commonwealth-Games-2026",
+            "published": "2026-08-01T23:29:54",
+            "url": "https://www.lokmat.com/other-sports/arundhati-choudhury-won-gold-womens-70kg-boxing-indias-sensational-boxing-campaign-at-glasgow-cwg-2026-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arundhati-choudhury-won-gold-womens-70kg-boxing-m_2026081754598.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         }
     ],
     "business": [
