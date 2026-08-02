@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "02-08-2026 | 01:46 AM IST",
+    "lastUpdated": "02-08-2026 | 05:48 AM IST",
     "maharashtra": [
+        {
+            "id": "28ae138f6a52",
+            "feed": "lokmat",
+            "title": "बाप्पा पावला! मुंबईहून सावंतवाडीला नवी एक्स्प्रेस, कोकणवासीयांना ‘गिफ्ट’; गणेशोत्सवाला सुरू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-02T05:40:33",
+            "url": "https://www.lokmat.com/mumbai/big-relief-on-konkan-railway-passengers-a-new-express-from-csmt-mumbai-to-sawantwadi-a-gift-to-konkan-vasiya-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/konkan-railway-time-table_2026061725169.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "56e44a72aa9b",
             "feed": "lokmat",
@@ -64,25 +80,73 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tukaram-mundhe-genz-0108_2026081754594.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        }
+    ],
+    "india": [
+        {
+            "id": "7ab1b59fdaed",
+            "feed": "lokmat",
+            "title": "‘राष्ट्रकुल’मध्ये भारतीय लेकींचा ‘गोल्डन पंच’;  स्पर्धेच्या अखेरच्या दिवशी खेळाडूंची चमक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-02T05:44:52",
+            "url": "https://www.lokmat.com/other-sports/indian-women-team-golden-punch-in-commonwealth-game-2026-players-shine-on-the-last-day-of-the-competition-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/commonwealth-games-3_2025101565121.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         },
         {
-            "id": "e5c3ef21275e",
+            "id": "f68b0547f1ff",
+            "feed": "esakal",
+            "title": "Premium|AI on Monsoon : एआय आणि पाऊसगप्पा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-02T05:19:00",
+            "url": "https://www.esakal.com/premium-article/gemini-ai-conversation-monsoon-chat-artificial-intelligence-human-ai-dialogue-rainy-season-india-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-01/v3jituuo/Abhi-47.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "0f5d15088c74",
             "feed": "maharashtratimes",
-            "title": "Government Job Scam : एक किंवा दोन नाही, तर तब्बल 117 जणांना सरकारी नोकरीचं स्वप्न दाखवलं, खोटी नियुक्तीपत्रे वाटली",
+            "title": "अंक भविष्य, 2 August 2026: मूलांक 4 कामानिमित्त प्रवासाचा योग! मूलांक 6 घरात मंगल कार्याचा योग! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-01T22:46:25",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/government-job-scam-117-victims-cheated-of-rupees-3-73-crore-fir-against-two/articleshow/132793690.cms",
+            "published": "2026-08-02T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-2-august-2026-hansa-rajyog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/132790177.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
+            "category_reason": "default"
+        },
+        {
+            "id": "11a927b4f9c1",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 2 ऑगस्ट 2026 : कोणत्या राशींना मिळणार मालमत्तेचे सुख कोणाच्या वाढणार आर्थिक अडचणी ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-02T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-2-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/132791103.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "452a41cc36bd",
             "feed": "lokmat",
@@ -98,70 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cwg-2026-boxing-medal-tally-m_2026081754614.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "70777c788866",
-            "feed": "lokmat",
-            "title": "नागपुरात ‘लुटेरी दुल्हन’ पुन्हा सक्रिय; मुख्य सूत्रधार 'राणी' गजाआड! फसवणूक करणाऱ्या टोळीचा पर्दाफाश",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-02T01:00:17",
-            "url": "https://www.lokmat.com/crime/fraudulent-gang-exposed-robber-bride-active-again-in-the-city-main-mastermind-rani-gajaad-a-a877-c747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dulhan-arrested-0208_2026081754613.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e5bbce9daff8",
-            "feed": "lokmat",
-            "title": "वाढदिवसाच्या पार्टीनंतर दोन गटात रक्तरंजित संघर्ष; चाकूहल्ल्यात 'टिल्ली' गंभीर, तिघे गजाआड",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-02T00:46:54",
-            "url": "https://www.lokmat.com/crime/bloody-clash-between-two-groups-after-birthday-party-tilli-critically-injured-in-knife-attack-three-injured-a-a877-c747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-crime-scene-2607_2026081754612.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "0ee34842aefc",
-            "feed": "lokmat",
-            "title": "CWG 2026 :'अशक्त, कुपोषित आहेस...' अशी हेटाळणी; बॉक्सिंगच्या 'नर्सरी'त घडलेल्या सचिनने रचला सुवर्णमयी इतिहास!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-02T00:18:51",
-            "url": "https://www.lokmat.com/other-sports/cwg-2026-sachin-siwach-wins-mens-60kg-boxing-gold-after-thrilling-3-2-split-decision-know-story-of-struggle-of-indian-boxer-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/boxing-sachin-siwach-wins-gold-in-mens-60kg-m_2026081754604.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "45a580524e14",
-            "feed": "lokmat",
-            "title": "पेपर लीक प्रकरणाच्या सुनावणीसाठी स्थापन केलेल्या फास्ट ट्रॅक कोर्टच्या न्यायाधीशांची बदली!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-01T23:35:16",
-            "url": "https://www.lokmat.com/national/judge-of-the-fast-track-court-set-up-to-hear-the-paper-leak-case-transferred-big-update-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-judge-0108_2026081754600.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
