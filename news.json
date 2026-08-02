@@ -1,347 +1,347 @@
 {
-    "lastUpdated": "02-08-2026 | 02:47 PM IST",
+    "lastUpdated": "02-08-2026 | 08:17 PM IST",
     "maharashtra": [
         {
-            "id": "c15aed5f2a86",
+            "id": "9b214173e588",
             "feed": "esakal",
-            "title": "Pune Wildlife: २० वर्षांनंतर दुर्मीळ चौशिंगा हरणाचे दर्शन! पुण्याच्या टेकड्यांत निसर्गाचा अनमोल ठेवा अजूनही जिवंत",
+            "title": "Mohol Revenue Camp: मोहोळमध्ये ‘छत्रपती शिवाजी महाराज महाराजस्व समाधान शिबिर’ला उत्स्फूर्त प्रतिसाद; १७ स्टॉलमधून १६६७ नागरिकांना विविध शासकीय सेवांचा लाभ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-02T20:14:35",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/mohol-revenue-samadhan-camp-benefits-1667-citizens-through-17-government-departments-and-public-welfare-services-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-02/dah9j8w6/Esakal-17.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "ef9869e91891",
+            "feed": "esakal",
+            "title": "Marathi Career Opportunities: बदलत्या तंत्रज्ञानयुगात मराठी विद्यार्थ्यांसाठी करिअरच्या नवी दालने उघडी; दर्जेदार आशयनिर्मितीवर डॉ. राहुल पाटील यांचा भर",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-02T14:32:15",
-            "url": "https://www.esakal.com/pune/pune-hills-witness-rare-four-horned-antelope-sighting-after-two-decades-sparks-biodiversity-conservation-debate-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/pros5zlx/sudhir-jadhav-satara-21.jpg",
+            "published": "2026-08-02T20:08:52",
+            "url": "https://www.esakal.com/mumbai/marathi-students-have-bright-career-opportunities-in-digital-and-technology-era-says-dr-rahul-patil-at-vasai-college-event-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-02/4iaeh1jd/Esakal-16.png",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
             "id": "ac7907ba8c00",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : आंबोली धबधब्यावर पर्यटकांची मोठी गर्दी",
+            "title": "Latest Marathi News Live Update : नाशिकच्या बागलाण तालुक्यातील हरणबारी धरणावर जीवाची बाजी लावणारी स्टंटबाजी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-02T14:19:31",
+            "published": "2026-08-02T20:06:08",
             "url": "https://www.esakal.com/maharashtra/marathi-live-news-02-august-friendship-day-summerslam-commonwealth-games-neeraj-chopra-surya-dev-green-energy-e20-petrol-atmanirbhar-bharat-kulgam-ruchika-pingali-venkayya-bhiwandi-collapse-kohinoor-building-mumbai-politics-raj-thackeray-eknath-shinde-uddhav-thackeray-local-civic-issues-pune-news-ymk86-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ee2244316b4f",
-            "feed": "lokmat",
-            "title": "जलवाहिनीच्या चेंबरमध्ये गळती, दोन दिवस कमी दाबाने पाणीपुरवठा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-02T14:17:29",
-            "url": "https://www.lokmat.com/pune/pune-news-leak-in-water-pipe-chamber-water-supply-at-low-pressure-for-two-days-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/water0125478_2026081754778.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "03cd2582105b",
-            "feed": "lokmat",
-            "title": "देवेंद्र फडणवीसांना महाराष्ट्रातून केंद्रात नेणार? संजय राऊतांचा मोठा दावा; एकनाथ शिंदे यांच्यावरही टीका",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-02T14:11:52",
-            "url": "https://www.lokmat.com/mumbai/will-fadnavis-be-taken-from-maharashtra-to-the-centre-sanjay-rauts-big-claim-he-also-criticized-the-shinde-group-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pm-narendra-modi-sanjay-raut_2026081754770.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "78fdc1350c30",
+            "id": "c0aaaeb15240",
             "feed": "esakal",
-            "title": "Pune News: पुण्यातील वास्तव धक्कादायक! स्मार्ट टॉयलेटला प्राधान्य, पण कष्टकऱ्यांसाठी रात्र-निवाऱ्याचा अद्यापही अभाव",
+            "title": "Land Deal Probe: निवडणुकीनंतर महिनाभरात कोट्यवधींची जमीन खरेदी? देवदत्त निकम यांच्यावर स्वाभिमानी शेतकरी संघटनेचे गंभीर आरोप",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-02T14:09:26",
-            "url": "https://www.esakal.com/pune/pune-smart-toilets-get-priority-while-night-shelters-for-migrant-workers-remain-missing-raises-serious-civic-concerns-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/ms6igc5t/sudhir-jadhav-satara-20.jpg",
+            "published": "2026-08-02T20:03:46",
+            "url": "https://www.esakal.com/pune/swabhimani-shetkari-sanghatana-demands-income-tax-probe-into-devdatt-nikam-land-purchase-after-election-defeat-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-02/73bkkr7e/Esakal-15.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ac58b4ceae4c",
+            "feed": "maharashtratimes",
+            "title": "Panjkaja Munde : कंटाळा आला, रिटायर्ड व्हावंसं वाटतं, पंकजा मुंडे नेमकं काय म्हणाल्या?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-02T20:03:28",
+            "url": "https://maharashtratimes.com/maharashtra/beed/bjp-leader-pankaja-munde-big-statement-about-politics/articleshow/132808396.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "1f5ac5b2354e",
-            "feed": "esakal",
-            "title": "पावसाळ्यात बेलपत्र खाण्याचे चमत्कारिक फायदे",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-02T14:46:00",
-            "url": "https://www.esakal.com/ampstories/web-story/monsoon-health-benefits-of-belpatra-ayurvedic-benefits-how-to-consume-bel-patra-in-rainy-season-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/xkgzwkp6/Belpatra-Benefits-in-Monsoon-1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ceb3bb100be4",
-            "feed": "lokmat",
-            "title": "\"लोक माझ्या डोळ्यांकडे नाही, तर मुरुमांकडे पाहायचे...\" 'रामायण'मध्ये सीता साकारणाऱ्या साई पल्लवीचा खुलासा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-02T14:40:43",
-            "url": "https://www.lokmat.com/filmy/south-movies/sai-pallavi-on-acne-struggles-before-ramayana-sita-role-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sai-pallavi-viral-statement-on-criticism-over-her-pimples-amid-ramayana-casting-row_2026081754781.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ee7cb268028e",
-            "feed": "lokmat",
-            "title": "४४ लाखांच्या विम्यासाठी बायकोची हत्या; अडीच वर्षांपूर्वी लव्ह मॅरेज, नवऱ्याने रचला भयंकर कट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-02T14:29:49",
-            "url": "https://www.lokmat.com/crime/husband-accused-of-killing-wife-for-44-lakh-insurance-after-love-marriag-hamirpur-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amar-singh_2026081754783.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d0a40b512d9a",
-            "feed": "esakal",
-            "title": "Zudio चा मान्सुन सेल सुरू! कमी किमतीत कपडे, फुटवेअरवर भन्नाट ऑफर्स",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-02T14:24:17",
-            "url": "https://www.esakal.com/ampstories/web-story/zudio-monsoon-sale-discounts-clothes-footwear-bags-august-2026-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/oe69hxpe/Zudio-Monsoon-Sale",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "778dcb426261",
+            "id": "cf2868af1608",
             "feed": "maharashtratimes",
-            "title": "Prabhakar Kolte: मी रिता झालेलो नाही...",
+            "title": "Sooraj Pancholi : 'मी २० वर्षांचा होतो, या खटल्याच्या ओझ्याखाली जगलो' जिया खान मृत्यू प्रकरणात सूरज पांचोलीची १४ वर्षांनी सुटका, अभिनेता भावूक",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-02T14:22:35",
-            "url": "https://maharashtratimes.com/editorial/samwad/veteran-painter-prabhakar-kolte-entered-80th-year-on-27-june-2026/articleshow/132803434.cms",
+            "published": "2026-08-02T20:11:31",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sooraj-pancholi-shares-post-on-jiah-khan-case/articleshow/132808463.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "5af4556131e3",
+            "feed": "lokmat",
+            "title": "लोणचं घातलं पण पावसाळ्यात लगेच बुरशी लागली? ५ टिप्स, लोणचं टिकेल वर्षभर - चवही चमचमीत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-02T20:00:02",
+            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-prevent-fungus-in-pickle-how-to-store-homemade-pickle-monsoon-pickle-storage-tips-how-to-keep-pickle-fresh-for-a-year-why-does-pickle-get-fungus-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pickle-care-during-rainy-season_2026081754878.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ac4916832f15",
+            "feed": "lokmat",
+            "title": "खासदार पप्पू यादव यांच्यावर जीवघेणा हल्ला; पत्रकार परिषदेतच तरुणाने काढला सुरा; आरोपीला पकडले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-02T19:54:15",
+            "url": "https://www.lokmat.com/national/man-arrested-after-throwing-shoe-and-attempting-knife-attack-on-mp-pappu-yadav-during-press-briefing-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pappu-yadav-attack_2026081754960.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3d952c3d5026",
+            "feed": "lokmat",
+            "title": "मुंबईच्या गाडीवर मिळतो तसा खमंग बटाटा वडा घरीच करा; पाहा, वडा तळण्याची खास ट्रिक!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-02T19:50:00",
+            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-make-street-style-batata-vada-at-home-street-style-batata-vada-recipe-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-02-at-4.37.16-pm_2026081754953.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "241a391fdd20",
+            "feed": "lokmat",
+            "title": "८५० वेळा रिजेक्शन, १३ इंटरव्यूमध्ये अपयश; पण मानली नाही हार; थेट मायक्रोसॉफ्टमध्ये नोकरी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-02T19:40:04",
+            "url": "https://www.lokmat.com/social-viral/software-engineer-deergh-kataria-gets-job-in-microsoft-after-850-rejections-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/deergh-kataria_2026081754955.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "063d1bea9aea",
-            "feed": "esakal",
-            "title": "'या' ५ लोकांनी ब्लॅक कॉफी चुकनही पिऊ नये, आरोग्यावर होतात 'हे' गंभीर परिणाम",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-02T13:51:34",
-            "url": "https://www.esakal.com/ampstories/web-story/black-coffee-side-effects-who-should-avoid-black-coffee-health-risks-anxiety-blood-pressure-insomnia-acidity-iron-deficiency-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/m7mmlius/1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "43a27d617731",
-            "feed": "esakal",
-            "title": "Premium|Friendship Day Special: माणसाला माणसाचीच भिती वाटायला लागलीये का? AI सोबतची आभासी मैत्री का वाढतेय? आणि WHO ने एकटेपणाला जागतिक सार्वजनिक आरोग्याचा प्रश्न का म्हंटले आहे?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-02T13:20:22",
-            "url": "https://www.esakal.com/premium-article/friendship-day-lonely-world-turning-to-ai-companions-sk88",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/4kqt4avd/Fridship-day-special-article-in-marathi",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "2dc21f12eff2",
-            "feed": "esakal",
-            "title": "२०८०मध्ये अमेरिका कशी दिसेल? शास्त्रज्ञांच्या अहवालातून धक्कादायक खुलासा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-02T12:44:19",
-            "url": "https://www.esakal.com/ampstories/web-story/what-will-america-look-in-2080-shocking-revelation-from-scientific-report-of-us-changes-after-50-years-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/3unk1ndk/America-Look-In-2080.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "cf300a587479",
+            "id": "9a034fccfd93",
             "feed": "lokmat",
-            "title": "अमेरिकेचा मोठा निर्णय! व्हिसासाठी ५० देशांवर २० हजार डॉलरपर्यंतच्या बाँडची अट; भारताला मोठा दिलासा",
+            "title": "लग्नानंतर आईबाबांचं ऐकायचं की नवऱ्याचं? नव्या नवरीला पेचात पाडणाऱ्या प्रश्नाचं खरंखुरं उत्तर...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-02T20:05:01",
+            "url": "https://www.lokmat.com/sakhi/photos/sex-relationship/how-to-balance-husband-and-parents-husband-or-parents-after-marriage-who-should-a-woman-listen-to-after-marriage-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-balance-husband-and-parents-feature-image_2026081754939.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "9e8f9c40587a",
+            "feed": "lokmat",
+            "title": "बांगलादेशचे नवे राष्ट्रपती कोण? पीएम तारिक रहमान यांच्याकडे सोपवली उमेदवाराची जबाबदारी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-08-02T12:09:00",
-            "url": "https://www.lokmat.com/international/americas-big-decision-50-countries-to-require-a-bond-of-up-to-20000-for-visas-big-relief-for-india-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/america-visa_2026081754700.jpg",
+            "published": "2026-08-02T17:19:10",
+            "url": "https://www.lokmat.com/international/who-is-the-new-president-of-bangladesh-pm-tariq-rahman-entrusted-with-the-responsibility-of-the-candidate-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tarique-rehman_2026081754893.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "37215e5712fc",
+            "id": "de4faaa0acdf",
             "feed": "esakal",
-            "title": "US Iran Tensions : मध्यपूर्वेतील युद्धाचे संकट टळले ! अमेरिकेने इराणवरील हल्ले तूर्तास थांबवले; डोनाल्ड ट्रम्प यांनी का घेतला निर्णय?",
+            "title": "'या' १० देशांमध्ये भारतीय वापरू शकतात UPI...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-02T11:47:39",
-            "url": "https://www.esakal.com/global/trump-delays-iran-attack-us-iran-tensions-middle-east-crisis-saudi-intervention-strait-of-hormuz-oil-impact-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/lvfa6nbe/maghar-1.jpg",
+            "published": "2026-08-02T17:11:47",
+            "url": "https://www.esakal.com/ampstories/web-story/ya-10-deshanmadhye-bhartiya-vapru-shakatat-upi-10-countries-where-indians-can-use-upi-upi-payment-upi-abroad-france-greece-singapore-and-uae-nepal-bhutan-sri-lanka-mauritius-qatar-cambodia-upi-in-spain-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-02/0f44i2fe/countries-where-Indians-can-use-UPI.png",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "7230a3beca54",
+            "feed": "maharashtratimes",
+            "title": "Indonesia fire : भर समुद्रात 271 जणांवर संकट कोसळलं, फेरी बोटीला भीषण आग, किंकाळ्या अन् आक्रोश, 5 जणांचा अंत, 41 बेपत्ता",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-08-02T17:03:43",
+            "url": "https://maharashtratimes.com/international/international-news/indonesia-ferry-boat-fire-five-dead-41-missing/articleshow/132805523.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0f473509b98c",
+            "feed": "lokmat",
+            "title": "कॅमेऱ्यात कैद झाला मृत्यूचा थरार! 'त्या' शेवटच्या फोटोत दिसले निर्मल पुर्जा अन् क्षणात बर्फाखाली गाडले गेले...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-02T16:51:55",
+            "url": "https://www.lokmat.com/international/last-photo-captured-before-avalanche-claimed-life-of-mountaineer-nirmal-purja-on-broad-peak-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mountaineer-nirmal-purja-dies_2026081754872.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "ef0e793b6df0",
+            "id": "be0f655fa3e8",
             "feed": "esakal",
-            "title": "VAIBHAV SOORYAVANSHI: वैभव सूर्यवंशीबाबत मोठी भविष्यवाणी! ‘एक दिवस भारताचा कर्णधार होईल’; दुलीप ट्रॉफीत उपकर्णधारपद देण्यामागे मोठं कारण",
+            "title": "Dhoni - Pant: धोनी चालवत होता गाडी अन् शेजारी बसला होता पंत! कॅप्टनकूलच्या मर्सिडिजमधून एकत्र बाहेर पडतानाचा Video Viral",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-02T14:45:28",
-            "url": "https://www.esakal.com/krida/cricket/15-year-old-vaibhav-sooryavanshi-future-india-captain-duleep-trophy-east-zone-vice-captain-big-prediction-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/tij9wmck/vaivhav-suryavanshi.jpg",
+            "published": "2026-08-02T19:47:13",
+            "url": "https://www.esakal.com/krida/cricket/rishabh-pant-ms-dhoni-spotted-driving-out-of-ranchi-farmhouse-in-mercedes-ahead-of-sri-lanka-test-series-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-02/olyky9mi/Rishabh-Pant-with-MS-Dhoni.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bf9550969cae",
-            "feed": "maharashtratimes",
-            "title": "Ajinkya Rahane Pension : अजिंक्य रहाणेला निवृत्तीनंतर महिन्याला पेन्शनमध्ये BCCIकडून किती पैसे मिळणार? कोणत्या खेळाडूंना पेन्शन लागू होत नाही?",
+            "id": "0a63b8955bc3",
+            "feed": "esakal",
+            "title": "IND vs SL : टीम इंडियासाठी श्रीलंका दौऱ्यातील प्लॅन ऐनवेळी बदलला! ४ दिवसांचा सामना ३ दिवसांतच संपणार",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-02T13:07:25",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/how-much-monthly-pension-will-ajinkya-rahane-receive-from-the-bcci-after-retiremen/articleshow/132800864.cms",
-            "image": "",
+            "published": "2026-08-02T19:13:52",
+            "url": "https://www.esakal.com/krida/cricket/india-warm-up-match-against-sri-lanka-xi-shortened-to-three-days-ahead-of-test-series-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-02/tmwgeluo/India-Test-Team.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "59ed4e8d5a50",
-            "feed": "lokmat",
-            "title": "CWG 2026 : नोकरीसाठी धावण्याची 'कसरत' ते राष्ट्रकुल 'डबल मेडलिस्ट'; गुलवीर सिंहच्या प्रेरणादायी प्रवासाची गोष्ट",
+            "id": "1a04df8a00c3",
+            "feed": "esakal",
+            "title": "Abhishek Sharma: २५ षटकार, १५ चौकार अन् २३३ धावा... अभिषेक शर्माचं वादळी द्विशतक; पाहा Video",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
             },
-            "published": "2026-08-02T13:05:46",
-            "url": "https://www.lokmat.com/other-sports/cwg-2026-inspiring-story-of-gulveer-singh-from-army-dreams-to-glasgow-commonwealth-games-2026-h-becomes-indias-first-double-medalist-in-athletics-silver-and-bronze-repestive-10000m-and-5000-m-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nspiring-story-of-gulveer-singh-from-army-dreams-to-glasgow-commonwealth-gamesm_2026081754719.jpg",
+            "published": "2026-08-02T18:36:50",
+            "url": "https://www.esakal.com/krida/cricket/abhishek-sharma-smashes-233-off-91-balls-in-punjab-inter-district-tournament-video-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-02/9s37g0he/Abhishek-Sharma-Hits-Double-Century.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "8e80869b8566",
+            "id": "748eabe1c926",
             "feed": "lokmat",
-            "title": "Soybean Crop Management : सोयाबीनचा दुसरा महिना ठरतो निर्णायक! 'या' चुका टाळल्या तर उत्पादन वाढणार",
+            "title": "Maharashtra Rain : ऑगस्टमध्ये पाऊस विश्रांती घेणार का बरसणार, वाचा जिल्हानिहाय पावसाचा हवामान अंदाज",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-02T14:35:08",
-            "url": "https://www.lokmat.com/agriculture/smart-farming/latest-news-soybean-crop-management-the-second-month-of-soybean-is-decisive-if-you-avoid-these-mistakes-production-will-increase-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/soybean-crop-management-1_2026081754754.jpg",
+            "published": "2026-08-02T19:33:05",
+            "url": "https://www.lokmat.com/agriculture/weather/latest-news-maharashtra-rain-how-will-the-rain-be-in-month-of-august-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/paus-jor_2026081754941.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "db2ffe5ec493",
-            "feed": "maharashtratimes",
-            "title": "RBI चा महत्वाचा नियम; कर्ज बुडवणाऱ्यांसाठी धोक्याची घंटा, 'मालमत्ता एकदा हातून निसटली, तर पुन्हा मिळवता येणार नाही'",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-02T14:23:39",
-            "url": "https://maharashtratimes.com/business/business-news/rbi-loan-default-rules-about-loan-recovery/articleshow/132803700.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "59fa5358d694",
+            "id": "b08db71cb63b",
             "feed": "lokmat",
-            "title": "Gas Cylinder : व्यावसायिक सिलिंडरच्या किमतीत 192 रुपयांची कपात, आता किती रुपयांना सिलेंडर मिळणार?",
+            "title": "Nashik Dam Storage : गंगापूर, गिरणा, दारणा धरणे किती टक्क्यांवर आली, वाचा नाशिक जिल्ह्याचा पाणीसाठा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-02T13:40:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-news-gas-cylinder-prices-commercial-cylinder-price-reduced-by-rs-192-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gas-cyli_2026081754698.jpeg",
+            "published": "2026-08-02T19:05:01",
+            "url": "https://www.lokmat.com/agriculture/weather/latest-news-gangapur-girna-darna-dams-water-level-read-the-water-storage-of-nashik-district-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-02-at-5.02.21-pm_2026081754919.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "e37663279ce4",
+            "feed": "lokmat",
+            "title": "Agriculture News : हतनूर, अनेर धरणातून मोठा विसर्ग, तापी नदीच्या बॅकवॉटरने शेकडो एकर शेती जलमय",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-02T18:50:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/huge-discharge-from-hatnur-aner-dams-hundreds-of-acres-of-farmland-flooded-by-backwaters-of-tapi-river-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tapi-rivs_2026081754913.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
