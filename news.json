@@ -1,185 +1,201 @@
 {
-    "lastUpdated": "03-08-2026 | 04:30 PM IST",
+    "lastUpdated": "03-08-2026 | 10:59 PM IST",
     "maharashtra": [
         {
-            "id": "eca8029ee767",
+            "id": "7e49022fa8ca",
+            "feed": "esakal",
+            "title": "CCMP BHMS Registration : सीसीएमपी-बीएचएमएस नोंदणीला राज्य सरकारचा हिरवा कंदील; आयएमएकडून राज्यव्यापी सेवा बंदची घोषणा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-03T22:57:10",
+            "url": "https://www.esakal.com/pune/maharashtra-government-approves-ccmp-bhms-registration-mmc-ima-statewide-medical-services-strike-modern-pharmacology-doctors-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-03/5omjadzu/Esakal-28.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "32c569816511",
+            "feed": "esakal",
+            "title": "PMC Development : स्वच्छतागृहे दुरुस्तीऐवजी पाडण्यावर नगरसेवकांचा भर; ५५ प्रस्ताव नव्या बांधकामासाठी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-03T22:46:22",
+            "url": "https://www.esakal.com/pune/pune-municipal-corporation-public-toilets-demolition-proposals-reconstruction-women-and-child-welfare-committee-mhatre-bridge-toilet-leakage-vivek-velankar-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2024-08-23/uosplucr/pune%20municipal%20corporation.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "cd6fdd1ea1be",
             "feed": "lokmat",
-            "title": "'सर्वच क्षेत्रात वजन कमी झालं होतं, पण येणारा काळ आपलाच!'; तब्येत अन् मंत्रीपदावर धनंजय मुंडेंचे मोठे वक्तव्य",
+            "title": "VIDEO: मुळा-मुठा नदीच्या पुरात दुचाकीस्वार गेला वाहून; उरुळी कांचनजवळील धक्कादायक घटना कॅमेऱ्यात कैद",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-03T22:44:25",
+            "url": "https://www.lokmat.com/pune/senior-citizen-swept-away-in-mula-mutha-river-in-uruli-kanchan-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mula-mutha-river_2026081755684.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8adef33905af",
+            "feed": "esakal",
+            "title": "Crime News : माहूरवरून परतणाऱ्या नवविवाहितांवर थरारक हल्ला; नववधूसह दोन लाखांची रोकड लंपास",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-03T16:23:25",
-            "url": "https://www.lokmat.com/beed/my-weight-reduced-in-all-fields-but-future-belongs-to-us-dhananjay-munde-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dhananjay-munde-beed-pankaja-m-fea_2026081755422.jpg",
+            "published": "2026-08-03T22:42:09",
+            "url": "https://www.esakal.com/vidarbha/mahur-newlywed-couple-attacked-sarakhani-phata-two-lakh-cash-looted-bride-absconds-with-suspects-pusad-yavatmal-marriage-fraud-gang-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2024-07/d8c47ae5-7633-4225-a670-e18597cf9aa0/Uttar%20Maharashtra%20News%20(18).jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "5beb70acd350",
+            "id": "5072d5aecbb8",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : २३ व्या फेरीनंतर प्रशांत किशोर १३२६९ मतांनी आघाडीवर, विजय जवळपास निश्चित",
+            "title": "Karad News : मतदारयादी सखोल पुनरिक्षणात कऱ्हाड दक्षिणची बाजी; पुणे विभागात प्रथम",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-03T16:18:36",
-            "url": "https://www.esakal.com/maharashtra/marathi-news-live-update-03-august-2026-parliament-monsoon-session-neet-mpsc-exam-pm-narendra-modi-rahul-gandhi-abhijeet-dipke-maharashtra-freedom-of-religion-act-maratha-andolan-weather-imd-khadakwasla-koyna-dam-cm-devendra-fadnavis-farm-loan-waiver-mumbai-pune-traffic-update-bam92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "711d6bc8c3f0",
-            "feed": "esakal",
-            "title": "Consumer Awareness: जाहिरातींवर ७.४८ कोटी खर्चाचा आराखडा; ग्राहक संघटनांना बगल देण्यावर अखिल भारतीय ग्राहक पंचायतीचा तीव्र निषेध",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-03T16:16:40",
-            "url": "https://www.esakal.com/pune/akhil-bharatiya-grahak-panchayat-demands-consumer-awareness-through-registered-organisations-instead-of-crores-on-advertisements-chhagan-bhujbal-media-plan-2026-27-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2022-12/2f3d7dd0-fde5-4c0c-b904-4f4d9eb806cc/Untitled__1200___675_px____2022_12_24T091721_294.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "84c48d1cc2f1",
-            "feed": "maharashtratimes",
-            "title": "Aaditya Thackeray | SRA कार्यालयात रोहित पवारांची भेट, भेटीत नेमकं काय घडलं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-03T16:08:34",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/rohit-pawar-visits-the-sra-office-what-exactly-transpired-during-the-meeting/videoshow/132828490.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7ae5800a5625",
-            "feed": "lokmat",
-            "title": "आदासा ओपन कास्ट कोळसा खाणीच्या स्फोटांमुळे घरांना तडे, शाळा धोक्यात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-03T16:06:10",
-            "url": "https://www.lokmat.com/nagpur/adasa-open-cast-coal-mine-explosions-cause-cracks-in-houses-schools-in-danger-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-43_2026081755396.jpg",
+            "published": "2026-08-03T22:24:19",
+            "url": "https://www.esakal.com/satara/karhad-south-assembly-constituency-first-in-pune-division-to-complete-100-percent-special-intensive-revision-sir-voter-list-election-commission-maharashtra-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-03/gdljtnd8/Esakal-27.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "f9331110e401",
+            "id": "876c77610651",
             "feed": "esakal",
-            "title": "Astrology: १८ सप्टेंबरपर्यंत ग्रहांचा मोठा खेळ;  'या' राशींवर होणार पैशांचा आणि यशाचा वर्षाव!",
+            "title": "दारू विक्रेता मद्य विकून खूप पैसा कमावतो, सत्य की गैरसमज? जाणून घ्या कमाईचं संपूर्ण गणित...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-03T16:28:41",
-            "url": "https://www.esakal.com/culture-and-religion/astrology-mars-rahu-transit-till-18-september-these-5-zodiac-signs-will-get-money-success-and-career-benefits-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-03/ostds35s/Mars-Rahu-effect-on-zodiac-signs.jpg",
+            "published": "2026-08-03T22:45:46",
+            "url": "https://www.esakal.com/ampstories/web-story/how-much-do-liquor-shop-owners-actually-earn-know-profit-margins-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-03/j9yra5tw/Do-Liquor-Stores-Earn-Big-Heres-What-the-Numbers-Say.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "52de6a652735",
+            "id": "1ea2e889e8d5",
             "feed": "lokmat",
-            "title": "Vasai: वसईत तब्बल २ कोटी ६ लाखांची व्हेल माशाची उलटी जप्त, आंतरराज्यीय टोळीतील पाच जणांना अटक",
+            "title": "उद्धव ठाकरे गटाला मोठा धक्का! जिल्ह्यातील अनेक पदाधिकारी, कार्यकर्त्यांचा भाजपामध्ये प्रवेश",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-03T16:24:21",
-            "url": "https://www.lokmat.com/vasai-virar/whale-vomit-smuggling-racket-busted-in-vasai-police-seize-ambergris-worth-rs206-crore-5-arrested-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vasai-police-station-1_2026081755428.jpg",
+            "published": "2026-08-03T21:50:28",
+            "url": "https://www.lokmat.com/vashim/big-blow-to-uddhav-thackeray-group-many-office-bearers-workers-from-washim-district-join-bjp-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ubt-0308_2026081755679.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "f095e60bd9d1",
+            "id": "98e09d1afc41",
             "feed": "esakal",
-            "title": "Crime News: टीव्ही पाहताना चुकून चॅनेल बदललं; पत्नीला संताप अनावर, विळा उचलला अन्... पतीसोबत धक्कादायक कृत्य घडलं",
+            "title": "Prashant Kishor: बंगला बदलल्याने नशीब बदललं? प्रशांत किशोर यांनी भाजपचा 30 वर्षांचा गड कसा केला उद्ध्वस्त?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-03T16:23:43",
-            "url": "https://www.esakal.com/desh/wife-attacked-her-husband-with-sickle-after-he-changed-tv-channel-in-bhopal-crime-news-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-03/2r07p0us/TV-Remote-Fight.jpg",
+            "published": "2026-08-03T21:47:17",
+            "url": "https://www.esakal.com/desh/prashant-kishor-bankipur-by-election-win-jan-suraaj-bihar-politics-bjp-defeat-danapur-ashram-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-03/dmd5jwyw/Latest-Marathi-Breaking-News-2026-08-03T214251.186.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "2ea2dec56a08",
-            "feed": "maharashtratimes",
-            "title": "Kangana Ranaut: मुस्लिम मुलासोबत लग्न केल्यानंतर हिंदू मुली डाव्या विचारसरणीकडे वळतात,  मी 'संघी' का होऊ नये? कंगना रणौत स्पष्टच बोलली",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-03T16:21:03",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/kangana-ranaut-latest-cryptic-post-slams-actress-who-married-to-muslim/articleshow/132826598.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "26de907dfb2d",
+            "id": "329211f83ff3",
             "feed": "lokmat",
-            "title": "नेत्याला मंत्रिपद मिळालं नाही, निराश समर्थकाने केलं विषप्राशन, प्रकृती गंभीर",
+            "title": "कर्नाटक मंत्रिमंडळाचा विस्तार! १९ नव्या मंत्र्यांचा शपथविधी, एकमेव महिला आमदाराला शेवटच्या क्षणी ब्रेक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-03T16:19:01",
-            "url": "https://www.lokmat.com/national/in-karnataka-leader-did-not-get-ministerial-post-disappointed-supporter-consumed-poison-condition-critical-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/karnataka-congress-news-1_2026081755410.jpg",
+            "published": "2026-08-03T21:37:52",
+            "url": "https://www.lokmat.com/national/karnataka-cabinet-expansion-19-mlas-sworn-in-as-ministers-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/karnataka-cabinet-expansion_2026081755677.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "4ba2eb656f9e",
+            "feed": "esakal",
+            "title": "पेट्रोल-डिझेल आणखी महागणार? केंद्र सरकारने विंडफॉल कराच्या दरात केली मोठी वाढ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-03T21:35:44",
+            "url": "https://www.esakal.com/sakal-money/india-government-increases-windfall-tax-on-petrol-and-diesel-exports-will-fuel-prices-rise-in-india-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-03/pq3amuon/Government-Increases-Windfall-Tax-on-Fuel-Exports",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "world": [
         {
-            "id": "0967afb71c0c",
+            "id": "93775e238a38",
             "feed": "lokmat",
-            "title": "PoKमध्ये राजकारण तापलं! निवडणूक निकालात हिंसाचार?, दुसऱ्या टप्प्यातही नवाझ शरीफची बाजी",
+            "title": "घटस्फोट झाला तर रोनाल्डो होईल कंगाल! द्यावे लागणार तब्बल 'इतके' कोटी; जॉर्जियाने लग्नाआधीच केला करार?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-08-03T16:01:17",
-            "url": "https://www.lokmat.com/international/politics-heats-up-in-pok-violence-in-election-results-nawaz-sharif-wins-in-the-second-phase-too-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pok-sharif-0308_2026081755393.jpg",
+            "published": "2026-08-03T21:19:12",
+            "url": "https://www.lokmat.com/photos/international/cristiano-ronaldo-marriage-news-if-he-divorces-georgina-rodriguez-he-will-have-to-pay-in-crores-reports-about-pre-marriage-agreement-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ronaldo-georgina-marriage-0308-ft_2026081755673.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "a644bd24fa3b",
+            "feed": "maharashtratimes",
+            "title": "Donald Trump U-Turn : मध्य पूर्वेत तणाव, अरबांच्या दबावानंतर ट्रम्पची पुन्हा माघार, इराण आक्रमक",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-03T18:44:59",
+            "url": "https://maharashtratimes.com/video/mt-originals/donald-trump-u-turn/videoshow/132832980.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
         },
         {
             "id": "ba1cd97e31a7",
@@ -228,122 +244,106 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-03/o7xrypc4/wamandada-kardak-fiyat-gadi-song-9.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "4a1325ec5523",
-            "feed": "esakal",
-            "title": "World Breastfeeding Week: जन्मानंतर लगेच एक तासात स्तनपान का सुरू करायचं असतं? तज्ज्ञांनी सांगितलं 'हे' मोठं कारण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-03T13:05:42",
-            "url": "https://www.esakal.com/health/world-breastfeeding-week-why-mother-should-start-breastfeeding-within-one-hour-after-birth-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-03/l9j4p39g/World-Breastfeeding-Week.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "d207aa902e67",
+            "id": "7dc4f18cbf79",
+            "feed": "lokmat",
+            "title": "Duleep Trophy 2026-27 : वैभव सूर्यवंशीपासून ऋतुराजपर्यंत स्टार्स सज्ज; कोण कधी, कुणाविरुद्ध भिडणार? संपूर्ण वेळापत्रक एका क्लिकवर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-03T22:40:35",
+            "url": "https://www.lokmat.com/cricket/news/duleep-trophy-2026-27-6-team-squads-full-match-schedule-format-dates-ruturaj-gaikwad-ishan-kishan-tilak-varma-rajat-patidar-vaibhav-suryavanshi-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/duleep-trophy-2026-27-6-team-squads-full-match-schedule-m_2026081755682.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "65c250eea50c",
             "feed": "maharashtratimes",
-            "title": "Team India : शुभमन-गंभीर प्रचंड नाराज, बीसीसीआय ॲक्शन मोडमध्ये, श्रीलंका मालिकेनंतर 4 वर्षांपूर्वीच संघात आलेल्या दिग्गजाचा पत्ता कटणार?",
+            "title": "Team India Coach : दोन वर्ल्डकप, चॅम्पियन्स ट्रॉफी अन् आशिया कप जिंकून दिले, टीम इंडियाच्या  कोचचा मध्येच निरोप! भावुक इन्स्टाग्राम पोस्ट चर्चेत",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-03T15:44:16",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-injuries-bcci-review-physio-kamlesh-jain-after-sri-lanka-series-gautam-gambhir-shubhaman-gill/articleshow/132826561.cms",
+            "published": "2026-08-03T22:02:33",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-fielding-coach-t-dilip-emotional-farewell-post-after-bcci-exit/articleshow/132836302.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b849f9352e7f",
-            "feed": "lokmat",
-            "title": "PAK vs WI 2nd Test : आधी गोलंदाजीत कहर; आता फलंदाजीत धमाका! Justin Greaves नं पाकचं टेन्शन वाढवलं",
+            "id": "50a764f3116b",
+            "feed": "maharashtratimes",
+            "title": "Glasgow CWG 2026 : 6 खेळ रद्द, तरीही कॉमनवेल्थमध्ये बाप ठरत 13 गोल्ड अन् 39 पदकांसह भारताची कितव्या स्थानावर उडी?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-03T15:11:13",
-            "url": "https://www.lokmat.com/cricket/news/pak-vs-wi-2nd-test-justin-greaves-unbeaten-64-steers-west-indies-to-safety-on-rain-hit-day-1-babar-azams-pakistan-under-pressure-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pak-vs-wi-2nd-test-justin-greaves-unbeaten-64-steers-west-indies-vs-pakistan-m_2026081755307.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7fe3a92f17e4",
-            "feed": "esakal",
-            "title": "Team India New Coach: गौतम गंभीरच्या टीममध्ये मोठा बदल! श्रीलंका दौऱ्यापूर्वी भारतीय संघासाठी नव्या कोचची घोषणा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-03T14:50:45",
-            "url": "https://www.esakal.com/krida/cricket/subhadeep-ghosh-replaces-t-dilip-as-india-fielding-coach-sri-lanka-tests-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-03/sn32ljeh/Team-India-Coach.jpg",
+            "published": "2026-08-03T20:45:13",
+            "url": "https://maharashtratimes.com/sports/commonwealth-games/news/glasgow-commonwealth-games-2026-india-final-medal-tally-39-medals-13-gold-boxing-judo-athletics-success/articleshow/132835047.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "55018d47203b",
-            "feed": "lokmat",
-            "title": "भारीच! ४० लाखांचं कर्ज, अर्धवट शिक्षण अन् आईची 'ती' आयडिया; आता वर्षाला ८० लाखांची कमाई",
+            "id": "3c9508211600",
+            "feed": "maharashtratimes",
+            "title": "Crude Oil : कच्च्या तेलाच्या किमती घसरताच सरकारने वाढवला इंधनांवरचा टॅक्स; तेल कंपन्यांवर वाढला भार, सर्वसामान्यांचं काय?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-03T16:26:04",
-            "url": "https://www.lokmat.com/social-viral/farmers-son-avinash-mada-dropped-out-btech-course-start-business-repay-40-lakh-debt-now-earns-80-lakh-per-year-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/avinash-mada_2026081755431.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "43a4ce46213b",
-            "feed": "lokmat",
-            "title": "तुमचंही ट्रॅक्टर अनुदान अडकलं, कृषि यांत्रिकीकरणचा निधी वितरणास मंजुरी, कधीपासून वाटप?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-03T16:24:28",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-tractor-scheme-subsidy-approval-for-distribution-of-agricultural-mechanization-funds-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yantrik_2026081755415.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "364317168c38",
-            "feed": "lokmat",
-            "title": "ट्रम्प यांच्या घोषणेनंतर शेअर बाजारात जोरदार तेजी; सेन्सेक्स ५४४, तर निफ्टी ३९० अंकांनी वधारला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-03T16:23:53",
-            "url": "https://www.lokmat.com/business/stock-market/stock-market-surges-after-trumps-announcement-sensex-rises-544-points-nifty-390-points-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/market-closing-3-july_2026081755426.jpg",
+            "published": "2026-08-03T21:39:23",
+            "url": "https://maharashtratimes.com/business/business-news/excise-duty-increase-on-petrol-diesel-and-atf-by-government/articleshow/132836100.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "bf6d281daf73",
+            "feed": "maharashtratimes",
+            "title": "SEBI चा नवीन नियम म्हणजे 'खरा पावरहाऊस'; फक्त पद्धत बदलली अन् निफ्टीने घेतली थेट 200 अंकांची मोठी झेप",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-03T19:59:51",
+            "url": "https://maharashtratimes.com/business/business-news/sebi-new-cas-leads-to-big-jumped-of-nifty-around-200-points/articleshow/132834379.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0fd0b491bcde",
+            "feed": "lokmat",
+            "title": "बोगस बियाण्यांमुळे दीड लाखांचं नुकसान, कृषी केंद्राने हात वर केले, कृषी विभागाकडे तक्रार, पण....",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-03T19:40:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-loss-of-15-lakh-rupees-due-to-bogus-seeds-agriculture-center-raises-hands-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bb-biyane_2026081755452.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
