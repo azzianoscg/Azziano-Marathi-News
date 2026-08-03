@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "03-08-2026 | 10:59 PM IST",
+    "lastUpdated": "04-08-2026 | 03:19 AM IST",
     "maharashtra": [
+        {
+            "id": "7c161275e1dc",
+            "feed": "lokmat",
+            "title": "कन्हान नदीत सापडला महिलेचा मृतदेह; घातपाताचा संशय",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-03T23:42:17",
+            "url": "https://www.lokmat.com/nagpur/woman-body-found-floating-in-kanhan-river-near-nagpur-a-a877-c1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/death-dsdw-swrw_2026061720714.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9afbc0a6f0d5",
+            "feed": "lokmat",
+            "title": "कोचिंग क्लासमधून १६ वर्षीय विद्यार्थिनी बेपत्ता; अपहरणाचा गुन्हा दाखल करून शोध सुरु",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-03T23:26:29",
+            "url": "https://www.lokmat.com/nagpur/16-year-old-student-goes-missing-from-coaching-class-a-a877-c1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-police-transfer4_2026061728747.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "11a6078445f4",
+            "feed": "maharashtratimes",
+            "title": "Girish Mahajan : कथित ऑडिओ क्लिपमध्ये खडसे कुटुंबियांबद्दल आक्षेपार्ह शब्द, पत्रकारांची विचारणा, गिरीश महाजन यांचा काढता पाय",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-03T23:07:27",
+            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/girish-mahajan-on-viral-audio-clip-of-vijay-chaudhari/articleshow/132838210.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "7e49022fa8ca",
             "feed": "esakal",
@@ -32,57 +80,57 @@
             "image": "https://cf-images.assettype.com/esakal/2024-08-23/uosplucr/pune%20municipal%20corporation.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "cd6fdd1ea1be",
-            "feed": "lokmat",
-            "title": "VIDEO: मुळा-मुठा नदीच्या पुरात दुचाकीस्वार गेला वाहून; उरुळी कांचनजवळील धक्कादायक घटना कॅमेऱ्यात कैद",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-03T22:44:25",
-            "url": "https://www.lokmat.com/pune/senior-citizen-swept-away-in-mula-mutha-river-in-uruli-kanchan-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mula-mutha-river_2026081755684.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8adef33905af",
+            "id": "648d7540d085",
             "feed": "esakal",
-            "title": "Crime News : माहूरवरून परतणाऱ्या नवविवाहितांवर थरारक हल्ला; नववधूसह दोन लाखांची रोकड लंपास",
+            "title": "पावसाळ्यात स्टीम केलेले मोमोज का ठरू शकतात चांगला पर्याय?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-03T22:42:09",
-            "url": "https://www.esakal.com/vidarbha/mahur-newlywed-couple-attacked-sarakhani-phata-two-lakh-cash-looted-bride-absconds-with-suspects-pusad-yavatmal-marriage-fraud-gang-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2024-07/d8c47ae5-7633-4225-a670-e18597cf9aa0/Uttar%20Maharashtra%20News%20(18).jpg",
+            "published": "2026-08-04T03:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/steamed-momos-in-monsoon-why-they-can-be-a-good-option-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-03/r9lfl2xa/1.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "5072d5aecbb8",
+            "id": "951d9b87dec5",
             "feed": "esakal",
-            "title": "Karad News : मतदारयादी सखोल पुनरिक्षणात कऱ्हाड दक्षिणची बाजी; पुणे विभागात प्रथम",
+            "title": "कॉफी पिल्याने खरंच कोलेस्ट्रॉल कमी होते का?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-03T22:24:19",
-            "url": "https://www.esakal.com/satara/karhad-south-assembly-constituency-first-in-pune-division-to-complete-100-percent-special-intensive-revision-sir-voter-list-election-commission-maharashtra-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-03/gdljtnd8/Esakal-27.png",
+            "published": "2026-08-03T23:35:11",
+            "url": "https://www.esakal.com/ampstories/web-story/does-coffee-really-lower-cholesterol-black-coffee-filtered-coffee-and-heart-health-explained-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-03/d4nf6l6p/4.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
+            "category_reason": "default"
+        },
+        {
+            "id": "47cb75b5dfa9",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 4 August 2026: द्विग्रह योग, नवम पंचम योग, गजकेसरी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-03T23:17:40",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-4-august-2026-in-marathi-dwigraha-yog-navam-pancham-yog-gajkesari-yoga-and-shubha-muhurta/articleshow/132838208.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "876c77610651",
             "feed": "esakal",
@@ -114,57 +162,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ubt-0308_2026081755679.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "98e09d1afc41",
-            "feed": "esakal",
-            "title": "Prashant Kishor: बंगला बदलल्याने नशीब बदललं? प्रशांत किशोर यांनी भाजपचा 30 वर्षांचा गड कसा केला उद्ध्वस्त?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-03T21:47:17",
-            "url": "https://www.esakal.com/desh/prashant-kishor-bankipur-by-election-win-jan-suraaj-bihar-politics-bjp-defeat-danapur-ashram-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-03/dmd5jwyw/Latest-Marathi-Breaking-News-2026-08-03T214251.186.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "329211f83ff3",
+            "id": "84a9a4901952",
             "feed": "lokmat",
-            "title": "कर्नाटक मंत्रिमंडळाचा विस्तार! १९ नव्या मंत्र्यांचा शपथविधी, एकमेव महिला आमदाराला शेवटच्या क्षणी ब्रेक",
+            "title": "'अज्ञात बंदूकधाऱ्यां'ची पाकिस्तानात दहशत; ३० हून अधिक दहशतवादी ठार, कमांडरची जाहीर कबुली",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": "world"
             },
-            "published": "2026-08-03T21:37:52",
-            "url": "https://www.lokmat.com/national/karnataka-cabinet-expansion-19-mlas-sworn-in-as-ministers-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/karnataka-cabinet-expansion_2026081755677.jpg",
+            "published": "2026-08-03T23:19:18",
+            "url": "https://www.lokmat.com/international/let-operative-confesses-over-30-terrorists-killed-in-pakistan-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hanif-let_2026081755685.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
-        {
-            "id": "4ba2eb656f9e",
-            "feed": "esakal",
-            "title": "पेट्रोल-डिझेल आणखी महागणार? केंद्र सरकारने विंडफॉल कराच्या दरात केली मोठी वाढ",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-03T21:35:44",
-            "url": "https://www.esakal.com/sakal-money/india-government-increases-windfall-tax-on-petrol-and-diesel-exports-will-fuel-prices-rise-in-india-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-03/pq3amuon/Government-Increases-Windfall-Tax-on-Fuel-Exports",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "world": [
         {
             "id": "93775e238a38",
             "feed": "lokmat",
@@ -226,22 +242,6 @@
             "published": "2026-08-03T14:54:43",
             "url": "https://www.esakal.com/ampstories/web-story/british-rule-defier-creator-of-pratisarkar-krantisinh-nana-patil-krantisinh-nana-patil-british-terror-and-pratisarkar-architect-who-made-british-flee-and-built-pratisarkar-sam01",
             "image": "https://cf-images.assettype.com/esakal/2026-08-03/0ckaph7d/nana-patil-3.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "7c01d5c4c8bf",
-            "feed": "esakal",
-            "title": "५० वर्षांपूर्वी लिहिलेलं 'फियाट गाडी' गाणं कुणाचं? पत्र वाचू न शकल्यानं आलेलं रडू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-03T13:33:22",
-            "url": "https://www.esakal.com/ampstories/web-story/who-wrote-the-fiat-gadi-song-viral-after-50-years-know-poet-vamandada-kardak-inspiring-life-and-legacy-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-03/o7xrypc4/wamandada-kardak-fiyat-gadi-song-9.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
