@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "04-08-2026 | 01:18 PM IST",
+    "lastUpdated": "04-08-2026 | 09:51 PM IST",
     "maharashtra": [
         {
-            "id": "ea87e0f31a2a",
+            "id": "f473bc30c9b5",
+            "feed": "esakal",
+            "title": "Digital Arrest: ‘डिजिटल ॲरेस्ट’च्या नावाने ज्येष्ठ नागरिकाला १९.४५ लाखांचा गंडा; सायबर चोरट्यांविरुद्ध डेक्कन पोलिसांत गुन्हा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-04T21:44:09",
+            "url": "https://www.esakal.com/pune/pune-digital-arrest-cyber-fraud-retired-government-employee-loses-rs19-lakh-deccan-police-bank-account-terror-fake-call-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-28/3gh12ztw/Digital-Arrest.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f99c63448e54",
+            "feed": "maharashtratimes",
+            "title": "Sunetra Pawar : खपवून घेणार नाही, काँग्रेसने माफी मागावी, प्रफुल्ल पटेल आणि सुनील तटकरे संतापले",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-04T21:29:08",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/praful-patel-and-sunil-tatkare-reaction-on-congress-slams-sunetra-pawar/articleshow/132866578.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8e45d9f33c3d",
+            "feed": "maharashtratimes",
+            "title": "Sunetra Pawar : 'तुमच्या सुनेला काँग्रेसचा प्रदेशाध्यक्ष एवढं घाणेरडं बोलत आहे', संजय काकडे यांचं शरद पवारांना आवाहन",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-04T20:53:58",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/sanjay-kakade-appeal-sharad-pawar-over-congress-slams-sunetra-pawar/articleshow/132865987.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1baf220fd7c6",
             "feed": "lokmat",
-            "title": "'त्या' रेस्टॉरंटचे आर्थिक नुकसान भरून द्यावे लागेल; मुंबई उच्च न्यायालयाचा एफडीएला इशारा",
+            "title": "Top Marathi News Live: उदयनिधी स्टॅलिन पोलीस ठाण्यातून बाहेर पडले, कार्यकर्त्यांचा एकच जल्लोष",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-04T13:06:37",
-            "url": "https://www.lokmat.com/mumbai/that-restaurant-will-have-to-pay-for-its-financial-loss-bombay-high-court-warns-fda-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bombay-high-court-fda-tukaram-mundhe_2026081755949.jpg",
+            "published": "2026-08-04T20:45:03",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-4-august-2026-parliament-session-pm-narendra-modi-amit-shah-cm-devendra-fadnavis-cockroach-janata-party-rahul-gandhi-abhijeet-dipke-prashant-kishore-victory-us-iran-talks-donald-trump-arvind-kejriwal-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1577d2c3588e",
-            "feed": "maharashtratimes",
-            "title": "धनंजय मुंडेंची गुंडासारखी दमदाटी; रोहित पवार संतापले, काँग्रेसच्या सुनेत्रा पवारांवरील टीकेला उत्तर",
+            "id": "3ecfd4cb42ad",
+            "feed": "lokmat",
+            "title": "मुंबईकरांची प्रतीक्षा संपली! म्हाडाच्या २,६४० घरांची लॉटरी ६ ऑगस्टला; रंगशारदा सभागृहात निघणार सोडत",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-04T13:05:31",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/congress-calls-sunetra-pawar-gungi-gudiya-rohit-pawar-reacts/videoshow/132851893.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c55320a58723",
-            "feed": "maharashtratimes",
-            "title": "Nagpur Crime: 21 वर्षांचा संसार, प्रियकराच्या नादात पत्नीने पतीचा घेतला जीव, सिल्लोडमधील घटना",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-04T12:59:51",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/husband-brutally-killed-over-wife-extra-marital-affair-three-arrested-in-nagpur/articleshow/132850184.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "27b363b62753",
-            "feed": "esakal",
-            "title": "Wardha Road Accident: स्कूल व्हॅनला अपघात, सहा गंभीर; करंजी-काजी जवळील अपघात : जखमींवर रुग्णालयात उपचार सुरू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-04T12:49:54",
-            "url": "https://www.esakal.com/vidarbha/wardha-school-van-accident-karanji-kazi-students-injured-sevagram-hospital-road-safety-car-collision-investigation-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-04/l3k7vl1q/Abhi.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7a3db6c306b5",
-            "feed": "esakal",
-            "title": "Ladki Bahin Yojana: १५०० नाही ३००० मिळणार! लाडक्या बहिणींच्या खात्यात पैसे जमा होणार, पुढील हप्त्याबाबत महत्त्वाची माहिती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-04T12:42:51",
-            "url": "https://www.esakal.com/maharashtra/ladki-bahin-yojana-womens-will-received-rs-3000-on-day-of-raksha-bandhan-july-august-installment-update-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-04/x21nja2u/Ladki-Bahin-Yojana.jpg",
+            "published": "2026-08-04T20:40:02",
+            "url": "https://www.lokmat.com/mumbai/mhada-mumbai-lottery-2026-draw-for-2460-houses-to-take-place-on-august-6-at-rangsharda-auditorium-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mhada-lottery-thursday_2026081756453.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "a263ad7037db",
-            "feed": "lokmat",
-            "title": "बांकीपूरमध्ये PKविरोधात नितीश कुमार आणि लालू प्रसाद यादवही होते मैदानात, मिळाली एवढी मतं, डिपॉझिटही झालं जप्त",
+            "id": "3d015568059e",
+            "feed": "esakal",
+            "title": "इंदिरा गांधींना 'गुंगी गुडिया' कोणी म्हटलं होतं? काय होता नेमका किस्सा?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-08-04T13:09:55",
-            "url": "https://www.lokmat.com/national/nitish-kumar-and-lalu-prasad-yadav-were-also-in-the-fray-against-prashant-kishor-in-bankipur-received-so-many-votes-deposit-was-also-confiscated-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bankipur-by-election-1_2026081755950.jpg",
+            "published": "2026-08-04T21:40:41",
+            "url": "https://www.esakal.com/ampstories/web-story/who-called-indira-gandhi-gungi-gudiya-ram-manohar-lohia-real-story-indian-political-history-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-04/5hlh9wze/Who-Called-Indira-Gandhi-Gungi-Gudiya-1.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
-            "id": "c8418c5822e6",
+            "id": "09b7647eb8e7",
             "feed": "lokmat",
-            "title": "\"मी त्याच्यासाठी मुघलाई बनवेन...\" कंगना राणौतचा जुना व्हिडीओ तुफान व्हायरल, शोधत होती पाकिस्तानी नवरा!",
+            "title": "डार्क सर्कल्समुळे चेहरा डल झालाय? झोपताना 'ही' घरगुती क्रिम लावा, सकाळी डार्क सर्कल्स गायब",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-04T13:08:57",
-            "url": "https://www.lokmat.com/filmy/bollywood/kangana-ranaut-old-viral-video-about-marrying-pakistani-man-after-her-sanghi-bjp-rss-ideology-remarks-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kangana-ranaut-old-viral-video-about-marrying-pakistani-man_2026081755953.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "398cd612a823",
-            "feed": "maharashtratimes",
-            "title": "महाराष्ट्राच्या लाडक्या विनोदवीर कुशल बद्रिकेचं देखणं घर; घर घेताना झाली ‘पॉलिसी’ची तडजोड, पण गॅलरी डेकोरने जिंकलं मन",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-04T13:06:24",
-            "url": "https://maharashtratimes.com/lifestyle-news/home-decor-hacks/chala-hawa-yeu-dya-fame-kushal-badrike-home-decor-get-home-decor-ideas/articleshow/132851920.cms",
-            "image": "",
+            "published": "2026-08-04T21:25:46",
+            "url": "https://www.lokmat.com/sakhi/beauty/how-to-get-rid-of-dark-circles-easy-way-to-remove-dark-circles-homemade-cream-for-dark-circles-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-04-at-4.55.45-pm_2026081756458.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
             "id": "d4647aa31619",
             "feed": "esakal",
-            "title": "Marathi Live Updates News: शिक्षण, समाजसेवा आणि राष्ट्रनिर्मितीला वाहिलेले प्रेरणादायी व्यक्तिमत्त्व हरपले : उपमुख्यमंत्री सुनेत्रा अजित पवार",
+            "title": "Marathi Live Updates News: वारजेतील वडापाव सेंटरसह हॉटेलचा परवाना निलंबित",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-04T13:05:15",
+            "published": "2026-08-04T21:13:27",
             "url": "https://www.esakal.com/desh/trump-iran-hormuz-crisis-prashant-kishor-neet-paper-leak-ram-mandir-donation-e20-fuel-policy-march-parliament-delhi-app-protest-arvind-kejriwal-gen-z-rain-mumbai-pune-traffic-live-updates-srk94-snk89",
             "image": "https://cf-images.assettype.com/esakal/2026-07-04/3opcc2m1/live-update-maharashtra.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "6c627e6413e4",
+            "id": "b8206aab56b3",
+            "feed": "lokmat",
+            "title": "दुधीभोपळा बोअरिंग वाटतो? करुन पाहा ५ चविष्ट आणि पौष्टिक पदार्थ, रोज खाल दुधी आवडीने ...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-04T20:40:02",
+            "url": "https://www.lokmat.com/sakhi/photos/food/try-these-5-delicious-and-nutritious-recipes-made-of-bottle-gourd-healthy-food-a-a1009/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dudhi-bhopla-foods_2026081756365.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3d915359363d",
             "feed": "esakal",
-            "title": "महागड्या स्किनकेअरची गरज नाही! रोज हे पदार्थ खाल्ल्यास त्वचा दिसेल उजळ",
+            "title": "Yavatmal Farmer Loan Waive: कर्जमाफीची पहिली यादी जाहीर; यवतमाळच्या लाखो शेतकऱ्यांना दिलासा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-04T13:03:49",
-            "url": "https://www.esakal.com/ampstories/web-story/eat-these-foods-daily-for-naturally-glowing-skin-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-04/aom15m3v/shevga-Moringa-Oil-for-health-hair-Skin-1.jpg",
+            "published": "2026-08-04T20:38:56",
+            "url": "https://www.esakal.com/videos/httpswwwsakalmediacommaharashtrayavatmal-farmer-loan-waiver-first-list-101470-farmers-e-kyc-35000-farmers-waiting-loan-waiver-news",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-04/fnqtf6s8/maxresdefault-49.webp",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "6379fdab9bfc",
+            "id": "ebb3cd3a4d90",
             "feed": "lokmat",
-            "title": "World Breastfeeding Week 2026 : गरोदरपणातच करा १० गोष्टी, बाळ झाल्यावर स्तनपान होईल सोपं आणि स्ट्रेसफ्री आनंदाचं",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-04T13:05:11",
-            "url": "https://www.lokmat.com/sakhi/health/pregnancy/world-breastfeeding-week-2026-prepare-for-breastfeeding-in-pregnancy-10-things-you-must-know-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pregnancy-tips-for-successful-breastfeeding_2026081755943.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "83877cf192d3",
-            "feed": "lokmat",
-            "title": "\"पुन्हा नव्याने सुरुवात करायचीय...\", ब्रॉड पीकवर गिर्यारोहणाचं स्वप्न अधुरं; कोण होत्या सारा गेस?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-04T12:56:22",
-            "url": "https://www.lokmat.com/sakhi/social-viral/who-was-sarah-geis-mountaineer-sold-pilates-studio-before-fatal-broad-peak-expedition-with-nimsdai-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sarah-geis_2026081755940.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "e83c3ae9e4af",
-            "feed": "lokmat",
-            "title": "motivational story: १० व्या वर्षी कॉलेज, १८ व्या वर्षी थेट प्रोफेसर; तरुणाची गिनीज बुकमध्ये नोंद, ३०६ वर्षांचा विक्रम मोडला!",
+            "title": "इराणशी युद्ध पडलं महागात, अमेरिकेची जवळपास सगळी मिसाइल्स संपली, भविष्यात शत्रूने हल्ला केला तर...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-08-04T12:21:00",
-            "url": "https://www.lokmat.com/international/motivational-story-guinness-world-record-nathan-thomas-youngest-college-professor-breaks-306-year-old-record-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nathan-thomas-guinness-world-record-1_2026081755906.jpg",
+            "published": "2026-08-04T21:45:01",
+            "url": "https://www.lokmat.com/international/us-army-shortage-of-ammunition-long-range-precision-missile-stockpile-virtually-depleted-due-to-iran-war-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-sad-0408_2026081756464.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d6dda8368aae",
-            "feed": "lokmat",
-            "title": "CJP आंदोलन, Gen Z रस्त्यावर, तरीही भाजपा जोरदार मुसंडी मारेल; अमेरिकन एक्सपर्टचा मोठा दावा!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-04T12:15:14",
-            "url": "https://www.lokmat.com/international/cjp-movement-gen-z-on-the-streets-bjp-will-still-make-a-strong-push-an-american-expert-big-claim-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jantar-mantar-news-in-marathi_2026071749464.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dda29e46c2a7",
+            "id": "cd55ee20a4c3",
             "feed": "esakal",
-            "title": "आरोग्याचे ‘बाळ’कडू : स्तन्यपानाचे महत्त्व",
+            "title": "धोनीआधी भारताचा सर्वात चपळ विकेटकीपर कोण?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-04T08:20:00",
-            "url": "https://www.esakal.com/health/world-breastfeeding-week-importance-of-breastfeeding-benefits-for-baby-and-mother-exclusive-breastfeeding-dr-sanjay-janawale-health-marathi-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-03/57sd84da/Esakal-34.png",
+            "published": "2026-08-04T21:19:00",
+            "url": "https://www.esakal.com/ampstories/web-story/naren-tamhane-indias-first-great-wicketkeeper-man-who-picked-sachin-tendulkar-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-04/0rxc6sfb/India’s-First-Great-Wicketkeeper-10.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "59fa2eb354fd",
+            "feed": "esakal",
+            "title": "'होर्मुज'वर काही तासांत तोडगा निघणार? करार झाल्याचा अमेरिकेचा दावा; मध्यपूर्वेतील तणाव कमी होण्याची शक्यता",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-04T20:45:15",
+            "url": "https://www.esakal.com/global/strait-of-hormuz-us-iran-deal-scott-bessent-middle-east-tensions-shipping-route-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-04/ru1hqpuj/Latest-Marathi-Breaking-News-2026-08-04T204129.682.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "c352329976f8",
+            "feed": "maharashtratimes",
+            "title": "Pakistan deploys 250 Chinese howitzers : POK मध्ये protest, Al Jazeera banned, indo-pak सीमेवर तणाव",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-04T19:46:49",
+            "url": "https://maharashtratimes.com/video/mt-originals/pakistan-deploys-250-chinese-howitzers/videoshow/132864123.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "44a7fc7382ce",
+            "feed": "maharashtratimes",
+            "title": "इराणला जोडीदार मिळाला, होर्मुझमध्ये हालचालींना वेग; भारत संकटात, इंधन दर पेटण्याची चिन्हं",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-08-04T19:24:21",
+            "url": "https://maharashtratimes.com/international/international-news/iran-oman-close-in-on-strait-of-hormuz-deal-will-collect-service-fees/articleshow/132862494.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "6d5e770660a4",
-            "feed": "esakal",
-            "title": "PBKS च्या शशांक सिंगचा धक्कादायक निर्णय! म्हणाला, अपमान होत होता, IPL संपल्यानंतर अधिकाऱ्यांशी संवाद साधण्याचा प्रयत्न केला, पण...",
+            "id": "2d1976b6976d",
+            "feed": "lokmat",
+            "title": "...तर वीरेंद्र सेहवाग बनला असता टीम इंडियाचा हेडकोच! का नाही बनला? स्वतःच सांगितलं",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-04T13:05:08",
-            "url": "https://www.esakal.com/krida/cricket/pbks-batter-shashank-singh-leaves-chhattisgarh-set-to-represent-puducherry-in-domestic-cricket-for-2026-27-season-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-04/o5p2596v/Shashank-Singh-Puducherry-domestic-season-2026-27",
+            "published": "2026-08-04T21:44:51",
+            "url": "https://www.lokmat.com/cricket/news/so-virender-sehwag-could-have-become-the-head-coach-of-team-india-why-he-rejected-team-india-head-coach-offer-sehwag-reveals-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/virender-sehwag-ht_2026081756463.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "944def9ddf5f",
-            "feed": "esakal",
-            "title": "Duleep Trophy: टीम इंडियातून ब्रेक, तरीही दिलीप ट्रॉफीत अभिषेक शर्माला संधी नाही; उत्तर विभागाचा संघ जाहीर",
+            "id": "bd4c6131701d",
+            "feed": "lokmat",
+            "title": "रहाणेवरही द्रविडसारखीच वेळ आली! सुनील गावसकरांनी मांडलं भारतीय क्रिकेटचं वास्तव",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-04T13:03:19",
-            "url": "https://www.esakal.com/krida/cricket/duleep-trophy-2026-north-zone-squad-abhishek-sharma-prabhsimran-singh-left-out-arshdeep-singh-anshul-kamboj-selected-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-04/vxgzg2fv/abhishek-sharma-4.jpg",
+            "published": "2026-08-04T21:14:51",
+            "url": "https://www.lokmat.com/cricket/news/sunil-gavaskar-on-ajinkya-rahane-compare-to-rahul-dravid-said-never-got-credit-he-deserved-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sunil-gavaskar-on-ajinkya-rahane-m_2026081756457.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "15097731ecdc",
-            "feed": "esakal",
-            "title": "IPL 2027 : मुंबईचे चार खेळाडू Delhi Capitalsच्या निवड चाचणीसाठी दाखल झाले, यशस्वी जैस्वाल... ; सौरव गांगुली करणार निवड",
+            "id": "bbc85757b241",
+            "feed": "maharashtratimes",
+            "title": "Auqib Nabi Selection : वेगवान गोलंदाजी नाही तर मग आकिब नबीची खरी ताकद नेमकी काय?  इरफान पठाणने दिलं उत्तर",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-04T12:23:59",
-            "url": "https://www.esakal.com/krida/cricket/ipl-2027-four-mumbai-cricketers-attend-delhi-capitals-trials-sourav-ganguly-to-oversee-selection-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-04/die5acxn/Delhi-Capitals-selection-trials-IPL-2027",
+            "published": "2026-08-04T21:10:41",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/not-fast-bowling-then-what-exactly-is-aaqib-nabis-real-strength-irfan-pathan-answer/articleshow/132865871.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "dcf224b72e4d",
+            "id": "aabdaca92da4",
             "feed": "lokmat",
-            "title": "टाटा ट्रस्ट्स उभारणार ५० रुग्णालये अन् जागतिक दर्जाचे विद्यापीठ; अध्यक्ष नोएल टाटा यांची घोषणा...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-04T13:03:02",
-            "url": "https://www.lokmat.com/business/news/tata-trusts-to-set-up-50-hospitals-and-world-class-universities-chairman-noel-tata-presents-roadmap-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tata-trust_2026081755944.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9b11f45027ba",
-            "feed": "lokmat",
-            "title": "भेसळयुक्त दुधावरील कारवाईमुळे दुभत्या गायी-म्हशींच्या किमती वाढल्या; मुऱ्हा म्हैस १.७५ लाखांवर",
+            "title": "'या' SUV च्या खरेदीसाठी लोकांची झुंबड उडाली, ५ वर्षांत ८ लाख घरांत पोहोचली! ५ स्टार सेफ्टी, कीमत ₹५.७० लाख",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-04T12:58:20",
-            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/action-against-adulterated-milk-has-increased-the-prices-of-dairy-cows-and-buffaloes-the-price-of-a-buffalo-is-rs-175-lakh-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/milch-cow-rate_2026081755919.jpeg",
+            "published": "2026-08-04T20:52:06",
+            "url": "https://www.lokmat.com/auto/people-flocked-to-buy-this-suv-5-star-safety-reached-8-lakh-homes-in-5-years-price-rs-5-lakh-70-thausands-thousand-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tata-punch-yjtf_2026081756455.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "2286074b5a6d",
+            "id": "f73aec208396",
             "feed": "lokmat",
-            "title": "कॅन्सरशी झुंज देतेय टीव्ही अभिनेत्री; उपचारादरम्यान झाली भावुक, म्हणाली-\"या कठीण काळात…\"",
+            "title": "Maharashtra Rain : मुंबई वेधशाळेकडून हवामान अंदाज आला, पुढील पाच दिवस 'या' जिल्ह्यांत पावसाची शक्यता",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-04T12:52:30",
-            "url": "https://www.lokmat.com/filmy/television/shoaib-ibrahim-share-blog-dipika-kakar-emotional-while-talking-about-cancer-treatment-journey-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dipika-kakkar_2026081755936.jpg",
+            "published": "2026-08-04T20:35:02",
+            "url": "https://www.lokmat.com/agriculture/weather/maharashtra-rain-weather-forecast-mumbai-observatory-possibility-of-rain-in-these-districts-for-next-five-days-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/paus-ala-2_2026081756447.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
+        },
+        {
+            "id": "bb60805ab5e9",
+            "feed": "lokmat",
+            "title": "\"TATA Punch नाही, आता Maruti ची 'ही' ६.२६ लाखांची कार ठरली नं.१; ३३ किमी मायलेज अन्...; बघा टॉप १० कारची लिस्ट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-04T19:45:51",
+            "url": "https://www.lokmat.com/auto/no-tata-punch-now-maruti-dzire-has-become-best-selling-car-33-km-mileage-see-the-list-of-july-2026-sales-top-10-cars-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maruti-suzuki-ghtrjy_2026081756425.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
