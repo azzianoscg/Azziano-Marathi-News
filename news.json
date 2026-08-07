@@ -1,199 +1,231 @@
 {
-    "lastUpdated": "07-08-2026 | 07:23 AM IST",
+    "lastUpdated": "07-08-2026 | 11:42 AM IST",
     "maharashtra": [
         {
-            "id": "59f46b823119",
+            "id": "bfbdccaed72c",
             "feed": "esakal",
-            "title": "Devendra Fadnavis: जात पडताळणी समितीत सरकारचा हस्तक्षेप नाही; मुख्यमंत्री देवेंद्र फडणवीसांचे मोठे स्पष्टीकरण",
+            "title": "Maharashtra MLA Committee: आमदार समितीच्या दौऱ्याला पहिल्याच दिवशी दांडी; २७ पैकी फक्त ८ आमदार उपस्थित, अनियमितता आढळल्याने कारवाईची शक्यता",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-07T11:42:04",
+            "url": "https://www.esakal.com/ahmednagar/ahmednagar-mla-committee-tour-begins-with-only-8-of-27-members-present-as-irregularities-raise-possibility-of-action-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/iwgat8d8/sudhir-jadhav-satara-11.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "70e93eba778f",
+            "feed": "lokmat",
+            "title": "पत्रकार परिषदेत राज ठाकरेंनी व्यक्त केली दिलगिरी; खेळाडूंना का भेटले नाहीत? याचा केला खुलासा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-07T11:38:26",
+            "url": "https://www.lokmat.com/maharashtra/mns-raj-thackeray-expressed-regret-in-the-press-conference-he-revealed-why-he-did-not-meet-the-dilip-gavit-players-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raj-thackeray-pc-dilip-gavit_2026081758367.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d6a1bd9c0d61",
+            "feed": "esakal",
+            "title": "Nashik Reel Firing Case : रील बनवण्याचा नाद बेतला अंगाशी! नाशिकमध्ये 19 वर्षीय तरुणीकडून गावठी कट्ट्यातून हवेत गोळीबार, पोलिसांकडून कारवाई",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-07T07:16:46",
-            "url": "https://www.esakal.com/mumbai/devendra-fadnavis-clarifies-no-government-interference-in-caste-scrutiny-committee-decision-on-kunbi-caste-certificates-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2024-08-22/mfjzako1/Devendra%20Fadnavis%20(2).jpg",
+            "published": "2026-08-07T11:36:31",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-road-19-year-old-girl-firing-country-made-pistol-social-media-reel-police-case-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/md0mr53q/19-year-old-woman-air-firing-Nashik-Road",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6086cdb72371",
+            "id": "bd29f2a26fdf",
             "feed": "maharashtratimes",
-            "title": "Raj Thackeray Nashik Daura: ऐंशी लाख नाव वगळण्याचा डाव, SIR मोहिमेवर राज ठाकरे यांना शंका",
+            "title": "Nagpur Accident : मुंबईत मेडिकल शिक्षण, उदयोन्मुख डॉक्टर तरुणीचा करुण अंत, रुग्णसेवेनंतर मध्यरात्री घरी जाताना काळाचा घाला",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-07T06:45:39",
-            "url": "https://maharashtratimes.com/maharashtra/nashik/raj-thackeray-at-nashik-visit-questions-on-maharashtra-sir-campaign/articleshow/133018552.cms",
+            "published": "2026-08-07T11:27:58",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-khushi-mundhada-dies-in-accident-near-sangli-hospital-last-rites-at-ambazari-ghat/articleshow/133022952.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bda7088681e9",
-            "feed": "lokmat",
-            "title": "Chhatrapati Sambhajinagar: रक्ताच्या नात्यांचा सौदा, मुलांनी वाटून घेतल्या जबाबदाऱ्या; ऑक्सिजनवरील आईकडे पाठ",
+            "id": "71ee5fea8693",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : लोकसभेचे कामकाज २ वाजेपर्यंत तहकूब",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-07T06:38:42",
-            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/i-took-care-of-my-father-the-son-refused-to-take-responsibility-saying-that-his-sister-should-take-care-of-his-mother-incident-in-chhatrapati-sambhajinagar-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/heart-breaking-story_2026081758206.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "35ac335ba57d",
-            "feed": "lokmat",
-            "title": "SIR Maharashtra: महाराष्ट्रातील मतदारांना दिलासा; 'एसआयआर'साठी १७ ऑगस्टपर्यंत भरता येणार अर्ज; अंतिम यादी कधी प्रसिद्ध होणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-07T06:18:32",
-            "url": "https://www.lokmat.com/mumbai/sir-maharashtra-sir-census-applications-can-be-filled-till-august-17-final-list-on-october-27-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sir-maharashtra-2026-last-date_2026081758204.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "93fd33157da5",
-            "feed": "lokmat",
-            "title": "Mard Strike Update: बीएचएमएस नोंदणीला विरोध कायम; आंदाेलन लाेकशाही मार्गाने सुरुच ठेवणार, मार्डचा निर्धार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-07T05:57:55",
-            "url": "https://www.lokmat.com/mumbai/mard-strike-update-opposition-to-bhms-registration-continues-mard-determined-to-continue-the-movement-through-democratic-means-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mard-strike-news-latest-_2026081758200.jpg",
+            "published": "2026-08-07T11:26:56",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-7th-august-2026-ireland-vs-afghanistan-inter-miami-mohan-bhagwat-nationalhandloomday-tarun-tejpal-kiren-rijiju-uma-shankar-singh-spacex-gen-z-shiv-sena-sc-hearing-maharashtra-rains-orange-alert-mumbai-manoj-jarange-mhada-lottery-fda-maharashtra-maratha-reservation-ymk86-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "9fe420189551",
-            "feed": "esakal",
-            "title": "दर्शन अग्नीचे",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-07T07:18:00",
-            "url": "https://www.esakal.com/health/divyachi-avas-ayurveda-agni-hormonal-balance-shravan-bhadrapad-deep-pujan-dr-balaji-tambe-santulan-ayurved-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-06/5a8bnjss/Esakal-13.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "a389707b447c",
+            "id": "34b1d27b3731",
             "feed": "lokmat",
-            "title": "विशेष लेख: ३,००० ऑडिओ क्लिप्स अन् भाजपमधली धुसफूस",
+            "title": "लग्न कधी करणार? चाहत्याच्या प्रश्नावर अमिषा पटेलचं थेट उत्तर; म्हणाली- \"सिंगल राहून मी खूप...\"",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-07T07:16:28",
-            "url": "https://www.lokmat.com/editorial/how-has-the-vijay-chaudhary-3000-audio-clip-case-become-a-serious-issue-for-the-bjp-a-a285-c571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vijay-chaudhari-bjp_2026081758210.jpg",
+            "published": "2026-08-07T11:41:08",
+            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-actress-ameesha-patel-reaction-on-marriage-reveals-why-she-remain-single-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ameesha-patel_2026081758374.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "b02379861f59",
-            "feed": "esakal",
-            "title": "GOBAR-DHAN Scheme : पेट्रोलमध्ये इथेनॉल नंतर आता CNG-PNG मध्येही बायोगॅस मिसळला जाणार, सरकारची मोठी घोषणा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-07T07:15:19",
-            "url": "https://www.esakal.com/desh/india-ethanol-blending-policy-gobar-dhan-scheme-biogas-cng-png-blending-clean-energy-india-update-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/qyn7pcxd/gobar-gas-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "997723fecc32",
+            "id": "f420efbcd5b7",
             "feed": "lokmat",
-            "title": "Ashadh Ritual: आषाढात लेकीला माहेरपणाला बोलावलंत का? पूर्वापार सुरु आहे परंपरा; कारण...",
+            "title": "रणवीर-दीपिका पुन्हा एकत्र? संजय लीला भन्साळींच्या 'लव्ह अँड वॉर'बाबत मोठी अपडेट समोर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-07T07:10:02",
-            "url": "https://www.lokmat.com/bhakti/ashadh-ritual-is-the-girl-invited-to-the-ceremony-during-ashadh-the-tradition-has-been-going-on-for-generations-because-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ashadh-ritual_2026081757932.jpg",
+            "published": "2026-08-07T11:38:46",
+            "url": "https://www.lokmat.com/filmy/bollywood/sanjay-leela-bhansali-love-and-war-movie-deepika-padukone-cameo-ranbir-kapoor-imdb-update-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sanjay-leela-bhansali-love-and-war-movie-deepika-padukone-cameo-ranbir-kapoor-imdb-update-1_2026081758358.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "dca673c0c70e",
+            "id": "c0a3ab977d33",
+            "feed": "lokmat",
+            "title": "भारताची शान अन् रॉयल लूकही! पाहा विद्या बालन ते रेखा; अभिनेत्रींच्या ७ सुंदर हातमाग साड्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-07T11:37:16",
+            "url": "https://www.lokmat.com/sakhi/photos/fashion/international-handloom-day-bollywood-actresses-in-handloom-sarees-celebrity-handloom-saree-looks-best-handloom-sarees-worn-by-actresses-indian-actresses-traditional-saree-looks-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bollywood-actresses-in-handloom-sarees_2026081758361.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "a7cfe2f533b7",
             "feed": "esakal",
-            "title": "आजचे पंचांग 7 ऑगस्ट 2026! शुभ मुहूर्त, राहुकाळ आणि दिनविशेष जाणून घ्या",
+            "title": "National Handloom Day 2026: भारतातील प्रसिद्ध हँडलूम साड्या तुम्हाला माहिती आहेत  का? जाणून घ्या राज्यानुसार खासियत!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-07T07:00:00",
-            "url": "https://www.esakal.com/culture-and-religion/panchang-today-august-7-2026-auspicious-timings-rahu-kaal-hindu-calendar-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-06/h521pt2c/panchang.jpg",
+            "published": "2026-08-07T11:27:49",
+            "url": "https://www.esakal.com/lifestyle/national-handloom-day-2026-famous-indian-handloom-sarees-by-state-culture-heritage-saree-love-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/h8wgpxq1/handloom-day-handloom-saree.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "9b9f452fb5ea",
+            "feed": "esakal",
+            "title": "Nainital Viral Video: काय आहे 'बिच्छू बूटी'? तरुणींची छेड काढणाऱ्या रोडरोमिओंना अद्दल ग्रामस्थांनी असा शिकवला धडा! पाहा व्हिडिओ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-07T11:22:46",
+            "url": "https://www.esakal.com/desh/nainital-viral-video-shows-villagers-teaching-roadside-romeos-a-lesson-with-bichchu-booti-after-harassing-young-women-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/5x53nra2/nainital-bichchu-buti-viral-video.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "f8260f2a27b3",
+            "id": "54f51fef19c4",
             "feed": "lokmat",
-            "title": "आर्टिकल ३७० संदर्भात UN चं मोठं विधान, काश्मीर आणि सुरक्षा परिषदेच्या प्रस्तावावर भाष्य; भारताची भूमिका काय?",
+            "title": "Thailand: थायलंडच्या शाळेतील भयंकर घटना! अल्पवयीन विद्यार्थ्याकडून अंदाधुंद गोळीबार; शिक्षिकेचा मृत्यू, १५ जण जखमी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-08-06T22:18:03",
-            "url": "https://www.lokmat.com/international/article-370-repeal-anniversary-un-big-statement-on-kashmir-issue-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/un-sd_2026081758179.jpg",
+            "published": "2026-08-07T11:19:07",
+            "url": "https://www.lokmat.com/photos/international/thailand-school-shooting-minor-boy-kills-teacher-many-students-injured-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thailand-school-firing-news-7_2026081758342.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d2f6d3403339",
+            "id": "51d1732dafc6",
+            "feed": "esakal",
+            "title": "Thailand School Shooting : थायलंड हादरले ! आठवीच्या विद्यार्थ्याचा शाळेत अंदाधुंद गोळीबार; शिक्षकासह दोघांचा मृत्यू, १० विद्यार्थी गंभीर जखमी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-07T11:15:32",
+            "url": "https://www.esakal.com/global/thailand-school-shooting-nonthaburi-student-gun-attack-high-school-incident-casualties-injuries-gun-violence-thailand-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/tt5mlirj/Thai-1.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "3d05215a83ed",
             "feed": "lokmat",
-            "title": "लाथ मारून खिडकी फोडली अन्...; विमान हवेत असतानाच माथेफिरुचे कृत्य, शेकडो प्रवाशांचा जीव टांगणीला",
+            "title": "मेटावर संकट! भारतात माफी मागितल्यानंतर अमेरिकेत ५४ अब्ज रुपयांचा दंड; मार्क झुकरबर्गच्या कंपनीला मोठा दणका",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-08-06T20:56:05",
-            "url": "https://www.lokmat.com/international/passenger-attempts-to-open-emergency-door-on-kuala-lumpur-kochi-flight-arrested-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kuala-lumpur-kochi-flight_2026081758167.jpg",
+            "published": "2026-08-07T11:15:17",
+            "url": "https://www.lokmat.com/international/crisis-on-meta-after-an-apology-in-india-a-fine-of-rs-54-billion-was-imposed-in-the-us-mark-zuckerbergs-company-suffered-a-big-blow-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mark-zukerburg-1_2026081758335.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e6d30686a8c7",
+            "feed": "lokmat",
+            "title": "...तर होर्मुझ सामुद्रधुनीत अमेरिकन- इस्रायली जहाजांना नो-एंट्री? इराणचा मास्टर प्लॅन तयार, युद्ध पेटण्याची शक्यता",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-07T09:04:15",
+            "url": "https://www.lokmat.com/international/middle-east-conflict-america-israel-iran-tensions-iran-parliament-strait-of-hormuz-news-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/middle-east-conflict_2026081758228.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -212,136 +244,104 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-06/pe5t0zet/Abhi-76.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "32ddce8fe164",
-            "feed": "maharashtratimes",
-            "title": "Russian Soldiers Marriage Scam: जखमी सैनिकांच्या लग्नांची संख्या वाढली; महिलांचा भलताच उद्योग; चक्रावून टाकणारा घोटाळा उघड",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-06T19:36:05",
-            "url": "https://maharashtratimes.com/international/international-news/women-marrying-soldiers-in-russia-to-claim-war-death-payouts/articleshow/133007857.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c6c31e057ab4",
-            "feed": "esakal",
-            "title": "ECP Pakistan: आता खोटं प्रतिज्ञापत्र चालणार नाही! निवडणूक आयोग नियम बदलणार; पाकिस्तानात नेत्यांची माहिती थेट तपासणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-06T19:25:30",
-            "url": "https://www.esakal.com/global/pakistan-election-commission-plans-rule-change-to-verify-candidates-claims-false-affidavits-under-scanner-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-06/6j4mnedn/Election-Commission-of-Pakistan-Proposes-Tougher-Rules-for-Candidates.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "3dced0b3e061",
+            "id": "45729dc5ee9d",
+            "feed": "esakal",
+            "title": "Cricketer Retirement: चक्क २५ व्या वर्षीच क्रिकेटमधून निवृत्ती! युवा वेगवान गोलंदाजाचा धक्कादायक निर्णय",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-07T11:32:26",
+            "url": "https://www.esakal.com/krida/cricket/england-fast-bowler-john-turner-retires-from-professional-cricket-at-age-25-due-to-injuries-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/pc2umw48/Fast-bowler-John-Turner-Retirement.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4fe18169e726",
+            "feed": "esakal",
+            "title": "Hardik Panyda Trade: २५ कोटीसह कर्णधारपदही मिळणार! हार्दिक पांड्यासाठी नवी फ्रँचायझी मैदानात; Mumbai Indians ला दिलीय अशी ऑफर, जी नाकारता येणार नाही...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-07T11:25:15",
+            "url": "https://www.esakal.com/krida/cricket/hardik-pandya-trade-twist-csk-out-kkr-in-25-crore-deal-along-with-captaincy-reportedly-on-the-table-for-mumbai-indians-captain-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/93q2swsn/Hardik-Pandya-to-KKR-with-captaincy-offer",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4fc0ae3d5ff8",
             "feed": "lokmat",
-            "title": "Women's Asia Cup 2026: भारत-पाकिस्तान यांच्यातील लढतीची तारीख ठरली; इथं पाहा संपूर्ण वेळापत्रक",
+            "title": "IND vs SL : सराव सामन्यात KL राहुलकडे नेतृत्व; शुभमन गिल बाकावर बसून मॅच पाहताना दिसला; कारण...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-06T23:56:31",
-            "url": "https://www.lokmat.com/cricket/news/womens-asia-cup-2026-india-to-face-pakistan-on-september-5-check-full-schedule-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/womens-asia-cup-2026-india-to-face-pakistan-on-september-5-m-_2026081758190.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "53c2bcbc4bc4",
-            "feed": "maharashtratimes",
-            "title": "IND W vs PAK W : भारत-पाकिस्तान महामुकाबल्याची तारीख ठरली! आशियाई क्रिकेट परिषदेने वेळापत्रक जाहीर केलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-06T22:16:54",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/womens-asia-cup-2026-india-vs-pakistan-match-date-and-full-schedule/articleshow/133010911.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "972ad719ee24",
-            "feed": "esakal",
-            "title": "INDIA VS PAKISTAN : तारीख नोट करून घ्या! सप्टेंबरमध्ये भारत-पाकिस्तान समोरासमोर... क्रिकेटचा हा महामुकाबला कुठे होणार?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-06T21:26:55",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-pakistan-set-for-september-5-clash-in-womens-asia-cup-2026-full-schedule-venue-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-06/g2dlbjy3/India-vs-Pakistan-Womens-Asia-Cup-2026-schedule",
+            "published": "2026-08-07T10:57:11",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-kl-rahul-leads-in-practice-match-shubman-gill-seen-sitting-on-the-bench-watching-the-match-because-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/captain-shubman-gill-injury-kl-rahul-leading-team-india-in-practice-match-m-1_2026081758314.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "d02d1835e59b",
+            "id": "69c49a8232b6",
             "feed": "lokmat",
-            "title": "योग्य आणि अचूक वेळ देईल साथ; 'या' पद्धतीने तण नियंत्रण केल्यास उत्पादनात देखील होईल वाढ",
+            "title": "प्रियांका चोप्राच्या हाती लागला हॉलिवूडचा मोठा प्रोजेक्ट, ऑस्कर विनर रसेल क्रोसोबत करणार स्क्रीन शेअर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-06T20:52:42",
-            "url": "https://www.lokmat.com/agriculture/smart-farming/proper-and-accurate-timing-will-help-if-weed-control-is-done-in-this-way-production-will-also-increase-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-34-34-uu-34-weed-management-in-maize_2026081758146.jpeg",
+            "published": "2026-08-07T11:37:51",
+            "url": "https://www.lokmat.com/filmy/bollywood/priyanka-chopra-to-shared-screen-with-oscar-winner-russell-crowe-in-bluefly-hollywood-movie-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/priyanka-chopra-rusell_2026081758365.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "836d2efb0263",
-            "feed": "lokmat",
-            "title": "आता शेणापासूनही होणार बंपर कमाई! 'गोबरधन' योजनेला मोदी सरकारची मंजुरी; फायदे काय? केव्हापासून सुरू होणार? जाणून घ्या",
+            "id": "dea761493481",
+            "feed": "maharashtratimes",
+            "title": "8th Pay Commission: रिटायरमेंटला 75 लाख ग्रॅच्युइटी, OPS अन् पेन्शनमधील सुधारणेपर्यंत; आठव्या वेतन आयोगात काय ठरणार? कर्मचाऱ्यांची धडधड",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-06T20:37:10",
-            "url": "https://www.lokmat.com/business/news/now-you-will-get-bumper-income-from-dung-too-modi-government-approves-gobardhan-scheme-what-are-the-benefits-when-will-it-start-gobardhan-scheme-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pm-narendra-modi-d-s_2026081758150.jpg",
+            "published": "2026-08-07T11:02:48",
+            "url": "https://maharashtratimes.com/business/business-news/8th-pay-commission-big-pension-changes-nc-jcm-demands-key-decisions-on-salary-pension-and-fitment-factor-ahead/articleshow/133022049.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b125f7b2fb78",
+            "id": "de72f61bd2df",
             "feed": "lokmat",
-            "title": "नाशिकचा उन्हाळ, सोलापूरचा लाल, नागपूरचा पांढरा... कोणता कांदा खातोय सर्वाधिक भाव? वाचा आजचे बाजारभाव",
+            "title": "Ranbhaji : पित्त व पोटाच्या विकारांवर 'या' रानभाज्या ठरत आहेत सुपरफूड; जाणून घ्या त्यांचे औषधी गुण",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-06T19:48:56",
-            "url": "https://www.lokmat.com/agriculture/market-yard/nashiks-summer-solapurs-red-nagpurs-white-which-onion-is-selling-for-the-highest-price-today-read-todays-market-price-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-34-kanda-bajar-bhav_2026081758131.jpeg",
+            "published": "2026-08-07T11:01:41",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/ranbhaji-these-wild-vegetables-are-becoming-superfoods-for-acidity-and-stomach-disorders-know-their-medicinal-properties-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ranbhaji-bajar_2026081758285.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
