@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "07-08-2026 | 11:06 PM IST",
+    "lastUpdated": "08-08-2026 | 01:34 AM IST",
     "maharashtra": [
         {
-            "id": "0641a7dae7a4",
-            "feed": "esakal",
-            "title": "Creta Car Accident : क्रेटा कार विहिरीत कोसळली; दोघांना बाहेर काढण्यात यश तर काहींचा शोध सुरु, पद्मावती गावाजवळील घटना",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-07T23:05:50",
-            "url": "https://www.esakal.com/marathwada/creta-car-falls-into-well-near-padmavati-village-two-rescued-as-search-continues-for-others-accident-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/7l5y9jji/Creta-Car-Falls-into-Well",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "9d30ce43c1da",
+            "id": "2c1d1773bc07",
             "feed": "lokmat",
-            "title": "उपराजधानीत ड्रग्ज तस्करांचा सुळसुळाट; सात महिन्यांत पावणेपाच कोटींचे 'म्याऊ म्याऊ' जप्त",
+            "title": "ढोल-ताशांच्या गजरात ‘कोल्हापूरच्या राजा’चे जल्लोषात आगमन",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-07T23:00:02",
-            "url": "https://www.lokmat.com/nagpur/drug-smugglers-busted-in-the-sub-capital-meow-meow-worth-rs-55-crore-seized-in-seven-months-a-a877-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-27_2026081758859.jpg",
+            "published": "2026-08-08T00:02:53",
+            "url": "https://www.lokmat.com/kolhapur/grand-welcome-for-kolhapurcha-raja-idol-over-a-month-ahead-of-ganeshotsav-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kolhapurcha-raja_2026081758942.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "40d299500510",
+            "id": "164a4c8df5a5",
             "feed": "esakal",
-            "title": "Pune News : झाडणकामावरून कर्मचाऱ्यांची झाडाझडती; कामात सहकार्य करण्याची तंबी",
+            "title": "Monsoon : राज्यावर ‘एल निनो’चा प्रतिकूल परिणाम नाही; देशाचे ४० टक्के क्षेत्र पावसाच्या प्रतीक्षेत",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-07T22:23:53",
-            "url": "https://www.esakal.com/pune/employees-pulled-up-over-poor-sweeping-work-warned-to-cooperate-and-improve-performance-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/4gx3t9t8/Pune-Garbage-issue",
+            "published": "2026-08-07T23:54:54",
+            "url": "https://www.esakal.com/pune/no-adverse-impact-of-el-nino-on-maharashtra-while-40-percent-of-india-awaits-rainfall-monsoon-weather-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-05-15/p4pmvj30/Monsoon",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b13e1d439c04",
+            "id": "5fa1eddc7864",
+            "feed": "lokmat",
+            "title": "मुथूट फिनकॉर्पमधील दीड कोटींच्या अपहारात आणखी दोघांना बेड्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-07T23:54:30",
+            "url": "https://www.lokmat.com/amravati/two-more-arrested-in-muthoot-fincorp-embezzlement-of-rs-15-crore-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arrest46560_2024061251644.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "dd2eecf7bad2",
             "feed": "esakal",
-            "title": "Mumbai Railway : मुंबईच्या रेल्वेला केंद्राचा ‘मेगा बूस्ट’! एमयूटीपी-३ साठी ४०६.५६ कोटींची पहिली किस्त; ५० वर्षांसाठी बिनव्याजी कर्ज",
+            "title": "ओडिसावरून सोलापुरात येणारा साडेसहा कोटींचा गांजा पकडला! पुण्याच्या ‘कस्टम’ची कारवाई; ट्रकमध्ये भाजीपाल्याच्या क्रेटखाली लपिवली गांजाची ४६ पोती",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-07T22:15:12",
-            "url": "https://www.esakal.com/mumbai/central-government-gives-mumbai-railways-mega-boost-with-rupees-406-crore-first-installment-for-mutp-3-interest-free-loan-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2024-05/506e3fbb-db37-42da-aa8b-3c08fc23124e/Esakal_Rushikesh___2024_05_29T070018_090.jpg",
+            "published": "2026-08-07T23:51:48",
+            "url": "https://www.esakal.com/maharashtra/cannabis-worth-65-crore-seized-while-being-transported-from-odisha-to-solapur-pune-customs-conducts-the-operation-46-sacks-of-cannabis-were-found-hidden-beneath-vegetable-crates-in-a-truck",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/yo3kv1dq/PNE26W40816.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "71ee5fea8693",
-            "feed": "esakal",
-            "title": "Marathi News Updates : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर...",
+            "id": "af9b630f4604",
+            "feed": "lokmat",
+            "title": "शैक्षणिक गुणवत्ता निर्देशांकात सातारा जिल्हा देशात दहावा, महाराष्ट्रात द्वितीयस्थानी",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-07T22:14:27",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-7th-august-2026-ireland-vs-afghanistan-inter-miami-mohan-bhagwat-nationalhandloomday-tarun-tejpal-kiren-rijiju-uma-shankar-singh-spacex-gen-z-shiv-sena-sc-hearing-maharashtra-rains-orange-alert-mumbai-manoj-jarange-mhada-lottery-fda-maharashtra-maratha-reservation-ymk86-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-07T23:51:28",
+            "url": "https://www.lokmat.com/satara/satara-district-ranks-tenth-in-the-country-second-in-maharashtra-in-the-educational-quality-index-a-a829-c1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/school-bus-21-s_202209885628.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "af95db28a003",
-            "feed": "esakal",
-            "title": "Uttar Pradesh: उत्तर प्रदेश निवडणुकीसाठी काँग्रेसचा प्लॅन B! अखिलेश यादव यांच्याशी चर्चेनंतर आघाडी होणार का?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-07T22:42:42",
-            "url": "https://www.esakal.com/desh/congress-prepares-plan-b-for-up-elections-rahul-gandhi-akhilesh-yadav-strategy-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/x9gi1rl1/Latest-Marathi-Breaking-News-2026-08-07T223941.805.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "8561770e8265",
-            "feed": "lokmat",
-            "title": "राफेलनंतर आता 6th Gen फायटर जेट्स वर भारताचा 'फोकस'! हवाई क्षमता वाढवण्याचा 'मेगा प्लॅन' तयार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-07T22:01:03",
-            "url": "https://www.lokmat.com/photos/national/india-focuses-on-6th-generation-fighter-jets-after-rafale-to-increase-air-capability-france-fcas-partnership-alongside-amca-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-jets_2026081758936.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "486e90bc7561",
-            "feed": "esakal",
-            "title": "Premium|Shama Movie : ‘संपूर्ण रामायण’ ते ‘तीन कन्या’...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-07T21:00:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/shama-movie-suraiya-vaijayanta-marathi-film-golden-era-indian-cinema-vasant-pawar-gajanan-jagirdar-film-history-classic-movies-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/lpmpdq6j/Abhi-69.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "7894ca68b763",
-            "feed": "esakal",
-            "title": "औरंगजेबानंतरच मुघल साम्राज्याचा ऱ्हास कसा झाला?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-07T20:53:42",
-            "url": "https://www.esakal.com/ampstories/web-story/aurangzeb-after-decline-of-mughal-empire-history-reasons-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/g3obhodt/1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d54ebba71a2f",
+            "id": "22d168715993",
             "feed": "maharashtratimes",
-            "title": "Radha Sagar : मराठी अभिनेत्रीची 'ईठा' सिनेमात वर्णी; श्रद्धा कपूरबद्दल म्हणाली, 'ती फार गोड आहे'",
+            "title": "<b>पंचांग 8 August 2026: बुधादित्य योग, सम योग, हंसराज योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ </b>",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-07T20:51:25",
-            "url": "https://maharashtratimes.com/photogallery/entertainment/marathi-actress-radha-sagar-play-role-in-shraddha-kapoor-eetha-movie/photoshow/133037400.cms",
+            "published": "2026-08-08T00:17:37",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-8-august-2026-in-marathi-sam-yog-hansraj-yog-budhaditya-yog-and-shubha-muhurta/articleshow/133040885.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "c1b45a1afb1d",
+            "feed": "esakal",
+            "title": "थंडीत पांढरे तीळ खाण्याचे 10 जबरदस्त फायदे",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-07T23:57:44",
+            "url": "https://www.esakal.com/ampstories/web-story/10-amazing-benefits-of-eating-white-sesame-seeds-in-winter-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/pqrb0aoh/Sesame-seeds-Chutney-2.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "799e8215648d",
+            "feed": "esakal",
+            "title": "किवी खाल्ल्याने शरीराला होतात 'हे' जबरदस्त फायदे",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-07T23:50:47",
+            "url": "https://www.esakal.com/ampstories/web-story/amazing-health-benefits-of-eating-kiwi-every-day-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/ohy6hv35/Kiwi-benefits-during-periods-4.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "0ae9737a65c0",
+            "feed": "lokmat",
+            "title": "'माझ्या नवऱ्याला अपघातात मारून टाक, नाहीतर...'; व्हॉट्सॲप चॅटने उघड केला पत्नीच्या हत्येचा भीषण कट!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-07T23:43:20",
+            "url": "https://www.lokmat.com/crime/telangana-woman-plots-husband-murder-with-paramour-whatsapp-chat-exposes-plan-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/telangana-woman-plots-husband-murder_2026081758940.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "1ca64b40efa8",
+            "feed": "esakal",
+            "title": "रोज सकाळी त्रिफळा घेताय? मग शरीरात होतात 'हे' बदल!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-07T23:43:18",
+            "url": "https://www.esakal.com/ampstories/web-story/eat-triphala-every-morning-and-see-these-amazing-changes-in-your-body-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/7988289u/triphla.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "a30f78b87191",
+            "feed": "esakal",
+            "title": "भारतावर शंभर टक्के टॅरिफ लावण्याच्या प्रस्तावाला अमेरिकन सीनेटर्सचा तीव्र विरोध; म्हणाले, ''पायावर धोंडा मारुन घेण्यासारखे...''",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-07T23:13:37",
+            "url": "https://www.esakal.com/global/us-senator-rand-paul-opposes-100-percent-tariff-on-india-and-china-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/rxrfzf2k/Latest-Marathi-Breaking-News-2026-08-07T230942.909.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "65abc5a9b9ab",
             "feed": "lokmat",
@@ -228,22 +244,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "2368998ddc8b",
-            "feed": "maharashtratimes",
-            "title": "Iran vs US conflicts : middle east मधला तणाव वाढला, येमेनमध्ये संघर्ष सुरु, सौदीत मोठं नुकसान",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-07T19:44:29",
-            "url": "https://maharashtratimes.com/video/mt-originals/iran-vs-us-conflicts/videoshow/133036377.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
