@@ -1,170 +1,218 @@
 {
-    "lastUpdated": "07-08-2026 | 08:04 PM IST",
+    "lastUpdated": "07-08-2026 | 11:06 PM IST",
     "maharashtra": [
         {
-            "id": "122603b2ed80",
-            "feed": "maharashtratimes",
-            "title": "Vinayak Raut: सुनेचे गंभीर आरोप अन् अटकेची टांगती तलवार; अखेर विनायक राऊत यांना कोर्टाचा मोठा दिलासा, सुनावणीत काय घडलं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-07T19:56:46",
-            "url": "https://maharashtratimes.com/maharashtra/thane/vinayak-raut-granted-relief-by-court-interim-bail-approved-in-serious-allegations-of-harassment/articleshow/133036523.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "74be54efeb3c",
+            "id": "0641a7dae7a4",
             "feed": "esakal",
-            "title": "Pune Airport : सुरक्षित उड्डाणांसाठी ‘घार’ ठरतेय सर्वात मोठा अडथळा; हवाई दलाकडून प्रतिबंधात्मक उपाययोजनांना वेग",
+            "title": "Creta Car Accident : क्रेटा कार विहिरीत कोसळली; दोघांना बाहेर काढण्यात यश तर काहींचा शोध सुरु, पद्मावती गावाजवळील घटना",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-07T19:55:22",
-            "url": "https://www.esakal.com/pune/black-kites-emerge-as-major-threat-to-safe-flights-air-force-steps-up-preventive-measures-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/ckk63cn0/Black-kite",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b1a3761da4e1",
-            "feed": "lokmat",
-            "title": "गिफ्टमध्ये घड्याळ अन् पुराव्याची वही जाळली; NEET पेपरफुटी प्रकरणात धक्कादायक प्रकार उघड",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-07T19:50:22",
-            "url": "https://www.lokmat.com/maharashtra/neet-paper-leak-case-gifted-watch-after-exam-notes-burnt-in-kitchen-as-cbi-uncovers-nta-experts-role-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/p-v-kulkarni-manisha-waghmare_2026081758902.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fa5b16186316",
-            "feed": "lokmat",
-            "title": "आधी घरात नेऊन लैंगिक अत्याचार, मग अल्पवयीन मुलीची हत्या: आरोपीला कोर्टाने सुनावली फाशीची शिक्षा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-07T19:44:21",
-            "url": "https://www.lokmat.com/crime/palghar-crime-minor-girl-sexually-assaulted-then-murdered-court-sentences-accused-to-death-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hang-till-death_2026081758905.jpg",
+            "published": "2026-08-07T23:05:50",
+            "url": "https://www.esakal.com/marathwada/creta-car-falls-into-well-near-padmavati-village-two-rescued-as-search-continues-for-others-accident-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/7l5y9jji/Creta-Car-Falls-into-Well",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "0a8b77082be9",
+            "id": "9d30ce43c1da",
+            "feed": "lokmat",
+            "title": "उपराजधानीत ड्रग्ज तस्करांचा सुळसुळाट; सात महिन्यांत पावणेपाच कोटींचे 'म्याऊ म्याऊ' जप्त",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-07T23:00:02",
+            "url": "https://www.lokmat.com/nagpur/drug-smugglers-busted-in-the-sub-capital-meow-meow-worth-rs-55-crore-seized-in-seven-months-a-a877-c1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-27_2026081758859.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "40d299500510",
             "feed": "esakal",
-            "title": "Dr. Amol Kolhe : 'डॉ. काकोडकर समितीचे स्वागत पण झारीतील शुक्राचार्य कोण?'",
+            "title": "Pune News : झाडणकामावरून कर्मचाऱ्यांची झाडाझडती; कामात सहकार्य करण्याची तंबी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-07T19:43:20",
-            "url": "https://www.esakal.com/pune/dr-anil-kakodkar-committee-welcomed-but-who-is-the-hidden-obstacle-leaders-question-dr-amol-kolhe-pune-nashik-railway-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/xuijcv7h/Dr.-Amol-Kolhe",
+            "published": "2026-08-07T22:23:53",
+            "url": "https://www.esakal.com/pune/employees-pulled-up-over-poor-sweeping-work-warned-to-cooperate-and-improve-performance-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/4gx3t9t8/Pune-Garbage-issue",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b13e1d439c04",
+            "feed": "esakal",
+            "title": "Mumbai Railway : मुंबईच्या रेल्वेला केंद्राचा ‘मेगा बूस्ट’! एमयूटीपी-३ साठी ४०६.५६ कोटींची पहिली किस्त; ५० वर्षांसाठी बिनव्याजी कर्ज",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-07T22:15:12",
+            "url": "https://www.esakal.com/mumbai/central-government-gives-mumbai-railways-mega-boost-with-rupees-406-crore-first-installment-for-mutp-3-interest-free-loan-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2024-05/506e3fbb-db37-42da-aa8b-3c08fc23124e/Esakal_Rushikesh___2024_05_29T070018_090.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "71ee5fea8693",
+            "feed": "esakal",
+            "title": "Marathi News Updates : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-07T22:14:27",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-7th-august-2026-ireland-vs-afghanistan-inter-miami-mohan-bhagwat-nationalhandloomday-tarun-tejpal-kiren-rijiju-uma-shankar-singh-spacex-gen-z-shiv-sena-sc-hearing-maharashtra-rains-orange-alert-mumbai-manoj-jarange-mhada-lottery-fda-maharashtra-maratha-reservation-ymk86-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "f1f7e327d911",
+            "id": "af95db28a003",
+            "feed": "esakal",
+            "title": "Uttar Pradesh: उत्तर प्रदेश निवडणुकीसाठी काँग्रेसचा प्लॅन B! अखिलेश यादव यांच्याशी चर्चेनंतर आघाडी होणार का?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-07T22:42:42",
+            "url": "https://www.esakal.com/desh/congress-prepares-plan-b-for-up-elections-rahul-gandhi-akhilesh-yadav-strategy-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/x9gi1rl1/Latest-Marathi-Breaking-News-2026-08-07T223941.805.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8561770e8265",
+            "feed": "lokmat",
+            "title": "राफेलनंतर आता 6th Gen फायटर जेट्स वर भारताचा 'फोकस'! हवाई क्षमता वाढवण्याचा 'मेगा प्लॅन' तयार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-07T22:01:03",
+            "url": "https://www.lokmat.com/photos/national/india-focuses-on-6th-generation-fighter-jets-after-rafale-to-increase-air-capability-france-fcas-partnership-alongside-amca-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-jets_2026081758936.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "486e90bc7561",
+            "feed": "esakal",
+            "title": "Premium|Shama Movie : ‘संपूर्ण रामायण’ ते ‘तीन कन्या’...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-07T21:00:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/shama-movie-suraiya-vaijayanta-marathi-film-golden-era-indian-cinema-vasant-pawar-gajanan-jagirdar-film-history-classic-movies-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-02/lpmpdq6j/Abhi-69.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "7894ca68b763",
+            "feed": "esakal",
+            "title": "औरंगजेबानंतरच मुघल साम्राज्याचा ऱ्हास कसा झाला?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-07T20:53:42",
+            "url": "https://www.esakal.com/ampstories/web-story/aurangzeb-after-decline-of-mughal-empire-history-reasons-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/g3obhodt/1.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "d54ebba71a2f",
             "feed": "maharashtratimes",
-            "title": "Dada Kondke : प्रकृती अचानक खालावली, ॲम्ब्युलन्स मिळेना, गाडीनं बॉडी घरी आणली; दादा कोंडकेंच्या निधनाचा अंगावर काटा आणणारा प्रसंग",
+            "title": "Radha Sagar : मराठी अभिनेत्रीची 'ईठा' सिनेमात वर्णी; श्रद्धा कपूरबद्दल म्हणाली, 'ती फार गोड आहे'",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-07T20:00:33",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/marathi-actor-dada-kondke-death-incident/articleshow/133036385.cms",
+            "published": "2026-08-07T20:51:25",
+            "url": "https://maharashtratimes.com/photogallery/entertainment/marathi-actress-radha-sagar-play-role-in-shraddha-kapoor-eetha-movie/photoshow/133037400.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "60d548769ce6",
+            "id": "65abc5a9b9ab",
             "feed": "lokmat",
-            "title": "ज्वारी- बाजरी की नाचणी, पावसाळ्यात कोणत्या पिठाची भाकरी खाणे योग्य? पाहा पचनासाठी बेस्ट पर्याय",
+            "title": "खामेनेई यांची प्रकृती चिंताजनक, रुग्णालयात दाखल! \"शहीद झाल्याची बातमी आल्यास आश्चर्य वाटणार नाही\", इस्रायली सूत्रांचा दावा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "world"
             },
-            "published": "2026-08-07T20:00:01",
-            "url": "https://www.lokmat.com/sakhi/photos/food/best-flour-for-bhakri-during-monsoon-wheat-vs-bajra-vs-ragi-which-is-better-best-bhakri-for-digestion-in-rainy-season-which-flour-is-best-for-digestion-during-monsoon-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wheat-vs-bajra-vs-ragi-which-is-better_2026081758768.jpeg",
+            "published": "2026-08-07T22:18:09",
+            "url": "https://www.lokmat.com/international/mojtaba-khameneis-condition-critical-admitted-to-hospital-israeli-media-claim-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mojtaba-khamenei-health-critical_2026081758939.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
         {
-            "id": "b823ba977a32",
+            "id": "8686f9776b57",
+            "feed": "lokmat",
+            "title": "सौदी, पाक अन् तुर्कियेमध्ये 'मक्का संयुक्त संरक्षण करार'; एका देशावर हल्ला झाल्यास तिन्ही देश एकत्र भिडणार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-07T21:29:00",
+            "url": "https://www.lokmat.com/international/historic-mecca-defence-agreement-saudi-arabia-pakistan-and-turkey-sign-joint-pact-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mecca-joint-defence-agreement_2026081758930.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6694463964ee",
             "feed": "esakal",
-            "title": "पावसाळ्यात गरम डाळ-भात खाल्ल्याने शरीराला मिळणारे फायदे",
+            "title": "Iran Politics: इराणच्या सत्तेत मोठी खळबळ! खामेनेईंविरोधात घरातूनच बंड? नातलगाने मांडला 'नवीन सरकार'चा आराखडा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-07T19:59:55",
-            "url": "https://www.esakal.com/ampstories/web-story/monsoon-dal-rice-benefits-hot-dal-rice-digestion-energy-nutrition-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/azgyw4qk/1.jpg",
+            "published": "2026-08-07T20:29:11",
+            "url": "https://www.esakal.com/global/iran-internal-rift-deepens-as-khamenei-relative-calls-for-parallel-islamic-government-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-07/sdu67day/sharad-pawar-dilip-walse-patil-7.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
-        {
-            "id": "ce1183f988e7",
-            "feed": "esakal",
-            "title": "पृथ्वीवर पहिला पाऊस कधी पडला?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-07T19:56:07",
-            "url": "https://www.esakal.com/ampstories/web-story/when-did-the-first-rain-fall-on-earth-how-earth-water-cycle-began-4-billion-years-ago-zircon-crystal-research-explained-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/34rtqrd6/First-rain-on-Earth-Earth-first-rainfall-1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "1afca6bb5853",
-            "feed": "esakal",
-            "title": "Premium|Study Room : स्कायरूटच्या विक्रम-१मुळे भारतीय अंतराळ उद्योगाला मिळाली नवी झेप",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-07T19:55:56",
-            "url": "https://www.esakal.com/study-room/vikram-1-rocket-skyroot-aerospace-india-private-space-launch-orbital-launch-vehicle-satellite-low-earth-orbit-space-industry-innovation-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/z13pyutj/Abhi-77.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "world": [
         {
             "id": "01f924964bfb",
             "feed": "maharashtratimes",
@@ -196,154 +244,106 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "028ec7b65d77",
-            "feed": "lokmat",
-            "title": "ब्लड प्रेशर हाय असो किंवा लो, दिवसभरात नेमकं किती मीठ खावं? WHO सांगते योग्य प्रमाण - बीपी राहते नियंत्रणात...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-07T18:33:09",
-            "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/how-much-salt-intake-in-high-or-low-blood-pressure-is-safe-salt-intake-for-bp-patients-how-much-salt-is-safe-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-much-salt-intake-in-high-or-low-blood-pressure-is-safe_2026081758642.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "a06899536f82",
-            "feed": "lokmat",
-            "title": "World Breastfeeding Week 2026 : तान्ह्या बाळाला पाणी कधी द्यायचे, किती द्यायचे? स्तनपानातून बाळाची तहान भागते का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-07T18:31:30",
-            "url": "https://www.lokmat.com/sakhi/health/pregnancy/world-breastfeeding-week-2026-when-to-introduce-your-baby-to-water-babies-under-six-months-old-do-not-need-water-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/water-for-baby_2026081758829.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "04c5b92fd3c8",
-            "feed": "lokmat",
-            "title": "वरुण धवनला पाहून प्रेक्षकांची उडणार घाबरगुंडी; अभिनेत्याची हॉरर चित्रपटांच्या दुनियेत एन्ट्री; नव्या प्रोजेक्टबद्दल आली अपडेट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-07T18:29:16",
-            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-actor-varun-dhawan-enter-in-horror-world-in-yrf-will-be-release-in-2027-says-report-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/varun-dhawan-1_2026081758836.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "00dac10474ad",
-            "feed": "esakal",
-            "title": "PCB Action: खोटी माहिती देणं पाकिस्तानच्या क्रिकेटपटूला पडलं महाग; PCB ने ठोठावली दोन वर्षांची बंदी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-07T19:47:21",
-            "url": "https://www.esakal.com/krida/cricket/pcb-action-pakistan-cricketer-hamza-nazar-two-year-ban-false-information-visa-application-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/76i34sgu/crikcte.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5fdc625a729b",
-            "feed": "lokmat",
-            "title": "\"ते सगळं खोटं होतं...\" बाबर आझम प्रकरणावर इरफान पठाणचा पहिल्यांदाच मोठा खुलासा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-07T19:32:34",
-            "url": "https://www.lokmat.com/cricket/news/they-photoshopped-my-face-irfan-pathan-on-babar-azam-fake-story-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/irfan-pathan-babar-azam-fake-news-photoshop-controversy-m-_2026081758896.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "efa257c7920f",
+            "id": "48f31041dd30",
             "feed": "maharashtratimes",
-            "title": "John Turner Retirement : दोन वर्षांपूर्वीच पदार्पण केलेल्या 25 वर्षीय जॉन टर्नरचा क्रिकेटला अलविदा! कठोर निर्णयामागचे कारण काय?",
+            "title": "Team India : खेळाडूंच्या दुखापती की चुकीचं व्यवस्थापन, नेमकी कोणामुळे वर्ल्ड चॅम्पियन टीम इंडियाची कामगिरी सातत्याने ढासळतेय?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-07T19:10:37",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/england-fast-bowler-john-turner-retires-at-25-due-to-back-injury/articleshow/133035057.cms",
+            "published": "2026-08-07T21:54:56",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-injury-concerns-sri-lanka-test-series-bumrah-shubman-gill-kl-rahul/articleshow/133037630.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "db9e2c99e239",
+            "feed": "maharashtratimes",
+            "title": "IND vs SL Practice Match : फिरकीपटूंनी वाचवलं, पण श्रीलंकेनंही लावली ताकद! दबावातल्या टीम इंडियाला दुसऱ्या दिवसासाठी आव्हान काय?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-07T20:20:34",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-sri-lanka-practice-match-sri-lanka-score-363-on-day-1-ravindra-jadeja-kuldeep-yadav-manav-suthar/articleshow/133036418.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "adb224eb6dc6",
+            "feed": "lokmat",
+            "title": "IND vs SL : श्रीलंकेत १८ वर्षांपासून टीम इंडियाचं वर्चस्व; शुभमन गिलला हा विक्रम कायम राखता येणार का?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-07T20:19:56",
+            "url": "https://www.lokmat.com/cricket/news/team-india-has-not-lost-test-series-in-sri-lanka-18-years-shubman-gill-might-ruin-it-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/team-india-has-not-lost-test-series-in-sri-lanka-18-years-m-_2026081758911.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "8f13e60ef327",
+            "id": "b8a19b48c27d",
             "feed": "lokmat",
-            "title": "Kanda Market : नाशिक, पुणे, सोलापूर, अहिल्यानगर... कांद्याला कुठल्या मार्केटमध्ये चांगला दर मिळतोय?",
+            "title": "ना पेट्रोल, ना डीझेल... या पठ्ठ्यानं तयार केली हवेत उडणारी Electric Car! VIDEO पाहून तुम्हीही थक्क व्हाल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-07T19:20:01",
-            "url": "https://www.lokmat.com/agriculture/market-yard/kanda-market-todays-7th-july-2026-onion-market-prices-in-nashik-solapur-pune-yards-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-vs-2_2026081758868.jpeg",
+            "published": "2026-08-07T21:31:06",
+            "url": "https://www.lokmat.com/auto/neither-petrol-nor-diesel-uttarakhand-ravi-tamta-invents-this-electric-car-that-flies-in-the-air-you-will-be-amazed-to-see-the-video-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/flying-car-invention_2026081758933.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "93c95a3e283f",
+            "id": "fcd935329a91",
             "feed": "lokmat",
-            "title": "सरकारी तिजोरीत डॉलर्सचा पाऊस! पाच आठवड्यांत भारताच्या परकीय चलन साठ्यात २.५ लाख कोटींची वाढ",
+            "title": "Tibak Sanch Anudan : ठिबक व तुषार सिंचन संच बसविण्यासाठी 90 अनुदान, अर्जप्रक्रिया सुरु झाली, वाचा सविस्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-07T18:56:28",
-            "url": "https://www.lokmat.com/business/savings-investments/indias-foreign-exchange-reserves-increase-by-rs-25-lakh-crore-in-five-weeks-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/forex-reserve-india_2026081758865.jpg",
+            "published": "2026-08-07T20:42:03",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/tibak-sanch-anudan-90-grants-for-installing-drip-and-frost-irrigation-systems-application-process-has-started-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tibak_2026081758917.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "25f1e0f61e43",
+            "id": "b22db4c54fab",
             "feed": "lokmat",
-            "title": "RBI चा मोठा प्रस्ताव! ग्रामीण सहकारी बँकांमधून मिळणार ₹३ कोटींपर्यंतचे गृहकर्ज; जाणून घ्या नवे नियम",
+            "title": "Karjmafi : कर्जमाफीचा पहिला हफ्ता शेतकऱ्यांच्या खात्यावर, कोणत्या विभागाला किती पैसे मिळाले?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-07T18:41:28",
-            "url": "https://www.lokmat.com/business/banking-loans/rbis-big-proposal-home-loans-up-to-rs3-crore-will-be-available-from-rural-cooperative-banks-know-the-new-rules-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rbi-ruless_2026081758854.jpg",
+            "published": "2026-08-07T20:12:29",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/karjmaf-first-week-of-loan-waiver-in-farmers-accounts-which-division-received-how-much-money-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/laj-labh_2026081758908.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
