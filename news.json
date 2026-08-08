@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "08-08-2026 | 09:30 PM IST",
+    "lastUpdated": "08-08-2026 | 11:32 PM IST",
     "maharashtra": [
         {
-            "id": "06c78dd51bf4",
-            "feed": "maharashtratimes",
-            "title": "Ratnagiri News : जेवताना घशात चिकनचे हाड अडकले, डॉक्टर देव बनले, रुग्णाला जीवनदान",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-08T21:19:53",
-            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/doctor-saves-patients-life-after-chicken-bone-gets-stuck-in-chiplun/articleshow/133055062.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "78390a325624",
+            "id": "860c2bf6dd13",
             "feed": "esakal",
-            "title": "‘बीयर आणू का?’ वेटरच्या प्रश्नाने संतापले तुकाराम मुंढे; बॅग भरली अन् थेट दिल्ली सोडली, १९९६चा किस्सा सांगितला",
+            "title": "Mount Kun Peak : पुण्यातील गिर्यारोहकांकडून ‘माउंट कुन’ सर; ७०७७ मीटर उंचीवर चढाई",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-08T21:11:17",
-            "url": "https://www.esakal.com/pune/tukaram-mundhe-1996-delhi-beer-question-story-ups-c-preparation-unstopable-tukaram-interview-pune-bal-gandharva-rangmandir-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/ofnof8ms/Tukaram-Mundhe-Delhi-story",
+            "published": "2026-08-08T23:20:19",
+            "url": "https://www.esakal.com/pune/pune-mountaineers-conquer-mount-kun-successful-ascent-to-a-height-of-7077-metres-the-alpinist-organisation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-08/f2liv0ko/Mount-Kun-Peak-Mountaineer",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "203f23ee7f67",
+            "id": "95bc4004e34f",
             "feed": "esakal",
-            "title": "Bidkin News : अवैध प्लॉटिंग करणाऱ्यांवर गुन्हे दाखल करणार; विभागीय आयुक्त जी. श्रीकांत यांचे आदेश",
+            "title": "Pimpri News : पुणे-लोणावळा मार्गावरील रेल्वे फाटके होणार बंद; सात ठिकाणी उड्डाणपूल उभारण्याबाबतचा मध्य रेल्वे प्रशासनाचा निर्णय",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-08T21:09:28",
-            "url": "https://www.esakal.com/marathwada/criminal-cases-to-be-filed-against-illegal-plotting-operators-divisional-commissioner-g-shrikant-issues-orders-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/ptprjmto/Divisional-Commissioner-G.-Shrikant",
+            "published": "2026-08-08T23:10:14",
+            "url": "https://www.esakal.com/pimpri-chinchwad/railway-level-crossings-on-pune-lonavala-route-to-be-closed-central-railway-plans-flyovers-at-seven-locations-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-08/5sc1i6ly/Railway-Gate",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "cf605c03198f",
+            "id": "eb07b406b9b9",
             "feed": "esakal",
-            "title": "Shirur News : हाताच्या फ्रॅक्चरच्या शस्त्रक्रियेसाठी आलेल्या महिलेचा शस्त्रक्रियेदरम्यान मृत्यु; महिलेच्या कुटूंबियांचा आक्रोश",
+            "title": "Nashik earthquake: नाशिक जिल्ह्यातील अनेक भागांमध्ये भूकंपाचे धक्के; 3.8 रिश्टर स्केलची तीव्रता",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-08T20:54:43",
-            "url": "https://www.esakal.com/pune/woman-dies-during-surgery-for-hand-fracture-grieving-family-members-break-down-in-anguish-shirur-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/efqr9d78/Puja-Gai",
+            "published": "2026-08-08T23:01:42",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-earthquake-3-8-magnitude-richter-scale-tremors-surgana-kalwan-helpline-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-08/2279wfrk/Latest-Marathi-Breaking-News-2026-08-08T223643.984.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4ebd89fd63f7",
-            "feed": "lokmat",
-            "title": "Pune Metro: मेट्रो स्टेशनसाठी सातारा रस्त्यावरील १३९ झाडांवर कुऱ्हाड; सातारा रस्ता पुन्हा उजाड",
+            "id": "1f24025db212",
+            "feed": "esakal",
+            "title": "Pune Metro : पुणे मेट्रो ३ साठी मुहूर्तच मिळेना; सर्व स्थानके कार्यान्वित होऊन मेट्रो धावेपर्यंत मार्च २०२७ उजाडणार",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-08T22:58:18",
+            "url": "https://www.esakal.com/pimpri-chinchwad/maan-hinjewadi-shivajinagar-pune-metro-3-faces-delays-full-operations-across-all-stations-expected-only-by-march-2027-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-04/mce7sz9e/Pune-Metro",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "230f020cce80",
+            "feed": "esakal",
+            "title": "Pune Dam Water : धरणे भरली, अन् चिंता मिटली; जिल्ह्यातील १३ धरणांमध्ये ९० टक्क्यांहून अधिक साठा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-08T20:51:36",
-            "url": "https://www.lokmat.com/pune/axe-felled-on-139-trees-on-satara-road-for-metro-station-satara-road-deserted-again-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-pune-metro-4_2026081759391.jpg",
+            "published": "2026-08-08T22:53:14",
+            "url": "https://www.esakal.com/pune/dams-filled-worries-eased-over-90-percent-water-storage-in-13-dams-across-the-district-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-08/8syi2ja5/Temghar-Dam",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "c0c1bf102af4",
+            "id": "e07cddc6614a",
             "feed": "esakal",
-            "title": "घोड्याच्या प्लाझ्मातून अँटीव्हेनम कसं तयार होतं? मग त्याचं काय केलं जातं? वाचा संपूर्ण कहाणी...",
+            "title": "भारताचा तिरंगा कोणी बनवला?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-08T21:24:43",
-            "url": "https://www.esakal.com/ampstories/web-story/why-is-snake-venom-given-to-horses-how-is-life-saving-antivenom-made-know-process-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/k3ljwj2j/Horse-Plasma.jpg",
+            "published": "2026-08-08T23:20:44",
+            "url": "https://www.esakal.com/ampstories/web-story/bharatacha-tiranga-koni-banavla-pingali-venkayya-indian-national-flag-history-tricolor-ashok-chakra-1921-1947-swatantrya-ladhha-rashtradhwaj-itihas-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-08/4pl913ya/ChatGPT-Image-Aug-8-2026-103332-PM.png",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "keyword"
         },
         {
-            "id": "671e681ab1e9",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-08T21:13:21",
-            "url": "https://www.esakal.com/desh/maharashtra-marathi-live-news-08-august-2026-weather-update-imd-rain-forecast-parliament-monsoon-session-nda-bjp-congress-pm-modi-jantar-mantar-protest-cjp-gold-silver-rate-share-market-devendra-fadnavis-eknath-shinde-sunetra-pawar-sports-entertainment-politics-finance-trending-viral-news-updates-srs92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d294a3dfd9cd",
+            "id": "31c1e897fd7f",
             "feed": "lokmat",
-            "title": "रोशनी अपार्टमेंटचा सज्जा कोसळला! दुसऱ्या आणि पहिल्या मजल्यावरील थेट तळमजल्यावर; ६०हून अधिक कुटुंबे रस्त्यावर!",
+            "title": "नगरसेवक रमेश म्हात्रेंची जामीनावर जेलमधून सुटका; महाराष्ट्राबाहेर राहण्याचे कोर्टाचे आदेश",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-08T21:11:41",
-            "url": "https://www.lokmat.com/vasai-virar/the-second-and-first-floor-of-roshni-apartment-collapsed-directly-onto-the-ground-floor-more-than-60-families-on-the-streets-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nalasopara-0808_2026081759395.jpg",
+            "published": "2026-08-08T22:55:58",
+            "url": "https://www.lokmat.com/kalyan-dombivli/high-court-grants-bail-to-former-corporator-ramesh-mhatre-in-doctor-assault-case-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramesh-mhatre-bail_2026081759404.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "c4e5668d0639",
+            "id": "972599784ca0",
             "feed": "maharashtratimes",
-            "title": "Crime News: अपघात नव्हे घातपातच! रेल्वे रुळांवरील बॉडी पाहून पोलिसांना शंका; फॉरेन्सिक PM रिपोर्टनं केस निकाली",
+            "title": "UPI Payments : यूपीआय पेमेंटवर आता चार्जेस लागणार का? केंद्र सरकारकडून स्पष्टीकरण",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-08T21:10:43",
-            "url": "https://maharashtratimes.com/india-news/gujarat-rajkot-married-girlfriend-dies-on-railway-track-over-marriage-pressure/articleshow/133055085.cms",
+            "published": "2026-08-08T22:18:25",
+            "url": "https://maharashtratimes.com/india-news/upi-transactions-free-for-users-no-charges-will-applicable-clarification-by-govt/articleshow/133055754.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "4e5c53e30e19",
-            "feed": "esakal",
-            "title": "हळद किती फायदेशीर आहे? आयुर्वेदात काय सांगितलंय?",
+            "id": "0a1fdadf52df",
+            "feed": "lokmat",
+            "title": "कावड यात्रेतील शिवभक्तांवर आक्षेपार्ह टिप्पणी, मौलाना साजिद रशीदी यांच्या विरोधात गुन्हा दाखल; हिंदू संघटना आक्रमक",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-08T21:54:46",
+            "url": "https://www.lokmat.com/national/fir-against-maulana-sajid-rashidi-for-making-offensive-remarks-on-shiv-devotees-during-kavad-yatra-hindu-organizations-are-aggressive-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maulana-sajid-rashidi_2026081759400.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fad769ad17c5",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 9 August  2026: कामिका एकादशी, धन योग, लक्ष्मी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ </b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-08T21:10:40",
-            "url": "https://www.esakal.com/ampstories/web-story/health-benefits-halad-kiti-faydeshir-aahe-ayurved-curcumin-turmeric-digestion-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/ygkuosp5/1.jpg",
+            "published": "2026-08-08T21:49:52",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-9-august-2026-in-marathi-kamika-ekadashi-dhan-yog-laxmi-yog-and-shubha-muhurta/articleshow/133055558.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "1a9a5fe5fc73",
+            "feed": "lokmat",
+            "title": "अमेरिकन फायटर जेटची राखरांगोळी; युद्धात पाडलेल्या विमानांच्या अवशेषांचे इराणने लावले प्रदर्शन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-08T22:14:01",
+            "url": "https://www.lokmat.com/international/iran-releases-photos-of-fighter-jet-wreckage-as-proof-of-losses-in-conflict-with-us-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-releases-photos-of-fighter-jet_2026081759402.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "e74d2dd757b4",
             "feed": "lokmat",
@@ -228,25 +244,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "11c6a8d647b9",
-            "feed": "lokmat",
-            "title": "World Breastfeeding Week 2026 : सिझर झाले तर दूध कमी येते का? आईने काय करायला हवे",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-08T18:42:39",
-            "url": "https://www.lokmat.com/sakhi/health/pregnancy/world-breastfeeding-week-2026-less-breast-milk-after-c-section-or-cesarean-true-or-false-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/less-breast-milk-after-c-section_2026081759350.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "76e4b36c4b3e",
+            "feed": "maharashtratimes",
+            "title": "Ind Vs SL Test Practice Match : श्रीलंकेविरुद्धच्या टेस्टआधी धोक्याची घंटा, टीम इंडियाचे 5 खेळाडू सराव सामन्यातच फेल! नेमके कोण? जाणून घ्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-08T22:21:57",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-practice-match-against-sri-lanka-five-players-proved-unsuccessful-pant-jaiswal-jurel-prasidh/articleshow/133055731.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "91fec90478a6",
+            "feed": "maharashtratimes",
+            "title": "Rishabh Pant : ऋषभ पंतला कुठे मिळणार जमीन? मुख्यमंत्र्यांचा 12 तासांतच प्रतिसाद, पुष्कर सिंह धामी नेमकं काय म्हणाले?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-08T21:39:07",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/rishabh-pant-land-purchase-uttarakhand-cm-pushkar-singh-dhami-responds-x-post/articleshow/133055238.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "2292a50dafbf",
             "feed": "maharashtratimes",
@@ -260,38 +292,6 @@
             "published": "2026-08-08T20:21:28",
             "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ashleigh-gardner-ex-wife-monica-wright-questions-cricket-australia-over-affair-allegations-with-georgia-voll/articleshow/133053537.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4812212d701a",
-            "feed": "lokmat",
-            "title": "IND vs SL XI Warm up Match : जड्डू-पडिक्कलची आश्वासक खेळी; गुरनूरची 'टी-२० स्टाईल' फटकेबाजी, २०० च्या स्ट्राईक रेटनं कुटल्या धावा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-08T20:11:02",
-            "url": "https://www.lokmat.com/cricket/news/jaddu-padikkals-promising-innings-gurnurs-t20-style-batting-runs-scored-at-a-strike-rate-of-200-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-xi-warm-up-match-m-_2026081759374.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "30344bb78be4",
-            "feed": "esakal",
-            "title": "Mrunal Thakur Yashasvi Jaiswal Dating Rumours: यशस्वी जैस्वालसोबत डेटिंगच्या चर्चांवर मृणाल ठाकूरनं मौन सोडलं; म्हणाली, “Gen Z...”",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-08T19:32:47",
-            "url": "https://www.esakal.com/krida/cricket/mrunal-thakur-yashasvi-jaiswal-dating-rumours-actress-reaction-viral-video-social-media-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/mlhel67z/Mrunal-Thakur-Yashasvi-Jaiswal-Dating-Rumours.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
