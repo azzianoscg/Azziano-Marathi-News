@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "08-08-2026 | 04:30 AM IST",
+    "lastUpdated": "08-08-2026 | 05:36 AM IST",
     "maharashtra": [
         {
             "id": "2c1d1773bc07",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "0f6aa5013c6e",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 8 ऑगस्ट 2026 : शनीची दृष्टी पडणार या राशींवर मात्र साडेसाती होणार दूर ग्रहदोष पीडा संपणार ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-08T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-8-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/133035658.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "954f2c211e39",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 8 August 2026: मूलांक 1 मित्रांच्या भेटी, घरात सुखसमाधान! मूलांक 5 इच्छा पूर्ण होण्याचे योग! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-08T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-8-august-2026-gauri-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133027199.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "22d168715993",
             "feed": "maharashtratimes",
             "title": "<b>पंचांग 8 August 2026: बुधादित्य योग, सम योग, हंसराज योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ </b>",
@@ -128,38 +160,6 @@
             "published": "2026-08-07T23:50:47",
             "url": "https://www.esakal.com/ampstories/web-story/amazing-health-benefits-of-eating-kiwi-every-day-asb02",
             "image": "https://cf-images.assettype.com/esakal/2026-08-07/ohy6hv35/Kiwi-benefits-during-periods-4.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "0ae9737a65c0",
-            "feed": "lokmat",
-            "title": "'माझ्या नवऱ्याला अपघातात मारून टाक, नाहीतर...'; व्हॉट्सॲप चॅटने उघड केला पत्नीच्या हत्येचा भीषण कट!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-07T23:43:20",
-            "url": "https://www.lokmat.com/crime/telangana-woman-plots-husband-murder-with-paramour-whatsapp-chat-exposes-plan-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/telangana-woman-plots-husband-murder_2026081758940.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "1ca64b40efa8",
-            "feed": "esakal",
-            "title": "रोज सकाळी त्रिफळा घेताय? मग शरीरात होतात 'हे' बदल!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-07T23:43:18",
-            "url": "https://www.esakal.com/ampstories/web-story/eat-triphala-every-morning-and-see-these-amazing-changes-in-your-body-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-07/7988289u/triphla.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
