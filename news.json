@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "08-08-2026 | 11:32 PM IST",
+    "lastUpdated": "09-08-2026 | 01:28 AM IST",
     "maharashtra": [
+        {
+            "id": "5cf6862566ec",
+            "feed": "lokmat",
+            "title": "नाशिकसह अहिल्यानगरच्या संगमनेर तालुक्यातही भूकंपाचे सौम्य धक्के, काही काळ भीतीचे वातावरण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-08T23:48:19",
+            "url": "https://www.lokmat.com/ahilyanagar/mild-tremors-of-earthquake-were-also-felt-in-sangamner-taluka-of-ahilyanagar-along-with-nashik-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sangamner-eartqueck_2026081759406.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9c6996b549d8",
+            "feed": "esakal",
+            "title": "Sangli Crime : सोनी-पाटगावमध्ये सराईत गुन्हेगाराचा धारदार शस्त्राने खून; मिरज तालुका हादरला, सांगली जिल्ह्यात भीतीचे वातावरण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-08T23:45:37",
+            "url": "https://www.esakal.com/paschim-maharashtra/patgaon-miraj-sangli-knowledgewar-dnyaneshwar-mauli-ramdas-patil-murder-sharp-weapon-old-enmity-soni-patgaon-crime-news-miraj-rural-police-sangli-murder-case-attackers-search-police-bandobast-maharashtra-crime-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-08/pikqsjmq/Esakal-52.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "45da527afe06",
+            "feed": "esakal",
+            "title": "Sakal Vastu Expo 2026 : पुण्यात घर घेण्याची सुवर्णसंधी ! ‘सकाळ वास्तू एक्स्पो’चे २२ आणि २३ ऑगस्टला आयोजन",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-08T23:36:14",
+            "url": "https://www.esakal.com/pune/golden-opportunity-to-buy-a-home-in-pune-sakal-vastu-expo-2026-to-be-held-on-august-22-and-23-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-08/lcfe2edr/Sakal-Vastu-Expo-2026",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "860c2bf6dd13",
             "feed": "esakal",
@@ -32,54 +80,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-08/5sc1i6ly/Railway-Gate",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "eb07b406b9b9",
-            "feed": "esakal",
-            "title": "Nashik earthquake: नाशिक जिल्ह्यातील अनेक भागांमध्ये भूकंपाचे धक्के; 3.8 रिश्टर स्केलची तीव्रता",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-08T23:01:42",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-earthquake-3-8-magnitude-richter-scale-tremors-surgana-kalwan-helpline-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/2279wfrk/Latest-Marathi-Breaking-News-2026-08-08T223643.984.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1f24025db212",
-            "feed": "esakal",
-            "title": "Pune Metro : पुणे मेट्रो ३ साठी मुहूर्तच मिळेना; सर्व स्थानके कार्यान्वित होऊन मेट्रो धावेपर्यंत मार्च २०२७ उजाडणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-08T22:58:18",
-            "url": "https://www.esakal.com/pimpri-chinchwad/maan-hinjewadi-shivajinagar-pune-metro-3-faces-delays-full-operations-across-all-stations-expected-only-by-march-2027-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-04/mce7sz9e/Pune-Metro",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "230f020cce80",
-            "feed": "esakal",
-            "title": "Pune Dam Water : धरणे भरली, अन् चिंता मिटली; जिल्ह्यातील १३ धरणांमध्ये ९० टक्क्यांहून अधिक साठा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-08T22:53:14",
-            "url": "https://www.esakal.com/pune/dams-filled-worries-eased-over-90-percent-water-storage-in-13-dams-across-the-district-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/8syi2ja5/Temghar-Dam",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "cfed8bada1b2",
+            "feed": "lokmat",
+            "title": "लिओनेल मेस्सीवर दुःखाचा डोंगर; दीर्घ आजारानंतर वडिलांचे निधन, मुलाच्या कारकिर्दीत निभावली होती खंबीर भूमिका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-08T23:38:59",
+            "url": "https://www.lokmat.com/football/lionel-messi-father-jorge-messi-passes-away-at-68-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lionel-messi-father-jorge-messi-dies_2026081759405.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "76e4b36c4b3e",
             "feed": "maharashtratimes",
             "title": "Ind Vs SL Test Practice Match : श्रीलंकेविरुद्धच्या टेस्टआधी धोक्याची घंटा, टीम इंडियाचे 5 खेळाडू सराव सामन्यातच फेल! नेमके कोण? जाणून घ्या",
@@ -275,22 +291,6 @@
             },
             "published": "2026-08-08T21:39:07",
             "url": "https://maharashtratimes.com/sports/cricket/cricket-news/rishabh-pant-land-purchase-uttarakhand-cm-pushkar-singh-dhami-responds-x-post/articleshow/133055238.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2292a50dafbf",
-            "feed": "maharashtratimes",
-            "title": "Ashleigh Gardner News : पत्नीचे चीटिंगचे आरोप, जॉर्जियाशी कथित अफेअरमुळे उपकर्णधार गार्डनरचं करिअर धोक्यात? वादात क्रिकेट बोर्डाच्या एन्ट्रीनं ट्वीस्ट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-08T20:21:28",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ashleigh-gardner-ex-wife-monica-wright-questions-cricket-australia-over-affair-allegations-with-georgia-voll/articleshow/133053537.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
