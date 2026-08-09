@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "09-08-2026 | 10:52 PM IST",
+    "lastUpdated": "09-08-2026 | 11:55 PM IST",
     "maharashtra": [
+        {
+            "id": "9b3b565990d0",
+            "feed": "esakal",
+            "title": "Sainik Takli Protest : आमदार यड्रावकरांच्या समर्थकांकडून सैनिक टाकळीच्या आंदोलकांना मारहाण?, शिरोळ तालुका बंदची हाक; तिरंग्याच्या काठीने मारल्याला आरोप",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-09T23:08:13",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/sainik-takli-protest-turned-tense-after-protesters-alleged-assault-by-mla-yadravkar-supporters-shirol-taluka-bandh-has-been-called-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/auojpmun/sandeep-shirguppe-2026-08-09T230708.176.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f6e7ac4a5448",
+            "feed": "lokmat",
+            "title": "नागपुरात खड्ड्यांवरून संताप, कामचुकार अधिकारी-कंत्राटदारांवर नितीन गडकरींकडून कारवाईचा हातोडा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-09T23:05:46",
+            "url": "https://www.lokmat.com/nagpur/anger-over-potholes-in-nagpur-nitin-gadkari-takes-action-against-defaulting-officers-and-contractors-a-a382-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nitin-gadkari-ngp-1_2026081759785.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "440a8942bdb1",
+            "feed": "maharashtratimes",
+            "title": "Ahilyanagar News : धीरज परदेशी मृत्यू प्रकरणी अहिल्यानगरमध्ये सोमवारी बंदची हाक, आमदार संग्राम जगताप आक्रमक",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-09T23:05:30",
+            "url": "https://maharashtratimes.com/maharashtra/ahilyanagar-news/mla-sangram-jagtap-aggressive-over-dheeraj-pardeshi-death-case/articleshow/133072180.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "bbb5277c6c3f",
             "feed": "esakal",
@@ -32,134 +80,86 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "8cf506a06df1",
-            "feed": "esakal",
-            "title": "Panvel-Karjat Railway Line: कर्जतहून नवी मुंबई आता आणखी जवळ! नवा रेल्वेमार्ग लवकरच खुला होणार; किती टक्के काम पूर्ण?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-09T22:32:14",
-            "url": "https://www.esakal.com/mumbai/karjat-navi-mumbai-connectivity-set-for-major-boost-panvel-karjat-rail-line-98-complete-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/ppcq7mux/Panvel-Karjat-Railway-Line.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c2919f5d6357",
-            "feed": "maharashtratimes",
-            "title": "Kolhapur Politics : मुश्रीफ आणि घाटगे एकत्र; ही युती नाही महायुती, फडणवीसांची टोलेबाजी; दिली फेविकोल जोडाची उपमा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-09T22:23:07",
-            "url": "https://maharashtratimes.com/maharashtra/kolhapur/devendra-fadnavis-on-hasan-mushrif-and-samarjit-raje-ghatge-unity/articleshow/133071268.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d365fb2c3b65",
-            "feed": "esakal",
-            "title": "Paithan Wari: १२ दिवसांनी संत एकनाथ महाराजांच्या पालखी-पादुका पैठणमध्ये दाखल; ‘नाथ महाराज की जय’च्या जयघोषाने स्वागत",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-09T22:21:39",
-            "url": "https://www.esakal.com/marathwada/sant-eknath-maharaj-palkhi-paduka-return-to-paithan-after-12-days-with-devotees-chanting-nath-maharaj-ki-jai-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/3b1t0296/sudhir-jadhav-satara-21.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "83ace319008b",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 10 August 2026: सोमप्रदोष, बुधादित्य योग, वज्र योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-09T22:32:58",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-10-august-2026-in-marathi-sompradosh-budhaditya-yog-vajra-yog-and-shubha-muhurta/articleshow/133071313.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5d1d7324a4d9",
+            "id": "6f8cd16faf39",
             "feed": "esakal",
-            "title": "RG Kar Case: दोन वर्षांनंतर आरजी कर प्रकरणाला नवं वळण! पुन्हा चौकशी होणार; शुभेंदू अधिकारी सरकारचा मोठा निर्णय",
+            "title": "हात-पाय सुजतात पण वेदना नाहीत? शरीर देतंय ‘हे’ महत्त्वाचे संकेत",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-09T21:34:51",
-            "url": "https://www.esakal.com/desh/chief-minister-suvendu-adhikari-has-ordered-re-investigation-into-rg-kar-hospital-abused-case-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/9zgp64g6/RG-Kar-Rape-Murder-Case-Re-Investigation.jpg",
+            "published": "2026-08-09T23:51:57",
+            "url": "https://www.esakal.com/ampstories/web-story/no-pain-but-swelling-dont-ignore-these-warning-signs-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/0qzdaqsh/Leg-cramps-home-remedies-2.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "b0fb59b465ba",
-            "feed": "maharashtratimes",
-            "title": "Shubhangi Atre : 'नवऱ्याचं दारूचं व्यसन वाढलं, स्वभाव चिडचिडा झाला', लोकप्रिय अभिनेत्रीनं सांगितलं लग्नाच्या 19 वर्षांनी घटस्फोट घेण्याचं कारण",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-09T20:59:08",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/shubhangi-atre-talks-about-her-divorce-with-piyush-poorey/articleshow/133070064.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "441a7d9a2d7a",
+            "id": "1fdf629ab198",
             "feed": "esakal",
-            "title": "किडनी खराब होतेय? डोळ्यांमध्ये दिसू शकतात ‘हे’ 6 संकेत",
+            "title": "सकाळी भिजवलेले मनुके खाल्ल्याने काय होते?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-09T20:51:23",
-            "url": "https://www.esakal.com/ampstories/web-story/kidney-problems-these-6-signs-may-appear-in-your-eyes-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/kzle95cy/Back-pain-and-kidney-connection.jpg",
+            "published": "2026-08-09T23:44:46",
+            "url": "https://www.esakal.com/ampstories/web-story/what-happens-when-you-eat-soaked-raisins-in-the-morning-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/ufdb8mne/Eat-Raisins-the-Right-Way-to-Boost-Your-Weight-Loss-Journey-7.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "b62f0e7c5584",
+            "id": "23349600543b",
+            "feed": "maharashtratimes",
+            "title": "१ करोडचा फ्लॅट पण प्लास्टर झोपडपट्टीसारखं, श्रीमंत सोसायटीमधील व्हिडीओ व्हायरल, मुलगा थोडक्यात वाचला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-09T23:18:32",
+            "url": "https://maharashtratimes.com/viral/viral-news/ceiling-plaster-falls-in-1-crore-noida-flat-while-son-was-standing-below-video-viral/articleshow/133072763.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6a6950d9e315",
+            "feed": "maharashtratimes",
+            "title": "बालवाडीची फी ९ लाख रुपये, आठवड्याला फक्त २ दिवस शाळा, अमेरिकेतील भारतीय महिलेचा व्हिडीओ व्हायरल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-09T23:08:12",
+            "url": "https://maharashtratimes.com/viral/viral-news/us-preschool-fees-shock-indian-mom-9-lakh-a-year-for-early-education-video-viral/articleshow/133072539.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "8c60ee81a197",
             "feed": "lokmat",
-            "title": "घरात स्लिपर वापरणं चांगलं की चुकीचं? ८ कारणं, या सवयीचा काय परिणाम होतो, पाहा",
+            "title": "भरधाव कारच्या धडकेत चिमुकली जखमी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-09T20:45:20",
-            "url": "https://www.lokmat.com/sakhi/photos/health/is-it-good-or-bad-to-wear-slippers-at-home-8-reasons-to-wear-slippers-at-home-a-lifestyle-diseases-photo-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-09-at-1.30.33-pm_2026081759612.jpeg",
+            "published": "2026-08-09T22:59:41",
+            "url": "https://www.lokmat.com/pimpri-chinchwad/toddler-injured-in-hit-and-run-by-speeding-car-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/accident-10_202002369644.gif",
             "isBreaking": false,
             "category_reason": "default"
         }
