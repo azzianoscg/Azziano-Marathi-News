@@ -1,202 +1,170 @@
 {
-    "lastUpdated": "09-08-2026 | 01:27 PM IST",
+    "lastUpdated": "09-08-2026 | 03:33 PM IST",
     "maharashtra": [
         {
-            "id": "10cc24d913a8",
+            "id": "b5f4ff43f2e7",
             "feed": "esakal",
-            "title": "Mumbai: मुंबईतील पदपथांवरील अतिक्रमणे १५ दिवसांत हटवणार, निष्काळजी अधिकाऱ्यांवरही कारवाई होणार; महापालिकेची नवी उपाययोजना",
+            "title": "Kishori Pednekar: ... तर अधिकाऱ्यांच्या दालनात कचरा फेकू, विरोधी पक्षनेत्या किशोरी पेडणेकर यांचा इशारा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-09T13:24:48",
-            "url": "https://www.esakal.com/mumbai/bmc-pedestrians-first-campaign-mumbai-footpaths-encroachments-will-removed-within-15-days-and-action-taken-on-negligent-officials-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-08/mrmldcux/BMC.jpg",
+            "published": "2026-08-09T15:26:47",
+            "url": "https://www.esakal.com/mumbai/kishori-pednekar-warned-garbage-dump-protest-in-offices-of-officials-if-sanitation-system-does-not-improve-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2022-12/30736baf-61c8-41dc-aafc-19bd56253cb1/Ankita_Khane___2022_12_22T200657_476.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "04c2dcd326d4",
+            "id": "33e12e67f786",
             "feed": "esakal",
-            "title": "Maharashtra Teacher Promotion: शिक्षक पदोन्नतीचा मार्ग मोकळा; ‘टीईटी’ची अट कायम; ३१ पर्यंत प्रक्रिया पूर्ण करण्याचे आदेश",
+            "title": "मला मराठ्यांपासून लांब ठेवण्याचा पूर्वनियोजित कट; मनोज जरांगे आक्रमक, सरकारवर सडकून टीका",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-09T13:24:23",
-            "url": "https://www.esakal.com/vidarbha/nagpur/teacher-promotion-maharashtra-zp-primary-teachers-tet-ctet-eligibility-august-31-promotion-process-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/u3plkw32/Abhi.jpg",
+            "published": "2026-08-09T15:22:31",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/manoj-jarange-patil-madha-speech-maratha-reservation-government-preplanned-conspiracy-certificates-cancelled-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/fvrxrlf4/Manoj-Jarange-Patil-criticize-Government",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "c201faefc9b6",
-            "feed": "lokmat",
-            "title": "पुण्यात केस कापायचा, गावात एअर फोर्स जवान म्हणून मिरवायचा; बीडच्या शुभमला अटक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-09T13:20:56",
-            "url": "https://www.lokmat.com/pune/crime-news-used-to-cut-hair-in-pune-pretended-to-be-an-air-force-jawan-in-the-village-shubham-from-beed-arrested-a-a1014-c1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-bedd0_2026081759556.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8ed43f63dffb",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : बारामतीमध्ये पुन्हा विमान दुर्घटना, विमानतळावर प्रशिक्षण विमान कोसळलं",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-09T13:15:54",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-9th-august-2026-imd-weather-updates-manoj-jarange-patil-abhijeet-dipke-cjp-pune-mumbai-traffic-iran-russia-america-ssy93-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0e24bcd3228e",
+            "id": "1be94de92413",
             "feed": "maharashtratimes",
-            "title": "Pune Crime : पुण्यात पुन्हा पबचा नंगानाच! विमानतळजवळील नामांकित पबवर पहाटे धाड, आतील दृश्य पाहून पोलिसही चक्रावले, सर्वत्र एकच चर्चा",
+            "title": "कोकणात जमिनी विकण्याचा धंदा, राज ठाकरे संतापले; रायगड दौऱ्यात तटकरेंवर निशाणा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-09T13:15:04",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/pune-police-raid-the-houzz-commune-pub-near-airport-files-case-against-owner-and-manager/articleshow/133063966.cms",
+            "published": "2026-08-09T15:21:39",
+            "url": "https://maharashtratimes.com/maharashtra/raigad/raj-thackeray-criticizes-sunil-tatkare-aditi-tatkare-during-raigad-visit/videoshow/133065290.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "55f62f66431e",
+            "feed": "esakal",
+            "title": "चिंचवडगावात हरिनामाच्या गजरात संतभेटीचा सोहळा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-09T15:16:50",
+            "url": "https://www.esakal.com/pune/sant-tukaram-maharaj-palakhi-chinchwad",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/pxuq8hcs/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "10047af3f6fc",
+            "feed": "esakal",
+            "title": "ड्राय पोर्ट रचना",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-09T15:16:15",
+            "url": "https://www.esakal.com/pune/solapur-dry-port-development",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/lniq6y3y/Banner1.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "542bad4b0e0e",
-            "feed": "lokmat",
-            "title": "रोज नेसायला घ्या हलक्या, मऊ खादी कॉटनच्या साड्या; १० सुंदर पॅटर्न्स, सिंपल-एलिगंट दिसाल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-09T13:19:48",
-            "url": "https://www.lokmat.com/sakhi/photos/shopping/khadi-cotton-saree-10-patterns-new-collection-of-khadi-cotton-saree-for-daily-wear-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-09-at-10.49.25-am_2026081759494.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "1d7e01f4d58e",
+            "id": "070456ba69ad",
             "feed": "esakal",
-            "title": "मनी प्लांटची वेल जमिनीवर पसरतेय? वास्तुशास्त्रानुसार होऊ शकतात ‘हे’ 3 नुकसान",
+            "title": "रात्री झोपेत पडलेली स्वप्न सकाळी आठवत का नाही? तर काही स्मरणात का राहतात, वाचा वैज्ञानिक कारण...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-09T13:16:39",
-            "url": "https://www.esakal.com/ampstories/web-story/money-plant-vastu-tips-creeper-growing-on-floor-3-negative-effects-and-right-direction-rules-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/ufnjqche/1.jpg",
+            "published": "2026-08-09T15:32:31",
+            "url": "https://www.esakal.com/ampstories/web-story/why-dont-you-remember-your-dreams-after-waking-up-why-do-some-things-remain-in-memory-know-science-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/g3alcfcy/Dreams-Feel-Real-at-Night-But-Why-Do-We-Forget-Them-in-the-Morning.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "1f2a40465551",
-            "feed": "esakal",
-            "title": "UPSCत ८५वी रँक, तरी IAS ऐवजी IPS निवडलं, NIA नंतर आता CRPFमध्ये मोठी जबाबदारी; कोण आहेत IPSसंजुक्ता पराशर?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-09T13:06:11",
-            "url": "https://www.esakal.com/ampstories/web-story/sanjukta-parashar-ips-upsc-rank-85-chose-ips-over-ias-now-gets-key-crpf-role-after-serving-with-nia-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/rh0p235d/sanjukta-parashar-4.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "fc375851adfa",
+            "id": "b3b9d8f9d8c0",
             "feed": "maharashtratimes",
-            "title": "Shalarth ID Scam: मंगल देशा, घोटाळ्यांच्या देशा!",
+            "title": "Nirmal Purja: हिमालयपुत्र विसावला हिमालयाच्या कुशीत!",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-09T13:02:47",
-            "url": "https://maharashtratimes.com/editorial/samwad/nashik-shalarth-id-scam-special-explainer/articleshow/133063717.cms",
+            "published": "2026-08-09T15:29:15",
+            "url": "https://maharashtratimes.com/editorial/ravivar-mata/world-renowned-nepali-mountaineer-nirmal-purja-and-9-other-expert-mountaineers-tragically-passed-away/articleshow/133065127.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "daddaf893097",
+            "id": "b1e0df86be16",
             "feed": "lokmat",
-            "title": "Madhu Sharma : लग्नानंतर १३ वर्षांनी स्वप्नपूर्ती! २ मुलांची आई झाली पोलीस ऑफिसर; मधू शर्मा यांची नेत्रदीपक भरारी",
+            "title": "यशच्या 'टॉक्सिक' सिनेमाचा ट्रेलर रिलीज, 'या' कारणामुळे ट्रोल; सिद्धार्थ मल्होत्राची कियारासाठी पोस्ट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-09T13:01:04",
-            "url": "https://www.lokmat.com/sakhi/inspirational/madhu-sharma-mp-police-si-success-story-after-marriage-mother-of-two-become-sub-inspector-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/madhu-sharma_2026081759545.jpeg",
+            "published": "2026-08-09T15:26:45",
+            "url": "https://www.lokmat.com/filmy/hollywood/yash-kiara-advani-nayanthara-starrer-toxic-trailer-released-actor-is-getting-troll-for-some-scenes-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/toxic-ki-yash_2026081759654.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "f11354fc7273",
+            "feed": "lokmat",
+            "title": "पिकलेल्या केळीत काळी मिरी घालून रोप लावण्याची भन्नाट ट्रिक! भराभर वाढेल काळ्या मिरीची वेल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-09T15:19:06",
+            "url": "https://www.lokmat.com/sakhi/gardening/how-to-grow-black-pepper-plant-in-pot-at-home-in-less-duration-by-using-banana-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-09-at-1.26.18-pm_2026081759626.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "70a476f4f9f8",
+            "feed": "lokmat",
+            "title": "१५ वर्षांनंतरही मावळच्या जखमा अजूनही ताज्या..! बंद जलवाहिनीवरची स्थगिती उठली;पण शेतकऱ्यांचा विरोध कायम",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-09T15:11:08",
+            "url": "https://www.lokmat.com/pimpri-chinchwad/even-after-15-years-the-wounds-of-maval-are-still-fresh-the-moratorium-on-the-closed-water-channel-has-been-lifted-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maval-000_2026081759628.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
-        {
-            "id": "b1ba32e5a373",
-            "feed": "lokmat",
-            "title": "'टॉक्सिक'मधील BOLD सीन्समुळे ट्रोल झालेल्या कियारा अडवाणीला यश म्हणाला- \"तू खूप...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-09T10:56:49",
-            "url": "https://www.lokmat.com/filmy/south-movies/yash-talk-about-kiara-advani-who-trolled-intimate-scene-in-toxic-movie-yash-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yash-talk-about-kiara-advani-who-trolled-intimate-scene-in-toxic-movie-yash-_2026081759487.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "11f71a337416",
-            "feed": "lokmat",
-            "title": "Himanshi Khurana : कॅनडामध्ये हिमांशी खुराना हत्या प्रकरणातील आरोपी अब्दुलला अटक; ८ महिन्यांपासून होता फरार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-09T10:37:07",
-            "url": "https://www.lokmat.com/crime/toronto-man-arrested-in-himanshi-khurana-murder-in-canada-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/himanshi-khurana1_2026081759468.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
         {
             "id": "e7b559612a5a",
             "feed": "esakal",
@@ -244,104 +212,136 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-08/6ezf7qqs/Latest-Marathi-Breaking-News-2026-08-08T175438.128.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        }
-    ],
-    "sports": [
+        },
         {
-            "id": "069aae8008e1",
+            "id": "21ec990b858d",
             "feed": "esakal",
-            "title": "World Athletics U20 Championships: वर्ल्ड अंडर-२० ॲथ्लेटिक्समध्ये भारताचा डंका; आशिष यादवला रौप्य, तर शाहनवाज खानने जिंकले कांस्य पदक!",
+            "title": "Premium|Saudi Arabia Nuclear Deal : सौदीच्या अणुकरारामुळे पश्चिम आशियात नवी शस्त्रस्पर्धा पेटणार?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-09T12:51:16",
-            "url": "https://www.esakal.com/krida/world-athletics-u20-championships-ashish-yadav-wins-silver-shahnawaz-khan-bronze-india-medals-athletics-news-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/roejxz56/World-Athletics-U20-Championships.jpg",
+            "published": "2026-08-08T17:00:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/saudi-arabia-us-nuclear-deal-middle-east-nuclear-race-iran-israel-regional-security-geopolitics-uranium-enrichment-strategic-balance-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-02/mpbin0y0/Abhi-72.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "9b81bdc451e1",
+            "id": "11216d457ce6",
+            "feed": "maharashtratimes",
+            "title": "Indian Student Dies in US: PhDचं स्वप्न अधुरं! भारतीय तरुणाचा अमेरिकेत शेवट; लोकेशन पाठवून एकाएकी गायब, छंद जीवावर बेतला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-08-08T16:53:56",
+            "url": "https://maharashtratimes.com/international/international-news/indian-origin-phd-student-dies-during-solo-trekking-in-california/articleshow/133051264.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "sports": [
+        {
+            "id": "1389fe40d9a1",
+            "feed": "maharashtratimes",
+            "title": "Rohit Sharma News : रोहितनं अजून किती परीक्षा द्यायच्या?  २०२७ वर्ल्डकपवरुन अजिंक्य रहाणेने निवड समितीला सुनावलं, काय म्हणाला?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-09T15:29:31",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ajinkya-rahane-urges-to-selectors-and-bcci-over-rohit-sharma-2027-world-cup-clarity/articleshow/133064211.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "87337f01eebe",
             "feed": "lokmat",
-            "title": "Rohit Sharma: रोहित शर्मा २०२७ चा वनडे वर्ल्ड कप खेळणार का? पुन्हा निवृत्तीच्या चर्चांना उधाण!",
+            "title": "माजी क्रिकेटपटूच्या मुलाचा मैदानात धुमाकूळ, सुपरफास्ट अर्धशतकानंतर ३ विकेट्स घेतल्या, कोण आहे तो?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-09T12:47:17",
-            "url": "https://www.lokmat.com/cricket/news/team-india-former-captain-rohit-sharma-retirement-rumours-before-icc-odi-world-cup-2027-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rohit-sharma-3_2026081759540.jpg",
+            "published": "2026-08-09T14:57:15",
+            "url": "https://www.lokmat.com/cricket/news/former-cricketer-michael-vaughan-son-archie-shines-with-bat-and-ball-powers-somerset-to-188-run-win-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/archie-vaughan_2026081759619.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "8c803bb48a93",
+            "id": "e62b0fe6451b",
             "feed": "esakal",
-            "title": "Korea Masters 2026: पहिला गेम गमावला, पण हार मानली नाही; अश्मिता चालिहाने थाटात जिंकला पहिला BWF वर्ल्ड टूर विजेतेपद",
+            "title": "ODI World Cup मधूनच बाहेर होण्याची वेस्ट इंडिजवर पुन्हा टांगती तलवार, थेट एन्ट्री हुकली! काय आहे यामागचं गणित?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-08-09T11:26:57",
-            "url": "https://www.esakal.com/krida/korea-masters-2026-asmita-chaliha-first-bwf-world-tour-title-han-qian-shi-comeback-final-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/0p31k5ii/viral-video-3.jpg",
+            "published": "2026-08-09T14:31:30",
+            "url": "https://www.esakal.com/krida/cricket/west-indies-miss-direct-qualification-icc-mens-odi-world-cup-2027-after-afghanistan-defeat-ireland-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/7ib21ocl/West-Indies-ODI-Team.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "04343e9a20da",
+            "id": "88292792de8a",
             "feed": "lokmat",
-            "title": "महेश बाबूच्या वाढदिवसाला राजामौलींनी शेअर केला 'वाराणसी'मधील अभिनेत्याचा फर्स्ट लूक; फोटो बघाच",
+            "title": "केंद्राची 'गोबरधन' योजनेला मंजुरी; पेट्रोलमध्ये इथेनॉलनंतर आता CNG मध्ये 'बायो-गॅस' मिळण्याची तयारी?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "business"
             },
-            "published": "2026-08-09T13:15:30",
-            "url": "https://www.lokmat.com/filmy/south-movies/on-mahesh-babus-birthday-rajamouli-shared-the-actors-first-look-from-varanasi-movie-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/on-mahesh-babus-birthday-rajamouli-shared-the-actors-first-look-from-varanasi-movie_2026081759551.jpg",
+            "published": "2026-08-09T15:18:25",
+            "url": "https://www.lokmat.com/business/news/centre-approves-gobar-dhan-scheme-after-ethanol-in-petrol-now-ready-to-get-bio-gas-in-cng-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bio-gas-in-cng_2026081759635.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "7ecdc3a9b1f1",
+            "id": "70d1d247e7ad",
             "feed": "maharashtratimes",
-            "title": "Milk Price Hike : वाढत्या डिझेलच्या किंमतीचा फटका दुधाला! पनीर, दही, ताक महागणार; दोन दिवसांत नव्या किंमती होणार लागू",
+            "title": "MomsMade Success Story : आई-मुलाच्या जोडीने केली कमाल! घरातून सुरु केला बिझनेस, आज कोटींचा टर्नओव्हर",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-09T12:53:10",
-            "url": "https://maharashtratimes.com/business/business-news/milk-price-hike-in-maharashtra-reasons-and-new-price-rate/articleshow/133063671.cms",
+            "published": "2026-08-09T15:14:26",
+            "url": "https://maharashtratimes.com/business/business-news/momsmade-a-sweets-brand-from-banglore-business-success-story/articleshow/133065074.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fdb1cf81247d",
+            "id": "e20c88db4648",
             "feed": "lokmat",
-            "title": "'गोकुळ' दूध संघाने केली खरेदी विक्री दरात वाढ; जाणून घ्या दुधाचे सुधारित दर",
+            "title": "९० दिवसांपासून तांत्रिक कारणांमुळे महाडीबीटी पोर्टल बंद; लाभार्थीची गैरसोय, अनुदान वितरणाची प्रक्रिया रखडली",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-09T12:45:16",
-            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/gokul-milk-association-increases-purchase-and-sale-prices-know-the-revised-milk-prices-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-u-34-u-34-gokul-milk_2026081759518.jpeg",
+            "published": "2026-08-09T14:40:37",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/mahadbt-portal-closed-for-90-days-due-to-technical-reasons-beneficiary-inconvenience-grant-distribution-process-stalled-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-34-34-34-mahadbt-portal_2026081759547.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
