@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "10-08-2026 | 10:13 PM IST",
+    "lastUpdated": "10-08-2026 | 11:13 PM IST",
     "maharashtra": [
+        {
+            "id": "b5dc65c9d203",
+            "feed": "esakal",
+            "title": "Mulshi Rain Update : मुळशीत गतवर्षीपेक्षा दुप्पट पाऊस! ३,४५० मिलिमीटरची वाढ; टेमघर, वरसगावमध्ये घट",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T22:50:06",
+            "url": "https://www.esakal.com/pune/mulshi-receives-twice-as-much-rainfall-as-last-year-3450-mm-increase-while-temghar-and-varasgaon-see-decline-rain-monsoon-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/91bqgq2z/Temghar-Dam-Water",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "81e3085e9541",
+            "feed": "esakal",
+            "title": "विद्यार्थ्यांनो, तुमच्या हातात बदलाची ताकद! गावाची समस्या जगासमोर मांडा; साम टीव्ही देतंय ‘Next Gen Reporter’चं व्यासपीठ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T22:30:22",
+            "url": "https://www.esakal.com/maharashtra/your-story-can-change-system-become-next-gen-reporter-with-saam-tv-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/8h4qlpma/Next-Gen-Reporter.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0843f2043781",
+            "feed": "esakal",
+            "title": "Pune Grand Tour : पुणे ग्रँड टूरसाठी ४१३ किमीचे नवीन रस्ते; ६२७ कोटींचा खर्च",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T22:25:06",
+            "url": "https://www.esakal.com/pune/413-km-of-new-roads-for-pune-grand-tour-rupees-627-crore-investment-planned-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-06-18/6nsdx9yz/pune-grand-tour-2026",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1d2919ac57e7",
+            "feed": "esakal",
+            "title": "Nutritious Diet : पोषण आहाराअभावी विद्यार्थ्यांची ताटे रिकामीच! कुठे तेल आहे तर तांदूळ नाही, हळद आहे तर जिरे-मोहरी नाही",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T22:19:55",
+            "url": "https://www.esakal.com/pune/students-plates-remain-empty-due-to-lack-of-nutritional-food-oil-available-but-no-rice-spices-missing-too-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/rasq5xpd/Nutritional-Food",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "370473644d8e",
             "feed": "maharashtratimes",
@@ -16,73 +80,73 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "1059f8196cc2",
-            "feed": "esakal",
-            "title": "Pune News : रिंग फसली, आयुक्तांनी रद्द केला ७५ कोटींचा निविदा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T22:00:55",
-            "url": "https://www.esakal.com/pune/tendering-irregularities-exposed-municipal-commissioner-naval-kishor-ram-cancels-rupees-75-crore-tender-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-24/7jkiusr7/Municipal-Commissioner-naval-kishor-ram",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9d75e042a337",
-            "feed": "esakal",
-            "title": "Marathi News Updates : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T21:59:03",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-10-august-2026-parliament-monsoon-session-pm-narendra-modi-amit-shah-rahul-gandhi-dharmendra-pradhan-maratha-reservation-manoj-jarange-andolan-fda-tukaram-mundhe-neet-mpsc-exam-weather-update-khadakwasla-koyna-dam-maharashtra-government-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0860bb8df58a",
-            "feed": "maharashtratimes",
-            "title": "Ratnagiri News : रत्नागिरीत समुद्रकिनारा आणि पर्यटनस्थांवर संपूर्ण ब्लास्टिक बंदी, जिल्हाधिकाऱ्यांचे नियमावली तयार करण्याचे आदेश",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T21:57:13",
-            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/complete-plastic-ban-at-tourist-spots-in-ratnagiri-orders-to-prepare-guidelines/articleshow/133117357.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8243a037867f",
-            "feed": "maharashtratimes",
-            "title": "Raigad News : रायगडमध्ये दोन एसटी बसचा समोरासमोर अपघात, दोन्ही बसचे प्रवासी जखमी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T21:10:08",
-            "url": "https://maharashtratimes.com/maharashtra/raigad/two-st-bus-accident-in-raigad-kurle-ghat/articleshow/133111236.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "8e378e0e194f",
+            "feed": "esakal",
+            "title": "गुरुदेव रवींद्रनाथ टागोर यांना आठवण्याचे हे दिवस",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-10T23:05:30",
+            "url": "https://www.esakal.com/sampadakiya/bhayashunya-chitta-jeth-rabindranath-tagore-message-indian-democracy-youth-movement-cockroach-janta-party-abhijeet-dipke-jantar-mantar-modi-shah-political-analysis-india-democracy-emergency-opposition-delimitation-womens-reservation-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/h7tf73ei/Esakal-57.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "1d58c8386839",
+            "feed": "maharashtratimes",
+            "title": "Revati Sule And Sarang Lakhanee Reception : मोदी, शाह ते सोनिया गांधी, रेवती सुळे-सारंग लखानी यांच्या रिस्पेशनच्या कार्यक्रमात दिग्गजांची हजेरी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-10T22:55:32",
+            "url": "https://maharashtratimes.com/photogallery/news/pm-narendra-modi-amit-shah-attend-revati-sule-and-sarang-lakhanee-reception/photoshow/133124492.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "9e7f62ad93fa",
+            "feed": "esakal",
+            "title": "India Unemployment Rate: तरुणांसाठी नोकरीची चिंता कायम! देशातील बेरोजगारीची स्थिती ‘जैसे थे’; दर ५.५ टक्क्यांवर स्थिर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-10T22:13:44",
+            "url": "https://www.esakal.com/desh/india-unemployment-rate-june-2026-employment-job-market-women-labour-force-participation-latest-government-data-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/bglvbs0t/India-Unemployment-Rate-April-June-2026",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "f300d9b08b12",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 11 August 2026: चतुर्ग्रही योग, गौरी योग, गजकेसरी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-10T22:13:06",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-11-august-2026-in-marathi-chaturgrahi-yog-gauri-yog-gajakesari-yog-and-shubha-muhurta/articleshow/133118609.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "eab0cf8fcffd",
             "feed": "esakal",
@@ -98,73 +162,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-10/0oxilow6/‘Kon-Honar-Crorepati’-Announces-New-Season-With-Madhuri-Dixit-as-Host.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "5a8e33940303",
-            "feed": "maharashtratimes",
-            "title": "Pranav Elango Success Story: तामिळनाडूच्या १७ वर्षीय प्रणवला 'ब्राउन युनिव्हर्सिटी'ची ३.५५ कोटींची शिष्यवृत्ती; गणितात होता वर्ल्ड टॉपर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-10T21:21:04",
-            "url": "https://maharashtratimes.com/career/career-news/tamil-nadu-pranav-elango-brown-university-ivy-league-scholarship-2026/articleshow/133114085.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "b739efbd43ab",
+            "id": "49e27e15f3af",
             "feed": "esakal",
-            "title": "वाढदिवसाला केक आणि मेणबत्त्या विझवण्याची परंपरा कशी आणि कधी सुरू झाली? जाणून घ्या इतिहास...",
+            "title": "Abu Dhabi Visa: भारतीय पर्यटकांसाठी खुशखबर! अबू धाबीचा UAE व्हिसा मोफत मिळणार, अटी काय अन् कुणाला फायदा होणार?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-10T21:16:56",
-            "url": "https://www.esakal.com/ampstories/web-story/why-do-we-put-candles-on-birthday-cakes-and-blow-them-out-know-history-behind-this-tradition-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/eakr31nr/Why-Do-We-Put-Candles-on-Birthday-Cakes-Tradition-Has-an-Ancient-Connection.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "eafb43fe13bc",
-            "feed": "maharashtratimes",
-            "title": "पेशंट गेलाय! डॉक्टरांनी 'मृत' ठरवलं, 17 तासांनंतर आजी 'जिवंत'; 9 दिवसांनंतर मृत्यूशी झुंज संपुष्टात",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-10T21:13:51",
-            "url": "https://maharashtratimes.com/india-news/up-agra-dead-old-woman-alive-after-17-hours-lost-battle-of-life-after-9-days/articleshow/133115074.cms",
-            "image": "",
+            "published": "2026-08-10T22:47:20",
+            "url": "https://www.esakal.com/global/abu-dhabi-has-launched-free-uae-visa-scheme-for-indian-tourists-check-eligibility-and-conditions-offer-explained-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/z004jv6g/Abu-Dhabi’s-Special-Visa-Offer-for-Indians-Free-UAE-Entry-Visa-Until-October-31.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
-        {
-            "id": "a8d6270777f9",
-            "feed": "maharashtratimes",
-            "title": "Prajakta Mali : प्राजक्ता माळीनं खास पद्धतीनं साजरा केला वाढदिवस; केलं श्रमदान, कुटुंबासह शेतात राबली अभिनेत्री",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-10T21:04:05",
-            "url": "https://maharashtratimes.com/photogallery/entertainment/prajakta-mali-did-farming-on-her-birthday-shares-post/photoshow/133114974.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "world": [
         {
             "id": "4a7e1964ce95",
             "feed": "lokmat",
@@ -228,22 +244,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "1a5a90927edf",
-            "feed": "lokmat",
-            "title": "चीनमध्ये महापूर, १५० वर्षांत पहिल्यांदाच पडला एवढा पाऊस, शांघाईची झाली तुंबई, आलं मोठं संकट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-10T18:23:15",
-            "url": "https://www.lokmat.com/international/typhoon-dolphin-in-china-massive-floods-in-china-shanghai-inundated-such-a-big-crisis-for-the-first-time-in-150-years-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/china-flood-news-1_2026081760305.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
