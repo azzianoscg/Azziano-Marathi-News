@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "10-08-2026 | 06:14 PM IST",
+    "lastUpdated": "10-08-2026 | 07:43 PM IST",
     "maharashtra": [
         {
-            "id": "8efb80be6c3a",
+            "id": "ba8ea6054e2d",
+            "feed": "esakal",
+            "title": "Narayangaon Crime : श्री तुळजाभवानी सांस्कृतिक कला केंद्र गोळीबार प्रकरणातील एक जणाला अटक; अटक आरोपी कुविख्यात गुन्हेगार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T19:42:59",
+            "url": "https://www.esakal.com/pune/one-arrested-in-shri-tuljabhavani-cultural-art-centre-firing-case-accused-is-a-notorious-criminal-narayangaon-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/0The_20four_20were_20arrested_20by_20the_20police_20after_20they_20broke_20the_20signal_20and_20fled_0.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2b6df1d6987a",
             "feed": "maharashtratimes",
-            "title": "सरकार जरांगेंना फसवतय? भास्कर जाधवांचा गंभीर आरोप | Bhaskar Jadhav On Manoj Jarange",
+            "title": "भाजप नेते Suresh Dhas यांना पहिलं आमदारकीचं तिकिट कसं मिळालं?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-10T18:05:24",
-            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/bhaskar-jadhav-takes-aim-at-devendra-fadnavis/videoshow/133106247.cms",
+            "published": "2026-08-10T19:38:54",
+            "url": "https://maharashtratimes.com/maharashtra/beed/how-did-suresh-dhas-get-his-first-ticket-to-contest-the-mla-election/videoshow/133110509.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "45dc21a1b8c3",
+            "id": "bf998fa9977e",
             "feed": "lokmat",
-            "title": "धरती थरथरते... भिंती हादरतात; सांगा कोटोडीत आम्ही जगायचं तरी कसं?",
+            "title": "Latest Marathi News Live: आम्ही चर्चेस तयार, संसदेत या, जे. पी. नड्डा यांचं राहुल गांधी यांना आव्हान",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-10T18:03:34",
-            "url": "https://www.lokmat.com/nagpur/the-earth-trembles-the-walls-shake-tell-me-how-can-we-live-in-kotodi-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-50_2026081760295.png",
+            "published": "2026-08-10T19:38:29",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-10-august-2026-parliament-session-delimitation-bill-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-cjp-abhijeet-dipke-tukaram-mundhe-election-in-pok-donald-trump-us-israel-iran-shiv-sena-ncp-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e7ff43eaba50",
-            "feed": "lokmat",
-            "title": "श्रावणात भीमाशंकर मंदिर पहाटे ५ ते रात्री ९.३० वाजेपर्यंत खुले; भाविकांची वाढती गर्दी लक्षात घेऊन निर्णय",
+            "id": "765ebe0813a5",
+            "feed": "esakal",
+            "title": "Ulhasnagar News : आयपीएस लोहित मतानी यांच्या पुस्तकातून उलगडणार सिंध स्ट्रगलचा इतिहास; १२ तारखेला प्रकाशन",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-10T18:01:57",
-            "url": "https://www.lokmat.com/pune/bhimashankar-temple-to-be-open-from-5-am-to-930-pm-in-shravan-decision-taken-keeping-in-mind-the-increasing-crowd-of-devotees-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhimashankar-4-k_2026081760293.jpg",
+            "published": "2026-08-10T19:36:18",
+            "url": "https://www.esakal.com/mumbai/ips-lohit-matanis-book-to-unveil-the-history-of-the-sindh-struggle-book-launch-scheduled-for-august-12-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/t8objnnv/IPS-Lohit-Matani",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9796175d507e",
+            "id": "046c85d358e6",
             "feed": "maharashtratimes",
-            "title": "Sharad Pawar NCP: शरद पवारांच्या राष्ट्रवादीत नेमकं काय चाललंय? भाजपमधील मित्रांकडून मला माहिती; पृथ्वीराज चव्हाणांचा गौप्यस्फोट",
+            "title": "Nashik Earthquake | तब्बल ६६ धक्के, भूकंपाच्या धक्क्यानं नाशिक हादरलं, नेमकं कारण काय?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-10T18:01:14",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/congress-prithviraj-chavan-shocking-claim-about-sharad-pawar-ncp-mp-meeting-with-pm-narendra-modi/articleshow/133104951.cms",
+            "published": "2026-08-10T19:31:54",
+            "url": "https://maharashtratimes.com/video/mt-originals/a-staggering-66-tremorsnashik-shaken-by-earthquakes-what-is-the-exact-reason/videoshow/133110270.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "643f9faedc13",
-            "feed": "lokmat",
-            "title": "बुलेट ट्रेनवरून फलटण विरुद्ध बारामती संघर्षाची शक्यता वाढली?, प्रकल्पाच्या मार्गाबाबत पुन्हा चर्चा सुरू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T17:53:36",
-            "url": "https://www.lokmat.com/satara/possibility-of-phaltan-vs-baramati-clash-over-bullet-train-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bulet-train-news_2026081760291.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         }
     ],
     "india": [
         {
-            "id": "fefdb94a6ff7",
-            "feed": "maharashtratimes",
-            "title": "तिरंगा कुठेय? अमित शहांच्या हाती भगवा झेंडा दिला; गृहमंत्री संतापले, सर्वांची एकच धावपळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-10T18:06:22",
-            "url": "https://maharashtratimes.com/india-news/union-minister-amit-shah-gets-angry-over-not-getting-national-flag-in-puducherry-minister-offered-safforn-flag/articleshow/133105010.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "a4a53c752025",
-            "feed": "lokmat",
-            "title": "'क्राईम पेट्रोल'मधून अनुप सोनींचा पत्ता कट? आता बॉलिवूडचा 'हा' सुपरस्टार करणार सुत्रसंचालन, १५ भाग शूटही झाले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-10T18:04:12",
-            "url": "https://www.lokmat.com/filmy/television/ajay-devgn-doing-hosting-replaced-anup-soni-from-crime-patrol-show-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ajay-devgn-doing-hosting-replaced-anup-soni-from-crime-patrol-show-1_2026081760297.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "103085d6e69b",
-            "feed": "maharashtratimes",
-            "title": "Ajit Vachani : अभिनेत्यानं बॉलिवूड गाजवलं, शाहीर साबळेंच्या लेकीसोबत लग्न; वयाच्या 52व्या वर्षी निधन, मुलगी आहे लोकप्रिय अभिनेत्री",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-10T18:03:57",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/ajit-vachani-married-with-shahir-sable-daughter-charushila-vachani-know-unknown-facts-about-him/articleshow/133104378.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "cea49f24f9c9",
+            "id": "c4553c8a602d",
             "feed": "esakal",
-            "title": "कसा झालेला 'अशी ही बनवाबनवी' मधल्या शंतनूचा मृत्यू? पत्नीने सांगितलं त्या दिवशी काय घडलं; आम्ही चौघेही...",
+            "title": "Premium|Study Room : अमरनाथ यात्रेवरील हल्ला; दहशतवाद, सुरक्षा आणि काश्मीरच्या भवितव्याचा वेध",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-10T17:57:06",
-            "url": "https://www.esakal.com/premier/how-did-ashi-hi-banwa-banwi-actor-shantanu-aka-siddharth-ray-died-wife-shares-his-last-moments-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/8eqf94i5/SIDDHARTH-RAY-DEATH.jpg",
+            "published": "2026-08-10T19:32:08",
+            "url": "https://www.esakal.com/premium-article/amarnath-yatra-jammu-kashmir-terrorism-security-threat-pilgrims-army-counter-terrorism-infiltration-peace-valley-security-forces-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/frtfgmjh/Abhi-91.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "79157266efe1",
+            "id": "542bad4b0e0e",
+            "feed": "lokmat",
+            "title": "मऊ खादी कॉटनच्या १० साड्या; रोज ऑफिसला नेसून जाण्यासाठीही सुंदर सोयीची साडी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-10T19:23:05",
+            "url": "https://www.lokmat.com/sakhi/photos/shopping/khadi-cotton-saree-10-patterns-new-collection-of-khadi-cotton-saree-for-daily-wear-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-09-at-10.49.25-am_2026081759494.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "50092f13fba3",
             "feed": "maharashtratimes",
-            "title": "Baba Vanga Prediction : बाबा वेंगाची भविष्यवाणी,येणारा काळ या राशींसाठी शुभ,करिअर गाठणार उंची,पैशांचे प्रॉब्लेम सुटणार !",
+            "title": "Pankaj Vishnu : 'खूप मेहनती, काहीतरी नवीन करण्याची धडपड, आउटसाईडर असून यश मिळवलं', सुशांत सिंह राजपूतबद्दल भरभरून बोलला मराठी अभिनेता",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-10T17:55:00",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/baba-vanga-prediction-rashibhvishya-horoscope-viral-bhavishyavani-for-upcoming-duration/articleshow/133093998.cms",
+            "published": "2026-08-10T19:22:43",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/marathi-actor-pankaj-vishnu-talks-about-sushant-singh-rajput/articleshow/133109042.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "9083b5bf8b85",
+            "feed": "esakal",
+            "title": "प्राजक्ता माळी अन् प्रवीण तरडे यांच्यात टोकाचा वाद आणि गाजलेल्या चित्रपटाचं शूटिंग पडलेलं बंद; काय होतं कारण?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-10T19:21:31",
+            "url": "https://www.esakal.com/premier/why-prajakta-mali-and-pravin-tarde-fight-on-movie-set-shooting-get-affected-know-the-reason-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/hnvh3wlu/prajakta-mali-fight-with-pravin-tarde.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "78aa76babb05",
+            "feed": "lokmat",
+            "title": "नायलॉन खमन इडलीची सोपी रेसिपी, १० मिनिटांत इडलीच्या भांड्यात करा चविष्ट नाश्ता",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-10T19:21:03",
+            "url": "https://www.lokmat.com/sakhi/food/quick-and-easy-recipe-for-khaman-idli-make-khaman-in-an-idli-pot-in-10-minutes-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-09-at-10.52.25-am_2026081759560.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "1a5a90927edf",
+            "feed": "lokmat",
+            "title": "चीनमध्ये महापूर, १५० वर्षांत पहिल्यांदाच पडला एवढा पाऊस, शांघाईची झाली तुंबई, आलं मोठं संकट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-10T18:23:15",
+            "url": "https://www.lokmat.com/international/typhoon-dolphin-in-china-massive-floods-in-china-shanghai-inundated-such-a-big-crisis-for-the-first-time-in-150-years-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/china-flood-news-1_2026081760305.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "4b59e6ce0bf0",
             "feed": "esakal",
@@ -198,38 +214,6 @@
             "category_reason": "feed"
         },
         {
-            "id": "a4ebea9cd51b",
-            "feed": "lokmat",
-            "title": "जेवणानंतर मशिदीच्या पायऱ्यांवर बसला अन् तिथेच कोसळला; २६/११ चा सूत्रधार, लष्करचा टॉप कमांडर ठार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-10T16:42:59",
-            "url": "https://www.lokmat.com/international/ate-at-a-restaurant-sat-near-the-mosque-and-died-mysterious-death-of-top-let-commander-abdul-aziz-in-islamabad-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lashkar-terrorist-abdul-aziz-dies_2026081760212.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f8052f8166ac",
-            "feed": "lokmat",
-            "title": "रशिया- युक्रेनमध्ये पुन्हा युद्ध पेटलं, दोन्ही देशांकडून भीषण हल्ले; अनेकजण ठार, शहरांचं मोठं नुकसान",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-10T16:31:43",
-            "url": "https://www.lokmat.com/international/russia-ukraine-war-latest-news-ukraine-drone-attack-russia-missile-attack-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-ukraine-war-9_2026081760190.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "f8a42e535ffe",
             "feed": "esakal",
             "title": "Indian Student Crime: २० वर्षीय भारतीय तरुणानं गर्लफ्रेंडला संपवलं, अमेरिकेतून जर्मनीला पळाला; विमानतळावर उतरताच अटक",
@@ -244,106 +228,122 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-10/x7uo7o4u/varun-julissa.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        }
-    ],
-    "sports": [
+        },
         {
-            "id": "cdcde06b5bcc",
+            "id": "253ef445fafd",
             "feed": "maharashtratimes",
-            "title": "Zaheer Khan : भारतीय संघात पुन्हा कमबॅक करायचं असेल तर एकच गोष्ट लक्षात ठेव'; झहीर खानचा मोहम्मद शमीला कानमंत्र, काय म्हणाला?",
+            "title": "Crime News : 19 वर्षीय प्रेयसीचा जीव घेतला, 20 वर्षीय प्रियकराला पळून जाताना विमानतळावर अटक, रिलेशनमध्ये असताना अत्याचाराचा संशय",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "sports"
+                "category": "world"
             },
-            "published": "2026-08-10T17:47:40",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/former-fast-bowler-zaheer-khan-advised-bowler-mohammed-shami-before-world-cup-2026/articleshow/133103581.cms",
+            "published": "2026-08-10T15:22:12",
+            "url": "https://maharashtratimes.com/international/international-news/indian-student-varun-batchigari-accused-of-strangling-us-girlfriend-julissa-rubi-salazar-arrested-at-germany-airport/articleshow/133094625.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "377760f7cdcb",
+            "id": "a9847b3ff2e8",
             "feed": "esakal",
-            "title": "शुभमन गिलपेक्षाही मोठी बोली लागलेला कोण आहे Sanvir Singh? T20 स्पर्धेत भारतीय कर्णधारासह खेळणार",
+            "title": "IND vs SL: टीम इंडियाला पुन्हा दुखापतीचा फटका? कुलदीपने का केली नाही Warm-up मॅचच्या दुसऱ्या डावात गोलंदाजी, नेमकं काय घडलं?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-10T17:24:29",
-            "url": "https://www.esakal.com/krida/cricket/who-is-sanvir-singh-player-who-earned-more-than-shubman-gill-in-punjab-t20-auction-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/pylza1mn/Sanvir-Singh-For-₹13.20-Lakh-In-Record-Bid-in-Punjab-T20-League.jpg",
+            "published": "2026-08-10T19:38:17",
+            "url": "https://www.esakal.com/krida/cricket/why-kuldeep-yadav-did-not-bowl-in-second-innings-of-warm-up-match-against-sri-lanka-xi-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/sb2x7nb6/Kuldeep-Yadav.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6c1ba6697759",
-            "feed": "lokmat",
-            "title": "SL vs IND: १८ सामन्यांत १०४ विकेट्स घेणाऱ्यासह टीम इंडियाच्या Playing XI मधून 'या' चौघांचा पत्ता कट?",
+            "id": "2b4f542ca5c7",
+            "feed": "maharashtratimes",
+            "title": "IND vs SL 1st Test : डोमेस्टिकच्या हिटमॅनची भारतीय संघात निवड, साई सुदर्शनच्या जागी संधी, कष्टाचं फळ मिळालंच, पाहा कोण?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-10T17:08:45",
-            "url": "https://www.lokmat.com/cricket/news/4-players-set-to-miss-out-first-test-against-sri-lanka-india-team-playing-11-sarfaraz-khan-devdutt-padikkal-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/team-india-4-players-miss-out-first-test-vs-sri-lanka-m-_2026081760260.jpg",
+            "published": "2026-08-10T19:04:15",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-1st-test-sarfaraz-khan-select-in-team-india-against-sri-lanka-test/articleshow/133108908.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f7cb00eb1117",
+            "feed": "esakal",
+            "title": "IND vs SL, Test: साई सुदर्शनच्या जागी सरफराजच का? ऋतुराज गायकवाडचा पत्ता कट होण्यामागचं कारण आलं समोर!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-10T18:58:54",
+            "url": "https://www.esakal.com/krida/cricket/why-sarfaraz-khan-chosen-over-ruturaj-gaikwad-sai-sudharsan-replacement-for-india-vs-sri-lanka-test-series-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/1oo0b2z7/Sarfaraz-Khan-Ruturaj-Gaikwad.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "39c52068f2d3",
-            "feed": "maharashtratimes",
-            "title": "फ्री Wi-Fi वापरणे महागात, 28 मिनिटांत बँक खात्यातून 4.27 लाख लुटले, 10 गोष्टी कायम लक्षात ठेवा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-10T18:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/free-wi-fi-trap-hackers-loot-rs-4-27-lakh-in-just-28-minutes-10-cyber-safety-rules-you-must-follow/articleshow/133093810.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "39d8251c4b73",
+            "id": "b29377f93f51",
             "feed": "lokmat",
-            "title": "गाईच्या दुध खरेदी दरात १ रुपयाची वाढ; शेतकऱ्यांना आता प्रति लिटर किती रुपये मिळणार दर?",
+            "title": "अहिल्यानगर, नाशिक, पुणे, सोलापूर, नागपूर, छत्रपती संभाजीनगर; जाणून घ्या राज्यातील आजचे कांदा बाजारभाव",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-10T17:26:37",
-            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/cows-milk-procurement-price-increased-by-rs-1-how-much-will-farmers-get-per-liter-now-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dudh-kharedi-dar_2026081760239.jpeg",
+            "published": "2026-08-10T19:18:59",
+            "url": "https://www.lokmat.com/agriculture/market-yard/ahilyanagar-nashik-pune-solapur-nagpur-chhatrapati-sambhajinagar-know-todays-onion-market-prices-in-the-state-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-34-34-34-u-kanda-bajar-bhav_2026081760351.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "a6a20e9d2a1d",
+            "id": "2c54c7868923",
             "feed": "lokmat",
-            "title": "भारतातील घराचा सर्वात महागडा व्यवहार: गुरुग्राममधील २७१ कोटी रुपयांचे पेंटहाऊस कोणी खरेदी केले?",
+            "title": "फसव्या कॉल्सना आळा घालण्यासाठी TRAIचा मोठा निर्णय; आता ‘१६०१’ नंबरवरून येणार कॉल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-10T16:50:28",
-            "url": "https://www.lokmat.com/business/savings-investments/indias-most-expensive-home-deal-who-bought-a-penthouse-in-gurugram-for-rs-271-crore-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/penthouse-gugugram_2026081760235.jpg",
+            "published": "2026-08-10T18:47:03",
+            "url": "https://www.lokmat.com/business/news/trais-big-decision-to-curb-fraudulent-calls-now-calls-will-come-from-1601-number-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fraud-call-rule_2026081760346.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "6aa46c85e8d0",
+            "feed": "lokmat",
+            "title": "धुळे जिल्ह्यातील मोठे, मध्यम व लघु प्रकल्पांच्या जलसाठ्यात वाढ; सोनवद प्रकल्प मात्र अध्यापही तहानलेलाच",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-10T18:26:19",
+            "url": "https://www.lokmat.com/agriculture/weather/increase-in-water-storage-of-large-medium-and-small-projects-in-dhule-district-sonvad-project-however-remains-thirsty-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ur-u-34-.-34-34-34-dhule-water-update_2026081760312.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
