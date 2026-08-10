@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "10-08-2026 | 04:28 PM IST",
+    "lastUpdated": "10-08-2026 | 05:14 PM IST",
     "maharashtra": [
         {
-            "id": "9d75e042a337",
+            "id": "239138e38041",
+            "feed": "lokmat",
+            "title": "Satara News: ‘ग्रेटर फ्लेमिंगो’चा थाट... हवामान बदलाने गाठला कोयनेचा काठ!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T17:05:33",
+            "url": "https://www.lokmat.com/satara/greater-flamingos-which-come-to-stay-in-the-eastern-part-of-satara-district-during-winter-rested-for-the-first-time-at-the-koyna-reservoir-in-bamanoli-on-their-return-journey-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/filmigo-bamnoli_2026081760257.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "64ab87d16991",
+            "feed": "maharashtratimes",
+            "title": "IAS झाल्यानंतर तुकाराम मुंढेंचं आयुष्य खडतर; थोरले बंधू अशोक मुंढेंनी सांगितला संघर्ष",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T17:02:24",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/brother-ashok-mundhe-praises-tukaram-mundhe/videoshow/133101057.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "045d94e15652",
+            "feed": "lokmat",
+            "title": "संरक्षण भिंत खचली, आंबा घाटातून एसटी बसची वाहतूक बंद; कोल्हापूर प्रादेशिक परिवहन विभागाचा आदेश",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T17:00:39",
+            "url": "https://www.lokmat.com/kolhapur/st-bus-traffic-from-amba-ghat-also-stopped-due-to-collapse-of-the-protective-wall-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amba-ghat-news-bus_2026081760247.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d083e0ac3311",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : झारखंड लोकसेवा आयोगाच्या माजी अध्यक्षांना अटक; CID ने घेतलं ताब्यात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T16:27:27",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-10-august-2026-parliament-monsoon-session-pm-narendra-modi-amit-shah-rahul-gandhi-dharmendra-pradhan-maratha-reservation-manoj-jarange-andolan-fda-tukaram-mundhe-neet-mpsc-exam-weather-update-khadakwasla-koyna-dam-maharashtra-government-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ff3372045479",
-            "feed": "lokmat",
-            "title": "कर्नाटकातील पर्यटकांचा ड्रोन कासच्या दरीत कोसळला, परत मिळण्याची आशा धूसर झालेली असतानाच..",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T16:20:20",
-            "url": "https://www.lokmat.com/satara/karnataka-tourist-drone-crashes-in-kaas-valley-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dron-news-kas_2026081760185.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bf998fa9977e",
-            "feed": "lokmat",
-            "title": "Latest Marathi News Live: इंडिया आघाडी भक्कम, पण...; शरद पवारांच्या 'त्या' भेटीवर पृथ्वीराज चव्हाणांची सूचक प्रतिक्रिया",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T16:11:44",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-10-august-2026-parliament-session-delimitation-bill-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-cjp-abhijeet-dipke-tukaram-mundhe-election-in-pok-donald-trump-us-israel-iran-shiv-sena-ncp-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e1adc64369e9",
-            "feed": "lokmat",
-            "title": "एनसीसी कार्यालयात नोकरीच्या आमिषाने ३.६५ लाखाचा गंडा; साताऱ्यातील तरुणाची फिर्याद",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T16:06:35",
-            "url": "https://www.lokmat.com/satara/a-young-man-from-satara-was-cheated-of-rs-3-lakhs-with-the-lure-of-a-job-at-the-ncc-office-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fraud-ncc-job_2026081760170.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4f60519bf216",
-            "feed": "esakal",
-            "title": "तालुक्यात अंड्यांच्या दरात वाढ",
+            "title": "Nanded Tragedy : अनुकंपा नियुक्तीची स्वप्ने अर्ध्यावरच खंडित; मरखेलच्या मंदार बोधकुले यांचे हृदयविकाराने अकाली निधन",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-10T16:05:54",
-            "url": "https://www.esakal.com/kokan/todays-latest-marathi-news-kop26e21565-txt-ratnagiri-today-20260810103554",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/7a0rdsw1/ratnagiri_default_banner_1.jpg",
+            "published": "2026-08-10T16:58:05",
+            "url": "https://www.esakal.com/nanded/mandar-bodhkule-death-25-age-murkhel-deglur-compassionate-appointment-waiting-list-second-rank-b-pharm-student-sudden-heart-attack-family-loss-anil-kadam-nanded-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/x5i7vr6r/Esakal-54.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "31529b878914",
+            "feed": "lokmat",
+            "title": "बेरोजगारीमुळे वणवण भटकला; भूकेने व्याकूळ झाला अन् अखेर जीवनाचा प्रवास संपवला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T16:54:22",
+            "url": "https://www.lokmat.com/nagpur/he-wandered-around-due-to-unemployment-he-became-distressed-by-hunger-and-finally-ended-his-lifes-journey-a-a877-c1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-10-at-4.49.07-pm-1_2026081760234.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "2679abdf8efa",
-            "feed": "lokmat",
-            "title": "महिलांना नेहमीच खूप झोप का येते? तज्ज्ञ सांगतात पुरूषांच्या तुलनेत महिला जास्त का झोपतात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-10T16:17:34",
-            "url": "https://www.lokmat.com/sakhi/social-viral/why-so-women-need-more-sleep-than-men-know-the-reason-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-10-at-10.55.22-am_2026081760172.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "4eaa8d1c8d73",
-            "feed": "esakal",
-            "title": "ऑनलाइन शॉपिंग करणाऱ्यांनो लक्ष द्या! Meesho वरून खरेदी करता? तर आधी 'ही' बातमी नक्की वाचा; हायकोर्टाचा मोठा निर्णय",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-10T16:17:04",
-            "url": "https://www.esakal.com/lifestyle/delhi-high-court-ordered-removal-of-listings-for-alleged-counterfeit-sun-pharmaceuticals-sunscreen-products-sold-on-meesho-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/8ecs6unq/Delhi-High-Court’s-Big-Order-Against-Meesho-Over-Allegedly-Fake-Sunscreen-Products.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "85ece0cc351d",
-            "feed": "lokmat",
-            "title": "Video: \"ज्या ठिकाणी माझा मृत्यू होईल तिथे मला...\"; लकी अली असं काय म्हणाले की चाहत्यांचे डोळे पाणावले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-10T16:14:31",
-            "url": "https://www.lokmat.com/filmy/bollywood/what-lucky-ali-said-about-his-death-that-made-fans-teary-eyed-video-viral-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/what-lucky-ali-said-about-his-death-that-made-fans-teary-eyed-video-viral_2026081760176.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3d83c02cc57f",
-            "feed": "esakal",
-            "title": "Vastu Tips: घरामध्ये मोरपीस ठेवावे की नाही? वास्तूशास्त्रानुसार जाणून घ्या योग्य दिशा, फायदे आणि नियम",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-10T16:03:05",
-            "url": "https://www.esakal.com/culture-and-religion/vastu-tips-peacock-feather-placement-benefits-at-home-vastu-shastra-peacock-feather-in-house-where-to-keep-benefits-right-direction-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/8cl45vgb/morpiss.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "00c2cb6b4ab5",
+            "id": "e92b2eeba01d",
             "feed": "maharashtratimes",
-            "title": "Vastu Tips Name Plate : दारावर नेमप्लेटवर लावताय मग त्यावर नाव कसे लिहायचे व वास्तुनुसार ती कोणत्या धातूची असावी जाणून घ्या !",
+            "title": "मी अजित डोवालांचा अंडरकव्हर एजंट! बोगस IAS अधिकाऱ्याचा थाट; टेस्ला कार, घरात हरणाची शिंगं सापडली",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-10T16:01:56",
-            "url": "https://maharashtratimes.com/astro/vastu-shastra/name-plate-for-home-vastu-niyam-tips-for-positivity/articleshow/133097009.cms",
+            "published": "2026-08-10T17:11:21",
+            "url": "https://maharashtratimes.com/india-news/fake-ias-officer-posing-as-nsa-ajit-dovals-undercover-agent-arrested-in-bihar-tesla-seized/articleshow/133099441.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "ad2b9f94f320",
+            "feed": "lokmat",
+            "title": "Prajakta Mali: \"शेतकरी प्रमाणपत्र आहेत, त्याला...\"; प्राजक्ता माळीने लिहिलेल्या ओळी चर्चेत, काय म्हणाली?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-10T17:10:59",
+            "url": "https://www.lokmat.com/filmy/bollywood/prajakta-malis-post-is-in-discussion-what-did-she-say-on-her-birthday-doing-farming-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/prajakta-malis-post-is-in-discussion-what-did-she-say-on-her-birthday-doing-farming_2026081760262.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "b41da8defb45",
+            "feed": "lokmat",
+            "title": "Deep Amavasya 2026: दीप अमावस्येनिमित्त कपभर पिठापासून करा कणकेचे दिवे- सोपी पारंपरिक पद्धत, कमी तेलात दिवा जास्त उजळेल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-10T17:09:27",
+            "url": "https://www.lokmat.com/sakhi/social-viral/deep-amavasya-2026-wheat-flour-diya-recipe-how-to-make-flour-diyas-at-home-traditional-flour-diya-recipe-for-deep-amavasya-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/deep-amavasya-2026-dough-diyas-recipe_2026081760236.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3cfa0bcc1498",
+            "feed": "lokmat",
+            "title": "आसाम-अरुणाचल प्रदेश सीमेवर पुन्हा तणाव; जमिनीच्या वादातून गोळीबार, १८ जण जखमी, चौघांची प्रकृती चिंताजनक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-10T17:09:16",
+            "url": "https://www.lokmat.com/national/tension-again-on-assam-arunachal-pradesh-border-unidentified-men-firing-over-land-dispute-18-villagers-injured-condition-of-four-critical-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/assam-arunachal-pradesh-border-1_2026081760258.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fcc14347fc9d",
+            "feed": "lokmat",
+            "title": "‘इलू इलू’ गाण्यातून रातोरात झाला स्टार! 'सौदागर' मधला 'हा' अभिनेता आता कुठे आहे? ओळखणंही झालं कठीण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-10T17:07:04",
+            "url": "https://www.lokmat.com/filmy/photos/bollywood/saudagar-movie-fame-actor-vivek-mushran-become-popular-from-ilu-ilu-song-where-is-the-actor-now-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vivek-mushran_2026081760252.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "a4ebea9cd51b",
+            "feed": "lokmat",
+            "title": "जेवणानंतर मशिदीच्या पायऱ्यांवर बसला अन् तिथेच कोसळला; २६/११ चा सूत्रधार, लष्करचा टॉप कमांडर ठार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-10T16:42:59",
+            "url": "https://www.lokmat.com/international/ate-at-a-restaurant-sat-near-the-mosque-and-died-mysterious-death-of-top-let-commander-abdul-aziz-in-islamabad-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lashkar-terrorist-abdul-aziz-dies_2026081760212.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f8052f8166ac",
+            "feed": "lokmat",
+            "title": "रशिया- युक्रेनमध्ये पुन्हा युद्ध पेटलं, दोन्ही देशांकडून भीषण हल्ले; अनेकजण ठार, शहरांचं मोठं नुकसान",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-10T16:31:43",
+            "url": "https://www.lokmat.com/international/russia-ukraine-war-latest-news-ukraine-drone-attack-russia-missile-attack-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-ukraine-war-9_2026081760190.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f8a42e535ffe",
             "feed": "esakal",
@@ -180,22 +212,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-10/x7uo7o4u/varun-julissa.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "bb389a429026",
-            "feed": "lokmat",
-            "title": "वयाच्या २२ व्या वर्षी १४ हजार कोटींची संपत्ती; जगातील अब्जाधीशांच्या यादीत नाव; नक्की काय करते 'ही' तरुणी?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-10T15:26:05",
-            "url": "https://www.lokmat.com/international/22-year-old-kim-jung-youn-joins-the-worlds-youngest-female-tech-billionaires-list-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kim-jung-young-nexon_2026081760132.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         },
         {
             "id": "253ef445fafd",
@@ -228,75 +244,91 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-10/ijyebm16/farmar-loan-waiver-6.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "1d5b5f36e8fa",
-            "feed": "esakal",
-            "title": "World Lion Day: सिंह दिवसभर काय करतो?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-10T12:31:16",
-            "url": "https://www.esakal.com/ampstories/web-story/world-lion-day-lion-characteristics-daily-routine-facts-world-lion-day-what-do-lions-do-all-day-how-lion-spends-the-day-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/c3sk8u88/lion9.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "e742a6aeda68",
-            "feed": "maharashtratimes",
-            "title": "Team India : जय शहा यांचं ठरलं होतं की द्रविडनंतर लक्ष्मण कोच, मग गंभीरची निवड कशी झाली? VVS लक्ष्मणकडून खुलासा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-10T16:08:49",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/vvs-laxman-reveals-he-turned-down-india-head-coach-role-offered-by-jay-shah-in-2023/articleshow/133094430.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4b4ab4cf1f04",
+            "id": "6c1ba6697759",
             "feed": "lokmat",
-            "title": "VVS Laxman : टीम इंडियाचे पर्मनंट कोच होण्याची ऑफर आली, पण... लक्ष्मण यांचा मोठा खुलासा",
+            "title": "SL vs IND: १८ सामन्यांत १०४ विकेट्स घेणाऱ्यासह टीम इंडियाच्या Playing XI मधून 'या' चौघांचा पत्ता कट?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-10T15:34:19",
-            "url": "https://www.lokmat.com/cricket/news/vvs-laxman-took-centre-stage-and-talked-about-why-he-did-not-take-over-as-india-permanent-head-coach-after-rahul-dravid-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vvs-laxman-on-indain-team-coatcheing-m-_2026081760140.jpg",
+            "published": "2026-08-10T17:08:45",
+            "url": "https://www.lokmat.com/cricket/news/4-players-set-to-miss-out-first-test-against-sri-lanka-india-team-playing-11-sarfaraz-khan-devdutt-padikkal-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/team-india-4-players-miss-out-first-test-vs-sri-lanka-m-_2026081760260.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "474b6f8c2aeb",
+            "id": "c1b9207aa7a8",
+            "feed": "maharashtratimes",
+            "title": "West Indies Cricket : दोन वेळचा वर्ल्ड चॅम्पियन वेस्ट इंडिज अडचणीत, 2027 वनडे वर्ल्डकपमधील पात्रतेचा मार्ग कठीण! कारण काय?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-10T16:48:02",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/west-indies-miss-direct-qualification-for-2027-odi-world-cup/articleshow/133095100.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9c6ee33c6a33",
             "feed": "esakal",
-            "title": "6,6,6,6,6,6! सहा चेंडू, सहा षटकार... युवराज सिंगसारखी तुफान फटकेबाजी, पण इंग्लंडच्या फलंदाजाचा हा पराक्रम आहे थोडा वेगळा Video",
+            "title": "Video: \"मला नरेंद्र नावाचा तिरस्कार...\", PM मोदींना भारतीय बॉक्सरने सांगितलेला पाकिस्तानी खेळाडूचा किस्सा ऐकून आवरेना हसू",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "sports"
+                "category": null
             },
-            "published": "2026-08-10T14:41:23",
-            "url": "https://www.esakal.com/krida/cricket/6-6-6-6-6-6-england-batter-toby-albert-smashes-six-sixes-in-six-balls-in-one-day-cup-video-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/dmtzmact/Toby-Albert-follows-Yuvraj-Singh-six-sixes-feat",
+            "published": "2026-08-10T16:29:30",
+            "url": "https://www.esakal.com/krida/indian-boxer-narender-berwal-shares-hilarious-pakistan-story-with-pm-modi-hate-the-name-video-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/czvzvjpb/Narender-Berwal-Shares-Unexpected-Pakistani-Exchange-With-PM-Modi1.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "business": [
+        {
+            "id": "a6a20e9d2a1d",
+            "feed": "lokmat",
+            "title": "भारतातील घराचा सर्वात महागडा व्यवहार: गुरुग्राममधील २७१ कोटी रुपयांचे पेंटहाऊस कोणी खरेदी केले?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-10T16:50:28",
+            "url": "https://www.lokmat.com/business/savings-investments/indias-most-expensive-home-deal-who-bought-a-penthouse-in-gurugram-for-rs-271-crore-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/penthouse-gugugram_2026081760235.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "846a8544d143",
+            "feed": "lokmat",
+            "title": "नाशिकरांना महिनाभरात जाणवले भूकंपाचे तब्बल ६४ धक्के; चिंतेचे कारण नसल्याचा तज्ज्ञांचा निर्वाळा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-10T16:44:19",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/nashik-residents-felt-64-earthquake-tremors-in-a-month-experts-confirm-there-is-no-cause-for-concern-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-34-34-34-34-34-nashik-earthquke_2026081759991.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "95ab7fed4a7a",
             "feed": "lokmat",
@@ -312,38 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/10-aug-market_2026081760189.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "e2e7cbc56af7",
-            "feed": "lokmat",
-            "title": "Income Tax Refund: आयटीआर भरला, तरी रिफंड अडकला; काय असेल यामागील कारण?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-10T15:59:47",
-            "url": "https://www.lokmat.com/business/news/itr-filed-but-refund-stuck-what-could-be-the-reason-behind-this-know-details-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/itr-sikkim_2026071746252.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "39756c9c396c",
-            "feed": "lokmat",
-            "title": "Crop Insurance : खरीप पीकविम्यासाठी शेतकऱ्यांना कमी प्रतिसाद? आत्तापर्यंत किती आले अर्ज?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-10T15:58:58",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/crop-insurance-low-response-from-farmers-for-kharif-crop-insurance-how-many-applications-have-been-received-so-far-a-a989/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/d9d46f06-f590-4a4c-b798-39d100547675_2026081760154.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
