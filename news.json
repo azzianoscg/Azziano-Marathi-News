@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "10-08-2026 | 09:21 PM IST",
+    "lastUpdated": "10-08-2026 | 10:13 PM IST",
     "maharashtra": [
+        {
+            "id": "370473644d8e",
+            "feed": "maharashtratimes",
+            "title": "BAMU University Professor Bharti: प्राध्यापक भरतीला हायकोर्टात आव्हान! मुलाखती होणार, पण अंतिम निवड यादी जाहीर करण्यास खंडपीठाची स्थगिती",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-10T22:05:03",
+            "url": "https://maharashtratimes.com/career/career-news/bamu-university-teacher-recruitment-challenged-aurangabad-bench-2026/articleshow/133118823.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "1059f8196cc2",
+            "feed": "esakal",
+            "title": "Pune News : रिंग फसली, आयुक्तांनी रद्द केला ७५ कोटींचा निविदा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T22:00:55",
+            "url": "https://www.esakal.com/pune/tendering-irregularities-exposed-municipal-commissioner-naval-kishor-ram-cancels-rupees-75-crore-tender-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-24/7jkiusr7/Municipal-Commissioner-naval-kishor-ram",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9d75e042a337",
+            "feed": "esakal",
+            "title": "Marathi News Updates : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T21:59:03",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-10-august-2026-parliament-monsoon-session-pm-narendra-modi-amit-shah-rahul-gandhi-dharmendra-pradhan-maratha-reservation-manoj-jarange-andolan-fda-tukaram-mundhe-neet-mpsc-exam-weather-update-khadakwasla-koyna-dam-maharashtra-government-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0860bb8df58a",
+            "feed": "maharashtratimes",
+            "title": "Ratnagiri News : रत्नागिरीत समुद्रकिनारा आणि पर्यटनस्थांवर संपूर्ण ब्लास्टिक बंदी, जिल्हाधिकाऱ्यांचे नियमावली तयार करण्याचे आदेश",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-10T21:57:13",
+            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/complete-plastic-ban-at-tourist-spots-in-ratnagiri-orders-to-prepare-guidelines/articleshow/133117357.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "8243a037867f",
             "feed": "maharashtratimes",
@@ -16,73 +80,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "de19f3496b90",
-            "feed": "lokmat",
-            "title": "नगरच्या कलाविश्वातील ‘रेषा’ हरपली, ज्येष्ठ रेखाचित्रकार श्रीधर अंभोरे यांचे निधन, चार दशके अहिल्यानगर हीच राहिली कर्मभूमी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T21:01:02",
-            "url": "https://www.lokmat.com/ahilyanagar/the-line-of-the-citys-art-world-is-lost-veteran-illustrator-shridhar-ambhore-passes-away-ahilyanagar-remained-his-workplace-for-four-decades-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shridhar-ambhore-1_2026081760390.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b2dfbd5583ac",
-            "feed": "esakal",
-            "title": "Uruli Kanchan Crime : विनयभंग व बेकायदेशीर सावकारकी करणे या कृत्याबद्दल उरुळी कांचनमध्ये गुन्हा दाखल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T20:38:41",
-            "url": "https://www.esakal.com/pune/case-registered-in-uruli-kanchan-for-molestation-and-illegal-moneylending-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a9ba6676da15",
-            "feed": "esakal",
-            "title": "Bhimashankar Temple : श्रावणापासून भीमाशंकर मंदिर पहाटे ५ ते रात्री ९.३० पर्यंत दर्शनासाठी खुले",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T20:30:27",
-            "url": "https://www.esakal.com/pune/bhimashankar-temple-to-remain-open-for-darshan-from-5-am-to-930-pm-during-shravan-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-05-19/1tnnr9wc/sudhir-jadhav-satara-5.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "838820816885",
-            "feed": "esakal",
-            "title": "Scholarship Exam Result : चौथी आणि सातवीच्या शिष्यवृत्तीचा अंतिम निकाल जाहीर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T20:23:26",
-            "url": "https://www.esakal.com/pune/final-results-of-class-4th-and-class-7th-scholarship-examinations-announced-student-education-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/xm1mywaw/Scholarship",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "eab0cf8fcffd",
+            "feed": "esakal",
+            "title": "Kon Honar Crorepati: आता खेळ बदलणार! 'कोण होणार करोडपती'चे सूत्रसंचालन माधुरी दीक्षित करणार; नव्या प्रवासाविषयी बोलताना म्हणाल्या...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-10T21:33:51",
+            "url": "https://www.esakal.com/premier/madhuri-dixit-to-host-kon-honar-crorepati-sony-marathi-announces-new-chapter-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/0oxilow6/‘Kon-Honar-Crorepati’-Announces-New-Season-With-Madhuri-Dixit-as-Host.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "5a8e33940303",
+            "feed": "maharashtratimes",
+            "title": "Pranav Elango Success Story: तामिळनाडूच्या १७ वर्षीय प्रणवला 'ब्राउन युनिव्हर्सिटी'ची ३.५५ कोटींची शिष्यवृत्ती; गणितात होता वर्ल्ड टॉपर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-10T21:21:04",
+            "url": "https://maharashtratimes.com/career/career-news/tamil-nadu-pranav-elango-brown-university-ivy-league-scholarship-2026/articleshow/133114085.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "b739efbd43ab",
             "feed": "esakal",
@@ -130,41 +162,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "31cf0f782d74",
+            "id": "4a7e1964ce95",
             "feed": "lokmat",
-            "title": "शिंदेसेनेतील ‘त्या’ ६ खासदारांच्या विलिनिकरणाबाबत आता दोन आठवड्यांनी सुनावणी, आज कोर्टात काय घडलं?",
+            "title": "कोलंबिया भूकंपाच्या तीव्र धक्क्याने हादरला, इमारती कोसळल्या, रस्त्यांवर हाहाकार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": "world"
             },
-            "published": "2026-08-10T20:54:10",
-            "url": "https://www.lokmat.com/national/shiv-sena-case-in-supreme-court-hearing-on-the-merger-of-those-6-mps-from-shiv-sena-is-now-two-weeks-away-what-happened-in-court-today-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shivsena-eknath-shinde-uddhav-thackeray-22_2026081760388.jpg",
+            "published": "2026-08-10T21:44:04",
+            "url": "https://www.lokmat.com/international/colombia-shaken-by-strong-earthquake-buildings-collapse-streets-in-chaos-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/earthquake-1_2026081760404.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
-        {
-            "id": "be8cef72e393",
-            "feed": "esakal",
-            "title": "डीएसपी ब्लॅक, स्मिरनॉफसह अनेक ब्रँडना फटका! FSSAIच्या तपासणीत मोठा खुलासा; १८ हजार पेट्या जप्त, कारण काय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-10T20:50:58",
-            "url": "https://www.esakal.com/desh/diageo-india-fssai-seizes-liquor-bottles-recycled-plastic-marking-united-spirits-bengaluru-dsp-black-smirnoff-vat69-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/0kahqzdd/Diageo-India-FSSAI-Action",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "world": [
         {
             "id": "f8c4773c88f2",
             "feed": "esakal",
@@ -228,29 +244,45 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/china-flood-news-1_2026081760305.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "4b59e6ce0bf0",
+            "id": "f5c4bd5f5520",
             "feed": "esakal",
-            "title": "KBCसाठी प्रश्न कोण तयार करतं? संपूर्ण प्रक्रिया जाणून घ्या",
+            "title": "Premium|Anahat Singh Squash : १८व्या वर्षी अनाहत सिंगचा विश्वविजय; आता ऑलिंपिकचे लक्ष्य",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-10T18:00:10",
-            "url": "https://www.esakal.com/ampstories/web-story/who-set-kbc-questions-know-entire-process-of-kaun-banega-crorepati-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/vlykzcmt/Who-Set-KBC-Questions.jpg",
+            "published": "2026-08-10T22:00:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/anahat-singh-squash-world-junior-champion-india-los-angeles-olympics-2028-asian-games-squash-title-sports-career-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/nkfixeg0/Abhi-2026-08-09T184500.417.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        }
-    ],
-    "sports": [
+        },
+        {
+            "id": "fd1d3445d71d",
+            "feed": "lokmat",
+            "title": "ऋतुराजचा विश्वविक्रम मोडला! List A मधील सर्वोत्तम सरासरीच्या टॉप-८ मध्ये ५ भारतीयांचा जलवा!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-10T21:40:29",
+            "url": "https://www.lokmat.com/cricket/photos/jake-libby-surpass-ruturaj-gaikwad-5-indians-virat-kohli-in-highest-list-a-batting-average-top-8-list-see-record-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/highest-list-a-batting-average-top-8-list-m-11_2026081760402.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "b62e709a9da1",
             "feed": "maharashtratimes",
-            "title": "Irphan Pathan : 'तुझ्या आई-बापाने हेच शिकवलंय का?'; संगकारा इरफान पठाणवर का भडकला? 21 वर्षांनी वादाचं कारण समोर",
+            "title": "Irfan Pathan : 'तुझ्या आई-बापाने हेच शिकवलंय का?'; संगकारा इरफान पठाणवर का भडकला? 21 वर्षांनी वादाचं कारण समोर",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
@@ -260,38 +292,6 @@
             "published": "2026-08-10T21:19:16",
             "url": "https://maharashtratimes.com/sports/cricket/cricket-news/irfan-pathan-revels-argument-with-kumar-sangakkara-during-the-2005-delhi-test/articleshow/133110207.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c456f03ed5e1",
-            "feed": "esakal",
-            "title": "\"मला फरक पडत नाही तो १५ चा आहे की १८...\", Vaibhav Sooryavanshi बद्दल ऑस्ट्रेलियाचा ब्रेट ली नेमकं काय म्हणाला?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-10T20:11:41",
-            "url": "https://www.esakal.com/krida/cricket/brett-lee-dismisses-vaibhav-sooryavanshi-age-debate-and-hails-indian-teenager-talent-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/mm6r67hm/Brett-Lees-Bold-Verdict-On-Vaibhav-Sooryavanshi.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a9847b3ff2e8",
-            "feed": "esakal",
-            "title": "IND vs SL: टीम इंडियाला पुन्हा दुखापतीचा फटका? कुलदीपने का केली नाही Warm-up मॅचच्या दुसऱ्या डावात गोलंदाजी, नेमकं काय घडलं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-10T19:38:17",
-            "url": "https://www.esakal.com/krida/cricket/why-kuldeep-yadav-did-not-bowl-in-second-innings-of-warm-up-match-against-sri-lanka-xi-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/sb2x7nb6/Kuldeep-Yadav.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
