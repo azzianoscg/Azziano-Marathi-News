@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "11-08-2026 | 09:20 PM IST",
+    "lastUpdated": "11-08-2026 | 10:17 PM IST",
     "maharashtra": [
+        {
+            "id": "86a73287eae8",
+            "feed": "lokmat",
+            "title": "नागपूरचा ड्रग्ज तस्कर ५४ कोटींच्या एमडीसह तेलंगणामध्ये जेरबंद, हैदराबाद पोलिसांची कारवाई",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-11T22:06:48",
+            "url": "https://www.lokmat.com/nagpur/nagpur-drug-smuggler-arrested-in-telangana-with-md-worth-54-crores-hyderabad-police-take-action-a-a877-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arrest-8009565544_201911332318.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "adac09942b9a",
+            "feed": "maharashtratimes",
+            "title": "Devendra Fadnavis: बावनकुळेंची पाठराखण, जरांगेंवर पलटवार; टीकेनंतर फडणवीसांनी आरक्षण प्रश्नावर मांडली रोखठोक भूमिका",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-11T21:58:03",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/devendra-fadnavis-supports-bjp-minister-chandrashekhar-bawankule-clear-stance-on-maratha-reservation/articleshow/133160140.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f250ab4e4d33",
+            "feed": "esakal",
+            "title": "समृद्धीवर १२०च्या स्पीडने गाड्या धावतात, नो पार्किंगमध्ये कंटेनर लावला, गंभीर अपघाताची शक्यता; त्या चालकावर गुन्हा दाखल, आरटीओकडून कारवाई",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-11T21:21:21",
+            "url": "https://www.esakal.com/vidarbha/samruddhi-expressway-container-parked-on-no-parking-lane-120-kmph-accident-risk-rto-police-action-maharashtra-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-11/9b303yo0/Samruddhi-Expressway-Container-Action",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "631b50acd03d",
             "feed": "esakal",
@@ -32,133 +80,85 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-11/hx7kgohv/Melghat-Ashram-School-Student-Health-Row",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "8aa255ae45fe",
-            "feed": "esakal",
-            "title": "CM Devendra Fadnavis : सरकार दबावाने नव्हे, संविधानानुसार चालते; जीसीसीमध्ये पुणे देशात अव्वल ठरणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-11T21:01:11",
-            "url": "https://www.esakal.com/pune/cm-devendra-fadnavis-government-runs-by-the-constitution-not-under-pressure-pune-poised-to-rank-number-one-in-gcc-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-18/f2hdm68m/CM-Devendra-Fadnavis.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "928d01dd9787",
-            "feed": "esakal",
-            "title": "Pune News : बदली आदेशाला केराची टोपली दाखविणारे चौकशीच्या फेऱ्यात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-11T20:53:36",
-            "url": "https://www.esakal.com/pune/officials-ignoring-transfer-orders-face-departmental-inquiry-pune-municipal-corporation-employee-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2024-08-23/uosplucr/pune%20municipal%20corporation.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2d62f76e352b",
-            "feed": "maharashtratimes",
-            "title": "चाकण MIDC खड्ड्यांमुळे बंद होण्याच्या मार्गावर, Devendra Fadnavis यांनी काय दिली प्रतिक्रिया",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-11T20:52:21",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/devendra-fadnavis-on-maratha-kunbi-certificate/videoshow/133158941.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "568f0e26cc26",
-            "feed": "lokmat",
-            "title": "नवीन साडीचं ब्लाऊज शिवायचं? स्लिव्हजचे ४० ट्रेंडी पॅटर्न्स; एकापेक्षा एक नवीन डिझाईन्स, पाहा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-11T21:05:12",
-            "url": "https://www.lokmat.com/sakhi/photos/shopping/blouse-sleeves-40-trendy-designs-blouse-sleeves-latest-designs-new-blouse-patterns-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/blouse-designs_2026081761212.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "6635dcbb011d",
-            "feed": "lokmat",
-            "title": "भारत-बांगलादेश सीमेवर पुन्हा तणाव; BSF च्या कारवाईच्या रागातून दोन भारतीयांचे अपहरण; फ्लॅग मीटिंगनंतर सुटका",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-11T21:05:05",
-            "url": "https://www.lokmat.com/national/tensions-rise-again-on-india-bangladesh-border-two-indians-kidnapped-in-anger-over-bsf-action-released-after-flag-meeting-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-bangladesh-border_2026081761228.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fd6f8d6e89fe",
-            "feed": "lokmat",
-            "title": "विमान हवेत आणि वैमानिक गांजाच्या नशेत! एअर इंडियाच्या त्या फ्लाईटबाबत धक्कादायक माहिती समोर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-11T20:48:51",
-            "url": "https://www.lokmat.com/national/plane-in-the-air-and-pilot-intoxicated-with-marijuana-shocking-information-about-that-air-india-flight-revealed-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/air-india-flight-1_2026081761223.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "b8108e21742a",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : कनेक्टिंग लिंकची मुंबई मार्गिका उद्या तीन तासांसाठी बंद; वाहतूक द्रुतगतीने वळवणार, कारण काय?",
+            "title": "Marathi News Updates : राज्यासह देशविदेशात दिवसभरात काय काय घडलं?वाचा एका क्लिकवर...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-11T20:43:05",
+            "published": "2026-08-11T22:02:56",
             "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-11th-august-2026-student-protests-jharkhand-psc-jssc-cgl-air-india-independence-day-preparations-devendra-fadnavis-gadchiroli-ashram-school-sharad-pawar-ncp-mp-meet-pm-modi-supriya-sule-mumbai-rain-pune-tiranga-rally-lok-sabha-amit-shah-srk94-spb94",
             "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "bb68e19ccf8b",
+            "id": "1eae98fe9959",
+            "feed": "lokmat",
+            "title": "धक्कादायक! केडीएमसी रुग्णालय म्हणते अल्पवयीन तरुणी गरोदर, खाजगी रुग्णालय म्हणते नाही",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-11T21:52:40",
+            "url": "https://www.lokmat.com/kalyan-dombivli/shocking-kdmc-hospital-says-minor-girl-is-pregnant-private-hospital-says-no-a-a855-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kalyan-news-1_2026081761230.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "e2eb177c437a",
+            "feed": "esakal",
+            "title": "ट्रेनला उशीर झाला तर प्रवाशांना मोफत मिळतात 'या'५ सुविधा, ९९ टक्के लोकांना माहीतच नाही",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-11T21:47:52",
+            "url": "https://www.esakal.com/ampstories/web-story/indian-railways-train-delay-benefits-free-food-irctc-refund-policy-waiting-room-facilities-india-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/qnihshfe/1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "f03299b5b451",
             "feed": "maharashtratimes",
-            "title": "संपत्ती दिली नाही, आम्ही कशाला येऊ? वृद्धाश्रमात वडिलांचा मृत्यू; चारही मुलांची अंत्यविधीकडे पाठ",
+            "title": "Simi Garewal : 100 पुरस्कार विजेती  अभिनेत्री, 5 वेळा प्रेमभंग; लग्नाच्या 9 वर्षात घटस्फोट, वयाच्या 78व्या वर्षी जगतेय सिंगल आयुष्य",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-11T20:35:38",
-            "url": "https://maharashtratimes.com/india-news/bhopal-old-age-home-keeps-old-mans-body-for-two-days-his-family-does-not-attend-funeral/articleshow/133158018.cms",
+            "published": "2026-08-11T21:25:52",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/bollywood-actress-simi-garewal-career-affairs-marriage-and-divorce/articleshow/133159129.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8f7ec8796f47",
+            "feed": "maharashtratimes",
+            "title": "चीनचा 'डॉल्फिन' भारताच्या मान्सूनचे ढग खातोय; 4000 किलोमीटरवरून पाऊस रोखला, धोका वाढला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-11T21:20:07",
+            "url": "https://maharashtratimes.com/india-news/typhoon-dolphin-eats-monsoon-clouds-of-india-from-4000-kilometers/articleshow/133159123.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "8a66b40867c6",
+            "feed": "esakal",
+            "title": "Viral Video : 'या' शहराच्या मातीत विखुरलय सोनं, लोक वेचून कमवाताहेत लाखो रुपये; पाहा व्हिडिओ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-11T21:21:57",
+            "url": "https://www.esakal.com/trending-news/hyderabad-gulzar-houz-gold-silver-dust-soil-roadside-mud-women-collecting-selling-jewellery-market-viral-video-gold-particles-refining-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-11/oj0y1ds4/hydrabad-1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "e91dd4bd6259",
             "feed": "lokmat",
             "title": "सतत प्रचंड थकवा, चक्कर येणे, अचानक बेशुद्ध पडणे; ब्रॅडीकार्डियाविषयी जाणून घ्या सविस्तर",
@@ -326,22 +342,6 @@
             "published": "2026-08-11T19:43:14",
             "url": "https://www.lokmat.com/agriculture/market-yard/where-in-the-state-are-summer-onions-getting-what-price-know-todays-onion-market-price-a-a999/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-34-34-u-market-rate-onion_2026081761164.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "462881921e33",
-            "feed": "lokmat",
-            "title": "BSNLचा मास्टरप्लॅन! देशभरात आणखी २ लाख 4G टॉवर उभारणार; ९ कोटी+ ग्राहकांना होणार फायदा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-11T19:22:37",
-            "url": "https://www.lokmat.com/tech/bsnls-masterplan-2-lakh-more-4g-towers-to-be-set-up-across-the-country-9-crore-customers-will-benefit-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bsnl-network_2026081761137.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
