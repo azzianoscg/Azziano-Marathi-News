@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "12-08-2026 | 12:17 AM IST",
+    "lastUpdated": "12-08-2026 | 01:24 AM IST",
     "maharashtra": [
         {
             "id": "74e0b36f5929",
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "4ac5e653edb4",
+            "feed": "lokmat",
+            "title": "११ सामन्यात ८१ बळी, हा गोलंदाज भारताची डोकेदुखी वाढवणार, कोण आहे श्रीलंकेचा किंग ऑफ गॉल?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-12T01:05:37",
+            "url": "https://www.lokmat.com/cricket/photos/ind-vs-sl-1st-test-81-wickets-in-11-matches-prabhat-jayasurya-will-add-to-indias-headaches-who-is-sri-lankas-king-of-wickets-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-1st-test-9_2026081761238.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "b5a2ba5e27a6",
             "feed": "maharashtratimes",
             "title": "IND vs AFG T20 Series : भारत आणि अफगाणिस्तानमधील टी-२० मालिकेचे शेड्यूल जाहीर, वैभव सूर्यवंशीचा कहर पाहायला मिळणार? केव्हा जाणून घ्या",
@@ -276,22 +292,6 @@
             "published": "2026-08-11T20:56:16",
             "url": "https://www.lokmat.com/cricket/photos/virat-kohli-leads-chart-of-most-runs-in-india-sri-lanka-test-series-will-this-record-broken-shubman-gill-kl-rahul-yashasvi-jaiswal-a-a1004/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/most-runs-in-india-sri-lanka-test-series-m-1_2026081761226.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "87a43905558b",
-            "feed": "maharashtratimes",
-            "title": "Team India : भारतासाठी फक्त एकच सामना खेळलेले 5 प्लेयर पुन्हा कधीच दिसले नाही, RCBच्या हुकमी एक्क्याचाही समावेश, पाहा कोण?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-11T20:20:16",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/five-indian-players-who-played-only-one-match-and-never-played-again/articleshow/133155847.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
