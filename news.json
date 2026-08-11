@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "11-08-2026 | 04:55 AM IST",
+    "lastUpdated": "11-08-2026 | 06:28 AM IST",
     "maharashtra": [
+        {
+            "id": "d7b1cef92c1f",
+            "feed": "lokmat",
+            "title": "एफडीएची मोठी कारवाई! झुरळे, अस्वच्छतेमुळे ब्लिंकिटच्या मालाडचा अन्न परवाना निलंबित",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-11T06:13:57",
+            "url": "https://www.lokmat.com/mumbai/blinkits-malad-food-license-suspended-due-to-cockroaches-unsanitary-conditions-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/malad-blink-it-store_2026081760417.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "816578857043",
+            "feed": "lokmat",
+            "title": "चीनच्या ‘डॉल्फिन’ने रोखला महाराष्ट्राचा पाऊस; १५ ऑगस्टपर्यंत फक्त घाटमाथ्यावर बरसणार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-11T06:05:57",
+            "url": "https://www.lokmat.com/maharashtra/chinas-dolphin-stops-rain-in-maharashtra-rain-will-only-fall-on-the-ghats-till-august-15-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dolphine-china_2026081760416.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "dad2188695f5",
+            "feed": "lokmat",
+            "title": "उदगीरमध्ये मध्यरात्री आगीचा तांडव; फळाचे गाेदाम खाक, लाखांचे नुकसान",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-11T05:46:40",
+            "url": "https://www.lokmat.com/latur/fire-breaks-out-in-udgir-at-midnight-fruit-warehouse-gutted-loss-worth-lakhs-a-a463-c1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/latur-bidar-fire_2026081760414.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "06869b0b1114",
+            "feed": "lokmat",
+            "title": "चोरांचा 'रॉयल' डबा; चामरग्यात कपाट साफ करून फ्रिजमधील खिचडीवर ताव!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-11T05:43:30",
+            "url": "https://www.lokmat.com/latur/thieves-royal-box-clean-out-the-cupboards-in-a-hurry-and-take-a-dig-at-the-khichdi-in-the-fridge-a-a463-c1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/latur-robbery_2026081760413.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "bc0d221550a4",
             "feed": "lokmat",
@@ -16,73 +80,73 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-221_2026081760412.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "8ccaf1a74362",
+            "id": "22113ea45983",
             "feed": "esakal",
-            "title": "सोलापूर-पुणे महामार्गावरील ३ ब्लॅकस्पॉट होणार कमी! जुना पूना नाका अन्‌ बाळेजवळील आदिला नदीवर एकूण ४ नवे पूल; तीन पूल लवकरच वाहतुकीसाठी खुले, वाचा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-11T00:40:00",
-            "url": "https://www.esakal.com/maharashtra/three-blackspots-on-the-solapur-pune-highway-to-be-eliminated-a-total-of-four-new-bridgesincluding-one-at-juna-puna-naka-and-another-over-the-adila-river-near-baleare-being-constructed-three-of-these-will-soon-be-open-to-traffic-read-on",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/81nyp372/PNE26W41438.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ed5edaa70b5e",
-            "feed": "lokmat",
-            "title": "पोलिसांच्या धाकामुळे फसवणूकीच्या गुन्ह्यातील फरार संशयितानं संपवलं जीवन, पोलिस दलात खळबळ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-11T00:39:06",
-            "url": "https://www.lokmat.com/nagpur/a-fugitive-suspect-in-a-fraud-case-committed-suicide-due-to-fear-of-the-police-creating-a-stir-in-the-police-force-a-a877-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/death-d-y_202109692258.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "334a1176bc24",
-            "feed": "esakal",
-            "title": "अक्कलकोटच्या आमदारांच्या चालकाला पैशांची ऑफर! तडीपार श्रीशैल हुळ्ळी म्हणाला, ‘तुला पैसे देतो तुझ्या आमदाराला गोळी घालून मार, मी पुढचे बघतो’; 1 अटक, दुसरा फरार, वाचा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-10T23:59:00",
-            "url": "https://www.esakal.com/maharashtra/driver-of-akkalkot-mla-offered-money-externed-criminal-shrishail-hulli-said-ill-pay-you-shoot-your-mla-dead-and-ill-handle-the-rest-one-arrested-the-other-abscondingread-on",
-            "image": "https://cf-images.assettype.com/esakal/2025-11-04/my11asek/sudhir-jadhav-satara-13.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8bc8e2721ed6",
-            "feed": "esakal",
-            "title": "‘सिव्हिल’मधून दिलेली आणखी १७ दिव्यांग प्रमाणपत्रे बोगस! वैद्यकीय तपासणीशिवाय दिली प्रमाणपत्रे; सोलापूर क्राईम ब्रॅंचकडून कागदपत्रांची पडताळणी, ७ जणांचा जामीन फेटाळला",
+            "title": "आरोग्य‘चेतना’ : मणक्याच्या खालच्या भागातील दाब",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-10T23:55:00",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/another-17-disability-certificates-issued-by-the-civil-hospital-found-to-be-fake-certificates-were-issued-without-medical-examinations-solapur-crime-branch-verified-the-documents-and-the-bail-pleas-of-seven-individuals-were-rejected",
-            "image": "https://cf-images.assettype.com/esakal/2025-11-30/zu26hssw/PNE25V722421.jpg",
+            "published": "2026-08-11T06:13:00",
+            "url": "https://www.esakal.com/health/aarogya-chetana-lower-spine-nerve-compression-cauda-equina-syndrome-symptoms-sexual-dysfunction-bladder-bowel-numbness-urgent-spine-surgery-dr-jaydev-panchwagh-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-10/vzc8gltk/Esakal-59.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
+            "category_reason": "default"
+        },
+        {
+            "id": "fd5390f839c4",
+            "feed": "lokmat",
+            "title": "पंतप्रधान मोदींच्या भेटीला पवारांचे ८ शिलेदार; चर्चा स्थानिक प्रश्नांची अन् पावले पाठिंब्याकडे",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-11T06:00:40",
+            "url": "https://www.lokmat.com/national/pawars-8-cronies-meet-prime-minister-modi-discuss-local-issues-and-steps-towards-support-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/narendra-modi-ncp_2026081760415.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "51e278754dbd",
+            "feed": "maharashtratimes",
+            "title": "कोट्यवधींचे मालक असूनही सेलिब्रेटी वायरलेस बड्स का नाकारतात? हॅकिंगचा धोका की रेडिएशनची भीती?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-11T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/science-technology/how-celebrities-protect-their-privacy-and-health-by-avoiding-wireless-bluetooth-earbuds/articleshow/133100002.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c0e8d46d9703",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 11 ऑगस्ट 2026 : कन्याला मिळणार नशिबाची साथ तर मीनला मिळणार कष्टाचे फळ ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-11T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-11-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/133130744.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "73cba4dea7d0",
             "feed": "lokmat",
@@ -98,70 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/youth-social-viral-1_2026081760409.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "249312aa90e6",
-            "feed": "esakal",
-            "title": "Police Residence Issue : मावळात पोलिसांच्या हक्काच्या घराची प्रतीक्षा; तीन ठिकाणी मंजुरी मिळूनही प्रत्यक्ष बांधकाम अजूनही ‘लालफितीत’",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-10T23:42:05",
-            "url": "https://www.esakal.com/pimpri-chinchwad/maval-police-await-official-housing-construction-remains-stuck-in-red-tape-despite-approval-at-three-locations-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/82hwfo21/lonavala-rural-police-residence-condition",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8e378e0e194f",
-            "feed": "esakal",
-            "title": "गुरुदेव रवींद्रनाथ टागोर यांना आठवण्याचे हे दिवस",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-10T23:05:30",
-            "url": "https://www.esakal.com/sampadakiya/bhayashunya-chitta-jeth-rabindranath-tagore-message-indian-democracy-youth-movement-cockroach-janta-party-abhijeet-dipke-jantar-mantar-modi-shah-political-analysis-india-democracy-emergency-opposition-delimitation-womens-reservation-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/h7tf73ei/Esakal-57.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "1d58c8386839",
-            "feed": "maharashtratimes",
-            "title": "Revati Sule And Sarang Lakhanee Reception : मोदी, शाह ते सोनिया गांधी, रेवती सुळे-सारंग लखानी यांच्या रिस्पेशनच्या कार्यक्रमात दिग्गजांची हजेरी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-10T22:55:32",
-            "url": "https://maharashtratimes.com/photogallery/news/pm-narendra-modi-amit-shah-attend-revati-sule-and-sarang-lakhanee-reception/photoshow/133124492.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "9e7f62ad93fa",
-            "feed": "esakal",
-            "title": "India Unemployment Rate: तरुणांसाठी नोकरीची चिंता कायम! देशातील बेरोजगारीची स्थिती ‘जैसे थे’; दर ५.५ टक्क्यांवर स्थिर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-10T22:13:44",
-            "url": "https://www.esakal.com/desh/india-unemployment-rate-june-2026-employment-job-market-women-labour-force-participation-latest-government-data-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-10/bglvbs0t/India-Unemployment-Rate-April-June-2026",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
