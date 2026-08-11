@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "11-08-2026 | 05:07 PM IST",
+    "lastUpdated": "11-08-2026 | 06:11 PM IST",
     "maharashtra": [
         {
-            "id": "d1b70c80f327",
-            "feed": "maharashtratimes",
-            "title": "Harshwardhan Sapkal | राहुल गांधी पळून जाणारे नव्हेतर भिडणारे नेते, सपकाळांचा भाजपला टोला",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-11T17:05:30",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/harshwardhan-sapkal-critisized-bjp-and-pm-modi/videoshow/133152977.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0a8891f30860",
-            "feed": "esakal",
-            "title": "कथित कांदा खरेदीचा केंद्राने घेतला धसका",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-11T17:01:42",
-            "url": "https://www.esakal.com/pune/onion-purchase-fraud-investigation",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-11/4d86nu1x/Banner1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a5735ea026f6",
-            "feed": "esakal",
-            "title": "Jalgaon News : ‘उमेद’च्या बळावर जळगावची नारीशक्ती आत्मनिर्भरतेकडे; तब्बल ३१ हजारांहून अधिक बचतगटांचे जाळे, साडेचारशे कोटींहून अधिक कर्ज वितरित",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-11T17:00:24",
-            "url": "https://www.esakal.com/jalgaon/jalgaon-women-empowered-through-umed-over-31000-self-help-groups-and-loans-exceeding-rupees-450-crore-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-11/884wrbn8/Umed",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "da4d578c6ad1",
+            "id": "712f4ffe1778",
             "feed": "lokmat",
-            "title": "पालघर हादरलं! फिरायला गेलेल्या तरुणीवर पाच जणांचा सामूहिक अत्याचार; प्रियकर पळून गेला",
+            "title": "छ. संभाजीनगरकरांना मोठा दिलासा! DP प्लॅनचे सर्व ११ सेक्टरचे नकाशे मनपाला प्राप्त",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-11T16:59:38",
-            "url": "https://www.lokmat.com/thane/palghar-shock-19-year-old-woman-gang-raped-near-talasari-three-arrested-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/palghar-crime-police_2026081760986.jpg",
+            "published": "2026-08-11T18:00:07",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/chhatrapati-sambhajinagar-municipal-corporation-receives-all-11-sector-ep-maps-of-development-plan-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/municipal-map-abd-gunthewari-fea_2026081760988.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f09984b12b7e",
+            "id": "afc17d99f525",
+            "feed": "lokmat",
+            "title": "​सायबर गुन्हेगारांचे 'म्युल अकाउंट' गळाले ! अमरावती सायबर पोलिसांची मोठी कारवाई, सहा जणांना अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-11T17:59:41",
+            "url": "https://www.lokmat.com/amravati/cyber-criminals-mule-accounts-leaked-amravati-cyber-police-takes-major-action-six-arrested-a-a783-c1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-11-at-5.57.14-pm_2026081761042.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "e06c26253aba",
             "feed": "esakal",
-            "title": "आदिवासी लेख दाभाडे",
+            "title": "Mumbai Rain: मुंबईकरांनो सावधान! पुढील २-३ तासात पावसाचा जोर वाढणार, आयएमडीचा इशारा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-11T16:57:10",
-            "url": "https://www.esakal.com/pune/tribal-education-safety-maharashtra",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-11/fzahhn11/Banner1.png",
+            "published": "2026-08-11T17:52:25",
+            "url": "https://www.esakal.com/maharashtra/mumbai-rain-intensity-in-will-increase-over-next-2-3-hours-maharashtra-weather-update-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-11/mjim76nx/Mumbai-Rain-Update.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8ebcce26eed4",
+            "feed": "esakal",
+            "title": "बारामतीतील युवती मृत्यू प्रकरणी तरुणावर गुन्हा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-11T17:51:41",
+            "url": "https://www.esakal.com/pune/baramati-girl-death-investigation",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-11/sdcf6829/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a5418886dff0",
+            "feed": "esakal",
+            "title": "बाळासाहेब देसाई स्मारकाचे शनिवारी अनावरण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-11T17:44:59",
+            "url": "https://www.esakal.com/pune/balasaheb-desai-statue-unveiling-satara",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-11/jgfii9fu/Banner1.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "88a0da0beaa6",
-            "feed": "lokmat",
-            "title": "विरारमध्ये १ कोटी रुपयांच्या बनावट नोटा जप्त; एका आरोपी ताब्यात",
+            "id": "c733a32f0e3b",
+            "feed": "maharashtratimes",
+            "title": "Marathi Child Actor: अतुल परचुरेंसोबत नाटकात काम, फोटोतल्या या बालकलाकाराला ओळखलं का? आता आहे सोशल मीडिया स्टार, बहीण देखील आहे अभिनेत्री",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-11T17:05:52",
-            "url": "https://www.lokmat.com/vasai-virar/fake-notes-worth-rs-1-crore-seized-in-virar-one-arrested-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fake-money_2026081760991.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "fed99b9fa976",
-            "feed": "lokmat",
-            "title": "माऊंटन क्वीन! घरगुती हिंसाचार अन् गरिबीवर मात; लखपा शेरपा यांनी मोडला रेकॉर्ड, अकराव्यांदा...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-11T17:04:57",
-            "url": "https://www.lokmat.com/sakhi/photos/inspirational/mountain-queen-lhakpa-sherpa-creates-history-becomes-first-woman-to-summit-mount-everest-11-times-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mountain-queen-lhakpa-sherpa_2026081760990.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "b8108e21742a",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : हार्बर लोकल पावसामुळे 10-15 मिनिटं उशीराने",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-11T17:01:01",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-11th-august-2026-student-protests-jharkhand-psc-jssc-cgl-air-india-independence-day-preparations-devendra-fadnavis-gadchiroli-ashram-school-sharad-pawar-ncp-mp-meet-pm-modi-supriya-sule-mumbai-rain-pune-tiranga-rally-lok-sabha-amit-shah-srk94-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
+            "published": "2026-08-11T18:00:04",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/aashish-gade-marathi-child-actor-now-known-as-social-media-star-singer/articleshow/133153989.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "0eb76a5581e9",
+            "id": "847cba227d3e",
             "feed": "lokmat",
-            "title": "वर्षाच्या पहिल्या पालकसभेत शिक्षकांना विचारा ५ प्रश्न, मुलांची काळजी असेल ‘ही’ खात्री कराच...",
+            "title": "अभिनेत्री सौम्या टंडनच्या ५ सिक्रेट सवयी, ना जिम-ना डाएट तरीही कायम स्लिम दिसण्याची युक्ती",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-11T17:00:02",
-            "url": "https://www.lokmat.com/sakhi/parenting/these-5-questions-you-should-ask-in-ptm-5-important-questions-to-ask-in-parents-teacher-meeting-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/these-5-questions-you-should-ask-in-ptm_2026081760929.jpeg",
+            "published": "2026-08-11T18:00:02",
+            "url": "https://www.lokmat.com/sakhi/fitness/actress-saumya-tandon-fitness-secrets-diet-and-fitness-routine-slim-body-secrets-healthy-habits-weight-management-tips-how-to-stay-slim-without-gym-and-diet-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saumya-tandon-diet-and-fitness-routine_2026081760890.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "03435f98275b",
+            "id": "f3ab691f71ae",
+            "feed": "lokmat",
+            "title": "खातात या देशाचं अन्...!\"; नसीरुद्दीन शाह यांच्या 'कुत्ते' विधानावरून कंगनाचा हल्लाबोल, 'हा' बोचरा शब्द वापरला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-11T18:00:02",
+            "url": "https://www.lokmat.com/filmy/bollywood/mp-kangana-ranaut-calls-naseeruddin-shah-fox-over-student-protest-controversy-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kangana-ranaut-vs-naseeruddin-shah_2026081761040.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "efbe2069c564",
             "feed": "esakal",
-            "title": "Premium|Konark Sun Temple : कोणार्क; एका मंदिराच्या जन्मामागील कथा",
+            "title": "अवघं १८ वर्षांचं वय... देशाच्या स्वातंत्र्यासाठी फासावर चढला! कोण होता हा तरुण क्रांतिकारक?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-11T17:00:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/konark-sun-temple-construction-history-ancient-india-architecture-artisans-engineering-labour-management-odisha-temple-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/lpinieha/Abhi-100.jpg",
+            "published": "2026-08-11T17:55:02",
+            "url": "https://www.esakal.com/ampstories/web-story/khudiram-bose-death-anniversary-11-august-1908-18-year-old-revolutionary-freedom-fighter-muzaffarpur-bomb-case-prafulla-chaki-british-rule-indian-independence-history-shaheed-khudiram-bose-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-11/ws10zs8e/Khudiram-Bose",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "16ebd1e06347",
+            "feed": "esakal",
+            "title": "फक्त ६ एपिसोड पण सगळीकडे फक्त याच सीरिजची चर्चा! नेटफ्लिक्सवर येताच ठरली नं. १ ; तुम्ही पाहिलीत का?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-11T17:53:57",
+            "url": "https://www.esakal.com/premier/netflix-6-episode-patriotic-thriller-web-series-trending-at-number-one-read-the-name-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-11/y1qbacdv/operation-safed-sagar.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "3720bf94bb08",
+            "feed": "maharashtratimes",
+            "title": "सीरियाच्या बडतर्फ राष्ट्राध्यक्षाला मृत्यूदंड, नेमके कुठे आहेत 24 वर्ष सत्ता गाजवणारे बशर अल असद?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-08-11T17:31:08",
+            "url": "https://maharashtratimes.com/international/international-news/syria-former-president-bashar-al-assad-sentenced-to-death-for-crimes-against-humanity/articleshow/133153246.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9142bd63f1c8",
+            "feed": "lokmat",
+            "title": "Kai Trump: क्युटनेस अन् ग्लॅमरचा उत्तम मेळ! डोनाल्ड ट्रम्प यांच्या नातीची इंटरनेटवर क्रेझ, कोण आहे काइ ट्रम्प?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-11T17:21:07",
+            "url": "https://www.lokmat.com/photos/international/the-perfect-combination-of-cuteness-and-glamour-united-states-president-donald-trump-granddaughter-kai-trump-is-trending-on-internet-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-granddaughter-kai-trump-1_2026081761009.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "d86cb639fa06",
             "feed": "lokmat",
@@ -212,41 +244,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "1d84b3b4545e",
-            "feed": "maharashtratimes",
-            "title": "अखेर स्फोट झालेल्या चिनी रॉकेटचा शेवटचा व्हिडिओ समोर, 2050 पर्यंत ड्रॅगनचं अंतराळ क्षेत्रात 'किंग' बनण्याचं स्वप्न भंगलं!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-11T14:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/science-technology/china-long-march-7a-rocket-explodes-in-mid-air-moments-after-liftoff-video-surfaces/articleshow/133146995.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "2fdda9eb9b7c",
-            "feed": "maharashtratimes",
-            "title": "शेतकऱ्याचा मुलगा शिकला, अमेरिकेत जॉब करायला लागला; तेवढ्यात वडिलांना फोन येतो तो आपल्यात नाही! दिलीपसोबत नक्की काय घडलं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-11T13:48:58",
-            "url": "https://maharashtratimes.com/international/international-news/indian-student-dileep-kumar-bangatavula-died-in-usa-road-accident/articleshow/133145980.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "955ec8900012",
+            "feed": "esakal",
+            "title": "Harbhajan Singh याला NCA मधून का हाकललं होतं? २६ वर्षांनी स्वत:च केला मोठा खुलासा; म्हणाला, 'माझी चूक...'",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-11T18:06:52",
+            "url": "https://www.esakal.com/krida/cricket/harbhajan-singh-reveals-2000-nca-expulsion-controversy-over-tearing-diet-chart-in-bengaluru-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-11/awi82wha/Harbhjan-Singh.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f2d690808ac3",
             "feed": "esakal",
@@ -260,22 +276,6 @@
             "published": "2026-08-11T16:48:59",
             "url": "https://www.esakal.com/krida/cricket/vaibhav-sooryavanshi-viral-instagram-post-duleep-trophy-preparation-east-zone-vice-captain-video-psk96",
             "image": "https://cf-images.assettype.com/esakal/2026-08-11/pbmve624/Vaibhav-Sooryavanshi-Video.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "596322fe1f98",
-            "feed": "lokmat",
-            "title": "रागाच्या भरात डाएट चार्ट फाडला, शिक्षा झाली; २६ वर्षांनी हरभजन म्हणतो, \"जर मी तसं केलं नसतं तर...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-11T16:06:48",
-            "url": "https://www.lokmat.com/cricket/news/harbhajan-singh-recalls-2000-nca-expulsion-blames-bcci-food-being-provided-there-did-not-match-the-specific-diet-chart-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/harbhajan-singh-recalls-2000-nca-expulsion-blames-bcci-m-_2026081760898.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -298,52 +298,52 @@
     ],
     "business": [
         {
-            "id": "8a5536447172",
+            "id": "688a77eff050",
             "feed": "lokmat",
-            "title": "इलॉन मस्क यांच्या कंपनीशी करार होताच शेअर सुसाट!; २ दिवसांत दिला ३१% परतावा, किंमत अजूनही ४० रुपयांपेक्षा कमी",
+            "title": "लवकरच येणार प्लास्टिकच्या नोटा! केंद्र सरकारकडून ₹१०-₹२० च्या पॉलिमर नोटांच्या ट्रायल्सना मंजुरी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-11T17:00:41",
-            "url": "https://www.lokmat.com/photos/business/share-market-blue-cloud-softech-elon-musk-spacex-deal-share-price-jump-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/elon-musck-share-market-ytg_2026081760959.jpg",
+            "published": "2026-08-11T18:05:39",
+            "url": "https://www.lokmat.com/business/banking-loans/polymer-banknotes-central-government-approves-trials-of-polymer-notes-of-rs10-rs20-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/polymer-notes_2026081761044.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bdffec728ce2",
+            "id": "fb34bc12f514",
             "feed": "maharashtratimes",
-            "title": "Deep Amavasya Wishes in Marathi : दीप अमावस्येचे शुभेच्छा संदेश पाठवा आपल्या प्रियजनांना,मराठमोळे स्टेटस मेसेजेस आणि कोट्स शेअर करा सर्वांना !",
+            "title": "आयकर विभागाकडून नोटीस आल्यास सर्वात आधी चेक करा, बनावट तर नाही ना? प्रत्येकासाठी आवश्यक अशी माहिती",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "business"
             },
-            "published": "2026-08-11T17:00:00",
-            "url": "https://maharashtratimes.com/astro/festival/deep-amavasya-2026-wishes-quotes-status-in-marathi-divyanchi-awas-shubhechcha-for-family-and-friends/articleshow/133148876.cms",
+            "published": "2026-08-11T18:05:30",
+            "url": "https://maharashtratimes.com/business/business-news/itr-notice-verification-by-pan-card-number-and-din-number/articleshow/133152199.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "893b61597830",
+            "id": "d657468feffb",
             "feed": "lokmat",
-            "title": "चित्रपट चालो अथवा ना चालो; पॉपकॉर्न विक्रीतून PVR Inoxची तब्बल ₹२,०८८ कोटींची कमाई",
+            "title": "Maharashtra Ranbhajya : पावसाळ्यात रानभाज्यांची रेलचेल; जाणून घ्या कोणत्या भाजीचे काय फायदे?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-11T16:40:09",
-            "url": "https://www.lokmat.com/business/savings-investments/whether-the-movie-hit-or-flop-pvr-inox-earns-a-whopping-rs2088-crore-from-popcorn-sales-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pvr-inox_2026081760939.jpg",
+            "published": "2026-08-11T17:45:58",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/maharashtra-ranbhajya-a-series-of-wild-vegetables-during-the-monsoon-know-the-benefits-of-which-vegetable-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maha-ranbhaji_2026081761019.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
