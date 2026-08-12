@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "12-08-2026 | 09:25 AM IST",
+    "lastUpdated": "12-08-2026 | 10:54 AM IST",
     "maharashtra": [
         {
-            "id": "9ad21099a3c2",
+            "id": "aa22560d6116",
+            "feed": "lokmat",
+            "title": "राज ठाकरे यांनी घेतली CM देवेंद्र फडणवीसांची भेट; 'वर्षा' बंगल्यावरील भेटीनं चर्चांना उधाण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-12T10:46:51",
+            "url": "https://www.lokmat.com/maharashtra/mns-chief-raj-thackeray-meets-cm-devendra-fadnavis-visit-to-varsha-bungalow-sparks-political-discussion-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raj-devendra-varsha-1_2026081761332.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1f045e9149d5",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : ‘गोकुळ’ची आज प्रारूप मतदार यादी, २१ पर्यंत हरकती",
+            "title": "Maharashtra Ration Card: लाखोंचे उत्पन्न, तरीही 'स्वस्त' धान्य, राज्यात ४३ लाख संशयित रेशन कार्ड",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T09:24:45",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-12th-august-2026-loksabha-parliament-monsoon-session-weather-update-mumbai-rain-pune-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-ssy93-snk89",
+            "published": "2026-08-12T10:43:45",
+            "url": "https://www.esakal.com/maharashtra/maharashtra-suspected-ration-cards-43-lakh-ineligible-beneficiaries-ration-system-public-distribution-food-security-mission-sudhar-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/t2imwacl/Abhi-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5d95fa507552",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : श्रावणात त्र्यंबकेश्वरचे व्हीआयपी दर्शन बंद",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-12T10:38:30",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-12th-august-2026-loksabha-parliament-monsoon-session-weather-update-mumbai-rain-pune-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-ssy93-spb94",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "cfa9c55d886d",
+            "id": "c3f6d640c8ec",
+            "feed": "lokmat",
+            "title": "गंभीर त्रुटी आढळल्याने १० आयुर्वेदिक उत्पादक संस्थांचे परवाने कायमस्वरूपी रद्द; ४३४ उत्पादकांची एफडीएकडून तपासणी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-12T10:35:13",
+            "url": "https://www.lokmat.com/mumbai/licenses-of-10-ayurvedic-manufacturing-companies-permanently-cancelled-due-to-serious-errors-fda-inspects-434-manufacturers-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fda-medicine_2026081761325.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0db3262468ea",
             "feed": "maharashtratimes",
-            "title": "Nagpur Pollution: मुंबई अन् पुण्यापेक्षा नागपूर अधिक प्रदूषित; उन्हाळ्यात 46 दिवस धूलिकण मर्यादेपेक्षा अधिक",
+            "title": "Nashik News : कांदा साठवणुकीवर  प्रश्नचिन्ह ; खरेदीतील अनियमिततेच्या चौकशीची व्हावी खासदारांची केली मागणी",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T09:20:17",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-more-polluted-than-mumbai-and-pune-dust-particle-levels-exceeded-limits-on-46-days-during-summer/articleshow/133167947.cms",
+            "published": "2026-08-12T10:32:24",
+            "url": "https://maharashtratimes.com/maharashtra/nashik/nashik-question-raised-over-onion-storage-mps-demand-inquiry-into-procurement-irregularities/articleshow/133170668.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b67f8c5930e0",
-            "feed": "maharashtratimes",
-            "title": "VIDEO | 'दिल्ली दरबारी जाऊन पादत्राणे चाटतात',शिंदेंच्या शिवसेनेवर हल्लाबोल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T09:18:20",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/ayodhya-pol-patil-launches-a-scathing-attack-on-eknath-shinde/videoshow/133169266.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8683f321d293",
-            "feed": "maharashtratimes",
-            "title": "Rain Alert: पावसाचे पुन्हा कमबॅक! मुंबईसह चार जिल्ह्यांमध्ये मुसळधार कोसळणार; हवामान खात्याचा इशारा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T09:15:08",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/heavy-rainfall-alert-issued-for-mumbai-and-four-districts-orange-alert-in-pune/articleshow/133169146.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "80d7fedf3c30",
-            "feed": "esakal",
-            "title": "Mumbai Monsoon: मुंबईत आज मुसळधारेचा इशारा;वाहतूक सुरळीत; समुद्रात ४.६८ मीटर उंचीच्या मोठ्या लाटा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T09:14:42",
-            "url": "https://www.esakal.com/mumbai/mumbai-rains-heavy-rain-alert-4-68-metre-high-tide-mumbai-weather-monsoon-traffic-local-trains-dams-water-storage-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/lpkxl5hk/Abhi.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "97827e765a0c",
-            "feed": "esakal",
-            "title": "सासऱ्यांचीच भूमिका साकारणार जावई! अक्षय कुमार बनणार राजेश खन्ना; भन्नाट योगायोग!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-12T09:17:09",
-            "url": "https://www.esakal.com/premier/akshay-kumar-to-play-rajesh-khanna-in-rd-burman-biopic-farhan-akhtar-neeraj-pandey-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/wa88wlpq/AKSHAY-KUMAR-TO-PLAY-RAJESH-KHANNA",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "3c24b783cc36",
+            "id": "e85202f4e868",
             "feed": "maharashtratimes",
-            "title": "Chiyaan Vikram : माकडासोबतचा व्हिडिओ टाकून पुरता फसला अभिनेता! वनविभागाची कारवाई, दुर्मिळ जातीच्या वानराच्या तस्करीचा संशय",
+            "title": "1970 मध्ये मुद्दाम नासाने चंद्रावर रॉकेट आदळले, तब्बल तीन तास 'शशी' थरथरत राहिला",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-12T09:15:12",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/chiyaan-vikram-in-trouble-for-viral-video-with-rare-monkey-lar-gibbon/articleshow/133168676.cms",
+            "published": "2026-08-12T10:42:22",
+            "url": "https://maharashtratimes.com/gadget-news/science-technology/apollo-13-mystery-when-nasa-intentionally-made-the-moon-ring-like-a-bell-in-1970/articleshow/133170961.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "f3c8544802c5",
-            "feed": "esakal",
-            "title": "गणपती बाप्पा अन् शिवराय; मावळ्यांच्या श्रद्धेची ही खास गोष्ट प्रत्येक शिवभक्ताने वाचायलाच हवी!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-12T09:13:44",
-            "url": "https://www.esakal.com/ampstories/web-story/chhatrapati-shivaji-maharaj-lord-ganesha-ganpati-bappa-special-bond-maratha-warriors-faith-history-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2024-09-17/imldo03j/16.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "117190a20abe",
-            "feed": "maharashtratimes",
-            "title": "आज वर्षातील सर्वात मोठे सूर्यग्रहण; भारतीयांनी कसे पाहावे? इथे 'A टू Z' माहिती",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-12T09:04:34",
-            "url": "https://maharashtratimes.com/gadget-news/science-technology/how-to-watch-today-total-solar-eclipse-2026-live-online-in-india-check-nasa-streaming-link-and-exact-time/articleshow/133169012.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "73f541d35c32",
+            "id": "7285f59b11b1",
             "feed": "lokmat",
-            "title": "चिकणमातीच्या गणेश मूर्तीचे पूजन करूया; मुख्यमंत्री प्रमोद सावंत यांचे जनतेला आवाहन",
+            "title": "बायको करणार 'कोण होणार करोडपती'चं सूत्रसंचालन; डॉ. श्रीराम नेनेंची प्रतिक्रिया, म्हणाले- \"तुझी निवड...\"",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-12T09:04:32",
-            "url": "https://www.lokmat.com/goa/let-us-worship-clay-ganpati-idol-cm-pramod-sawant-appeal-to-the-people-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cm-pramod-sawant-kadamba_2024071259307.jpg",
+            "published": "2026-08-12T10:40:56",
+            "url": "https://www.lokmat.com/filmy/bollywood/dr-shriram-nenes-posts-for-madhuri-dixit-to-host-kon-honar-crorepati-sony-marathi-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dr.-shriram-nenes-posts-for-madhuri-dixit-to-host-kon-honar-crorepati-sony-marathi_2026081761328.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "cbd71e2d9fc2",
+            "feed": "lokmat",
+            "title": "\"टॉम क्रूझला माझ्यावर क्रश आहे, तो मला व्हिडीओ पाठवतो...\", मल्लिका शेरावतचा दावा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-12T10:34:15",
+            "url": "https://www.lokmat.com/filmy/bollywood/mallika-sherawat-said-hollywood-actor-tom-cruise-have-crush-on-her-the-traitor-2-video-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mallika-on-tom-cruise_2026081761324.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ba10a3dd1c98",
+            "feed": "lokmat",
+            "title": "सनी देओल ६८ व्या वर्षीही इतका फिट कसा? अभिनेत्याने सांगितलं फिटनेस सिक्रेट; म्हणाला, “सकाळी ५:३० वाजता उठतो अन्…”",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-12T10:33:04",
+            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-actor-batwara-1947-movie-fame-sunny-deol-reveals-her-fitness-secret-workout-and-diet-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sunny-deol-1_2026081761318.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c872a913c9e7",
+            "feed": "maharashtratimes",
+            "title": "Urmila Matondkar On Ex Husband : मोहसीनचा नव्या बायकोसोबत फोटो, काही तासात उर्मिला मातोंडकर पोस्ट, Ex नवऱ्याला टोमणा मारल्याची चर्चा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-12T10:29:20",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/urmila-matondkar-cryptic-post-after-ex-husband-mohsin-akhtar-mir-shared-photos-with-new-wife/articleshow/133169642.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "3e474004982a",
+            "feed": "lokmat",
+            "title": "“मोदी-ट्रम्प चांगले मित्र, १०० टक्के टॅरिफचा मुद्दा सोडवतील”; अमेरिकेच्या अधिकाऱ्यांचा दावा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-12T10:42:11",
+            "url": "https://www.lokmat.com/international/america-official-peter-navarro-said-india-pm-narendra-modi-and-donald-trump-are-good-friends-and-will-resolve-tariff-issue-100-percent-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pm-modi-and-donald-trump-news_2026041690750.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f4abf8e42201",
+            "feed": "lokmat",
+            "title": "विमानांचा चकवा! २००० मध्ये बिल क्लिंटन देखील साध्या विमानाने भारतातून पाकिस्तानला गेलेले; पण एक फरक होता...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-12T10:14:28",
+            "url": "https://www.lokmat.com/international/us-president-decoy-planes-the-trick-of-planes-in-2000-bill-clinton-also-flew-from-india-to-pakistan-by-a-simple-plane-but-there-was-one-difference-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bill-clinton-took-decoy-plane-like-donald-trump-india-pakistan_2026081761310.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "89428cde5a1e",
             "feed": "lokmat",
@@ -212,138 +244,106 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-asks-pakistan-to-put-military-and-intelligence_2026081761270.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "cdbc35b0c34a",
-            "feed": "lokmat",
-            "title": "कोलंबिया भूकंप : १८९ मृत्यू, तीन हजारांहून अधिक बेपत्ता; हजारो घरे उद्ध्वस्त",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-12T06:17:41",
-            "url": "https://www.lokmat.com/international/colombia-earthquake-189-dead-more-than-3000-missing-thousands-of-houses-destroyed-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/colombia-earthquak_2026081761252.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "542acb061f76",
-            "feed": "lokmat",
-            "title": "युद्धगुन्ह्यांसाठी बशर अल-असाद यांना फाशीची शिक्षा; सीरियाच्या न्यायालयाचा निर्णय, भावांनाही फाशी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-12T06:09:58",
-            "url": "https://www.lokmat.com/international/bashar-al-assad-sentenced-to-death-for-war-crimes-syrian-court-decides-brothers-also-sentenced-to-death-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bashar-al-assad_2026081761250.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "2e47d239f36e",
-            "feed": "esakal",
-            "title": "ऑलिंपिक पदकविजेता कुस्तीपटू सुशीलकुमार तुरुंगातच; सागर धनकर हत्या प्रकरण, दिल्ली उच्च न्यायालयाने जामीन नाकारला",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-12T09:23:49",
-            "url": "https://www.esakal.com/krida/sushil-kumar-bail-plea-rejected-olympic-medallist-to-remain-in-jail-in-sagar-dhankar-murder-case-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/140u7cj9/Sushil-Kumar-bail-plea-rejected-by-Delhi-High-Court",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b5375ce939c4",
-            "feed": "esakal",
-            "title": "IND vs SL 1st Test: जसप्रीत बुमराहच्या अनुपस्थितीत 'हा' गोलंदाज श्रीलंकेला रडवणार; मोहम्मद सिराज, प्रसिद्ध कृष्णा नव्हे, तर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-12T09:18:00",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-not-siraj-or-prasidh-krishna-this-pacer-could-trouble-sri-lanka-in-jasprit-bumrahs-absence-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/sq9nvpt0/Parvez-Maharoof-praises-Gurnoor-Brar",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7f4946892159",
+            "id": "b9a186ed2c1e",
             "feed": "maharashtratimes",
-            "title": "Cristiano Ronaldo wedding : रोनाल्डोचं जगभरातल्या चाहत्यांना मध्यरात्री मोठं सरप्राईज, दीर्घकालीन प्रेयसीसोबत विवाह! कुठे आणि कसा पार पडला लग्नसोहळा?",
+            "title": "नादखुळा! वैभव सूर्यवंशीनंतर आणखी दोन तोडफोड फलंदाजांची चर्चा, 28 आणि 34 चेंडूत मिळून 159 धावा; पाहा नेमके कोण?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-12T09:02:08",
-            "url": "https://maharashtratimes.com/sports/football/news/cristiano-ronaldo-married-his-long-time-partner-georgina-rodriguez-shared-photo-on-instagram/articleshow/133168211.cms",
+            "published": "2026-08-12T10:38:08",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/yash-dhull-and-siddharth-joon-explosive-batting-in-dpl-central-delhi-kings-defeated-new-delhi-tigers/articleshow/133170011.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "06d005bd6b9c",
+            "feed": "esakal",
+            "title": "Rocky Flintoff : २० षटकार, ४३ चौकार... अँड्य्रू फ्लिंटॉफच्या मुलाचे वादळी शतक... रॉकीने संघाला मिळवून दिला १७४ धावांनी विजय",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-12T10:37:02",
+            "url": "https://www.esakal.com/krida/cricket/rocky-flintoffs-explosive-65-ball-century-andrew-flintoffs-son-lights-up-one-day-cup-as-lancashire-win-by-174-runs-with-20-sixes-43-fours-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/qpatvivg/Rocky-Flintoff-65-ball-century-against-Somerset",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "06c17bb96333",
+            "feed": "esakal",
+            "title": "Hardik Pandya Trade: मोठा ट्विस्ट! Mumbai Indians च्या हार्दिकला पुन्हा गुजरात टायटन्सकडे जायचंय, कर्णधार व्हायचंय; शुभमन गिलचं काय होणार?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-12T09:58:03",
+            "url": "https://www.esakal.com/krida/cricket/ipl-2027-trade-mumbai-indians-captain-hardik-pandya-approached-gujarat-titans-for-return-but-captaincy-condition-ended-talks-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/fgekzx1g/Hardik-Pandya-wants-to-return-to-Gujarat-Titans-as-captain",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "8d37a7546a3d",
-            "feed": "lokmat",
-            "title": "कृषी विभागाच्या सुधारित आकृतीबंधाला १७ वर्षांनंतर मंजुरी; २३,४७६ पदांना मान्यता, ‘या’ पदांची होणार निर्मिती",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-12T09:07:50",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/revised-structure-of-agriculture-department-approved-after-17-years-23476-posts-approved-these-posts-will-be-created-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/krushi-vibhag-akrutibandh_2026081761283.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "440c3aafc515",
+            "id": "17f34a9d7fab",
             "feed": "maharashtratimes",
-            "title": "PO Investment Scheme: फक्त व्याजातून 5 लाखांची कमाई; पोस्टाची टेन्शन फ्री रिटायरमेंट योजना! एकाच गुंतवणुकीत मिळेल जबरदस्त रिटर्न",
+            "title": "Home Buying: घराची किंमत दिली तर व्यवहार संपत नाही, 7 लपलेले खर्च तुमचं बजेट बिघडवू शकतात! जाहिरातींना बळी पडू नका, सविस्तर समजून घ्या",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-12T08:42:21",
-            "url": "https://maharashtratimes.com/business/business-news/post-office-monthly-investment-scheme-calculator-15-lakh-investment-could-become-555-lakhs-in-5-years/articleshow/133168471.cms",
+            "published": "2026-08-12T10:43:30",
+            "url": "https://maharashtratimes.com/business/real-estate-news/home-buying-tips-for-first-timers-7-hidden-costs-every-homebuyer-must-know-before-booking/articleshow/133171135.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "04e8cf1d260c",
-            "feed": "esakal",
-            "title": "विशेष : अर्थशास्त्र : भविष्यातील रोजगाराच्या अमर्याद संधी",
+            "id": "adc8da0dc8ad",
+            "feed": "lokmat",
+            "title": "Birth Death Registration New Rules : जन्म-मृत्यू नोंदणी आता आणखी सोपी; उशिरा नोंदणी केली तर किती दंड? जाणून घ्या",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-12T07:45:00",
-            "url": "https://www.esakal.com/education-jobs/arthashastra-career-opportunities-economics-jobs-banking-finance-ies-rbi-nabard-data-science-research-professor-economic-journalism-environment-economics-development-economist-global-careers-marathi-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-11/ebbf7h8o/Esakal-5.jpg",
+            "published": "2026-08-12T10:37:04",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-birth-death-registration-new-rules-birth-and-death-registration-is-now-easier-how-much-is-the-penalty-if-registered-late-know-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/birth-death-registration-new-rules-1_2026081761326.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
+        },
+        {
+            "id": "fcbc7b42a868",
+            "feed": "lokmat",
+            "title": "Gold Silver Price Today: सोन्याची किंमत १० आठवड्यांच्या उच्चांकावर; पाहा काय आहेत मुंबई, चेन्नई, दिल्लीतील १८, २२ आणि २४ कॅरेट गोल्ड रेट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-12T10:33:39",
+            "url": "https://www.lokmat.com/business/savings-investments/gold-silver-price-today-gold-price-at-10-week-high-see-what-are-the-18-22-and-24-carat-gold-rates-in-mumbai-chennai-and-delhi-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gold-purchasing-1006s_2026011628114.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ]
 }
