@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "13-08-2026 | 12:18 AM IST",
+    "lastUpdated": "13-08-2026 | 01:26 AM IST",
     "maharashtra": [
+        {
+            "id": "1a208a7fc5b5",
+            "feed": "esakal",
+            "title": "आमदार कल्याणशेट्टींना मिळणार वाढीव पोलिस बंदोबस्त! जीवे मारण्याच्या धमकीनंतर पोलिस अधीक्षक कार्यालयाने मागविला अक्कलकोट उत्तर पोलिसांकडून अहवाल, वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-13T00:30:00",
+            "url": "https://www.esakal.com/maharashtra/mla-kalyanshetti-to-get-enhanced-police-security-following-a-death-threat-the-superintendent-of-polices-office-has-sought-a-report-from-the-akkalkot-north-police-read-on",
+            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/2MLA_20Kalyanshetti_1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "a395e6ffa03b",
             "feed": "esakal",
@@ -64,25 +80,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-03-28/fn1saijg/Shivani-Nagarale-7.png",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "c6e04ba6a7ad",
+            "id": "02af76e536e9",
             "feed": "lokmat",
-            "title": "’चासकमान प्रकल्पग्रस्तांच्या पुनर्वसनाचा प्रश्न कालबद्ध पद्धतीने मार्गी लावणार’, मदत व पुनर्वसन मंत्री मकरंद जाधव-पाटील यांचं आश्वासन",
+            "title": "दर दिवशी एक, श्रावणात करा ‘ह्या’ ३० भाज्या, स्वयंपाक बनेल झकास, सणवार होतील खास",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-12T23:22:26",
-            "url": "https://www.lokmat.com/maharashtra/the-issue-of-rehabilitation-of-chasakman-project-victims-will-be-resolved-in-a-time-bound-manner-assures-relief-and-rehabilitation-minister-makarand-jadhav-patil-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chaskaman-dam-1_2026081761995.jpg",
+            "published": "2026-08-13T00:48:56",
+            "url": "https://www.lokmat.com/food/shravan-special-food-and-recipes-one-every-day-make-these-30-vegetables-in-shravan-cooking-will-become-more-delicious-festivals-will-be-special-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shravan-food-1_2026081761988.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
+            "category_reason": "default"
+        },
         {
             "id": "a6585bc3c334",
             "feed": "esakal",
@@ -144,22 +160,6 @@
             "published": "2026-08-12T22:14:26",
             "url": "https://www.esakal.com/pimpri-chinchwad/no-road-no-ambulance-access-elderly-man-carried-in-a-sling-for-medical-treatment-kusawali-pathar-pjp78",
             "image": "https://cf-images.assettype.com/esakal/2026-08-12/59f39hjo/Family-members-carrying-an-ailing-senior-citizen-down-the-mountain-in-a-makeshift-sling.",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "a38283ae0f99",
-            "feed": "lokmat",
-            "title": "कल्याणजवळच्या आंबिवलीतील इराणी वस्तीत पोलिसांचे कोम्बींग ऑपरेशन, ८ लाखाचे एमडी ड्र्ग्ज जप्त, फरार आरोपी अटकेत",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-12T22:06:50",
-            "url": "https://www.lokmat.com/kalyan-dombivli/police-combing-operation-in-irani-settlement-in-ambivali-near-kalyan-md-drugs-worth-rs-8-lakh-seized-a-a855-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kalyan-crime-news-1_2026081761990.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "f8da80cc87c4",
+            "feed": "lokmat",
+            "title": "IPL 2027: CSK, KKR, गुजरात नाही तर हार्दिक पांड्या ‘या’ संघाकडून खेळणार? त्या फोटोमुळे चर्चांना उधाण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-13T00:40:53",
+            "url": "https://www.lokmat.com/cricket/news/ipl-2027-if-not-csk-kkr-gujarat-then-hardik-pandya-will-play-for-this-team-that-photo-sparks-discussions-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hardik-pandya-dc-2_2026081761998.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "c04a0540e93e",
             "feed": "esakal",
             "title": "IRE vs AFG: विराट कोहली-शिखर धवनलाही टाकलं मागे, अफगाणिस्तानच्या ओपनरची विक्रमी शतकासह पीटरसनच्या क्लबमध्ये एन्ट्री",
@@ -278,22 +294,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kapil-dev_2026081761985.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "65dea2d67a72",
-            "feed": "esakal",
-            "title": "भारतीय टेबल टेनिस महासंघाची मान्यता रद्द, क्रीडा मंत्रालयाचा मोठा निर्णय, नेमकं काय घडलंय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-12T20:06:57",
-            "url": "https://www.esakal.com/krida/indian-table-tennis-federation-ttfi-recognition-cancelled-sports-ministry-ioa-ad-hoc-committee-administrative-irregularities-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/g27ffg30/TTFI-Recognition-Cancelled",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "business": [
