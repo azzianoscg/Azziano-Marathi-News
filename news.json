@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "13-08-2026 | 01:26 AM IST",
+    "lastUpdated": "13-08-2026 | 02:05 AM IST",
     "maharashtra": [
+        {
+            "id": "ee9f6a6bf097",
+            "feed": "lokmat",
+            "title": "विद्यार्थी हितासाठी रूसा अंतर्गत प्रकल्पांना गती द्यावी, उच्च व तंत्र शिक्षण मंत्री चंद्रकांत पाटील यांचे निर्देश",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-13T01:26:57",
+            "url": "https://www.lokmat.com/mumbai/higher-and-technical-education-minister-chandrakant-patil-directs-that-projects-under-rusa-should-be-accelerated-for-the-benefit-of-students-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chandrakant-patil-education-122_2026081762003.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "1a208a7fc5b5",
             "feed": "esakal",
@@ -62,22 +78,6 @@
             "published": "2026-08-12T23:29:47",
             "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-12-august-2026-parliament-session-amit-shah-statement-rahul-gandhi-pm-narendra-modi-cjp-protest-abhijeet-dipke-shiv-sena-case-in-supreme-court-cm-devendra-fadnavis-donald-trump-us-israel-iran-rain-updates-a-a573/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "664976909430",
-            "feed": "esakal",
-            "title": "लाडक्या बहिणींना रक्षाबंधनापूर्वी ३००० रुपये! जुलैचा लाभ मिळाला नाही; आता २० ऑगस्टपूर्वी मिळतील दोन हप्ते; ३००० लाडक्या बहिणींनी नाकारला लाभ, वाचा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T23:29:00",
-            "url": "https://www.esakal.com/maharashtra/3000-for-ladaki-bahins-before-raksha-bandhan-julys-benefit-was-missed-now-two-installments-will-be-received-before-august-20-solapurs-3000-ladaki-bahin-declined-the-benefitread-on",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-28/fn1saijg/Shivani-Nagarale-7.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
@@ -198,22 +198,6 @@
             "category_reason": "feed"
         },
         {
-            "id": "e82cd7411d12",
-            "feed": "lokmat",
-            "title": "याला म्हणतात 'उलटी गंगा'! आता रशियावर आली भारताकडून तेल मागवायची वेळ, नेमकं काय घडलं?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-12T18:36:14",
-            "url": "https://www.lokmat.com/international/this-is-called-ulti-ganga-now-its-time-for-russia-to-ask-for-oil-from-india-what-exactly-happened-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dhjrfyu-7_2026081761885.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "94486c253a1d",
             "feed": "maharashtratimes",
             "title": "मार्क झुकरबर्ग यांचा अमेरिकेला इशारा; AI रेसमध्ये चीनला हरवायचे असेल, तर ओपन-सोर्स हाच एकमेव पर्याय",
@@ -244,9 +228,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "9f7603156851",
+            "feed": "esakal",
+            "title": "Trump Secret Plane Change: इराणकडून धोका, ट्रम्प यांचा केटरिंग ट्रकमधून गोपनीय प्रवास;  विमान बदलण्यासाठी केला वापर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-12T15:07:23",
+            "url": "https://www.esakal.com/global/donald-trump-secret-flight-iran-threat-c32a-aircraft-air-force-one-catering-truck-turkiye-security-concerns-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/4ob1m4xy/Abhi-1.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "sports": [
+        {
+            "id": "cb7716d037b6",
+            "feed": "lokmat",
+            "title": "Sara Tendulkar: सारा तेंडुलकरने नेसली बिन पदराची साडी, किंमत वाचून व्हाल अवाक्, पाहा Photos",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-13T01:21:14",
+            "url": "https://www.lokmat.com/cricket/news/sara-tendulkar-wore-a-strapless-saree-you-will-be-speechless-after-reading-the-price-see-photos-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sara-tendulkar-2_2026081762000.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f8da80cc87c4",
             "feed": "lokmat",
@@ -276,22 +292,6 @@
             "published": "2026-08-12T21:24:58",
             "url": "https://www.esakal.com/krida/cricket/ibrahim-zadran-becomes-joint-third-fastest-batter-to-score-2000-odi-runs-surpasses-shikhar-dhawan-virat-kohli-ire-vs-afg-psk96",
             "image": "https://cf-images.assettype.com/esakal/2026-08-12/x0h2ov54/Ibrahim-Zadran-Ireland-vs-Afghanistan.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4dda74ba9ce9",
-            "feed": "lokmat",
-            "title": "भारतीय फलंदाज फिरकी गोलंदाजीसमोर का ढेपाळतात? कपिल देव यांचा बीसीसीआयला मोलाचा सल्ला!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-12T21:01:27",
-            "url": "https://www.lokmat.com/cricket/news/why-do-indian-batsmen-cower-in-front-of-spin-bowling-kapil-devs-valuable-advice-to-bcci-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kapil-dev_2026081761985.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
