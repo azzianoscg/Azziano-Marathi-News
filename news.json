@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "12-08-2026 | 04:21 PM IST",
+    "lastUpdated": "12-08-2026 | 05:09 PM IST",
     "maharashtra": [
         {
-            "id": "5d95fa507552",
+            "id": "2040284720cc",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : शिवसेना पक्ष, चिन्ह संदर्भात उद्या सुप्रीम कोर्टात पुन्हा सुनावणी",
+            "title": "Maharashtra Kashmir Partnership: महाराष्ट्र–काश्मीर फलोत्पादन भागीदारीला नवी चालना; द्राक्ष-सफरचंद तंत्रज्ञान देवाणघेवाणीतून शेतकऱ्यांच्या विकासाला गती",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T16:08:41",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-12th-august-2026-loksabha-parliament-monsoon-session-weather-update-mumbai-rain-pune-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-ssy93-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-12T17:05:48",
+            "url": "https://www.esakal.com/pune/maharashtra-jammu-kashmir-agriculture-technology-exchange-grape-apple-horticulture-anil-meher-krishi-vigyan-kendra-narayangaon-skuast-kashmir-modern-fruit-farming-technology-farmer-training-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/z6ana7cj/Esakal-2.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "10269b9b03d9",
+            "id": "154c575e3e54",
             "feed": "esakal",
-            "title": "परिवर्तन",
+            "title": "सतीश मुळे यांचे निधन",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-12T16:03:50",
-            "url": "https://www.esakal.com/kokan/todays-latest-marathi-news-kop26e22359-txt-ratnagiri-today-20260812103350",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/2r1ftzkr/ratnagiri_default_banner_1.jpg",
+            "published": "2026-08-12T17:03:57",
+            "url": "https://www.esakal.com/pune/satish-mule-death-kedgaon",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/lru780gy/Banner1.png",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "1f44cb8590b3",
+            "id": "184da7cfe87e",
             "feed": "lokmat",
-            "title": "सिंधुदुर्ग जिल्ह्यातील कुंभवडे धबधब्यावर प्रवेशबंदी; पर्यटकांच्या धिंगाण्यानंतर ग्रामस्थ आक्रमक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-12T15:59:56",
-            "url": "https://www.lokmat.com/sindhudurga/entry-banned-at-kumbhavde-waterfall-in-sindhudurg-district-until-august-30-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kumbhvade-waterfall_2026081761743.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "c0c2a4fc4df1",
-            "feed": "lokmat",
-            "title": "Maratha reservation: पूर्ण आरक्षणाशिवाय मागे हटणार नाही; २९ ऑगस्टपासून पुन्हा आमरण उपोषण, मनोज जरांगे-पाटील यांची घोषणा",
+            "title": "कोल्हापूर खंडपीठासाठी अतिरिक्त जागा मिळण्याची शक्यता",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T15:54:55",
-            "url": "https://www.lokmat.com/maharashtra/manoj-jarange-patil-to-undertake-a-fast-unto-death-again-for-maratha-reservation-announcement-made-at-a-rally-in-mayani-satara-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jarange-patil-uposhan-news_2026081761741.jpg",
+            "published": "2026-08-12T17:00:40",
+            "url": "https://www.lokmat.com/kolhapur/possibility-of-getting-additional-seats-for-kolhapur-bench-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kolhapur-khandpith-news_2026081761805.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1227e1762e83",
+            "id": "c8d4c21065f4",
             "feed": "esakal",
-            "title": "विद्यार्थ्यांचे विविध कार्यक्रमांनी स्वागत",
+            "title": "नायब सुभेदार अमोल पळसकर यांची सेवापूर्ती",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T15:53:57",
-            "url": "https://www.esakal.com/pune/rajmata-jijau-college-student-welcome",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/ok99pjlv/Banner1.png",
+            "published": "2026-08-12T17:00:21",
+            "url": "https://www.esakal.com/pune/amol-palaskar-army-service-honor",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/s3xl6p9o/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2626b1865d9d",
+            "feed": "lokmat",
+            "title": "मलिक अंबरने उभारलेल्या ४०० वर्षे जुन्या 'नवखंडा महाला'चे संवर्धन सुरू; पुन्हा मिळणार झळाळी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-12T16:59:57",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/historic-makeover-in-chhatrapati-sambhajinagar-400-year-old-navkhanda-palace-to-regain-heritage-glory-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/navkhanda-palace-abd-renew-fea_2026081761803.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "765b0712ed3a",
+            "id": "f7a164ee78f9",
             "feed": "esakal",
-            "title": "Ronaldo Love Story: रोनाल्डो अन् जॉर्जियाना यांची ओळख कशी झाली?",
+            "title": "Premium|Marathi Literature : समाजाचे वास्तव दाखवणारा कथासंग्रह",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-12T16:19:43",
-            "url": "https://www.esakal.com/ampstories/web-story/cristiano-ronaldo-and-georgina-rodriguez-love-story-marriage-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/tkmrxeyi/Cristiano-Ronaldo-Georgina-Rodriguez-Love-Story-9.jpg",
+            "published": "2026-08-12T17:03:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/vidyechya-balala-marathi-story-collection-social-reality-education-human-values-literature-changing-society-marathi-stories-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/24wxf2ru/Abhi-2026-08-09T184316.655.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "9b2e16ccf50f",
-            "feed": "esakal",
-            "title": "लिपस्टिक नसूनही मुघल स्त्रियांचे ओठ लाल कसे असायचे? हे आहे सौंदर्याचे सिक्रेट",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-12T16:17:23",
-            "url": "https://www.esakal.com/ampstories/web-story/mughal-women-beauty-secrets-red-lips-without-lipstick-paan-kajal-attar-mehendi-traditional-beauty-routine-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/hzk96ynv/MUGHAL-WOMEN-BEAUTY-SECRETS",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3e2e7aae9db1",
-            "feed": "lokmat",
-            "title": "'बिग बॉस २०'मध्ये मोठा ट्विस्ट! सलमान खानने दिली हिंट; कधी अन् कुठे पाहता येणार शो?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-12T16:13:44",
-            "url": "https://www.lokmat.com/filmy/television/bigg-boss-20-trailer-out-salman-khan-unveils-extra-life-theme-release-date-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bigg-boss-20-trailer-salman-khan-1_2026081761763.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3713b6a89137",
-            "feed": "lokmat",
-            "title": "\"तुरुंगातले लोक बाहेरच्या लोकांपेक्षा चांगले...\", रिया चक्रवर्तीचं वक्तव्य, कारण सांगत म्हणाली...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-12T16:12:01",
-            "url": "https://www.lokmat.com/filmy/television/rhea-chakraborty-says-people-in-jail-are-better-than-people-outside-all-are-equal-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rhea-jail_2026081761761.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "16fde93881bb",
+            "id": "b493d8478781",
             "feed": "maharashtratimes",
-            "title": "Gadchiroli Snake Bite Student Death: जपतलाईचा सर्पदंश",
+            "title": "आर्थिक राशिभविष्य 13 ऑगस्ट 2026: सुंदर साजिरा श्रावण आला…! मेष, कर्क, वृषभसह या राशींसाठी धनलाभ, प्रगतीसह मानसन्मानाचा योग! तुमची राशी काय सांगते? पाहा, तुमचे राशिभविष्य",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-12T16:06:05",
-            "url": "https://maharashtratimes.com/editorial/dhavte-jag/gadchiroli-dhanora-niwasi-ashram-school-three-students-died-of-snakebite/articleshow/133179342.cms",
+            "published": "2026-08-12T17:00:00",
+            "url": "https://maharashtratimes.com/astro/financial-horoscope/financial-money-horoscope-13-august-2026-shravan-start-variyan-yog-arthik-rashi-astrology-bhavishya-marathi/articleshow/133178900.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "9d3f8e33b00d",
+            "feed": "lokmat",
+            "title": "याच्यापुढे रणबीरही फेल! 'रामायण'मध्ये ५४ वर्षांचा टीव्ही अभिनेता साकारणार तब्बल ७ भूमिका, म्हणाला- \"पहिल्या भूमिकेनंतर...\"",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-12T16:49:16",
+            "url": "https://www.lokmat.com/filmy/bollywood/ramayana-movie-tv-actor-chetan-hansraj-to-play-7-role-in-ranbir-kapoor-movie-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chetan-hansraj-in-ramayana_2026081761796.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "2baff63b575c",
+            "feed": "lokmat",
+            "title": "अहमदाबादमध्ये ३०० फूट उंचीवर मृत्यूचा थरार; क्रेन चालकाने उचलले टोकाचे पाऊल, पोलिसांकडून तपास सुरू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-12T16:47:53",
+            "url": "https://www.lokmat.com/crime/crane-operator-found-dead-hanging-from-300-foot-crane-at-construction-site-in-ahmedabad-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gujarat-crane-operator-death_2026081761791.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8a5a618e40ad",
+            "feed": "lokmat",
+            "title": "'तो' दिवस अत्यंत महत्त्वाचा, सिब्बल यांचा युक्तिवाद जोरदार, कोर्टात काय घडलं? राऊतांनी सांगितलं",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-12T16:47:27",
+            "url": "https://www.lokmat.com/national/eknath-shinde-vs-uddhav-thackeray-in-supreme-court-21st-june-2022-day-is-very-important-kapil-sibal-argument-is-strong-what-happened-in-court-sanjay-raut-told-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raut-sanjay-supreme-coyr2_2026081761794.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "22f9f4fdeefd",
+            "feed": "lokmat",
+            "title": "Georgina Rodriguez : सौंदर्य, फॅशन, फिटनेस! १० वर्षांच्या रिलेशननंतर रोनाल्डोने केलं लग्न; कोण आहे जॉर्जिना रोड्रिग्ज?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-12T16:30:05",
+            "url": "https://www.lokmat.com/sakhi/photos/social-viral/who-is-georgina-rodriguez-to-whom-cristiano-ronaldo-get-married-huge-instagram-followers-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/georgina-rodriguez-1_2026081761776.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "79730c84497d",
             "feed": "lokmat",
@@ -182,25 +198,9 @@
             "category_reason": "feed"
         },
         {
-            "id": "8611be010674",
-            "feed": "lokmat",
-            "title": "कोमलसोबत गोविंदाच्या अफेअरच्या चर्चा; इतक्या वर्षांनी लहान, अभिनेत्री नक्की आहे तरी कोण?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-12T15:13:59",
-            "url": "https://www.lokmat.com/filmy/photos/bollywood/govinda-rumoured-gf-komal-rani-swarnakar-who-is-she-actress-younger-than-bollywood-actor-a-a971/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/govinda-rumoured-gf-komal-swarnakar-2_2026081761674.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
             "id": "9f7603156851",
             "feed": "esakal",
-            "title": "Trump Secret Flight: इराणकडून धोका, ट्रम्प यांचा केटरिंग ट्रकमधून गोपनीय प्रवास;  विमान बदलण्यासाठी केला वापर",
+            "title": "Trump Secret Plane Change: इराणकडून धोका, ट्रम्प यांचा केटरिंग ट्रकमधून गोपनीय प्रवास;  विमान बदलण्यासाठी केला वापर",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
@@ -248,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "b80fbaa102b5",
+            "feed": "esakal",
+            "title": "Ajinkya Rahane निवृत्तीनंतर घेणार 'फ्रेश गार्ड'; भारत-श्रीलंका मालिकेतून करणार नवी सुरुवात!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-12T17:07:22",
+            "url": "https://www.esakal.com/krida/cricket/ajinkya-rahane-to-make-test-commentary-debut-in-india-vs-sri-lanka-series-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/gvxpnsq5/Ajinkya-Rahane-Set-for-Commentary-Debut.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6c921a22c9aa",
+            "feed": "lokmat",
+            "title": "श्रीलंकेला धक्का! टीम इंडियाविरुद्धच्या कसोटीआधी २ स्टार खेळाडू संघाबाहेर; एकाचं ३ वर्षांनी पुनरागमन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-12T16:22:48",
+            "url": "https://www.lokmat.com/cricket/news/sri-lanka-finally-announce-squad-for-first-test-vs-india-starting-august-15-niroshan-dickwella-in-pathum-nissanka-and-kusal-mendis-out-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sri-lanka-announce-squad-for-first-test-m-_2026081761762.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "1c21a8382aea",
             "feed": "lokmat",
             "title": "५१ वर्षांची प्रतीक्षा संपवण्यासाठी भारत मैदानात उतरणार; हॉकी विश्वचषक १५ ऑगस्टपासून",
@@ -262,88 +294,56 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-12-at-3.50.00-pm-1_2026081761747.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "2546cf12ea9e",
-            "feed": "maharashtratimes",
-            "title": "Hardik Pandya IPL Trade : हार्दिकसाठी KKR, CSKची MIसोबत बोलणी; पण पांड्याच्या मनात दुसरंच, अख्खा ट्रेड प्लॅनच लीक, एकाच अटीचा ख्वाडा!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-12T15:42:46",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/hardik-pandya-discussions-for-return-to-gujarat-titans-as-captain-fail-deal-falls-through/articleshow/133177657.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "343ab115d7d1",
-            "feed": "lokmat",
-            "title": "टीम इंडिया आपल्याच घरात पाहुणी; अफगाणिस्तानविरुद्ध टी-२० मालिकेचा बेत पक्का! मग बांगलादेश दौरा रद्द?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-12T15:25:02",
-            "url": "https://www.lokmat.com/cricket/news/india-dealt-blow-to-bangladesh-new-series-announced-india-vs-afghanistan-t20i-series-schedule-2026-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-afghanistan-new-t20-series-schedule-announced-m-_2026081761695.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "2ab74cd4aaac",
+            "id": "a83d6a0dfa99",
             "feed": "lokmat",
-            "title": "सीईओंचा राजीनामा, 'या' कंपनीचा शेअर धडाम; थेट ५२ आठवड्यांच्या नीचांकी पातळीवर!",
+            "title": "'त्या' शेतकऱ्यांना न्याय कधी? पणन महासंघाच्या केंद्रावर विक्री केलेल्या १८२० क्विंटल ज्वारीचे पेमेंट दोन वर्षांपासून रखडलेलेच",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-12T16:51:36",
+            "url": "https://www.lokmat.com/agriculture/market-yard/when-will-justice-be-served-to-those-farmers-payment-for-1820-quintals-of-sorghum-sold-at-the-marketing-federation-center-has-been-delayed-for-two-years-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/u-34-r-u-34-34-jwari-paymanet-jalgaon-farmer_2026081761739.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "882f530be42c",
+            "feed": "lokmat",
+            "title": "Jalyukt Shivar 2.0 : धाराशिवमध्ये पाणी अडवा, पाणी जिरवा मोहीम जोरात; शेतकऱ्यांना मिळणार शेतीसाठी नवा आधार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-12T16:47:43",
+            "url": "https://www.lokmat.com/agriculture/weather/latest-news-jalyukt-shivar-20-water-block-water-save-campaign-in-full-swing-in-dharashiv-farmers-will-get-new-support-for-agriculture-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jalyukta-shivar-1_2026081761788.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "3a96168c64fd",
+            "feed": "lokmat",
+            "title": "₹५५ वरून थेट ₹१५९ कोटी! ८ वर्षांत एन चंद्रशेखरन यांचे मानधन झाले तिप्पट; एकूण संपत्ती किती?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-12T16:00:02",
-            "url": "https://www.lokmat.com/business/news/share-marke-godrej-consumer-products-share-price-crash-sudhir-sitapati-resigns-new-ceo-asif-malbari-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-1sdsds_2026081761742.jpg",
+            "published": "2026-08-12T16:38:08",
+            "url": "https://www.lokmat.com/business/news/n-chandrasekaran-salary-tata-sons-chairman-n-chandrasekaran-earns-rs43-lakh-per-day-what-is-his-total-wealth-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tata-sons-chairman-salary_2026081761784.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "05d9c64a7c63",
-            "feed": "lokmat",
-            "title": "जळगाव जिल्ह्यातील ३६५२ कुटुंबांना अन्नधान्यासह होणार संसारोपयोगी साहित्याच्या किटचे वाटप; जिल्हा प्रशासन सरसावले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-12T15:41:49",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/food-grains-and-household-items-kits-will-be-distributed-to-3652-families-in-jalgaon-district-district-administration-has-taken-steps-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-r-34-34-jalgaon_2026081761640.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "3c461604686a",
-            "feed": "lokmat",
-            "title": "Vidarbha Rain Update : ढगाळ वातावरण, हलक्या सरी; विदर्भात पावसाचा जोर कधी वाढणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-12T15:35:53",
-            "url": "https://www.lokmat.com/agriculture/weather/latest-news-vidarbha-rain-update-cloudy-weather-light-showers-when-will-the-intensity-of-rain-increase-in-vidarbha-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vidarbha-weather-11111111_2026081761721.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
