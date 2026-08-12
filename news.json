@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "12-08-2026 | 05:09 PM IST",
+    "lastUpdated": "12-08-2026 | 06:14 PM IST",
     "maharashtra": [
         {
-            "id": "2040284720cc",
-            "feed": "esakal",
-            "title": "Maharashtra Kashmir Partnership: महाराष्ट्र–काश्मीर फलोत्पादन भागीदारीला नवी चालना; द्राक्ष-सफरचंद तंत्रज्ञान देवाणघेवाणीतून शेतकऱ्यांच्या विकासाला गती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T17:05:48",
-            "url": "https://www.esakal.com/pune/maharashtra-jammu-kashmir-agriculture-technology-exchange-grape-apple-horticulture-anil-meher-krishi-vigyan-kendra-narayangaon-skuast-kashmir-modern-fruit-farming-technology-farmer-training-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/z6ana7cj/Esakal-2.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "154c575e3e54",
-            "feed": "esakal",
-            "title": "सतीश मुळे यांचे निधन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T17:03:57",
-            "url": "https://www.esakal.com/pune/satish-mule-death-kedgaon",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/lru780gy/Banner1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "184da7cfe87e",
+            "id": "85930fc153a6",
             "feed": "lokmat",
-            "title": "कोल्हापूर खंडपीठासाठी अतिरिक्त जागा मिळण्याची शक्यता",
+            "title": "Maratha reservation: कुणबी प्रमाणपत्र रद्द करण्याचे पत्र बावनकुळे यांनीच दिले, विट्यात मनोज जरांगे-पाटील यांचा गौप्यस्फोट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T17:00:40",
-            "url": "https://www.lokmat.com/kolhapur/possibility-of-getting-additional-seats-for-kolhapur-bench-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kolhapur-khandpith-news_2026081761805.jpg",
+            "published": "2026-08-12T18:09:15",
+            "url": "https://www.lokmat.com/maharashtra/bawankule-himself-gave-the-letter-to-cancel-the-kunbi-certificate-manoj-jarange-patils-secret-revelation-in-vita-sangli-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/patil-bavankule-news-kunbi_2026081761871.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c8d4c21065f4",
+            "id": "b89261024dcd",
             "feed": "esakal",
-            "title": "नायब सुभेदार अमोल पळसकर यांची सेवापूर्ती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T17:00:21",
-            "url": "https://www.esakal.com/pune/amol-palaskar-army-service-honor",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/s3xl6p9o/Banner1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2626b1865d9d",
-            "feed": "lokmat",
-            "title": "मलिक अंबरने उभारलेल्या ४०० वर्षे जुन्या 'नवखंडा महाला'चे संवर्धन सुरू; पुन्हा मिळणार झळाळी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T16:59:57",
-            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/historic-makeover-in-chhatrapati-sambhajinagar-400-year-old-navkhanda-palace-to-regain-heritage-glory-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/navkhanda-palace-abd-renew-fea_2026081761803.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
-        {
-            "id": "f7a164ee78f9",
-            "feed": "esakal",
-            "title": "Premium|Marathi Literature : समाजाचे वास्तव दाखवणारा कथासंग्रह",
+            "title": "Sangli News : फडणवीसांसोबतचा विमान प्रवास, मोदींचे स्वागत; जयंत पाटलांनी राजकीय चर्चांना दिला नकार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-12T17:03:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/vidyechya-balala-marathi-story-collection-social-reality-education-human-values-literature-changing-society-marathi-stories-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/24wxf2ru/Abhi-2026-08-09T184316.655.jpg",
+            "published": "2026-08-12T18:05:26",
+            "url": "https://www.esakal.com/paschim-maharashtra/flight-journey-with-cm-devendra-fadnavis-and-welcoming-pm-narendra-modi-jayant-patil-dismisses-political-speculation-politics-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/gtg8gb5f/Jayant-Patil-and-CM-Devendra-Fadnavis",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "keyword"
         },
         {
-            "id": "b493d8478781",
+            "id": "5d95fa507552",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates :  तृतीयपंथीयांचे अनोखे आंदोलन",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-12T18:04:11",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-12th-august-2026-loksabha-parliament-monsoon-session-weather-update-mumbai-rain-pune-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-ssy93-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "be4956a98e17",
             "feed": "maharashtratimes",
-            "title": "आर्थिक राशिभविष्य 13 ऑगस्ट 2026: सुंदर साजिरा श्रावण आला…! मेष, कर्क, वृषभसह या राशींसाठी धनलाभ, प्रगतीसह मानसन्मानाचा योग! तुमची राशी काय सांगते? पाहा, तुमचे राशिभविष्य",
+            "title": "Nagpur News : मित्राच्या वाढदिवसाचा उत्साह, कार घेऊन निघाले, पण आनंदावर विरजण, दोघांचा दुर्दैवी अंत, नागपूर हळहळलं",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-12T17:00:00",
-            "url": "https://maharashtratimes.com/astro/financial-horoscope/financial-money-horoscope-13-august-2026-shravan-start-variyan-yog-arthik-rashi-astrology-bhavishya-marathi/articleshow/133178900.cms",
+            "published": "2026-08-12T18:01:36",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/horrific-accident-during-friends-birthday-celebration-in-nagpur-two-minors-tragically-die/articleshow/133181092.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
         {
-            "id": "9d3f8e33b00d",
+            "id": "1d3daf778681",
             "feed": "lokmat",
-            "title": "याच्यापुढे रणबीरही फेल! 'रामायण'मध्ये ५४ वर्षांचा टीव्ही अभिनेता साकारणार तब्बल ७ भूमिका, म्हणाला- \"पहिल्या भूमिकेनंतर...\"",
+            "title": "Sangli: एमआरडीपी प्रकल्पाच्या ३० टक्के हिस्स्यावरून राष्ट्रवादीचा घरचा आहेर, महासभा रोखण्याचा उपमहापौरांचा इशारा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-12T16:49:16",
-            "url": "https://www.lokmat.com/filmy/bollywood/ramayana-movie-tv-actor-chetan-hansraj-to-play-7-role-in-ranbir-kapoor-movie-a-a971/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chetan-hansraj-in-ramayana_2026081761796.jpg",
+            "published": "2026-08-12T18:00:58",
+            "url": "https://www.lokmat.com/sangli/ncps-domestic-dispute-over-30-percent-share-of-mrdp-project-deputy-mayor-warns-of-blocking-mahasabha-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gajanan-magdum_2026081761861.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "india": [
+        {
+            "id": "93cab0c8f236",
+            "feed": "esakal",
+            "title": "आजचे पंचांग आणि दिनविशेष - 13 ऑगस्ट 2026",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-12T18:13:12",
+            "url": "https://www.esakal.com/culture-and-religion/on-this-day-happened-today-panchang-history-in-marathi-13th-august-2026-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-16/ewj9zr7e/download-5-1.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "2baff63b575c",
+            "id": "098c3d50f2a3",
+            "feed": "esakal",
+            "title": "Manoj Jarange: 'चूक सुधारा नाहीतर...', जरांगेंचा शिंदे-फडणवीसांवर निशाणा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-12T18:12:26",
+            "url": "https://www.esakal.com/videos/manoj-jarange-on-cm-devendra-fadnavis-dcm-eknath-shinde",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/sfkibadd/WhatsApp-Image-2026-08-12-at-6.09.05-PM.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8104a152aeda",
+            "feed": "esakal",
+            "title": "UPSC ते CAT-GATE; आता विद्यार्थ्यांना मिळणार मोफत ऑनलाईन कोचिंग, काय आहे मुख्यमंत्री युवा भविष्य निर्माण योजना?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-12T18:12:21",
+            "url": "https://www.esakal.com/desh/uttarakhand-mukhyamantri-yuva-bhavishya-nirman-yojana-2026-free-online-coaching-upsc-ukpsc-cds-ssc-banking-railway-cat-mat-gate-net-csir-net-pushkar-singh-dhami-students-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/c1uoclx2/Esakal-4.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "ac8ce67b835d",
             "feed": "lokmat",
-            "title": "अहमदाबादमध्ये ३०० फूट उंचीवर मृत्यूचा थरार; क्रेन चालकाने उचलले टोकाचे पाऊल, पोलिसांकडून तपास सुरू",
+            "title": "ब्रेडचे ७ प्रकार चवीला छान आणि पोटालाही! कोण म्हणतं ब्रेड पौष्टिक नसतो..",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-12T16:47:53",
-            "url": "https://www.lokmat.com/crime/crane-operator-found-dead-hanging-from-300-foot-crane-at-construction-site-in-ahmedabad-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gujarat-crane-operator-death_2026081761791.jpg",
+            "published": "2026-08-12T18:03:01",
+            "url": "https://www.lokmat.com/sakhi/photos/food/7-types-of-bread-instead-of-eating-unhealthy-bread-try-nutritious-and-tasty-alternatives-a-a1009/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/types-of-breads_2026081761845.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "8a5a618e40ad",
+            "id": "3dad25174938",
             "feed": "lokmat",
-            "title": "'तो' दिवस अत्यंत महत्त्वाचा, सिब्बल यांचा युक्तिवाद जोरदार, कोर्टात काय घडलं? राऊतांनी सांगितलं",
+            "title": "Shocking: घर पाहण्यासाठी गेलेल्या दाम्पत्यावर पिटबुल श्वानाचा हल्ला, दोघेही गंभीर जखमी, थरारक घटना सीसीटीव्ही कॅमेऱ्यात कैद",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-12T16:47:27",
-            "url": "https://www.lokmat.com/national/eknath-shinde-vs-uddhav-thackeray-in-supreme-court-21st-june-2022-day-is-very-important-kapil-sibal-argument-is-strong-what-happened-in-court-sanjay-raut-told-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raut-sanjay-supreme-coyr2_2026081761794.jpg",
+            "published": "2026-08-12T18:01:24",
+            "url": "https://www.lokmat.com/national/punjab-shocking-pitbull-attacks-couple-while-viewing-new-house-in-patiala-ghuman-nagar-thrilling-incident-captured-on-cctv-camera-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pitbull-attacks-couple_2026081761862.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "94486c253a1d",
+            "feed": "maharashtratimes",
+            "title": "मार्क झुकरबर्ग यांचा अमेरिकेला इशारा; AI रेसमध्ये चीनला हरवायचे असेल, तर ओपन-सोर्स हाच एकमेव पर्याय",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-12T18:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/mark-zuckerberg-urges-us-to-decentralize-ai-control-and-embrace-open-source-to-outpace-china/articleshow/133179547.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "cc04811f8d95",
+            "feed": "maharashtratimes",
+            "title": "४०० रुपयांचा मसाला अमेरिकेत मिळतो २ लाखांना, मराठी महिलेनं दाखवलं वास्तव, साध्या साध्या वस्तूंच्या किंमती पाहून व्हाल वेडे",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-12T17:46:31",
+            "url": "https://maharashtratimes.com/viral/viral-news/4-grams-of-bay-leaves-cost-12-dollar-in-america-viral-video-leaves-indians-shocked/articleshow/133182610.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "22f9f4fdeefd",
             "feed": "lokmat",
@@ -180,22 +212,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/georgina-rodriguez-1_2026081761776.jpeg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "79730c84497d",
-            "feed": "lokmat",
-            "title": "इम्रान खान यांचा तुरुंगात मृत्यू? पाकिस्तानी पत्रकाराच्या दाव्याने खळबळ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-12T15:25:12",
-            "url": "https://www.lokmat.com/international/imran-khan-died-in-prison-pakistani-journalist-makes-big-claim-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/imran-khan-pakistani-pm_2026081761652.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         },
         {
             "id": "9f7603156851",
@@ -228,122 +244,106 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-12/w2akuj0r/Imran-khan.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "996b64a3b8bd",
-            "feed": "maharashtratimes",
-            "title": "रशियाकडून चंद्रचूड यांच्यावर मोठी जबाबदारी; शेकडो मिलियन डॉलर्सच्या वादात माजी CJIची एन्ट्री",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-12T14:38:57",
-            "url": "https://maharashtratimes.com/international/international-news/russia-picks-former-cji-dy-chandrachud-for-legal-battle-with-ukrainian-bank/articleshow/133176702.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "b80fbaa102b5",
+            "id": "9f19ec295b87",
             "feed": "esakal",
-            "title": "Ajinkya Rahane निवृत्तीनंतर घेणार 'फ्रेश गार्ड'; भारत-श्रीलंका मालिकेतून करणार नवी सुरुवात!",
+            "title": "IND vs SL: सर्फराज खान हेअरस्टाईल करायला गेला, पण सिराजच्या नव्या 'प्रयोगामुळे' झाला हैराण! Video Viral",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-12T17:07:22",
-            "url": "https://www.esakal.com/krida/cricket/ajinkya-rahane-to-make-test-commentary-debut-in-india-vs-sri-lanka-series-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/gvxpnsq5/Ajinkya-Rahane-Set-for-Commentary-Debut.jpg",
+            "published": "2026-08-12T18:08:39",
+            "url": "https://www.esakal.com/krida/cricket/mohammed-siraj-turns-barber-for-sarfaraz-khan-in-funny-viral-video-india-vs-sri-lanka-test-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/yphur59o/Mohammed-Siraj-Turns-Barber-for-Sarfaraz-Khan.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6c921a22c9aa",
+            "id": "75c1749bfeb8",
             "feed": "lokmat",
-            "title": "श्रीलंकेला धक्का! टीम इंडियाविरुद्धच्या कसोटीआधी २ स्टार खेळाडू संघाबाहेर; एकाचं ३ वर्षांनी पुनरागमन",
+            "title": "IND vs SL : अजिंक्य रहाणे नव्या इनिंगसाठी सज्ज; भारत-श्रीलंका मालिका ठरणार खास, कारण...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-12T16:22:48",
-            "url": "https://www.lokmat.com/cricket/news/sri-lanka-finally-announce-squad-for-first-test-vs-india-starting-august-15-niroshan-dickwella-in-pathum-nissanka-and-kusal-mendis-out-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sri-lanka-announce-squad-for-first-test-m-_2026081761762.jpg",
+            "published": "2026-08-12T17:51:28",
+            "url": "https://www.lokmat.com/cricket/news/ajinkya-rahane-is-set-to-make-his-test-commentary-debut-during-the-india-vs-sri-lanka-series-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ajinkya-rahane-is-set-to-make-his-test-commentary-debut-m-_2026081761851.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1c21a8382aea",
+            "id": "a682c6dc676c",
             "feed": "lokmat",
-            "title": "५१ वर्षांची प्रतीक्षा संपवण्यासाठी भारत मैदानात उतरणार; हॉकी विश्वचषक १५ ऑगस्टपासून",
+            "title": "अल्पवयीन मुलीचं लैंगिक शोषण, ऑस्ट्रेलियाचा क्रिकेटपटू दोषी, कोर्टाने सुनावली अशी शिक्षा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-08-12T16:04:19",
-            "url": "https://www.lokmat.com/hockey/india-to-take-to-the-field-to-end-51-years-of-wait-hockey-world-cup-from-august-15-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-12-at-3.50.00-pm-1_2026081761747.jpeg",
+            "published": "2026-08-12T17:29:35",
+            "url": "https://www.lokmat.com/cricket/news/australian-cricketer-aaron-summers-found-guilty-of-sexually-abusing-a-minor-girl-sentenced-by-court-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aaron-summers-2_2026081761814.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "a83d6a0dfa99",
+            "id": "1e56c7cd6f8d",
             "feed": "lokmat",
-            "title": "'त्या' शेतकऱ्यांना न्याय कधी? पणन महासंघाच्या केंद्रावर विक्री केलेल्या १८२० क्विंटल ज्वारीचे पेमेंट दोन वर्षांपासून रखडलेलेच",
+            "title": "वर्दीचा धाक, GST कारवाईची भीती अन् ७ तास ओलीस; ‘स्पेशल-26’ स्टाईलने २९ लाखांची लूट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-12T16:51:36",
-            "url": "https://www.lokmat.com/agriculture/market-yard/when-will-justice-be-served-to-those-farmers-payment-for-1820-quintals-of-sorghum-sold-at-the-marketing-federation-center-has-been-delayed-for-two-years-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/u-34-r-u-34-34-jwari-paymanet-jalgaon-farmer_2026081761739.jpeg",
+            "published": "2026-08-12T17:51:12",
+            "url": "https://www.lokmat.com/crime/noida-crime-fake-gst-officers-rob-consultant-of-rs-29-lakh-in-special-26-style-plot-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/special-26-style_2026081761853.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "882f530be42c",
+            "id": "d2a89129aa46",
             "feed": "lokmat",
-            "title": "Jalyukt Shivar 2.0 : धाराशिवमध्ये पाणी अडवा, पाणी जिरवा मोहीम जोरात; शेतकऱ्यांना मिळणार शेतीसाठी नवा आधार",
+            "title": "Jayakwadi Dam Water Level : गोदावरीचा पूर ओसरला! जायकवाडीचा विसर्ग बंद; आता पाण्याची आवक किती?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-12T16:47:43",
-            "url": "https://www.lokmat.com/agriculture/weather/latest-news-jalyukt-shivar-20-water-block-water-save-campaign-in-full-swing-in-dharashiv-farmers-will-get-new-support-for-agriculture-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jalyukta-shivar-1_2026081761788.jpg",
+            "published": "2026-08-12T17:49:55",
+            "url": "https://www.lokmat.com/agriculture/weather/latest-news-jayakwadi-dam-water-level-godavari-flood-subsided-jayakwadi-discharge-closed-how-much-water-inflow-now-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jayakwadi-dam-water-11111_2026081761827.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "3a96168c64fd",
+            "id": "8aad2aa7631d",
             "feed": "lokmat",
-            "title": "₹५५ वरून थेट ₹१५९ कोटी! ८ वर्षांत एन चंद्रशेखरन यांचे मानधन झाले तिप्पट; एकूण संपत्ती किती?",
+            "title": "गत खरीपात खरेदी केलेल्या धानाची उचल खोळंबली; नवीन धान खरेदी केल्यानंतर साठवायचे कुठे? संस्था विवंचनेत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-12T16:38:08",
-            "url": "https://www.lokmat.com/business/news/n-chandrasekaran-salary-tata-sons-chairman-n-chandrasekaran-earns-rs43-lakh-per-day-what-is-his-total-wealth-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tata-sons-chairman-salary_2026081761784.jpg",
+            "published": "2026-08-12T17:44:44",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/the-lifting-of-paddy-purchased-in-the-last-kharif-season-was-delayed-where-to-store-new-paddy-after-purchasing-it-the-organization-is-in-a-dilemma-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-dhan-kharedi_2026081761844.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
