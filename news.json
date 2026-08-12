@@ -1,19 +1,67 @@
 {
-    "lastUpdated": "12-08-2026 | 09:21 PM IST",
+    "lastUpdated": "12-08-2026 | 10:16 PM IST",
     "maharashtra": [
         {
             "id": "5d95fa507552",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : लोणी काळभोर-मांजरीदरम्यान रेल्वे वाहतूक ठप्प",
+            "title": "Marathi News Updates : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर..",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T20:57:29",
+            "published": "2026-08-12T22:06:08",
             "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-12th-august-2026-loksabha-parliament-monsoon-session-weather-update-mumbai-rain-pune-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-ssy93-spb94",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "207040f3399c",
+            "feed": "esakal",
+            "title": "मोठी बातमी! मराठा समाजातील १.८१ लाख तरुण रोजगार मागणारे नव्हे रोजगार देणारे; ७ वर्षांत अण्णासाहेब पाटील आर्थिक मागास विकास महामंडळाकडून १८७४ कोटी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-12T22:02:01",
+            "url": "https://www.esakal.com/maharashtra/big-news-181-lakh-youths-from-the-maratha-community-have-become-job-creators-rather-than-job-seekers-1874-crore-disbursed-by-the-annasaheb-patil-economically-backward-development-corporation-over-seven-years",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/amy55ucl/images-5-Copy.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "02bbdcea7a2d",
+            "feed": "maharashtratimes",
+            "title": "Shambhuraj Desai : 'काही जखमा वरून बऱ्या झाल्यासारख्या दिसतात', सातारा झेडपीतील राडा प्रकरणावर शंभूराज देसाईंची प्रतिक्रिया",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-12T21:57:28",
+            "url": "https://maharashtratimes.com/maharashtra/satara/shambhuraj-desai-reaction-on-satara-zp-chief-election-dispute/articleshow/133187724.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4f5dc9426aa5",
+            "feed": "maharashtratimes",
+            "title": "Nagpur News : नागपूर पदवीधर मतदारसंघासाठी भाजपने शड्डू ठोकला, रविंद्र चव्हाण नागपुरात, पडद्यामागे घडामोडी वाढल्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-12T21:23:52",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/bjps-strong-preparation-for-nagpur-graduates-constituency-ravindra-chavans-visit-and-strategy-discussion/articleshow/133186887.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -32,134 +80,86 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-12/ne22ly1k/Maharashtra-Independence-Day-2026",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "067a3c61c6c5",
-            "feed": "esakal",
-            "title": "Organ Donate : दुःखातही अवयवदानाचा निर्णय! मुळेकर कुटुंबीयांच्या त्‍यागाने चौघांना जीवदान",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T20:47:49",
-            "url": "https://www.esakal.com/pune/organ-donation-amid-grief-mulekar-familys-selfless-decision-gives-four-people-a-new-lease-on-life-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-10/b1xe7tmf/organ-donation",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dd2b126a9e22",
-            "feed": "maharashtratimes",
-            "title": "Yogesh Kadam | कोर्टाचा निकाल आमच्या बाजूनं लागणार, योगेश कदम यांना विश्वास",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T20:45:10",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/yogesh-kadam-on-shivsena-hearing/videoshow/133186767.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "13e092b49e19",
-            "feed": "lokmat",
-            "title": "अल्पसंख्याक शाळांमध्येही 'आरटीई' व 'टीईटी' अनिवार्य करण्यासाठी जनहित याचिका दाखल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T20:41:40",
-            "url": "https://www.lokmat.com/nagpur/public-interest-litigation-filed-to-make-rte-and-tet-mandatory-in-minority-schools-too-a-a511-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-7_2026081761981.png",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "bd1a7846105d",
-            "feed": "maharashtratimes",
-            "title": "Operation Safed Sagar Review: अन् पाक व मुशर्रफ यांचे मनसुबे उधळतात, कशी आहे  'ऑपरेशन सफेद सागर' या वेब सीरिज?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-12T20:50:38",
-            "url": "https://maharashtratimes.com/entertainment/web-series/operation-safed-sagar-netflix-review/articleshow/133186576.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e5042d5c0a70",
-            "feed": "lokmat",
-            "title": "Shravan Special Saree : श्रावणासाठी खास इकत प्रिंटच्या सुंदर साड्या; १२ रंगात, मऊ काठापदराच्या साडीत एलिगंट दिसाल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-12T20:47:09",
-            "url": "https://www.lokmat.com/sakhi/photos/shopping/shravan-special-ikat-print-saree-ikat-print-irkal-saree-shravan-special-shopping-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-12-at-10.06.51-am_2026081761983.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "6eb57ebf0840",
-            "feed": "maharashtratimes",
-            "title": "लेट्स एक्सप्लोर बस्तर! मुंबईकर रिद्धीची पोस्ट ठरली अखेरची; बाईक रायडर तरुणीचा चटका लावणारा अंत",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-12T20:44:16",
-            "url": "https://maharashtratimes.com/india-news/mumbai-biker-riddhi-thakkar-dies-hit-and-run-in-chhattisgarhs-bastar/articleshow/133186378.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b6d357c06ea9",
-            "feed": "maharashtratimes",
-            "title": "Nilkantheshwar कारखान्याची सरकारला गोडी, नेगेटिव्ह शेरा असताना Abhimanyu Pawar यांना 18 कोटी कर्ज",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-12T20:42:20",
-            "url": "https://maharashtratimes.com/video/mt-originals/abhimanyu-pawar-nilkantheshwar-sugar-factory-18-crore-loan-cabinet-approval/videoshow/133186749.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "00a219773de0",
+            "id": "c23e16c72d20",
             "feed": "esakal",
-            "title": "Premium|Smartphone and Time Management : काळ, वेळ आणि घड्याळ",
+            "title": "Talegaon Dabhade News : रस्ता नसल्याने ज्येष्ठाला उपचारासाठी झोळीतून नेण्याची वेळ",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-12T20:39:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/smartphone-time-management-digital-distraction-screen-time-productivity-clock-seconds-minutes-hours-modern-life-time-value-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/s0pcpdy2/Abhi-96.jpg",
+            "published": "2026-08-12T22:14:26",
+            "url": "https://www.esakal.com/pimpri-chinchwad/no-road-no-ambulance-access-elderly-man-carried-in-a-sling-for-medical-treatment-kusawali-pathar-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/59f39hjo/Family-members-carrying-an-ailing-senior-citizen-down-the-mountain-in-a-makeshift-sling.",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a38283ae0f99",
+            "feed": "lokmat",
+            "title": "कल्याणजवळच्या आंबिवलीतील इराणी वस्तीत पोलिसांचे कोम्बींग ऑपरेशन, ८ लाखाचे एमडी ड्र्ग्ज जप्त, फरार आरोपी अटकेत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-12T22:06:50",
+            "url": "https://www.lokmat.com/kalyan-dombivli/police-combing-operation-in-irani-settlement-in-ambivali-near-kalyan-md-drugs-worth-rs-8-lakh-seized-a-a855-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kalyan-crime-news-1_2026081761990.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "02af76e536e9",
+            "feed": "lokmat",
+            "title": "दर दिवशी एक, श्रावणात करा ‘ह्या’ ३० भाज्या, स्वयंपाक बनेल झकास, सणवार होतील खास",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-12T21:32:32",
+            "url": "https://www.lokmat.com/food/shravan-special-food-and-recipes-one-every-day-make-these-30-vegetables-in-shravan-cooking-will-become-more-delicious-festivals-will-be-special-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shravan-food-1_2026081761988.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6137ccac121a",
+            "feed": "esakal",
+            "title": "आकाशात लेझर लाइट का सोडू नये? हा कायद्याने गुन्हा का? जाणून घ्या यामागचं कारण...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-12T21:23:04",
+            "url": "https://www.esakal.com/ampstories/web-story/why-should-you-never-point-laser-light-at-sky-know-reason-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/owcr4ae8/Pointing-Laser-Lights-at-the-Sky-Could-Cause-Major-Accidents-Here’s-Why.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "91130a9e8c07",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 13 August 2026: श्रावण मासारंभ, अनफा योग, सम योग, त्रिग्रह योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ </b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-12T21:19:36",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-13-august-2026-in-marathi-shravan-start-anapha-yog-sam-yog-and-shubha-muhurta/articleshow/133186420.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "c04a0540e93e",
+            "feed": "esakal",
+            "title": "IRE vs AFG: विराट कोहली-शिखर धवनलाही टाकलं मागे, अफगाणिस्तानच्या ओपनरची विक्रमी शतकासह पीटरसनच्या क्लबमध्ये एन्ट्री",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-12T21:24:58",
+            "url": "https://www.esakal.com/krida/cricket/ibrahim-zadran-becomes-joint-third-fastest-batter-to-score-2000-odi-runs-surpasses-shikhar-dhawan-virat-kohli-ire-vs-afg-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/x0h2ov54/Ibrahim-Zadran-Ireland-vs-Afghanistan.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "4dda74ba9ce9",
             "feed": "lokmat",
             "title": "भारतीय फलंदाज फिरकी गोलंदाजीसमोर का ढेपाळतात? कपिल देव यांचा बीसीसीआयला मोलाचा सल्ला!",
@@ -278,25 +294,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-12/g27ffg30/TTFI-Recognition-Cancelled",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "b1f0af22bdb6",
-            "feed": "esakal",
-            "title": "IND vs SL, 1st Test: सर्फराज खान की ध्रुव जुरेल... कोणाला मिळावी प्लेइंग इलेव्हनमध्ये संधी? कार्तिकने दिलं स्पष्ट उत्तर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-12T19:42:54",
-            "url": "https://www.esakal.com/krida/cricket/murali-kartik-picks-dhruv-jurel-over-sarfaraz-khan-for-india-playing-xi-vs-sri-lanka-1st-test-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/migmxey8/Sarfaraz-Khan-vs-Dhruv-Jurel-India-Playing-XI-Debate.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "9e56806a8b80",
+            "feed": "lokmat",
+            "title": "४९५०% चा बंपर परतावा देणाऱ्या 'या' मल्टिबॅगर स्टॉकचा मोठा धमाका; एकावर १० बोनस शेअर देणार!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-12T21:23:06",
+            "url": "https://www.lokmat.com/business/news/stock-market-ph-capital-ltd-announces-10-bonus-shares-for-1-share-marathi-news-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-00-sd0sa_2026081761987.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "24c0a1e7f5bb",
             "feed": "lokmat",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "969e5f166f4e",
-            "feed": "lokmat",
-            "title": "बियाणे न उगविल्याच्या प्रकरणी महाबीज सहित विविध कंपन्यांवर राज्यात तब्बल १७ हजार तक्रारी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-12T19:46:55",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/as-many-as-17-thousand-complaints-have-been-filed-in-the-state-against-various-companies-including-mahabeej-for-not-germinating-seeds-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-soybean-farmer_2026081761937.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
