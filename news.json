@@ -1,88 +1,104 @@
 {
-    "lastUpdated": "12-08-2026 | 10:16 PM IST",
+    "lastUpdated": "12-08-2026 | 11:21 PM IST",
     "maharashtra": [
         {
-            "id": "5d95fa507552",
+            "id": "208caf1c32e0",
+            "feed": "lokmat",
+            "title": "काळाचा क्रूर घाला! ट्रॅक्टरला दुचाकीच्या धडकेत बाप-लेकीचा जागीच मृत्यू, मूल शहराजवळील घटना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-12T23:13:34",
+            "url": "https://www.lokmat.com/chandrapur/chandrapur-accident-news-the-cruel-hand-of-time-father-and-daughter-die-on-the-spot-after-a-tractor-collides-with-a-bike-incident-near-kullu-city-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/accident-news-1_2026081761994.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1e01dddf7256",
             "feed": "esakal",
-            "title": "Marathi News Updates : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर..",
+            "title": "Manoj Jarange Patil : सातारा गॅझेटसाठी राजेंनी पुढाकार घ्यावा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T22:06:08",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-12th-august-2026-loksabha-parliament-monsoon-session-weather-update-mumbai-rain-pune-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-ssy93-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-12T23:04:47",
+            "url": "https://www.esakal.com/satara/raje-urged-to-take-initiative-for-satara-gazette-manoj-jarange-patil-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-06-15/55r6asfq/Manoj-Jarange-Patil",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "207040f3399c",
+            "id": "c97f04988cfa",
             "feed": "esakal",
-            "title": "मोठी बातमी! मराठा समाजातील १.८१ लाख तरुण रोजगार मागणारे नव्हे रोजगार देणारे; ७ वर्षांत अण्णासाहेब पाटील आर्थिक मागास विकास महामंडळाकडून १८७४ कोटी",
+            "title": "Shambhuraj Desai : मंत्रालयात स्वतंत्र मराठा आरक्षण कक्ष; सरकार शब्द पाळणारच",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T22:02:01",
-            "url": "https://www.esakal.com/maharashtra/big-news-181-lakh-youths-from-the-maratha-community-have-become-job-creators-rather-than-job-seekers-1874-crore-disbursed-by-the-annasaheb-patil-economically-backward-development-corporation-over-seven-years",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/amy55ucl/images-5-Copy.jpg",
+            "published": "2026-08-12T22:56:16",
+            "url": "https://www.esakal.com/satara/separate-maratha-reservation-cell-at-mantralaya-state-government-reaffirms-its-commitment-to-fulfilling-the-promise-shambhuraj-desai-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2024-07/39dbd6a8-7da6-4c1a-9675-6192a2f9e5bf/Rushikesh_Salvi___2024_07_03T230817_197.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "02bbdcea7a2d",
-            "feed": "maharashtratimes",
-            "title": "Shambhuraj Desai : 'काही जखमा वरून बऱ्या झाल्यासारख्या दिसतात', सातारा झेडपीतील राडा प्रकरणावर शंभूराज देसाईंची प्रतिक्रिया",
+            "id": "96fe2390e305",
+            "feed": "lokmat",
+            "title": "FDA ची डॉमिनोज पिझ्झावर मोठी कारवाई, मुंबईतील ३ आऊटलेटचा परवाना रद्द",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T21:57:28",
-            "url": "https://maharashtratimes.com/maharashtra/satara/shambhuraj-desai-reaction-on-satara-zp-chief-election-dispute/articleshow/133187724.cms",
-            "image": "",
+            "published": "2026-08-12T22:53:23",
+            "url": "https://www.lokmat.com/maharashtra/fda-takes-major-action-against-dominos-pizza-cancels-licenses-of-3-outlets-in-mumbai-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dominoz-pizza-fda-tukaram-mundhe-2_2026081761992.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4f5dc9426aa5",
-            "feed": "maharashtratimes",
-            "title": "Nagpur News : नागपूर पदवीधर मतदारसंघासाठी भाजपने शड्डू ठोकला, रविंद्र चव्हाण नागपुरात, पडद्यामागे घडामोडी वाढल्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-12T21:23:52",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/bjps-strong-preparation-for-nagpur-graduates-constituency-ravindra-chavans-visit-and-strategy-discussion/articleshow/133186887.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c691139df275",
+            "id": "09724a2842cd",
             "feed": "esakal",
-            "title": "नाशिक-रायगडमध्ये कोण करणार ध्वजारोहण? मंत्र्यांची यादी जाहीर; पाहा तुमच्या जिल्ह्यात कोण?",
+            "title": "Karad News : रणांगण पालिकेचे... लक्ष्य जिल्हा बँकेचे; कऱ्हाडला भाजपकडून ‘लोकशाही’ टार्गेट",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-12T20:54:29",
-            "url": "https://www.esakal.com/maharashtra/independence-day-2026-august-15-flag-hoisting-ministers-district-wise-list-maharashtra-who-will-hoist-flag-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/ne22ly1k/Maharashtra-Independence-Day-2026",
+            "published": "2026-08-12T22:47:23",
+            "url": "https://www.esakal.com/satara/municipal-battlefield-district-bank-election-in-focus-bjp-targets-district-bank-elections-in-karad-politics-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/4w66r3a2/satara-politics",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "022711485c97",
+            "feed": "esakal",
+            "title": "आपल्या देशाला ‘भारत’ हे नाव कसं पडलं? जाणून घ्या रंजक कथा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-12T22:53:09",
+            "url": "https://www.esakal.com/ampstories/web-story/bharat-name-origin-history-king-bharata-chandravamsha-bharatvarsha-bharatkhand-india-name-origin-dushyanta-shakuntala-mahabharata-ancient-india-history-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/d2r1cuqz/8.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "c23e16c72d20",
             "feed": "esakal",
@@ -144,22 +160,6 @@
             "published": "2026-08-12T21:23:04",
             "url": "https://www.esakal.com/ampstories/web-story/why-should-you-never-point-laser-light-at-sky-know-reason-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-08-12/owcr4ae8/Pointing-Laser-Lights-at-the-Sky-Could-Cause-Major-Accidents-Here’s-Why.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "91130a9e8c07",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 13 August 2026: श्रावण मासारंभ, अनफा योग, सम योग, त्रिग्रह योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ </b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-12T21:19:36",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-13-august-2026-in-marathi-shravan-start-anapha-yog-sam-yog-and-shubha-muhurta/articleshow/133186420.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
