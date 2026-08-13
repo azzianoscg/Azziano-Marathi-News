@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "14-08-2026 | 12:18 AM IST",
+    "lastUpdated": "14-08-2026 | 01:21 AM IST",
     "maharashtra": [
+        {
+            "id": "c9c8a2a26293",
+            "feed": "lokmat",
+            "title": "मैत्रिणीने बोलणे बंद केल्यामुळे आरोपी चिडला, तरुणीला घाणेरड्या शिव्या देऊन बेदम मारहाण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T00:26:18",
+            "url": "https://www.lokmat.com/nagpur/the-accused-got-angry-when-his-girlfriend-stopped-talking-hurled-filthy-insults-at-the-young-woman-and-beat-her-up-brutally-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-new-11_2026041685181.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8dee2c820e72",
+            "feed": "lokmat",
+            "title": "विविध प्रांतात घडलेल्या सायबर गुन्ह्यातील कोट्यवधींच्या रकमेची हेरफेर, ‘मनी हॅकर’ रॅकेटमधील दोघांना बेड्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T00:22:16",
+            "url": "https://www.lokmat.com/nagpur/cybercrime-worth-crores-of-rupees-was-embezzled-in-various-provinces-two-arrested-in-money-hacker-racket-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cyber-crime-womancheated_202005413845.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "be99d5d14599",
+            "feed": "lokmat",
+            "title": "निष्काळजीपणामुळे सीएस डॉ. नागेश लखमावार, तर अनियमिततेप्रकरणी डीएचओ डॉ. संजय पांचाळ निलंबित!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T00:19:18",
+            "url": "https://www.lokmat.com/parabhani/cs-dr-nagesh-lakhmawar-suspended-due-to-negligence-while-dho-dr-sanjay-panchal-suspended-due-to-irregularities-a-a925-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/doctor-parbhani-1_2026081762717.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "ba151c064eb3",
+            "feed": "lokmat",
+            "title": "उल्हासनगरमध्ये महायुतीत मिठाचा खडा, महापौरांचे पती कमलेश निकम यांच्यावर भाजपचा हल्लाबोल, महापालिकेत सत्तांतराचे वारे?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T00:15:39",
+            "url": "https://www.lokmat.com/thane/a-rock-of-salt-in-the-ulhasnagar-mahayuti-bjps-attack-on-the-mayors-husband-kamlesh-nikam-winds-of-a-change-of-power-in-the-municipal-corporation-a-a562-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ulhasnagar-mnp-news-1_2026081762716.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "fcfa2d8e163a",
             "feed": "esakal",
@@ -16,73 +80,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-13/581hqknv/SolapurMain2026-05-0313.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "cc285f2128f4",
+            "id": "e30f221865a3",
             "feed": "lokmat",
-            "title": "५० हजारांची लाच घेताना आरटीओतील कथित दलाल जाळ्यात, नागपूर ग्रामीण आरटीओत भूकंप",
+            "title": "रागावण्याने दुखावलेल्या विद्यार्थिनीने केले विष प्राशन; उपचारापूर्वीच मृत्यू, धामणा गावातील घटना",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": "india"
             },
-            "published": "2026-08-14T00:10:30",
-            "url": "https://www.lokmat.com/nagpur/alleged-broker-in-rto-caught-in-a-trap-while-taking-a-bribe-of-rs-50000-earthquake-in-nagpur-rural-rto-a-a877-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bribe-case_202111722702.jpg",
+            "published": "2026-08-14T00:28:42",
+            "url": "https://www.lokmat.com/national/angry-student-drinks-poison-dies-before-treatment-incident-in-dhamana-village-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news_2025111587692.png",
             "isBreaking": false,
             "category_reason": "feed"
         },
-        {
-            "id": "716fad64f4d7",
-            "feed": "esakal",
-            "title": "तमिळनाडूतील छत्री गॅंगचा पर्दाफाश! एक कारची काच फोडायचा, दुसरा चोरी करायचा अन्‌ बाकीचे पाळत ठेवायचे; सोलापूर फौजदार चावडी पोलिसांनी २५०० किमी प्रवास केला, पण ७ जणांना शोधलेच, वाचा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T23:58:00",
-            "url": "https://www.esakal.com/maharashtra/tamil-nadus-umbrella-gang-busted-a-feat-by-the-faujdar-chavdi-police-in-solapur-one-would-smash-the-car-window-another-would-keep-watch-and-the-third-would-commit-the-theftread-on",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/m97tf358/IMG20260813185142-1.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6b641bfa831a",
-            "feed": "esakal",
-            "title": "Gelatin Blast: पुण्यातल्या कामगाराचं भयंकर कृत्य! कमरेला स्फोटकं बांधून सासरवाडीत पोहोचला, एक बटण दाबलं अन् सगळं संपलं",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T23:09:07",
-            "url": "https://www.esakal.com/pune/karnataka-gulbarga-gelatin-blast-suicide-attack-domestic-dispute-father-daughter-killed-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/21i7x9xu/Latest-Marathi-Breaking-News-2026-08-13T230822.612.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "acfabbfa3cbc",
-            "feed": "maharashtratimes",
-            "title": "Tukaram Mundhe : परवाना मिळवून देण्याच्यासाठी कुणी पैसे मागतंय का? तुकाराम मुंढे यांचा नागरिकांना मोलाचा मेसेज",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T23:02:46",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/tukaram-mundhe-important-message-no-need-for-agents-to-obtain-food-and-drug-licenses/articleshow/133220194.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
         {
             "id": "d0511700ca3d",
             "feed": "lokmat",
@@ -144,22 +160,6 @@
             "published": "2026-08-13T23:37:24",
             "url": "https://www.lokmat.com/sakhi/photos/shopping/independence-day-2026-7-color-blouse-which-suit-on-off-white-and-white-saree-a-a648/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-13-at-5.17.20-pm_2026081762698.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "550e980c960d",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 1</b><b>4 August 2026: जरा जीवंतिका पूजन, राशी परिवर्तन योग, पंचमहापुरुष राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-13T23:12:27",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-14-august-2026-in-marathi-jivantika-pujan-rashi-parivartan-yog-panchmahapurush-rajyog-and-shubha-muhurta/articleshow/133219093.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
