@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "13-08-2026 | 05:09 PM IST",
+    "lastUpdated": "13-08-2026 | 06:15 PM IST",
     "maharashtra": [
         {
-            "id": "ae88e0f701a6",
-            "feed": "lokmat",
-            "title": "Top Marathi News Live: माझ्यावर टीका करून न्याय मिळत असेल तर जरांगेंनी खुशाल टिंगल टवाळी करावी - बावनकुळे",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T16:59:12",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-13-august-2026-parliamanet-session-amit-shah-may-speak-on-cjp-protest-pm-narendra-modi-rahul-gandhi-cm-devendra-fadnavis-us-iran-tensions-donald-trump-fda-tukaram-mundhe-rain-updates-shiv-sena-case-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/img-20260131-wa0033_2026081762043.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "42693bf3350f",
+            "id": "db94a313b6c5",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : कुणबी प्रमाणपत्राच्या मुद्द्यावरुन चौकशी लावली- बावनकुळे",
+            "title": "BMC Recruitment: मुंबई महापालिकेत ६१२ जागांवर भरती; ITI पास तरुणांना मोठी संधी! पाहा कोणती पदे आणि अर्ज प्रक्रिया काय?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T16:51:14",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-13th-august-2026-parliament-monsoon-session-justice-yashwant-varma-case-air-india-pilot-incidents-tata-sons-leadership-changes-n-chandrasekaran-weather-monsoon-alerts-independence-day-monsoon-rain-alerts-maratha-reservation-manoj-jarange-patil-activity-politics-sir-electoral-roll-updates-shivsena-eknath-shinde-uddhav-thackeray-raj-thackeray-ymk86-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-29/8j2n459j/sandeep-shirguppe-2026-03-29T073756.918.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "51c568de6866",
-            "feed": "lokmat",
-            "title": "अमरावती विद्यापीठात १३ असोशिएट प्रोफेसर पदांसाठी १८७ अर्ज; राज्यासह देशभरातून उमेदवार स्पर्धेत",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-13T16:49:30",
-            "url": "https://www.lokmat.com/amravati/187-applications-for-13-associate-professor-posts-at-amravati-university-candidates-from-across-the-state-and-the-country-are-competing-a-a782-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-17_2026081762526.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0a50a5e35395",
-            "feed": "maharashtratimes",
-            "title": "Rahul Narwekar | Manoj Jarange यांच्या टीकेवर प्रत्यूत्तर, Sanjay Raut यांच्या वक्तव्याची खिल्ली",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T16:48:20",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/rahul-narwekar-criticizes-manoj-jarange-patil/videoshow/133210010.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1ed6d5b40584",
-            "feed": "esakal",
-            "title": "Farmer Scheme: सात हजार शेतकऱ्यांचा सात-बारा कोरा, ४५ कोटींचे अनुदान जिल्हा बँकेत जमा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T16:47:24",
-            "url": "https://www.esakal.com/mumbai/punyashlok-ahilyadevi-holkar-farm-loan-waiver-scheme-12000-farmers-eligible-from-thane-and-palghar-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-03/ivo8xjsy/Kadegaon-farmer-loan-waiver-scheme-2026-beneficiary-list",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
-        {
-            "id": "a16094cb7e60",
-            "feed": "maharashtratimes",
-            "title": "Parliament Monsoon Session मध्ये Public Tax Money बरबाद, गोंधळामुळे 175 crore Rupees चं मोठं नुकसान",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-13T17:08:05",
-            "url": "https://maharashtratimes.com/video/mt-originals/parliament-monsoon-session-ends/videoshow/133210517.cms",
-            "image": "",
+            "published": "2026-08-13T18:12:48",
+            "url": "https://www.esakal.com/education-jobs/bmc-apprentice-recruitment-612-vacancies-mumbai-iti-jobs-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/sptkfdkc/Mumbai-BMC-Recruitment-.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "f44231fda1b0",
+            "id": "faab642081b5",
             "feed": "lokmat",
-            "title": "Ravi Kishan : “ना बाहेर पडतील, ना व्हायरल होतील”, रवी किशन यांना घरातच लॉक करू इच्छिते पत्नी",
+            "title": "Kolhapur: ‘ओटीपी सक्ती रद्द करा, पोर्टल सुरू करा!’; कार डीलर्सचा 'आरटीओ'वर धडक मोर्चा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-13T17:00:28",
-            "url": "https://www.lokmat.com/social-viral/ravi-kishan-reveals-his-wife-wants-him-to-lock-in-room-amid-his-viral-reels-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ravi-kishan-wife_2026081762541.jpg",
+            "published": "2026-08-13T18:08:30",
+            "url": "https://www.lokmat.com/kolhapur/abolish-mandatory-otp-launch-portal-car-dealers-stage-protest-at-rto-kolhapur-a-a292-c746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/13082026-kol-rto-andolan_2026081762593.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
         {
-            "id": "d755b78aaf57",
+            "id": "5e87f4fcad80",
             "feed": "lokmat",
-            "title": "ऑफिस-डेली वेअरसाठी छोट्या मंगळसुत्राच्या युनिक डिझाइन्स, पाहा कमळ- मोर मंगळसुत्रांचे लेटेस्ट कलेक्शन फक्त ५०० रुपयांत",
+            "title": "गणेशोत्सवातून महासिंहस्थची जनजागृती; नाशिकसह त्र्यंबकेश्वरातील गणेश मंडळांचा सहभाग वाढविण्याचा कुंभमेळा प्राधिकरणाचा प्रयत्न",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-13T16:59:57",
-            "url": "https://www.lokmat.com/sakhi/photos/fashion/shravan-special-small-mangalsutra-designs-for-office-wear-daily-wear-small-mangalsutra-designs-unique-mangalsutra-designs-under-500-office-wear-mangalsutra-collection-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/modern-mangalsutra-designs-for-working-women_2026081760975.jpeg",
+            "published": "2026-08-13T18:07:34",
+            "url": "https://www.lokmat.com/nashik/awareness-of-mahasimhastha-through-ganeshotsav-kumbh-mela-authoritys-efforts-to-increase-the-participation-of-ganesh-mandals-in-nashik-and-trimbakeshwar-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nashik-kumbh_2026081762592.jpeg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
         {
-            "id": "70ee51e04c13",
+            "id": "aa67337f84e1",
+            "feed": "lokmat",
+            "title": "ई-चलन दंडाविरोधात कोल्हापुरात वाहतूकदारांचे ‘जेल भरो’ आंदोलन, पोलिसांसोबत झटापट; ४०० आंदोलक ताब्यात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-13T18:04:58",
+            "url": "https://www.lokmat.com/kolhapur/jail-bharo-protest-of-transporters-in-kolhapur-against-e-challan-penalty-clash-with-police-four-hundred-protesters-detained-a-a292-c746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/13082026-kol-jail-bharo-andolan02_2026081762591.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6940f1b9d004",
             "feed": "esakal",
-            "title": "केसांना मेहंदी लावावी का? जाणून घ्या सत्य",
+            "title": "Manvat Crime : 50 वर्षीय व्यक्तीचे अपहरण करून बेदम मारहाण; पोलिसांनी नाकाबंदीत पाच जणांना घेतलं ताब्यात",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-13T16:59:34",
-            "url": "https://www.esakal.com/ampstories/web-story/should-you-apply-henna-to-your-hair-know-the-pros-and-cons-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/8m0bu8hl/Henna-mehandi-Really-Good-for-Hair-8.jpg",
+            "published": "2026-08-13T18:04:39",
+            "url": "https://www.esakal.com/marathwada/50-year-old-man-abducted-and-brutally-assaulted-five-detained-by-police-during-roadblock-search-manvat-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/xfljwysj/Car-used-in-crime",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "india": [
+        {
+            "id": "52aa3eaff62a",
+            "feed": "maharashtratimes",
+            "title": "Anupama Parameswaran : कधी चांगला वागायचा तर कधी हैवान, बॉयफ्रेंडकडून शारीरिक, मानसिक छळ; लोकप्रिय अभिनेत्रीचा धक्कादायक खुलासा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-13T18:07:27",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/anupama-parameswaran-faced-narcissistic-abuse-in-relationship-actress-talks-about-breakup/articleshow/133211743.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "055075135c26",
+            "feed": "esakal",
+            "title": "श्रीदेवींच्या अंत्ययात्रेचे हे फोटो पाहिलेत का? शेवटच्या क्षणीही दिसत होत्या सुंदर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-13T18:01:05",
+            "url": "https://www.esakal.com/ampstories/web-story/sridevi-funeral-unseen-pictures-of-her-last-journey-actress-looked-beautiful-in-final-moments-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/ni0d5ze0/SRIDEVI-last-photo-.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "b2f48532eff5",
+            "id": "50c713dc99da",
+            "feed": "maharashtratimes",
+            "title": "मोबाईलवर 1601 ने सुरू होणारा कॉल उचलणार की नाही? TRAI चा नवा नियम माहिती हवा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-13T18:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/call-from-1601-series-know-trai-new-rule-for-service-and-transactional-calls/articleshow/133199710.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "49c1f6c16b66",
+            "feed": "maharashtratimes",
+            "title": "NEET UG Counselling 2026: वैद्यकीय प्रवेशासाठी 'एनएमसी'चा नवीन नियम; दिव्यांग आरक्षणासाठी आता पात्रता प्रमाणपत्र अनिवार्य, ६१ केंद्रे निश्चित!",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-13T17:55:45",
+            "url": "https://maharashtratimes.com/career/career-news/nmc-neet-ug-pwd-reservation-eligibility-certificate-rules-2026/articleshow/133211373.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "31817fa290a1",
+            "feed": "maharashtratimes",
+            "title": "हिंदू-मुस्लिम जीवलग मित्रांना संपवलं; बॉडी मंदिराजवळ पुरल्या, वर टाईल्स लावल्या, पुजारी फरार",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-13T17:55:33",
+            "url": "https://maharashtratimes.com/india-news/up-baghpat-hindu-muslim-friends-body-found-in-temple-tiles-laid-over-priest-absconding/articleshow/133211664.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "world": [
+        {
+            "id": "17deecaba705",
             "feed": "lokmat",
-            "title": "\"मॅनेजर, बेच मारो इसको\"! गोविंदा स्टाइलमध्ये गौरव मोरेने बनवला भन्नाट रील; नेटकरी म्हणाले, \"घर दाखवण्याची निंजा टेक्निक\"",
+            "title": "मोठी घटना! युक्रेननं एअर डिफेंस सिस्टिम S-400 वर तोडगा शोधला? पुतिन यांचा १३००० कोटींचा 'राजवाडा' थोडक्यात बचावला!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-13T17:52:20",
+            "url": "https://www.lokmat.com/international/big-incident-ukraine-finds-solution-on-s-400-air-defense-system-putins-rs-13000-crore-palace-narrowly-escaped-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-ukrain-htr_2026081762587.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "880fedf962f8",
+            "feed": "lokmat",
+            "title": "Arshi Khan: अर्शी खान आहे तरी कोण? अफगाणिस्तानचा क्रिकेटर आफताब आलमसोबत जोडलं जातंय नाव!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-13T16:59:00",
-            "url": "https://www.lokmat.com/filmy/television/gaurav-more-recreates-govinda-comedy-scene-bech-maro-isko-waah-tera-kya-kehna-movie-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gaurav-more-recreates-govinda-comedy-scene-bech-maro-isko-waah-tera-kya-kehna-movie-2_2026081762540.jpg",
+            "published": "2026-08-13T17:26:01",
+            "url": "https://www.lokmat.com/filmy/photos/who-is-arshi-khan-who-is-the-actress-linked-to-the-afghanistan-cricketer-aftab-alam-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/1_2026081762558.jpg",
             "isBreaking": false,
-            "category_reason": "default"
-        }
-    ],
-    "world": [
+            "category_reason": "keyword"
+        },
         {
             "id": "644b254a29b8",
             "feed": "esakal",
@@ -200,6 +232,22 @@
     ],
     "sports": [
         {
+            "id": "98f8e9dc3c12",
+            "feed": "esakal",
+            "title": "आठवडाभरापूर्वी मातृशोक, नितीश राणाने मैदानात उतर आईला वाहिली अनोखी श्रद्धांजली",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-13T18:10:07",
+            "url": "https://www.esakal.com/krida/cricket/nitish-rana-returns-to-dpl-with-late-mother-name-on-jersey-emotional-tribute-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/ggrrvgsf/Nitish-Rana-Pays-Heartfelt-Tribute-to-Mother.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "194cc0aefe81",
             "feed": "esakal",
             "title": "Vaibhav Sooryavanshi : भल्याभल्या गोलंदाजांना घाम फोडणाऱ्या वैभवला कसा रोखणार? हरभजनने सांगितलं गेमप्लॅन",
@@ -230,25 +278,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "business": [
         {
-            "id": "5f43aa0f5a44",
+            "id": "b6d3da660bd1",
             "feed": "lokmat",
-            "title": "Harbhajan Singh: \"वैभव सूर्यवंशीला कसं आउट करायचं\"? हरभजन सिंहनं गोलंदाजांना सांगितली आयडिया, मॅथ्यू हेडन म्हणतोय...",
+            "title": "Soybean Market : सोयाबीन विकायचं की थांबायचं? आवक घटली, दर मजबूत; नवीन हंगामापूर्वी काय चित्र?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "sports"
+                "category": null
             },
-            "published": "2026-08-13T15:34:45",
-            "url": "https://www.lokmat.com/cricket/news/how-to-get-vaibhav-suryavanshi-out-harbhajan-singh-told-the-bowlers-idea-what-exactly-did-he-say-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/harbhajan-singh-on-vaibhav-suryavanshi-1_2026081762414.jpg",
+            "published": "2026-08-13T17:51:49",
+            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-soybean-market-should-soybeans-be-sold-or-held-arrivals-have-decreased-prices-have-strengthened-what-is-the-picture-before-the-new-season-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/soybean-market-arrivals-1_2026081762581.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "business": [
+            "category_reason": "url"
+        },
+        {
+            "id": "d127638c3d89",
+            "feed": "lokmat",
+            "title": "Banana Market Rate : केळी उत्पादकांना बसलाय ८५० रुपयांचा फटका; केळी बाजार दरात मोठी घसरण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-13T17:38:21",
+            "url": "https://www.lokmat.com/agriculture/market-yard/banana-market-rate-banana-producers-have-suffered-a-loss-of-rs-850-big-drop-in-banana-market-price-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-u-banana-market-rate_2026081762572.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "67d6fc22ca21",
             "feed": "lokmat",
@@ -264,38 +328,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cotton-pest-1_2026081762520.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "061a993799d2",
-            "feed": "lokmat",
-            "title": "बँक ऑफ बडोदा अन् कॅनरा बँकेचा ग्राहकांना मोठा झटका! व्याजदरात केले मोठे बदल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-13T16:39:24",
-            "url": "https://www.lokmat.com/photos/business/bank-of-baroda-and-canara-bank-deal-a-big-blow-to-their-customers-major-changes-in-interest-rates-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-of-badoda_2026081762496.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d6b1d3e6a9ff",
-            "feed": "esakal",
-            "title": "Inflation: महागाईचा पुन्हा भडका! आले-लसूण अन् कांद्याने वाढवल्या चिंता; कोणत्या राज्यात महागाई सर्वाधिक? ग्रामीण भागाला मोठा फटका?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-13T16:36:26",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/inflation-july-2026-india-retail-inflation-ginger-garlic-onion-price-highest-state-rural-inflation-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/c5fw30w5/Copy-of-Copy-of-banner-2026-08-13T162934.376.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ]
 }
