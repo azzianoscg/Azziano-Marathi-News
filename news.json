@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "13-08-2026 | 05:00 AM IST",
+    "lastUpdated": "13-08-2026 | 06:35 AM IST",
     "maharashtra": [
         {
             "id": "ee9f6a6bf097",
@@ -84,87 +84,103 @@
     ],
     "india": [
         {
-            "id": "02af76e536e9",
+            "id": "93cab0c8f236",
+            "feed": "esakal",
+            "title": "आजचे पंचांग आणि दिनविशेष - 13 ऑगस्ट 2026",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-13T06:30:00",
+            "url": "https://www.esakal.com/culture-and-religion/on-this-day-happened-today-panchang-history-in-marathi-13th-august-2026-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2022-11/1ed85aee-5876-48d2-8a7e-15b6fbb89e2f/sakshi_text_photo___2022_11_01T071402_856.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "9bf78a6156b3",
             "feed": "lokmat",
-            "title": "दर दिवशी एक, श्रावणात करा ‘ह्या’ ३० भाज्या, स्वयंपाक बनेल झकास, सणवार होतील खास",
+            "title": "कॅलरी अन् साखरेचा हिशेब! शाळांमध्ये जंक फूडवर बंदी, कॅन्टीनवर असेल सरकारची नजर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "india"
             },
-            "published": "2026-08-13T00:48:56",
-            "url": "https://www.lokmat.com/food/shravan-special-food-and-recipes-one-every-day-make-these-30-vegetables-in-shravan-cooking-will-become-more-delicious-festivals-will-be-special-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shravan-food-1_2026081761988.jpg",
+            "published": "2026-08-13T06:07:46",
+            "url": "https://www.lokmat.com/national/count-calories-and-sugar-junk-food-banned-in-schools-government-will-keep-an-eye-on-canteens-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/junk-food-banned_2026081762008.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
         {
-            "id": "a6585bc3c334",
+            "id": "011e97b2ba62",
+            "feed": "lokmat",
+            "title": "मागण्या मान्य होईपर्यंत लढा, झारखंड आंदोलकांचा निर्धार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-13T06:04:22",
+            "url": "https://www.lokmat.com/national/jharkhand-protesters-vow-to-fight-until-their-demands-are-met-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jharkhand-aandolan-3_2026081762007.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9a9775844751",
+            "feed": "lokmat",
+            "title": "त्वचादान ते कुंभमेळा; राज्यसभेत महाराष्ट्राचे प्रश्न; खा. तावडे, कुलकर्णी, निकम यांनी लक्ष वेधले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-13T06:01:24",
+            "url": "https://www.lokmat.com/national/from-skin-donation-to-kumbh-mela-maharashtra-issues-in-rajya-sabha-kha-tawde-kulkarni-nikam-drew-attention-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tawde-in-rajya-sabha_2026081762006.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8853b96667e8",
             "feed": "esakal",
-            "title": "रोज ६ तासांपेक्षा कमी झोप? आरोग्यावर होऊ शकतो परिणाम!",
+            "title": "१३ ऑगस्ट २०२६ राशिभविष्य! ‘या’ राशींना मिळेल प्रगतीची नवी संधी!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-12T23:58:35",
-            "url": "https://www.esakal.com/ampstories/web-story/sleeping-less-than-6-hours-heres-how-it-may-affect-your-health-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/fijtr3aw/Feeling-Like-Youre-Falling-Asleep-6.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "aa1db4552a40",
-            "feed": "esakal",
-            "title": "पाठीत कळ येतेय? या गोष्टी नक्की लक्षात ठेवा!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-12T23:56:05",
-            "url": "https://www.esakal.com/ampstories/web-story/back-pain-relief-simple-tips-to-try-at-home-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/r2x7frgm/White-Discharge-Back-Pain-home-remedies-8.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "022711485c97",
-            "feed": "esakal",
-            "title": "आपल्या देशाला ‘भारत’ हे नाव कसं पडलं? जाणून घ्या रंजक कथा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-12T22:53:09",
-            "url": "https://www.esakal.com/ampstories/web-story/bharat-name-origin-history-king-bharata-chandravamsha-bharatvarsha-bharatkhand-india-name-origin-dushyanta-shakuntala-mahabharata-ancient-india-history-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/d2r1cuqz/8.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "c23e16c72d20",
-            "feed": "esakal",
-            "title": "Talegaon Dabhade News : रस्ता नसल्याने ज्येष्ठाला उपचारासाठी झोळीतून नेण्याची वेळ",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-12T22:14:26",
-            "url": "https://www.esakal.com/pimpri-chinchwad/no-road-no-ambulance-access-elderly-man-carried-in-a-sling-for-medical-treatment-kusawali-pathar-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/59f39hjo/Family-members-carrying-an-ailing-senior-citizen-down-the-mountain-in-a-makeshift-sling.",
+            "published": "2026-08-13T06:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/horoscope-today-august-13-2026-which-zodiac-signs-will-find-success-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-12/gsqfx3qc/1.jpg.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "5a6adbc2afa1",
+            "feed": "lokmat",
+            "title": "जीवाला धोका असूनही मला अजिबात भीती वाटली नाही : डोनाल्ड ट्रम्प",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-13T06:10:13",
+            "url": "https://www.lokmat.com/international/i-was-not-afraid-at-all-despite-the-threat-to-my-life-donald-trump-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-5_2026081762009.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "30f4f0234619",
             "feed": "esakal",
@@ -180,22 +196,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-12/f7eeft7n/Abhi-97.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "50732a45fcb8",
-            "feed": "lokmat",
-            "title": "रशिया-युक्रेन वादात डी. वाय. चंद्रचूड यांच्यावर मोठी जबाबदारी; ९ हजार कोटींचा वाद सोडवणार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-12T18:42:24",
-            "url": "https://www.lokmat.com/international/former-cji-dy-chandrachud-appointed-arbitrator-by-russia-in-investment-treaty-dispute-with-ukrainian-bank-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dy-chandrachud-arbitrator_2026081761887.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         },
         {
             "id": "94486c253a1d",
