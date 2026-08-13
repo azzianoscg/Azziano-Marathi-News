@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "13-08-2026 | 01:41 PM IST",
+    "lastUpdated": "13-08-2026 | 03:23 PM IST",
     "maharashtra": [
         {
-            "id": "aea1e08beaf8",
+            "id": "db5195599c6c",
             "feed": "lokmat",
-            "title": "अरे बापरे! जनावरांच्या सोनोग्राफी मशीनने महिलांचे गर्भलिंगनिदान, पुण्यातील चार डॉक्टरांसह ८ जणांना अटक",
+            "title": "मित्रासोबत गेलेल्या तरुणाचा मृतदेह धबधब्यात आढळला, मृत्यूच्या कारणाचा शोध सुरू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-13T15:19:01",
+            "url": "https://www.lokmat.com/sindhudurga/body-of-young-man-who-went-with-friend-found-in-waterfall-search-underway-for-cause-of-death-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahesh-pednekar_2026081762392.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "6ba4b4924400",
+            "feed": "esakal",
+            "title": "Inspiring Farmer Story : सिमला मिरचीची शेती अन् 20 लाखांचे उत्पन्न! पारंपरिक शेतीला फाटा देत माजलगावच्या ज्योती डक यांनी 4 एकर ढोबळी मिरचीतून कमावले लाखो रुपये",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-13T15:18:01",
+            "url": "https://www.esakal.com/marathwada/aurangabad/majalgaon-woman-farmer-jyoti-dak-capsicum-farming-70-ton-production-20-lakh-income-organic-agriculture-success-story-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/nergijbc/woman-farmer-success-story",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "3afcc25862f7",
+            "feed": "esakal",
+            "title": "Ganeshotsav: हिंदू धर्मात विसर्जनाचा उल्लेख आहे? लेखी पुरावा सादर करण्याचे उच्च न्यायालयाचे आदेश",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-13T15:15:35",
+            "url": "https://www.esakal.com/mumbai/high-court-asks-if-hindu-scriptures-mandate-ganesh-idol-immersion-in-natural-water-sources-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-11/wwig3w3s/mumbai-high-court",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "16e7157594cd",
+            "feed": "lokmat",
+            "title": "सुरक्षेतील पळवाटांचा शोध, विदर्भातील २२० रेल्वे स्थानकांचे झाले 'सिक्युरिटी ऑडिट'",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-13T13:35:31",
-            "url": "https://www.lokmat.com/ahilyanagar/in-ahilyanagar-8-people-including-4-doctors-from-pune-arrested-for-diagnosing-womens-genitals-using-animal-sonography-machine-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ahilyanagar-pune-crime-_2026081762282.jpg",
+            "published": "2026-08-13T15:11:58",
+            "url": "https://www.lokmat.com/nagpur/security-loopholes-discovered-security-audit-conducted-at-220-railway-stations-in-vidarbha-a-a879-c1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-14_2026081762379.png",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "41c0eee1f394",
+            "id": "09b8c7e44332",
             "feed": "esakal",
-            "title": "Bhavesh Kavre: नॉनव्हेज खाल तर घर नाही, शाकाहारी वेलकम! ताडदेवच्या फ्लॅटबाबत ब्रोकर भावेश कावरेचा VIDEO Viral",
+            "title": "ब्रिटीशांच्या लष्करी तळाजवळ \nलक्ष्मण कुलकर्णी यांचे बंड",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-13T13:34:15",
-            "url": "https://www.esakal.com/mumbai/estate-agent-bhavesh-kavre-controversial-video-viral-saying-no-house-if-you-eat-non-veg-but-vegetarians-welcome-in-mumbai-tardeo-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/sjfpvaah/Bhavesh-Kavre-Viral-Video.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "42693bf3350f",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update : पावसाळी अधिवेशनादरम्यान सरकारचे अत्यंत अहंकारी वर्तन- कॉंग्रेस",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T13:32:38",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-13th-august-2026-parliament-monsoon-session-justice-yashwant-varma-case-air-india-pilot-incidents-tata-sons-leadership-changes-n-chandrasekaran-weather-monsoon-alerts-independence-day-monsoon-rain-alerts-maratha-reservation-manoj-jarange-patil-activity-politics-sir-electoral-roll-updates-shivsena-eknath-shinde-uddhav-thackeray-raj-thackeray-ymk86-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-29/8j2n459j/sandeep-shirguppe-2026-03-29T073756.918.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3c59c96c3add",
-            "feed": "esakal",
-            "title": "नगर ः अहिल्यानगर जिल्‍ह्यात सव्वा चार लाख मतदाराची माहिती मिळेना १६ ऑगस्टपर्यंत नावाची खात्री न झाल्यास नावे प्रशासन वगळणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T13:31:08",
-            "url": "https://www.esakal.com/pune/ahilyanagar-voter-verification",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/kahk7me8/Banner1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ed5be556c3f7",
-            "feed": "esakal",
-            "title": "नगर ः घरकुलासाठी स्वतः सर्वे केलेल्या पात्र-अपात्र लाभार्थींच्या यादीचे स्वातंत्र्यदीनी वाचन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T13:29:52",
-            "url": "https://www.esakal.com/pune/housing-beneficiary-survey-results-marathi",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/z1twlhjp/Banner1.png",
+            "published": "2026-08-13T15:09:15",
+            "url": "https://www.esakal.com/pune/todays-latest-district-marathi-news-ked26b02389-txt-pd-today-20260813093915",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/o7r6ivh4/Banner1.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "10b0bd81afa4",
-            "feed": "esakal",
-            "title": "Taekwondo Player: अधिकाऱ्याने मागितली १.५ लाखांची लाच? मुख्यमंत्र्यांसमोर रडली तायक्वांदो खेळाडू! प्रशासनाने स्पष्ट केली वस्तुस्थिती",
+            "id": "bd908da91b74",
+            "feed": "lokmat",
+            "title": "Independence Day 2026: स्वातंत्र्य दिनानिमित्त नक्की पहा 'हे' १० सर्वोत्कृष्ट हिंदी चित्रपट; देशभक्तीने उर भरून येईल",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-13T13:36:14",
-            "url": "https://www.esakal.com/desh/taekwondo-player-alleges-rs-15-lakh-bribe-demand-before-cm-administration-clarifies-facts-behind-complaint-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/kqsz5v7d/taekwondo-player-allegations-cm-pushkarsingh-dhami.jpg.jpeg",
+            "published": "2026-08-13T15:15:04",
+            "url": "https://www.lokmat.com/sakhi/inspirational/independence-day-2026-watch-these-10-best-hindi-films-on-independence-day-it-will-fill-you-with-patriotism-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/independence-day-2026-special-movie-and-ott_2026081762377.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "794ad2342aee",
+            "feed": "maharashtratimes",
+            "title": "3 जीवलग मित्र, ऑनलाईन गेम अन् आयुष्याचा खेळ; दोघांचा शेवट, तिसरा रुग्णालयात, काय घडलं नेमकं?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-13T15:14:46",
+            "url": "https://maharashtratimes.com/india-news/punjab-shocker-teen-friend-lost-money-in-online-game-die-after-consuming-poison/articleshow/133206735.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "c3d716febca9",
-            "feed": "esakal",
-            "title": "श्रावणात महिनाभर नॉनव्हेज सोडल्यास काय होते?",
+            "id": "98e063c23225",
+            "feed": "maharashtratimes",
+            "title": "Sridevi Birth Anniversary: 'तुमची खूप आठवण येतेय' म्हणत प्रियांका चोप्रानं शेअर केली लेडी सुपरस्टार श्रीदेवी यांच्या चरित्र पुस्तकाची झलक",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-13T13:36:03",
-            "url": "https://www.esakal.com/ampstories/web-story/what-happens-to-your-body-when-you-stop-eating-non-veg-during-shravan-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/35zqlhus/nonveg.jpg",
+            "published": "2026-08-13T15:13:48",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/priyanka-chopra-shares-post-on-sridevi-biography-release-on-her-birth-anniversary/articleshow/133205666.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "c78ca8e03efc",
+            "id": "68dafd427f80",
             "feed": "lokmat",
-            "title": "तुळजाईच्या रुपात असलेल्या या चिमुकलीला ओळखलं का? ब्लॉकबस्टर सिनेमात केलंय काम",
+            "title": "राजकुमार रावच्या 'प्रहार'ची रिलीज डेट बदलली; आता 'या' तारखेला प्रदर्शित होणार चित्रपट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-13T13:33:50",
-            "url": "https://www.lokmat.com/filmy/photos/television/aai-tulajabhawani-colors-marathi-serial-child-artist-sanchi-bhoyar-photos-a-a971/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sanchi-bhoyar-tulajabhawani-2_2026081762283.jpg",
+            "published": "2026-08-13T15:09:07",
+            "url": "https://www.lokmat.com/filmy/bollywood/rajkummar-rao-prahaar-release-date-changed-now-it-will-be-released-on-16-october-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rajkummar-rao-prahaar-release-date-changed-now-it-will-be-released-on-16-october_2026081762372.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "aedc2d4809e3",
+            "id": "41a1d74a860f",
             "feed": "lokmat",
-            "title": "\"माझी अवस्था मोलकरणीसारखी केली होती...\"; पतीला जिवंत पुरण्याचा कट रचणाऱ्या पत्नीचा खुलासा",
+            "title": "\"मला तिचे बॉयफ्रेंड आवडत नाहीत...\", लेकीच्या अफेअर्सबद्दल स्पष्टच बोलले संजय जाधव, म्हणाले- \"जेव्हा ते घरी यायचे...\"",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-13T13:28:36",
-            "url": "https://www.lokmat.com/crime/baramati-crime-i-was-treated-like-a-maid-wife-reveals-she-plotted-to-bury-husband-alive-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-baramati-wife-revels_2026081762260.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3cf6eb7d5594",
-            "feed": "esakal",
-            "title": "Horoscope: अचानक मिळते मोठी संधी; ‘या’ ४ राशींच्या आयुष्यात येऊ शकतो मोठा ट्विस्ट",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-13T13:28:20",
-            "url": "https://www.esakal.com/culture-and-religion/lucky-4-zodiac-signs-sudden-opportunity-big-twist-life-money-gain-career-growth-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/g47j7q1n/horoscope-3.jpg",
+            "published": "2026-08-13T15:06:56",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/sanjay-jadhav-spoke-about-his-daughter-dhriti-affairs-said-i-dont-like-them-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sanajay-jadhav-on-daugter-1_2026081762369.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "7e7c8310a6b7",
+            "feed": "lokmat",
+            "title": "इराण-अमेरिका युद्धाचा काळ, अन् हिटलरची युद्धनौका पाण्यातून बाहेर आली...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-13T14:38:15",
+            "url": "https://www.lokmat.com/photos/international/el-nino-danube-river-water-level-drops-hitler-nazi-warships-found-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jermani-heatler-hitler-warship-danube-river-water_2026081762253.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "77653af19f5f",
             "feed": "lokmat",
@@ -228,54 +244,38 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-12/f7eeft7n/Abhi-97.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "94486c253a1d",
-            "feed": "maharashtratimes",
-            "title": "मार्क झुकरबर्ग यांचा अमेरिकेला इशारा; AI रेसमध्ये चीनला हरवायचे असेल, तर ओपन-सोर्स हाच एकमेव पर्याय",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-12T18:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/mark-zuckerberg-urges-us-to-decentralize-ai-control-and-embrace-open-source-to-outpace-china/articleshow/133179547.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "9f988915e8bf",
+            "id": "e035fe2c1250",
             "feed": "lokmat",
-            "title": "AUS vs BAN : ५५ धावांत ६ विकेट्स! बांगलादेशच्या हसन महमूदचा कहर; ऑस्ट्रेलियाचं कंबरडं मोडलं",
+            "title": "Mitchell Starc: मिचेल स्टार्कची ‘स्पार्क’ कामगिरी, डावखुऱ्या गोलंदाजांमध्ये ठरला नंबर १, कपिल देव यांच्याही विक्रमाशी बरोबरी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-13T13:06:09",
-            "url": "https://www.lokmat.com/cricket/news/aus-vs-ban-1st-test-hasan-mahmud-claims-six-wickets-bangladesh-bowl-australia-out-for-198-in-darwin-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aus-vs-ban-1st-test-hasan-mahmud-claims-six-wickets-bangladesh-bowl-australia-outm-1_2026081762255.jpg",
+            "published": "2026-08-13T14:54:06",
+            "url": "https://www.lokmat.com/cricket/news/aus-vs-ban-mitchell-starc-spark-performance-became-number-1-among-left-handed-bowlers-equaled-kapil-dev-record-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mitchell-starc-2_2026081762349.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b7e851d14e9c",
-            "feed": "lokmat",
-            "title": "\"लिओ या कठीण काळात ...\",मेस्सीवर कोसळला दुःखाचा डोंगर; ख्रिस्तियानो रोनाल्डोने शेअर केली भावनिक पोस्ट",
+            "id": "b30a56aa8718",
+            "feed": "esakal",
+            "title": "AUS vs BAN 1st Test: बांगलादेशचे निर्विवाद वर्चस्व; पण, मिचेल स्टार्कने नोंदवला वर्ल्ड रेकॉर्ड, ऑस्ट्रेलियन गोलंदाज 'डाव्यां'मध्ये सरस",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-13T12:39:39",
-            "url": "https://www.lokmat.com/football/leo-i-wish-you-and-your-family-well-during-this-difficult-time-messi-is-overwhelmed-with-grief-cristiano-ronaldo-shares-emotional-post-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/leonel-messi-ronaldo-social-media-post_2026081762206.jpg",
+            "published": "2026-08-13T14:31:41",
+            "url": "https://www.esakal.com/krida/cricket/aus-vs-ban-1st-test-bangladesh-dominate-australia-but-mitchell-starc-creates-test-history-breaks-rangana-heraths-record-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/ww8eknnq/Mitchell-Starc-breaks-Rangana-Herath’s-Test-record",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -298,52 +298,52 @@
     ],
     "business": [
         {
-            "id": "3ce43319c76c",
+            "id": "41e2d7464e66",
+            "feed": "maharashtratimes",
+            "title": "8th Pay Commission लागू व्हायला 2027 पर्यंत प्रतीक्षाच करावी लागणार; केव्हा वाढीव पगार मिळणार? सरकारने संसदेत दिली माहिती",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-13T15:04:10",
+            "url": "https://maharashtratimes.com/business/business-news/will-8th-pay-commission-submit-their-report-before-may-2027-centre-clarifies-18-month-deadline/articleshow/133205637.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "aedfbb49ddac",
             "feed": "lokmat",
-            "title": "तुकाराम मुंढे यांच्या कारवाईचा दणका: वाचा दुधासह दही, तूप आणि पनीरच्या दरांत किती रुपयांची वाढ?",
+            "title": "तळोदा तालुक्यातील धनपूर तीन दिवसांपासून ओव्हरफ्लो; निजरा नदीच्या पात्रात पूरस्थिती निर्माण होण्याची शक्यता",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-13T13:31:12",
-            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/the-impact-of-tukaram-mundhes-action-read-how-much-has-the-price-of-milk-curd-ghee-and-paneer-increased-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/milk-based-product-price-hike_2026081762169.jpeg",
+            "published": "2026-08-13T15:00:18",
+            "url": "https://www.lokmat.com/agriculture/weather/dhanpur-in-taloda-taluka-has-been-overflowing-for-three-days-there-is-a-possibility-of-flood-situation-in-the-nijra-river-bed-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-u-dhanpur-dam-water_2026081762275.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "45ed8dd6bbd1",
+            "id": "3625a2a6077c",
             "feed": "lokmat",
-            "title": "विदर्भाच्या 'या' जिल्ह्यात आढळली अनोख्या रंगाची दुर्मिळ लुसिस्टिक टिटवी; वाचा सविस्तर",
+            "title": "Groww नं जुलैमध्ये पुन्हा मारली बाजी, Zerodha ची खाती झाली कमी; ब्रोकरेज बाजारात कोणाचं वर्चस्व?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "business"
             },
-            "published": "2026-08-13T13:20:47",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/a-rare-luscious-tit-with-a-unique-color-was-found-in-ya-district-of-vidarbha-read-in-detail-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-u_2026081762209.jpeg",
+            "published": "2026-08-13T14:57:19",
+            "url": "https://www.lokmat.com/business/stock-market/groww-wins-again-in-july-zerodhas-accounts-decrease-who-dominates-the-brokerage-market-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/groww-vs-zerodha-1_2026081762357.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "c64a8192e4a6",
-            "feed": "esakal",
-            "title": "Vijay Mallya News: मल्ल्या-बँकांमधील वाद संपवण्याची गरज! मुंबई हायकोर्टाचे मोठे निरीक्षण; काय म्हणाले कोर्ट?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-13T13:16:12",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/vijay-mallya-news-bombay-high-court-bank-recovery-dispute-sbi-consortium-ed-property-recovery-update-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/to7qaf53/Copy-of-Copy-of-banner-2026-08-13T130910.992.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         }
     ]
 }
