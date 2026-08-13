@@ -1,88 +1,136 @@
 {
-    "lastUpdated": "13-08-2026 | 09:20 PM IST",
+    "lastUpdated": "13-08-2026 | 10:15 PM IST",
     "maharashtra": [
         {
-            "id": "42693bf3350f",
+            "id": "08a9aee7d6ff",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : पुण्यात बायोगॅस प्रकल्पासाठी १७० कोटींचा वाढीव खर्च?",
+            "title": "दोन दिवस, ९ संघटनात्मक जिल्हे अन् ‘मिशन नागपूर पदवीधर’; भाजपची निवडणुकीसाठी जोरदार तयारी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-13T21:16:01",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-13th-august-2026-parliament-monsoon-session-justice-yashwant-varma-case-air-india-pilot-incidents-tata-sons-leadership-changes-n-chandrasekaran-weather-monsoon-alerts-independence-day-monsoon-rain-alerts-maratha-reservation-manoj-jarange-patil-activity-politics-sir-electoral-roll-updates-shivsena-eknath-shinde-uddhav-thackeray-raj-thackeray-ymk86-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-29/8j2n459j/sandeep-shirguppe-2026-03-29T073756.918.jpg",
+            "published": "2026-08-13T21:57:43",
+            "url": "https://www.esakal.com/vidarbha/nagpur/bjp-steps-up-preparations-for-nagpur-graduate-constituency-polls-ravindra-chavan-leads-vidarbha-tour-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/b84iv037/Nagpur-Graduate-Constituency-Election.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3febd7278c45",
+            "id": "6824f6bc33b7",
+            "feed": "maharashtratimes",
+            "title": "Nagpur News : नागपूर पदवीधर मतदारसंघासाठी भाजपने कंबर कसली, प्रदेशाध्यक्ष रविंद्र चव्हाण यांच्या बैठकांचा धडाका",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-13T21:49:53",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-graduate-constituency-election-bjp-fielding-begins-with-ravindra-chavan-meetings/articleshow/133218522.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c98d1c9fea7a",
+            "feed": "lokmat",
+            "title": "सांगली जिल्ह्यात दोन एसटी बसचा मोठा अपघात; अनेक जण जखमी, खानापूर तालुक्यातील रेणावी घाटातील दुर्घटना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-13T21:28:33",
+            "url": "https://www.lokmat.com/sangli/major-accident-involving-two-st-buses-in-sangli-district-many-injured-accident-at-renavi-ghat-in-khanapur-taluka-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sangli-accident-news-1_2026081762692.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "e142d3955684",
+            "feed": "maharashtratimes",
+            "title": "Sukhbir Singh Badal: पंजाबच्या माजी उपमुख्यमंत्र्यांवर हल्ला करणारा आरोपी मूळचा पुण्याचा, पुणे न्यायालयात होता वकील",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-13T21:25:03",
+            "url": "https://maharashtratimes.com/maharashtra/nanded/accused-resident-of-pune-who-attack-on-sukhbir-singh-badal-in-nanded/articleshow/133217656.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8ceb62b540b9",
             "feed": "esakal",
-            "title": "Snake in Railway : पुणे-दानापूर एक्सप्रेस मध्ये साप; प्रवाशांमध्ये घबराट",
+            "title": "Biogas Project : बायोगॅस प्रकल्पासाठी १७० कोटींचा वाढीव खर्च? - ठेकेदाराला दर कमी करण्यासाठी दिले पत्र",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-13T21:06:43",
-            "url": "https://www.esakal.com/pune/snake-spotted-on-pune-danapur-express-panic-among-passengers-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/tju6zbrm/Snake-in-pune-danapur-express",
+            "published": "2026-08-13T21:24:41",
+            "url": "https://www.esakal.com/pune/rupees-170-crore-additional-cost-for-biogas-project-contractor-asked-to-reduce-rates-pune-municipal-corporation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/eshtjlug/Biogas-Project",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "71a6879f318f",
-            "feed": "esakal",
-            "title": "Blinkit-Zepto वरून सामान मागवलं... पण मॅन्युफॅक्चरिंग डेटच गायब! आता काय करायचं? तुकाराम मुंढेंनी सांगितला उपाय",
+            "id": "4e7b41a3f5d0",
+            "feed": "maharashtratimes",
+            "title": "UPI Payments MDR Charges: Modi Government कडे दोनच पर्याय, खर्च भागवण्यासाठी DFS च्या अहवाल गुपीत",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
             },
-            "published": "2026-08-13T20:58:29",
-            "url": "https://www.esakal.com/maharashtra/blinkit-zepto-food-safety-row-what-if-manufacturing-date-is-missing-tukaram-mundhe-explains-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/kfevyux0/Blinkit-Zepto-Customers-Take-Note-Tukaram-Mundhe’s-Advice-on-Missing-Manufacturing-Dates.jpg",
+            "published": "2026-08-13T21:59:36",
+            "url": "https://maharashtratimes.com/video/mt-originals/upi-payments-mdr-reintroduction-high-value-transactions-2026-department-of-financial-services-response/videoshow/133218798.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         },
         {
-            "id": "f0428882155c",
+            "id": "62f3dddbaa14",
             "feed": "esakal",
-            "title": "Pune News : पथ विभागाच्या कामांची होणार पोलखोल? महापौरांनी मागितला आठ दिवसात अहवाल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T20:54:00",
-            "url": "https://www.esakal.com/pune/road-departments-works-be-exposed-mayor-manjusha-nagpure-seeks-report-within-eight-days-potholes-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/3wbbd8lm/Pune-Mayor-Manjusha-Nagpur",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0ccac2ee2a85",
-            "feed": "esakal",
-            "title": "Premium|Keychain Collection : असावा एखादा छंद...",
+            "title": "औरंगजेबाच्या ‘या’ निर्णयामुळे मुघल साम्राज्य संपलं?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-13T20:30:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/keychain-collection-prasad-mahashabde-pune-engineer-unique-hobby-radio-pen-lighter-glass-raincoat-35-years-collection-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/eeldknmg/Abhi-2026-08-09T185128.941.jpg",
+            "published": "2026-08-13T21:31:03",
+            "url": "https://www.esakal.com/ampstories/web-story/aurangzeb-decisions-mughal-empire-decline-deccan-campaign-jizya-maratha-resistance-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/8q1lu3gw/Aur-8.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "india": [
+            "category_reason": "default"
+        },
+        {
+            "id": "12b4950e4a05",
+            "feed": "lokmat",
+            "title": "अमेरिका - इराण युद्धात भारताने मोठी संधी गमावली, इंदिरा गांधी असत्या तर...; राहुल गांधींचे टीकास्त्र",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-13T21:24:52",
+            "url": "https://www.lokmat.com/national/india-lost-a-big-opportunity-in-the-us-iran-war-if-indira-gandhi-had-been-there-rahul-gandhis-criticism-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahul-gandhi-congress-maharashtra-1_2026081762684.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "e80931a19d14",
             "feed": "maharashtratimes",
@@ -114,54 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-13/nbs5t8yf/Latest-Marathi-Breaking-News-2026-08-13T205141.776.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "460f1f970e14",
-            "feed": "lokmat",
-            "title": "आधी लूट केली, मग तीन प्लेट बिर्याणी खाल्ली, पण एक चूक नडली, दोन आरोपी सापडले पोलिसांच्या जाळ्यात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-13T20:52:17",
-            "url": "https://www.lokmat.com/national/first-they-looted-then-they-ate-three-plates-of-biryani-but-one-mistake-was-not-made-two-accused-were-caught-in-the-police-net-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arrest-2555009877_201911331431.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5bbf65019666",
-            "feed": "maharashtratimes",
-            "title": "Tukaram Mundhe : 'माधुरी दीक्षितचं लग्न झालं अन् माझा मित्र रडायला लागला', तुकाराम मुंढेंनी सांगितला मजेदार किस्सा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-13T20:37:25",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/tukaram-mundhe-friend-cried-after-madhuri-dixit-marriage/articleshow/133216542.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "fa35c38b54cb",
-            "feed": "lokmat",
-            "title": "VIDEO: पश्चिम बंगालमध्ये थरार! स्टीअरिंग फेल झालेले मालवाहू जहाज थेट किनाऱ्यावर आदळले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-13T20:11:09",
-            "url": "https://www.lokmat.com/national/147m-singapore-vessel-crashes-into-bengal-ferry-terminal-major-disaster-averted-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/diamond-harbour-accident_2026081762668.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
