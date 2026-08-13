@@ -1,186 +1,170 @@
 {
-    "lastUpdated": "13-08-2026 | 04:23 PM IST",
+    "lastUpdated": "13-08-2026 | 05:09 PM IST",
     "maharashtra": [
         {
-            "id": "29cba9fc459d",
-            "feed": "maharashtratimes",
-            "title": "Nashik Traffic: नाशिककरांसाठी महत्त्वाचे! श्रावणानिमित्त रामकुंडालगत प्रवेश बंद; पर्यायी मार्गाने वाहतूक, पोलिसांची अधिसूचना जारी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T16:16:50",
-            "url": "https://maharashtratimes.com/maharashtra/nashik/nashik-ramkund-entry-restricted-due-to-shravan-maas-traffic-diverted-to-alternative-routes-from-15-august-to-7-sept-2026/articleshow/133207320.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c82d6c2f6e92",
+            "id": "ae88e0f701a6",
             "feed": "lokmat",
-            "title": "कळमनुरीत 'शक्तीपीठ' मोजणी पथकाला शेतकऱ्यांनी पिटाळले, आमदार बांगर देखील मैदानात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-13T16:12:51",
-            "url": "https://www.lokmat.com/hingoli/hingoli-news-farmers-forcefully-stop-shaktipeeth-expressway-land-survey-in-kalamnuri-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shaktipeeth-mahamarga-kalamnuri-hingoli-fea_2026081762472.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ac2f40c630be",
-            "feed": "lokmat",
-            "title": "मुख्यमंत्र्यांच्या कार्यक्रमाला दांडी, भाजपच्या ३९ नगरसेवकांना नोटीस",
+            "title": "Top Marathi News Live: माझ्यावर टीका करून न्याय मिळत असेल तर जरांगेंनी खुशाल टिंगल टवाळी करावी - बावनकुळे",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-13T16:08:21",
-            "url": "https://www.lokmat.com/nagpur/absent-in-chief-ministers-program-notices-issued-to-39-bjp-corporators-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-16_2026081762467.png",
+            "published": "2026-08-13T16:59:12",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-13-august-2026-parliamanet-session-amit-shah-may-speak-on-cjp-protest-pm-narendra-modi-rahul-gandhi-cm-devendra-fadnavis-us-iran-tensions-donald-trump-fda-tukaram-mundhe-rain-updates-shiv-sena-case-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/img-20260131-wa0033_2026081762043.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
             "id": "42693bf3350f",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : २०१८ च्या भागामध्ये कोणताही महत्त्वपूर्ण बदल झालेला नाही - सरन्यायाधीश",
+            "title": "Latest Marathi News Live Update : कुणबी प्रमाणपत्राच्या मुद्द्यावरुन चौकशी लावली- बावनकुळे",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-13T16:06:03",
+            "published": "2026-08-13T16:51:14",
             "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-13th-august-2026-parliament-monsoon-session-justice-yashwant-varma-case-air-india-pilot-incidents-tata-sons-leadership-changes-n-chandrasekaran-weather-monsoon-alerts-independence-day-monsoon-rain-alerts-maratha-reservation-manoj-jarange-patil-activity-politics-sir-electoral-roll-updates-shivsena-eknath-shinde-uddhav-thackeray-raj-thackeray-ymk86-snk89",
             "image": "https://cf-images.assettype.com/esakal/2026-03-29/8j2n459j/sandeep-shirguppe-2026-03-29T073756.918.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9bcdc37501f1",
+            "id": "51c568de6866",
             "feed": "lokmat",
-            "title": "कुंभमेळ्याच्या खोट्या वर्कऑर्डरवर आयुक्तांची बनावट सही अन् शिक्का; तरुणाला ३ कोटींचा गंडा",
+            "title": "अमरावती विद्यापीठात १३ असोशिएट प्रोफेसर पदांसाठी १८७ अर्ज; राज्यासह देशभरातून उमेदवार स्पर्धेत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-13T16:49:30",
+            "url": "https://www.lokmat.com/amravati/187-applications-for-13-associate-professor-posts-at-amravati-university-candidates-from-across-the-state-and-the-country-are-competing-a-a782-c1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-17_2026081762526.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "0a50a5e35395",
+            "feed": "maharashtratimes",
+            "title": "Rahul Narwekar | Manoj Jarange यांच्या टीकेवर प्रत्यूत्तर, Sanjay Raut यांच्या वक्तव्याची खिल्ली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-13T16:01:46",
-            "url": "https://www.lokmat.com/nashik/three-crore-rupees-were-embezzled-by-giving-fake-work-orders-for-kumbh-mela-two-arrested-from-jalgaon-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nashik-kumbh-mela-tender-fraud_2026081762445.jpg",
+            "published": "2026-08-13T16:48:20",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/rahul-narwekar-criticizes-manoj-jarange-patil/videoshow/133210010.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1ed6d5b40584",
+            "feed": "esakal",
+            "title": "Farmer Scheme: सात हजार शेतकऱ्यांचा सात-बारा कोरा, ४५ कोटींचे अनुदान जिल्हा बँकेत जमा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-13T16:47:24",
+            "url": "https://www.esakal.com/mumbai/punyashlok-ahilyadevi-holkar-farm-loan-waiver-scheme-12000-farmers-eligible-from-thane-and-palghar-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-03/ivo8xjsy/Kadegaon-farmer-loan-waiver-scheme-2026-beneficiary-list",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "f94e4dbd25dd",
+            "id": "a16094cb7e60",
             "feed": "maharashtratimes",
-            "title": "Pitbull Attack: माझ्या पूर्ण अंगाला टाके पडले, बायको ICU मध्ये; पिटबुलचा हल्ला, जखमी अंकितनं आपबिती सांगितली",
+            "title": "Parliament Monsoon Session मध्ये Public Tax Money बरबाद, गोंधळामुळे 175 crore Rupees चं मोठं नुकसान",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-13T16:21:16",
-            "url": "https://maharashtratimes.com/india-news/couple-who-went-to-see-house-for-rent-injured-in-pitbull-attack-in-punjab/articleshow/133208691.cms",
+            "published": "2026-08-13T17:08:05",
+            "url": "https://maharashtratimes.com/video/mt-originals/parliament-monsoon-session-ends/videoshow/133210517.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "12b4ff3bfb7d",
+            "id": "f44231fda1b0",
             "feed": "lokmat",
-            "title": "‘आवारापन-२’ने प्रदर्शनाआधीच कमावले कोट्यवधी; इमरान हाश्मीचा चित्रपट ठरणार ब्लॉकबस्टर?",
+            "title": "Ravi Kishan : “ना बाहेर पडतील, ना व्हायरल होतील”, रवी किशन यांना घरातच लॉक करू इच्छिते पत्नी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-13T16:20:40",
-            "url": "https://www.lokmat.com/filmy/bollywood/awarapan-2-movie-advance-booking-update-emraan-hashmi-film-set-for-massive-start-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/emraan-hashmi-1_2026081762480.jpg",
+            "published": "2026-08-13T17:00:28",
+            "url": "https://www.lokmat.com/social-viral/ravi-kishan-reveals-his-wife-wants-him-to-lock-in-room-amid-his-viral-reels-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ravi-kishan-wife_2026081762541.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "8781b540f909",
+            "id": "d755b78aaf57",
             "feed": "lokmat",
-            "title": "कंगना राणौतच्या 'या' सिनेमात साई पल्लवी होती ज्युनिअर आर्टिस्ट, ओळखलंत का?",
+            "title": "ऑफिस-डेली वेअरसाठी छोट्या मंगळसुत्राच्या युनिक डिझाइन्स, पाहा कमळ- मोर मंगळसुत्रांचे लेटेस्ट कलेक्शन फक्त ५०० रुपयांत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-13T16:14:49",
-            "url": "https://www.lokmat.com/filmy/south-movies/sai-pallavi-was-a-junior-artist-in-kangana-ranaut-s-movie-dham-dhoom-recognise-her-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kangana-sai_2026081762476.jpg",
+            "published": "2026-08-13T16:59:57",
+            "url": "https://www.lokmat.com/sakhi/photos/fashion/shravan-special-small-mangalsutra-designs-for-office-wear-daily-wear-small-mangalsutra-designs-unique-mangalsutra-designs-under-500-office-wear-mangalsutra-collection-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/modern-mangalsutra-designs-for-working-women_2026081760975.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "5831b2818a8b",
+            "id": "70ee51e04c13",
             "feed": "esakal",
-            "title": "Google Pixel 11 Series: गुगलचे ४ नवे फोन भारतात लाँच! खरेदीवर १० हजार कॅशबॅक; पाहा किमती, फीचर्स अन् ऑफर्स...",
+            "title": "केसांना मेहंदी लावावी का? जाणून घ्या सत्य",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-13T16:14:14",
-            "url": "https://www.esakal.com/sci-tech/google-pixel-11-series-launched-india-price-specs-pre-order-offers-cashback-fold-features-new-mobile-phone-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/jx1zfr93/google-pixel-11-.jpg",
+            "published": "2026-08-13T16:59:34",
+            "url": "https://www.esakal.com/ampstories/web-story/should-you-apply-henna-to-your-hair-know-the-pros-and-cons-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/8m0bu8hl/Henna-mehandi-Really-Good-for-Hair-8.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
         },
         {
-            "id": "8e0aa274da04",
+            "id": "b2f48532eff5",
             "feed": "lokmat",
-            "title": "NHAI: महामार्गावर अपघात झाल्यास १० मिनिटांत पोहोचा, नाही तर मोठा दंड भरा; रुग्णावाहिकेसाठी कडक नियम लागू",
+            "title": "\"मॅनेजर, बेच मारो इसको\"! गोविंदा स्टाइलमध्ये गौरव मोरेने बनवला भन्नाट रील; नेटकरी म्हणाले, \"घर दाखवण्याची निंजा टेक्निक\"",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": null
             },
-            "published": "2026-08-13T16:10:44",
-            "url": "https://www.lokmat.com/national/nhai-reach-within-10-minutes-in-case-of-an-accident-on-the-highway-otherwise-fine-of-rs-10000-strict-rules-for-ambulances-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nhai-new-ambulance-rules-on-national-highways_2026081762469.jpg",
+            "published": "2026-08-13T16:59:00",
+            "url": "https://www.lokmat.com/filmy/television/gaurav-more-recreates-govinda-comedy-scene-bech-maro-isko-waah-tera-kya-kehna-movie-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gaurav-more-recreates-govinda-comedy-scene-bech-maro-isko-waah-tera-kya-kehna-movie-2_2026081762540.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         }
     ],
     "world": [
-        {
-            "id": "a15c21e90363",
-            "feed": "lokmat",
-            "title": "बांगलादेशला आता भारतच वाचवू शकतो...! का आली रात्री ८ वाजताच लाइट बंदकरायची वेळ? नेमकं काय घडलं?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-13T15:28:20",
-            "url": "https://www.lokmat.com/international/bangladesh-energy-crisis-only-india-can-save-bangladesh-now-why-did-the-lights-have-to-be-turned-off-at-8-pm-what-exactly-happened-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dhjrfyu-2-1_2026081762407.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
         {
             "id": "644b254a29b8",
             "feed": "esakal",
@@ -212,25 +196,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-13/e94j3lda/america-1.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "30f4f0234619",
+            "id": "194cc0aefe81",
             "feed": "esakal",
-            "title": "Premium|Study Room : युद्ध, नैतिकता आणि मानवतेवरील संकट",
+            "title": "Vaibhav Sooryavanshi : भल्याभल्या गोलंदाजांना घाम फोडणाऱ्या वैभवला कसा रोखणार? हरभजनने सांगितलं गेमप्लॅन",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-08-12T19:24:21",
-            "url": "https://www.esakal.com/study-room/war-conflict-humanitarian-crisis-global-peace-human-cost-innocent-civilians-displacement-destruction-violence-ethics-international-relations-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-12/f7eeft7n/Abhi-97.jpg",
+            "published": "2026-08-13T17:08:06",
+            "url": "https://www.esakal.com/krida/cricket/how-to-dismiss-vaibhav-sooryavanshi-harbhajan-singh-reveals-attacking-masterplan-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/d21iina6/Harbhajan-Singh-Strategy-to-Dismiss-Vaibhav-Sooryavanshi.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "sports": [
+            "category_reason": "feed"
+        },
         {
             "id": "4343ff53604f",
             "feed": "maharashtratimes",
@@ -262,72 +246,56 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/harbhajan-singh-on-vaibhav-suryavanshi-1_2026081762414.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "b30a56aa8718",
-            "feed": "esakal",
-            "title": "AUS vs BAN 1st Test: बांगलादेशचे निर्विवाद वर्चस्व; पण, मिचेल स्टार्कने नोंदवला वर्ल्ड रेकॉर्ड, ऑस्ट्रेलियन गोलंदाज 'डाव्यां'मध्ये सरस",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-13T14:31:41",
-            "url": "https://www.esakal.com/krida/cricket/aus-vs-ban-1st-test-bangladesh-dominate-australia-but-mitchell-starc-creates-test-history-breaks-rangana-heraths-record-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/ww8eknnq/Mitchell-Starc-breaks-Rangana-Herath’s-Test-record",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "d3df438e3746",
-            "feed": "maharashtratimes",
-            "title": "Parliament Disruptions: सरकार-विरोधकांच्या गदारोळामुळे 175 कोटींचा चुराडा; करदात्यांचा घामाचा पैसा वाया",
+            "id": "67d6fc22ca21",
+            "feed": "lokmat",
+            "title": "Cotton Pest Mangement : कापसावर मावा-पांढरी माशीचा हल्ला? ही 'मित्र कीड' करणार नैसर्गिक सफाई",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-13T16:47:08",
+            "url": "https://www.lokmat.com/agriculture/smart-farming/latest-news-cotton-pest-management-aphids-and-whiteflies-attack-cotton-this-friendly-insect-will-do-the-natural-cleaning-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cotton-pest-1_2026081762520.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "061a993799d2",
+            "feed": "lokmat",
+            "title": "बँक ऑफ बडोदा अन् कॅनरा बँकेचा ग्राहकांना मोठा झटका! व्याजदरात केले मोठे बदल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-13T16:16:45",
-            "url": "https://maharashtratimes.com/business/business-news/monsoon-session-parliament-adjournments-washout-explained-175-6-crore-taxpayers-money-loss/articleshow/133208641.cms",
-            "image": "",
+            "published": "2026-08-13T16:39:24",
+            "url": "https://www.lokmat.com/photos/business/bank-of-baroda-and-canara-bank-deal-a-big-blow-to-their-customers-major-changes-in-interest-rates-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-of-badoda_2026081762496.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "430bc304822e",
-            "feed": "lokmat",
-            "title": "उजनी धरणातील अतिरिक्त पाणी एकरुख योजनेद्वारे कुरनूर धरणात सोडले; ५२ गावांचा पाण्याचा प्रश्न सुटणार",
+            "id": "d6b1d3e6a9ff",
+            "feed": "esakal",
+            "title": "Inflation: महागाईचा पुन्हा भडका! आले-लसूण अन् कांद्याने वाढवल्या चिंता; कोणत्या राज्यात महागाई सर्वाधिक? ग्रामीण भागाला मोठा फटका?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-13T16:14:49",
-            "url": "https://www.lokmat.com/agriculture/weather/excess-water-from-ujani-dam-released-into-kurnoor-dam-through-ekrukh-yojana-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ku_2026081762466.png",
+            "published": "2026-08-13T16:36:26",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/inflation-july-2026-india-retail-inflation-ginger-garlic-onion-price-highest-state-rural-inflation-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/c5fw30w5/Copy-of-Copy-of-banner-2026-08-13T162934.376.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d9f26695ef29",
-            "feed": "lokmat",
-            "title": "दुर्गम आदिवासी पाड्यांपर्यंत औषधे पोहोचविण्यासाठी आता १५ ऑगस्टपासून सुरु होणार 'मिशन ड्रोन'",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-13T16:10:10",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/mission-drone-to-begin-from-august-15-to-deliver-medicines-to-remote-tribal-villages-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/u-34-mission-drone-nashik_2026081762385.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         }
     ]
 }
