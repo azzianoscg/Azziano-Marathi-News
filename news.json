@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "13-08-2026 | 11:20 PM IST",
+    "lastUpdated": "14-08-2026 | 12:18 AM IST",
     "maharashtra": [
+        {
+            "id": "fcfa2d8e163a",
+            "feed": "esakal",
+            "title": "बोरामणीत दिराने केला वहिनी, पुतण्या, पुतणीचा खून! पोलिसांनी दाखल केले २८० पानांचे दोषारोपपत्र; मृत शिवराजच्या शरीरावर ४९ अन्‌ मायलेकीच्या शरीरावर १९ जखमा, वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T00:15:00",
+            "url": "https://www.esakal.com/maharashtra/in-boramani-a-man-murdered-his-sister-in-law-nephew-and-niece-following-a-property-dispute-police-have-filed-a-280-page-charge-sheet-the-body-of-the-deceased-shivraj-bore-49-wounds-while-the-bodies-of-the-mother-and-daughter-had-19-wounds",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/581hqknv/SolapurMain2026-05-0313.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "cc285f2128f4",
+            "feed": "lokmat",
+            "title": "५० हजारांची लाच घेताना आरटीओतील कथित दलाल जाळ्यात, नागपूर ग्रामीण आरटीओत भूकंप",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T00:10:30",
+            "url": "https://www.lokmat.com/nagpur/alleged-broker-in-rto-caught-in-a-trap-while-taking-a-bribe-of-rs-50000-earthquake-in-nagpur-rural-rto-a-a877-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bribe-case_202111722702.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "716fad64f4d7",
+            "feed": "esakal",
+            "title": "तमिळनाडूतील छत्री गॅंगचा पर्दाफाश! एक कारची काच फोडायचा, दुसरा चोरी करायचा अन्‌ बाकीचे पाळत ठेवायचे; सोलापूर फौजदार चावडी पोलिसांनी २५०० किमी प्रवास केला, पण ७ जणांना शोधलेच, वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-13T23:58:00",
+            "url": "https://www.esakal.com/maharashtra/tamil-nadus-umbrella-gang-busted-a-feat-by-the-faujdar-chavdi-police-in-solapur-one-would-smash-the-car-window-another-would-keep-watch-and-the-third-would-commit-the-theftread-on",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/m97tf358/IMG20260813185142-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "6b641bfa831a",
             "feed": "esakal",
@@ -32,57 +80,73 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "191163cedc19",
-            "feed": "esakal",
-            "title": "Sangli Accident: रेणावी घाटात काळाचा घाला! दोन एसटी बस समोरासमोर धडकल्या, तीन जणांचा मृत्यू, काही जखमी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T22:38:50",
-            "url": "https://www.esakal.com/maharashtra/sangli-st-bus-accident-three-dead-after-two-buses-collide-at-renavi-ghat-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/aevggz8w/Sangli-ST-Bus-Accident.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d98eeca906a1",
-            "feed": "esakal",
-            "title": "Onion Rate : मंचर बाजार समितीत कांद्याला दहा किलोस मिळाला ४११ रुपये उच्चांकी बाजार भाव",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T22:38:04",
-            "url": "https://www.esakal.com/pune/onion-prices-hit-record-high-of-rupees-411-per-10-kg-at-manchar-market-committee-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/g3dttyzb/Onion-Prices-Hit-Record-High-at-Manchar-Market-Committee",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "05977ad7ed20",
-            "feed": "maharashtratimes",
-            "title": "Gulabrao Patil : मी भोळा नाही, अन्यथा भाजपवाल्यांनी मला खाऊन टाकले असते, गुलाबराव पाटलांचा मिश्किल टोला",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-13T22:33:59",
-            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/minister-gulabrao-patil-slams-bjp-in-jalgaon-program/articleshow/133219078.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "d0511700ca3d",
+            "feed": "lokmat",
+            "title": "कोलकात्यात पुन्हा धक्कादायक घटना, रुग्णालयाच्या टॉयलेटमध्ये नर्सचा मृतदेह सापडल्याने खळबळ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-14T00:01:59",
+            "url": "https://www.lokmat.com/national/another-shocking-incident-in-kolkata-a-nurses-body-found-in-a-hospital-toilet-causing-a-stir-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/west-bengal-crime-news-1_2026081762714.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2e0a6d2d8bee",
+            "feed": "esakal",
+            "title": "त्वचा चमकदार ठेवण्यासाठी आयुर्वेदात सांगितलेल्या 7 सवयी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-13T23:42:46",
+            "url": "https://www.esakal.com/ampstories/web-story/ayurvedic-skincare-habits-for-glowing-healthy-skin-daily-routine-natural-skin-care-tips-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/6os9e5fh/1.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "05825ffbc596",
+            "feed": "lokmat",
+            "title": "Shravan: नागपंचमी, रक्षाबंधन, जन्माष्टमी कधी? जाणून घ्या श्रावणातील सणांची तारखेनुसार संपूर्ण यादी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-13T23:42:06",
+            "url": "https://www.lokmat.com/photos/bhakti/shravan-month-festival-list-when-are-nag-panchami-raksha-bandhan-janmashtami-know-the-complete-list-of-festivals-in-shravan-by-date-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shravan-festival-3_2026081762702.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "ecc851f9e530",
+            "feed": "lokmat",
+            "title": "Independence Day 2026 : पांढऱ्या किंवा ऑफ व्हाईट साडीवर सुंदर दिसतात ७ रंगाचे ब्लाऊज; स्वातंत्र्यदिनाला परफेक्ट लूक येईल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-13T23:37:24",
+            "url": "https://www.lokmat.com/sakhi/photos/shopping/independence-day-2026-7-color-blouse-which-suit-on-off-white-and-white-saree-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-13-at-5.17.20-pm_2026081762698.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "550e980c960d",
             "feed": "maharashtratimes",
@@ -98,70 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "3103b5f65d04",
-            "feed": "lokmat",
-            "title": "रुग्णाच्या फ्रॅक्चर पायाला प्लास्टरऐवजी दिला पुठ्ठ्याचा आधार, केडीएमसीच्या रुक्मिणीबाई रुग्णालयातील धक्कादायक प्रकार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-13T22:43:29",
-            "url": "https://www.lokmat.com/kalyan-dombivli/shocking-incident-at-kdmcs-rukminibai-hospital-patients-fractured-leg-given-cardboard-support-instead-of-plaster-a-a855-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kdmc-hospital-1_2026081762696.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "f1a48f60440e",
-            "feed": "lokmat",
-            "title": "कल्याणच्या बल्याणी भागात लेप्टोस्पायोरिसचा एक संशयित रुग्ण, खाजगी रुग्णालयात उपचार सुरू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-13T22:36:28",
-            "url": "https://www.lokmat.com/kalyan-dombivli/a-suspected-leptospirosis-patient-is-undergoing-treatment-in-a-private-hospital-in-balyani-area-of-kalyan-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hospitals-in-nag_202005427696.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "fc5d41ce53fa",
-            "feed": "lokmat",
-            "title": "उत्तराखंडमध्ये मोठी दुर्घटना, चमोलीत निर्माणाधीन बोगदा खचला, अनेक कामगार अडकले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-13T22:33:31",
-            "url": "https://www.lokmat.com/national/chamoli-pipalkoti-thdc-tunnel-collapse-major-accident-in-uttarakhand-tunnel-under-construction-in-chamoli-collapses-many-workers-trapped-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chamoli-pipalkoti-thdc-tunnel-collapse-1_2026081762694.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "11b4fc20d743",
-            "feed": "esakal",
-            "title": "कॅब लवकर हवी? आता आधीच टिप देण्याचा खेळ संपला! सरकारचा Uber-Ola ला मोठा आदेश",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-13T22:25:47",
-            "url": "https://www.esakal.com/desh/want-cab-faster-no-more-advance-tips-government-issues-big-order-to-uber-ola-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/ahy6atds/Uber-Ola-Must-Remove-Pre-Ride-Tip-Option-Passengers-Can-Tip-After-the-Ride.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
