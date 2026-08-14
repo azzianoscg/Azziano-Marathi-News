@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "14-08-2026 | 09:26 AM IST",
+    "lastUpdated": "14-08-2026 | 10:55 AM IST",
     "maharashtra": [
         {
-            "id": "4d4e61346809",
-            "feed": "esakal",
-            "title": "Chhatrapati Sambhajinagar Traffic Issue: पाइपलाइनच्या कामामुळे क्रांती चौक जाम; वाहनांच्या लांबच लांब रांगा लागल्याने नागरिकांचे मोठे हाल",
+            "id": "08f6c84a874d",
+            "feed": "lokmat",
+            "title": "Top Marathi News LIVE Updates: महाराष्ट्रात पुन्हा पाऊस बरसणार! IMDचा पुढील ४ आठवड्यांचा अंदाज जाहीर",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
             },
-            "published": "2026-08-14T09:24:12",
-            "url": "https://www.esakal.com/marathwada/aurangabad/chhatrapati-sambhajinagar-kranti-chowk-traffic-jam-pipeline-repair-road-work-tiranga-yatra-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/3oqc7cdj/Abhi.jpg",
+            "published": "2026-08-14T10:51:00",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-14-august-2026-us-israel-iran-tensions-donald-trump-pm-narendra-modi-preperations-for-independence-day-shiv-sena-case-pakistan-jharkhand-protest-amit-shah-cm-devendra-fadnavis-tukaram-mundhe-rahul-gandhi-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "12e8320130ec",
+            "id": "7c9074f8b441",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : वीर धरणातून 5,737 क्युसेक पाण्याचा विसर्ग नीरा नदीपात्रात सुरू",
+            "title": "पुण्यातील बुधवार पेठेत सपना बिल्डिंगमध्ये पोलिसांचा छापा... समोर जे दिसलं ते धक्कादायक, २ जणांना अटक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T09:14:41",
+            "published": "2026-08-14T10:50:02",
+            "url": "https://www.esakal.com/pune/pune-budhwar-peth-police-raid-sapna-building-two-bangladeshi-women-rescued-two-accused-arrested-srk94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/4ihb4yby/Pune-Crime-Branch-Raids-Budhwar-Peth-2-Bangladeshi-Women-Rescued.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bb5ba980b933",
+            "feed": "esakal",
+            "title": "Gold Rate Today: सोन्याच्या भावात घसरण! स्वातंत्र्यदिनाआधी सलग दुसऱ्या दिवशी सोनं स्वस्त; पाहा ताजा भाव",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-14T10:47:30",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/gold-rate-today-gold-price-falls-second-day-before-independence-day-august-14-2026-maharashtra-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/6atmagvp/Copy-of-Copy-of-banner-2026-08-14T103922.341.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "12e8320130ec",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : पुणे जिल्ह्यात ८३,००० शेतकऱ्यांनी काढला पीक विमा; २३८ कोटी रुपयांचे मिळणार पीक विमा सुरक्षा कवच",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T10:46:31",
             "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-14-august-2026-maratha-reservation-manoj-jarange-chandrashekhar-bawankule-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-spb94",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f02e0c057968",
-            "feed": "maharashtratimes",
-            "title": "Pune Crime: कंबर दुखतेय, मुलंही जागी आहेत; पत्नीने संबंधांना नकार दिला, भडकलेल्या पतीचा थेट चाकूने हल्ला, पुण्यातील घटना",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T09:13:40",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/husband-in-pune-pimpri-attack-on-wife-over-back-pain-daughter-also-injured/articleshow/133228260.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "01609b32803e",
+            "id": "538c38daffb5",
             "feed": "esakal",
-            "title": "Koyna Dam Latest Update : कोयना पाणलोट क्षेत्रात धुवांधार! पाणीसाठा 96.65 टीएमसीवर; धरणातून तब्बल 8,054 क्युसेकने विसर्ग सुरू, महाबळेश्वरात किती पाऊस?",
+            "title": "Mumbai Tardeo Case: मटण-मच्छी खाता?, मुंबईत घर मिळणार नाही.... राजकारण तापलं",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-14T09:10:29",
-            "url": "https://www.esakal.com/satara/koyna-dam-water-storage-96-65-tmc-rainfall-update-koynanagar-navaja-mahabaleshwar-water-discharge-maharashtra-monsoon-news-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/rqjtx37n/Mahabaleshwar-rainfall-impact-on-Koyna-Dam",
+            "published": "2026-08-14T10:45:33",
+            "url": "https://www.esakal.com/videos/mumbai-tardeo-home-case-bhavesh-kavare-viral-video-creates-controversy-over-nonvegetarian-not-get-home-in-mumbai-knj93",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/aghgs42i/WhatsApp-Image-2026-08-14-at-10.32.22-AM.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bd87a717aa42",
-            "feed": "esakal",
-            "title": "Ahilyadevi Holkar: ऐतिहासिक विहिरींचे भाग्य उजळणार! अहिल्यादेवींच्या १८ विहिरींच्या संवर्धनासाठी पुढाकार; पुनर्बांधणीच्या कामाला वेग",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T09:03:26",
-            "url": "https://www.esakal.com/satara/ahilyadevi-holkar-historic-wells-in-shikhar-shingnapur-to-be-restored-as-conservation-work-begins-on-five-wells-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/1pb1qnxd/sudhir-jadhav-satara-5.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         }
     ],
     "india": [
         {
-            "id": "f4595b6deb7d",
+            "id": "a3f23f140423",
             "feed": "esakal",
-            "title": "अनिल कपूर-नाना पाटेकर पुन्हा एकत्र; ‘वेलकम’नंतर उदय-मजनूची कॉमेडी पुन्हा रंगणार, यावेळी झॉम्बींच्या दुनियेत धिंगाणा घालणार!",
+            "title": "Nauka Tiranga Yatra: भोपाळच्या तलावात देशातील पहिला 'फ्लोटिंग तिरंगा'; कयाकिंगच्या थरारक प्रात्यक्षिकांनी रंगली नौका तिरंगा यात्रा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-14T09:22:37",
-            "url": "https://www.esakal.com/premier/welcome-uday-shetty-majnu-bhai-anil-kapoor-nana-patekar-zombie-comedy-tiger-shroff-ahmed-khan-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/zl9dhhzf/ANIL-KAPOOR-AND-NANA-PATEKAR",
+            "published": "2026-08-14T10:53:53",
+            "url": "https://www.esakal.com/desh/bhopal-floating-tricolour-nauka-tiranga-yatra-bhojtal-kayaking-canoeing-independence-day-2026-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/ft1rlg7b/nauka-tiranga-yatra-bhopal-madhya-pradesh-cm-mohan-yadav.jpg.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "9e09d5c86443",
-            "feed": "lokmat",
-            "title": "‘लाउड बजेटिंग’- नाहीत माझ्याकडे पैसे, काय करता !",
+            "id": "e395da63918b",
+            "feed": "esakal",
+            "title": "UP तील महिलांना मिळणार ५० हजारांची मदत? निवडणुकीपूर्वी २० हजारांचा हप्ता देण्याचा प्रस्ताव",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-14T09:19:12",
-            "url": "https://www.lokmat.com/editorial/loud-budgeting-i-dont-have-money-what-are-you-doing-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/loud-budgeting_2026081762764.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "eb4bd10e676b",
-            "feed": "lokmat",
-            "title": "'टॉक्सिक'च्या शूटवेळी प्रेग्नंट होती कियारा अडवाणी, यश म्हणाला, \"आम्ही तिचे बॉडीगार्ड्स होतो पण ती...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T09:17:34",
-            "url": "https://www.lokmat.com/filmy/south-movies/kiara-advani-was-pregnant-during-the-shoot-of-toxic-yash-used-to-be-her-bodyguard-on-set-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yash-ki_2026081762760.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "bee272689271",
-            "feed": "lokmat",
-            "title": "नानाजी देशमुख : ग्रामविकासातून राष्ट्रनिर्मितीचा ध्यास",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T09:14:29",
-            "url": "https://www.lokmat.com/manthan/nanaji-deshmukh-a-passion-for-nation-building-through-rural-development-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nanaji-deshmukh_2026081762756.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "7fafcace42bf",
-            "feed": "maharashtratimes",
-            "title": "Sarang Sathaye : रद्दी विकून कमावले पैसे, 19 घरांमध्ये गेलं बालपण, फोटोतला चिमुरडा आहे आघाडीचा अभिनेता अन् कंटेट क्रिएटर, बायको परदेशी सुंदरी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-14T09:13:46",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sarang-sathaye-shared-about-childhood-and-first-income/articleshow/133227977.cms",
-            "image": "",
+            "published": "2026-08-14T10:47:32",
+            "url": "https://www.esakal.com/desh/up-women-50000-financial-assistance-proposal-20000-instalment-election-2026-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/e3vv3t7q/uttar-pradesh-women-50-thousand-rupees-help-from-cm-yogi-adityanath.jpg.jpeg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "281e8551272e",
+            "feed": "lokmat",
+            "title": "\"तुला कर्नाटकातून हाकलून देऊ...\", यशच्या 'टॉक्सिक' सिनेमाचा ट्रेलर पाहून भडकली अभिनेत्री",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T10:47:10",
+            "url": "https://www.lokmat.com/filmy/south-movies/actress-risheekaa-singh-slams-yash-after-watching-toxic-trailer-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yash-reeshika-singh-1_2026081762802.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "f91e0bd8c605",
+            "feed": "lokmat",
+            "title": "इंडियन फिल्म फेस्टिव्हल ऑफ मेलबर्नमध्ये राणी मुखर्जी यांचा सन्मान; अभिनयातील उत्कृष्टतेसाठी विशेष गौरव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T10:45:24",
+            "url": "https://www.lokmat.com/filmy/bollywood/rani-mukerji-honoured-at-indian-film-festival-of-melbourne-special-award-for-excellence-in-acting-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rani-award_2026081762801.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "6f0677da805e",
+            "feed": "lokmat",
+            "title": "वैभव मांगलेच्या लेकीला पाहिलंत का? १८व्या वर्षात पदार्पण, अभिनेत्याने पोस्टमधून दिला मोलाचा सल्ला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T10:44:43",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/vaibhav-mangles-daughter-turns-18-actor-shares-heartfelt-birthday-post-and-life-lessons-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vaibhav-mangle-daughter_2026081762799.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "64ec31cae830",
+            "feed": "lokmat",
+            "title": "“होर्मुझ मार्ग अनिश्चित काळापर्यंत बंद ठेवू शकतो, आमचे नौदल सक्षम”; अमेरिकेचा इराणला इशारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-14T10:01:46",
+            "url": "https://www.lokmat.com/international/our-navy-is-capable-of-closing-the-strait-of-hormuz-indefinitely-america-warns-iran-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trump-hormuz-strait-statement_2026041676969.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "1564299569bd",
             "feed": "lokmat",
@@ -228,122 +244,106 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-pm-threatens-indian-war-2_2026081762748.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "f544bc2d2afe",
-            "feed": "lokmat",
-            "title": "'पहिला अण्वस्त्र हल्ला दुर्दशाग्रस्त पाकिस्तानच करेल!'; दोन वेळा खऱ्या ठरलेल्या चिनी तज्ज्ञाची हादरवून टाकणारी भविष्यवाणी, भारत सतर्क",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-14T08:11:04",
-            "url": "https://www.lokmat.com/international/india-pakistan-war-chinese-expert-jiang-xueqin-predicts-pakistan-first-nuclear-attack-on-india-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jiang-xueqin-pakistan-nuclear-attack-prediction_2026081762735.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "b7075c2a74af",
-            "feed": "maharashtratimes",
-            "title": "BAN vs AUS Test : पहिल्याच दिवशी तोफखाना घेत उतरलेली ऑस्ट्रेलिया बांगलादेशविरूद्ध बॅकफूटवर पण भारताचं टेन्शन का वाढलं? जाणून घ्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-14T09:10:31",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/bangladesh-dominates-australia-in-first-day-test-worrying-news-for-india/articleshow/133227640.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "734a4aacdc11",
+            "id": "9580e36f0c3d",
             "feed": "esakal",
-            "title": "Premium : FIFA चा २० अब्ज डॉलर्सचा प्रस्ताव रद्द; भारताचे नुकसान की फायदा? काय आहे FIFA Forward Enterprise?",
+            "title": "Hardik Pandya Trade : 'तो मला संघासोबत नको, तर मी येतो...'! हार्दिकचा राग, कोलकाता नाइट रायडर्ससमोर अट अन् वाढली कटकट",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-14T09:00:00",
-            "url": "https://www.esakal.com/premium-article/fifa-forward-enterprise-explained-why-gianni-infantinos-20-billion-commercial-plan-fell-apart-is-india-losing-out-on-more-football-funding-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/440k945r/FIFA-Forward-Enterprise-cancelled-latest-update",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "7e0cb614e419",
-            "feed": "maharashtratimes",
-            "title": "Harbhajan Singh : 'आंतरराष्ट्रीय क्रिकेट मालिका इतिहासजमा होणार, एक गोष्ट ठरेल कारणीभूत'; हरभजन सिंग असं का म्हणाला?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-14T08:07:51",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-former-player-harbhajan-singh-big-statement-about-test-cricket-in-podcast/articleshow/133227307.cms",
-            "image": "",
+            "published": "2026-08-14T10:43:38",
+            "url": "https://www.esakal.com/krida/cricket/hardik-pandya-trade-buzz-kkr-captaincy-on-cards-but-star-all-rounder-wants-one-coach-out-ipl-2027-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-11/l0azvuzx/Hardik-Pandya-IPL-2027-trade-latest-update",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "83bb7056bd6a",
+            "feed": "esakal",
+            "title": "AUS vs BAN 1st Test: तंझीद हसन ऑसींना पुरून उरला... ऐतिहासिक खेळी; हेझलवूड, स्टार्क, कमिन्स या वाघांची केली 'शेळी' Video",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-14T10:17:36",
+            "url": "https://www.esakal.com/krida/cricket/aus-vs-ban-1st-test-tanzid-hasan-scripts-history-with-bangladeshs-first-test-hundred-in-australia-take-lead-in-1st-innings-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/61zg2ijp/Tanzid-Hasan-becomes-first-Bangladesh-batter-to-score-Test-hundred-in-Australia",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b95e368f3717",
+            "feed": "esakal",
+            "title": "IND vs SL 1st Test : एकाच वेळी तीन डावखुरे फिरकी गोलंदाज? पहिल्या कसोटीत टीम इंडिया प्रयोग करण्याच्या तयारीत",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-14T09:35:33",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-kuldeep-yadav-ravindra-jadeja-and-manav-suthar-could-form-indias-spin-trio-against-sri-lanka-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/lbmcq9rr/Kuldeep-Yadav-Ravindra-Jadeja-Manav-Suthar-playing-together-in-Galle-Test",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "f49ce4f0f5f4",
-            "feed": "maharashtratimes",
-            "title": "Gold Silver Price Fall: श्रावणच्या सुरुवातीसह सोन्याच्या भावात मोठा बदल, चांदीच्या किमतीत सलग दुसऱ्या दिवशी घसरण; पाहा आजचा रेट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-14T09:21:18",
-            "url": "https://maharashtratimes.com/business/business-news/gold-and-silver-prices-today-on-mcx-14-august-2026-mcx-rates-fall-as-inflation-fears-fuel-rate-hike-speculations/articleshow/133228033.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "47d453a6f57e",
+            "id": "2d7f331eba3d",
             "feed": "lokmat",
-            "title": "Maharashtra Rain : राज्यात पुन्हा पाऊस कधी सुरू होणार? हवामान विभागाचा पुढील ४ आठवड्यांचा अंदाज जाहीर",
+            "title": "आमिरसोबत चित्रपटात लव्ह सीन, भेदरलेली पूजा बेदी; पण अभिनेत्याने केलं असं काही...; सांगितला 'तो' अनुभव",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-14T08:42:28",
-            "url": "https://www.lokmat.com/agriculture/weather/maharashtra-rain-when-will-rain-start-again-in-the-state-meteorological-department-announces-forecast-for-the-next-4-weeks-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rain-forecast-aug-sept_2026081762745.jpeg",
+            "published": "2026-08-14T10:46:15",
+            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-actress-pooja-bedi-recalls-about-love-making-scene-with-aamir-khan-share-work-experience-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pooja-bedi-actress_2026081762797.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "ff5658c10b29",
-            "feed": "maharashtratimes",
-            "title": "EPF Pension Calculator: 15 वर्षे प्रायव्हेट नोकरी, 10,000 ते 15000 सॅलरीवर इतकी मिळेल पेन्शन, या फॉर्म्यूल्याने करा कॅलक्युलेट",
+            "id": "79cce3c3b0d3",
+            "feed": "esakal",
+            "title": "Oracle Layoffs : ओरॅकलमध्ये २१ हजार कर्मचारी काढल्यानंतर आता पुन्हा कर्मचारी कपात, AI गुंतवणुकीसाठी मोठा निर्णय",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-08-14T08:25:29",
-            "url": "https://maharashtratimes.com/business/business-news/epfo-pension-calculation-how-much-pension-will-you-get-on-salary-of-10000-to-15000-after-15-years/articleshow/133227391.cms",
-            "image": "",
+            "published": "2026-08-14T10:44:47",
+            "url": "https://www.esakal.com/sci-tech/oracle-layoffs-second-round-employee-job-cuts-ai-investment-workforce-reduction-oracle-ai-infrastructure-spending-2026-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/19nfqq73/Oracle-lay-off.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "16f680cbe6c7",
+            "feed": "lokmat",
+            "title": "नोंदणी दस्तऐवज, इंडेक्स-२ व विवाह प्रमाणपत्रांच्या प्रमाणित प्रती मिळणार आता ऑनलाइन; राज्यात ई-प्रमाण सेवा सुरू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T10:41:09",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/certified-copies-of-registration-documents-index-2-and-marriage-certificates-will-now-be-available-online-e-certificate-service-launched-in-the-state-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/e-pramaan_2026081762794.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
