@@ -1,88 +1,104 @@
 {
-    "lastUpdated": "14-08-2026 | 11:14 PM IST",
+    "lastUpdated": "15-08-2026 | 12:10 AM IST",
     "maharashtra": [
         {
-            "id": "2426fd57b499",
-            "feed": "maharashtratimes",
-            "title": "Prithviraj Chavan : पृथ्वीराज चव्हाण यांची अमित शाह यांच्यावर टोकाची टीका, महाराष्ट्राला 40 टक्के कमिशनचे ग्रहण असल्याचा दावा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T22:51:30",
-            "url": "https://maharashtratimes.com/maharashtra/kolhapur/prithviraj-chavan-slams-amit-shah-in-kolhapur-press-conference/articleshow/133248052.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d82301b38f12",
-            "feed": "esakal",
-            "title": "Overhead Cable : ओव्हरहेड केबल धोरणाला स्थायीची मान्यता; अनधिकृत केबल वर्षभरासाठी होणार नियमित",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T22:43:22",
-            "url": "https://www.esakal.com/pune/standing-committee-approves-overhead-cable-policy-unauthorized-cables-to-be-regularized-for-one-year-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/6yqsysix/Pune-City-Overhead-Cables",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9f570bb6dbe5",
-            "feed": "esakal",
-            "title": "'ऑपरेशन टायगर'चा दुसरा भाग खरंच येणार? मंत्री प्रताप सरनाईक यांचा दावा की मिश्किल टिपण्णी? कैलास पाटलांबद्दल काय म्हणाले?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T22:40:18",
-            "url": "https://www.esakal.com/maharashtra/operation-tiger-part-2-minister-pratap-sarnaik-statement-mla-kailas-patil-dharashiv-politics-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/7ibrf70h/Latest-Marathi-Breaking-News-2026-08-14T223754.382.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "661ebdae45ef",
-            "feed": "esakal",
-            "title": "Khadakwasala Dam : खडकवासला धरणातून विसर्ग वाढविला",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T22:30:39",
-            "url": "https://www.esakal.com/pune/water-discharge-increased-from-khadakwasla-dam-rain-monsoon-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/0khadakwasala_dam_0.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3fb7076bb73d",
+            "id": "04fe3c2452a2",
             "feed": "lokmat",
-            "title": "पुण्याचे पोलीस आयुक्त अमितेश कुमार यांना अतिउत्कृष्ट सेवा पदक, २४ अधिकारी-अंमलदारांचा उत्कृष्ट सेवेसाठी गौरव",
+            "title": "मनोज जरांगे पाटील यांची प्रकृती अचानक खालावली; छत्रपती संभाजीनगरला रुग्णालयात हलविले",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T22:15:38",
-            "url": "https://www.lokmat.com/mumbai/24-officers-and-employees-of-pune-police-honored-for-excellent-service-police-commissioner-amitesh-kumar-awarded-the-most-excellent-service-medal-a-a1014-c301/",
+            "published": "2026-08-14T23:57:46",
+            "url": "https://www.lokmat.com/maharashtra/manoj-jarange-patils-condition-suddenly-deteriorated-shifted-to-chhatrapati-sambhajinagar-hospital-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-jarange-patil-1_2026081763412.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3277aa24a96c",
+            "feed": "esakal",
+            "title": "सोलापूर अन्‌ ‘वंदे मातरम्‌’चा कनेक्ट! ‘वंदे मातरम्‌’ गाण्यासाठी लोकमान्य टिळकांनी सोलापूरच्या ‘या’ तरुणाला नेले होते कोलकत्त्याला; १२० वर्षांपूर्वीची कहाणी...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T23:55:00",
+            "url": "https://www.esakal.com/maharashtra/the-connection-between-solapur-and-vande-mataram-lokmanya-tilak-took-this-young-man-from-solapur-to-kolkata-to-sing-vande-mataram-a-story-from-120-years-ago",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/vuuvd7t4/IMG-20260814-WA0282.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0f74508a22a3",
+            "feed": "lokmat",
+            "title": "पोलिस आयुक्त, सहआयुक्तांसह एसआरपीएफचे निसार तांबोळी, अतिरिक्त आयुक्त दाभाडेंनाही अतिउत्कृष्ट सेवापदक घोषित",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T23:53:39",
+            "url": "https://www.lokmat.com/nagpur/along-with-the-police-commissioner-joint-commissioners-srpfs-nisar-tamboli-additional-commissioner-dabhade-were-also-awarded-the-most-excellent-service-medal-a-a877-c301/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-abd-maharashtra-1a_202208869805.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4e1d3b3bba5e",
+            "feed": "esakal",
+            "title": "८० वर्षांनंतर स्वातंत्र्यदिनी प्रथमच राष्ट्रगीतापूर्वी गायले जाणार ‘वंदे मातरम्‌’! ध्वजारोहणानंतर आधी राष्ट्रीय गीत, नंतर राष्ट्रगीत, शेवटी राज्यगीत गायले जाणार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T23:50:00",
+            "url": "https://www.esakal.com/maharashtra/for-the-first-time-in-80-years-vande-mataram-will-be-sung-before-the-national-anthem-on-independence-day-following-the-flag-hoisting-the-national-song-will-be-sung-first-followed-by-the-national-anthem-and-finally-the-state-song",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/m11nk27b/download-9-Copy.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "eb0c44d1adab",
+            "feed": "esakal",
+            "title": "Pune News : अमितेश कुमार, चौबे, चौधरी यांचा गौरव; पुण्यातील पोलिस अधिकाऱ्यांचा ‘अतिउत्कृष्ट’ व ‘उत्कृष्ट सेवा पदक’ने सन्‍मान",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T23:48:48",
+            "url": "https://www.esakal.com/pune/amitesh-kumar-vinaykumar-chaube-and-varsha-kedar-chaudhary-honored-pune-police-officers-receive-ati-utkrusht-and-excellent-service-medals-success-motivation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/benv5txl/Amitesh-Kumar-Vinaykumar-Chaube-and-Varsha-Kedar-Chaudhary",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "22ba75bd64f4",
+            "feed": "lokmat",
+            "title": "ब्रेकाच्या जागी दाबला एक्सिलेटर, नियंत्रण सुटून तलावात बुडाली कार, जीव वाचवण्यासाठी महिलेचा आटापिटा, पण...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-14T23:42:35",
+            "url": "https://www.lokmat.com/national/woman-dies-after-car-plunges-into-lake-after-pressing-accelerator-instead-of-brake-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kolkata-accident-1_2026081763410.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "55e73df1cd29",
             "feed": "esakal",
@@ -146,22 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/music-recording-1_2026081763406.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "233bbccb3337",
-            "feed": "maharashtratimes",
-            "title": "Sonakshi Sinha : 'माझा विश्वास नव्हता, पण माझ्याच घरात विचित्र घटना घडली' सोनाक्षी सिन्हासोबत घडलेला भयानक प्रकार, अभिनेत्रीनं सांगितला प्रसंग",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-14T21:24:50",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sonakshi-sinha-shares-her-horror-experience/articleshow/133246049.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
