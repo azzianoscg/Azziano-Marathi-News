@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "15-08-2026 | 12:10 AM IST",
+    "lastUpdated": "15-08-2026 | 01:11 AM IST",
     "maharashtra": [
+        {
+            "id": "5ddf0fd9c969",
+            "feed": "lokmat",
+            "title": "मुंबईतील सिद्धिविनायक मंदिरात दुर्घटना, लाडू बनवताना गरम पाणी अंगावर पडून कंत्राटी कर्मचाऱ्याचा मृत्यू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T00:33:12",
+            "url": "https://www.lokmat.com/mumbai/accident-at-siddhivinayak-mandir-in-mumbai-contract-worker-dies-after-hot-water-falls-on-him-while-making-laddus-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/siddhivinayak-mandir-1_2026081763414.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "04fe3c2452a2",
             "feed": "lokmat",
@@ -11,9 +27,25 @@
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T23:57:46",
+            "published": "2026-08-15T00:08:08",
             "url": "https://www.lokmat.com/maharashtra/manoj-jarange-patils-condition-suddenly-deteriorated-shifted-to-chhatrapati-sambhajinagar-hospital-a-a301/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-jarange-patil-1_2026081763412.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "399b17ec67ef",
+            "feed": "lokmat",
+            "title": "स्वातंत्र्य दिनाच्या औचित्याने शहरात ऑपरेशन ऑल आऊट, वरिष्ठ अधिकारीही सहभागी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T00:07:25",
+            "url": "https://www.lokmat.com/nagpur/operation-all-out-in-the-city-on-the-occasion-of-independence-day-senior-officials-also-participated-a-a877-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-abd-constable-aty_202303983762.png",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -48,41 +80,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-abd-maharashtra-1a_202208869805.png",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "4e1d3b3bba5e",
-            "feed": "esakal",
-            "title": "८० वर्षांनंतर स्वातंत्र्यदिनी प्रथमच राष्ट्रगीतापूर्वी गायले जाणार ‘वंदे मातरम्‌’! ध्वजारोहणानंतर आधी राष्ट्रीय गीत, नंतर राष्ट्रगीत, शेवटी राज्यगीत गायले जाणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T23:50:00",
-            "url": "https://www.esakal.com/maharashtra/for-the-first-time-in-80-years-vande-mataram-will-be-sung-before-the-national-anthem-on-independence-day-following-the-flag-hoisting-the-national-song-will-be-sung-first-followed-by-the-national-anthem-and-finally-the-state-song",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/m11nk27b/download-9-Copy.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "eb0c44d1adab",
-            "feed": "esakal",
-            "title": "Pune News : अमितेश कुमार, चौबे, चौधरी यांचा गौरव; पुण्यातील पोलिस अधिकाऱ्यांचा ‘अतिउत्कृष्ट’ व ‘उत्कृष्ट सेवा पदक’ने सन्‍मान",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T23:48:48",
-            "url": "https://www.esakal.com/pune/amitesh-kumar-vinaykumar-chaube-and-varsha-kedar-chaudhary-honored-pune-police-officers-receive-ati-utkrusht-and-excellent-service-medals-success-motivation-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/benv5txl/Amitesh-Kumar-Vinaykumar-Chaube-and-Varsha-Kedar-Chaudhary",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "60f7b689894d",
+            "feed": "lokmat",
+            "title": "Independence Day: लाल किल्ल्यावर पहिल्यांदाच वंदे मातरम् गायलं जाणार, PM मोदी सलग तेराव्यांदा संबोधित करणार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-15T01:05:13",
+            "url": "https://www.lokmat.com/national/independence-day-vande-mataram-will-be-sung-for-the-first-time-at-the-red-fort-pm-modi-will-address-for-the-thirteenth-consecutive-time-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/swatantrya-din-1_2026081763416.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "22ba75bd64f4",
             "feed": "lokmat",
@@ -144,22 +160,6 @@
             "published": "2026-08-14T21:54:57",
             "url": "https://www.esakal.com/sakal-money/rbi-changes-major-rule-fcnr-b-swap-facility-to-close-ahead-of-schedule-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-08-14/gekg0fye/RBI.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3cf910caa778",
-            "feed": "lokmat",
-            "title": "जगाचा तू अधिपती, तूच रे गणपती’ भक्तिमय गीत लवकरच रसिकांच्या भेटीला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T21:35:11",
-            "url": "https://www.lokmat.com/filmy/jagacha-tu-adhipati-tuch-re-ganapati-devotional-song-to-be-released-soon-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/music-recording-1_2026081763406.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
