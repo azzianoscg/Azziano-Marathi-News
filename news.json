@@ -1,82 +1,82 @@
 {
-    "lastUpdated": "14-08-2026 | 03:28 PM IST",
+    "lastUpdated": "14-08-2026 | 04:26 PM IST",
     "maharashtra": [
         {
-            "id": "2e049394450a",
-            "feed": "esakal",
-            "title": "Swapnil Lande Bhondubaba News: पुण्यात संतापजनक प्रकार! १०वीत चांगले मार्क मिळवून देण्याच्या नावाखाली भोंदू बाबाकडून अल्पवयीन मुलीचं लैंगिक शोषण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T15:16:13",
-            "url": "https://www.esakal.com/pune/in-pune-swapnil-lande-exploits-14-year-old-girl-vadgaon-maval-police-case-absconding-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/hqchv4eg/Swapnil-Lande-Pune-godman-case",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "896f063df618",
-            "feed": "maharashtratimes",
-            "title": "Crime News: वाढदिवसाच्या सेलिब्रेशनला रक्तरंजित वळण; केक कापल्यानंतर दोन गटांमध्ये वाद, १८ वर्षीय तरुणाला संपवलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T15:13:24",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/18-year-old-young-man-dies-tragically-in-brawl-during-birthday-celebration/articleshow/133235967.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "216565b46aef",
+            "id": "c7b4f3ae4628",
             "feed": "lokmat",
-            "title": "अनधिकृत शाळांवर स्पष्टीकरण नाही, राज्य सरकारवर एक हजार रुपये दंड",
+            "title": "'महाडीबीटी २.०'चा फज्जा! लाखो विद्यार्थ्यांची शिष्यवृत्ती ठप्प, १२१ योजनांच्या भाराने पोर्टल 'हँग'",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T16:21:52",
+            "url": "https://www.lokmat.com/nanded/mahadbt-20-glitch-121-schemes-overload-shuts-down-scholarship-portal-students-suffer-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahadbt-portal-hang-abd-student-fea_2026081763153.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "d7c70c1b43d4",
+            "feed": "lokmat",
+            "title": "Rain Update : पावसाचा जोर वाढणार! कोकण आणि विदर्भात मुसळधार; मध्य प्रदेश, छत्तीसगडसह उत्तरेत अतिवृष्टीचा इशारा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T15:10:21",
-            "url": "https://www.lokmat.com/maharashtra/no-explanation-on-unauthorized-schools-state-government-fined-rs-1000-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-24_2026081763080.png",
+            "published": "2026-08-14T16:20:14",
+            "url": "https://www.lokmat.com/photos/maharashtra/rain-update-rains-will-increase-in-intensity-heavy-rains-in-konkan-and-vidarbha-warning-of-heavy-rain-in-the-north-including-madhya-pradesh-chhattisgarh-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/monsoon-update-news_2026081763149.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "12e8320130ec",
+            "id": "5de90fe6e703",
+            "feed": "lokmat",
+            "title": "दुरांतो एक्स्प्रेसमध्ये कोट्यवधींचे विदेशी सोने; ७ बिस्किटे अन् सोन्याची छड जप्त!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T16:10:47",
+            "url": "https://www.lokmat.com/nagpur/foreign-gold-worth-crores-seized-in-duronto-express-7-biscuits-and-gold-bars-seized-a-a1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/new-project-25_2026081763132.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4d37b015969d",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : स्वातंत्र्यदिनाच्या पूर्वसंध्येला सुरक्षा यंत्रणा अलर्ट मोडवर! दिल्लीतील प्रमुख ठिकाणांना बॉम्बने उडवून देण्याची धमकी",
+            "title": "भूकंप आल्यावर काय करावे आणि काय करू नये?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-14T15:02:54",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-14-august-2026-maratha-reservation-manoj-jarange-chandrashekhar-bawankule-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-14T16:10:25",
+            "url": "https://www.esakal.com/ampstories/web-story/earthquake-safety-tips-what-to-do-during-tremors-nashik-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/sarby6me/Earthquake-Safety-Guide.png",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
-            "id": "3022383b0456",
+            "id": "561899f302d1",
             "feed": "maharashtratimes",
-            "title": "Nagpur News: सार्वजनिक ठिकाणी थुंकल्यास ५०० रुपये दंड आकारला जाणार ;रस्त्यावर घाण करणार कृत्य आढळल्यास थेट हजाराची वसुली",
+            "title": "विद्यार्थी आंदोलनानंतर अमित शाह चर्चेला तयार होते, पण विरोधक घाबरले | एकनाथ शिंदे",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T15:02:34",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-punitive-action-to-be-taken-for-dumping-garbage-on-roads-municipal-corporations-decision/articleshow/133235533.cms",
+            "published": "2026-08-14T16:04:55",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/amit-shah-was-ready-for-talks-after-cjp-student-movement-says-eknath-shinde/videoshow/133238239.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -84,116 +84,100 @@
     ],
     "india": [
         {
-            "id": "7b9ba92df89a",
+            "id": "5034a237eec0",
+            "feed": "lokmat",
+            "title": "गिरीजा ओकनं कापले आपले लांबसडक सुंदर केस? दिसला मॉडर्न लूक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T16:23:31",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/girija-oak-new-short-hair-look-nafa-film-festival-red-carpet-photos-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/girijaoaknews_2026081763161.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6c001b056909",
             "feed": "maharashtratimes",
-            "title": "Manisha Koirala : 'एकटेपणा जाणवायचा, आता मी मरणार आहे असं वाटायचं', मनीषा कोईरालानं सांगितला कॅन्सरचा कठीण काळ",
+            "title": "केकसाठी पैसे नाही, पण गरीब वडिलांनी मानली नाही हार, असा साजरा केला मुलांचा वाढदिवस, मुलांचा आनंद पाहून डोळ्यांत येईल पाणी",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-14T15:23:48",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/manisha-koirala-talks-about-her-battle-of-cancer-treatment/articleshow/133236042.cms",
+            "published": "2026-08-14T16:21:35",
+            "url": "https://maharashtratimes.com/viral/viral-news/poor-father-celebrates-sons-birthday-with-a-simple-cake-viral-video-melts-hearts/articleshow/133238690.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6240debabf0d",
+            "feed": "maharashtratimes",
+            "title": "कमी मेहनतीमध्ये नारळापासून खोबरे वेगळ करण्याच्या सोप्या ३ ट्रिक, काहीच मेहनत लागणार नाही",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-14T16:16:01",
+            "url": "https://maharashtratimes.com/lifestyle-news/home-decor-hacks/how-to-remove-coconut-from-the-shell-easily/articleshow/133238549.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "5fc9b4b675af",
+            "feed": "lokmat",
+            "title": "भोसरीतील जिजाऊ उड्डाणपूल नागरिकांसाठी डोकेदुखी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T16:15:08",
+            "url": "https://www.lokmat.com/pimpri-chinchwad/pimpari-chinchwad-news-jijau-flyover-in-bhosari-a-headache-for-citizens-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhosari-000_2026081763143.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ab8d8f22df36",
+            "feed": "maharashtratimes",
+            "title": "Samay Raina : समय रैनाला सुप्रीम कोर्टाचा दिलासा, सर्व FIR रद्द! पण कडक शब्दांत सुनावले, काय-काय म्हणाले?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-14T16:12:36",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/samay-raina-indias-got-latent-fir-quashed-by-supreme-court/articleshow/133237644.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "9601e1e4bbbb",
-            "feed": "lokmat",
-            "title": "“मला वाटलं मी मरणारच…”; मनीषा कोईरालाने सांगितला 'तो' वेदनादायी काळ, म्हणाली- \"प्रचंड भीती आणि ...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T15:22:14",
-            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-actress-manisha-koirala-opens-up-about-the-bad-phase-of-her-life-after-being-diagnosed-with-stage-iv-ovarian-cancer-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manisha-koirala_2026081763094.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3a48ecaa2adf",
-            "feed": "lokmat",
-            "title": "आई, मुलांना वाढवते आणि पुढे ते विसरतातच की..! स्मृती इराणी सांगतात आईची व्यथा, डोळ्यात पाणी येतं पण..",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T15:20:53",
-            "url": "https://www.lokmat.com/sakhi/parenting/mothers-raise-their-children-and-later-they-forget-that-smriti-irani-tells-the-story-of-a-mothers-pain-tears-come-to-her-eyes-but-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-13-at-17.49.44-3_2026081762598.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "16449b1965d2",
-            "feed": "lokmat",
-            "title": "स्मार्टफोनमुळे मानमोडी! अभिनेत्रीला मोबाइल गेम खेळण्याच्या सवयीमुळे करावी लागली शस्त्रक्रिया, पाहा नेमका त्रास काय..",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T15:19:40",
-            "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/can-excessive-smartphone-use-cause-neck-pain-south-actors-phone-habit-got-so-bad-she-underwent-a-rs-3-lakh-neck-surgery-mobile-gaming-causing-neck-pain-and-spine-problems-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mobile-gaming-health-risks-for-neck_2026081763089.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d1d2416f836d",
-            "feed": "lokmat",
-            "title": "१५ ऑगस्टला जिलेबीच का वाटली जाते? १९४७ पासून स्वातंत्र्यदिनाला जिलेबी खाण्याची-वाटण्याची रीत, कारणही इमोशनल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T15:17:56",
-            "url": "https://www.lokmat.com/sakhi/food/why-do-we-eat-jalebis-on-independence-day-the-sweet-tradition-of-15-august-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/15-august-jalebi-_2026081763011.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "ddab06138184",
-            "feed": "lokmat",
-            "title": "'जालन्याचा रेशीम धागा जगाला जोडणार!'; मुख्यमंत्री फडणवीसांची मोठी घोषणा, रेशीम बाजारपेठेचे लोकार्पण",
+            "id": "2d90b7621ee7",
+            "feed": "maharashtratimes",
+            "title": "कांदा ५७२, कोथिंबीर २८६ अन् टोमॅटो ३८२ रुपये, पाहा अमेरिकेतलं भाजी मार्केट; मराठी महिलेचा व्हिडीओ व्हायरल",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-14T14:08:16",
-            "url": "https://www.lokmat.com/jalana/jalnas-silk-will-connect-the-world-cm-fadnavis-opens-states-1st-silk-cocoon-market-rs961-top-bid-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jalanai-silk-cm-fadanvis-fea_2026081763013.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5ca63d3ffb5f",
-            "feed": "lokmat",
-            "title": "८ तास जॉब, विनाकोचिंग तयारी अन्...; रेल्वे रूळ दुरुस्त करणारा प्रल्हाद कसा बनला IPS अधिकारी?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T13:37:11",
-            "url": "https://www.lokmat.com/photos/inspirational-moral-stories/success-story-of-ips-pralhad-meena-8-hour-job-preparation-without-coaching-and-how-did-prahlad-who-repaired-railway-tracks-become-an-ips-officer-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/suceess-story-of-pralhad-meena-thumbnil-a_2026081762970.jpg",
+            "published": "2026-08-14T15:44:11",
+            "url": "https://maharashtratimes.com/viral/viral-news/pre-cut-vegetables-in-america-cost-a-fortune-viral-video-reveals-shocking-prices/articleshow/133237611.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
         },
@@ -228,25 +212,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "7e535ea727f7",
-            "feed": "maharashtratimes",
-            "title": "USS Abraham Lincoln: US च्या युद्धनौकेवर भीषण स्थिती; खलाशांकडून जीव देण्याचे प्रयत्न; अमेरिकेत संतापाची लाट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-13T21:01:40",
-            "url": "https://maharashtratimes.com/international/international-news/uss-abraham-lincoln-sailors-tried-to-jump-off-amid-frustration-due-to-iran-war-deployment/articleshow/133217088.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "7cc08efbb054",
+            "feed": "lokmat",
+            "title": "वैभव सूर्यवंशी बॉलर्सची धुलाई करतोय, पण त्याच्याकडे...; भारताच्या माजी शिलेदारानं पटवलं रोहित-विराटचं महत्त्व",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-14T15:29:46",
+            "url": "https://www.lokmat.com/cricket/news/vaibhav-suryavanshi-doesnt-have-that-ex-india-spinner-harbhajan-singh-explains-rohit-sharma-virat-kohlis-experience-odi-world-cup-2027-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/harbhajan-singh-on-rohit-sharma-and-virat-kohli-m-1_2026081763100.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c2ac6be456ff",
             "feed": "esakal",
@@ -278,72 +262,56 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jdjdjd_2026081763024.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "31493bfaef7e",
-            "feed": "esakal",
-            "title": "IND vs SL 1st Test : बुमराहची अनुपस्थितीत, दोन गोलंदाजांपैकी निवडू कोणाला? शुभमन गिल पहिल्या सामन्यापूर्वी पेचात अडकला, म्हणाला...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-14T14:19:00",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-gurnoor-brar-or-prasidh-krishna-shubman-gill-faces-tough-call-ahead-of-opener-jasprit-bumrah-absent-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/0aa3bpsn/Shubman-Gill-Press-Conferance",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "18403e284bf6",
+            "id": "71a869c84182",
             "feed": "lokmat",
-            "title": "Tur Market : तुरीच्या दरात मोठी हालचाल! ८ हजार २२५ रुपयांवर भाव; पुढे आणखी वाढणार?",
+            "title": "टाटा स्टीलचा मोठा निर्णय! अवघ्या १०० रुपयांत विकली 'ही' कंपनी; माजी मुख्यमंत्र्यांच्या लेकीने केली खरेदी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "business"
             },
-            "published": "2026-08-14T15:20:09",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-tur-market-big-movement-in-the-price-of-tur-price-at-rs-8225-will-it-increase-further-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tur-market-1_2026081763092.jpg",
+            "published": "2026-08-14T16:23:13",
+            "url": "https://www.lokmat.com/business/savings-investments/tata-group-tata-steels-big-decision-this-company-sold-for-just-rs-100-former-chief-ministers-daughter-bought-it-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tata-steel-fc-sold_2026081763155.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "49ac87248769",
+            "id": "ce9671e4efb3",
+            "feed": "lokmat",
+            "title": "Ajay Devgan Bungalow On Rent: महिन्याला १६ लाखांचं भाडं, अजय देवगणनं मुंबईतील बंगला दिला भाड्यानं, ५ वर्षात किती कमाई करणार?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-14T16:19:21",
+            "url": "https://www.lokmat.com/business/news/ajay-devgan-mother-veena-devgan-mumbai-juhu-bungalow-rent-rs-16-lakhs-per-month-given-a-bungalow-how-much-will-he-earn-in-5-years-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ajay-devgan-veena-devgan-1_2026081763147.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "30509f42098c",
             "feed": "maharashtratimes",
-            "title": "Gold Jewellery: सोने-चांदी गुलाबी कागदात गुंडाळण्यामागे ज्वेलर्सची दूरदृष्टी; पिवळा किंवा इतर रंगाचा का नाही? तुम्हालाही माहीत नसेल उत्तर",
+            "title": "आजोबांचे जुने पेपर शेअर्स नातवाला मिळणे शक्य! Demat खात्याशी जोडून घेण्याची संपूर्ण प्रक्रिया जाणून घ्या",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-14T15:04:29",
-            "url": "https://maharashtratimes.com/business/business-news/why-gold-silver-jewelery-wrapped-in-pink-paper-business-strategy-tradition-hidden-science-or-just-aesthetics/articleshow/133233337.cms",
+            "published": "2026-08-14T16:18:51",
+            "url": "https://maharashtratimes.com/business/share-bazaar/paper-shares-to-demat-process-and-how-to-prove-legal-heir/articleshow/133238081.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "2df876bd6566",
-            "feed": "lokmat",
-            "title": "शेती महामंडळाच्या कामगार लढ्याला २६ वर्षानंतर यश; तब्बल १८ कोटींचा वेतन फरक मिळणार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T14:58:46",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/agricultural-corporations-labor-struggle-succeeds-after-26-years-salary-difference-of-rs-18-crores-will-be-achieved-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sheti-mahamnadal-kamagar-vetan_2026081763051.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
