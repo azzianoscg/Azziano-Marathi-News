@@ -1,88 +1,104 @@
 {
-    "lastUpdated": "14-08-2026 | 10:10 PM IST",
+    "lastUpdated": "14-08-2026 | 11:14 PM IST",
     "maharashtra": [
         {
-            "id": "996bdac8067c",
+            "id": "2426fd57b499",
             "feed": "maharashtratimes",
-            "title": "FDA Mumbai Action : मुंबईत गोरेगाव फिल्म सिटीतील कॅफेवर एफडीएची धाड;   एफडीएची राज्यभरात धडाकेबाज कारवाई",
+            "title": "Prithviraj Chavan : पृथ्वीराज चव्हाण यांची अमित शाह यांच्यावर टोकाची टीका, महाराष्ट्राला 40 टक्के कमिशनचे ग्रहण असल्याचा दावा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T21:55:24",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/fda-raids-bollywood-cafe-at-studio-13-in-goregaon-film-city/articleshow/133246308.cms",
+            "published": "2026-08-14T22:51:30",
+            "url": "https://maharashtratimes.com/maharashtra/kolhapur/prithviraj-chavan-slams-amit-shah-in-kolhapur-press-conference/articleshow/133248052.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bb6290319785",
-            "feed": "maharashtratimes",
-            "title": "Maharashtra Companies Closed: 5 वर्षांत 36,211 कंपन्या बंद? बेरोजगारीचा आकडा नाही, पवार Vs फडणवीस",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-14T21:46:45",
-            "url": "https://maharashtratimes.com/video/mt-originals/rajabhau-waje-question-36211-companies-shut-down-maharashtra-industry-news-sharad-pawar-fadnavis/videoshow/133247132.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "9d94e7e45344",
+            "id": "d82301b38f12",
             "feed": "esakal",
-            "title": "Independence Day : इतिहासाच्या साक्षीदार खडकवासला धरणावर तिरंग्याची जल रोषणाई",
+            "title": "Overhead Cable : ओव्हरहेड केबल धोरणाला स्थायीची मान्यता; अनधिकृत केबल वर्षभरासाठी होणार नियमित",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T21:27:19",
-            "url": "https://www.esakal.com/pune/independence-day-tricolor-illumination-lights-up-historic-khadakwasla-dam-celebrating-indias-spirit-of-freedom-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/7o8daeje/Khadakwasala-Dam-Tricolor-Illumination-Lights",
+            "published": "2026-08-14T22:43:22",
+            "url": "https://www.esakal.com/pune/standing-committee-approves-overhead-cable-policy-unauthorized-cables-to-be-regularized-for-one-year-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/6yqsysix/Pune-City-Overhead-Cables",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d721a6f49849",
-            "feed": "maharashtratimes",
-            "title": "Nanded Santosh Kendre : नांदेडमध्ये पंजाबच्या माजी उपमुख्यमंत्र्यांचा जीव वाचवणारे धडाकेबाज PI संतोष केंद्रे कोण? A टू Z माहिती",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T21:23:13",
-            "url": "https://maharashtratimes.com/maharashtra/nanded/nanded-police-inspector-santosh-kendre-who-saved-life-former-deputy-chief-minister-of-punjab-sukhbir-singh-badal/articleshow/133246214.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "055245715f6e",
+            "id": "9f570bb6dbe5",
             "feed": "esakal",
-            "title": "Devendra Fadnavis: महाराष्ट्रातील ३६,२११ कंपन्या बंद झाल्या? चर्चेवर देवेंद्र फडणवीसांचा खुलासा; शरद पवारांना सांगितलं सत्य",
+            "title": "'ऑपरेशन टायगर'चा दुसरा भाग खरंच येणार? मंत्री प्रताप सरनाईक यांचा दावा की मिश्किल टिपण्णी? कैलास पाटलांबद्दल काय म्हणाले?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T21:20:23",
-            "url": "https://www.esakal.com/maharashtra/maharashtra-36211-company-closure-claim-explained-devendra-fadnavis-responds-to-sharad-pawar-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/iya2rtlt/Maharashtra-Companies-Closure-Row.jpg",
+            "published": "2026-08-14T22:40:18",
+            "url": "https://www.esakal.com/maharashtra/operation-tiger-part-2-minister-pratap-sarnaik-statement-mla-kailas-patil-dharashiv-politics-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/7ibrf70h/Latest-Marathi-Breaking-News-2026-08-14T223754.382.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "661ebdae45ef",
+            "feed": "esakal",
+            "title": "Khadakwasala Dam : खडकवासला धरणातून विसर्ग वाढविला",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T22:30:39",
+            "url": "https://www.esakal.com/pune/water-discharge-increased-from-khadakwasla-dam-rain-monsoon-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/0khadakwasala_dam_0.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3fb7076bb73d",
+            "feed": "lokmat",
+            "title": "पुण्याचे पोलीस आयुक्त अमितेश कुमार यांना अतिउत्कृष्ट सेवा पदक, २४ अधिकारी-अंमलदारांचा उत्कृष्ट सेवेसाठी गौरव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T22:15:38",
+            "url": "https://www.lokmat.com/mumbai/24-officers-and-employees-of-pune-police-honored-for-excellent-service-police-commissioner-amitesh-kumar-awarded-the-most-excellent-service-medal-a-a1014-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-abd-maharashtra-1a_202208869805.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "55e73df1cd29",
+            "feed": "esakal",
+            "title": "कामोत्तेजना वाढवण्यासाठी आयुर्वेदात कोणते उपाय सांगितलेत?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-14T23:09:47",
+            "url": "https://www.esakal.com/ampstories/web-story/ayurvedic-remedies-to-increase-sexual-desire-vajikarana-herbs-foods-sleep-sexual-wellness-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/pfjb8saq/9.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "8e1a3d4ad86e",
             "feed": "lokmat",
@@ -146,22 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "83fc1e951629",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 15 August 2026: अश्वत्थ मारूती पूजन, सिद्धि योग, कलानिधि योग,वरिष्ठ योग, बुधादित्य योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ </b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-14T21:24:08",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-15-august-2026-in-marathi-ashwattha-maruti-pujan-siddhi-yog-kalanidhi-yog-budhaditya-yog-and-shubha-muhurta/articleshow/133245824.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
@@ -232,6 +232,22 @@
     ],
     "sports": [
         {
+            "id": "92aa9d20e9c9",
+            "feed": "maharashtratimes",
+            "title": "IND vs SL Test : स्वातंत्र्यदिनी भारताचा उद्या 600वा कसोटी सामना! 'आज मला इथूनच सुरूवात करायचीये'; कॅप्टन गिलने उघडपणे सांगितलं टार्गेट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-14T22:47:06",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-1st-test-captain-shubman-gill-statement-on-india-600th-test-historic-test-match-in-press-conference/articleshow/133244612.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "7d98aacb0b85",
             "feed": "esakal",
             "title": "Ajinkya Rahane Exclusive : अजिंक्यचे भारताकडून खेळण्याचे स्वप्न पूर्ण होईल की नाही, याची भीती होती.. पण तो खचला नाही! राधिकाचे डोळे भरून आले, रहाणेने सावरले...",
@@ -262,25 +278,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-cricketer-abishek-porel-denied-bail-in-rape-case-m-_2026081763361.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "864e179c5834",
-            "feed": "esakal",
-            "title": "IPL: हार्दिक पंड्याला KKRची खुली ऑफर? माजी खेळाडू म्हणाला, ‘या’ संघात मिळेल नेतृत्वाची जबाबदारी; IPL 2027 आधी मोठ्या ट्रेडची चर्चा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-14T19:26:30",
-            "url": "https://www.esakal.com/krida/cricket/hardik-pandya-kkr-open-offer-former-player-leadership-responsibility-big-trade-ipl-2027-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/7u1eros2/hardik-pandya-1.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "02a220d3aba4",
+            "feed": "lokmat",
+            "title": "Happy Independence Day 2026 Wishes: स्वातंत्र्य दिनाच्या हार्दिक शुभेच्छा, मराठी Messages, Quotes, WhatsApp Status शेअर करून साजरा भारताचा 80 वा स्वातंत्र्यदिन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T22:53:56",
+            "url": "https://www.lokmat.com/festivals/happy-independence-day-2026-wishes-in-marathi-share-swatantradinachya-shubhecha-messages-quotes-whatsapp-status-to-celebrate-80th-indian-swatantrata-diwas-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/independence-day-2026-marathi-wishes-4_2026081763127.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "1b40168a239b",
             "feed": "maharashtratimes",
@@ -312,22 +328,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "dea8434808ba",
-            "feed": "lokmat",
-            "title": "Pik Vima Yojana : 81.40 लाख नव्हे, 42.28 लाख शेतकऱ्यांनी काढला पीक विमा, कशामुळे शेतकऱ्यांची माघार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T20:35:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-not-8140-lakh-but-4228-lakh-farmers-took-out-crop-insurance-why-are-farmers-withdrawing-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pik-vima-s_2026081763293.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
