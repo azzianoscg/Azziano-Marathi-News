@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "14-08-2026 | 05:01 AM IST",
+    "lastUpdated": "14-08-2026 | 06:35 AM IST",
     "maharashtra": [
+        {
+            "id": "22ce4c357e27",
+            "feed": "lokmat",
+            "title": "गर्भपाताच्या गोळ्यांचा गोरखधंदा, नागपुरात बेकायदेशीर ‘एमटीपी’ किटचे रॅकेट उघड",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T06:29:24",
+            "url": "https://www.lokmat.com/nagpur/abortion-pill-racket-busted-illegal-mtp-kit-racket-exposed-in-nagpur-a-a515-c1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mtp-pills_2026081762726.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d30afebe184a",
+            "feed": "lokmat",
+            "title": "सुखबीर सिंग बादल यांच्यावर दुसऱ्यांदा हल्ला; पंजाबच्या माजी उपमुख्यमंत्र्यांवर खंजरने वार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T06:18:57",
+            "url": "https://www.lokmat.com/nanded/sukhbir-singh-badal-attacked-for-the-second-time-former-punjab-deputy-chief-minister-stabbed-with-dagger-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sukhbir-singh-badal_2026081762724.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "29844992fce0",
+            "feed": "lokmat",
+            "title": "१६० नोटिसा, तरीही ‘ती’ दुर्घटना घडलीच; घाटकोपरमधील गौसिया चाळ दुर्घटनेतील आणखी एका रहिवाशाचा मृतदेह सापडला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T06:15:23",
+            "url": "https://www.lokmat.com/mumbai/160-notices-yet-that-accident-happened-body-of-another-resident-of-gausia-chawl-accident-in-ghatkopar-found-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ghatkopar-land-slide_2026081762723.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c9c8a2a26293",
             "feed": "lokmat",
@@ -32,139 +80,123 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cyber-crime-womancheated_202005413845.png",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "be99d5d14599",
-            "feed": "lokmat",
-            "title": "निष्काळजीपणामुळे सीएस डॉ. नागेश लखमावार, तर अनियमिततेप्रकरणी डीएचओ डॉ. संजय पांचाळ निलंबित!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T00:19:18",
-            "url": "https://www.lokmat.com/parabhani/cs-dr-nagesh-lakhmawar-suspended-due-to-negligence-while-dho-dr-sanjay-panchal-suspended-due-to-irregularities-a-a925-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/doctor-parbhani-1_2026081762717.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ba151c064eb3",
-            "feed": "lokmat",
-            "title": "उल्हासनगरमध्ये महायुतीत मिठाचा खडा, महापौरांचे पती कमलेश निकम यांच्यावर भाजपचा हल्लाबोल, महापालिकेत सत्तांतराचे वारे?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T00:15:39",
-            "url": "https://www.lokmat.com/thane/a-rock-of-salt-in-the-ulhasnagar-mahayuti-bjps-attack-on-the-mayors-husband-kamlesh-nikam-winds-of-a-change-of-power-in-the-municipal-corporation-a-a562-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ulhasnagar-mnp-news-1_2026081762716.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fcfa2d8e163a",
-            "feed": "esakal",
-            "title": "बोरामणीत दिराने केला वहिनी, पुतण्या, पुतणीचा खून! पोलिसांनी दाखल केले २८० पानांचे दोषारोपपत्र; मृत शिवराजच्या शरीरावर ४९ अन्‌ मायलेकीच्या शरीरावर १९ जखमा, वाचा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T00:15:00",
-            "url": "https://www.esakal.com/maharashtra/in-boramani-a-man-murdered-his-sister-in-law-nephew-and-niece-following-a-property-dispute-police-have-filed-a-280-page-charge-sheet-the-body-of-the-deceased-shivraj-bore-49-wounds-while-the-bodies-of-the-mother-and-daughter-had-19-wounds",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/581hqknv/SolapurMain2026-05-0313.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "e30f221865a3",
-            "feed": "lokmat",
-            "title": "रागावण्याने दुखावलेल्या विद्यार्थिनीने केले विष प्राशन; उपचारापूर्वीच मृत्यू, धामणा गावातील घटना",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-14T00:28:42",
-            "url": "https://www.lokmat.com/national/angry-student-drinks-poison-dies-before-treatment-incident-in-dhamana-village-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news_2025111587692.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d0511700ca3d",
-            "feed": "lokmat",
-            "title": "कोलकात्यात पुन्हा धक्कादायक घटना, रुग्णालयाच्या टॉयलेटमध्ये नर्सचा मृतदेह सापडल्याने खळबळ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-14T00:01:59",
-            "url": "https://www.lokmat.com/national/another-shocking-incident-in-kolkata-a-nurses-body-found-in-a-hospital-toilet-causing-a-stir-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/west-bengal-crime-news-1_2026081762714.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2e0a6d2d8bee",
+            "id": "39fc7a3a74ae",
             "feed": "esakal",
-            "title": "त्वचा चमकदार ठेवण्यासाठी आयुर्वेदात सांगितलेल्या 7 सवयी",
+            "title": "आजचे पंचांग आणि दिनविशेष - 14 ऑगस्ट 2026",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-13T23:42:46",
-            "url": "https://www.esakal.com/ampstories/web-story/ayurvedic-skincare-habits-for-glowing-healthy-skin-daily-routine-natural-skin-care-tips-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/6os9e5fh/1.jpg",
+            "published": "2026-08-14T06:30:00",
+            "url": "https://www.esakal.com/culture-and-religion/on-this-day-happened-today-panchang-history-in-marathi-14th-august-2026-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2023-12/b5b8e9fd-eff3-4d56-9b40-c106856885ad/download.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "05825ffbc596",
+            "id": "4155f43395f1",
             "feed": "lokmat",
-            "title": "Shravan: नागपंचमी, रक्षाबंधन, जन्माष्टमी कधी? जाणून घ्या श्रावणातील सणांची तारखेनुसार संपूर्ण यादी",
+            "title": "शिवसेनेतील फुटीला घटनात्मक वैधता कशी काय देऊ शकता? उद्धवसेेनेचा सुप्रीम कोर्टात सवाल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "india"
             },
-            "published": "2026-08-13T23:42:06",
-            "url": "https://www.lokmat.com/photos/bhakti/shravan-month-festival-list-when-are-nag-panchami-raksha-bandhan-janmashtami-know-the-complete-list-of-festivals-in-shravan-by-date-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shravan-festival-3_2026081762702.jpg",
+            "published": "2026-08-14T06:26:06",
+            "url": "https://www.lokmat.com/national/how-can-you-give-constitutional-legitimacy-to-the-split-in-shiv-sena-uddhav-sena-questions-supreme-court-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shiv-sena-clash_2026081762725.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "ecc851f9e530",
+            "id": "c25c6bb3cbea",
+            "feed": "esakal",
+            "title": "ढिंग टांग : झुरळांचा झपुर्झा..!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-14T06:18:00",
+            "url": "https://www.esakal.com/sampadakiya/satirical/dhing-tang-british-nandi-cockroach-politics-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/udaxqjt8/Cockroach",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "e0b95fbc71d6",
+            "feed": "esakal",
+            "title": "संक्रामक रोग आणि पावसाळा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-14T06:10:00",
+            "url": "https://www.esakal.com/health/infectious-diseases-and-the-monsoon-sickness-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/8mz2vo0p/Infectious-Diseases-and-the-Monsoon",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "97d43e91178c",
             "feed": "lokmat",
-            "title": "Independence Day 2026 : पांढऱ्या किंवा ऑफ व्हाईट साडीवर सुंदर दिसतात ७ रंगाचे ब्लाऊज; स्वातंत्र्यदिनाला परफेक्ट लूक येईल",
+            "title": "मुलांना आलेला ताप, कानदुखी याला कारण असू शकतो कानातील संसर्ग; दुर्लक्ष नको",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-13T23:37:24",
-            "url": "https://www.lokmat.com/sakhi/photos/shopping/independence-day-2026-7-color-blouse-which-suit-on-off-white-and-white-saree-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-13-at-5.17.20-pm_2026081762698.jpeg",
+            "published": "2026-08-14T06:07:33",
+            "url": "https://www.lokmat.com/health/fever-and-earache-in-children-may-be-due-to-ear-infection-do-not-ignore-it-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/baby-ear-pain_2026081762722.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "bf368a71333c",
+            "feed": "lokmat",
+            "title": "लाल किल्ला स्फोटामागे ‘अल-कायदा’चाच हात; संयुक्त राष्ट्रसंघाच्या अहवालातून मोठा खुलासा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-14T06:00:46",
+            "url": "https://www.lokmat.com/international/al-qaeda-is-behind-the-red-fort-blast-un-report-makes-a-big-revelation-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/red-fort-blast-3_2026081762720.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "325a171590f7",
+            "feed": "lokmat",
+            "title": "पुतीन यांची कुरिल बेटांना भेट; जपानचे पंतप्रधान नाराज, टोकियोतून कडाडून विरोध",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-14T05:52:08",
+            "url": "https://www.lokmat.com/international/putins-visit-to-kuril-islands-japanese-prime-minister-upset-tokyo-strongly-opposes-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/putin-kuril_2026081762718.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "7e535ea727f7",
             "feed": "maharashtratimes",
@@ -198,22 +230,6 @@
             "category_reason": "feed"
         },
         {
-            "id": "c34e5ea4e16c",
-            "feed": "lokmat",
-            "title": "पॅसिफिक महासागरात एकाच वेळी ७ वादळांचा तांडव; भारताच्या पावसावर काय होणार परिणाम? हवामान तज्ज्ञांचा इशारा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-13T18:55:22",
-            "url": "https://www.lokmat.com/photos/international/pacific-storm-surge-weather-experts-track-potential-impact-on-indian-monsoon-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cyclones-india_2026081762627.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "7e28b0c09dbe",
             "feed": "maharashtratimes",
             "title": "पाण्यात बॉडी तरंगत होत्या! बोट उलटून 44 जणांचा शेवट; बचावलेल्या प्रवाशानं सांगितली आँखोदेखी",
@@ -228,22 +244,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "644b254a29b8",
-            "feed": "esakal",
-            "title": "World Organ Donation Day 2026: कॅन्सर झाला असेल तर अवयवदान करता येतं का? जाणून घ्या तज्ज्ञ काय सांगतात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-13T10:51:32",
-            "url": "https://www.esakal.com/health/can-cancer-patients-donate-organs-experts-explains-organ-donation-rules-myths-facts-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-13/ah5xfcib/World-Organ-Donation-Day-2026.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
