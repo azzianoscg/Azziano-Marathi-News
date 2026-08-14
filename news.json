@@ -1,217 +1,233 @@
 {
-    "lastUpdated": "14-08-2026 | 12:38 PM IST",
+    "lastUpdated": "14-08-2026 | 02:28 PM IST",
     "maharashtra": [
         {
-            "id": "12e8320130ec",
+            "id": "b0092c2822e5",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : काल, आज आणि उद्याही शिवसेना ठाकरेंचीच असेल; काय म्हणाल्या खासदार सुप्रिया सुळे?",
+            "title": "Malegaon Sugar Factory: माळेगाव साखर कारखान्यात सीबीजी प्रकल्पाची तयारी; सभासदांना आर्थिक फायद्याची माहिती देण्यासाठी प्रकल्प पाहणी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T12:35:41",
+            "published": "2026-08-14T14:21:14",
+            "url": "https://www.esakal.com/pune/malegaon-sugar-factory-cbg-project-gets-boost-as-members-visit-raj-processing-to-study-economic-benefits-and-production-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/f6nxc2n1/sudhir-jadhav-satara-18.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "da9dcfef6660",
+            "feed": "lokmat",
+            "title": "‘वर्ल्ड क्लास’ स्थानकांचा गाजावाजा, पण सुरक्षा कर्मचारी कुठे?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T14:12:11",
+            "url": "https://www.lokmat.com/nagpur/all-the-buzz-about-world-class-stations-but-where-are-the-security-personnel-a-a879-c1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-21_2026081763019.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "54421f53c7f6",
+            "feed": "esakal",
+            "title": "पुणे - माळशेज घाट - भोरंडे उदंचन प्रकल्प  शुक्रवारी (ता.२१) पर्यावरण विषयक जनसुनावणी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T14:07:33",
+            "url": "https://www.esakal.com/pune/adani-renewable-energy-opposition-maharashtra",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/zagv6404/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "12e8320130ec",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : स्वातंत्र्यवीर सावरकर मानहानी प्रकरणात राहुल गांधींना मोठा दिलासा; सुप्रीम कोर्टाने कार्यवाही केली रद्द",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-14T14:05:30",
             "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-14-august-2026-maratha-reservation-manoj-jarange-chandrashekhar-bawankule-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-spb94",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "41c23371adff",
+            "id": "1340e5f1349d",
             "feed": "maharashtratimes",
-            "title": "Mumbai Building Collapse: मुंबईत घरांची पडझड नित्याचीच; साडेपाच वर्षांत 1175 घटना, 76 जणांचा करुण अंत",
+            "title": "Raigad News : बाईक अचानक थांबली, आई खाली कोसळली, 20 दिवसांचं लेकरु छातीशी घट्ट; रायगडमध्ये मातृत्त्वाची हृदयस्पर्शी कहाणी",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T12:34:21",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-1175-building-collapse-incidents-over-5-5-years-76-tragic-deaths-339-injured/articleshow/133230613.cms",
+            "published": "2026-08-14T14:01:50",
+            "url": "https://maharashtratimes.com/maharashtra/raigad/raigad-alibaug-woman-fell-down-on-bike-held-20-day-old-baby-tightly-her-chest/articleshow/133233407.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "96e2e3a8b436",
-            "feed": "esakal",
-            "title": "Shiv Sena पक्ष अन् धनुष्यबाण उद्धव ठाकरेंकडे गेलं तर शिंदेंपुढे काय पर्याय? भाजपमध्ये विलीन होणार?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T12:33:41",
-            "url": "https://www.esakal.com/maharashtra/shiv-sena-name-bow-and-arrow-symbol-supreme-court-hearing-eknath-shinde-uddhav-thackeray-political-options-opinion-marathi-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/pwpeoxxx/What-Happens-to-Shinde-Faction-If-Shiv-Sena-Name-Symbol-Go.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "08bf805d3e6b",
-            "feed": "lokmat",
-            "title": "पासपोर्टसाठी जोडला वडिलांचा खोटा जन्म दाखला; बनावट वेबसाइटमुळे संशय वाढला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T12:25:54",
-            "url": "https://www.lokmat.com/mumbai/fathers-fake-birth-certificate-attached-to-passport-suspicion-raised-due-to-fake-website-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/passport-scam_2026081762890.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6cf64293e525",
-            "feed": "esakal",
-            "title": "फ्रेश कट उत्पादनाचा प्रकल्पासाठी जागेची निवड",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-14T12:22:07",
-            "url": "https://www.esakal.com/pune/fresh-cut-production-site-selection",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/drl932if/Banner1.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "ded29adf65da",
+            "id": "7880a2e35335",
             "feed": "esakal",
-            "title": "Chamoli Tunnel Accident: १९ कामगारांना रात्रीतून बाहेर काढले; चमोलीतील बोगदा दुर्घटनेनंतर मुख्यमंत्र्यांकडून मदतकार्याची पाहणी",
+            "title": "कोलेस्ट्रॉल वाढणार नाही फक्त सकाळी प्या 'हे' 4 ड्रिंक्स!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-14T12:25:16",
-            "url": "https://www.esakal.com/desh/chamoli-tunnel-accident-19-workers-rescued-7-dead-3-missing-rescue-operation-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/4lanc2ol/chamoli-tunnel-accident-cm-pushkar-singh-dhami.jpg.jpeg",
+            "published": "2026-08-14T14:27:04",
+            "url": "https://www.esakal.com/ampstories/web-story/4-healthy-morning-drinks-that-may-support-cholesterol-control-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/2ft0vf43/cholesterol-friendly-drinks-4.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6d5340472247",
+            "feed": "maharashtratimes",
+            "title": "Riteish Deshmukh Post For Father: १४ वर्षे झाली, माझा वनवास काही संपला नाही;  विलासराव देशमुख यांची पुण्यतिथी, लेक रितेशची डोळ्यात पाणी आणणारी पोस्ट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-14T14:22:51",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/riteish-deshmukh-emotional-post-on-vilasrao-deshmukh-death-anniversary-says-vanvas-has-not-ended/articleshow/133233449.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "bdf3cbb5eb94",
+            "id": "c0a273dcdacd",
             "feed": "lokmat",
-            "title": "Awarapan 2 X review: इमरान हाश्मीचं दमदार कमबॅक की अपेक्षाभंग? 'आवारापन २' पाहून प्रेक्षक म्हणतात...",
+            "title": "\"मुलांची आणि तुमची भेट व्हायला हवी होती\" विलासराव देशमुखांच्या आठवणीत जिनिलियाची भावुक पोस्ट, म्हणाली...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-14T12:24:56",
-            "url": "https://www.lokmat.com/filmy/bollywood/awarapan-2-x-review-emraan-hashmi-disha-patani-shabana-azmi-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/awarapan-2-x-review_2026081762871.jpg",
+            "published": "2026-08-14T14:22:48",
+            "url": "https://www.lokmat.com/filmy/bollywood/genelia-deshmukh-on-vilasrao-deshmukh-death-anniversary-emotional-post-sons-rahyl-and-riaan-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/genelia-deshmukh-on-vilasrao-deshmukh-death-anniversary-emotional-post-sons-rahyl-riaan_2026081763016.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "ad31f2648a1a",
+            "id": "ed9c0cacb1f1",
             "feed": "esakal",
-            "title": "Premium|New EPF Scheme 2026 : नवी ईपीएफ योजना लागू; पीएफ, पेन्शन आणि पैसे काढण्याच्या नियमांत झाले मोठे बदल",
+            "title": "Viral Video : मुलाने नातं कलंकित केलं! वडिलांच्या प्रेताचा अंगठा घेऊन हडपली ३ कोटींची जमीन; व्हिडिओ पाहून तुमचाही संताप होईल अनावर",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-14T12:21:24",
-            "url": "https://www.esakal.com/premium-article/new-epf-scheme-2026-social-security-code-pf-pension-digital-compliance-withdrawal-rules-employees-labour-ministry-india-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/ejb951ov/Abhi.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "a9b08428a91b",
-            "feed": "lokmat",
-            "title": "मेहेंदी लावल्यानंतर केस रंगतात, पण झाडूसारखे काेरडे होतात? ४ टिप्स- केस होतील मऊ, सिल्की",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-14T12:20:53",
-            "url": "https://www.lokmat.com/sakhi/photos/beauty/how-to-avoid-dryness-of-hair-after-applying-mehendi-4-tips-to-avoid-dryness-of-hair-after-applying-mehendi-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-14-at-10.32.00_2026081762876.jpeg",
+            "published": "2026-08-14T14:17:24",
+            "url": "https://www.esakal.com/trending-news/lucknow-dead-father-thumb-impression-son-3-crore-land-property-fraud-viral-video-khadaouha-rahimabad-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/3qnuy773/Viral-Video-UP.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "795f627ab212",
-            "feed": "lokmat",
-            "title": "१-२ नव्हे तब्बल ९ तात्या विंचू! ‘झपाटलेला’ सिनेमातील 'हे' सिक्रेट आजवर कोणालाच कळलं नाही, काय आहे भानगड?",
+            "id": "ca6ec19f5c83",
+            "feed": "maharashtratimes",
+            "title": "स्वतंत्र भारतात पहिल्यांदाच जातनिहाय जनगणना; कोविड लसीकरणासह 40 प्रश्न, पाहा संपूर्ण यादी",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-14T12:20:20",
-            "url": "https://www.lokmat.com/filmy/marathi-cinema/satyajit-padhye-revealed-zapatlela-movie-tatya-vinchu-iconic-character-secret-says-9-puppets-used-in-different-scene-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/zhapatlela-movie_2026081762866.jpg",
+            "published": "2026-08-14T14:16:22",
+            "url": "https://maharashtratimes.com/india-news/centre-notifies-40-questions-for-cenus-2027-including-caste-covid-vaccine-location/articleshow/133233390.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "ff08cac259e8",
+            "id": "ddab06138184",
             "feed": "lokmat",
-            "title": "युक्रेन मोठा कट रचतोय! रशियात विध्वंस माजवणारे घातक ड्रोन पाकिस्तानला विकण्याची तयारी; मुंबई, पुणे, चेन्नईपर्यंत...",
+            "title": "'जालन्याचा रेशीम धागा जगाला जोडणार!'; मुख्यमंत्री फडणवीसांची मोठी घोषणा, रेशीम बाजारपेठेचे लोकार्पण",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "world"
+                "category": null
             },
-            "published": "2026-08-14T12:29:55",
-            "url": "https://www.lokmat.com/photos/international/ukraine-selling-drones-to-pakistan-ukraine-is-plotting-a-big-conspiracy-preparing-to-sell-deadly-drones-that-wreak-havoc-in-russia-to-pakistan-mumbai-pune-chennai-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ukraine-supply-drone-to-pakistan-agaist-india-th1_2026081762892.jpg",
+            "published": "2026-08-14T14:08:16",
+            "url": "https://www.lokmat.com/jalana/jalnas-silk-will-connect-the-world-cm-fadnavis-opens-states-1st-silk-cocoon-market-rs961-top-bid-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jalanai-silk-cm-fadanvis-fea_2026081763013.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
-            "id": "0dbd8afad2d1",
+            "id": "5ca63d3ffb5f",
             "feed": "lokmat",
-            "title": "पाकिस्तानात HIV ब्लास्ट...! कराची रुग्णालयात ६ जणांचा मृत्यू, ९४ बालकांना एचआयव्हीची लागण",
+            "title": "८ तास जॉब, विनाकोचिंग तयारी अन्...; रेल्वे रूळ दुरुस्त करणारा प्रल्हाद कसा बनला IPS अधिकारी?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "world"
+                "category": null
             },
-            "published": "2026-08-14T12:19:54",
-            "url": "https://www.lokmat.com/international/pakistan-karachi-hospital-hiv-outbreak-6-people-die-in-karachi-hospital-94-children-infected-with-hiv-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-hiv_2026081762869.jpg",
+            "published": "2026-08-14T13:37:11",
+            "url": "https://www.lokmat.com/photos/inspirational-moral-stories/success-story-of-ips-pralhad-meena-8-hour-job-preparation-without-coaching-and-how-did-prahlad-who-repaired-railway-tracks-become-an-ips-officer-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/suceess-story-of-pralhad-meena-thumbnil-a_2026081762970.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
-            "id": "c7308eb0a04a",
-            "feed": "lokmat",
-            "title": "“पुढील २० वर्षांत भारत अंतराळातील महासत्ता बनेल”; कुणी केला दावा?, चीनबाबतही केले मोठे विधान",
+            "id": "7c8f36765786",
+            "feed": "esakal",
+            "title": "Maglev Bullet Train: विमानालाही टाकले मागे! ५ सेकंदात ८०० किमी प्रति तास वेग; चीनच्या 'मॅग्लेव' ट्रेनचा वर्ल्ड रेकॉर्ड!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-08-14T11:10:05",
-            "url": "https://www.lokmat.com/international/india-will-become-a-space-powerhouse-in-the-next-20-to-30-years-australia-former-pm-claim-and-big-statement-made-about-china-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-isro_2026081762815.jpg",
+            "published": "2026-08-14T13:25:13",
+            "url": "https://www.esakal.com/sci-tech/china-maglev-bullet-train-breaks-world-record-800-kmh-speed-speed-technology-electromagnetic-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/5zr52uju/China’s-Maglev-Bullet-Train.png",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "4186c47fceee",
+            "feed": "maharashtratimes",
+            "title": "अमेरिकेत मुंबईचा वडापाव किती रुपयांना मिळतो? मराठी महिलेनं दाखवली किंमत, लोक म्हणताहेत एवढ्या पैशांत अख्खं गाव खाईल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-14T12:39:14",
+            "url": "https://maharashtratimes.com/viral/viral-news/mumbais-beloved-vada-pav-costs-600-rs-in-america-viral-video-surprises-netizens/articleshow/133231734.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
         },
         {
             "id": "7e535ea727f7",
@@ -228,69 +244,53 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "7e28b0c09dbe",
-            "feed": "maharashtratimes",
-            "title": "पाण्यात बॉडी तरंगत होत्या! बोट उलटून 44 जणांचा शेवट; बचावलेल्या प्रवाशानं सांगितली आँखोदेखी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-13T18:51:48",
-            "url": "https://maharashtratimes.com/international/international-news/ferry-capsizes-on-lake-kariba-in-zimbabwe-44-passenger-dies/articleshow/133213467.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "38cbc8b803ff",
+            "id": "9875827c4269",
+            "feed": "lokmat",
+            "title": "Boxer Prichard Colon Death : वयाच्या २३व्या वर्षी कोमात, १० वर्षे मृत्यूशी झुंज; लढवय्या बॉक्सरने ३३व्या वर्षी घेतला अखेरचा श्वास",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T14:22:51",
+            "url": "https://www.lokmat.com/other-sports/boxer-prichard-colon-dies-aged-33-more-than-a-decade-after-fight-left-him-with-severe-brain-injury-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jdjdjd_2026081763024.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "31493bfaef7e",
             "feed": "esakal",
-            "title": "धक्कादायक! उद्यापासून IND vs SL कसोटी मॅच अन् त्यापूर्वी खेळाडूंच्या मारहाणीत श्रीलंकेतील क्रिकेट प्रशिक्षकाचा मृत्यू; नेमकं काय घडलं?",
+            "title": "IND vs SL 1st Test : बुमराहची अनुपस्थितीत, दोन गोलंदाजांपैकी निवडू कोणाला? शुभमन गिल पहिल्या सामन्यापूर्वी पेचात अडकला, म्हणाला...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-14T11:59:26",
-            "url": "https://www.esakal.com/krida/cricket/shocking-news-ahead-of-ind-vs-sl-test-sri-lankan-coach-sumith-fernando-dies-after-alleged-fight-with-players-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/ikaby6be/Sri-Lankan-cricket-coach-Sumith-Fernando-dies-after-alleged-altercation-with-players",
+            "published": "2026-08-14T14:19:00",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-gurnoor-brar-or-prasidh-krishna-shubman-gill-faces-tough-call-ahead-of-opener-jasprit-bumrah-absent-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/0aa3bpsn/Shubman-Gill-Press-Conferance",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "797b009da502",
-            "feed": "esakal",
-            "title": "IND vs SL 1st Test: मालिका सुरू होण्यापूर्वीच गौतम गंभीरची फलंदाजाला धमकी? चांगला नाही खेळलास तर संघाबाहेर करेन... एकच खळबळ",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-14T11:21:06",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-test-series-gautam-gambhir-warns-indian-batter-dhruv-jurel-sri-lanka-series-could-be-his-last-chance-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/c3m1unx0/Dhruv-Jurel-under-pressure-ahead-of-India-vs-Sri-Lanka-1st-Test",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6d2bd2327ed5",
+            "id": "fdbea89619d4",
             "feed": "maharashtratimes",
-            "title": "IND vs SL 1st Test  : भारत वि. श्रीलंका पहिला कसोटी सामना उद्या किती वाजता, कुठे पाहता येणार? जाणून घ्या",
+            "title": "IND vs SL Test Playing 11 : श्रीलंकेविरूद्धच्या कसोटीत बुमराहची जागा कोण भरून काढणार? गंंभीरकडे 2 पर्याय, पाहा कोण?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-14T11:08:23",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-1st-test-match-live-steaming-when-and-where-match-venue/articleshow/133229727.cms",
+            "published": "2026-08-14T13:51:01",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-1st-test-prasidh-krishna-and-gurnoor-brar-who-will-select-in-playing-11/articleshow/133231196.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -298,50 +298,50 @@
     ],
     "business": [
         {
-            "id": "332833d3313d",
+            "id": "cff1163bc74b",
             "feed": "lokmat",
-            "title": "Technocraft Ventures IPO: पहिल्याच दिवशी ५५ टक्क्यांपेक्षा अधिक वधारला 'हा' शेअर; प्रत्येक शेअरवर १०० रुपयांपेक्षा अधिक फायदा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-14T12:28:19",
-            "url": "https://www.lokmat.com/business/stock-market/technocraft-ventures-ipo-stock-rose-more-than-55-percent-on-the-first-day-profit-of-more-than-rs-100-on-each-share-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ipo-money-ind_202205828853.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4f24d9c534ca",
-            "feed": "lokmat",
-            "title": "Soybean Yellow Mosaic : सोयाबीन उत्पादकांनो सावधान! पिवळा मोझॅकचा वाढतोय धोका; वेळीच करा 'हे' उपाय",
+            "title": "भारतात लवकरच लॉन्च होणार ४ हायब्रिड SUVs; दमदार मायलेजसह मिळणार १,००० किमीपर्यंतची रेंज",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-14T12:20:37",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-soybean-yellow-mosaic-soybean-growers-beware-the-threat-of-yellow-mosaic-is-increasing-take-this-measure-in-time-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/soybean-yellow-mosaic-1_2026081762874.jpg",
+            "published": "2026-08-14T14:14:38",
+            "url": "https://www.lokmat.com/photos/auto/4-hybrid-suvs-to-be-launched-in-india-soon-range-of-up-to-1000-km-with-strong-mileage-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hybriddd_2026081763021.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e934c49043b0",
+            "id": "c333f1bb38b0",
             "feed": "lokmat",
-            "title": "सामायिक क्षेत्राच्या भूसंपादन मोबदल्याचे वाद आता मिटणार; प्रत्यक्ष वहिवाटीनुसार मिळणार स्वतंत्र मोबदला",
+            "title": "Wainganga-Nalganga River Water : सव्वा लाख हेक्टरला मिळणार सिंचनाचा आधार? बुलढाण्याने मागितले ४० टीएमसी पाणी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-14T12:17:56",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/the-dispute-over-land-acquisition-compensation-for-common-areas-will-now-be-resolved-separate-compensation-will-be-given-according-to-actual-occupancy-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhusampadan-mobadala-issue_2026081762863.jpeg",
+            "published": "2026-08-14T14:01:04",
+            "url": "https://www.lokmat.com/agriculture/weather/latest-news-wainganga-nalganga-river-water-will-one-and-a-half-lakh-hectares-get-irrigation-support-buldhana-has-asked-for-40-tmc-water-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wainganga-nalganga-river-water-1_2026081762997.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "c2a484143b1a",
+            "feed": "lokmat",
+            "title": "आता FDA आयुक्त तुकाराम मुंढेंची नजर बाजार समित्यांवर, जिल्हा उपनिबंधकांचे महत्वाचे आवाहन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-14T13:45:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-fda-commissioner-tukaram-mundhe-eyes-on-market-committees-says-district-deputy-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fda-bajar_2026081762916.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
