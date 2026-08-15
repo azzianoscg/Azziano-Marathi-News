@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "15-08-2026 | 06:09 AM IST",
+    "lastUpdated": "15-08-2026 | 07:38 AM IST",
     "maharashtra": [
         {
-            "id": "5ddf0fd9c969",
+            "id": "85fb9df212bf",
+            "feed": "maharashtratimes",
+            "title": "President Medal: पुण्यातील कदम, स्वामी यांना राष्ट्रपती पदक; कदम CID, स्वामी पिंपरी-चिंचवड पोलिस आयुक्तालयात सेवेत",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T07:22:54",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/independence-day-2026-president-medal-announced-for-pimpri-chinchwad-psi-shivanand-swami-and-cid-dsp-jitendra-kadam/articleshow/133253759.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "86d25efd3f51",
             "feed": "lokmat",
-            "title": "मुंबईतील सिद्धिविनायक मंदिरात दुर्घटना, लाडू बनवताना गरम पाणी अंगावर पडून कंत्राटी कर्मचाऱ्याचा मृत्यू",
+            "title": "पॉन्झी स्कीमचे जाळे केले उद्ध्वस्त; महाराष्ट्र, गोवा, कर्नाटक : ३० कोटींची गुंतवणूक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-15T00:33:12",
-            "url": "https://www.lokmat.com/mumbai/accident-at-siddhivinayak-mandir-in-mumbai-contract-worker-dies-after-hot-water-falls-on-him-while-making-laddus-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/siddhivinayak-mandir-1_2026081763414.jpg",
+            "published": "2026-08-15T07:16:26",
+            "url": "https://www.lokmat.com/mumbai/ponzi-scheme-network-busted-maharashtra-goa-karnataka-investment-of-rs-30-crores-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fraud-crime_2026081763431.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "04fe3c2452a2",
-            "feed": "lokmat",
-            "title": "मनोज जरांगे पाटील यांची प्रकृती अचानक खालावली; छत्रपती संभाजीनगरला रुग्णालयात हलविले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-15T00:08:08",
-            "url": "https://www.lokmat.com/maharashtra/manoj-jarange-patils-condition-suddenly-deteriorated-shifted-to-chhatrapati-sambhajinagar-hospital-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-jarange-patil-1_2026081763412.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "399b17ec67ef",
-            "feed": "lokmat",
-            "title": "स्वातंत्र्य दिनाच्या औचित्याने शहरात ऑपरेशन ऑल आऊट, वरिष्ठ अधिकारीही सहभागी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-15T00:07:25",
-            "url": "https://www.lokmat.com/nagpur/operation-all-out-in-the-city-on-the-occasion-of-independence-day-senior-officials-also-participated-a-a877-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-abd-constable-aty_202303983762.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3277aa24a96c",
+            "id": "7b192c1ac6ea",
             "feed": "esakal",
-            "title": "सोलापूर अन्‌ ‘वंदे मातरम्‌’चा कनेक्ट! ‘वंदे मातरम्‌’ गाण्यासाठी लोकमान्य टिळकांनी सोलापूरच्या ‘या’ तरुणाला नेले होते कोलकत्त्याला; १२० वर्षांपूर्वीची कहाणी...",
+            "title": "शहर हद्दीतही दोन्ही बाजूला ३० मीटरचेच बंधन! महामार्गांलगतच्या हॉटेल, ढाब्यांवर ६० दिवसांत हातोडा; जिल्हाधिकाऱ्यांकडून ‘कृती दल’ स्थापन, वाचा...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T23:55:00",
-            "url": "https://www.esakal.com/maharashtra/the-connection-between-solapur-and-vande-mataram-lokmanya-tilak-took-this-young-man-from-solapur-to-kolkata-to-sing-vande-mataram-a-story-from-120-years-ago",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/vuuvd7t4/IMG-20260814-WA0282.jpg",
+            "published": "2026-08-15T07:05:00",
+            "url": "https://www.esakal.com/maharashtra/the-30-meter-restriction-applies-within-city-limits-too-hotels-and-dhabas-along-highways-to-face-demolition-within-60-days-district-collector-sets-up-a-task-forceread-on",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/539e9rga/PNE26W41644.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0f74508a22a3",
+            "id": "ef287023bb33",
             "feed": "lokmat",
-            "title": "पोलिस आयुक्त, सहआयुक्तांसह एसआरपीएफचे निसार तांबोळी, अतिरिक्त आयुक्त दाभाडेंनाही अतिउत्कृष्ट सेवापदक घोषित",
+            "title": "उड्डाणपुलांची कामे तातडीने पूर्ण करा : मंत्र्यांचे निर्देश; मुंबई-गोवा महामार्ग प्रवास सुखकर करण्याचे प्रयत्न",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-14T23:53:39",
-            "url": "https://www.lokmat.com/nagpur/along-with-the-police-commissioner-joint-commissioners-srpfs-nisar-tamboli-additional-commissioner-dabhade-were-also-awarded-the-most-excellent-service-medal-a-a877-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-abd-maharashtra-1a_202208869805.png",
+            "published": "2026-08-15T07:01:14",
+            "url": "https://www.lokmat.com/maharashtra/complete-flyover-work-immediately-ministers-instructions-efforts-to-make-mumbai-goa-highway-travel-comfortable-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-goa-highway-2_2026081763428.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "08ae7191f011",
+            "feed": "lokmat",
+            "title": "अमली पदार्थ तस्कर वीरेंद्र सिंहचे भारतात प्रत्यार्पण; १३ हजार कोटी रुपयांच्या अमली पदार्थ प्रकरणाला नवी कलाटणी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T06:53:19",
+            "url": "https://www.lokmat.com/mumbai/drug-smuggler-virendra-singh-extradited-to-india-new-twist-in-rs-13000-crore-drug-case-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/virendra-singh-basoya_2026081763427.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "6e8d75ee3986",
-            "feed": "maharashtratimes",
-            "title": "15 ऑगस्टला सुट्टीचे फिरायला जाताना 10 अ‍ॅप्स सांगतील रिअल-टाईम हवामान; ऐनवेळी पावसात अडकण्यापासून वाचा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-15T06:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/how-to-track-accurate-monsoon-weather-on-your-weekend-trip-using-10-best-mobile-apps-this-august-15/articleshow/133241444.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "b9a4d018b513",
+            "id": "5a707518f757",
             "feed": "esakal",
-            "title": "आजचे राशीभविष्य १५ ऑगस्ट २०२६!  १२ राशींसाठी कसा असेल शनिवारचा दिवस",
+            "title": "Independence Day Live Update :  लाल किल्ल्यावर पहिल्यांदाच राष्ट्रीय गीत वंदे मातरम् चे सादरीकरण",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T06:00:00",
-            "url": "https://www.esakal.com/ampstories/web-story/horoscope-august-15-2026-financial-gains-for-some-zodiac-signs-expense-alert-for-others-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-14/9pf4i6hq/1.jpg.jpeg",
+            "published": "2026-08-15T07:35:46",
+            "url": "https://www.esakal.com/desh/atest-marathi-news-live-today-15th-august-2026-80th-independence-day-nationwide-celebrations-prime-minister-narendra-modi-red-fort-national-flag-vande-mataram-president-droupadi-murmu-supreme-court-rahul-gandhi-weather-fda-action-mumbai-maharashtra-shiv-sena-eknath-shinde-devendra-fadnavis-srk94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/okkawh4y/80th-Independence-Day-PM-Modi-to-Hoist-National-Flag-at-Red-Fort-1.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "52922be2ab32",
+            "id": "bcd0cf3a87a2",
+            "feed": "maharashtratimes",
+            "title": "Independence Day: देशप्रेमाची भावना जागवणारा तिरंगा, राष्ट्रगीताचे सूर अन् ध्वजारोहण; मराठी कलाकारांनी शेअर केल्या १५ ऑगस्टच्या खास  आठवणी, प्रवीण तरडेंनी सांगितला कॉलेजमधील किस्सा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-15T07:30:42",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/80th-independence-day-marathi-actor-flag-hoisting-memories-pravin-tarde-mrunmayee-deshpande-and-other/articleshow/133253868.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "25c724e32f31",
             "feed": "lokmat",
-            "title": "बस्तरच्या जंगलातून थेट रॅम्प वाॅक;  नऊ माओवादी महिलांचा नवा प्रवास",
+            "title": "‘विधि’ प्रवेशाचे प्राधान्यक्रम भरण्यास पुन्हा मुदतवाढ; ३ वर्षांसाठी १६ ऑगस्ट, तर ५ वर्षांसाठी १५ ऑगस्टपर्यंत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-15T05:57:56",
-            "url": "https://www.lokmat.com/national/ramp-walk-straight-from-the-jungles-of-bastar-new-journey-of-nine-maoist-women-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/naxlite-women-rampwalk_2026081763418.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bf192391ed24",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 15 ऑगस्ट 2026 : शनिदेवाची होणार याराशींवर कृपा ग्रहदोष संपणार,नोकरीत प्रमोशन कमाई वाढणार ! पहा तुमचे राशिभविष्य काय सांगते ?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-15T05:28:58",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-15-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/133253429.cms",
-            "image": "",
+            "published": "2026-08-15T07:26:31",
+            "url": "https://www.lokmat.com/education/deadline-for-filling-up-priority-list-for-law-admission-extended-again-august-16-for-3-years-and-august-15-for-5-years-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/law-addmission_2026081763434.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "a42b8f16d26e",
-            "feed": "maharashtratimes",
-            "title": "अंक भविष्य, 15 August 2026: मूलांक 1 मान-सन्मानात वाढ! मूलांक 4 मतभेदाची भीती, सावध राहा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "id": "ccccaa2f8ef4",
+            "feed": "lokmat",
+            "title": "Tarot Card: १६ ते २२ ऑगस्ट; ज्या गोष्टींची वाट बघत होता, त्या घटना घडतील; वाचा साप्ताहिक टॅरो भविष्य",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-15T05:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-15-august-2026-kalanidhi-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133240400.cms",
-            "image": "",
+            "published": "2026-08-15T07:10:06",
+            "url": "https://www.lokmat.com/photos/bhakti/tarot-card-august-16-to-22-the-things-you-have-been-waiting-for-will-happen-read-your-weekly-tarot-prediction-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/16-22-august-tarot-card-numerology-1_2026081762944.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
+        },
+        {
+            "id": "ea86c3945fb9",
+            "feed": "lokmat",
+            "title": "Shravan 2026: कामकाजात अडथळे अन् कष्टाचे फळ मिळत नाहीये? 'या' मंत्राचा १०८ वेळा करा जप; दूर होईल शनिपीडा!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-15T07:10:01",
+            "url": "https://www.lokmat.com/bhakti/shravan-2026-obstacles-in-work-and-not-getting-the-fruits-of-hard-work-chant-this-mantra-108-times-shani-pida-will-be-removed-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shravan-2026-shiva-shani-mantra_2026081762509.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "864425ae5377",
+            "feed": "lokmat",
+            "title": "\"पाण्याच्या हक्काबाबत तडजोड नाही\"; सिंधू जलवाटपावरून पाक पंतप्रधानांची भारतास धमकी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-15T06:14:48",
+            "url": "https://www.lokmat.com/international/no-compromise-on-water-rights-pak-pm-threatens-india-over-indus-water-sharing-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pak-pm_2026081763420.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "65e8fc702753",
             "feed": "esakal",
@@ -232,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "63d702076397",
+            "feed": "lokmat",
+            "title": "IND vs SL 1st Test Live Streaming : टीम इंडियाचा ऐतिहासिक सामना कुठे अन् कधी पाहता येणार? जाणून घ्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-15T06:53:21",
+            "url": "https://www.lokmat.com/cricket/news/india-vs-sri-lanka-1st-test-live-streaming-when-and-where-to-watch-ind-vs-sl-match-online-telecast-and-more-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-sri-lanka-1st-test-live-streaming-m-_2026081763425.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "92aa9d20e9c9",
             "feed": "maharashtratimes",
             "title": "IND vs SL Test : स्वातंत्र्यदिनी भारताचा उद्या 600वा कसोटी सामना! 'आज मला इथूनच सुरूवात करायचीये'; कॅप्टन गिलने उघडपणे सांगितलं टार्गेट",
@@ -262,22 +294,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-14/gi0rfm9c/Ajinkya-Rahane-Exclusive",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "f5a78aae4d39",
-            "feed": "lokmat",
-            "title": "युवा क्रिकेटपटू अभिषेक पोरेलचा जामीन अर्ज फेटाळला; १४ दिवसांची न्यायालयीन कोठडी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-14T19:33:53",
-            "url": "https://www.lokmat.com/cricket/news/indian-cricketer-abishek-porel-denied-bail-in-rape-case-sent-to-judicial-custody-for-14-days-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-cricketer-abishek-porel-denied-bail-in-rape-case-m-_2026081763361.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
