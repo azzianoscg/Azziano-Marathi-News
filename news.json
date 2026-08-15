@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "15-08-2026 | 10:42 PM IST",
+    "lastUpdated": "15-08-2026 | 11:44 PM IST",
     "maharashtra": [
         {
             "id": "20ae7fe1d794",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "e12108f0c718",
+            "feed": "esakal",
+            "title": "मुघल साम्राज्याच्या पतनाची 10 प्रमुख कारणं कोणती?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-15T22:55:33",
+            "url": "https://www.esakal.com/ampstories/web-story/decline-of-mughal-empire-10-major-reasons-history-aurangzeb-maratha-empire-british-rule-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/c304s566/8.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "b434eb1a444a",
             "feed": "esakal",
             "title": "CM Yogi: महाराष्ट्रातील कारवायांनंतर उत्तर प्रदेश सरकारला आली जाग! भेसळखोरांविरुद्ध उचलली कठोर पावलं...",
@@ -146,22 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-15/u4a1kdly/food.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "5a707518f757",
-            "feed": "esakal",
-            "title": "दिवसभरातील महत्त्वाच्या घडामोडी वाचा एका क्लिकवर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-15T21:13:21",
-            "url": "https://www.esakal.com/desh/atest-marathi-news-live-today-15th-august-2026-80th-independence-day-nationwide-celebrations-prime-minister-narendra-modi-red-fort-national-flag-vande-mataram-president-droupadi-murmu-supreme-court-rahul-gandhi-weather-fda-action-mumbai-maharashtra-shiv-sena-eknath-shinde-devendra-fadnavis-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/okkawh4y/80th-Independence-Day-PM-Modi-to-Hoist-National-Flag-at-Red-Fort-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
@@ -248,55 +248,71 @@
     ],
     "sports": [
         {
-            "id": "540aab9cbeec",
+            "id": "ece559ea3c7d",
             "feed": "lokmat",
-            "title": "कडक सेंच्युरीसह देवदत्त पडिक्कल दिग्गजांच्या एलिट क्लबमध्ये; विनोद कांबळीचा ‘तो’ विक्रम अजूनही अबाधित!",
+            "title": "भारताच्या स्वातंत्र्यदिनी शतक ठोकणारा देवदत्त पडिक्कल ठरला दुसरा फलंदाज, मग पहिला कोण? जाणून घ्या",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-15T21:36:17",
-            "url": "https://www.lokmat.com/cricket/photos/ind-vs-sl-test-record-devdutt-padikkal-8th-indian-left-hander-to-score-a-test-hundred-at-no-3-vinod-kambli-leads-with-most-centuries-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/left-hander-to-score-a-test-hundred-at-no-3-m-6_2026081763812.jpg",
+            "published": "2026-08-15T23:21:46",
+            "url": "https://www.lokmat.com/cricket/photos/devdutt-padikkal-virat-kohli-ind-vs-sl-1st-test-devdutt-padikkal-became-the-second-batsman-to-score-a-century-on-indias-independence-day-so-who-was-the-first-find-out-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devdutt-padikkal-2_2026081763819.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "51267ae1013e",
+            "id": "06d89c74a043",
+            "feed": "lokmat",
+            "title": "फुटबॉलच्या विश्वविजेतेपदानंतर आता स्पेनचा क्रिकेटमध्ये मोठा पराक्रम, मोडला ऑस्ट्रेलियाचा विक्रम",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-15T22:44:54",
+            "url": "https://www.lokmat.com/cricket/news/after-winning-the-football-world-cup-spain-now-has-a-great-feat-in-cricket-breaking-australias-record-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/spain-cricket-team-2_2026081763815.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "985a5b44bf57",
             "feed": "maharashtratimes",
-            "title": "Devdutt Paddikal : देवदत्तचा सर्वात मोठा रेकॉर्ड! 150 वर्षांत कोणालाच जमलं नाही, ते पडिक्कलने करून दाखवलं; स्वातंत्र्यदिनी नेमकी कोणती कामगिरी?",
+            "title": "IND vs SL Test Day 2 Time : पावसाने १७ षटके बुडवली त्याची भरपाई होणार! भारत-श्रीलंका कसोटीची वेळ बदलली; दुसऱ्या दिवशी सामना किती वाजता?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-15T21:24:45",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/devdutt-padikkal-century-india-vs-sri-lanka-galle-test-august-15-record/articleshow/133265162.cms",
+            "published": "2026-08-15T22:41:09",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-test-day-2-time-changed-new-time-is-9-45-reason-rain-team-india-target/articleshow/133265950.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "business": [
+        {
+            "id": "133da9c9b6bc",
+            "feed": "maharashtratimes",
+            "title": "गॅस कनेक्शन होऊ शकतं सस्पेंड, लगेच करून घ्या E-KYC; सोप्या भाषेत समजून घ्या संपूर्ण प्रक्रिया",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-15T22:50:55",
+            "url": "https://maharashtratimes.com/business/business-news/lpg-gas-cylinder-e-kyc-importance-and-easiest-way-to-do/articleshow/133266081.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
-        {
-            "id": "f7042d2d0b43",
-            "feed": "lokmat",
-            "title": "Hockey World Cup: भारताने हॉकी वर्ल्डकपमध्ये रचला इतिहास, केला आतापर्यंत कुणालाही न जमलेला विक्रम",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-15T20:18:43",
-            "url": "https://www.lokmat.com/hockey/fih-mens-hockey-world-cup-india-created-history-in-the-hockey-world-cup-achieved-a-record-that-no-one-has-achieved-so-far-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hockey-india-2_2026081763779.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "business": [
         {
             "id": "a0a1f9991e7a",
             "feed": "maharashtratimes",
@@ -326,22 +342,6 @@
             "published": "2026-08-15T20:15:02",
             "url": "https://www.lokmat.com/agriculture/farming-ideas/one-district-one-registration-now-land-registration-can-be-done-anywhere-in-the-district-a-a989/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/c1b5cb9d-0ff3-40b7-b6c9-88a9bd2e0a3d_2026081763731.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "2321114cf745",
-            "feed": "lokmat",
-            "title": "Kanda Market : स्वातंत्र्यदिनाच्या दिवशी कांद्याला क्विंटलमागे सरासरी काय भाव मिळाला, वाचा सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-15T19:45:01",
-            "url": "https://www.lokmat.com/agriculture/market-yard/kanda-market-independence-day-see-average-price-per-quintal-of-onion-on-independence-day-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-zenda_2026081763769.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
