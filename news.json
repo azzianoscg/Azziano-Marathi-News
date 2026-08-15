@@ -1,165 +1,165 @@
 {
-    "lastUpdated": "15-08-2026 | 09:50 AM IST",
+    "lastUpdated": "15-08-2026 | 10:46 AM IST",
     "maharashtra": [
         {
-            "id": "8a0ba6ce99f1",
+            "id": "b3a409cba844",
             "feed": "lokmat",
-            "title": "लोकप्रतिनिधींना घरे तोडण्याची भाषा शोभत नाही, उत्तर देऊ : म्हस्के",
+            "title": "पक्ष ज्या पद्धतीने फोडण्यात आले, ते संविधानाच्या चौकटीत बसणारे नाही : सुळे",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T10:37:10",
+            "url": "https://www.lokmat.com/mumbai/the-way-the-party-was-split-does-not-fit-within-the-framework-of-the-constitution-sule-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supriya-sule_2026081763517.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3abac6f47587",
+            "feed": "lokmat",
+            "title": "पुण्यात हल्लेखोराच्या घराची झडती, एटीएसकडून कुटुंबीयांची चौकशी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-15T09:41:45",
-            "url": "https://www.lokmat.com/navi-mumbai/the-language-of-demolishing-houses-does-not-suit-public-representatives-we-will-answer-mhaske-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/naresh-mhaske_2026081763484.jpg",
+            "published": "2026-08-15T10:31:20",
+            "url": "https://www.lokmat.com/nanded/attackers-house-searched-in-pune-ats-questions-family-members-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nanded-case_2026081763516.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e2c2c763fcdc",
-            "feed": "lokmat",
-            "title": "पुण्यातील तब्बल २८ लाख मतदार वगळणार..! आज, उद्या बीएलओंना भेटण्याची संधी, सोमवारी अंतिम मुदत",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-15T09:41:13",
-            "url": "https://www.lokmat.com/pune/as-many-as-28-lakh-voters-in-pune-will-be-excluded-opportunity-to-meet-blos-today-tomorrow-deadline-on-monday-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/list-vv_2026081763482.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4b7c3e90744f",
-            "feed": "maharashtratimes",
-            "title": "Devendra Fadnavis Tiranga  Yatra Sambhajinagar :देश बदलतोय, राज्य बदलतंय ; राज्याची अर्शव्यवस्था  ५० लाख कोटींच्या घरात",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-15T09:40:25",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/devendra-fadnavis-tiranga-yatra-says-maharashtra-economy-close-to-rs-50-lakh-crore/articleshow/133255404.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1d791f39c1ed",
-            "feed": "lokmat",
-            "title": "फडणवीस इन्फ्रा मॅन नव्हे, महाराष्ट्रासाठी..; काँग्रेसचे प्रदेशाध्यक्ष हर्षवर्धन सपकाळ यांची टीका",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-15T09:36:18",
-            "url": "https://www.lokmat.com/pune/fadnavis-is-not-an-infra-man-he-is-for-maharashtra-criticism-from-congress-state-president-harshvardhan-sapkal-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/c-bjp_2026081763476.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "092b6e0e8c8e",
+            "id": "aa5c0762d6be",
             "feed": "esakal",
-            "title": "Chakan Industrial Area Roads: वाहतूक कोंडीने उद्योगांची घुसमट; चाकण औद्योगिक क्षेत्राला जोडणाऱ्या रस्त्यांची दुरवस्था",
+            "title": "D.B. Dhamanaskar: ज्येष्ठ कवी द. भा. धामणस्कर यांचे निधन",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-15T09:34:55",
-            "url": "https://www.esakal.com/pune/chakan-industrial-area-roads-traffic-congestion-infrastructure-development-pune-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/uwybuf94/Abhi-1.jpg",
+            "published": "2026-08-15T10:27:45",
+            "url": "https://www.esakal.com/mumbai/senior-marathi-poet-db-dhamankar-passes-away-at-age-of-95-in-dombivli-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/mniano4q/D.B.-Dhamankar-Passes-Away.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5bd7ac621b72",
+            "feed": "lokmat",
+            "title": "कुंभमेळ्याच्या वर्क ऑर्डरद्वारे ३.४० कोटींची फसवणूक; आणखी तिघांना अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T10:25:41",
+            "url": "https://www.lokmat.com/nashik/340-crore-fraud-through-kumbh-mela-work-order-three-more-arrested-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-kumbha-mela_2026081763514.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "97053b37b9ea",
+            "feed": "lokmat",
+            "title": "‘उद्योग बाहेर जात असतील तर कारणे शोधा’; रोहित पवारांचा सरकारला टोला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T10:22:48",
+            "url": "https://www.lokmat.com/pune/if-industries-are-going-out-find-the-reasons-rohit-pawar-hits-out-at-the-government-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chakn-rohit-pawar_2026081763511.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "4f58d84c8edb",
+            "id": "87440a86d22a",
             "feed": "esakal",
-            "title": "PM Modi Mental Naxalism Statement : 'नक्षलवादाने तरुणांचे भविष्य उद्ध्वस्त केले'; मानसिक नक्षलवादाला ठेचल्याशिवाय भारत विकसित होणार नाही, पीएम मोदींचा जोरदार हल्ला",
+            "title": "PM Modi Statement on Urea Subsidy : शेतकऱ्यांना 300 रुपयांना मिळणारे युरियाचे पोते सरकार कितीला खरेदी करते? लाल किल्ल्यावरून पंतप्रधान मोदींचा मोठा खुलासा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T09:48:41",
-            "url": "https://www.esakal.com/desh/pm-modi-red-fort-speech-mental-naxalism-maoism-naxal-violence-india-national-security-development-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/zx9lufht/PM-Modi-Red-Fort-Speech",
+            "published": "2026-08-15T10:43:28",
+            "url": "https://www.esakal.com/desh/urea-subsidy-price-india-government-cost-farmers-pm-modi-fertilizer-subsidy-dap-price-kharif-fertilizer-demand-2026-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/w1mugzn6/PM-Modi-statement-on-urea-subsidy",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "8db7e79c1b6d",
+            "id": "7248dd92842e",
             "feed": "esakal",
-            "title": "Maths Park : खेळता खेळता गणित शिकणार!सरकारी शाळेत ६ लाखांत साकारले 'मॅथ्स पार्क, मुख्यमंत्र्यांच्या हस्ते लोकार्पण",
+            "title": "Shravan Belpatra Rules: बेलाचं पान कधी तोडावं? कधी तोडू नये? 'या' चुकांमुळे लागू शकतो दोष; जाणून घ्या योग्य नियम",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T09:41:55",
-            "url": "https://www.esakal.com/education-jobs/maths-park-government-school-borlay-students-learn-with-models",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/iodk8g9f/cm-mohan-yadav-maths-park-madhya-pradesh.jpg",
+            "published": "2026-08-15T10:41:46",
+            "url": "https://www.esakal.com/culture-and-religion/belpatra-plucking-rules-shravan-how-to-offer-on-shivling-shravan-2026-belache-paan-mahadev-shankar-shiv-mandir-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/pffut8b2/Belpatra-Rules-shravan-2026.png",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "4e7ebe531ce5",
-            "feed": "lokmat",
-            "title": "भूपेन हजारिका : भारताचा अमर स्वर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-15T09:41:35",
-            "url": "https://www.lokmat.com/manthan/bhupen-hazarika-the-immortal-voice-of-india-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhupen-hajarik_2026081763479.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
             "id": "5a707518f757",
             "feed": "esakal",
-            "title": "Independence Day Live Update :  आदिवासी विद्यार्थ्यांचे आंदोलन तिसऱ्या दिवशीही सुरू, स्वातंत्र्यदिन कार्यालयातच साजरा",
+            "title": "Independence Day Live Update :  पुण्यातील विधानभवन ध्वजारोहण सोहळ्यात आसन व्यवस्थेवरून नीलम गोरे नाराज",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T09:33:07",
+            "published": "2026-08-15T10:22:39",
             "url": "https://www.esakal.com/desh/atest-marathi-news-live-today-15th-august-2026-80th-independence-day-nationwide-celebrations-prime-minister-narendra-modi-red-fort-national-flag-vande-mataram-president-droupadi-murmu-supreme-court-rahul-gandhi-weather-fda-action-mumbai-maharashtra-shiv-sena-eknath-shinde-devendra-fadnavis-srk94",
             "image": "https://cf-images.assettype.com/esakal/2026-08-15/okkawh4y/80th-Independence-Day-PM-Modi-to-Hoist-National-Flag-at-Red-Fort-1.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "39c3782ab93e",
+            "id": "abccd11e36e8",
             "feed": "lokmat",
-            "title": "Shravan Special : ना ओव्हन, ना साबुदाणा ! तव्यावर करा उपवासाचे बिस्कीट, फराळी पौष्टिक पदार्थ- १५ दिवसही टिकेल",
+            "title": "हृतिक रोशन आणि सबा आझादचं ब्रेकअप? सेलिब्रिटी डेटिंग ॲपवर अभिनेत्याचं प्रोफाईल व्हायरल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-15T09:30:02",
-            "url": "https://www.lokmat.com/sakhi/food/shravan-special-fasting-biscuit-recipe-vrat-biscuits-recipe-without-oven-healthy-vrat-biscuits-recipe-how-to-make-fasting-biscuits-without-oven-tawa-biscuits-for-fasting-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tawa-biscuits-for-fasting_2026081763211.jpeg",
+            "published": "2026-08-15T10:17:35",
+            "url": "https://www.lokmat.com/filmy/bollywood/hrithik-roshan-and-saba-azad-break-up-actors-profile-goes-viral-on-celebrity-dating-app-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hritik-saba-breakup-news_2026081763509.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6adb38a79a33",
+            "feed": "lokmat",
+            "title": "पायाला प्लास्टरऐवजी गुंडाळला पुठ्ठा; पैसे मागणारा कामगार निलंबित",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-15T10:08:39",
+            "url": "https://www.lokmat.com/kalyan-dombivli/cardboard-wrapped-around-leg-instead-of-plaster-worker-suspended-for-demanding-money-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kalyan-hospital_2026081763506.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -198,22 +198,6 @@
             "category_reason": "feed"
         },
         {
-            "id": "864425ae5377",
-            "feed": "lokmat",
-            "title": "\"पाण्याच्या हक्काबाबत तडजोड नाही\"; सिंधू जलवाटपावरून पाक पंतप्रधानांची भारतास धमकी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-15T06:14:48",
-            "url": "https://www.lokmat.com/international/no-compromise-on-water-rights-pak-pm-threatens-india-over-indus-water-sharing-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pak-pm_2026081763420.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "65e8fc702753",
             "feed": "esakal",
             "title": "Video: पाकिस्तानातला व्हिडीओ व्हायरल! स्वातंत्र्यदिनाचा केक खाण्यासाठी उडाली झुंबड, केकचा केला सत्यानाश",
@@ -248,102 +232,102 @@
     ],
     "sports": [
         {
-            "id": "ed65b3b0dd48",
-            "feed": "esakal",
-            "title": "IND vs SL: भारत खेळणार 600वा कसोटी सामना; ‘या’ दोन संघांनंतर ऐतिहासिक क्लबमध्ये होणार एंट्री,  कोणत्या देशाने खेळले 1000हून अधिक सामने!",
+            "id": "27ef89fee43a",
+            "feed": "maharashtratimes",
+            "title": "PM Narendra Modi : स्वातंत्र्यदिनी पंतप्रधान नरेंद्र मोदी यांची 2036च्या ऑलिम्पिकबाबत मोठी घोषणा, 5 ते 15 गटातील मुले असणार टार्गेट, जाणून घ्या",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-15T08:50:24",
-            "url": "https://www.esakal.com/krida/cricket/india-to-play-600th-test-match-ind-vs-sl-know-countries-played-most-test-matches-history-2026-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/za0muy8u/IND-vs-SL.jpg",
+            "published": "2026-08-15T10:16:26",
+            "url": "https://maharashtratimes.com/sports/other-sports/pm-naendra-modi-launch-talent-hunt-for-olympic-2036-announced-in-red-for-speech/articleshow/133255841.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c741dad72e61",
-            "feed": "esakal",
-            "title": "ASIA CUP 2026: जेमिमा रॉड्रिग्स आशिया कप आणि आशियाई खेळांमधून बाहेर; BCCI चा मोठा निर्णय, ‘या’ धडाकेबाज फलंदाजाला मिळाली संधी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-15T07:42:08",
-            "url": "https://www.esakal.com/krida/cricket/jemimah-rodrigues-out-of-womens-asia-cup-2026-pratika-rawal-replacement-team-india-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/52b4lx7p/jemima-rodric.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "63d702076397",
+            "id": "4c69aa8308a1",
             "feed": "lokmat",
-            "title": "IND vs SL 1st Test Live Streaming : टीम इंडियाचा ऐतिहासिक सामना कुठे अन् कधी पाहता येणार? जाणून घ्या",
+            "title": "IND vs 1st Test : टीम इंडियाने टॉस जिंकला; सरफराज खानला बाकावर बसवत गिलनं खेळला 'हा' डाव",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-15T06:53:21",
-            "url": "https://www.lokmat.com/cricket/news/india-vs-sri-lanka-1st-test-live-streaming-when-and-where-to-watch-ind-vs-sl-match-online-telecast-and-more-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-sri-lanka-1st-test-live-streaming-m-_2026081763425.jpg",
+            "published": "2026-08-15T10:08:28",
+            "url": "https://www.lokmat.com/cricket/news/india-vs-sri-lanka-1st-test-match-shubman-gill-wins-toss-opts-to-bat-first-kuldeep-yadav-suthar-included-jurel-to-be-preferred-over-sarfaraz-khan-indias-playing-11-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shubman-gill-wins-toss-opts-to-bat-first-jurel-to-be-preferred-over-sarfaraz-m-_2026081763504.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "856108f7b349",
+            "feed": "esakal",
+            "title": "IND vs SL 1st Test: शुभमन गिलने जिंकला टॉस; भारताची प्रथम फलंदाजी, श्रीलंकेसमोर मोठं आव्हान उभं करण्याचा इरादा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-15T09:52:07",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-shubman-gill-wins-toss-india-batting-first-playing-xi-galle-test-2026-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/j00y39sq/IND-vs-SL-1.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "02a220d3aba4",
-            "feed": "lokmat",
-            "title": "Happy Independence Day 2026 Wishes: 15 ऑगस्ट स्वातंत्र्य दिनाच्या हार्दिक शुभेच्छा, मराठी Messages, Quotes, WhatsApp Status शेअर करून साजरा भारताचा 80 वा स्वातंत्र्यदिन",
+            "id": "28b9f4d3c327",
+            "feed": "esakal",
+            "title": "BSNL ग्राहकांना स्वातंत्र्य दिनाची 'डिजिटल भेट', एक रुपयात मोबाइल सेवा; २५ हून अधिक ओटीटी प्लॅटफॉर्म",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T09:43:31",
-            "url": "https://www.lokmat.com/festivals/happy-independence-day-2026-wishes-in-marathi-share-swatantradinachya-shubhecha-messages-quotes-whatsapp-status-to-celebrate-80th-indian-swatantrata-diwas-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/independence-day-2026-marathi-wishes-4_2026081763127.jpeg",
+            "published": "2026-08-15T10:20:37",
+            "url": "https://www.esakal.com/sci-tech/bsnl-freedom-2-offer-1-rupee-data-ott-platforms-fiber-broadband-4g-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/iznx0rs2/Abhi-2.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "765220b03369",
-            "feed": "lokmat",
-            "title": "Petrol Diesel Tax: पेट्रोल वर 'हा' टॅक्स झाला ०, डिझेल वर ₹१.५ आणि एटीएफवर ₹२.५० चा दिलासा; सर्वसामान्यांवर परिणाम होणार का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-15T09:01:12",
-            "url": "https://www.lokmat.com/business/news/petrol-diesel-windfall-tax-reduced-on-petrol-0-1-5-rs-on-diesel-and-rs-2-50-on-atf-will-it-affect-the-common-man-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/petrol-diesel-1112s_2025111576352.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d65976ed9080",
+            "id": "88497ad37838",
             "feed": "maharashtratimes",
-            "title": "Lakhpati Scheme: सरकारी हमी असलेली RD योजना; दरमहा फक्त 600 रुपये जमा करून 1 लाखांहून अधिक कमवा, 8 टक्केपर्यंत व्याजदर",
+            "title": "Saptadhara Explained: स्वातंत्र्यदिनी पंतप्रधान मोदींची ‘सप्तधारा’ घोषणा, ‘विकसित भारत’चे 7 प्रवाह ‘अर्थव्यवस्थेची नौका’ मजबूत करतील",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-15T08:34:54",
-            "url": "https://maharashtratimes.com/business/business-news/sbi-har-ghar-lakhpati-scheme-recurring-deposit-calculator-rs-600-monthly-investment-can-build-over-1-lakh-corpus/articleshow/133254266.cms",
+            "published": "2026-08-15T10:20:08",
+            "url": "https://maharashtratimes.com/business/business-news/pm-modi-independence-day-speech-explained-7-point-saptadhara-reforms-for-viksit-bharat-by-2047/articleshow/133256039.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "99271a50ed6c",
+            "feed": "lokmat",
+            "title": "Nashik Earthquake : सुरगाणा व कळवण परिसर हादरला; 14 ऑगस्टच्या रात्री आणि पहाटे भूकंपाचे धक्के बसले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-15T10:02:08",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/nashik-news-surgana-and-kalvan-areas-shook-earthquake-tremors-were-felt-on-the-night-and-morning-of-august-14-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nsk-earth_2026081763500.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
