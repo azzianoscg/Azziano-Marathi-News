@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "15-08-2026 | 07:43 PM IST",
+    "lastUpdated": "15-08-2026 | 08:40 PM IST",
     "maharashtra": [
+        {
+            "id": "5dbd4daff6bd",
+            "feed": "lokmat",
+            "title": "‘डिजिटल अरेस्ट’चा फास; दोन कोटींची फसवणूक, नांदुऱ्यातील ज्येष्ठ नागरिकाला गंडा; तिघे जेरबंद",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-15T20:31:34",
+            "url": "https://www.lokmat.com/buldhana/digital-arrest-busted-two-crores-fraud-senior-citizen-in-nandura-robbed-three-arrested-a-a769-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-buldhana-1_2026081763791.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "a69b15800369",
             "feed": "esakal",
@@ -64,107 +80,107 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-hammer-2308g_2026081763763.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "a3bdd007aca8",
-            "feed": "lokmat",
-            "title": "सुदृढ, सुशिक्षित, समृद्ध आणि सुरक्षित बीड घडवण्याचा संकल्प करुया- सुनेत्रा पवार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-15T18:55:27",
-            "url": "https://www.lokmat.com/beed/lets-resolve-to-make-beed-healthy-educated-prosperous-and-safe-said-sunetra-pawar-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sunetra-pawar-1508_2026081763739.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "0a73efdd26f4",
-            "feed": "maharashtratimes",
-            "title": "Swati Deval : तीन वेळा गर्भपात, वैयक्तिक आयुष्यात त्रास, तरीही नाही मानली हार; मराठी अभिनेत्रीनं सांगितला कठीण काळ",
+            "id": "67ca3f1250f2",
+            "feed": "esakal",
+            "title": "तीन वेळा अबॉर्शन झालं... स्वाती देवलने सांगितला डोळ्यात पाणी आणणारा प्रसंग; म्हणाली, 'तुषार खूप रडला कारण...",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T19:38:36",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/marathi-actress-swati-deval-talks-about-her-abortion/articleshow/133263946.cms",
-            "image": "",
+            "published": "2026-08-15T20:20:26",
+            "url": "https://www.esakal.com/premier/swati-deval-reveals-her-pregnancy-struggle-husband-tushar-deval-cried-alot-after-three-abortions-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/i5hn5d20/SWATI-DEVAL.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
             "id": "5a707518f757",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : नाशिक त्रंबकेश्वर रस्त्यावर वाहन चालकांची घसरगुंडी",
+            "title": "Marathi News Live Updates : मुळशीच्या पाण्यासाठी धरणग्रस्त आक्रमक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T19:38:10",
+            "published": "2026-08-15T20:10:20",
             "url": "https://www.esakal.com/desh/atest-marathi-news-live-today-15th-august-2026-80th-independence-day-nationwide-celebrations-prime-minister-narendra-modi-red-fort-national-flag-vande-mataram-president-droupadi-murmu-supreme-court-rahul-gandhi-weather-fda-action-mumbai-maharashtra-shiv-sena-eknath-shinde-devendra-fadnavis-srk94",
             "image": "https://cf-images.assettype.com/esakal/2026-08-15/okkawh4y/80th-Independence-Day-PM-Modi-to-Hoist-National-Flag-at-Red-Fort-1.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "9a57ce7938bf",
-            "feed": "lokmat",
-            "title": "फाळणीवेळी या ऐतिहासिक वस्तूवर दोन्ही देशांनी केला दावा, अखेर झाला टॉस, अन् भारताने मारली बाजी",
+            "id": "9a7e5449d92b",
+            "feed": "maharashtratimes",
+            "title": "Meerut Delivery Boy Case : डिलिव्हरी बॉयला घरात नेलं, लाथाबुक्क्यांनी मारलं, पती-पत्नीचं  संतापजनक कृत्य",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-15T19:24:55",
-            "url": "https://www.lokmat.com/national/during-the-partition-both-countries-claimed-this-historical-object-finally-a-toss-was-held-and-india-won-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-pakistan-news-1_2026081763761.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "01913efa12f4",
-            "feed": "esakal",
-            "title": "स्वतःला देशभक्त म्हणवता? मग यातील कोणकोणते चित्रपट तुम्ही पाहिलेत?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-15T19:17:45",
-            "url": "https://www.esakal.com/premier/must-watch-petriotic-movies-independence-day-special-main-vaapas-aaunga-swades-article-15-anek-manto-how-much-you-have-watched-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/att4rbqr/best-petriotic-films.jpg",
+            "published": "2026-08-15T20:06:36",
+            "url": "https://maharashtratimes.com/india-news/meerut-delivery-boy-assault-by-couple-in-ganga-heights-building/articleshow/133264275.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "6e8263c10eea",
+            "id": "a32690e7aa68",
             "feed": "lokmat",
-            "title": "क्षणभराचा राग अन् कुटुंब उद्ध्वस्त! पत्नीवर हात उचलला, तिचा मृत्यू होताच पती घाबरला, केली आत्महत्या",
+            "title": "काय म्हणता फळंही वाढवतात पित्त? पाहा कोणती फळं उष्ण असतात आणि पित्त-पोटदुखीचे त्रासही वाढवतात..",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-15T19:11:28",
-            "url": "https://www.lokmat.com/crime/domestic-argument-turns-deadly-wife-killed-husband-then-end-life-in-bengaluru-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sumant-padmavati_2026081763757.jpeg",
+            "published": "2026-08-15T20:05:25",
+            "url": "https://www.lokmat.com/sakhi/food/do-you-like-to-eat-fruits-some-healthy-fruits-may-spike-your-blood-sugar-and-acidity-a-a1009/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fhala-tips_2026081763774.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "fdbd368e6185",
+            "feed": "lokmat",
+            "title": "डाळीला खमंग फोडणी देऊनही बेचव लागते? 'अशी' द्या फोडणी की सुगंधानेच भूक लागेल - डाळीला द्या ढाबा स्टाईल तडका!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-15T20:05:01",
+            "url": "https://www.lokmat.com/sakhi/food/how-to-give-dhaba-style-tadka-to-dal-dhaba-style-dal-tadka-perfect-dal-tadka-recipe-how-to-make-dal-tadka-dal-tadka-cooking-tips-dhaba-style-dal-recipe-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-give-dhaba-style-tadka-to-dal_2026081763699.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "f74853ebd035",
+            "feed": "lokmat",
+            "title": "इंडोनेशियात काही तासांतच दुसऱ्यांदा मोठा भूकंप! ६.८ रिश्टर स्केलच्या नव्या झटक्याने हाहाकार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-15T19:40:18",
+            "url": "https://www.lokmat.com/international/indonesia-hit-by-second-major-earthquake-in-a-few-hours-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indonesia-earthquake_2026081763767.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c17d9f1b92f7",
             "feed": "maharashtratimes",
@@ -228,75 +244,91 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-15/jfzht5wz/Things-India-Gave-the-World-That-Changed-History-7.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "92ffda77ca6a",
-            "feed": "lokmat",
-            "title": "पाकिस्तान सोडून भारतात स्थायिक झाला हा गायक; आशा भोसले यांच्या एका शब्दाने बदललं आयुष्य",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-15T15:03:28",
-            "url": "https://www.lokmat.com/filmy/bollywood/adnan-samis-journey-from-pakistan-to-india-how-asha-bhosle-changed-his-life-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/asha-bhosle-adnan-sami_2026081763642.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "b8cba42af148",
+            "id": "f7042d2d0b43",
             "feed": "lokmat",
-            "title": "IND vs SL 1st Test Day 1 Stumps : ६०० व्या कसोटी सामन्यात पडिक्कलचा शतकी धमाका; टीम इंडियाने दिवस गाजवला",
+            "title": "Hockey World Cup: भारताने हॉकी वर्ल्डकपमध्ये रचला इतिहास, केला आतापर्यंत कुणालाही न जमलेला विक्रम",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-15T19:08:55",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-day-1-stumps-india-2-for-288-devdutt-padikkal-century-leads-indias-dominance-on-day-one-vs-sri-lanka-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-1st-test-day-1-stumps-m-_2026081763755.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dd459b0c8bdc",
-            "feed": "esakal",
-            "title": "Hockey World Cup: पेनल्टी कॉर्नर ठरले भारताचे अस्त्र! स्वातंत्र्यदिनी वेल्सला हरवत विजयी सुरुवात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T19:04:27",
-            "url": "https://www.esakal.com/krida/india-3-1-win-vs-vs-wales-independence-day-fih-hockey-world-cup-2026-pool-d-harmanpreet-singh-shines-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/tz5nd4io/India-Hockey-Team.jpg",
+            "published": "2026-08-15T20:18:43",
+            "url": "https://www.lokmat.com/hockey/fih-mens-hockey-world-cup-india-created-history-in-the-hockey-world-cup-achieved-a-record-that-no-one-has-achieved-so-far-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hockey-india-2_2026081763779.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "7d913432bc46",
+            "id": "d45459d57e31",
             "feed": "maharashtratimes",
-            "title": "Independence Day 2026 : गॉलमध्ये टीम इंडियाने फडकावला तिरंगा, शिखर धवनच्या शब्दांनी मन जिंकलं; पाहा क्रिकेटपटूंच्या स्वातंत्र्यदिनाच्या शुभेच्छा",
+            "title": "India vs Sri Lanka : तिरंगा डौलात, स्कोअरबोर्ड जोमात! टीम इंडियाचा स्वातंत्र्यदिनाच्या दिवशी श्रीलंकेविरुद्ध धुमाकूळ,  4 सुपरस्टार्सचा जलवा, दुसऱ्या दिवसाची रणनीती कशी असणार?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-15T18:39:29",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-team-independence-day-galle-shubman-gill-shikhar-dhawan-sachinm-tendulkar/articleshow/133263401.cms",
+            "published": "2026-08-15T20:10:41",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-devdutt-paddial-century-india-288-runs-first-day-in-galle-test-kl-rahul-jaiswal-pant/articleshow/133264277.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a1a279905691",
+            "feed": "esakal",
+            "title": "IND vs SL: KL राहुलचा स्वीप शॉट अन् चेंडू आदळला थेट श्रीलंकन खेळाडूच्या हेल्मेटवर; सर्वांच्याच काळजाचा चुकला ठोका!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-15T19:58:17",
+            "url": "https://www.esakal.com/krida/cricket/kl-rahul-sweep-shot-hits-nishan-madushka-helmet-galle-test-ind-vs-sl-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/zyawbuhp/KL-Rahuls-Powerful-Sweep-Shot-Hits-Nishan-Madushka-Sri-Lanka-vs-India-1st-Test.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "156d9d853de5",
+            "feed": "lokmat",
+            "title": "Registration : 'वन डिस्ट्रिक्ट वन रजिस्ट्रेशन'; जिल्ह्यामध्ये आता कुठेही दस्त नोंदणी करता येणार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-15T20:15:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/one-district-one-registration-now-land-registration-can-be-done-anywhere-in-the-district-a-a989/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/c1b5cb9d-0ff3-40b7-b6c9-88a9bd2e0a3d_2026081763731.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "2321114cf745",
+            "feed": "lokmat",
+            "title": "Kanda Market : स्वातंत्र्यदिनाच्या दिवशी कांद्याला क्विंटलमागे सरासरी काय भाव मिळाला, वाचा सविस्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-15T19:45:01",
+            "url": "https://www.lokmat.com/agriculture/market-yard/kanda-market-independence-day-see-average-price-per-quintal-of-onion-on-independence-day-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-zenda_2026081763769.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "7dfbd37069bc",
             "feed": "maharashtratimes",
@@ -312,38 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "60ab0214a541",
-            "feed": "lokmat",
-            "title": "रंगीत ढोबळीला कंटाळले, अकोलेच्या ऊस रानात 45 एकरावर बहरली निर्यातक्षम केळी, वाचा सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-15T19:30:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/tired-of-colorful-dhobla-export-worthy-bananas-bloom-on-45-acres-in-akoles-sugarcane-fields-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/niryat-ksham-keli_2026081763764.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ddd3081f1acd",
-            "feed": "esakal",
-            "title": "Premium|Indian Stock Market : वाढता कर्जभार गरज, सवय, की आर्थिक सापळा?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-15T19:30:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/iran-us-tensions-indian-stock-market-crude-oil-foreign-investors-metal-index-kospi-taiwan-market-investment-opportunities-global-changes-amp17-2",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-09/ntjteiik/Abhi-2026-08-09T190438.944.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ]
 }
