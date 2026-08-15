@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "15-08-2026 | 01:45 PM IST",
+    "lastUpdated": "15-08-2026 | 02:46 PM IST",
     "maharashtra": [
         {
-            "id": "329974b46a62",
+            "id": "51e0ad17c85d",
+            "feed": "esakal",
+            "title": "पुण्यात २ तरुणींचा १९ वर्षीय तरुणावर पहाटे कोयत्यानं हल्ला, CCTV फूटेज समोर; धक्कादायक कारण समोर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T14:44:52",
+            "url": "https://www.esakal.com/pune/pune-attack-video-two-young-women-assault-19-year-old-man-with-sickle-at-4-am-cctv-footage-shows-shocking-incident-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/4raa4jua/pune-crime-news-cctv.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c73be8ab5c2b",
             "feed": "lokmat",
-            "title": "मध्य रेल्वेवर आजपासून २२ लोकल १५ डब्यांच्या! सकाळ-संध्याकाळच्या पीक अवर फेऱ्यांत वाढ",
+            "title": "मनोज जरांगे पाटील यांची प्रकृती अचानक बिघडली! १०२ अंशांवर पोहोचला ताप; टायफॉइडचीही लक्षणे",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-15T13:40:16",
-            "url": "https://www.lokmat.com/mumbai/22-local-trains-with-15-coaches-on-central-railway-from-today-increase-in-morning-and-evening-peak-hour-trains-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/central-railway-2_2026081763605.jpg",
+            "published": "2026-08-15T14:37:16",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/manoj-jarange-patils-condition-suddenly-worsened-fever-reached-102-degrees-symptoms-of-typhoid-also-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maratha-reservation-manoj-jarange-patil_2026081763618.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "a20f61be5eb4",
+            "id": "9a4f98c95dfa",
+            "feed": "esakal",
+            "title": "Kolhapur Voter List Revision : कोल्हापूर जिल्ह्यातील साडेचार लाख मतदार वगळणार; 'एसआयआर'चे 99.91 टक्के काम पूर्ण, पाहा विधानसभा मतदारसंघनिहाय चित्र",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T14:35:55",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-sir-voter-list-revision-2026-voter-verification-29-lakh-electoral-roll-names-deletion-dead-duplicate-migrated-voters-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/ljywsues/Kolhapur-electoral-roll-revision-2026",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0c88bedec9db",
+            "feed": "esakal",
+            "title": "World Record Tiranga Rally: डोंबिवलीत तिरंग्याचा विश्वविक्रमी डौल, ३५ हजार चौरस फुटांच्या ध्वजासह भव्य रॅली",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T14:34:55",
+            "url": "https://www.esakal.com/mumbai/independence-day-dombivli-tiranga-rally-featuring-35000-square-foot-flag-world-record-rally-by-shrikant-shinde-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/senoixiu/Dombivli-World-Record-Tiranga-Rally.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "90eb1eb239a7",
+            "feed": "lokmat",
+            "title": "गोरेगाव-मुलुंड लिंक रोडसाठी मध्यरात्री पिलर उभारणी, आवाजाने झोपमोड",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T14:27:35",
+            "url": "https://www.lokmat.com/mumbai/pillars-erected-for-goregaon-mulund-link-road-at-midnight-noise-disrupts-sleep-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/goregaon-mulund-rd_2026081763629.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "dfb93651cadb",
             "feed": "maharashtratimes",
-            "title": "Loanvala News : स्वातंत्र्यदिनाला जोडून सलग सुट्ट्या, लोणावळ्यात कडक बंदोबस्त; हुल्लडबाज तळीरामांवर पोलिसांचा कारवाईचा इशारा",
+            "title": "The Epic Footprint- Ramayana Beyond Borders: स्थलकालातीत रामकथा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-15T13:21:13",
-            "url": "https://maharashtratimes.com/photogallery/news/pune-lonavala-tourists-consecutive-holidays-police-warn-of-action-against-tourists/photoshow/133258539.cms",
+            "published": "2026-08-15T14:43:53",
+            "url": "https://maharashtratimes.com/editorial/column/dakhal/the-epic-footprint-ramayana-beyond-borders-book-explainer/articleshow/133259032.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "4fe46a01224f",
-            "feed": "lokmat",
-            "title": "आरक्षण बदलांचे प्रस्ताव मंजूर, महापालिकेतील विरोधी पक्ष संतप्त : सेंच्युरी मिल भूखंड लिलावाचा प्रस्ताव फाडून निषेध",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-15T13:16:54",
-            "url": "https://www.lokmat.com/mumbai/proposals-for-reservation-changes-approved-opposition-parties-in-the-municipal-corporation-are-angry-protest-by-tearing-up-the-proposal-for-auctioning-the-century-mill-plot-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dumping_2026081763598.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "42a51add0036",
-            "feed": "esakal",
-            "title": "Renavi Ghat ST Accident : विट्याजवळील रेणावी घाटात दोन एसटींचा भीषण अपघात; अतिदक्षता विभागात 9 जणांची मृत्यूशी झुंज, 17 वर्षीय साक्षीचा उपचारादरम्यान मृत्यू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-15T13:12:12",
-            "url": "https://www.esakal.com/paschim-maharashtra/sangli-vita-renavi-ghat-st-bus-accident-sakshi-pawar-death-injured-passengers-rs-10-lakh-compensation-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/cw3n1f0k/Renavi-Ghat-ST-bus-accident-latest-update",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "658705c06f4e",
-            "feed": "esakal",
-            "title": "Kalsubai Trek Rescue: मुंबईचे पर्यटक, वाटाड्या न घेता गेले अन् जंगलात हरवले; रात्र होताच ११२ वर केला कॉल, वनरक्षकांकडून पहाटे सुटका",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-15T13:12:00",
-            "url": "https://www.esakal.com/ahmednagar/kalsubai-harishchandragad-tourist-rescue-mumbai-trekkers-forest-department-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/ux27i3zh/Abhi-1.jpg",
-            "isBreaking": false,
             "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "ce54b015a9e8",
-            "feed": "lokmat",
-            "title": "तृषा आणि CM विजय यांनी एकमेकांना केलं सॅल्यूट; परेडदरम्यानचा खास क्षण कॅमेरात कैद, व्हिडीओ व्हायरल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-15T13:37:05",
-            "url": "https://www.lokmat.com/filmy/south-movies/trisha-krishnan-takes-front-row-seat-at-cm-vijays-flag-hoisting-ceremony-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trisha-krishnan-takes-front-row-seat-at-cm-vijays-flag-hoisting-ceremony-2_2026081763599.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "329c3ecdebf1",
-            "feed": "lokmat",
-            "title": "लाल किल्ल्यावरील स्वातंत्र्यदिन सोहळ्याला राहुल गांधी, खर्गे यावेळीही अनुपस्थित; भाजपचा हल्लाबोल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-15T13:36:28",
-            "url": "https://www.lokmat.com/national/rahul-gandhi-mallikarjun-kharge-absent-from-independence-day-celebrations-at-red-fort-bjps-attack-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahul-gandhi-hrdty_2026081763602.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         },
         {
             "id": "5a707518f757",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : डोंबिवलीत श्रीकांत शिंदेच्या रॅलीला भाजपची गैरहजेरी",
+            "title": "Marathi News Live Updates : भोर तालुक्यातील खड्ड्यांमध्ये भात लावून विद्यार्थ्यांनी वेधले प्रशासनाचे लक्ष",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T13:30:05",
+            "published": "2026-08-15T14:36:16",
             "url": "https://www.esakal.com/desh/atest-marathi-news-live-today-15th-august-2026-80th-independence-day-nationwide-celebrations-prime-minister-narendra-modi-red-fort-national-flag-vande-mataram-president-droupadi-murmu-supreme-court-rahul-gandhi-weather-fda-action-mumbai-maharashtra-shiv-sena-eknath-shinde-devendra-fadnavis-srk94",
             "image": "https://cf-images.assettype.com/esakal/2026-08-15/okkawh4y/80th-Independence-Day-PM-Modi-to-Hoist-National-Flag-at-Red-Fort-1.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "a4ee9e235fb6",
-            "feed": "esakal",
-            "title": "रात्रीच्या जेवणात 'हे' पदार्थ खाताय? वाढू शकतं वजन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-15T13:24:45",
-            "url": "https://www.esakal.com/ampstories/web-story/foods-to-avoid-at-night-these-dinner-foods-may-cause-weight-gain-and-make-it-harder-to-maintain-a-healthy-weight-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/gks38nc3/food-health-10.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "f7f2d1784e4c",
+            "id": "05929fd27a86",
             "feed": "maharashtratimes",
-            "title": "IPS Nupur Prasad: सुशांत सिंह राजपूत मृत्यू प्रकरणाच्या तपासात  बजावली महत्त्वाची भूमिका, IPS नुपूर प्रसाद यांचा राष्ट्रपती पदकाने गौरव",
+            "title": "Anurag Kashyap   Girlfriend: २ घटस्फोटानंतर लेकीच्या वयाच्या मुलीला डेट करतोय अनुराग कश्यप, गर्लफ्रेंड २० वर्षांनी लहान, म्हणाला 'कधी तरी मलाही संकोच वाटतो'",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-15T13:19:21",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sushant-singh-rajput-case-ips-officer-nupur-prasad-gets-presidents-medal/articleshow/133258212.cms",
+            "published": "2026-08-15T14:35:15",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/anurag-kashyap-on-20-years-age-gap-with-girlfriend-shubhra-shetty/articleshow/133259249.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "03951fd1ca82",
+            "feed": "maharashtratimes",
+            "title": "Vishal Aditya Singh : 7 वर्षांनी मोठ्या श्वेता तिवारीसोबत अफेअरच्या चर्चा, लोकप्रिय अभिनेत्यानं सोडलं मौन; काय म्हणाला?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-15T14:34:58",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/vishal-aditya-singh-break-silence-on-affair-rumors-with-shweta-tiwari/articleshow/133259307.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "9e21308018e7",
+            "feed": "lokmat",
+            "title": "स्वातंत्र्यदिनी मुख्यमंत्री डॉ. प्रमोद सावंत यांची मोठी घोषणा; ‘विकसित गोवा 2037’चा रोडमॅप, रोजगार, पायाभूत सुविधा, शिक्षण, पर्यटन आणि खाण व्यवसायावर भर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-15T14:27:47",
+            "url": "https://www.lokmat.com/goa/chief-minister-dr-pramod-sawants-big-announcement-on-independence-day-roadmap-of-developed-goa-2037-focus-on-employment-infrastructure-education-tourism-and-mining-a-a1016/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/flag-hosting-goa_2026081763628.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "e1bacec6bf11",
+            "feed": "lokmat",
+            "title": "\"मी तर kiss ही केलं नाही...\", 'टॉक्सिक'मधील इंटिमेट सीनवरुन होणाऱ्या टीकेला यशचं उत्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-15T14:30:06",
+            "url": "https://www.lokmat.com/filmy/south-movies/south-star-yash-replies-back-to-trollers-who-criticised-intimate-scenes-in-toxic-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yash-scenes_2026081763631.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "29dc46d16f7a",
             "feed": "lokmat",
@@ -216,6 +232,22 @@
     ],
     "sports": [
         {
+            "id": "af83f78e9279",
+            "feed": "lokmat",
+            "title": "Test Unique Record : यशस्वीचा अनोखा विक्रम; सचिनला मागे टाकण्याची संधी, फक्त ३७ कसोटी खेळणारा क्रिकेटर अव्वल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-15T14:24:51",
+            "url": "https://www.lokmat.com/cricket/news/30-tests-30-different-venues-yashasvi-jaiswal-on-the-verge-of-surpassing-sachin-tendulkar-in-this-unique-list-sanjay-manjrekar-on-top-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yashasvi-jaiswal-enter-unique-list-30-tests-30-different-venuesm-_2026081763623.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "a203c7c6332b",
             "feed": "lokmat",
             "title": "IND vs SL : श्रीलंकन गोलंदाजाने चिटिंग केली? KL राहुल सुसाट धावला अन् यशस्वी जैस्वाल रनआउट; नेमकी चूक कोणाची?",
@@ -246,25 +278,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "4ba226848d5f",
-            "feed": "esakal",
-            "title": "IND vs SL 1st Test: परदेशात फडकला तिरंगा, राष्ट्रगीताने भारावलं गॉलचं मैदान; शुभमन गिलसह टीम इंडियाचा VIDEO तुफान व्हायरल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-15T11:47:28",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-independence-day-special-team-india-flag-hoisting-shubman-gill-national-anthem-video-viral-2026-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/i7b8s27i/IND-vs-SL-2.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "9792ce0d1014",
+            "feed": "lokmat",
+            "title": "एका शेअरवर २ शेअर्स फ्री, दुसऱ्यांदा कंपनी देतेय बोनस शेअर्स; दिलाय २८३५% चा रिटर्न",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-15T14:14:56",
+            "url": "https://www.lokmat.com/business/stock-market/gtv-engineering-ltd-2-shares-free-for-one-share-company-is-giving-bonus-shares-for-the-second-time-gave-a-return-of-2835-percent-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-new-1_202210892478.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "88932f77f103",
             "feed": "lokmat",
@@ -296,22 +328,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/reshim-kosh-4_2026081763532.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "a93644a58feb",
-            "feed": "maharashtratimes",
-            "title": "Landlord Tenant Rules: घरमालकांची मनमानी नाही चालणार; दुरुस्ती खर्चावरून वाद कॉमन पण, भाडेकरू कधी जबाबदार? हक्क अन् जबाबदाऱ्या समजून घ्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-15T13:01:51",
-            "url": "https://maharashtratimes.com/business/real-estate-news/tenant-or-landlord-who-is-responsible-for-repairs-in-rented-home-what-law-say/articleshow/133257583.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
