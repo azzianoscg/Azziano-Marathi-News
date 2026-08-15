@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "15-08-2026 | 11:44 PM IST",
+    "lastUpdated": "16-08-2026 | 12:44 AM IST",
     "maharashtra": [
+        {
+            "id": "aca9aba0be6f",
+            "feed": "lokmat",
+            "title": "महाराष्ट्र गीत सुरू असतानाच काळाचा घाला, कोकरुड येथे झेंडावंदनादरम्यान लोकप्रिय शिक्षक मनोहर कांबळे यांचे हृदयविकाराने निधन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-16T00:25:40",
+            "url": "https://www.lokmat.com/sangli/time-flies-while-the-maharashtra-anthem-is-playing-popular-teacher-manohar-kamble-dies-of-heart-attack-during-flag-hoisting-in-kokarud-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahohar-kambale-1_2026081763830.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "20ae7fe1d794",
             "feed": "maharashtratimes",
@@ -64,25 +80,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "174fb9a6fdc9",
-            "feed": "lokmat",
-            "title": "उल्हासनगर गुन्हे शाखेकडून ५७ कोटींच्या सायबर फ्रॉडचा पर्दाफाश, ६ सराईत भामटे गजाआड",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-15T20:50:00",
-            "url": "https://www.lokmat.com/thane/ulhasnagar-crime-branch-unearths-cyber-fraud-worth-rs-57-crore-6-inns-arrested-a-a562-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ulhasnagar-crime-news-121_2026081763792.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "e3b5cb68c06f",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 16 August 2026: विनायक चतुर्थी, साध्य योग, सर्वार्थ सिद्धि योग, अमृत सिद्धि योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-16T00:01:29",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-16-august-2026-in-marathi-vinayak-chaturthi-durva-ganapati-vrat-budhaditya-yog-and-shubha-muhurta/articleshow/133266715.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "e12108f0c718",
             "feed": "esakal",
@@ -146,22 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "99e931955bb8",
-            "feed": "esakal",
-            "title": "जगभर आवडीने खाल्ले जातात हे 5 भारतीय पदार्थ!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-15T21:36:38",
-            "url": "https://www.esakal.com/ampstories/web-story/5-indian-dishes-loved-around-the-world-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/u4a1kdly/food.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "world": [
@@ -248,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "98add1f50e07",
+            "feed": "lokmat",
+            "title": "Ind Vs SL 1st Test: लोकेश राहुलला झालेली दुखापत किती गंभीर, पुन्हा फलंदाजीला उतरणार का? समोर आली अशी अपडेट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-16T00:18:48",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-how-serious-is-lokesh-rahuls-injury-will-he-return-to-bat-heres-an-update-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/k-l-rahul-2_2026081763828.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ce5574f373ba",
+            "feed": "lokmat",
+            "title": "घोडा करत होता मद्याची तस्करी, २०० बाटल्या विदेशी दारूसह पोलिसांनी पकडले, ताब्यात घेऊन ठाण्यात आणले, त्यानंतर...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-15T23:47:38",
+            "url": "https://www.lokmat.com/cricket/news/bihar-crime-the-horse-was-smuggling-liquor-the-police-caught-it-along-with-200-bottles-of-foreign-liquor-took-it-into-custody-and-brought-it-to-the-police-station-after-which-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bihar-crime-news-1_2026081763826.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "ece559ea3c7d",
             "feed": "lokmat",
             "title": "भारताच्या स्वातंत्र्यदिनी शतक ठोकणारा देवदत्त पडिक्कल ठरला दुसरा फलंदाज, मग पहिला कोण? जाणून घ्या",
@@ -260,38 +292,6 @@
             "published": "2026-08-15T23:21:46",
             "url": "https://www.lokmat.com/cricket/photos/devdutt-padikkal-virat-kohli-ind-vs-sl-1st-test-devdutt-padikkal-became-the-second-batsman-to-score-a-century-on-indias-independence-day-so-who-was-the-first-find-out-a-a301/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devdutt-padikkal-2_2026081763819.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "06d89c74a043",
-            "feed": "lokmat",
-            "title": "फुटबॉलच्या विश्वविजेतेपदानंतर आता स्पेनचा क्रिकेटमध्ये मोठा पराक्रम, मोडला ऑस्ट्रेलियाचा विक्रम",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-15T22:44:54",
-            "url": "https://www.lokmat.com/cricket/news/after-winning-the-football-world-cup-spain-now-has-a-great-feat-in-cricket-breaking-australias-record-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/spain-cricket-team-2_2026081763815.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "985a5b44bf57",
-            "feed": "maharashtratimes",
-            "title": "IND vs SL Test Day 2 Time : पावसाने १७ षटके बुडवली त्याची भरपाई होणार! भारत-श्रीलंका कसोटीची वेळ बदलली; दुसऱ्या दिवशी सामना किती वाजता?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-15T22:41:09",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-test-day-2-time-changed-new-time-is-9-45-reason-rain-team-india-target/articleshow/133265950.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
