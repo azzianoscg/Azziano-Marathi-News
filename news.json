@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "15-08-2026 | 06:52 PM IST",
+    "lastUpdated": "15-08-2026 | 07:43 PM IST",
     "maharashtra": [
         {
-            "id": "fa2475318055",
+            "id": "a69b15800369",
+            "feed": "esakal",
+            "title": "Prithviraj Chavan: ''तुम्ही माझा राजकीय खून केलात?'' पृथ्वीराज चव्हाणांना गोपीनाथ मुंडे काय म्हणाले होते? पडद्यामागे नेमकं काय घडलेलं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-15T19:39:06",
+            "url": "https://www.esakal.com/maharashtra/prithviraj-chavan-reveals-gopinath-munde-congress-entry-secrets-manmohan-singh-refusal-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/cb9kj85u/Latest-Marathi-Breaking-News-2026-08-15T193828.330.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9c75d90df54c",
             "feed": "maharashtratimes",
-            "title": "Pune News : महाराष्ट्राच्या शिरपेचात मानाचा तुरा, पिंपरी-चिंचवड पोलीस दलातील 37 अधिकारी आणि अंमलदारांचा राष्ट्रपती पदकांनी सन्मान",
+            "title": "Sanjay Raut | वय ७५ असून आता सत्ता त्याग करा आणि तरुणांच्या हाती देश द्या, राऊत कडाडले",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-15T18:37:35",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/independence-day-2026-president-medal-to-pimpri-chinchwad-37-police-officers/articleshow/133263040.cms",
+            "published": "2026-08-15T19:28:45",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/sanjay-raut-critisized-pm-modi/videoshow/133264065.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "51ce00c25a38",
-            "feed": "lokmat",
-            "title": "कुंभमेळा बनावट वर्क ऑर्डर प्रकरणामध्ये आणखी काही आरोपी असण्याची शक्यता; मंत्री गिरीश महाजन यांची माहिती",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-15T18:15:03",
-            "url": "https://www.lokmat.com/nashik/there-may-be-more-accused-in-the-kumbh-mela-fake-work-order-case-minister-girish-mahajans-information-a-a333-c747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/girish_2026081763737.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7542dd701436",
+            "id": "d11dbb990735",
             "feed": "maharashtratimes",
-            "title": "Tukaram Mundhe : खरंच मित्रासोबत जेवायला ज्या हॉटेलवर गेले तिथे धाड टाकली होती का? तुकाराम मुंढेंनी सांगितलं व्हायरल कहाणीतलं सत्य",
+            "title": "Jaykumar Gore | 'तर काँग्रेसकडून शिक्षण मंत्री घ्यावा'; पृथ्वीराज चव्हाणांचा सल्ला, गोरेंचा पलटवार",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-15T17:49:10",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/tukaram-mundhe-reveals-truth-behind-viral-story-about-hotel-visit-and-raid/articleshow/133262064.cms",
+            "published": "2026-08-15T19:27:20",
+            "url": "https://maharashtratimes.com/maharashtra/solapur/jaykumar-gore-critisized-prithviraj-chavan/videoshow/133264051.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4e1a77c3fb65",
-            "feed": "maharashtratimes",
-            "title": "Pune Crime : इन्स्टाग्रामच्या कमेंट अन् लाईकवरुन वाद, पुण्यातील नामांकित 'फ्लाईंग जिप्सी' कॅफेमध्ये पहाटे जोरदार राडा; तरुणींचं धक्कादायक कृत्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-15T17:30:22",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/pune-flying-gypsy-cafe-stirs-controversy-over-social-media-reels/articleshow/133262041.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "26bb6a411474",
+            "id": "55ffa0aafd3d",
             "feed": "lokmat",
-            "title": "नेरे फाट्यावरील पान शॉपवर छापे, सुगंधित तंबाखू जप्त",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-15T17:28:23",
-            "url": "https://www.lokmat.com/pune/raids-on-paan-shop-at-nere-phata-flavored-tobacco-seized-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/745-crime_2026081763723.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
-        {
-            "id": "36b60d1d7ba7",
-            "feed": "lokmat",
-            "title": "'कोण होणार करोडपती'साठी नोंदणी सुरू; माधुरी दीक्षितचं प्रेक्षकांना सहभागी होण्याचं आवाहन",
+            "title": "नाशिक २०२७ कुंभमेळ्यासाठी बनावट वर्क ऑर्डर प्रकरणातील दोन आरोपींना सोमवारपर्यंत पोलीस कोठडी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-15T18:48:28",
-            "url": "https://www.lokmat.com/filmy/television/registration-for-kon-honar-crorepati-begins-madhuri-dixit-appeals-to-viewers-to-participate-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/madhuri-dixit-kbc-marathi_2026081763749.jpeg",
+            "published": "2026-08-15T19:24:13",
+            "url": "https://www.lokmat.com/crime/two-accused-in-fake-work-order-case-for-nashik-2027-kumbh-mela-remanded-in-police-custody-till-monday-a-a333-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-hammer-2308g_2026081763763.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "a3bdd007aca8",
+            "feed": "lokmat",
+            "title": "सुदृढ, सुशिक्षित, समृद्ध आणि सुरक्षित बीड घडवण्याचा संकल्प करुया- सुनेत्रा पवार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-15T18:55:27",
+            "url": "https://www.lokmat.com/beed/lets-resolve-to-make-beed-healthy-educated-prosperous-and-safe-said-sunetra-pawar-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sunetra-pawar-1508_2026081763739.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "india": [
+        {
+            "id": "0a73efdd26f4",
+            "feed": "maharashtratimes",
+            "title": "Swati Deval : तीन वेळा गर्भपात, वैयक्तिक आयुष्यात त्रास, तरीही नाही मानली हार; मराठी अभिनेत्रीनं सांगितला कठीण काळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-15T19:38:36",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/marathi-actress-swati-deval-talks-about-her-abortion/articleshow/133263946.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
         },
         {
             "id": "5a707518f757",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : योगी सरकारचा मोठा निर्णय",
+            "title": "Marathi News Live Updates : नाशिक त्रंबकेश्वर रस्त्यावर वाहन चालकांची घसरगुंडी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T18:46:59",
+            "published": "2026-08-15T19:38:10",
             "url": "https://www.esakal.com/desh/atest-marathi-news-live-today-15th-august-2026-80th-independence-day-nationwide-celebrations-prime-minister-narendra-modi-red-fort-national-flag-vande-mataram-president-droupadi-murmu-supreme-court-rahul-gandhi-weather-fda-action-mumbai-maharashtra-shiv-sena-eknath-shinde-devendra-fadnavis-srk94",
             "image": "https://cf-images.assettype.com/esakal/2026-08-15/okkawh4y/80th-Independence-Day-PM-Modi-to-Hoist-National-Flag-at-Red-Fort-1.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "500576c4cf48",
+            "id": "9a57ce7938bf",
             "feed": "lokmat",
-            "title": "\"घरी जाऊन...!\" थलपती विजय यांच्या 'WHERE IS FATHER' टोमण्यावर भाजप नेत्याचं वादग्रस्त विधान; अन्नामलाई संतापले",
+            "title": "फाळणीवेळी या ऐतिहासिक वस्तूवर दोन्ही देशांनी केला दावा, अखेर झाला टॉस, अन् भारताने मारली बाजी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-15T18:46:54",
-            "url": "https://www.lokmat.com/national/bjp-leader-nainar-nagendran-controversial-statement-on-thalapathy-vijays-where-is-father-taunt-annamalai-gets-angry-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/controversial-remark-on-thalapathy-vijay-mother_2026081763747.jpg",
+            "published": "2026-08-15T19:24:55",
+            "url": "https://www.lokmat.com/national/during-the-partition-both-countries-claimed-this-historical-object-finally-a-toss-was-held-and-india-won-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-pakistan-news-1_2026081763761.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "83e750b63142",
+            "id": "01913efa12f4",
             "feed": "esakal",
-            "title": "Crime: एका संशयाने नात्याला काळिमा! सासू आणि पत्नीच्या वादातून संताप अनावर; जावयाने उचललं टोकाचं पाऊल, काय घडलं?",
+            "title": "स्वतःला देशभक्त म्हणवता? मग यातील कोणकोणते चित्रपट तुम्ही पाहिलेत?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-15T18:34:08",
-            "url": "https://www.esakal.com/desh/banswara-shock-son-in-law-kills-mother-in-law-over-suspicion-flees-scene-in-rajasthan-crime-news-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
+            "published": "2026-08-15T19:17:45",
+            "url": "https://www.esakal.com/premier/must-watch-petriotic-movies-independence-day-special-main-vaapas-aaunga-swades-article-15-anek-manto-how-much-you-have-watched-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/att4rbqr/best-petriotic-films.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "686769a900ba",
-            "feed": "esakal",
-            "title": "पावसाळ्यात थंडावा असूनही पोटभर भूक का लागत नाही?",
+            "id": "6e8263c10eea",
+            "feed": "lokmat",
+            "title": "क्षणभराचा राग अन् कुटुंब उद्ध्वस्त! पत्नीवर हात उचलला, तिचा मृत्यू होताच पती घाबरला, केली आत्महत्या",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-15T18:25:11",
-            "url": "https://www.esakal.com/ampstories/web-story/why-appetite-decreases-in-monsoon-ayurveda-explanation-coolness-and-digestion-why-hunger-decreases-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/xf9wkkq9/Why-Appetite-Decreases-in-Monsoon.png",
+            "published": "2026-08-15T19:11:28",
+            "url": "https://www.lokmat.com/crime/domestic-argument-turns-deadly-wife-killed-husband-then-end-life-in-bengaluru-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sumant-padmavati_2026081763757.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "c17d9f1b92f7",
+            "feed": "maharashtratimes",
+            "title": "Operation Safed Sagar : Who Was Squadron Leader Ajay Ahuja ? Kargil war मधल्या शोर्याची गाथा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-15T18:52:05",
+            "url": "https://maharashtratimes.com/video/mt-originals/operation-safed-sagar-real-story/videoshow/133263560.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "d5adeb5b58c2",
             "feed": "lokmat",
@@ -228,122 +244,106 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/asha-bhosle-adnan-sami_2026081763642.jpeg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "e1bacec6bf11",
-            "feed": "lokmat",
-            "title": "\"मी तर kiss ही केलं नाही...\", 'टॉक्सिक'मधील इंटिमेट सीनवरुन होणाऱ्या टीकेला यशचं उत्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-15T14:30:06",
-            "url": "https://www.lokmat.com/filmy/south-movies/south-star-yash-replies-back-to-trollers-who-criticised-intimate-scenes-in-toxic-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yash-scenes_2026081763631.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "56d30f145b4c",
-            "feed": "esakal",
-            "title": "IND vs SL: देवदत्त पडिक्कलचे स्वातंत्र्यदिनी ऐतिहासिक शतक, ८० वर्षात कोणालाही न जमलेला केला पराक्रम! पहिल्या दिवशी भारताचे वर्चस्व",
+            "id": "b8cba42af148",
+            "feed": "lokmat",
+            "title": "IND vs SL 1st Test Day 1 Stumps : ६०० व्या कसोटी सामन्यात पडिक्कलचा शतकी धमाका; टीम इंडियाने दिवस गाजवला",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-15T18:14:40",
-            "url": "https://www.esakal.com/krida/cricket/devdutt-padikkal-maiden-test-century-independence-day-galle-test-india-vs-sri-lanka-no-3-record-1st-day-highlight-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/l0y8nsiy/Devdutt-Padikkal-Century-Sri-Lanka-vs-India-1st-Test.jpg",
+            "published": "2026-08-15T19:08:55",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-day-1-stumps-india-2-for-288-devdutt-padikkal-century-leads-indias-dominance-on-day-one-vs-sri-lanka-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-1st-test-day-1-stumps-m-_2026081763755.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f0550769b28a",
+            "id": "dd459b0c8bdc",
+            "feed": "esakal",
+            "title": "Hockey World Cup: पेनल्टी कॉर्नर ठरले भारताचे अस्त्र! स्वातंत्र्यदिनी वेल्सला हरवत विजयी सुरुवात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-15T19:04:27",
+            "url": "https://www.esakal.com/krida/india-3-1-win-vs-vs-wales-independence-day-fih-hockey-world-cup-2026-pool-d-harmanpreet-singh-shines-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/tz5nd4io/India-Hockey-Team.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7d913432bc46",
             "feed": "maharashtratimes",
-            "title": "Devdutt Padikkal Century : कर हर मैदान फतेह! साई बाहेर, पडिक्कलची एन्ट्री आणि थेट शतक; गॉलमध्ये देवदत्तने संधीचं सोनं करत दोन वर्षांचा दुष्काळ संपवला",
+            "title": "Independence Day 2026 : गॉलमध्ये टीम इंडियाने फडकावला तिरंगा, शिखर धवनच्या शब्दांनी मन जिंकलं; पाहा क्रिकेटपटूंच्या स्वातंत्र्यदिनाच्या शुभेच्छा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-15T17:36:22",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/devdutt-padikkals-explosive-century-gives-india-crucial-lead-against-sri-lanka-in-galle-test/articleshow/133261576.cms",
+            "published": "2026-08-15T18:39:29",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-team-independence-day-galle-shubman-gill-shikhar-dhawan-sachinm-tendulkar/articleshow/133263401.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6e9db07727d7",
-            "feed": "lokmat",
-            "title": "Devdutt Padikkal Century : पहिलंच शतक ठरलं खास; पडिक्कलने थेट गांगुलीच्या विक्रमाची केली बरोबरी!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-15T17:17:40",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-day-1-devdutt-padikkal-maiden-hundred-second-left-hander-to-score-a-test-hundred-from-no-3-for-india-in-21st-century-after-sourav-ganguly-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devdutt-padikkal-maiden-test-century-m-_2026081763703.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "9985248ccfff",
-            "feed": "lokmat",
-            "title": "याला म्हणतात शेअर... गुंतवणूकदारांची लॉटरी...! १ शेअरवर ५०० रुपयांचा डिव्हिडेंड देणार कंपनी, रेकॉर्ड डेट जाहीर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-15T17:38:05",
-            "url": "https://www.lokmat.com/business/news/this-is-called-a-share-investors-lottery-yamuna-syndicate-ltd-dividend-record-date-share-price-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-55661-sd_2026081763727.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fbc5e567eff3",
+            "id": "7dfbd37069bc",
             "feed": "maharashtratimes",
-            "title": "घर भाडं भरण्यासाठी क्रेडिट कार्ड वापरताय? सावध रहा! आधी होणारे नुकसान जाणून घ्या",
+            "title": "व्याजदर 8% हून जास्त, जाणून घ्या सर्वाधिक व्याज देणाऱ्या बँका कोणत्या? ज्येष्ठ नागरिकांसाठी विशेष सवलती",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-15T17:36:31",
-            "url": "https://maharashtratimes.com/business/business-news/paying-rent-using-credit-card-can-be-your-bigger-loss/articleshow/133260886.cms",
+            "published": "2026-08-15T19:31:41",
+            "url": "https://maharashtratimes.com/business/business-news/fd-higher-interest-rate-for-senior-citizen-scheme-by-small-finance-banks/articleshow/133263837.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0ffb7a4269ff",
+            "id": "60ab0214a541",
             "feed": "lokmat",
-            "title": "Fruit Market : विदेशी फळांना मागणी वाढली, न्यूझीलंडचे क्वीन सफरचंद, अमेरिकेतली वॉशिंग्टनच्या सफरचंदाचेही आकर्षण",
+            "title": "रंगीत ढोबळीला कंटाळले, अकोलेच्या ऊस रानात 45 एकरावर बहरली निर्यातक्षम केळी, वाचा सविस्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-15T17:28:12",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/fruit-market-demand-for-exotic-fruits-increased-new-zealands-queen-apple-washington-apple-from-america-also-attracted-attention-a-a989/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/b32e99ba-7ca4-4fc1-b180-2be9890378d2_2026081763721.jpg",
+            "published": "2026-08-15T19:30:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/tired-of-colorful-dhobla-export-worthy-bananas-bloom-on-45-acres-in-akoles-sugarcane-fields-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/niryat-ksham-keli_2026081763764.jpeg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "ddd3081f1acd",
+            "feed": "esakal",
+            "title": "Premium|Indian Stock Market : वाढता कर्जभार गरज, सवय, की आर्थिक सापळा?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-15T19:30:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/iran-us-tensions-indian-stock-market-crude-oil-foreign-investors-metal-index-kospi-taiwan-market-investment-opportunities-global-changes-amp17-2",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-09/ntjteiik/Abhi-2026-08-09T190438.944.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ]
 }
