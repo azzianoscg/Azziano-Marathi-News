@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "16-08-2026 | 11:52 AM IST",
+    "lastUpdated": "16-08-2026 | 12:53 PM IST",
     "maharashtra": [
         {
-            "id": "7f1380634978",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : वाराणसी विमानतळावर विमानातील प्रवाशाकडे आढळले शस्त्र",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T11:49:54",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-16th-august-2026-independenceday-15august-jaihind-vandemataram-saptadhara-viksitbharat-redfort-dimaginaxal-atalbiharivajpayee-schoolthikkaro-abhijeetdipke-siddhivinayak-devendra-fadnavis-fdamaharashtra-marathicabdrivers-marathimandatory-tirangayatra-mumbaiindependenceday-ymk86-sbp94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "302b297a24e0",
-            "feed": "esakal",
-            "title": "BJP-MNS आमने सामने, पोलीस ठाण्याबाहेरच चारचाकी फोडून कार्यकर्त्यांना बेदम मारहाण; भाजपच्या बड्या नेत्यासह ६ जणांविरोधात गुन्हा दाखल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T11:41:23",
-            "url": "https://www.esakal.com/mumbai/ambernath-bjp-and-mns-clash-activists-car-smashed-and-brutally-beaten-to-mns-workers-case-registered-on-bjp-leader-with-6-others-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/u1itgeuh/Ambernath-BJP-And-MNS-Clash.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "95759b9a655c",
-            "feed": "esakal",
-            "title": "चंद्रशेखर बावनकुळेंची भाजपने राष्ट्रीय पातळीवर केली नियुक्ती, सोपवण्यात आली महत्त्वाची जबाबदारी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T11:39:51",
-            "url": "https://www.esakal.com/maharashtra/chandrashekhar-bawankule-gets-bjp-national-appointment-named-co-incharge-for-rajasthan-local-body-elections-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-03/asrbay5l/chandrashekhar-bawankule",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c8555351353b",
-            "feed": "lokmat",
-            "title": "मुलीला नांदवण्यास न पाठविल्याने सासऱ्यावर शस्त्राने वार;जावयाविरोधात गुन्हा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T11:38:18",
-            "url": "https://www.lokmat.com/pune/father-in-law-attacked-with-weapon-for-not-sending-daughter-to-be-weaned-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime12369_2026081763887.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4e052baee8af",
-            "feed": "lokmat",
-            "title": "जम्मू येथे देशसेवा बजावताना मंगळवेढ्याच्या जवानाला वीरमरण; वैभव आवताडे यांचे देशासाठी सर्वोच्च बलिदान",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-16T11:30:38",
-            "url": "https://www.lokmat.com/solapur/a-soldier-from-mangalvedha-died-while-serving-the-country-in-jammu-vaibhav-awtades-supreme-sacrifice-for-the-country-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/solapur-news_2026081763885.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "9fc03b99f24d",
+            "id": "b96e501798c6",
             "feed": "maharashtratimes",
-            "title": "Aamir Khan Crying : हॉस्पिटलमधून रडतच बाहेर पडला आमिर खान अन् त्याचा मुलगा, सोबत असणारी Ex पत्नीही दिसली अस्वस्थ, Video Viral",
+            "title": "VIDEO | अहिल्यानगरमध्ये पुन्हा निलेश लंके विरुद्ध सुजय विखे राजकारण तापलं",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-16T12:40:50",
+            "url": "https://maharashtratimes.com/maharashtra/ahilyanagar-news/sujay-vikhe-criticizes-mp-nilesh-lanke/videoshow/133271532.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8bd89cb488fc",
+            "feed": "esakal",
+            "title": "Mumbai Navy Sailor Family Death: नौदलाच्या खलाशासह पत्नी अन् २ मुलांचे मृतदेह आढळल्यानं खळबळ, २ महिन्यांच्या चिमुकल्याचा समावेश",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-16T12:39:18",
+            "url": "https://www.esakal.com/mumbai/indian-navy-sailor-his-wife-and-two-minor-children-found-dead-at-their-home-in-south-mumbai-crime-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/r29bw4cv/Mumbai-Navy-Sailor-Family-Death.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "edf2cc48f916",
+            "feed": "lokmat",
+            "title": "पोलिस आयुक्त विनयकुमार चौबे यांच्यासह दहा अधिकारी आणि कर्मचारी यांना अतिउत्कृष्ट सेवा पदक जाहीर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-16T12:30:24",
+            "url": "https://www.lokmat.com/pune/ten-officers-and-employees-including-police-commissioner-vinay-kumar-choubey-were-awarded-the-most-meritorious-service-medal-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police000_2026081763939.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "95a9e1f00971",
+            "feed": "lokmat",
+            "title": "सिडको बसस्थानकाच्या स्वच्छतेवर परिवहन मंत्र्यांची नाराजी; प्रवाशांना दर्जेदार सुविधा देण्याचे निर्देश",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-16T12:27:07",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/transport-minister-pratap-sarnaik-unhappy-with-cleanliness-of-cidco-bus-stand-instructions-to-provide-quality-facilities-to-passengers-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pratap-sarnaik-chh_2026081763935.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7f1380634978",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : मुंबईत भारतीय नौदलाचा खलाशी, पत्नी आणि दोन अल्पवयीन मुले मृतावस्थेत आढळली",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-16T12:24:47",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-16th-august-2026-independenceday-15august-jaihind-vandemataram-saptadhara-viksitbharat-redfort-dimaginaxal-atalbiharivajpayee-schoolthikkaro-abhijeetdipke-siddhivinayak-devendra-fadnavis-fdamaharashtra-marathicabdrivers-marathimandatory-tirangayatra-mumbaiindependenceday-ymk86-sbp94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "ec2afbfa6916",
+            "feed": "esakal",
+            "title": "आईने इस्लाम स्वीकारला आणि आम्हालाही... शर्मिला टागोर यांची लेक सबा पतौडीचा खुलासा; म्हणाली - आम्ही कधीही मंदीरात...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-16T11:33:43",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/aamir-khan-and-son-azad-walked-out-of-animal-hospital-in-tears/articleshow/133270421.cms",
-            "image": "",
+            "published": "2026-08-16T12:48:16",
+            "url": "https://www.esakal.com/premier/sharmila-tagore-daughter-saba-pataudi-reveals-mother-accepted-islam-and-why-family-never-visited-temples-religion-story-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/brx3t1yv/saba-pataudi-on-islam.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "f99c0ac74dd2",
+            "id": "90676d09d298",
+            "feed": "esakal",
+            "title": "करोडपती असूनही कुटुंबाने फिरवली पाठ, बेवारस म्हणून अंत्यसंस्कार; ३ मुले, १ मुलगी अन् पत्नीही आली नाही",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-16T12:48:09",
+            "url": "https://www.esakal.com/desh/crorepati-dies-unclaimed-family-turns-away-after-his-death-wife-and-four-children-skip-funeral-shocking-case-emerges-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/eih9h3va/itawa-businessmen-death.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b4aaf43627a5",
             "feed": "lokmat",
-            "title": "\"माझी बदनामी करण्यासाठीच...\"; आशिष बॅनर्जींच्या चिठ्ठीतील 'ते' अखेरचे शब्द! टोकाचा निर्णय घेण्यापूर्वी पत्रात काय लिहिले?",
+            "title": "दीपिका पादुकोणला सोडायला विमानतळावर आला रणवीर सिंह, बेबी बंपने वेधलं सर्वांचं लक्ष!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-16T12:34:13",
+            "url": "https://www.lokmat.com/filmy/bollywood/deepika-padukone-baby-bump-viral-video-ranveer-singh-airport-spotting-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pregnant-deepika-padukone-makes-rare-appearance-with-her-baby-bump-ranveer-singh_2026081763938.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a4cf9773baf2",
+            "feed": "lokmat",
+            "title": "हायअलर्ट असताना वाराणसी विमानतळावर गोळीबार; मुंबईकडे येण्यासाठी निघालेला प्रवासी, दोन कर्मचारी जखमी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-16T11:32:23",
-            "url": "https://www.lokmat.com/national/only-to-defame-me-those-were-the-last-words-in-ashish-banerjees-letter-what-was-written-in-the-letter-before-taking-the-drastic-decision-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/west-bengal-former-deputy-speaker-ashis-banerjee_2026081763883.jpg",
+            "published": "2026-08-16T12:26:01",
+            "url": "https://www.lokmat.com/national/firing-at-varanasi-airport-during-high-alert-passenger-heading-to-mumbai-two-employees-injured-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/varanasi-airport-firing-3_2026081763934.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "12fa66441091",
+            "id": "cd5bc2f16985",
             "feed": "lokmat",
-            "title": "वाढदिवसाचा केक खाल्ल्यानंतर ११ जणांना विषबाधा; केकमध्ये पाल आढळल्याचा मुलांचा आरोप",
+            "title": "४९ दिवसांची गूढ कहाणी अखेर न्यायालयात संपली; स्वीटी पटेल हत्या प्रकरणात पतीला जन्मठेप",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-16T11:29:20",
-            "url": "https://www.lokmat.com/vasai-virar/11-people-poisoned-after-eating-birthday-cake-children-allege-that-poison-was-found-in-the-cake-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cake-poisan_2026081763882.jpg",
+            "published": "2026-08-16T12:26:01",
+            "url": "https://www.lokmat.com/crime/the-49-day-mystery-finally-ends-in-court-husband-gets-life-imprisonment-in-sweety-patel-murder-case-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sweety-patel-caee-1_2026081763932.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "85dccdbf412a",
-            "feed": "maharashtratimes",
-            "title": "IIT Bombay: जेईई रँकची चिंता मिटली! आयआयटी मुंबईत आता आवडीनुसार स्वतःचा अभ्यासक्रम आखण्याची सुवर्णसंधी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-16T11:19:02",
-            "url": "https://maharashtratimes.com/career/career-news/iit-bombay-cme-multidisciplinary-education-flexible-syllabus-2026/articleshow/133270506.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2fb8cdfe8b48",
+            "id": "8c850542aaf8",
             "feed": "esakal",
-            "title": "Numerology Success After 35 : 'या' मूलांकाच्या लोकांना उशिरा मिळते यश; आधी करावा लागतो संघर्ष, पण वयाच्या पस्तीशी-चाळीशीनंतर बदलते नशीब",
+            "title": "Premium|Geopolitics of Higher Education : जागतिक सत्तासंघर्षात विद्यापीठांची भूमिका बदलली; ज्ञान, एआय आणि संशोधन बनले नवे सामरिक अस्त्र",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-16T11:15:58",
-            "url": "https://www.esakal.com/lifestyle/numerology-success-after-35-birth-number-1-4-8-late-success-career-money-status-birth-dates-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/icnl6ajl/Numerology-Success.jpg",
+            "published": "2026-08-16T12:00:00",
+            "url": "https://www.esakal.com/premium-article/geopolitics-higher-education-knowledge-universities-ai-quantum-biotechnology-semiconductors-global-competition-research-innovation-strategic-influence-apm17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/wg4w6odo/Abhi-23.jpg",
             "isBreaking": false,
-            "category_reason": "default"
-        }
-    ],
-    "world": [
+            "category_reason": "keyword"
+        },
+        {
+            "id": "aafe46d59e23",
+            "feed": "lokmat",
+            "title": "अंबरनाथमध्ये पोलिस ठाण्यासमोर हल्ला करणाऱ्यांवर गुन्हा दाखल होणार?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-16T11:53:52",
+            "url": "https://www.lokmat.com/crime/will-a-case-be-registered-against-those-who-attacked-in-front-of-the-police-station-in-ambernath-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-police-transfer4_2026061728747.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "a70199e9e674",
             "feed": "lokmat",
@@ -182,166 +214,134 @@
             "category_reason": "feed"
         },
         {
-            "id": "b883412a3572",
-            "feed": "lokmat",
-            "title": "इराण युद्धाच्या सावटाखाली ट्रम्प यांचा मोठा निर्णय; अमेरिकेच्या खेळीचा चीनला थेट फायदा",
+            "id": "890ec0e1afaf",
+            "feed": "esakal",
+            "title": "Pakistan President: ''आम्ही हिंदूंना सहन करतो'', पाकिस्तानातील अल्पसंख्याकांबाबत राष्ट्रपती झरदारींचं संतापजनक विधान",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-08-16T08:41:36",
-            "url": "https://www.lokmat.com/international/trumps-big-decision-under-the-shadow-of-iran-war-china-directly-benefits-from-americas-move-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-navy-aircraft-carrier-uss-george-washington-deployed-middle-eas_2026081763843.jpg",
+            "published": "2026-08-15T21:00:54",
+            "url": "https://www.esakal.com/global/asif-ali-zardari-controversial-statement-hindus-akhand-bharat-pakistan-minorities-persecution-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/ws8kc63p/Latest-Marathi-Breaking-News-2026-08-15T205650.475.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "f6b112e19598",
-            "feed": "lokmat",
-            "title": "“इराणला हरवल्यानंतर होर्मुझ सामुद्रधुनी अमेरिकेचा ‘प्रदेश’ घोषित करण्यात येईल”: ट्रम्प",
+            "id": "c17d9f1b92f7",
+            "feed": "maharashtratimes",
+            "title": "Operation Safed Sagar : Who Was Squadron Leader Ajay Ahuja ? Kargil war मधल्या शोर्याची गाथा",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
             },
-            "published": "2026-08-16T08:13:47",
-            "url": "https://www.lokmat.com/international/strait-of-hormuz-will-be-declared-america-territory-after-defeating-iran-claim-donald-trump-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-hormuz-strait_2026071742388.jpg",
+            "published": "2026-08-15T18:52:05",
+            "url": "https://maharashtratimes.com/video/mt-originals/operation-safed-sagar-real-story/videoshow/133263560.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6b080a5f7f9b",
-            "feed": "lokmat",
-            "title": "राजकारणापासून शेख हसीनांना दूर ठेवा; तारिक रहमान यांचा भारत दौरा, बांगलादेश सरकारची अट?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-16T08:07:13",
-            "url": "https://www.lokmat.com/international/pm-tarique-rahman-to-be-on-india-visit-bangladesh-govt-demand-keep-sheikh-hasina-away-from-politics-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tariq-rahman-and-sheikh-hasina_2026081763839.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "886007817b2e",
-            "feed": "lokmat",
-            "title": "कतारने सहा महिन्यांपूर्वी आमचे तीन पायलट पकडले, अजूनही...; इराणच्या दाव्याने खळबळ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-16T07:46:46",
-            "url": "https://www.lokmat.com/international/iran-fighter-pilots-qatar-qatar-captured-three-of-our-pilots-six-months-ago-still-irans-claim-creates-excitement-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-pilot-qatar-1_2026081763838.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "1bcfe79098a1",
+            "id": "2077d4648072",
             "feed": "esakal",
-            "title": "Fifa World Cup विजेत्या देशाचा क्रिकेटच्या मैदानावरील ऑस्ट्रेलियाच्या महासत्तेला धक्का; स्पेनचा २१-० हा विक्रम नेमका आहे तरी काय?",
+            "title": "Hockey World Cup : पाकिस्तानचा मुर्खपणा, महत्त्वाचे सामान न घेताच खेळायला आले; रेफरीने बरोबर धारेवर धरले; माजी कर्णधार म्हणाला...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "sports"
+                "category": null
             },
-            "published": "2026-08-16T11:30:05",
-            "url": "https://www.esakal.com/krida/cricket/spain-make-history-with-21-straight-t20i-victories-surpassing-australias-2003-world-record-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/ii64r60o/Spain-21-consecutive-wins-international-cricket-world-record",
+            "published": "2026-08-16T12:45:11",
+            "url": "https://www.esakal.com/krida/hockey-world-cup-pakistans-bizarre-blunder-players-forgot-protective-gear-captain-abu-bakr-punished-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/djfi6rem/Pakistan-forget-penalty-corner-protective-gear-against-England-Hockey-World-Cup",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "27187c9e6031",
+            "id": "bd3ba86c6524",
             "feed": "lokmat",
-            "title": "AUS vs BAN : बांगलादेश टायगर्सनी कांगारुंची शिकार करत रचला इतिहास; आता ऑस्ट्रेलियाविरुद्ध मालिका विजयाची संधी!",
+            "title": "पावसाच्या बॅटिंगमुळे IND vs SL मॅच ड्रॉ झाली तर काय? WTC फायनलच्या शर्यतीत कुणाला बसेल फटका?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-16T11:17:12",
-            "url": "https://www.lokmat.com/cricket/news/aus-vs-ban-1st-test-day-4-first-time-in-23-years-bangladesh-stun-australia-by-9-wickets-to-script-history-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/first-time-in-23-years-bangladesh-stun-australia-by-9-wickets-to-script-history-m-_2026081763878.jpg",
+            "published": "2026-08-16T12:21:50",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-day-2-galle-test-weather-update-will-tropical-showers-force-a-draw-how-will-it-affect-the-wtc-final-points-table-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-1st-test-day-2-galle-test-weather-update-m-_2026081763911.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "63bd37ef0a17",
+            "id": "ea0e315b13b8",
             "feed": "esakal",
-            "title": "AUS vs BAN 1st Test : बांगलादेशमुळे कसोटी क्रिकेटमध्ये भूकंप! ऑस्ट्रेलिया चारीमुंड्या चीत, भारताचा फायदा; वाचा WTC Final Scenario",
+            "title": "IND vs SL 1st Test : एकही चेंडू न खेळता, भारत-श्रीलंकेचे खेळाडू जेवायला गेले! गौतम गंभीरचं डोकं फिरलं; गॉलवर नेमकं काय घडलं?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-16T10:36:24",
-            "url": "https://www.esakal.com/krida/cricket/bangladesh-stun-australia-at-home-in-1st-test-boost-indias-wtc-final-hopes-check-qualification-scenario-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/160v8iwk/WTC-2025-27-Final-scenario-after-Bangladesh-beat-Australia",
+            "published": "2026-08-16T12:01:12",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-players-head-for-early-lunch-as-rain-disrupts-galle-test-at-2nd-day-gambhir-steps-out-to-assess-the-situation-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/w80a7dwm/IND-vs-SL-1st-Test-early-lunch-taken-in-Galle-due-to-rain",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "cc91bbf1850b",
+            "id": "8f813e158af5",
             "feed": "lokmat",
-            "title": "ग्रामीण भागाचे महागाईने मोडले कंबरडे; आखाती देशांतील युद्धामुळे सामान्यांना आणखी झळ बसणार",
+            "title": "Agriculture Admission : कृषि तंत्र पदविका अभ्यासक्रमासाठी वाढीव प्रवेश प्रक्रीया सुरु, वाचा संपूर्ण वेळापत्रक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-16T11:35:18",
-            "url": "https://www.lokmat.com/business/news/rural-areas-are-suffering-due-to-inflation-the-war-in-the-gulf-countries-will-further-affect-the-common-people-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/skaiwowz8a9_2023071049796.jpg",
+            "published": "2026-08-16T12:30:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-extended-admission-process-for-diploma-in-agricultural-technology-course-begins-read-the-complete-schedule-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/krushi-padvika_2026081763907.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "c56f60f965ee",
+            "id": "150c0549a9a7",
             "feed": "lokmat",
-            "title": "केंद्र सरकार आणखी ४ सरकारी कंपन्यांमधील हिस्सेदारी विकणार?",
+            "title": "Halad Market : 'पिवळे सोने' पुन्हा संकटात! वायदे बाजारात दर घसरले, हिंगोलीत आवकही निम्म्यावर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-16T11:32:47",
-            "url": "https://www.lokmat.com/business/news/will-the-central-government-sell-stake-in-4-more-government-companies-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/da-hike-1_2025101555796.jpg",
+            "published": "2026-08-16T12:25:18",
+            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-halad-market-yellow-gold-in-trouble-again-prices-fell-in-the-futures-market-arrivals-in-hingoli-also-halved-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/halad-mar-hing-1_2026081763913.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "f62823cb3192",
+            "id": "82f019900f42",
             "feed": "lokmat",
-            "title": "टाटा सन्सच्या संचालक मंडळात मोठे फेरबदल? कोणाची नावे चर्चेत?",
+            "title": "८वा वेतन आयोगाच्या कामाला वेग; केंद्रीय कर्मचारी आणि पेन्शनर्ससाठी ५ महत्त्वाचे अपडेट्स, जाणून घ्या...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-16T11:24:09",
-            "url": "https://www.lokmat.com/business/news/big-reshuffle-in-tata-sons-board-of-directors-whose-names-are-in-the-news-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tata-sons_201808124301.jpg",
+            "published": "2026-08-16T12:08:18",
+            "url": "https://www.lokmat.com/business/news/8th-pay-commission-work-accelerates-5-important-updates-for-central-employees-and-pensioners-know-more-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pay-commission_2026081763904.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
