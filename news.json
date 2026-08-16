@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "17-08-2026 | 12:43 AM IST",
+    "lastUpdated": "17-08-2026 | 01:40 AM IST",
     "maharashtra": [
         {
             "id": "85933929cd28",
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "dbe8cbcfc1a0",
+            "feed": "esakal",
+            "title": "१० ग्रॅम सोनं फक्त ८८ रुपये, ७९ वर्षांत १ रुपया किती बदलला?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-17T01:02:39",
+            "url": "https://www.esakal.com/ampstories/web-story/in-1947-10-grams-gold-cost-only-88-rupees-know-one-rupees-coin-history-and-what-was-economy-79-years-ago-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/3o9btkfe/One-Rupees-Coin-History.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "ba965c2628b6",
             "feed": "lokmat",
             "title": "Soyabean Farming : सोयाबीनवर विविध रोग-किडीचा प्रादुर्भाव, ही फवारणी करा, 100 टक्के बंदोबस्त होईल",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "87f0f702dbaa",
-            "feed": "lokmat",
-            "title": "Alambi Ranbhaji : वर्षातून एकदाच येणारी अन् दीड हजार रुपये किलोने मिळणारी अळंबीची रानभाजी, वाचा सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-16T19:35:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-natural-aalami-ranbhaji-grows-only-once-a-year-and-1500-rupees-per-kg-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/almabi_2026081764185.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
