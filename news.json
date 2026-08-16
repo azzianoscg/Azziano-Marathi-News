@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "16-08-2026 | 10:41 PM IST",
+    "lastUpdated": "16-08-2026 | 11:44 PM IST",
     "maharashtra": [
+        {
+            "id": "59a17dc81376",
+            "feed": "esakal",
+            "title": "‘हाड हाड म्हटले तरी कुत्रा थेट अंगावरच आला’; सोलापुरातील महिला नागपंचमीमुळे हातावर काढत होती मेहंदी, चिमुकल्याच्याही मांडीला चावा; माजी नगरसेवक म्हणाले, ...तर सगळे कुत्रे महापालिकेत सोडू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-16T23:17:21",
+            "url": "https://www.esakal.com/maharashtra/despite-shooing-it-away-the-dog-lunged-straight-at-her-a-woman-in-solapur-was-getting-henna-applied-for-nag-panchami-when-the-dog-bit-her-also-biting-a-small-child-on-the-thigh-a-former-corporator-warned-or-else-i-will-release-all-the-dogs-into-the-municipal-corporation",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/oh5ih5vf/PNE26W42664.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fab6fb97e3ba",
+            "feed": "maharashtratimes",
+            "title": "Sujay Vikhe Patil : डोनाल्ड वेडा माणूस, ट्रम्पमुळे महामार्गाचे काम रखडले, लोकं दारू जास्त प्यायला लागले, सुजय विखेंचा अजब दावा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-16T22:56:14",
+            "url": "https://maharashtratimes.com/maharashtra/ahilyanagar-news/bjp-leader-sujay-vikhe-patil-slams-donald-trump/articleshow/133279564.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0e91c63ba07e",
+            "feed": "esakal",
+            "title": "७ वर्षांपेक्षा कमी शिक्षेच्या गुन्ह्यात अटक नाहीच! नोटीस देऊन प्रतिबंधात्मक कारवाई अपेक्षित; अटक केल्यास पोलिसांना ठोस कारणे देण्याचे बंधन, वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-16T22:43:16",
+            "url": "https://www.esakal.com/maharashtra/no-arrest-for-offenses-punishable-by-less-than-seven-years-in-prison-preventive-action-via-notice-is-expected-police-are-mandated-to-provide-concrete-reasons-if-an-arrest-is-maderead-on",
+            "image": "https://cf-images.assettype.com/esakal/2021-09/c96748d2-4436-432b-afbc-6319bf671f50/arrest_pti.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "d7c980095e46",
             "feed": "esakal",
@@ -32,57 +80,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "41701c10f653",
-            "feed": "lokmat",
-            "title": "जपतलाई आश्रमशाळा सर्पदंश प्रकरण, आदिवासी विकास मंत्र्यांचा राजीनामा घ्या; मुख्यमंत्र्यांकडे मागणी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T22:18:00",
-            "url": "https://www.lokmat.com/maharashtra/japatlai-ashram-school-snake-bite-case-demand-resignation-of-tribal-development-minister-chief-minister-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/japtalai-tribal-school_2026081764251.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5533ac1b2a9f",
-            "feed": "esakal",
-            "title": "Shirur Bypass Crash: शिरूर बायपासवर पुन्हा बळी; तुटलेल्या दुभाजकातून दुचाकी नेणे जीवावर बेतले",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T21:50:05",
-            "url": "https://www.esakal.com/pune/shirur-bypass-pune-ahilyanagar-road-accident-broken-divider-bike-rider-somnath-borhade-death-speeding-car-hit-hit-and-run-road-safety-shirur-bypass-accident-pune-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/n9ewxmzp/Esakal.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5ed09a7e3bd6",
-            "feed": "lokmat",
-            "title": "Nagpur: कराटे क्लास संपल्यानंतर आठ वर्षांच्या चिमुकलीसोबत अश्लील कृत्य, प्रशिक्षकाला अटक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T21:40:46",
-            "url": "https://www.lokmat.com/nagpur/karate-coach-arrested-for-molesting-8-year-old-girl-in-nagpur-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-crime-3_2026081764247.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "2c6b71f79ba8",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 17 August  2026: नागपंचमी, श्रावणी सोमवार, रवि योग, बुधादित्य योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-16T23:22:10",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-17-august-2026-in-marathi-nag-panchami-shravan-somwar-budhaditya-yog-and-shubha-muhurta/articleshow/133279320.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "fef209ecd76c",
+            "feed": "lokmat",
+            "title": "UGC NET 2026: यूजीसी नेट परीक्षेबाबत एनटीएचा मोठा निर्णय, 'या' ३ विषयांची पुनर्परीक्षा होणार, वेळापत्रक जाहीर!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-16T22:42:57",
+            "url": "https://www.lokmat.com/national/nta-exam-update-2026-english-commerce-sociology-re-exam-check-time-table-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ugc-net-re-exam-2026-3_2026081764253.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "20bbd6015de8",
             "feed": "lokmat",
@@ -130,38 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-16/q7ed1m80/Smart-Phone-Charging-Tips.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "a3930b4a3045",
-            "feed": "lokmat",
-            "title": "कपाटात पडून असलेल्या जुन्या साड्यांचे शिवा सुंदर ड्रेस; १० पॅटर्न्स, पारंपरिक-मॉडर्न लूक येईल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-16T21:18:30",
-            "url": "https://www.lokmat.com/sakhi/photos/shopping/dress-from-old-saree-10-dress-idea-from-old-saree-dress-from-old-saree-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gvnjhk_2026081764243.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2b065f7da5ac",
-            "feed": "maharashtratimes",
-            "title": "Ashwin Mushran : 'मुन्नाभाई' फेम अभिनेत्याची बाईकला धडक, अपघातात दुचाकीस्वाराचे वडील गंभीर जखमी, रुग्णालयात उपचार सुरू",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-16T21:11:26",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/actor-ashwin-mushran-accused-of-hitting-biker-in-goa/articleshow/133277834.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
