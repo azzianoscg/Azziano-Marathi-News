@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "16-08-2026 | 12:53 PM IST",
+    "lastUpdated": "16-08-2026 | 01:47 PM IST",
     "maharashtra": [
         {
-            "id": "b96e501798c6",
-            "feed": "maharashtratimes",
-            "title": "VIDEO | अहिल्यानगरमध्ये पुन्हा निलेश लंके विरुद्ध सुजय विखे राजकारण तापलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T12:40:50",
-            "url": "https://maharashtratimes.com/maharashtra/ahilyanagar-news/sujay-vikhe-criticizes-mp-nilesh-lanke/videoshow/133271532.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8bd89cb488fc",
-            "feed": "esakal",
-            "title": "Mumbai Navy Sailor Family Death: नौदलाच्या खलाशासह पत्नी अन् २ मुलांचे मृतदेह आढळल्यानं खळबळ, २ महिन्यांच्या चिमुकल्याचा समावेश",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T12:39:18",
-            "url": "https://www.esakal.com/mumbai/indian-navy-sailor-his-wife-and-two-minor-children-found-dead-at-their-home-in-south-mumbai-crime-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/r29bw4cv/Mumbai-Navy-Sailor-Family-Death.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "edf2cc48f916",
+            "id": "4f4ab5fa838c",
             "feed": "lokmat",
-            "title": "पोलिस आयुक्त विनयकुमार चौबे यांच्यासह दहा अधिकारी आणि कर्मचारी यांना अतिउत्कृष्ट सेवा पदक जाहीर",
+            "title": "रिंग रोडच्या निर्णयाविरोधात नाशिकमध्ये शेतकऱ्यांचा एल्गार; काळे कपडे परिधान करून भरपावसात आत्मक्लेश",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-16T12:30:24",
-            "url": "https://www.lokmat.com/pune/ten-officers-and-employees-including-police-commissioner-vinay-kumar-choubey-were-awarded-the-most-meritorious-service-medal-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police000_2026081763939.jpeg",
+            "published": "2026-08-16T13:39:41",
+            "url": "https://www.lokmat.com/nashik/farmers-protest-in-nashik-against-the-ring-road-decision-wearing-black-clothes-in-heavy-rain-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nashik-ring-road_2026081763975.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "95a9e1f00971",
+            "id": "7631f009df54",
+            "feed": "esakal",
+            "title": "विदर्भातील धाडसी सरदार... घोडा पळाला लोकांना वाटलं सरदार पळून गेला, पण...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-16T13:38:18",
+            "url": "https://www.esakal.com/ampstories/web-story/vidarbha-history-raghuji-karande-maratha-sardar-rahatgaon-battle-nagpur-original-marathi-content-srk94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/hsrnkhjc/4.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "6d34a3ac10ef",
             "feed": "lokmat",
-            "title": "सिडको बसस्थानकाच्या स्वच्छतेवर परिवहन मंत्र्यांची नाराजी; प्रवाशांना दर्जेदार सुविधा देण्याचे निर्देश",
+            "title": "८१.४० लाख नव्हे, ४२.२८ लाख शेतकऱ्यांचा पीक विमा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-16T12:27:07",
-            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/transport-minister-pratap-sarnaik-unhappy-with-cleanliness-of-cidco-bus-stand-instructions-to-provide-quality-facilities-to-passengers-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pratap-sarnaik-chh_2026081763935.jpg",
+            "published": "2026-08-16T13:33:12",
+            "url": "https://www.lokmat.com/nagpur/crop-insurance-for-42-lakh-farmers-not-81-lakh-a-a932-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/31amph19_201907275823.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7f1380634978",
+            "id": "e2f040ffd89d",
+            "feed": "lokmat",
+            "title": "कर्जदार शेतकऱ्यांना पीक विमा योजनेसाठी अखेर मुदतवाढ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-16T13:30:46",
+            "url": "https://www.lokmat.com/akola/finally-the-deadline-for-crop-insurance-scheme-for-indebted-farmers-has-been-extended-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/31bhph35_201907275799.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "553ec25b0b62",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : मुंबईत भारतीय नौदलाचा खलाशी, पत्नी आणि दोन अल्पवयीन मुले मृतावस्थेत आढळली",
+            "title": "-",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-16T12:24:47",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-16th-august-2026-independenceday-15august-jaihind-vandemataram-saptadhara-viksitbharat-redfort-dimaginaxal-atalbiharivajpayee-schoolthikkaro-abhijeetdipke-siddhivinayak-devendra-fadnavis-fdamaharashtra-marathicabdrivers-marathimandatory-tirangayatra-mumbaiindependenceday-ymk86-sbp94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-16T13:29:21",
+            "url": "https://www.esakal.com/pune/dairy-orange-farming-maharashtra",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/86ofwk5g/Banner1.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "ec2afbfa6916",
+            "id": "95bdde4dbe63",
+            "feed": "maharashtratimes",
+            "title": "कार्यमग्न जीवनाची कृतार्थ सांगता",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-16T13:35:22",
+            "url": "https://maharashtratimes.com/editorial/ravivar-mata/characteristics-of-the-national-kirtankar-krantigeeta-mahabal/articleshow/133271972.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "aae68024fecb",
             "feed": "esakal",
-            "title": "आईने इस्लाम स्वीकारला आणि आम्हालाही... शर्मिला टागोर यांची लेक सबा पतौडीचा खुलासा; म्हणाली - आम्ही कधीही मंदीरात...",
+            "title": "Congress Leader Murder : काँग्रेस नेत्याची मुलासह निर्घृणपणे हत्या ! कारला घेरलं, गोळ्या झाडल्या अन् धारदार शस्त्रांनी बाप-लेकाला संपवलं",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-16T12:48:16",
-            "url": "https://www.esakal.com/premier/sharmila-tagore-daughter-saba-pataudi-reveals-mother-accepted-islam-and-why-family-never-visited-temples-religion-story-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/brx3t1yv/saba-pataudi-on-islam.jpg",
+            "published": "2026-08-16T13:28:33",
+            "url": "https://www.esakal.com/desh/west-bengal-nadia-double-murder-congress-leader-anisur-rahman-son-abu-sufiyan-political-violence-nakkashipara-bethuadahari-railway-crossing-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/u5ba7tda/Anisur-Rahman-Murder.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "90676d09d298",
+            "id": "c684704263de",
             "feed": "esakal",
-            "title": "करोडपती असूनही कुटुंबाने फिरवली पाठ, बेवारस म्हणून अंत्यसंस्कार; ३ मुले, १ मुलगी अन् पत्नीही आली नाही",
+            "title": "तू कोणाचातरी मर्डर करायला हवा होतास... अंकुर वाढवेला मित्राने सांगितलेलं असं काही; जेवायला बोलावलं आणि...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-16T12:48:09",
-            "url": "https://www.esakal.com/desh/crorepati-dies-unclaimed-family-turns-away-after-his-death-wife-and-four-children-skip-funeral-shocking-case-emerges-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/eih9h3va/itawa-businessmen-death.jpg",
+            "published": "2026-08-16T13:28:02",
+            "url": "https://www.esakal.com/premier/ankur-wadhve-friend-shocking-confession-you-should-have-killed-someone-actor-revealed-the-unexpected-story-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/swoxpfk2/ANKUR-WADHAVE.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "b4aaf43627a5",
+            "id": "0dea6dfc2bf8",
             "feed": "lokmat",
-            "title": "दीपिका पादुकोणला सोडायला विमानतळावर आला रणवीर सिंह, बेबी बंपने वेधलं सर्वांचं लक्ष!",
+            "title": "\"कंडोमची जाहिरात फुकट कशाला करू, त्यासाठी...\", 'टॉक्सिक'मधील कियाराच्या 'तबाही' गाण्याच्या ट्रोलिंगवर पहिल्यांदाच बोलला यश",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-16T12:34:13",
-            "url": "https://www.lokmat.com/filmy/bollywood/deepika-padukone-baby-bump-viral-video-ranveer-singh-airport-spotting-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pregnant-deepika-padukone-makes-rare-appearance-with-her-baby-bump-ranveer-singh_2026081763938.jpg",
+            "published": "2026-08-16T13:19:39",
+            "url": "https://www.lokmat.com/filmy/bollywood/yash-talk-about-toxic-tabahi-kiara-advani-song-comparison-with-condom-advertise-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yash-on-tabahi-trolling-1_2026081763966.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "a4cf9773baf2",
+            "id": "a2049e6a9831",
             "feed": "lokmat",
-            "title": "हायअलर्ट असताना वाराणसी विमानतळावर गोळीबार; मुंबईकडे येण्यासाठी निघालेला प्रवासी, दोन कर्मचारी जखमी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-16T12:26:01",
-            "url": "https://www.lokmat.com/national/firing-at-varanasi-airport-during-high-alert-passenger-heading-to-mumbai-two-employees-injured-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/varanasi-airport-firing-3_2026081763934.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "cd5bc2f16985",
-            "feed": "lokmat",
-            "title": "४९ दिवसांची गूढ कहाणी अखेर न्यायालयात संपली; स्वीटी पटेल हत्या प्रकरणात पतीला जन्मठेप",
+            "title": "एकीकडे हातात रिव्हॉलव्हर घेतलेला स्वातंत्र्यसैनिक अन् दुसऱ्या बाजूला गांधी! प्रभासचा 'फौजी' अवतार समोर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-16T12:26:01",
-            "url": "https://www.lokmat.com/crime/the-49-day-mystery-finally-ends-in-court-husband-gets-life-imprisonment-in-sweety-patel-murder-case-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sweety-patel-caee-1_2026081763932.jpg",
+            "published": "2026-08-16T13:19:25",
+            "url": "https://www.lokmat.com/filmy/south-movies/prabhas-fauji-movie-new-poster-out-release-date-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/prabhas-fauji-movie-new-poster-out-release-date_2026081763970.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "66bbed4cc2eb",
+            "feed": "lokmat",
+            "title": "'ऑपरेशन सिंदूर'ने पाकिस्तानच्या अण्वस्त्रांची हवा काढली! आता नावे घेण्याचीही हिंमत नाही; मोठा खुलासा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-16T13:13:06",
+            "url": "https://www.lokmat.com/international/operation-sindoor-exposed-pakistans-nuclear-weapons-now-we-dont-even-dare-to-mention-names-big-revelation-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nuclear-weapons-proved-ineffective-during-operation-sindoor-pakistan_2026081763958.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "8c850542aaf8",
             "feed": "esakal",
@@ -228,25 +244,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-15/ws8kc63p/Latest-Marathi-Breaking-News-2026-08-15T205650.475.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        }
+    ],
+    "sports": [
+        {
+            "id": "471d8f5f21c9",
+            "feed": "lokmat",
+            "title": "Asian Team Test Record : ऑस्ट्रेलियाला धोबीपछाड देत बांगलादेशचा मोठा पराक्रम; भारत-पाकिस्तानचा विक्रमही मोडला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-16T13:34:24",
+            "url": "https://www.lokmat.com/cricket/news/bangladesh-become-quickest-asian-team-to-register-first-test-win-on-australian-soil-break-india-and-pakistan-record-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bangladesh-beat-australia-break-india-and-pakistans-record-m-1_2026081763973.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         },
         {
-            "id": "c17d9f1b92f7",
+            "id": "3e8c61f799bc",
             "feed": "maharashtratimes",
-            "title": "Operation Safed Sagar : Who Was Squadron Leader Ajay Ahuja ? Kargil war मधल्या शोर्याची गाथा",
+            "title": "AUS vs BAN 1st Test : बांगलादेशचा कारनामा! ऑस्ट्रेलियाला पहिल्यांदाच त्यांच्याच घरात लोळवलं, ऐतिहासिक विजयावर शिक्कामोर्तब",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-08-15T18:52:05",
-            "url": "https://maharashtratimes.com/video/mt-originals/operation-safed-sagar-real-story/videoshow/133263560.cms",
+            "published": "2026-08-16T13:24:25",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/bangladesh-beat-australia-1st-test-by-9-wickets-bangladesh-win-historic-match/articleshow/133271881.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "sports": [
+            "category_reason": "feed"
+        },
         {
             "id": "2077d4648072",
             "feed": "esakal",
@@ -262,88 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-16/djfi6rem/Pakistan-forget-penalty-corner-protective-gear-against-England-Hockey-World-Cup",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "bd3ba86c6524",
-            "feed": "lokmat",
-            "title": "पावसाच्या बॅटिंगमुळे IND vs SL मॅच ड्रॉ झाली तर काय? WTC फायनलच्या शर्यतीत कुणाला बसेल फटका?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-16T12:21:50",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-day-2-galle-test-weather-update-will-tropical-showers-force-a-draw-how-will-it-affect-the-wtc-final-points-table-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-1st-test-day-2-galle-test-weather-update-m-_2026081763911.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ea0e315b13b8",
-            "feed": "esakal",
-            "title": "IND vs SL 1st Test : एकही चेंडू न खेळता, भारत-श्रीलंकेचे खेळाडू जेवायला गेले! गौतम गंभीरचं डोकं फिरलं; गॉलवर नेमकं काय घडलं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-16T12:01:12",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-players-head-for-early-lunch-as-rain-disrupts-galle-test-at-2nd-day-gambhir-steps-out-to-assess-the-situation-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/w80a7dwm/IND-vs-SL-1st-Test-early-lunch-taken-in-Galle-due-to-rain",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "8f813e158af5",
+            "id": "a820282f45da",
             "feed": "lokmat",
-            "title": "Agriculture Admission : कृषि तंत्र पदविका अभ्यासक्रमासाठी वाढीव प्रवेश प्रक्रीया सुरु, वाचा संपूर्ण वेळापत्रक",
+            "title": "Solar Agriculture Scheme : शेतकऱ्यांना 'दिवसा हक्काची वीज'; अकोला-बुलढाणा-वाशिममध्ये १०८ सौर प्रकल्पांचा मोठा फायदा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-16T12:30:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-extended-admission-process-for-diploma-in-agricultural-technology-course-begins-read-the-complete-schedule-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/krushi-padvika_2026081763907.jpeg",
+            "published": "2026-08-16T13:44:29",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-solar-agriculture-scheme-farmers-get-daytime-electricity-108-solar-projects-in-akola-buldhana-washim-are-a-big-benefit-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/solar-agriculture-scheme-1_2026081763976.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "150c0549a9a7",
+            "id": "65092ac2b93c",
             "feed": "lokmat",
-            "title": "Halad Market : 'पिवळे सोने' पुन्हा संकटात! वायदे बाजारात दर घसरले, हिंगोलीत आवकही निम्म्यावर",
+            "title": "Ranbhajya : गडचिरोलीच्या रानभाज्यांना मिळणार ‘राजाश्रय’; स्वतंत्र ‘गडचिरोली ब्रँड’ची घोषणा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-16T12:25:18",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-halad-market-yellow-gold-in-trouble-again-prices-fell-in-the-futures-market-arrivals-in-hingoli-also-halved-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/halad-mar-hing-1_2026081763913.jpg",
+            "published": "2026-08-16T13:40:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-ranbhaji-announcement-of-separate-gadchiroli-brand-of-ranbhajya-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vabh_2026081763909.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "82f019900f42",
+            "id": "dae1ad8b7654",
             "feed": "lokmat",
-            "title": "८वा वेतन आयोगाच्या कामाला वेग; केंद्रीय कर्मचारी आणि पेन्शनर्ससाठी ५ महत्त्वाचे अपडेट्स, जाणून घ्या...",
+            "title": "वेअर हाऊस अनुदान बंद; राज्यातील हजारो शेतकरी, शेतकरी गट आणि नवउद्योजक आर्थिक कोंडीत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-16T12:08:18",
-            "url": "https://www.lokmat.com/business/news/8th-pay-commission-work-accelerates-5-important-updates-for-central-employees-and-pensioners-know-more-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pay-commission_2026081763904.jpg",
+            "published": "2026-08-16T13:13:26",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/warehouse-subsidy-stopped-thousands-of-farmers-farmer-groups-and-new-entrepreneurs-in-the-state-are-in-financial-trouble-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-u-34-34-34-wear-house-scheme-maharashtra-farmer_2026081763867.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
