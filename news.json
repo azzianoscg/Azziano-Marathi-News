@@ -1,167 +1,167 @@
 {
-    "lastUpdated": "16-08-2026 | 09:09 AM IST",
+    "lastUpdated": "16-08-2026 | 09:56 AM IST",
     "maharashtra": [
+        {
+            "id": "c728cd12efb8",
+            "feed": "lokmat",
+            "title": "कुंभकाळात ‘कम्युनिकेशन ब्लॅकआउट’ टाळण्यासाठी कवच; सार्वजनिक नेटवर्कसह सॅटेलाइट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-16T09:53:28",
+            "url": "https://www.lokmat.com/nashik/shield-to-avoid-communication-blackout-during-kumbh-mela-nashik-satellite-with-public-network-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kumbh-mela-nashik-1004_2026041680962.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "7f1380634978",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : महाडमध्ये केमिकल कंपनीत गॅस गळतीमुळे एकाचा मृत्यू, ८ गंभीर",
+            "title": "Marathi News Live Updates : पंजाब हरियाणातील शेतकऱ्यांचा आज दिल्लीकडे मोर्चा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-16T08:58:52",
+            "published": "2026-08-16T09:53:18",
             "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-16th-august-2026-independenceday-15august-jaihind-vandemataram-saptadhara-viksitbharat-redfort-dimaginaxal-atalbiharivajpayee-schoolthikkaro-abhijeetdipke-siddhivinayak-devendra-fadnavis-fdamaharashtra-marathicabdrivers-marathimandatory-tirangayatra-mumbaiindependenceday-ymk86-sbp94",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "50b24ca0a5eb",
+            "id": "13acb51f8af9",
+            "feed": "esakal",
+            "title": "Western Railway: ३० लाखांच्या गर्दीसमोर पश्चिम रेल्वे हतबल; २,५५९ पदे रिक्त, नियंत्रणासाठी कंत्राटी मनुष्यबळाचा आधार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-16T09:45:06",
+            "url": "https://www.esakal.com/mumbai/daily-30-lakh-passengers-traveling-on-western-railway-contractual-manpower-will-be-utilized-to-manage-increasing-crowds-on-mumbai-local-train-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/ka7t5a5l/Western-Railway-Passenger-Crowd.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "573fd042f9fa",
             "feed": "maharashtratimes",
-            "title": "Tukaram Mundhe : हे मुंढे कोण आहेत? रिझर्व्हेशन लिस्टमध्ये नाव पाहताच रेस्टॉरंट चालक चपापले, मित्राचा फोन, तुकाराम मुंढेंच्या मुलाचा भन्नाट किस्सा",
+            "title": "Keshav Upadhye : 'वंदे मातरम्' वेळी सोनिया गांधींनी खर्गेंसाठी खुर्ची मागितली, भाजपचा संताप, 'गांधी घराण्याला संपूर्ण गायनाबाबत एवढी अस्वस्थता का?'",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-16T08:58:45",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/tukaram-mundhe-son-booked-restaurant-on-birthday-owner-scared-seeing-last-name-in-reservation-list/articleshow/133269204.cms",
+            "published": "2026-08-16T09:41:14",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/keshav-upadhye-bjp-slams-sonia-gandhi-rahul-gandhi-over-stopping-vande-mataram-for-mallikarjun-kharge-chair/articleshow/133269460.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "017a792724c2",
-            "feed": "esakal",
-            "title": "Panvel-Karjat Local: आनंदाची बातमी! दीड तासाचा प्रवास ४० मिनिटांत पूर्ण; कर्जत-पनवेल लोकल कधी सुरु होणार? तारीख आली समोर",
+            "id": "319199dacb82",
+            "feed": "lokmat",
+            "title": "प्रधानमंत्री सूक्ष्म अन्नप्रक्रिया योजनेत महाराष्ट्राची दमदार कामगिरी; ३१,७४६ प्रकल्पांना मंजुरी",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T08:31:21",
-            "url": "https://www.esakal.com/mumbai/panvel-to-karjat-mumbai-local-train-service-will-start-by-october-2027-that-railway-work-90-percent-completed-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/dsr38wmp/Panvel-Karjat-Mumbai-Local-Train.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "042d1849ad56",
-            "feed": "esakal",
-            "title": "Gold Rate Today: सोनं खरेदीचा विचार करताय? दरात रातोरात मोठा बदल; मुंबई-पुण्यात 10 ग्रॅमचा भाव कुठे पोहोचला?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-16T08:15:50",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/gold-rate-pune-today-24k-22k-18k-gold-price-india-mumbai-pune-delhi-chennai-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/7rxv73z1/Gold-Prices-Surge-Check-Today’s-24K-22K-and-18K-Gold-Rates-in-Pune.jpg",
+            "published": "2026-08-16T09:23:54",
+            "url": "https://www.lokmat.com/akola/maharashtra-strong-performance-in-prime-minister-micro-food-processing-scheme-31746-projects-approved-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pm-yojna-16-nm_2023041002790.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "c6ab849f6641",
-            "feed": "esakal",
-            "title": "MahaDBT Scheme: २९ नव्या योजना महाडीबीटीवर, घरबसल्या १०५ शासकीय योजनांचे लाभ मिळणार; मुख्यमंत्र्यांची घोषणा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-16T08:01:04",
-            "url": "https://www.esakal.com/mumbai/devendra-fadnavis-announce-29-new-schemes-add-on-mahadbt-it-causes-benefits-of-105-government-schemes-available-in-one-place-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-17/zd21qn76/devendra-fadnavis-2.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "14474416272f",
-            "feed": "lokmat",
-            "title": "नाग पंचमी २०२६: नागपंचमीला कापू, चिरू किंवा तळू नये म्हणतात, जाणून घ्या शास्त्रीय अन् धार्मिक कारण!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-16T09:05:01",
-            "url": "https://www.lokmat.com/bhakti/nag-panchami-2026-it-is-said-that-one-should-not-cut-chop-or-fry-on-nag-panchami-know-the-scientific-and-religious-reason-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nag-panchami-2026-traditional-rituals_2026081762891.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "240dcc505c82",
-            "feed": "lokmat",
-            "title": "देशातील जलदगती न्यायालयांची गती मंदावली; महाराष्ट्र प्रलंबित खटल्यांत देशात दुसऱ्या स्थानी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-16T09:00:19",
-            "url": "https://www.lokmat.com/national/speed-of-fast-track-courts-in-the-country-has-slowed-down-maharashtra-ranks-second-in-the-country-in-pending-cases-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-250097877_201912335640.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "46f92ca50719",
+            "id": "c559088dfd92",
             "feed": "esakal",
-            "title": "ममतांचे निकटवर्तीय आणि विधानसभेच्या माजी उपसभापतींचा संशयास्पद मृत्यू, लटकलेल्या अवस्थेत पक्ष कार्यालयातच आढळला मृतदेह",
+            "title": "रताळ्याची लागवड करा घरच्या घरी अन् वेलीने वाढवा बाल्कनीची शोभा!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-16T08:56:36",
-            "url": "https://www.esakal.com/desh/west-bengal-news-former-assembly-deputy-speaker-ashish-banerjee-found-dead-at-tmc-office-police-probe-underway-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/du8cje7n/ashish-banarjee.jpg",
+            "published": "2026-08-16T09:46:00",
+            "url": "https://www.esakal.com/ampstories/web-story/how-to-grow-sweet-potato-at-home-beautify-balcony-with-vines-ratale-vel-marathi-information-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/4310i3f8/Grow-Sweet-Potatoes-7.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "d3999123b394",
-            "feed": "lokmat",
-            "title": "भारताची संरक्षण निर्यात पोहोचली ३८,४२४ कोटी रुपयांवर : राजनाथ सिंह",
+            "id": "648d45921336",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 16 ऑगस्ट 2026 : बाप्पाच्या कृपेने होणार या राशींची मनोकामनापूर्ती कामे लागणार मार्गी  ! पहा तुमचे राशिभविष्य काय सांगते ?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
             },
-            "published": "2026-08-16T08:55:59",
-            "url": "https://www.lokmat.com/national/india-defence-exports-reach-38424-crore-said-rajnath-singh-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rajnathinjammu_2024091299227.jpg",
+            "published": "2026-08-16T09:45:02",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-16-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/133269784.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         },
         {
-            "id": "33661c055f0a",
+            "id": "6847f58648d3",
             "feed": "lokmat",
-            "title": "बॉक्स ऑफिसवर चालली इमरान हाश्मीची जादू; 'आवारापन-२ ' ने दोन दिवसांतच केली तब्बल 'इतक्या' कोटींची कमाई",
+            "title": "सोहेल खानचं अचानक वजन का घटलं? आजारपणाच्या चर्चांवर अभिनेत्याने अभिनेत्याने सोडलं मौन, म्हणाला...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-16T08:48:34",
-            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-actor-emraan-hashmi-starrer-awarapan-2-movie-box-office-collection-day-2-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/emraan-hasmi-movie_2026081763844.jpg",
+            "published": "2026-08-16T09:44:36",
+            "url": "https://www.lokmat.com/filmy/bollywood/actor-sohail-khan-breaks-silence-on-his-weight-loss-after-alliance-show-viral-video-sparks-health-concerns-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sohail-khan_2026081763855.jpg",
             "isBreaking": false,
             "category_reason": "default"
+        },
+        {
+            "id": "064a4a91ff69",
+            "feed": "lokmat",
+            "title": "पश्चिम बंगालच्या राजकारणात खळबळ! माजी उपसभापती आशिष बॅनर्जींचा TMC कार्यालयात टोकाचा निर्णय; चिठ्ठी सापडली",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-16T09:41:50",
+            "url": "https://www.lokmat.com/national/excitement-in-west-bengal-politics-former-deputy-speaker-ashish-banerjees-end-life-in-tmc-office-note-found-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/former-west-bengal-deputy-speaker-asish-banerjee_2026081763851.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "71eeb9862012",
+            "feed": "maharashtratimes",
+            "title": "Pooja Bedi On Aditya Pancholi Affair : पूजा बेदीशी भांडण झाल्यावर आदित्य पांचोलीचे मोलकरणीला आमिष दाखवत प्रेमाचे चाळे, लव्हबाइटमुळे प्रकरण समोर, पोलीस स्टेशनमध्ये प्रकरणाला यूटर्न",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-16T09:33:06",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/pooja-bedi-exposed-aditya-pancholi-had-relations-with-minor-age-maid/articleshow/133269335.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
@@ -248,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "2942b9b7f3d7",
+            "feed": "lokmat",
+            "title": "ऋषभ पंतच्या भात्यातून एक तीर निघाला...; ख्रिस गेल, जॅक कॅलिस, टिम साऊदी एकाचवेळी उध्वस्त झाले...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-16T09:27:04",
+            "url": "https://www.lokmat.com/cricket/news/rishabh-pant-test-sixes-record-an-arrow-came-out-of-rishabh-pants-rice-ind-vs-sl-galle-test-chris-gayle-jacques-kallis-tim-southee-were-destroyed-simultaneously-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rishabh-pant-six-records-test-1_2026081763850.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8b7d8abb845a",
+            "feed": "esakal",
+            "title": "IND vs SL 1st Test: लोकेश राहुलची पहिल्या कसोटीतून माघार? दुसऱ्या दिवसाचा खेळ सुरू होण्यास विलंब; नेमकं काय घडलं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-16T09:15:33",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-kl-rahul-is-fit-to-bat-on-day-2-sitanshu-kotak-confirms-rain-delays-the-start-of-play-in-galle-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/q6vkt0l2/KL-Rahul-fitness-update-ahead-of-Day-2-IND-vs-SL-1st-Test",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "c89db8a4d434",
             "feed": "esakal",
             "title": "ICC 2027 World Cup Date: गांधी जयंतीला सुरू होतोय वर्ल्ड कप अन् फायनल...! नवीन फॉरमॅट, नवीन चुरस; जाणून घ्या सर्व डिटेल्स",
@@ -262,88 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-16/l88c0qwr/2027-ODI-World-Cup-schedule-South-Africa-Zimbabwe-Namibia",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "98add1f50e07",
-            "feed": "lokmat",
-            "title": "Ind Vs SL 1st Test: लोकेश राहुलला झालेली दुखापत किती गंभीर, पुन्हा फलंदाजीला उतरणार का? समोर आली अशी अपडेट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-16T00:18:48",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-how-serious-is-lokesh-rahuls-injury-will-he-return-to-bat-heres-an-update-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/k-l-rahul-2_2026081763828.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ce5574f373ba",
-            "feed": "lokmat",
-            "title": "घोडा करत होता मद्याची तस्करी, २०० बाटल्या विदेशी दारूसह पोलिसांनी पकडले, ताब्यात घेऊन ठाण्यात आणले, त्यानंतर...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-15T23:47:38",
-            "url": "https://www.lokmat.com/cricket/news/bihar-crime-the-horse-was-smuggling-liquor-the-police-caught-it-along-with-200-bottles-of-foreign-liquor-took-it-into-custody-and-brought-it-to-the-police-station-after-which-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bihar-crime-news-1_2026081763826.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "b9faa7cfd63c",
+            "id": "7fa4b57ae275",
+            "feed": "maharashtratimes",
+            "title": "Success Story: 5000 पेक्षा जास्त वेळा नाकारली आयडिया, तरी नाही मानली हार; पठ्ठ्याने एका छोट्या समस्येतून उभारलं 1,300 कोटींचे साम्राज्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-16T09:39:00",
+            "url": "https://maharashtratimes.com/business/business-news/worlds-most-stubborn-billionaire-james-dyson-success-story-man-who-failed-over-5000-times-but-never-gave-up-built-billion-dollar-global-brand/articleshow/133259257.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "50edc5cc9b30",
             "feed": "lokmat",
-            "title": "मायलेज कमी झाले त्याला केवळ E20 जबाबदार नाही; पेट्रोलिअम मंत्रालयाने चालविण्याची स्टाईल, मेन्टेनन्सवर बोट ठेवले...",
+            "title": "रंगीत ढोबळीला कंटाळलेले शेतकरी आता वळले फळबागेकडे; अकोलेच्या ऊस रानात आता निर्यातक्षम केळी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-16T09:03:18",
-            "url": "https://www.lokmat.com/auto/e20-petrol-news-marathi-e20-is-not-the-only-reason-for-the-decrease-in-mileage-petroleum-ministry-points-finger-at-driving-style-maintenance-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/e20-petrol-mileage-drop-3_2026081763846.jpg",
+            "published": "2026-08-16T09:38:24",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/farmers-tired-of-colorful-dhobla-have-now-turned-to-orchards-exportable-bananas-now-grow-in-the-sugarcane-fields-of-akole-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-r-akole-banana-farming_2026081763853.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "133da9c9b6bc",
-            "feed": "maharashtratimes",
-            "title": "गॅस कनेक्शन होऊ शकतं सस्पेंड, लगेच करून घ्या E-KYC; सोप्या भाषेत समजून घ्या संपूर्ण प्रक्रिया",
+            "id": "5a193f161cde",
+            "feed": "lokmat",
+            "title": "Maharashtra Rain Alert : आज महाराष्ट्रात कुठे पाऊस, कुठे उघडीप? हवामान खात्याचा जिल्हानिहाय अंदाज वाचा सविस्तर",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-08-15T22:50:55",
-            "url": "https://maharashtratimes.com/business/business-news/lpg-gas-cylinder-e-kyc-importance-and-easiest-way-to-do/articleshow/133266081.cms",
-            "image": "",
+            "published": "2026-08-16T09:07:04",
+            "url": "https://www.lokmat.com/agriculture/weather/latest-news-maharashtra-rain-alert-where-will-it-rain-in-maharashtra-today-where-will-it-be-dry-read-the-detailed-district-wise-forecast-of-the-meteorological-department-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rain-alert-1_2026081763847.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a0a1f9991e7a",
-            "feed": "maharashtratimes",
-            "title": "परदेशी मालमत्ता लपवून ठेवणे पडणार महागात! अर्ध्यापेक्षा जास्त प्रॉपर्टी सरकारला द्यावी लागणार; FAST-DS योजना, सोप्या भाषेत समजून घ्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-15T21:09:27",
-            "url": "https://maharashtratimes.com/business/business-news/foreign-assets-of-small-taxpayers-disclosure-scheme-full-explainer-in-marathi/articleshow/133264457.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
