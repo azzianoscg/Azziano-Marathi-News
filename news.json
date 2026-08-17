@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "17-08-2026 | 11:52 PM IST",
+    "lastUpdated": "18-08-2026 | 12:50 AM IST",
     "maharashtra": [
+        {
+            "id": "a838eb9d1523",
+            "feed": "lokmat",
+            "title": "साहित्यिकांनी पुढाकार घेत फेडले डॉक्टर संपदा मुंडेंचे शैक्षणिक कर्ज",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T00:10:45",
+            "url": "https://www.lokmat.com/maharashtra/literary-people-took-the-initiative-and-paid-off-dr-sampada-mundes-educational-loan-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dr-sampada-munde_2026081764904.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "d861deb8d2b8",
             "feed": "esakal",
@@ -64,25 +80,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "ddbd5e86f832",
-            "feed": "esakal",
-            "title": "Karad News : कऱ्हाडचे अमोल होमकर सीआरपीएफचे महानिरीक्षक; संवेदनशील मणिपूर, नागालँडची जबाबदारी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-17T22:59:08",
-            "url": "https://www.esakal.com/satara/karad-amol-homkar-appointed-crpf-dg-entrusted-with-sensitive-manipur-and-nagaland-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/ngyz13i6/CRPF-DG-Amol-Homkar",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "9fa8f2d7bdc5",
+            "feed": "lokmat",
+            "title": "'फक्त परीक्षा रद्द करून चालणार नाही...' सोरेन सरकारच्या निर्णयावर देवेंद्र महतो नेमकं काय म्हणाले?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-18T00:02:41",
+            "url": "https://www.lokmat.com/national/jharkhand-student-protest-devendra-mahto-ends-hunger-strike-says-cancelling-exams-alone-is-not-enough-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devendra-mahto-hunger-strike-2_2026081764902.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "8a8ae404122f",
             "feed": "esakal",
@@ -146,22 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "ad4d37da788d",
-            "feed": "esakal",
-            "title": "बूथ पातळीवरच काँग्रेसला मोठा धक्का; १०८ पदाधिकाऱ्यांनी सोडली पदं, अंतर्गत नाराजी चव्हाट्यावर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-17T22:32:09",
-            "url": "https://www.esakal.com/desh/congress-faces-major-setback-ahead-of-kharge-goa-visit-108-bla-2-resignations-raise-questions",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-14/rih5io1d/congress-party",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
