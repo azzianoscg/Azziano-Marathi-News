@@ -1,88 +1,152 @@
 {
-    "lastUpdated": "17-08-2026 | 10:47 PM IST",
+    "lastUpdated": "17-08-2026 | 11:52 PM IST",
     "maharashtra": [
         {
-            "id": "82970fc49740",
+            "id": "d861deb8d2b8",
             "feed": "esakal",
-            "title": "महाराष्ट्रातल्या 'या' गावात प्रत्येक घरात पाळला जातो साप",
+            "title": "Ahilyanagar News : अंत्ययात्रेत फटाके, वाजवला बॅंड! कष्टकरी आईला आनंदाने अखेरचा निरोप",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-17T22:36:51",
-            "url": "https://www.esakal.com/ampstories/web-story/shetphal-snake-village-maharashtra-why-cobras-live-in-homes-tradition-history-and-human-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/es3ko0er/6.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "29c99e8b887d",
-            "feed": "lokmat",
-            "title": "दोडामार्ग घोटगेवाडी पुलावरून मुलगा आणि महिला वाहून गेली; तिलारी धरणातून पाणी सोडल्यानंतरची दुर्घटना",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-17T22:36:45",
-            "url": "https://www.lokmat.com/sindhudurga/boy-and-woman-swept-away-from-dodamarg-ghotgewadi-bridge-accident-after-water-released-from-tilari-dam-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/drowning-1_20180371210.jpg",
+            "published": "2026-08-17T23:48:55",
+            "url": "https://www.esakal.com/ahmednagar/firecrackers-and-band-at-the-funeral-procession-heartfelt-farewell-to-a-hardworking-mother-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/hqawd405/Shantabai-Kale",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "c6292a2cd40f",
+            "id": "d3e58748686d",
             "feed": "esakal",
-            "title": "MPSC Exam : जिद्द अन् परिश्रमातून यश; कंद यांची राज्य कर निरीक्षकपदी निवड",
+            "title": "MP Nilesh Lanke : संभाजीनगर-अहिल्यानगर मार्गाच्या सर्वेक्षणाला मंजुरी; पुणे-अहिल्यानगर रेल्वेमार्गाचे अंतिम स्थान सर्वेक्षण पूर्ण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-17T23:40:40",
+            "url": "https://www.esakal.com/ahmednagar/survey-approved-for-chhatrapati-sambhajinagar-ahilyanagar-route-final-location-survey-completed-for-pune-ahilyanagar-railway-line-mp-nilesh-lanke-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/m6t2ho2a/Railway",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7daf67093396",
+            "feed": "esakal",
+            "title": "Satara News : जिल्ह्यात येणार नवीन १२६ उद्योग; मर्सिडिस, फोक्सवॅगन, गोदरेजसारख्‍या उद्योगांची चर्चा; ४६ हजार कोटींची गुंतवणूक, १२ हजार नोकऱ्यांची संधी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T22:33:00",
-            "url": "https://www.esakal.com/pune/mpsc-exam-success-through-determination-and-hard-work-vivek-kand-selected-as-state-tax-inspector-motivation-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/mrnohuqo/Vivek-Kand",
+            "published": "2026-08-17T23:13:05",
+            "url": "https://www.esakal.com/satara/126-new-industries-to-come-to-satara-district-rupees-46000-crore-investment-and-12000-job-opportunities-expected-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/toqs0ibq/Industry-Job-Opportunity",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6825430ebfe1",
-            "feed": "lokmat",
-            "title": "सायन- पनवेल महामार्गावर दुचाकीला आग, सानपाडा पुलावरील प्रकार, महामार्गावर दोन्ही बाजूला चक्काजाम",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-17T22:16:55",
-            "url": "https://www.lokmat.com/maharashtra/bike-catches-fire-on-sion-panvel-highway-incident-on-sanpada-bridge-traffic-jam-on-both-sides-of-the-highway-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sion-panvel-highway-1_2026081764898.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "edc1d243c5c9",
+            "id": "9912e2196310",
             "feed": "maharashtratimes",
-            "title": "Ahilyanagar News : आमदारकी गेली तरी चालेल, पण रेल्वेमार्ग होऊ देणार नाही, प्राजक्त तनपुरेंचा सरकारला थेट इशारा",
+            "title": "Nandu Parab : डोंबिवलीत भाजपच्या जिल्हाध्यक्षांचं हिंदीत भाषण, राज ठाकरेंचा एकेरी उल्लेख, बृजभूषण सिंह यांचा उल्लेख करत मनसेला डिवचलं",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T22:09:21",
-            "url": "https://maharashtratimes.com/maharashtra/ahilyanagar-news/bjp-mla-prajakt-tanpure-protest-against-rahuri-shani-shingnapur-railway-route/articleshow/133301578.cms",
+            "published": "2026-08-17T23:09:06",
+            "url": "https://maharashtratimes.com/maharashtra/thane/bjp-leader-nandu-parab-slams-raj-thackeray-in-dombivli-program/articleshow/133302788.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ddbd5e86f832",
+            "feed": "esakal",
+            "title": "Karad News : कऱ्हाडचे अमोल होमकर सीआरपीएफचे महानिरीक्षक; संवेदनशील मणिपूर, नागालँडची जबाबदारी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-17T22:59:08",
+            "url": "https://www.esakal.com/satara/karad-amol-homkar-appointed-crpf-dg-entrusted-with-sensitive-manipur-and-nagaland-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/ngyz13i6/CRPF-DG-Amol-Homkar",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "8a8ae404122f",
+            "feed": "esakal",
+            "title": "Hinjewadi Road Issue : ‘आयटी’चे नव्हे, हे समस्यांचे ‘हब’! हिंजवडीतील वाढत्या गैरसोयींवर ‘जेन-झी’ची टीका",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-17T23:27:50",
+            "url": "https://www.esakal.com/pimpri-chinchwad/not-an-it-hub-but-a-hub-of-problems-gen-z-criticizes-growing-civic-issues-in-hinjawadi-bad-road-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/jwq23njc/Hinjewadi-IT-Park-Road-Bad-Condition",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6a5bb2e47258",
+            "feed": "esakal",
+            "title": "झारखंड विद्यार्थी आंदोलनापुढे सरकार झुकलं! JSSC CGL परीक्षा रद्द; मुख्यमंत्री सोरेन यांची मोठी घोषणा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-17T23:02:13",
+            "url": "https://www.esakal.com/desh/ranchi-protest-jharkhand-cm-hemant-soren-cancels-jssc-cgl-exam-tdpl-scam-probe-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/4zdnzxm4/Latest-Marathi-Breaking-News-2026-08-17T230030.627.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "d39e1a3e334e",
+            "feed": "lokmat",
+            "title": "झारखंडमध्ये विद्यार्थ्यांच्या आंदोलनाला यश; जेएसएससी सीजीएल परीक्षा रद्द, २०१४ पासूनच्या भरतीची चौकशी होणार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-17T23:00:51",
+            "url": "https://www.lokmat.com/national/student-protest-in-jharkhand-successful-jssc-cgl-exam-cancelled-recruitment-since-2014-to-be-investigated-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jharkhand-student-protest-1_2026081764900.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a49c2848a864",
+            "feed": "maharashtratimes",
+            "title": "Nag Panchami 2026: पुराणातील नागांचे रहस्य! सर्पदंशाबाबत भविष्य पुराणात काय सांगितले आहे?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-17T22:55:56",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/nag-panchami-snake-mysteries-bhavishya-purana-info-marathi/articleshow/133302759.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "ad4d37da788d",
             "feed": "esakal",
@@ -96,70 +160,6 @@
             "published": "2026-08-17T22:32:09",
             "url": "https://www.esakal.com/desh/congress-faces-major-setback-ahead-of-kharge-goa-visit-108-bla-2-resignations-raise-questions",
             "image": "https://cf-images.assettype.com/esakal/2026-02-14/rih5io1d/congress-party",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1efe6192d594",
-            "feed": "maharashtratimes",
-            "title": "आर्थिक राशिभविष्य 18 ऑगस्ट 2026: शुक्ल योगासह ब्रह्म योगाचा प्रभाव! वृषभ, तूळसह या राशींनी विरोधकांपासून सावध राहा! तुमची राशी काय सांगते? पाहा, तुमचे राशिभविष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-17T21:59:35",
-            "url": "https://maharashtratimes.com/astro/financial-horoscope/financial-money-horoscope-18-august-2026-mangalagaur-arthik-rashi-astrology-bhavishya-marathi/articleshow/133301771.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5852c0d56e3f",
-            "feed": "lokmat",
-            "title": "आयपीएस अधिकारी आशुतोष मिश्रा यांच्या आईच्या मृत्युचं गूढ उकललं; शवविच्छेदनाच्या अहवालात मोठा खुलासा!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-17T21:14:44",
-            "url": "https://www.lokmat.com/national/ips-officer-ashutosh-mishra-mother-death-mystery-solved-postmortem-confirms-heart-attack-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ips-ashutosh-mishra-mother-death-1_2026081764894.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "176a2bbcce58",
-            "feed": "maharashtratimes",
-            "title": "Crime News: बंद कपाट, 4 बॅग अन् 3 कोटींची कॅश; रिक्षा चालकाच्या घरात घबाड; धागेदोरे PWD इंजिनीअरपर्यंत",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-17T21:09:48",
-            "url": "https://maharashtratimes.com/india-news/mp-sagar-shocker-police-traces-auto-driver-after-watching-pistol-photo-on-social-media-found-3-crore-in-his-home/articleshow/133300669.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "73488bcbe8b2",
-            "feed": "maharashtratimes",
-            "title": "Aruna Irani : अरुणा इराणींबद्दल मेहमूद यांनी पसरवलेली अफवा, अभिनेत्रीचं करिअर आलेलं धोक्यात; दादा कोंडके आले मदतीला धावून, काय घडलेलं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-17T21:04:13",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/mehmood-had-spread-rumor-about-his-marriage-with-aruna-irani-dada-kondke-helped-actress/articleshow/133300628.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         }
