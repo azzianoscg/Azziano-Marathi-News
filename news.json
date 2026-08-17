@@ -1,234 +1,170 @@
 {
-    "lastUpdated": "17-08-2026 | 12:03 PM IST",
+    "lastUpdated": "17-08-2026 | 01:13 PM IST",
     "maharashtra": [
         {
-            "id": "36e6e8accb4f",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : पालघरच्या बोईसर MIDC मधील कंपनीत स्फोट, काही कामगार जखमी",
+            "id": "eeaace2565d7",
+            "feed": "maharashtratimes",
+            "title": "नाशिकच्या खड्ड्यांवरून संजय राऊत आक्रमक; भाजप आमदारांच्या घरासमोर आंदोलन करणार",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T11:53:26",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-17-august-2026-shravan-somwar-maratha-reservation-manoj-jarange-shaktipeeth-expressway-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-17T13:07:55",
+            "url": "https://maharashtratimes.com/maharashtra/nashik/shiv-sena-ubt-leader-sanjay-raut-warns-bjp-over-nashik-potholes/videoshow/133290401.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c48645e79613",
-            "feed": "esakal",
-            "title": "Model Antara Banerjee FIR : अभिनेत्रीचा धावत्या ट्रेनमध्ये RPF जवानावर रेझर ब्लेडने हल्ला; आधी स्वत:चे कपडे काढले अन् मग...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-17T11:52:49",
-            "url": "https://www.esakal.com/maharashtra/model-antara-soham-banerjee-fir-rpf-attack-razor-blade-train-borivali-dahanu-kasautii-zindagii-kay-actress-identity-confusion-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/5vn090zl/Model-Antara-Banerjee-1.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d3be92e0e45b",
+            "id": "52f4e8e1ab52",
             "feed": "lokmat",
-            "title": "वैद्यकीयसाठी प्रवेश; दुबईच्या महिलेला १.१३ कोटींचा गंडा",
+            "title": "अवजड वाहनांमुळे रस्त्याचे तीन तेरा; कॉटन ग्रीन, रे रोड, काळाचौकी परिसर खड्ड्यांचा ‘हरितपट्टा’",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T11:50:27",
-            "url": "https://www.lokmat.com/mumbai/admission-for-medical-treatment-dubai-woman-cheated-of-1-crore-13-lakh-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fraud-1_201809139450.png",
+            "published": "2026-08-17T13:07:33",
+            "url": "https://www.lokmat.com/mumbai/heavy-vehicles-block-three-fourths-of-the-road-cotton-green-ray-road-kala-chowki-area-of-potholes-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-goa-potholes-2308_2025081528701.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9ed1df0c4bfb",
+            "id": "28e1c611db6c",
+            "feed": "lokmat",
+            "title": "चोराच्या हातातच चालक विश्वासाने देत होते चाव्या; निःशुल्क वाहनतळ, मात्र माफियाकडून तासाला वसुली",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-17T13:02:59",
+            "url": "https://www.lokmat.com/mumbai/driver-was-trustingly-handing-over-the-keys-to-the-thief-free-parking-but-the-mafia-was-charging-hourly-a-a457-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumparkingd_2026021653209.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1c06b61a5075",
             "feed": "esakal",
-            "title": "Solapur News: ‘आमचा एकमेव रस्ताच खोदला!’; ७०० नागरिकांचा खड्ड्यात ठिय्या, खासदार प्रणिती शिंदे आंदोलनात उतरल्या",
+            "title": "Premium|Tribal Village Story : नावं, भाषा, शिक्षा आणि बदलांची हृदयस्पर्शी गोष्ट",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-17T11:49:11",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/solapur-road-protest-as-700-residents-stage-sit-in-after-their-only-access-road-is-dug-up-mp-praniti-shinde-joins-protest-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/7g2ly3it/sudhir-jadhav-satara-14.jpg",
+            "published": "2026-08-17T13:00:00",
+            "url": "https://www.esakal.com/premium-article/teacher-visits-tribal-tanda-village-school-students-unique-names-rural-life-education-maharashtra-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/hx0vw54x/Abhi-49.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "764b63222ffa",
+            "id": "5fd53e592315",
             "feed": "lokmat",
-            "title": "Chakan MIDC: चाकण एमआयडीसीच्या समस्यांवर कालबद्ध उपाययोजना; उद्योगमंत्री उदय सामंत यांची प्रत्यक्ष पाहणी",
+            "title": "गुन्हेगारी स्वरूपाचा तालुका असल्याची राज्यभर ओळख; आगामी \"मुळशी पॅटर्न २\" नावाला मुळशीकरांचा विरोध",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T11:47:56",
-            "url": "https://www.lokmat.com/pune/time-bound-solutions-to-the-problems-of-chakan-midc-direct-inspection-by-industry-minister-uday-samant-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-uday-samant-4-c_2026081764361.jpg",
+            "published": "2026-08-17T12:57:33",
+            "url": "https://www.lokmat.com/pune/the-taluka-is-known-throughout-the-state-to-be-a-criminal-area-mulshikars-oppose-the-upcoming-name-mulshi-pattern-2-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mulshi-pattern-m-2_2026081764467.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "71bff7194a60",
+            "id": "0c6a1ba2f5dc",
             "feed": "lokmat",
-            "title": "'आवारापन २' अन् 'बंटवारा १९४७' च्या लाटेत भाव खाऊन गेला रवीना टंडनचा 'हा' चित्रपट,  तीन दिवसांत १०० कोटींच्या उंबरठ्यावर",
+            "title": "Gunmaster G9: इमरान हाश्मी-जिनिलीया देशमुख पहिल्यांदाच एकत्र! 'आवारापन २' नंतर अभिनेत्याच्या नव्या सिनेमाची घोषणा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-17T11:59:55",
-            "url": "https://www.lokmat.com/filmy/south-movies/south-superstar-suriya-and-raveena-tandon-starrer-vishwanath-and-sons-movie-box-office-collection-3-days-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raveena-tandon-cinema_2026081764370.jpg",
+            "published": "2026-08-17T13:08:14",
+            "url": "https://www.lokmat.com/filmy/bollywood/after-awarapan-2-emraan-hashmi-genelia-deshmukh-gunmaster-g9-movie-announcement-release-date-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/after-awarapan-2-emraan-hashmi-genelia-deshmukh-gunmaster-g9-movie-announcement-release-date_2026081764477.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "70efa6a961e5",
-            "feed": "esakal",
-            "title": "आंतरराष्ट्रीय सिनेमाच्या पडद्यावर सलमान-संजयची जोडी झळकणार, '7 डॉग्स' कधी होणार प्रदर्शित?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-17T11:58:37",
-            "url": "https://www.esakal.com/premier/salman-khan-and-sanjay-dutt-entry-in-hollywood-for-action-film-7-dogs-trailer-released-check-when-will-it-be-released-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/xb8r9cql/Sanjay-Dutt-and-Salman-Khan-7-Dog-Film.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "8d46a3d1160b",
-            "feed": "esakal",
-            "title": "Shravan Green Bangles : श्रावणात हिरव्या बांगड्या घालण्यामागे दडलंय 'हे' धार्मिक रहस्य; महादेवाची कृपा अन् सौभाग्याशी काय आहे थेट कनेक्शन?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-17T11:54:02",
-            "url": "https://www.esakal.com/ampstories/web-story/shravan-green-bangles-mehndi-significance-religious-cultural-traditions-lord-shiva-parvati-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/khar2a12/Why-are-green-bangles-worn-during-Shravan",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e56f5edeb06d",
-            "feed": "esakal",
-            "title": "Nag Panchami 2026: नागपंचमीच्या दिवशी प्या 'या' फळाचा रस; सर्पदंशाची भीती अन् आजार होतील दूर!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-17T11:45:42",
-            "url": "https://www.esakal.com/culture-and-religion/nag-panchami-drink-lemon-juice-remedy-snake-bite-fear-marathi-nag-panchami-2026-rituals-to-remove-snakebite-fear-illness-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/6h7g4rjl/nagpanchami-2026.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d6207796c4d6",
+            "id": "f1e2bc76a9cd",
             "feed": "lokmat",
-            "title": "कुठे लुगाई तर कुठे बायको, पण बिहारमध्ये पत्नीला काय म्हणून हाक मारतात? शब्द असा विचारही केला नसेल...",
+            "title": "Video: प्रचंड गर्दी! उज्जैन महाकाल मंदिर परिसरातील नागचंद्रेश्वर मंदिरात चेंगराचेंगरी; १३ जण जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-17T13:04:46",
+            "url": "https://www.lokmat.com/national/ujjain-mahakal-mandir-stampede-many-injured-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nageshwar-temple_2026081764471.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d8775df41254",
+            "feed": "lokmat",
+            "title": "एयर इंडियात खळबळ; फुकेतच्या घटनेनंतर ड्रग्ज चाचणीत आणखी २ पायलट दोषी, तातडीने केले 'ग्राउंड'",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-17T12:59:35",
+            "url": "https://www.lokmat.com/national/air-india-drug-test-two-more-pilots-test-positive-after-phuket-delhi-incident-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/air-india-drug-screening-test_2026081764463.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "05b1af38d98b",
+            "feed": "maharashtratimes",
+            "title": "Naag Panchami 2026 : श्रावणाच्या पहिल्याच सोमवारी नागपंचमीचा शुभ संयोग, कालसर्पदोष पितृदोष निवारण्यासाठी करा हे सोपे उपाय !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-17T12:59:26",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/naag-panchami-shravan-somwar-upay-for-kalsarpadosha-removal-remedy/articleshow/133289935.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "bd83486ee606",
+            "feed": "lokmat",
+            "title": "डोळ्यांभोवतीची काळी वर्तुळं वाढली? 'या' पद्धतीने हिरडा लावा, ८ दिवसांत दिसेल फरक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-17T11:40:16",
-            "url": "https://www.lokmat.com/jarahatke/interesting-facts-what-people-in-bihar-call-their-wives-a-a583/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bihar-wives1_2026081764357.jpg",
+            "published": "2026-08-17T12:57:32",
+            "url": "https://www.lokmat.com/sakhi/photos/beauty/use-of-inknut-or-hirda-to-remove-dark-circles-how-to-get-rid-of-dark-circles-home-remedies-to-get-rid-of-dark-circles-a-a602/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hirda-to-remove-dark-circles_2026081764466.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
         }
     ],
     "world": [
-        {
-            "id": "74176e1b6635",
-            "feed": "lokmat",
-            "title": "युक्रेनचा आतापर्यंतचा सर्वात मोठा हल्ला, ८०० ड्रोन्सने रशिया हादरला! भारतीय उद्योगपती लक्ष्मी मित्तल यांचा कारखाना उद्ध्वस्त",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-17T10:48:59",
-            "url": "https://www.lokmat.com/international/ukraines-biggest-attack-ever-800-drones-shake-russia-indian-industrialist-lakshmi-mittals-factory-destroyed-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-ukrain_2026081764311.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bd6c2d118058",
-            "feed": "lokmat",
-            "title": "\"तो Show Off करतो!\" रश्मिका मंदानाचं यशबद्दल वक्तव्य, अभिनेत्याने दिलं उत्तर, म्हणाला- \"त्या मुलीला...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-17T10:23:32",
-            "url": "https://www.lokmat.com/filmy/south-movies/i-am-who-i-am-yash-revisits-rashmika-mandannas-2017-mr-showoff-comment-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/i-am-who-i-am-yash-revisits-rashmika-mandannas-2017-mr-showoff-comment_2026081764291.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "fa394ec0c185",
-            "feed": "lokmat",
-            "title": "हमास हत्यार टाकण्यास तयार! गाझाची सत्ता सोपवण्यासही मंजूर; हमास नेत्यांची कुशनर यांच्यासोबत ९० मिनिटं चर्चा!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-17T10:20:27",
-            "url": "https://www.lokmat.com/international/hamas-ready-to-lay-down-arms-agreed-to-hand-over-power-to-gaza-hamas-leaders-hold-90-minute-talks-with-kushner-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jered-kushnar-hamas_2026081764289.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d2f03062f79b",
-            "feed": "lokmat",
-            "title": "Antara Banerjee Arrested: धावत्या ट्रेनमध्ये RPF जवानावर ब्लेडने हल्ला! प्रसिद्ध मॉडेलला पोलिसांनी केली अटक, नेमकं प्रकरण काय?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-17T09:05:57",
-            "url": "https://www.lokmat.com/filmy/television/who-is-kasautii-zindagii-kays-antara-banerjee-actress-wrongly-accused-of-undressing-attacking-rpf-official-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/who-is-kasautii-zindagii-kays-antara-banerjee-actress-wrongly-accused-of-undressing-attacking-rpf-official-2_2026081764276.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
         {
             "id": "5e16ecdd7a62",
             "feed": "esakal",
@@ -248,102 +184,102 @@
     ],
     "sports": [
         {
-            "id": "01e82fe9cdc3",
+            "id": "4237abbdea65",
+            "feed": "maharashtratimes",
+            "title": "IND vs SL : नाद करायचा नाय! DSP मोहम्मद सिराजचा श्रीलंकेला पहिल्याच ओव्हरमध्ये झटका; श्रीलंका बॅकफूटवर, अर्धा संघ तंबूत",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-17T12:38:32",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-team-india-bowler-mohammed-siraj-take-wicket-first-over-against-sri-laka-video-viral/articleshow/133288125.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "884f1beb3bb3",
             "feed": "lokmat",
-            "title": "IND vs SL : \"ना लॉजिक, ना कॉमन सेन्स!\" माजी क्रिकेटरने पंतची अक्कलच काढली; म्हणाला...",
+            "title": "\"हा किती लांबून आलाय माहितीये का..?\"; भेटायला आलेल्या फॅनला पाहून रोहित शर्माही झाला अवाक्, VIDEO ने जिंकली मनं",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-17T11:57:49",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-rishabh-pants-common-sense-questioned-by-ex-india-star-mohammad-kaif-after-dismissal-in-galle-test-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rishabh-pants-common-sense-questioned-by-ex-india-star-m-_2026081764380.jpg",
+            "published": "2026-08-17T12:30:14",
+            "url": "https://www.lokmat.com/cricket/news/rohit-sharma-in-awe-after-seeing-fan-came-from-odisha-on-bicycle-to-meet-idol-video-won-hearts-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rohit-sharma-fan-1708_2026081764432.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "92cd0948927a",
-            "feed": "esakal",
-            "title": "IND vs SL 1st Test:  What a Catch! शुभमन गिलचा श्रीलंकेला स्तब्ध करणारा झेल, भारताच्या फिरकीसमोर यजमान फेल! Video Viral",
+            "id": "e0735b7f1a1a",
+            "feed": "lokmat",
+            "title": "IND vs SL 1st Test: गॉलमध्ये टीम इंडियाच्या फिरकीची जादू; शंभरीच्या आत श्रीलंकेचा निम्मा संघ तंबूत!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-17T11:36:42",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-what-a-catch-shubman-gill-takes-a-stunning-one-handed-stunner-to-dismiss-kamindu-mendis-video-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/qgbry9am/Shubman-Gill-stunning-one-handed-catch-against-Sri-Lanka",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4bb9fe8ad1b0",
-            "feed": "esakal",
-            "title": "THE HUNDRED: १५९ धावांचं आव्हान, २ चेंडू शिल्लक अन् ट्रॉफीवर नाव! संजीव गोएंका यांच्या सुपर जायंट्सचा थरारक विजय, जेतेपदाला गवसणी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-17T11:26:10",
-            "url": "https://www.esakal.com/krida/cricket/the-hundred-2026-final-manchester-super-giants-beat-trent-rockets-win-title-tim-seifert-liam-dawson-sanjeev-goenka-2026-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/zdur9q1u/THE-HUNDRED.jpg",
+            "published": "2026-08-17T12:20:59",
+            "url": "https://www.lokmat.com/cricket/news/manav-suthar-kuldeep-yadav-ravindra-jadeja-spin-web-tightens-as-sri-lanka-slip-to-five-down-99-runs-before-lunch-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sri-lanka-slip-to-five-down-99-runs-before-lunch-m-_2026081764410.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "c6c80349ba5b",
-            "feed": "lokmat",
-            "title": "FD करण्यापूर्वी ‘AAA’ रेटिंग पाहताय? RBI ने घेतला मोठा निर्णय; आता ठेवींच्या सुरक्षेची गॅरंटी कशी ठरणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-17T11:55:14",
-            "url": "https://www.lokmat.com/business/banking-loans/looking-at-aaa-rating-before-making-an-fd-rbi-has-taken-a-big-decision-how-will-the-security-of-deposits-be-guaranteed-now-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rbi-fd-rule_2026081764371.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5239e9bacd82",
-            "feed": "lokmat",
-            "title": "Bajari and Maize : बाजरी, मका पेरण्याऱ्या शेतकऱ्यांना दिलासा; हेक्टरी मिळणार अडीच हजारापर्यंतचे अनुदान",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-17T11:50:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/bajari-and-maize-relief-for-farmers-sowing-millet-and-maize-subsidy-of-up-to-rs-2500-per-hectare-will-be-provided-a-a989/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/3bc891ec-06c3-4927-92e7-0be5a55441e2_2026081764312.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7a2d466835db",
+            "id": "46b2ac428292",
             "feed": "maharashtratimes",
-            "title": "Property Ownership: गृहकर्ज फेडलं म्हणजे तुम्ही मालक झाला, असं नाही! मालकी हक्क मिळवायला बँकेकडून 7 कागदपत्रे मागायला विसरु नका",
+            "title": "Vishal Garg: नियतीचा फेरा! झूम कॉलवरून 900 लोकांना हकालणारा ‘बेटर डॉट कॉम’ संस्थापक बडतर्फ,नोकरीसाठी वणवण भटकतोय",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-17T11:39:02",
-            "url": "https://maharashtratimes.com/business/real-estate-news/home-loan-emi-closure-documents-property-owners-must-obtain-to-become-legal-owner/articleshow/133287341.cms",
+            "published": "2026-08-17T12:47:53",
+            "url": "https://maharashtratimes.com/business/business-news/better-founder-who-once-fired-900-employees-on-zoom-has-been-sacked-five-years-later/articleshow/133289817.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "8bfccbf55dd6",
+            "feed": "lokmat",
+            "title": "५ लाखांच्या FD वर कोणती बँक देते सर्वाधिक परतावा? पाहा SBI, HDFCसह या बँकांचा हिशोब...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-17T12:45:38",
+            "url": "https://www.lokmat.com/business/banking-loans/senior-citizen-fd-which-bank-gives-the-highest-return-on-fd-of-rs-5-lakh-see-the-calculation-of-these-banks-including-sbi-pnb-hdfc-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-fds-investment_2026081764447.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5fa45bf2a21f",
+            "feed": "lokmat",
+            "title": "Koyna Dam Water Level : कोयना धरणाच्या पाणीपातळीत वाढ; वाचा आजमितीला धरणात किती पाणीसाठा?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-17T12:40:18",
+            "url": "https://www.lokmat.com/agriculture/weather/koyna-dam-water-level-increase-in-water-level-of-koyna-dam-read-how-much-water-is-stored-in-the-dam-at-present-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/koyna-96-tmc-water_2026081764419.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
