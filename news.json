@@ -1,88 +1,120 @@
 {
-    "lastUpdated": "17-08-2026 | 09:45 PM IST",
+    "lastUpdated": "17-08-2026 | 10:47 PM IST",
     "maharashtra": [
         {
-            "id": "e0a3e79db7ab",
+            "id": "82970fc49740",
             "feed": "esakal",
-            "title": "कोर्टाचा FDAला दणका! पुण्यातील दुकानदाराला ५ लाखांची नुकसानभरपाई देण्याचे निर्देश,नेमकं प्रकरण काय?",
+            "title": "महाराष्ट्रातल्या 'या' गावात प्रत्येक घरात पाळला जातो साप",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-17T22:36:51",
+            "url": "https://www.esakal.com/ampstories/web-story/shetphal-snake-village-maharashtra-why-cobras-live-in-homes-tradition-history-and-human-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/es3ko0er/6.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "29c99e8b887d",
+            "feed": "lokmat",
+            "title": "दोडामार्ग घोटगेवाडी पुलावरून मुलगा आणि महिला वाहून गेली; तिलारी धरणातून पाणी सोडल्यानंतरची दुर्घटना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-17T22:36:45",
+            "url": "https://www.lokmat.com/sindhudurga/boy-and-woman-swept-away-from-dodamarg-ghotgewadi-bridge-accident-after-water-released-from-tilari-dam-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/drowning-1_20180371210.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "c6292a2cd40f",
+            "feed": "esakal",
+            "title": "MPSC Exam : जिद्द अन् परिश्रमातून यश; कंद यांची राज्य कर निरीक्षकपदी निवड",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T21:36:28",
-            "url": "https://www.esakal.com/pune/pune-sweet-shop-fda-license-suspended-98-percent-food-safety-compliance-bombay-high-court-5-lakh-compensation-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/c7aazb58/Pune-Sweet-Shop-FDA-License-Case",
+            "published": "2026-08-17T22:33:00",
+            "url": "https://www.esakal.com/pune/mpsc-exam-success-through-determination-and-hard-work-vivek-kand-selected-as-state-tax-inspector-motivation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/mrnohuqo/Vivek-Kand",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "32c9e02caa6a",
+            "id": "6825430ebfe1",
+            "feed": "lokmat",
+            "title": "सायन- पनवेल महामार्गावर दुचाकीला आग, सानपाडा पुलावरील प्रकार, महामार्गावर दोन्ही बाजूला चक्काजाम",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-17T22:16:55",
+            "url": "https://www.lokmat.com/maharashtra/bike-catches-fire-on-sion-panvel-highway-incident-on-sanpada-bridge-traffic-jam-on-both-sides-of-the-highway-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sion-panvel-highway-1_2026081764898.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "edc1d243c5c9",
             "feed": "maharashtratimes",
-            "title": "ACB Action : आरटीई अंतर्गत मिळालेल्या मोफत प्रवेशासाठीही मागितली लाच; शाळेचे संस्थापक अन् मुख्याध्यापिका एसीबीच्या जाळ्यात",
+            "title": "Ahilyanagar News : आमदारकी गेली तरी चालेल, पण रेल्वेमार्ग होऊ देणार नाही, प्राजक्त तनपुरेंचा सरकारला थेट इशारा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T21:35:43",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/acb-action-against-school-founder-and-principal-for-bribery-in-rte-admissions/articleshow/133300993.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "aabc23dffa78",
-            "feed": "esakal",
-            "title": "Water Issue : पाणी असूनही डीएसके विश्ववासीयांच्या घशाला कोरड; महापौरांसह आयुक्तांकडे मांडले गऱ्हाणे",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-17T21:33:46",
-            "url": "https://www.esakal.com/pune/despite-adequate-water-dsk-vishwa-residents-face-shortage-grievance-raised-before-mayor-and-municipal-commissioner-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-04/vp1z3j71/Water-Scarcity.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e368bc82f7f7",
-            "feed": "esakal",
-            "title": "Pune News : आमदार सुनील कांबळे यांच्या निवडीला आव्हान देणारी याचिका उच्च न्यायालयाने फेटाळली",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-17T21:28:50",
-            "url": "https://www.esakal.com/pune/high-court-dismisses-petition-challenging-mla-sunil-kambles-election-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/o5ddqttz/MLA-Sunil-Kamble-and-Ramesh-Bagwe",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "501f4ddaecfd",
-            "feed": "maharashtratimes",
-            "title": "Sachin Ahir : ट्रम्पला आणा, पण नगर-मनमाड रस्ता पूर्ण करा; सचिन अहिर यांचा सरकारला बोचरा टोला",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-17T21:13:02",
-            "url": "https://maharashtratimes.com/maharashtra/ahilyanagar-news/sachin-ahir-strong-comment-on-delayed-ahilyanagar-manmad-road-work/articleshow/133299797.cms",
+            "published": "2026-08-17T22:09:21",
+            "url": "https://maharashtratimes.com/maharashtra/ahilyanagar-news/bjp-mla-prajakt-tanpure-protest-against-rahuri-shani-shingnapur-railway-route/articleshow/133301578.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "ad4d37da788d",
+            "feed": "esakal",
+            "title": "बूथ पातळीवरच काँग्रेसला मोठा धक्का; १०८ पदाधिकाऱ्यांनी सोडली पदं, अंतर्गत नाराजी चव्हाट्यावर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-17T22:32:09",
+            "url": "https://www.esakal.com/desh/congress-faces-major-setback-ahead-of-kharge-goa-visit-108-bla-2-resignations-raise-questions",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-14/rih5io1d/congress-party",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1efe6192d594",
+            "feed": "maharashtratimes",
+            "title": "आर्थिक राशिभविष्य 18 ऑगस्ट 2026: शुक्ल योगासह ब्रह्म योगाचा प्रभाव! वृषभ, तूळसह या राशींनी विरोधकांपासून सावध राहा! तुमची राशी काय सांगते? पाहा, तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-17T21:59:35",
+            "url": "https://maharashtratimes.com/astro/financial-horoscope/financial-money-horoscope-18-august-2026-mangalagaur-arthik-rashi-astrology-bhavishya-marathi/articleshow/133301771.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "5852c0d56e3f",
             "feed": "lokmat",
@@ -130,41 +162,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "9b8720905571",
-            "feed": "lokmat",
-            "title": "तव्यावर २ चमचे हळद भाजून चटकन करा हेअर डाय! पांढऱ्या केसांसाठी 'असा' नॅचरल बेस्ट हेअर कलर...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-17T21:01:47",
-            "url": "https://www.lokmat.com/sakhi/beauty/how-to-make-homemade-hair-dye-with-turmeric-powder-how-to-use-turmeric-powder-for-grey-hair-homemade-turmeric-hair-dye-for-grey-hair-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-make-homemade-hair-dye-with-turmeric-powder_2026081764595.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "4e8eb6dbc0d1",
+            "id": "c26b594d6b9f",
             "feed": "esakal",
-            "title": "Premium|Film Editing : चित्रपट संकलनाचा ‘कात्री’शीर जादूई प्रवास; दृश्य, ध्वनी आणि मोन्ताजातून कथेला नवा वेग",
+            "title": "Donald Trump: इराणशी गुप्त चर्चेमागे कोण? ट्रम्प प्रशासनाने IRGC पर्यंत कशी पोहोच मिळवली? सीक्रेट कनेक्शन आलं समोर",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-17T20:52:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/film-editing-film-editor-creative-editing-cinema-storytelling-editing-techniques-visual-language-film-editor-day-director-collaboration-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/oo19ygua/Abhi-30.jpg",
+            "published": "2026-08-17T22:13:21",
+            "url": "https://www.esakal.com/global/donald-trump-secret-iran-connection-who-helped-him-reach-irgc-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/ls00o1ei/Trump-Secret-Iran-Outreach-Why-Did-US-Turn-to-Barzani.jpg",
             "isBreaking": false,
-            "category_reason": "default"
-        }
-    ],
-    "world": [
+            "category_reason": "url"
+        },
         {
             "id": "8ed2543746f4",
             "feed": "maharashtratimes",
@@ -232,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "f51cb2abc054",
+            "feed": "maharashtratimes",
+            "title": "Ind vs SL 1st Test : 178 धावांची आघाडी, श्रीलंका दबावात! पण टीम इंडियाच्या विजयात पाऊस व्हिलन ठरला तर गिल-गंभीर कोणता निर्णय घेणार?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-17T22:43:44",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-sri-lanka-1st-test-day-4-rain-threat-and-challenges-ahead-for-gill-gambhir/articleshow/133301660.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "03f8a9251260",
             "feed": "maharashtratimes",
             "title": "IND vs SL : गिलला चौथ्या दिवशी खास रणनीतीने मैदानात उतरावं लागेल; तरच मिळेल विजय! तिसऱ्या दिवशी भारत कुठे पास-कुठे फेल?",
@@ -260,22 +292,6 @@
             "published": "2026-08-17T20:24:38",
             "url": "https://www.esakal.com/krida/hockey-world-cup-2026-england-defeat-india-4-2-after-trailing-at-half-time-in-pool-d-match-psk96",
             "image": "https://cf-images.assettype.com/esakal/2026-08-17/06mu4jea/India-Hockey-Team-2.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1b398d2e0b43",
-            "feed": "esakal",
-            "title": "World Padel League चे गेम चेंजर्स लायन्स ठरले पहिले चॅम्पियन! ऑसी मॅव्हरिक जॅग्वार्सचा फायनलमध्ये पराभव",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-17T20:09:16",
-            "url": "https://www.esakal.com/krida/game-changers-lions-win-maiden-world-padel-league-title-by-beating-aussie-mavericks-jaguars-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/grm8avgj/Game-Changers-Lions-Crowned-World-Padel-League-Champions.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
