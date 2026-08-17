@@ -1,167 +1,167 @@
 {
-    "lastUpdated": "17-08-2026 | 03:52 PM IST",
+    "lastUpdated": "17-08-2026 | 04:46 PM IST",
     "maharashtra": [
         {
             "id": "36e6e8accb4f",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : गोव्यातून मध्य प्रदेशकडे जाणारा गोवा बनावटीचा अवैध दारूसाठा पोलिसांनी पकडला",
+            "title": "Marathi News Live Updates : भाजपच्या राष्ट्रीय सरचिटणीसपदी नियुक्ती झाल्याबद्दल भाजपच्या कार्यकर्त्यांनी विनोद तावडे यांचे अभिनंदन केले",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T15:51:55",
+            "published": "2026-08-17T16:44:24",
             "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-17-august-2026-shravan-somwar-maratha-reservation-manoj-jarange-shaktipeeth-expressway-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "80fc550a520b",
-            "feed": "lokmat",
-            "title": "तरुणाई ही ताकद, योग्य उपयोग केल्यास भारत विश्वगुरू बनू शकतो",
+            "id": "90c688ef1795",
+            "feed": "esakal",
+            "title": "Narayangaon Accident : अज्ञात वाहनाच्या धडकेत महाविद्यालयीन तरुणाचा मृत्यू",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T15:46:44",
-            "url": "https://www.lokmat.com/nagpur/youth-is-strength-if-used-properly-india-can-become-a-world-leader-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-17-at-3.27.16-pm-1_2026081764647.jpeg",
+            "published": "2026-08-17T16:42:38",
+            "url": "https://www.esakal.com/pune/college-student-rakesh-naik-dies-after-being-hit-by-an-unknown-vehicle-crime-narayangaon-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/cw6iu2kh/Rakesh-Naik",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "5d5f0571186e",
+            "id": "b637ddba6a6c",
+            "feed": "esakal",
+            "title": "Nagpur Burglary Case: घरफोडीच्या पैशातून आलीशान कार व प्लॉट खरेदी; गुन्हेशाखेची कारवाई, चौघांना अटक, १९.६५ लाखांचा मुद्देमाल जप्त",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-17T16:36:56",
+            "url": "https://www.esakal.com/vidarbha/nagpur/nagpur-burglary-case-stolen-money-car-plot-purchase-crime-branch-arrests-four-19-lakh-65-thousand-seized-kapilnagar-dixitnagar-theft-gold-silver-diamond-watch-cash-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2024-12-12/4ptx5duw/crimenews-2.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "54c17a7a5b76",
+            "feed": "esakal",
+            "title": "Onion Rate : लोणी येथील कृषी उत्पन्न बाजार समितीच्या उपबाजार आवारात एक नंबरच्या गोळा कांद्याला प्रती १० किलोला ४०० रुपये पर्यंत बाजारभाव; मागील वर्षभरातील उच्चांकी बाजारभाव",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-17T16:36:15",
+            "url": "https://www.esakal.com/pune/onion-prices-reach-rupees-400-per-10-kg-at-loni-sub-market-yard-highest-level-in-the-past-year-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/pl581te9/Onion-Prices-Reach-rupees-400-per-10-Kg-at-Loni-Sub-Market-Yard",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0a01f4f029b8",
             "feed": "maharashtratimes",
-            "title": "Mangesh Sable: जरांगेंचे आंदोलन मोडण्यासाठी ज्या हॉटेलमध्ये बैठका, त्याचे सगळे पुरावे माझ्याकडे; मंगेश साबळेंचे फडणवीसांच्या OSD वर गंभीर आरोप",
+            "title": "पान मसाला जाहिरातीतील ब्रँड ॲम्बेसेडर्सवर ॲक्शन घ्या; मुंढेंच्या कारवाईनंतर विक्रम पाचपुतेंची मागणी",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T15:36:51",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/sarpanch-mangesh-sable-serious-allegations-against-cm-devendra-fadnavis-osd-over-manoj-jarange-patil-agitation/articleshow/133292917.cms",
+            "published": "2026-08-17T16:31:50",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/vikram-pachpute-demands-action-against-pan-masala-ad-brand-ambassadors/videoshow/133294782.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "6901cf43bce0",
-            "feed": "lokmat",
-            "title": "राष्ट्रवादी, मनसे, शिवसेना पदाधिकाऱ्यांचा भाजपमध्ये प्रवेश",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-17T15:36:14",
-            "url": "https://www.lokmat.com/pune/ncp-mns-shiv-sena-office-bearers-join-bjp-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-bjp-entry-4_2026081764635.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "76d95892cd71",
+            "id": "aa1fd6822f46",
             "feed": "esakal",
-            "title": "-नाखरे-कालकरकोंड शाळेत दीपपूजा",
+            "title": "LPG e-KYC: एलपीजी ग्राहकांसाठी गुड न्यूज! 'केवायसी'ची मुदत वाढली; 'ही' तारीख असेल अखेरची",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-17T15:23:52",
-            "url": "https://www.esakal.com/kokan/todays-latest-marathi-news-kop26e22768-txt-ratnagiri-today-20260817095352",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/fpwhrc1w/ratnagiri_default_banner_1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "678a02c2b7c1",
-            "feed": "maharashtratimes",
-            "title": "भाजपची 'नवीन' टीम जाहीर;  तावडे, पवारांवर मोठी जबाबदारी, 2 दिग्गज महिला नेत्याही संघटनेत परतल्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-17T15:49:18",
-            "url": "https://maharashtratimes.com/india-news/bjp-announces-new-national-team-under-nitin-nabin-maharashtras-vinod-tawde-bharti-pawar-gets-key-responsibility/articleshow/133293304.cms",
-            "image": "",
+            "published": "2026-08-17T16:40:34",
+            "url": "https://www.esakal.com/desh/lpg-cylinder-ekyc-deadline-extended-august-23-server-down-indane-hp-bharat-gas-online-process-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/s1av60ot/Latest-Marathi-Breaking-News-2026-08-17T164003.652.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "0b6f963811c3",
+            "id": "541d0a03c0ed",
             "feed": "lokmat",
-            "title": "बाथरूम-किचनच्या टाइल्स काळ्या- चिकट झाल्या? सोप्या ट्रिक्स- ५ मिनिटांत हट्टी डाग होतील कमी, फरशी चमकेल",
+            "title": "हे माँ माताजी! 'दयाबेन'ने बी-ग्रेड सिनेमात केलेलं काम; दिशा वकानीच्या करिअरबद्दल माहितीये का?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-17T15:49:10",
-            "url": "https://www.lokmat.com/sakhi/social-viral/how-to-clean-black-bathroom-tiles-at-home-how-to-remove-stubborn-stains-from-floor-tiles-kitchen-tiles-cleaning-hacks-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-remove-black-stains-from-bathroom-tiles_2026081764648.jpeg",
+            "published": "2026-08-17T16:37:50",
+            "url": "https://www.lokmat.com/filmy/television/disha-vakani-from-taarak-mehta-ka-ooltah-chashma-worked-in-b-grade-film-at-the-start-of-career-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/daya-movie_2026081764720.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "f37a4f75a66c",
+            "id": "63e9df0d9e41",
             "feed": "lokmat",
-            "title": "Mangalagauri 2026 Ukhane: मंगळागौरीनिमित्त 'हे' घ्या भरपूर उखाणे, कोणताही म्हणा आणि वाहवा मिळवा",
+            "title": "उपवासाचा खमंग आणि पौष्टिक भगरीचा उपमा! ५ मिनिटांत तयार पण चव मात्र भन्नाट - पोट भरेल अन् फराळ होईल खास...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-17T15:48:35",
-            "url": "https://www.lokmat.com/bhakti/mangalagauri-2026-ukhane-on-the-occasion-of-mangalagauri-take-this-many-easy-ukhanes-take-any-and-get-compliments-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mangalagauri-2026-ukhane_2026081764654.jpg",
+            "published": "2026-08-17T16:32:01",
+            "url": "https://www.lokmat.com/sakhi/food/bhagar-upma-recipe-upvas-bhagar-upma-fasting-bhagar-upma-recipe-bhagar-upma-for-fasting-vrat-bhagar-upma-recipe-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhagricha-upma-recipe-for-shravan-fasting_2026081764702.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "c5dae64ffa83",
+            "id": "8a5317443cb6",
             "feed": "lokmat",
-            "title": "प्रसिद्ध बॉलिवूड अभिनेता वादात अडकला, गोव्यात कार चालवताना दुचाकीस्वाराला दिली धडक",
+            "title": "\"माझा मूड खराब केलास\"; हनिमूनला पीरियड्स आल्याने संतापला नवरा; बायकोला बेदम मारहाण",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-17T15:47:09",
-            "url": "https://www.lokmat.com/filmy/bollywood/actor-ashwin-mushran-in-trouble-as-his-car-hit-two-wheeler-while-driving-in-goa-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ashwin-mushran_2026081764650.jpg",
+            "published": "2026-08-17T16:29:59",
+            "url": "https://www.lokmat.com/crime/husband-beat-wife-threw-her-out-of-house-periods-in-honeymoon-in-andaman-nicobar-gorakhpur-delhi-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/couple-hotel_2026081764716.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "b61ff2164437",
-            "feed": "lokmat",
-            "title": "अयोध्या राम मंदिर ट्रस्ट CEO बनण्यासाठी प्रशासकीय अधिकाऱ्यांमध्ये चढाओढ; काय आहे कारण?",
+            "id": "5dc0bb95ad03",
+            "feed": "esakal",
+            "title": "साप कात का टाकतो? आणि किती वेळा टाकतो?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-08-17T15:44:06",
-            "url": "https://www.lokmat.com/national/competition-among-administrative-officials-to-become-ceo-of-ayodhya-ram-mandir-trust-what-is-the-reason-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ram-mandir-trust-ceo_2026081764642.jpg",
+            "published": "2026-08-17T16:29:53",
+            "url": "https://www.esakal.com/ampstories/web-story/why-do-snakes-shed-their-skin-scientific-reasons-snake-shedding-process-explained-nag-panchami-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/fd36iqxz/Why-Do-Snakes-Shed-Their-Skin.png",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         }
     ],
     "world": [
@@ -216,102 +216,102 @@
     ],
     "sports": [
         {
-            "id": "4bd70bcd2abe",
-            "feed": "lokmat",
-            "title": "जया बच्चन यांची झोपमोड होऊ न देता रात्रभर मॅच बघायची असेल तर बिग बींनी लढवलीये 'ही' शक्कल, केला खुलासा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-17T15:45:43",
-            "url": "https://www.lokmat.com/filmy/bollywood/big-b-abhishek-bachchan-has-revealed-this-trick-to-watch-the-match-all-night-without-jaya-bachchan-losing-her-sleep-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/big-b-abhishek-bachchan-has-revealed-this-trick-to-watch-the-match-all-night-without-jaya-bachchan-losing-her-sleep_2026081764640.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "d3599f7935de",
+            "id": "f6c39adfc460",
             "feed": "maharashtratimes",
-            "title": "IND vs SL : शाब्बास पोरा! 26 वर्षाच्या देवदत्तने 167 धावांची खेळी करत रचला इतिहास; गांगुली, सचिनसह दिग्गजांना मागे टाकत बनला नंबर वन",
+            "title": "WCL Season 3 : WCLच्या नव्या हंगामात युवी-ABD-वॉर्नर पुन्हा मैदान गाजवणार! एका नव्या संघाचीही एन्ट्री, भारत-पाक सामन्याची उत्सुकता, कधीपासून होतेय सुरुवात?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-17T15:27:54",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-devdutt-padikkal-is-the-fifth-highest-run-scorer-in-sri-lanka-and-the-only-one-to-achieve-this-feat-young-age/articleshow/133290415.cms",
+            "published": "2026-08-17T16:21:57",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/world-legends-championship-season-3-blast-for-cricket-lovers-india-pakistan-match-schedule/articleshow/133293686.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "02f694bae944",
+            "id": "2242813c52b0",
             "feed": "esakal",
-            "title": "IND vs SL 1st Test: श्रीलंकेचा पलटवार, भारताचे गोलंदाज झाले गार! २०१५ मध्ये जे घडलं होतं, तसंच होण्याची भीती; गौतम गंभीरला आठवलं तेव्हा नेमकं काय झालेलं...",
+            "title": "IND vs SL 1st Test: गंभीरने त्याला राखून ठेवलं, चेंडू जुना होताच गोलंदाजीला आणलं! १४६ धावांची भागीदारी तोडली; कोण आहे तो?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-17T15:04:55",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-niroshan-dickwella-sonal-dinusha-century-stand-puts-sri-lanka-back-in-the-game-india-face-2015-like-threat-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/hnbl15ti/Niroshan-Dickwella-Sonal-Dinusha-century-partnership-against-India",
+            "published": "2026-08-17T16:05:00",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-ind-vs-sl-1st-test-prasidh-krishna-breaks-146-run-stand-dismisses-niroshan-dickwella-for-80-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/famxzval/Prasidh-Krishna-breaks-146-run-partnership-against-Sri-Lanka",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "09f281cb506b",
+            "feed": "lokmat",
+            "title": "\"मिल बाँट के खाएंगे... और सब तलवार चलाएंगे!\" सरफराज-पंतनं घेतली जड्डूची फिरकी; नेमकं काय घडलं?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-17T15:56:45",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-mil-baat-ke-khaayenge-sab-talvaar-chalayenge-rishabh-pant-sarfaraz-khans-stump-mic-banter-with-ravindra-jadeja-goes-viral-watch-video-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rishabh-pant-sarfaraz-khans-stump-mic-banter-with-ravindra-jadeja-goes-viral-m-_2026081764651.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "34fd5da77b67",
+            "id": "800a12ef6b08",
             "feed": "lokmat",
-            "title": "TATA मध्ये नेमकं काय घडतंय? राजीनाम्यापूर्वीच नोएल टाटा आणि एन. चंद्रशेखरन यांनी केलेली सरकारशी चर्चा",
+            "title": "साखर कंपन्यांच्या शेअर्समध्ये जोरदार तेजी; स्टॉक्स ७ टक्क्यांपर्यंत वधारले, तेजी अशीच कायम राहणार?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-17T15:25:07",
-            "url": "https://www.lokmat.com/business/news/what-is-really-happening-in-tata-noel-tata-and-n-chandrasekaran-discussions-with-the-government-before-their-resignation-air-india-semi-conductor-loss-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/noel-tata-chandrashekaran-4_2026081764622.jpeg",
+            "published": "2026-08-17T16:40:11",
+            "url": "https://www.lokmat.com/business/stock-market/sugar-stocks-strong-rise-in-shares-of-sugar-companies-stocks-rose-up-to-7-percent-will-the-rise-continue-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sugar-milss_2026081764722.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7f1a9b3041bc",
-            "feed": "maharashtratimes",
-            "title": "पेन्शनर्ससाठी महत्वाची अपडेट! लोकसभेत पेन्शनवाढीच्या मुद्द्यावर झाली चर्चा, Higher Pension संदर्भात दिली स्पष्टता",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-17T15:24:30",
-            "url": "https://maharashtratimes.com/business/business-news/higher-eps-pension-pending-cases-topic-was-discussed-in-indian-parliment/articleshow/133291025.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c80c698f91b4",
+            "id": "3442cf8c337a",
             "feed": "lokmat",
-            "title": "Crop Survey : पीक पाहणी सर्वेक्षकाकडून होणार खरीपातील पीक पाहणी! राज्य शासन देणार मानधन",
+            "title": "Sakhar Market : पाच वर्षात साखरेच्या दरात 25 रुपयांची वाढ, दर कशामुळे वाढले, वाचा सविस्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-17T15:10:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/crop-survey-crop-survey-surveyors-will-conduct-kharif-crop-surveys-state-government-will-pay-honorarium-a-a989/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/38f3ee96-c58c-42f0-a399-85aff0ebc1d7_2026081764574.jpg",
+            "published": "2026-08-17T16:30:02",
+            "url": "https://www.lokmat.com/agriculture/market-yard/sakhar-market-sugar-price-increased-by-rs-25-in-five-years-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ugar-sg_2026081764633.jpeg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "ccf9690f0078",
+            "feed": "lokmat",
+            "title": "शेअर बाजारात पुन्हा घसरण; सेन्सेक्स २८१ अंकांनी घसरला, IT शेअर्सना मोठा फटका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-17T16:22:07",
+            "url": "https://www.lokmat.com/business/stock-market/share-market-stock-market-falls-again-sensex-falls-by-281-points-it-shares-take-a-big-hit-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-17-aug_2026081764709.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ]
 }
