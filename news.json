@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "18-08-2026 | 12:50 AM IST",
+    "lastUpdated": "18-08-2026 | 01:45 AM IST",
     "maharashtra": [
         {
             "id": "a838eb9d1523",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "370500dcaf4c",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 18 August  2026: श्रियाळ षष्ठी, मंगळागौरी पूजन, गजकेसरी योग, अमला योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-18T00:49:37",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-18-august-2026-in-marathi-shriyal-shashthi-mangalagauri-pujan-gajakesari-yog-and-shubha-muhurta/articleshow/133305666.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "9fa8f2d7bdc5",
             "feed": "lokmat",
             "title": "'फक्त परीक्षा रद्द करून चालणार नाही...' सोरेन सरकारच्या निर्णयावर देवेंद्र महतो नेमकं काय म्हणाले?",
@@ -146,22 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jharkhand-student-protest-1_2026081764900.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "a49c2848a864",
-            "feed": "maharashtratimes",
-            "title": "Nag Panchami 2026: पुराणातील नागांचे रहस्य! सर्पदंशाबाबत भविष्य पुराणात काय सांगितले आहे?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-17T22:55:56",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/nag-panchami-snake-mysteries-bhavishya-purana-info-marathi/articleshow/133302759.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
