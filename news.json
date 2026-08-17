@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "18-08-2026 | 03:44 AM IST",
+    "lastUpdated": "18-08-2026 | 04:43 AM IST",
     "maharashtra": [
+        {
+            "id": "f36b5ee31c32",
+            "feed": "lokmat",
+            "title": "नागपूर पोलिसांची गोव्यात मोठी कारवाई; छापेमारी करून चाैघांना पकडले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T04:37:55",
+            "url": "https://www.lokmat.com/nagpur/nagpur-police-conducts-major-operation-in-goa-four-arrested-in-raids-a-a877-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-police-transfer4_2026061728747.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "07877c52ce77",
+            "feed": "lokmat",
+            "title": "“मराठी सक्तीची नव्हे, तर भक्तीची भाषा”: एकनाथ शिंदे; मराठी भाषा पाठ्यक्रम अभियानाची सांगता",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T04:35:20",
+            "url": "https://www.lokmat.com/thane/marathi-is-not-a-language-of-compulsion-but-of-devotion-said-deputy-cm-eknath-shinde-a-a850-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eknath-shinde-thane-marathi-news_2026081764906.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "a838eb9d1523",
             "feed": "lokmat",
@@ -48,38 +80,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-17/m6t2ho2a/Railway",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "7daf67093396",
-            "feed": "esakal",
-            "title": "Satara News : जिल्ह्यात येणार नवीन १२६ उद्योग; मर्सिडिस, फोक्सवॅगन, गोदरेजसारख्‍या उद्योगांची चर्चा; ४६ हजार कोटींची गुंतवणूक, १२ हजार नोकऱ्यांची संधी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-17T23:13:05",
-            "url": "https://www.esakal.com/satara/126-new-industries-to-come-to-satara-district-rupees-46000-crore-investment-and-12000-job-opportunities-expected-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/toqs0ibq/Industry-Job-Opportunity",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9912e2196310",
-            "feed": "maharashtratimes",
-            "title": "Nandu Parab : डोंबिवलीत भाजपच्या जिल्हाध्यक्षांचं हिंदीत भाषण, राज ठाकरेंचा एकेरी उल्लेख, बृजभूषण सिंह यांचा उल्लेख करत मनसेला डिवचलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-17T23:09:06",
-            "url": "https://maharashtratimes.com/maharashtra/thane/bjp-leader-nandu-parab-slams-raj-thackeray-in-dombivli-program/articleshow/133302788.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
