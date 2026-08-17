@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "17-08-2026 | 07:02 PM IST",
+    "lastUpdated": "17-08-2026 | 07:48 PM IST",
     "maharashtra": [
         {
-            "id": "012038becbe1",
-            "feed": "maharashtratimes",
-            "title": "भाजप मंत्री Pankaja Munde यांचं रिटायरमेंटबद्दल मोठं वक्तव्य, नेमकं निशाण्यावर कोण?",
+            "id": "36e6e8accb4f",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : श्रीनिवास पाटील आणि शिवाजीराव देशमुख माणसं चांगली आहेत पण त्यांच्यावर शरद पवार यांचा ठपका - गडकरी",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T18:58:55",
-            "url": "https://maharashtratimes.com/maharashtra/beed/bjp-minister-pankaja-munde-makes-a-major-statement-regarding-retirement-who-exactly-is-the-target/videoshow/133298450.cms",
-            "image": "",
+            "published": "2026-08-17T19:44:12",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-17-august-2026-shravan-somwar-maratha-reservation-manoj-jarange-shaktipeeth-expressway-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d6da7fac982f",
-            "feed": "maharashtratimes",
-            "title": "Raju Shetti | 'गोपीनाथ मुंडेंची भाजपमध्ये होणारी घुसमट जवळून पाहिले',मोठं वक्तव्य",
+            "id": "6600ba2c52e3",
+            "feed": "esakal",
+            "title": "MP Dr. Amol Kolhe : माळशेज भोरांडे प्रकल्पासारखे एकूण 59 प्रकल्प आगामी काळात राज्यात प्रस्तावित",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T18:55:40",
-            "url": "https://maharashtratimes.com/maharashtra/beed/raju-shetti-on-gopinath-munde/videoshow/133298382.cms",
-            "image": "",
+            "published": "2026-08-17T19:35:13",
+            "url": "https://www.esakal.com/pune/59-power-generation-projects-like-the-malshej-bhorande-project-proposed-across-maharashtra-in-the-coming-years-mp-dr-amol-kolhe-junnar-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/f3i07j32/MP-Dr.-Amol-Kolhe",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e1b697c4683a",
-            "feed": "maharashtratimes",
-            "title": "High Court on FDA : तुकाराम मुंढेंच्या एफडीएला तब्बल 5 लाखांचा दंड! मुंबई हायकोर्टाचा दणका, नेमकं प्रकरण काय?",
+            "id": "8da09d1b601b",
+            "feed": "esakal",
+            "title": "MP Supriya Sule : महापालिकेस राज्यातील शाळा, शिक्षणाबाबत सरकारची भूमिका उदासीनच",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T18:55:30",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-high-court-fines-rupees-5-lakh-to-fda-over-pune-gurunanak-dairy-and-sweets-shop-case/articleshow/133298158.cms",
-            "image": "",
+            "published": "2026-08-17T19:26:36",
+            "url": "https://www.esakal.com/pune/government-remains-indifferent-toward-municipal-schools-and-education-in-the-state-mp-supriya-sule-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/vi1if6ot/Supriya-Sule",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "a08039c61676",
+            "id": "916766d00108",
             "feed": "lokmat",
-            "title": "मिरा रोड मेट्रो अपघातानंतर MMRDA चा मोठा दणका; कंत्राटदारांना थेट १२.५ कोटींचा दंड",
+            "title": "छ. संभाजीनगरात रेकॉर्डवरील आरोपींकडून तरुणाचे अपहरण; निर्जन स्थळी नेऊन कपडे काढून बेदम मारहाण",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-17T18:53:14",
-            "url": "https://www.lokmat.com/thane/mira-road-metro-mishap-mmrda-slaps-125-crore-penalty-on-contractors-for-safety-lapse-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mmrda-on-mira-road-accident_2026081764844.jpg",
+            "published": "2026-08-17T19:24:25",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/chhatrapati-sambhajinagar-crime-youth-kidnapped-stripped-by-history-sheeters-1-arrested-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kidnapping-abd-crime-arrest-parter_2025031409518.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c412220d0c4c",
+            "id": "6d82c5a5c174",
             "feed": "lokmat",
-            "title": "चिखलदऱ्यात पर्यटक असुरक्षित; रस्त्यांवर दरड, जीवितहानीचा धोका",
+            "title": "\"मिठाई दुकानदाराला ५ लाखांची भरपाई द्या\"; एफडीएच्या मनमानी कारभारावर हायकोर्टाचे ताशेरे",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-17T18:50:48",
-            "url": "https://www.lokmat.com/amravati/tourists-are-unsafe-in-chikhaldara-cracks-on-roads-risk-of-loss-of-life-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-17-at-6.32.33-pm_2026081764841.jpeg",
+            "published": "2026-08-17T19:11:00",
+            "url": "https://www.lokmat.com/pune/bombay-high-court-slams-fda-over-arbitrary-action-orders-5-lakh-compensation-to-pune-sweet-shop-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/high-court-mu-2_2026071752505.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "369046815afa",
+            "id": "7ef49edb20e9",
             "feed": "esakal",
-            "title": "सचिन आणि माझ्यात आधी मैत्री नव्हती... अशोक सराफ यांचा चकीत करणारा खुलासा; म्हणाले- मी त्याच्या वडिलांना...",
+            "title": "सुनेसारख्याच कर्तबगार आहेत 'तारिणी'च्या खऱ्या सासूबाई; पहिल्यांदाच छोट्या पडद्यावर दिसणार; शिवानीने शेअर केला व्हिडिओ",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-17T18:50:50",
-            "url": "https://www.esakal.com/premier/ashok-saraf-reveals-he-did-not-have-friendship-with-sachin-pilgaonkar-and-shares-old-story-about-his-father-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/8d6urp5z/ASHOK-SARAF-ON-SACHIN-PILGAONKAR.jpg",
+            "published": "2026-08-17T19:45:45",
+            "url": "https://www.esakal.com/premier/tarini-fame-shivani-sonar-real-life-mother-in-law-will-appear-on-small-screen-for-the-first-time-in-marathi-serial-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/wil479yh/shivani-sonar-mother-in-law.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "4ff17adcf224",
-            "feed": "lokmat",
-            "title": "Interesting Facts : बऱ्याच कुलुपाखाली एक छोटं छिद्र असतं, कारण तुम्हालाही नसेल माहीत...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-17T18:47:41",
-            "url": "https://www.lokmat.com/jarahatke/interesting-facts-why-is-there-a-small-hole-at-the-bottom-of-a-padlock-a-a583/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lock-hole1_2026081764839.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2c79d7e17fe4",
-            "feed": "esakal",
-            "title": "सासरच्यांना असं वाटतं की... ऐश्वर्या नारकरांनी सांगितलं लग्नानंतर नाव बदलण्याचं कारण; म्हणाल्या, 'माझ्या नणंदेने...'",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-17T18:36:07",
-            "url": "https://www.esakal.com/premier/aishwarya-narkar-explains-why-she-changed-her-name-after-marriage-and-reveals-what-her-sister-in-law-said-to-her-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/l77vyfh3/aishwarya-narkar.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "8e673da960b0",
-            "feed": "lokmat",
-            "title": "३ राज्यांची बॉर्डर, घनदाट जंगल, थंड वातावरण अन् रहस्यमय गुहा; भारतात कुठे आहे पृथ्वीवरील 'नागलोक'?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-17T18:34:16",
-            "url": "https://www.lokmat.com/photos/jarahatke/dense-forest-cold-climate-and-mysterious-caves-tapkara-is-a-small-town-in-the-jashpur-district-of-chhattisgarh-india-locally-known-as-naglok-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/snake-naglok-in-chhatishg_2026081764833.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "deb1f292df5f",
+            "id": "1e217b8a5bd6",
             "feed": "maharashtratimes",
-            "title": "Nagraj Manjule : 'माणूस जात शोधतोच', नागराज मंजुळेंचं विधान, बिग बींच्या गाण्याचा दाखला; सिनेमांची सद्यस्थिती सांगितली",
+            "title": "Tamil Nadu CM C Joseph Vijay : 75000 हजारांपर्यंतचं कर्ज माफ, १०० व्या दिवशी शेतकऱ्यांना गिफ्ट",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-17T18:27:25",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/nagraj-manjule-talks-about-caste-system/articleshow/133297281.cms",
+            "published": "2026-08-17T19:45:15",
+            "url": "https://maharashtratimes.com/video/mt-originals/tamil-nadu-cm-c-joseph-vijay-corp-loan-waiver/videoshow/133299420.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "d25d98e3e5e2",
+            "feed": "esakal",
+            "title": "Premium|Study Room : सामाजिक संस्थांसाठी न्याय का महत्त्वाचा आहे?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-17T19:42:46",
+            "url": "https://www.esakal.com/premium-article/ambedkar-social-justice-political-equality-economic-inequality-john-rawls-democracy-constitutional-values-social-institutions-moral-legitimacy-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/founvczc/Abhi-2026-08-17T194153.032.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "b0c10473c1b0",
+            "feed": "esakal",
+            "title": "Dimaagi Naxal Party: ‘कॉकरोच’नंतर आता ‘दिमागी नक्सल पार्टी’! मोदींच्या वक्तव्यावरून नवा राजकीय ट्विस्ट; रातोरात लाखो फॉलोअर्स",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-17T19:35:09",
+            "url": "https://www.esakal.com/desh/dimaagi-naxal-party-emerges-after-pm-modi-remark-social-media-reacts-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/eutvmcdl/Dimaagi-Naxal-Party.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "ae4d8e57ac53",
+            "feed": "maharashtratimes",
+            "title": "Pakistani Actresses : भारतीय देशभक्तीपर गाण्यावर PAK अभिनेत्रींनी फडकवला पाकिस्तानचा झेंडा, सोशल मीडियावर करतायत ट्रोलिंगचा सामना",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-17T19:30:19",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/pakistani-actresses-viral-video-on-patriotic-indian-song/articleshow/133298671.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "fe63f5489f5e",
+            "feed": "lokmat",
+            "title": "६००० कमावणाऱ्या पोरानं पूर्ण केलं आई बापाचं स्वप्न; पहिल्याच विमान प्रवासाने डोळ्यात आनंदाश्रू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-17T19:25:24",
+            "url": "https://www.lokmat.com/social-viral/a-son-who-earns-6000-fulfilled-his-parents-dream-tears-of-joy-in-his-eyes-after-his-first-flight-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rajasthan-hau181_2026081764870.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "ce705da057fd",
             "feed": "lokmat",
@@ -216,55 +232,87 @@
     ],
     "sports": [
         {
-            "id": "6480c2a99ddb",
-            "feed": "maharashtratimes",
-            "title": "The Hundred 2026 : लखनौला कधीही न जमलेले, मँचेस्टर सुपर जायंट्सने पदार्पणातच करून दाखवले! गोएंकांचा आनंद गगनात मावेना, काय म्हणाले?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-17T18:19:31",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/manchester-super-giants-win-the-title-in-their-very-first-season-of-the-hundred-sanjiv-goenka-post/articleshow/133297009.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fb94e73f926d",
-            "feed": "lokmat",
-            "title": "IND vs SL 1st Test Day 3 Stumps : सोनल-डिकवेला जोडी फुटली अन् काही वेळातच टीम इंडियाने श्रीलंकेचा डाव गुंडाळला!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-17T17:41:41",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-rain-brings-early-stumps-on-day-3-india-bowl-out-sri-lanka-for-284-take-178-run-first-innings-lead-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-1st-test-day-3-stumps-m-_2026081764779.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "64a6e28b383c",
+            "id": "8dc01c0a3b52",
             "feed": "esakal",
-            "title": "IND vs SL, 1st Test, Day-3: श्रीलंकेने फॉलो-ऑन टाळला, पण भारताला मिळाली मोठी आघाडी! सोनल दिनुशा शतक करत चकमकला",
+            "title": "Viral Video: शेवटच्या बॉलवर ड्रामा! ४ धावांची गरज, चौकार न जाताच संघाचा जल्लोष; पण नंतर जे घडलं ते पाहून सर्वच अवाक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-17T17:40:30",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-sri-lanka-1st-test-day-3-sri-lanka-avoid-follow-on-as-sonal-dinusha-scores-century-but-india-retain-huge-lead-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/tz9sfyz4/Sri-Lanka-vs-India-1st-Test.jpg",
+            "published": "2026-08-17T19:28:52",
+            "url": "https://www.esakal.com/krida/cricket/four-runs-needed-off-the-last-ball-but-batters-ran-four-to-win-the-cricket-match-funny-cricket-viral-video-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/emq220k8/Viral-Cricket-Moment.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "29006de1b214",
+            "feed": "maharashtratimes",
+            "title": "Ravindra Jadeja : 90 कसोटीत 4 हजार धावा अन् 350 विकेट्स! जडेजाने गाठला खास टप्पा, थेट कपिल देव क्लबमध्ये एन्ट्री",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-17T19:25:31",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ravindra-jadeja-4000-runs-and-350-wickets-second-indian-enter-kapil-devs-club-ind-vs-sl-test-2026/articleshow/133298196.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "77b93a526bb2",
+            "feed": "lokmat",
+            "title": "कोण आहे सोनल दिनुशा? बॉलिंग ऑलराउंडरनं फक्त ४ ओव्हर टाकल्या अन् पहिल्याच शतकाने मैफील लुटली!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-17T19:22:05",
+            "url": "https://www.lokmat.com/cricket/photos/who-is-sonal-dinusha-maiden-century-against-a-strong-indian-bowling-attack-ind-vs-sl-1st-test-galle-international-stadium-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/who-is-sonal-dinusha-maiden-century-against-a-strong-indian-bowling-attack-10_2026081764867.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "d2d7520e8e89",
+            "feed": "lokmat",
+            "title": "पाच राज्यांमध्ये नवीन कापसाची आवक सुरु, चांगल्या प्रतीच्या कापसाला सरासरी काय दर मिळतोय?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-17T19:34:55",
+            "url": "https://www.lokmat.com/agriculture/market-yard/kapus-market-new-cotton-arrivals-have-started-in-five-states-average-price-being-paid-for-good-quality-cotton-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kapus-ls_2026081764872.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8d548531186b",
+            "feed": "maharashtratimes",
+            "title": "सेवानिवृत्ती म्हणजे टॅक्सपासून मुक्ती नव्हे! पगार नसला तरी कर भरावे लागतेच, रिटायर होण्याअगोदर जाणून घ्या महत्वाची गोष्ट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-17T19:08:33",
+            "url": "https://maharashtratimes.com/business/business-news/income-tax-that-need-to-pay-after-retirement/articleshow/133298413.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "fcaa4babea6f",
             "feed": "lokmat",
@@ -280,38 +328,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/patna-crime_2026081764846.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "9fc2c3f68254",
-            "feed": "lokmat",
-            "title": "Google vs Samsung: गुगल पिक्सेल की सॅमसंग गॅलेक्सी; कुठल्या फोल्डेबल फोनमध्ये मिळताहेत तगडे फीचर्स!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-17T18:53:39",
-            "url": "https://www.lokmat.com/tech/best-foldable-phone-in-india-google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold-8-ultra-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold-8-ultra-1_2026081764843.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "fc013cbc3ba8",
-            "feed": "lokmat",
-            "title": "Fish Farming : कार्प माशांच्या कृत्रिम प्रजननाचा पहिलाच यशस्वी प्रयोग, 15 लाख दर्जेदार मत्स्यबीजांची निर्मिती",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-17T18:35:01",
-            "url": "https://www.lokmat.com/agriculture/agri-business/fisheries/first-successful-experiment-in-artificial-breeding-of-carp-fish-production-of-15-million-quality-fish-seeds-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/matsy-biej_2026081764688.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
