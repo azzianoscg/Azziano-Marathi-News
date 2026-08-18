@@ -1,88 +1,152 @@
 {
-    "lastUpdated": "18-08-2026 | 09:49 PM IST",
+    "lastUpdated": "18-08-2026 | 10:48 PM IST",
     "maharashtra": [
         {
-            "id": "fea6c35febd4",
+            "id": "a0c8393eed2c",
             "feed": "esakal",
-            "title": "Amol Balwadkar : राजकीय वैमनस्यातून विकासकामांना खोडा; अमोल बालवडकर यांचा आरोप",
+            "title": "Chakan Road Work Issue : दिरंगाईच्या दलदलीत रुतले उद्योग! चाकण औद्योगिक वसाहतीतील कॉर्निंग-रोहकल जंक्शन मार्गाचे काम तीन वर्षांपासून ठप्प",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T21:46:12",
-            "url": "https://www.esakal.com/pune/political-rivalry-hindering-development-works-alleges-amol-balwadkar-fund-cancel-politics-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/hcrkv92r/amol-balwadkar",
+            "published": "2026-08-18T22:46:05",
+            "url": "https://www.esakal.com/pune/industries-stuck-in-delays-corning-rohkal-junction-road-work-in-chakan-industrial-area-stalled-for-three-years-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/w2vk5t4t/chakan-industrial-colony-road-work",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fae8e435fa8d",
+            "id": "a71bc0b258a6",
+            "feed": "esakal",
+            "title": "Sanjay Shitole : जिद्दीच्या जोरावर कोकडेवाडीतील शेतकरीपुत्राचे यश; दुय्यम निबंधक या पदावर झाली निवड",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T22:35:36",
+            "url": "https://www.esakal.com/pune/kokadewadi-farmers-son-sanjay-shitole-achieves-success-through-determination-selected-as-sub-registrar-motivation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/y82bi11o/Sanjay-Shitole",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e4678ab9afca",
             "feed": "maharashtratimes",
-            "title": "MLA PA Salary Hike : आमदारांचे पीए आणि वाहनचालकांच्या मानधनात वाढ, संसदीय कार्यमंत्री चंद्रकांत पाटील यांची माहिती",
+            "title": "Rahul Narvekar : सुप्रीम कोर्टात विधानसभा अध्यक्षांच्या आमदार अपात्रतेच्या निकालाविरोधात खडाजंगी, राहुल नार्वेकर यांची पहिली प्रतिक्रिया",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T21:36:38",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mla-pa-and-driver-salaries-increased-important-announcement-by-chandrakant-patil/articleshow/133326767.cms",
+            "published": "2026-08-18T22:25:16",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/maharashtra-assembly-speaker-rahul-narvekar-first-reaction-on-kapil-sibal-argument-in-supreme-court/articleshow/133327706.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "a9a3b1723bfe",
+            "id": "517f6a68b57c",
             "feed": "esakal",
-            "title": "Ganesh Bidkar : राष्ट्रवादीशी मैत्री राज्यात, पुण्यात नाही! अमोल बालवडकर यांचा निधी केला शून्य",
+            "title": "ACB Crime : ‘एनओसी’साठी ६५ हजारांची मागणी; ३५ हजार घेताना उपनिरीक्षक एसीबीच्या जाळ्यात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T22:16:42",
+            "url": "https://www.esakal.com/marathwada/sub-inspector-caught-by-acb-while-accepting-rupees-35000-bribe-after-demanding-rupees-65000-for-noc-crime-malsur-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2024-09-05/kwq7eu80/Rushikesh%20Salvi%20Esakal%20(12).jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b87220557c58",
+            "feed": "esakal",
+            "title": "सोलापूरच्या पोलिस अधीक्षकांची मोठी कारवाई! करमाळा व माढा तालुक्यातील ‘हे’ १७ सराईत गुन्हेगार हद्दपार, वाळू तस्करीसह गंभीर गुन्हे दाखल होते, वाचा....",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T21:17:44",
-            "url": "https://www.esakal.com/pune/alliance-with-ncp-in-maharashtra-not-in-pune-amol-balwadkars-development-fund-reduced-to-zero-politics-ganesh-bidkar-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/pxmbmhsb/ganesh-Bidkar-and-Amol-Balwadkar",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4b8e997f0c0c",
-            "feed": "lokmat",
-            "title": "उल्हासनगरमध्ये ३.३८ लाखांच्या 'एमडी' ड्रग्जसह टोळी गजाआड, नेपाळ कनेक्शन उघड, मध्यवर्ती पोलिसांची धडक कारवाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-18T21:09:46",
-            "url": "https://www.lokmat.com/maharashtra/gang-busted-with-md-drugs-worth-338-lakhs-in-ulhasnagar-nepal-connection-exposed-central-police-take-strong-action-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mg-drugs_2026081765578.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4909ba8c68d5",
-            "feed": "esakal",
-            "title": "Snakebite : सर्पदंश हा ‘अधिसूचित आजार’ म्हणून घोषित; प्रत्येक दंशाची नोंद आरोग्‍य विभागाला कळविणे बंधनकारक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-18T21:07:56",
-            "url": "https://www.esakal.com/pune/snakebite-declared-a-notifiable-disease-reporting-every-case-to-the-health-department-made-mandatory-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/goqsizgb/Snakebite",
+            "published": "2026-08-18T22:08:37",
+            "url": "https://www.esakal.com/maharashtra/big-action-by-solapur-superintendent-of-police-criminals-deported-from-these-17-inns-in-karmala-and-madha-talukas-serious-crimes-including-sand-smuggling-were-registered-read",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-29/qg5wjz0l/download-34-Copy.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "65c93c876bf9",
+            "feed": "esakal",
+            "title": "Satyendra Jain: आप नेते सत्येंद्र जैन यांना अटक! एसीबीची मोठी कारवाई; अरविंद केजरीवाल यांचा भाजपवर संताप",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T22:39:29",
+            "url": "https://www.esakal.com/desh/aap-leader-satyendra-jain-arrested-delhi-acb-jal-board-stp-tender-scam-arvind-kejriwal-bjp-reaction-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/idifgs77/Latest-Marathi-Breaking-News-2026-08-18T223543.827.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "d27542810353",
+            "feed": "maharashtratimes",
+            "title": "Chandra Grahan 2026 Timing : रक्षाबंधनच्या दिवशी वर्षातील शेवटचे चंद्रग्रहण ? पहा ग्रहणाचा सुतक काळ,कालावधी व कुठे कुठे दिसणार ग्रहण !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-18T22:15:46",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/chandra-grahan-2026-timing-sutak-kal-niyam-dos-and-dont/articleshow/133327661.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "e2320aec4dd6",
+            "feed": "lokmat",
+            "title": "Crime: अनैतिक संबंधात अडसर ठरलेल्या पतीचा काढला काटा, गावालगतच्या विहिरीत फेकला मृतदेह",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T22:11:08",
+            "url": "https://www.lokmat.com/crime/wardha-hinganghat-crime-news-woman-kills-husband-with-help-of-brother-in-law-lover-in-wardha-body-thrown-in-well-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wadner-police-station_2026081765582.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "e2480d61dd18",
+            "feed": "esakal",
+            "title": "Marathi News : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T21:51:39",
+            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-18th-august-2026-pune-road-accident-11-year-old-boy-dies-due-to-bad-road-cctv-captures-incident-maharashtra-weather-update-mumbai-rain-pune-kolhapur-sangli-satara-nashik-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-uddhav-thackeray-rahul-gandhi-srs92-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "4d4d29f2fb5f",
             "feed": "esakal",
@@ -96,70 +160,6 @@
             "published": "2026-08-18T21:44:58",
             "url": "https://www.esakal.com/ampstories/web-story/why-do-we-yawn-when-we-see-someone-else-yawning-contagious-yawning-science-and-reasons-spb94",
             "image": "https://cf-images.assettype.com/esakal/2026-08-18/u35bpfbq/Why-do-we-yawn-after-seeing-someone-else-yawn-5.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e2480d61dd18",
-            "feed": "esakal",
-            "title": "Marathi News Live : भंडाऱ्यात अल्पवयीन मुलाची हत्या, नेहरू गार्डनजवळील घटना; मारेकरी मृताचा मित्र",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T21:31:51",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-18th-august-2026-pune-road-accident-11-year-old-boy-dies-due-to-bad-road-cctv-captures-incident-maharashtra-weather-update-mumbai-rain-pune-kolhapur-sangli-satara-nashik-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-uddhav-thackeray-rahul-gandhi-srs92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "44a4f4b3273c",
-            "feed": "maharashtratimes",
-            "title": "Sunita Ahuja : 'तिनं माझ्या कुशीतच प्राण सोडला', तीन महिन्याच्या लेकीचं निधन; सुनीतानं सांगितलेला काळीज पिळवटून टाकणारा प्रसंग",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-18T21:25:24",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/govinda-wife-sunita-ahuja-once-talk-about-their-3-moths-daughter-death/articleshow/133326606.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "af318ab3d42d",
-            "feed": "lokmat",
-            "title": "दिल्ली जल बोर्ड भ्रष्टाचार प्रकरण, आप नेते सत्येंद्र जैन यांच्यासह ६ जणांना अटक; एसीबीची मोठी कारवाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-18T21:21:52",
-            "url": "https://www.lokmat.com/national/delhi-jal-board-corruption-case-6-people-including-aap-leader-satyendra-jain-arrested-acb-takes-major-action-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/satyendar-jain_2026081765580.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "04e5a2fca049",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 19 August 2026: शीतला सप्तमी, वरिष्ठ योग, अनफा योग, वाशी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-18T21:20:01",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-19-august-2026-in-marathi-sheetla-saptami-varishtha-yog-anafa-yog-vashi-yog-and-shubha-muhurta/articleshow/133326500.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -248,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "23d5c26d7691",
+            "feed": "lokmat",
+            "title": "FIH Hockey World Cup 2026 : चक दे! इंडिया...दक्षिण आफ्रिकेचा धुव्वा उडवत भारतीय महिला संघ टॉपला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T22:43:48",
+            "url": "https://www.lokmat.com/photos/hockey/indian-womens-team-routed-south-africa-by-6-1-margin-in-the-hockey-world-cup-2026-securing-thetop-spot-in-pool-d-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-womens-hockey-team-m-7_2026081765591.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "f581e5ddee70",
+            "feed": "maharashtratimes",
+            "title": "Hockey World Cup 2026 : भारताच्या लेकींनी मैदान गाजवलं! दक्षिण आफ्रिकेला ६-१ ने लोळवलं, हॉकी वर्ल्ड कपमध्ये सर्वात मोठा विजय",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-18T22:25:55",
+            "url": "https://maharashtratimes.com/sports/hockey/india-women-beat-south-africa-6-1-hockey-world-cup-2026/articleshow/133327979.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "fc3e48ecc6e9",
             "feed": "maharashtratimes",
             "title": "IND vs SL 1st Test : २८८ धावांचं लक्ष्य, ६ विकेट्स बाकी; भारत की श्रीलंका? गॉलमध्ये उद्या कोण बाजी मारणार, पाऊस ठरवणार निकाल?",
@@ -262,38 +294,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "a6be93e501ac",
-            "feed": "lokmat",
-            "title": "मद्यपान करून कार चालवल्या प्रकरणी डेव्हिड वॉर्नर दोषी, कोर्टाने सुनावली अशी शिक्षा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-18T20:46:41",
-            "url": "https://www.lokmat.com/cricket/news/david-warner-found-guilty-of-drink-driving-sentenced-by-court-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/david-warner-1_2026081765569.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d7f81dfd64ef",
-            "feed": "esakal",
-            "title": "Hockey World Cup: भारतीय संघाने दणादण ६ गोल करत मारलं मैदान! दक्षिण आफ्रिकेचा उडवला धुव्वा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T20:26:24",
-            "url": "https://www.esakal.com/krida/fih-hockey-world-cup-2026-india-women-team-thrashes-south-africa-6-1-in-pool-d-match-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/reiojqn0/India-Womens-Hockey-Team.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "business": [
