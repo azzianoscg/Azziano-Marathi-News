@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "19-08-2026 | 03:42 AM IST",
+    "lastUpdated": "19-08-2026 | 04:43 AM IST",
     "maharashtra": [
+        {
+            "id": "8dd5ea3e54f0",
+            "feed": "lokmat",
+            "title": "मनीषनगरातील हॉटेलमध्ये रक्तरंजित थरार; तरुणीचा मृत्यू, तरुण गंभीर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T04:38:27",
+            "url": "https://www.lokmat.com/nagpur/bloody-horror-at-a-hotel-in-manish-nagar-young-woman-dies-young-man-is-in-critical-condition-a-a877-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-29-nm_2023051026074.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "6d0acdb77b97",
             "feed": "esakal",
@@ -62,22 +78,6 @@
             "published": "2026-08-18T23:42:37",
             "url": "https://www.lokmat.com/maharashtra/accident-accident-on-akola-amravati-highway-speeding-truck-crosses-divider-and-hits-car-one-killed-a-a1012/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/accident-10_201810140337.gif",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3048a93a3ae7",
-            "feed": "esakal",
-            "title": "‘एसआयआर’ संपले, आता शिक्षकांना ‘एआय’ प्रशिक्षण! ‘एससीईआरटी’चे शिक्षणाधिकाऱ्यांना पत्र; मुख्याध्यापक, शिक्षकांना ५० तासांच्या प्रशिक्षणाचे बंधन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-18T23:38:00",
-            "url": "https://www.esakal.com/maharashtra/sir-is-over-now-ai-training-for-teachers-scerts-letter-to-education-officials-50-hours-of-training-mandatory-for-principals-teachers",
-            "image": "https://cf-images.assettype.com/esakal/2023-11/505b0982-7a99-4e45-8aec-68d46d27a056/4model_20schools.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
