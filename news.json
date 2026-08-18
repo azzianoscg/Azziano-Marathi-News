@@ -1,88 +1,120 @@
 {
-    "lastUpdated": "18-08-2026 | 10:48 PM IST",
+    "lastUpdated": "18-08-2026 | 11:52 PM IST",
     "maharashtra": [
         {
-            "id": "a0c8393eed2c",
+            "id": "2f74624b2d3c",
             "feed": "esakal",
-            "title": "Chakan Road Work Issue : दिरंगाईच्या दलदलीत रुतले उद्योग! चाकण औद्योगिक वसाहतीतील कॉर्निंग-रोहकल जंक्शन मार्गाचे काम तीन वर्षांपासून ठप्प",
+            "title": "National Sports Award : दिव्या, विदितला ‘अर्जुन’ पुरस्कार; नेहा चव्हाण यांना ‘द्रोणाचार्य’ सन्मान",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T22:46:05",
-            "url": "https://www.esakal.com/pune/industries-stuck-in-delays-corning-rohkal-junction-road-work-in-chakan-industrial-area-stalled-for-three-years-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/w2vk5t4t/chakan-industrial-colony-road-work",
+            "published": "2026-08-18T23:45:57",
+            "url": "https://www.esakal.com/mumbai/divya-deshmukh-and-vidit-gujrathi-honoured-with-arjuna-awards-neha-chavan-receives-dronacharya-award-success-motivation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/h4ixfq7j/Neha-Chavan-Divya-Deshmukh-and-Vidit-Gujrathi",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "a71bc0b258a6",
+            "id": "3b4418029280",
+            "feed": "lokmat",
+            "title": "Accident: अकोला-अमरावती महामार्गावर अपघात; भरधाव ट्रक दुभाजक ओलांडून कारवर आदळला, एक जण ठार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T23:42:37",
+            "url": "https://www.lokmat.com/maharashtra/accident-accident-on-akola-amravati-highway-speeding-truck-crosses-divider-and-hits-car-one-killed-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/accident-10_201810140337.gif",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3048a93a3ae7",
             "feed": "esakal",
-            "title": "Sanjay Shitole : जिद्दीच्या जोरावर कोकडेवाडीतील शेतकरीपुत्राचे यश; दुय्यम निबंधक या पदावर झाली निवड",
+            "title": "‘एसआयआर’ संपले, आता शिक्षकांना ‘एआय’ प्रशिक्षण! ‘एससीईआरटी’चे शिक्षणाधिकाऱ्यांना पत्र; मुख्याध्यापक, शिक्षकांना ५० तासांच्या प्रशिक्षणाचे बंधन",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T22:35:36",
-            "url": "https://www.esakal.com/pune/kokadewadi-farmers-son-sanjay-shitole-achieves-success-through-determination-selected-as-sub-registrar-motivation-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/y82bi11o/Sanjay-Shitole",
+            "published": "2026-08-18T23:38:00",
+            "url": "https://www.esakal.com/maharashtra/sir-is-over-now-ai-training-for-teachers-scerts-letter-to-education-officials-50-hours-of-training-mandatory-for-principals-teachers",
+            "image": "https://cf-images.assettype.com/esakal/2023-11/505b0982-7a99-4e45-8aec-68d46d27a056/4model_20schools.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e4678ab9afca",
+            "id": "101f0ac0d6f0",
+            "feed": "esakal",
+            "title": "Karad News : कऱ्हाडात होणार दुसरी उड्डाण शाळा! एमएडीसीच्‍या निर्णयाने ठरणार वैमानिकांचे ॲव्हिएशन हब; विमानतळही उजळणार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T23:35:12",
+            "url": "https://www.esakal.com/satara/karad-set-to-get-a-second-flying-school-poised-to-become-an-aviation-hub-for-aspiring-pilots-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/pob8aes8/Plane",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "21178324c395",
             "feed": "maharashtratimes",
-            "title": "Rahul Narvekar : सुप्रीम कोर्टात विधानसभा अध्यक्षांच्या आमदार अपात्रतेच्या निकालाविरोधात खडाजंगी, राहुल नार्वेकर यांची पहिली प्रतिक्रिया",
+            "title": "Solapur Politics : सोलापूर महापालिकेच्या सभेत राजकीय संस्कृतीचं दर्शन, महापौरांना मागे घ्यावा लागला पाकीट शब्द",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T22:25:16",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/maharashtra-assembly-speaker-rahul-narvekar-first-reaction-on-kapil-sibal-argument-in-supreme-court/articleshow/133327706.cms",
+            "published": "2026-08-18T23:20:45",
+            "url": "https://maharashtratimes.com/maharashtra/solapur/solapur-municipal-corporation-meeting-controversy-arises-over-mayors-pocket-comment/articleshow/133329194.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "517f6a68b57c",
-            "feed": "esakal",
-            "title": "ACB Crime : ‘एनओसी’साठी ६५ हजारांची मागणी; ३५ हजार घेताना उपनिरीक्षक एसीबीच्या जाळ्यात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T22:16:42",
-            "url": "https://www.esakal.com/marathwada/sub-inspector-caught-by-acb-while-accepting-rupees-35000-bribe-after-demanding-rupees-65000-for-noc-crime-malsur-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2024-09-05/kwq7eu80/Rushikesh%20Salvi%20Esakal%20(12).jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b87220557c58",
-            "feed": "esakal",
-            "title": "सोलापूरच्या पोलिस अधीक्षकांची मोठी कारवाई! करमाळा व माढा तालुक्यातील ‘हे’ १७ सराईत गुन्हेगार हद्दपार, वाळू तस्करीसह गंभीर गुन्हे दाखल होते, वाचा....",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-18T22:08:37",
-            "url": "https://www.esakal.com/maharashtra/big-action-by-solapur-superintendent-of-police-criminals-deported-from-these-17-inns-in-karmala-and-madha-talukas-serious-crimes-including-sand-smuggling-were-registered-read",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-29/qg5wjz0l/download-34-Copy.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "182e6d60defc",
+            "feed": "lokmat",
+            "title": "CJP: 'जेन-झीच्या भावनांशी खेळू देणार नाही', सीजेपी पुन्हा आक्रमक, सरकारला २ दिवसांचा इशारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-18T23:33:12",
+            "url": "https://www.lokmat.com/national/cjp-threatens-nationwide-protest-if-centre-fails-to-withdraw-firs-against-gen-z-students-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cockroach-janata-party-9_2026081765598.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "96d9f8759734",
+            "feed": "lokmat",
+            "title": "थलपती विजय यांची महिलांना मोठी भेट; तिसऱ्या अपत्यासाठीही मिळणार एक वर्षाची मॅटरनिटी लीव्ह!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-18T22:50:33",
+            "url": "https://www.lokmat.com/national/tamil-nadu-govt-thalapathy-vijay-big-gift-to-women-one-year-maternity-leave-will-be-available-for-third-child-too-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maternity-leave-3_2026081765596.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "65c93c876bf9",
             "feed": "esakal",
@@ -130,38 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wadner-police-station_2026081765582.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "e2480d61dd18",
-            "feed": "esakal",
-            "title": "Marathi News : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T21:51:39",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-18th-august-2026-pune-road-accident-11-year-old-boy-dies-due-to-bad-road-cctv-captures-incident-maharashtra-weather-update-mumbai-rain-pune-kolhapur-sangli-satara-nashik-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-uddhav-thackeray-rahul-gandhi-srs92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "4d4d29f2fb5f",
-            "feed": "esakal",
-            "title": "दुसऱ्याला पाहून आपल्यालाही जांभई का येते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T21:44:58",
-            "url": "https://www.esakal.com/ampstories/web-story/why-do-we-yawn-when-we-see-someone-else-yawning-contagious-yawning-science-and-reasons-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/u35bpfbq/Why-do-we-yawn-after-seeing-someone-else-yawn-5.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
@@ -194,22 +194,6 @@
             "published": "2026-08-18T19:19:35",
             "url": "https://www.lokmat.com/international/school-shooting-in-philippines-9th-grade-student-kills-classmate-live-streams-on-facebook-before-suicide-a-a1001/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/philippines-school-shooting_2026081765523.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4ae3b3e7475d",
-            "feed": "lokmat",
-            "title": "\"होर्मुझ अमेरिकेचा नवा भूभाग!\" फोटो शेअर करत ट्रम्प यांची घोषणा; आखातात पुन्हा भडका उडणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-18T18:12:12",
-            "url": "https://www.lokmat.com/international/trump-announces-hormuz-is-americas-new-territory-sharing-a-photo-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-strait-of-hormuz-jf_2026081765489.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -248,6 +232,22 @@
     ],
     "sports": [
         {
+            "id": "084d7135a97d",
+            "feed": "esakal",
+            "title": "Hockey World Cup, IND vs PAK: भारत-पाकिस्तान १६ वर्षांनी आमने-सामने! दोन्ही संघांसाठी 'करो वा मरो' सामना, कुठे अन् कधी पाहाणार?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T23:09:18",
+            "url": "https://www.esakal.com/krida/india-vs-pakistan-fih-hockey-world-cup-2026-live-streaming-match-time-date-telecast-channels-when-and-where-to-watch-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/v3ulccle/India-Hockey-Team-3.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
             "id": "23d5c26d7691",
             "feed": "lokmat",
             "title": "FIH Hockey World Cup 2026 : चक दे! इंडिया...दक्षिण आफ्रिकेचा धुव्वा उडवत भारतीय महिला संघ टॉपला",
@@ -278,25 +278,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "fc3e48ecc6e9",
-            "feed": "maharashtratimes",
-            "title": "IND vs SL 1st Test : २८८ धावांचं लक्ष्य, ६ विकेट्स बाकी; भारत की श्रीलंका? गॉलमध्ये उद्या कोण बाजी मारणार, पाऊस ठरवणार निकाल?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-18T21:25:11",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-sri-lanka-first-test-day-5-india-need-six-wickets-288-runs-rain-alert/articleshow/133325703.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "83983b365610",
+            "feed": "esakal",
+            "title": "Edible Oil Rate : महागाईच्या होरपळीत खाद्यतेलाचाही ‘भडका’; वर्षभरात भाव १० ते १८ टक्क्यांनी वाढले; ग्राहकांना फटका",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T22:58:51",
+            "url": "https://www.esakal.com/pimpri-chinchwad/cooking-oil-prices-surge-amid-inflation-rates-rise-10-percent-to-18-percent-in-a-year-hitting-consumers-hard-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2023-05/29100501-aacd-4969-8082-10617b844b63/esakal_News___2023_05_05T075514_765.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "c61bcbec7dd6",
             "feed": "esakal",
@@ -328,22 +328,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kartule_2026081765526.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "7987b53a4b19",
-            "feed": "lokmat",
-            "title": "Inflation: महागाईने बेजार झालेल्या सर्वसामन्यांना झटका, इलेक्ट्रिक वस्तू महागण्याची शक्यता, कारण काय?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-18T20:06:49",
-            "url": "https://www.lokmat.com/business/news/inflation-a-blow-to-everyone-who-is-fed-up-with-inflation-electrical-goods-will-become-more-expensive-why-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/copper-price-hike-1_2026081765538.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
