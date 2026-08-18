@@ -1,217 +1,185 @@
 {
-    "lastUpdated": "18-08-2026 | 03:47 PM IST",
+    "lastUpdated": "18-08-2026 | 04:46 PM IST",
     "maharashtra": [
         {
-            "id": "c811cb01d8d7",
+            "id": "d1499c209b7f",
             "feed": "esakal",
-            "title": "Dombivli News: पेशवेकालीन तोफा पुन्हा मलंगगडावर, प्रशासकीय चौकशी सुरू असतानाच ऐतिहासिक वस्तू मंदिर प्रांगणात",
+            "title": "Pune traffic: पुण्यात पोलिस रस्त्यावर उभं राहून ई-चलन करणार नाहीत! प्रायोगिक तत्त्वावर निर्णय; उच्चस्तरीय बैठक संपन्न",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T15:44:34",
-            "url": "https://www.esakal.com/mumbai/peshwa-era-cannons-back-on-malanggad-historical-artifacts-placed-in-temple-premises-amidst-ongoing-administrative-inquiry-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/7l1bzulp/Peshwa-Era-Cannons-On-MalangGad.jpg",
+            "published": "2026-08-18T16:44:07",
+            "url": "https://www.esakal.com/pune/pune-traffic-police-stop-on-street-e-challan-pilot-project-amitesh-kumar-murlidhar-mohol-meeting-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/3vmvoqa1/Latest-Marathi-Breaking-News-2026-08-18T164340.187.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e3a513da306b",
+            "id": "66436b518043",
             "feed": "lokmat",
-            "title": "आदिवासींची लेकरं आहेत म्हणून त्यांच्या जीवाची किंमत कमी आहे का?",
+            "title": "बांगलादेशात पाठवलेली महिला महिनाभरातच पुन्हा मुंबईत; मुंबई पोलिसांनी गिरगावात केली अटक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T15:41:20",
-            "url": "https://www.lokmat.com/nagpur/are-their-lives-less-valuable-because-they-are-children-of-tribal-people-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-18-at-3.39.51-pm-1_2026081765312.jpeg",
+            "published": "2026-08-18T16:38:46",
+            "url": "https://www.lokmat.com/mumbai/bangladeshi-woman-arrested-in-mumbai-for-re-entering-india-illegally-after-deportation-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bangladeshi-woman-arrested_2026081765400.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "58f2867b8282",
-            "feed": "lokmat",
-            "title": "मनोज जरांगेंचा मराठवाडा दौरा रद्द! २९ ऑगस्टच्या उपोषणासाठी गावागावांत तयारीचे आवाहन!",
+            "id": "3ef5e9422480",
+            "feed": "maharashtratimes",
+            "title": "Shiv Sena Hearing : मुख्य नेता हे पद पक्षाच्या संविधानात आहे का? सुप्रीम कोर्टाचा सवाल, कपिल सिब्बल यांचा जोरदार युक्तिवाद",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
             },
-            "published": "2026-08-18T15:32:34",
-            "url": "https://www.lokmat.com/jalana/maratha-reservation-manoj-jarange-patil-cancels-marathwada-tour-over-health-focus-shifts-to-aug-29-fast-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jarange-marathwada-daura-jalana-fea_2026081765275.jpg",
+            "published": "2026-08-18T16:35:41",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/kapil-sibal-strong-argument-in-supreme-court-over-shiv-sena-mla-disqualification-case/articleshow/133320029.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "825feb70d00b",
+            "id": "09dc58223266",
             "feed": "lokmat",
-            "title": "Kolhapur Politics: मंत्री हसन मुश्रीफ कोल्हापूर लोकसभा लढतील..पण पक्ष कोणता हा गुंता वाढणारच!",
+            "title": "कंत्राटदारांची ८६ हजार कोटींहून अधिकची बिले रखडली; १८-१९ ऑगस्ट रोजी मुंबईच्या आझाद मैदानावर आंदोलन",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T15:31:04",
-            "url": "https://www.lokmat.com/kolhapur/minister-hasan-mushrif-will-contest-the-kolhapur-lok-sabha-electionbut-the-complexity-of-which-party-will-increase-a-a814-c746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/loksabha-hasan-mushrif-mahadik-mandlik-news_2026081765276.jpg",
+            "published": "2026-08-18T16:33:58",
+            "url": "https://www.lokmat.com/nagpur/contractors-bills-worth-over-rs-86000-crore-delayed-protest-at-mumbais-azad-maidan-on-august-18-19-a-a1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-18-at-4.33.15-pm-1_2026081765397.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "8a6f4396b69c",
-            "feed": "lokmat",
-            "title": "श्री क्षेत्र पंढरपूर येथील विशेष पुनर्वसन धोरणास मंजुरी; राज्य मंत्रिमंडळाचे १० मोठे निर्णय",
+            "id": "0981089981d7",
+            "feed": "maharashtratimes",
+            "title": "BMC News: मुंबई महापालिका सव्वा किलोमीटरसाठी तब्बल ७०२ कोटी खर्च करणार; कसा असेल भूमिगत पादचारी मार्ग?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T15:28:24",
-            "url": "https://www.lokmat.com/maharashtra/special-rehabilitation-policy-approved-for-shri-kshetra-pandharpur-10-major-decisions-of-the-cm-devendra-fadnavis-state-cabinet-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cabinet-decision-18-august-26_2026081765273.jpg",
+            "published": "2026-08-18T16:29:08",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-municipal-corporation-to-spend-702-crores-for-1-km-underground-pedestrian-path-congress-expresses-opposition/articleshow/133319481.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "1ff5b29b83e8",
-            "feed": "esakal",
-            "title": "विधानसभा अध्यक्षांनी अधिकारांच्या मर्यादा ओलांडल्या, सुप्रीम कोर्टात कपिल सिब्बल आक्रमक; सुनावणीत नेमकं काय घडतंय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T15:45:48",
-            "url": "https://www.esakal.com/desh/supreme-court-shiv-sena-case-kapil-sibal-argues-assembly-speaker-exceeded-powers-party-symbol-and-disqualification-case-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/bn6dz4ef/Supreme-Court-Shiv-Sena-Case",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e2480d61dd18",
-            "feed": "esakal",
-            "title": "Shivsena SC Hearing LIVE Updates : ‘२०१८ ची रचना मान्य असेल, तर १९९९ च्या पक्षघटनेकडे का वळलात?’; सिब्बलांचा आक्रमक युक्तिवाद",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T15:44:30",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-18th-august-2026-pune-road-accident-11-year-old-boy-dies-due-to-bad-road-cctv-captures-incident-maharashtra-weather-update-mumbai-rain-pune-kolhapur-sangli-satara-nashik-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-uddhav-thackeray-rahul-gandhi-srs92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/p0q56rmc/Shivsena",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "f9d2ba273d04",
+            "id": "8c9c509bf9ef",
             "feed": "lokmat",
-            "title": "Chanakya niti: स्वतःची सर्वोत्तम ओळख कशी निर्माण करावी? चाणक्य नीतीमधील 'हे' ८ नियम बदलतील तुमचे आयुष्य!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-18T15:40:47",
-            "url": "https://www.lokmat.com/photos/bhakti/chanakya-niti-how-to-create-your-best-identity-these-8-rules-from-chanakya-niti-will-change-your-life-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chanakya-niti-mantra-for-success-in-life-1_2026081765310.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "98176fd8dcf5",
-            "feed": "lokmat",
-            "title": "Shravan Somvar 2026 : श्रावणी सोमवारच्या उपवासाला काय खायचं-काय नाही? १० नियम, होईल फायदा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-18T15:38:14",
-            "url": "https://www.lokmat.com/sakhi/photos/food/shravan-somvar-2026-shravan-somvar-vrat-fasting-rules-dos-and-donts-of-shravan-somvar-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-16-at-12.29.20-pm_2026081763956.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "b4a32d20829c",
-            "feed": "lokmat",
-            "title": "Latest Marathi News LIVE:शिवसेना पक्ष आणि चिन्हाबाबतच्या सुनावणीला सर्वोच्च न्यायालयात सुरुवात",
+            "title": "पक्षप्रमुखांचा निर्णय म्हणजे राजकीय पक्षाची इच्छा नाही, असे कसे?; सिब्बलांनी विचारला थेट सवाल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-18T15:38:11",
-            "url": "https://www.lokmat.com/national/maharashtra-marathi-news-live-updates-18-august-2026-shiv-sena-supreme-court-hearing-kapil-sibal-eknath-shinde-uddhav-thackeray-us-israel-iran-tensions-donald-trump-pm-narendra-modi-jharkhand-protest-amit-shah-devendra-fadnavis-a-a681/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/liveblogfbimage_2026051711600.jpeg",
+            "published": "2026-08-18T16:40:33",
+            "url": "https://www.lokmat.com/national/shivsena-symbol-case-how-can-it-be-said-that-the-party-chiefs-decision-does-not-mean-the-will-of-the-political-party-kapil-sibal-asked-a-direct-question-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supreme-court-kapil-sibbal-1_2026081765402.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "world": [
+        },
         {
-            "id": "349f63197c29",
+            "id": "f725835c34e5",
             "feed": "lokmat",
-            "title": "Social Viral: भूकेने व्याकूळ नवजात बालिकेला कुशीत घेतले, स्वत:चे दूध पाजले, महिला मंत्र्यांचा व्हिडीओ व्हायरल, कोण आहेत त्या?",
+            "title": "\"मी रोज सकाळी उठून एक मोठा चमचा...\"; ६१ व्या वर्षी आमिर खानच्या फिटनेसचं गुपित ऐकून अमिताभ बच्चनही चकित!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-18T14:55:02",
-            "url": "https://www.lokmat.com/photos/social-viral/social-viral-a-video-of-a-female-minister-holding-a-hungry-newborn-baby-in-her-arms-and-feeding-her-own-milk-went-viral-who-are-sita-badi-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sita-badi-nepal-3_2026081765198.jpg",
+            "published": "2026-08-18T16:28:07",
+            "url": "https://www.lokmat.com/filmy/photos/bollywood/aamir-khan-fitness-secret-eats-ghee-empty-stomach-kbc-18-amitabh-bachchan-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aamir-khan-latest-news_2026081765396.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
         },
         {
-            "id": "9839166ab7f1",
+            "id": "188f335e09ba",
+            "feed": "maharashtratimes",
+            "title": "टॅक्स भरून मिडल क्लासला काय मिळतं? नेत्याचा काल भाजपला रामराम; आज सरकारला बोचरा सवाल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-18T16:28:01",
+            "url": "https://maharashtratimes.com/india-news/why-should-middle-class-pay-income-tax-former-bjp-spokesperson-shehzad-poonawalla-questions-government/articleshow/133319562.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "dbd70f9c93d3",
             "feed": "lokmat",
-            "title": "Video: 'हाफिज सईदने काश्मिरमध्ये 10000 दहशतवादी पाठवले होते'; लश्कर-ए-तोयबाच्या नसीर मदनीने जाहीर कार्यक्रमात सांगितले",
+            "title": "कर्नाटकातील अलमट्टी धरण शंभर टक्के भरले; कृष्णा नदीच्या पाण्याला राजापूर बंधारा, सांगलीपर्यंत फुगवटा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-18T16:26:49",
+            "url": "https://www.lokmat.com/national/almatti-dam-is-100-percent-full-backwater-from-the-krishna-river-has-extended-up-to-the-rajapur-barrage-in-sangli-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/almatti-news-sangli-rajapur_2026081765395.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "50e4dbd27d7b",
+            "feed": "esakal",
+            "title": "Monthly Rashi Bhavishya: मंगळ मिथुन राशीत येताच ‘या’ ४ राशींचं नशीब चमकणार! पुढचे ३० दिवस पैसा, प्रमोशन अन् मालमत्तेत मिळणार मोठं यश",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T16:24:54",
+            "url": "https://www.esakal.com/culture-and-religion/rashi-bhavishya-horoscope-in-marathi-mangal-gochar-in-gemini-2026-next-30-days-lucky-rashi-money-career-promotion-property-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/itzagcp2/horoscope-11.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        }
+    ],
+    "world": [
+        {
+            "id": "56c3d5d8f78a",
+            "feed": "lokmat",
+            "title": "इम्रान खान यांना पाकिस्तानच्या सुप्रीम कोर्टाचा मोठा दिलासा! उपचारासाठी तातडीने रुग्णालयात दाखल करण्याचे आदेश",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-08-18T14:50:42",
-            "url": "https://www.lokmat.com/international/hafiz-saeed-sent-10000-terrorists-to-kashmir-lashkar-e-taibas-nasir-madani-said-in-a-public-event-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lashkar-e-taiba-naseer-madani-news_2026081765254.jpeg",
+            "published": "2026-08-18T15:46:37",
+            "url": "https://www.lokmat.com/international/pakistan-supreme-court-gives-big-relief-to-imran-khan-orders-immediate-hospitalisation-for-treatment-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-imran-khan_2026081765262.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "8855cbf4a212",
-            "feed": "lokmat",
-            "title": "कमी वयात मिळवलं यश, मग अचानक सोडलं ग्लॅमरचं जग; आता इस्लामचं पालन करतेय अभिनेत्री",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-18T14:24:40",
-            "url": "https://www.lokmat.com/filmy/photos/bollywood/actress-zaira-wasim-left-film-industry-to-follow-islam-now-active-on-twitter-know-what-does-she-do-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/zaira-islam_2026081765237.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         },
         {
             "id": "10af34d232cf",
@@ -248,102 +216,102 @@
     ],
     "sports": [
         {
-            "id": "0017ad3aee83",
-            "feed": "maharashtratimes",
-            "title": "Ayush Shetty : आत्मविश्वास असावा तर असा! चीनचा जगज्जेता शि युकीला 21 वर्षांच्या आयुष शेट्टीने सांगून हरवलं, भारताच्या छाव्याचा जगभरात डंका",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-18T14:52:34",
-            "url": "https://maharashtratimes.com/sports/badminton/badminton-player-ayush-shetty-defeated-chinas-world-champion-shi-yuqi-intournament/articleshow/133315601.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "43973e86c7cf",
-            "feed": "esakal",
-            "title": "IND vs SL 1st Test: श्रीलंकेने डाव टाकला! १४ शतकं झळकावणाऱ्या खेळाडूची अचानक एन्ट्री; रेफरीने दिली परवानगी, नेमकी गडबड काय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-18T14:48:10",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-dinesh-chandimal-replaced-sri-lanka-gets-match-referees-approval-for-pasindu-sooriyabandara-as-concussion-sub-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/atdpo6lo/Pasindu-Sooriyabandara-replaces-Dinesh-Chandimal-as-concussion-substitute",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "06efb45eec9c",
+            "id": "caccba49da07",
             "feed": "lokmat",
-            "title": "भारत-श्रीलंका पहिल्या कसोटी सामन्यातून समोर आला भयानक फोटो; दिग्गज खेळाडू हॉस्पिटलमध्ये दाखल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-18T14:46:58",
-            "url": "https://www.lokmat.com/cricket/news/horrific-photo-emerges-from-india-sri-lanka-first-test-match-veteran-player-dinesh-chandimal-admitted-to-hospital-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dinesh-chandimal-srilanka_2026081765250.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "business": [
-        {
-            "id": "b299ba4a38fc",
-            "feed": "maharashtratimes",
-            "title": "Sugar Imports: सणासुदीच्या तोंडावर साखरेत तेजीचा गोडवा! निर्यात बंदी, स्टॉक लिमिटनंतर आता 100 टक्के शुल्क माफीचा विचार",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-18T15:33:30",
-            "url": "https://maharashtratimes.com/business/business-news/amid-sugar-price-hike-in-india-centre-reportedly-may-consider-cut-or-remove-100-pc-import-duty/articleshow/133317629.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "33bc24540ffa",
-            "feed": "lokmat",
-            "title": "UPI Payment Failed: पैसे कट झाले अन् स्क्रीनवर ‘Payment Failed’! पुन्हा पेमेंट करण्याआधी हे नक्की वाचा, असा मिळवा रिफंड!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-18T15:23:25",
-            "url": "https://www.lokmat.com/business/news/upi-payment-failed-money-deducted-and-payment-failed-on-the-screen-read-this-before-making-the-payment-again-this-is-how-to-get-a-refund-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/upi-payment-failed-what-do-1_2026081765272.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fc0f4b2e83dc",
-            "feed": "lokmat",
-            "title": "Shaktipith Mahamarg :'शक्तीपीठ महामार्ग नव्हे, मरणाचा हायवे'; राजू शेट्टींचा सरकारला थेट इशारा",
+            "title": "नागपूरच्या दिव्या देशमुखला अर्जुन पुरस्कार, पुलेला गायत्री गोपीचंदही विजेती; एकूण १७ जणांची नावे जाहीर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-18T15:02:55",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-shaktipith-mahamarg-shaktipith-is-not-a-highway-it-is-a-highway-of-death-raju-shettys-direct-warning-to-the-government-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shaktipeeth-1_2026081765260.jpg",
+            "published": "2026-08-18T16:40:56",
+            "url": "https://www.lokmat.com/other-sports/nagpur-chess-player-divya-deshmukh-wins-arjuna-award-along-with-pullela-gayatri-gopichand-see-list-of-all-national-sports-awards-2025-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arjuna-awards-1808-n_2026081765399.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "01ce65bd7708",
+            "feed": "lokmat",
+            "title": "शोएब मलिकसोबत तलाक, सिंगल मदर बनून मुलाचा सांभाळ, आता सानिया मिर्झा दुबईत करतेय हे ३ बिझनेस",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-18T16:25:51",
+            "url": "https://www.lokmat.com/tennis/divorced-from-shoaib-malik-taking-care-of-her-child-as-a-single-mother-now-sania-mirza-is-doing-these-3-businesses-in-dubai-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sania-mirza-1_2026081765393.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "852d9d6991a3",
+            "feed": "lokmat",
+            "title": "Rohit Sharma: “इतना तेज चलाते हो गाडी यार...\" वेगानं गाडी चालवणाऱ्याला रोहित शर्मानं झापलं, व्हिडीओ व्हायरल!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-18T16:15:44",
+            "url": "https://www.lokmat.com/cricket/news/itna-tez-chalate-ho-gaadi-yaar-rohit-sharma-slapped-speeding-driver-video-goes-viral-on-social-media-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rohit-sharma-viral-video-4_2026081765373.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "business": [
+        {
+            "id": "dfa56b8a11a1",
+            "feed": "lokmat",
+            "title": "Sheli Palan : NLM योजनेअंतर्गत शेळीपालनासाठी मिळवा तब्बल 50 टक्क्यांपर्यंत अनुदान, वाचा संपूर्ण माहिती",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T16:25:01",
+            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/sheli-palan-50-percent-subsidy-for-goat-farming-under-nlm-scheme-read-complete-information-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sheli-nlop_2026081765232.jpeg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "5ed6cbaa72a7",
+            "feed": "maharashtratimes",
+            "title": "4 लाखांची कार घरी आणता-आणता पावणे 7 लाखांची होते, कधी विचार केलाय तुमच्या कष्टाचा पैसा कुठे जातो?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-18T16:21:04",
+            "url": "https://maharashtratimes.com/business/business-news/multiple-taxes-are-charged-on-new-car-know-how-is-it-calculated/articleshow/133317247.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8db472028cbf",
+            "feed": "lokmat",
+            "title": "सलग पाचव्या दिवशी शेअर बाजारात घसरण; सेन्सेक्स ४९२ अंकांनी कोसळला, तर निफ्टी २४,२०० च्या खाली बंद",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-18T16:18:23",
+            "url": "https://www.lokmat.com/business/stock-market/share-market-18-aug-stock-market-falls-for-fifth-consecutive-day-sensex-falls-by-492-points-nifty-closes-below-24200-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/market-closing-18_2026081765378.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ]
 }
