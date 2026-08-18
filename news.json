@@ -1,170 +1,218 @@
 {
-    "lastUpdated": "18-08-2026 | 11:55 AM IST",
+    "lastUpdated": "18-08-2026 | 12:59 PM IST",
     "maharashtra": [
         {
-            "id": "a7e9f3b0307e",
+            "id": "0cad8696f141",
             "feed": "maharashtratimes",
-            "title": "Malaria Cases Mumbai: मुंबई तापाने फणफणली! तीन महिन्यांत मलेरियाच्या 3 हजार रुग्णांची नोंद; डेंग्यूचे 1079, तर H1N1चे 309 रुग्ण",
+            "title": "Rain Alert: अनेक जिल्ह्यांत मुसळधार बरसला, पण विदर्भात पावसाची १८ टक्के तूट; पुढील चार-पाच दिवस कसं असेल हवामान?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T11:52:44",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-3177-malaria-cases-were-detected-between-june-and-15-august-2026/articleshow/133312630.cms",
+            "published": "2026-08-18T12:47:02",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/imd-weather-forecast-vidarbha-faces-rain-deficit-rainfall-expected-to-decrease-in-coming-days/articleshow/133314616.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "02a7bd2ee7ab",
-            "feed": "esakal",
-            "title": "Kolhapur ZP Solar Projects: ग्रामपंचायतींवर सौरऊर्जेचा घाट; १३ कोटी खर्चाचा प्रस्ताव विचाराधीन; जिल्हा परिषद सदस्य अनभिज्ञ",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-18T11:50:46",
-            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-zilla-parishad-13-crore-solar-energy-project-gram-panchayats-fund-proposal-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/xjpft5gz/images.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "03c68af16222",
-            "feed": "esakal",
-            "title": "Mumbai Crime: दीड वर्षाच्या बाळाची ५ लाखात विक्री, बापाचं धक्कादायक कृत्य, मामाला संशय अन्...; मुंबईतील भयंकर कांड उघड",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-18T11:47:11",
-            "url": "https://www.esakal.com/mumbai/father-sold-his-one-and-half-year-baby-for-5-lakh-rupees-dharavi-police-safely-rescued-baby-and-arrested-6-accused-mumbai-crime-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/6ehqbcvq/Mumbai-Interstate-Human-Trafficking-Gang.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c8d79787d368",
-            "feed": "esakal",
-            "title": "Unique Funeral: आजीच्या संघर्षमय आयुष्याला अनोखा निरोप, अंत्ययात्रेत बँडसह फटाक्यांची आतषबाजी; नाती झाल्या खांदेकरी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T11:46:38",
-            "url": "https://www.esakal.com/ahmednagar/grand-farewell-to-grandmother-with-band-and-fireworks-as-granddaughters-carry-her-bier-in-emotional-funeral-procession-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/0pi92k82/sudhir-jadhav-satara-13.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0132f431be96",
-            "feed": "maharashtratimes",
-            "title": "Gadchiroli Charmoshi: मंत्री नितेश राणे यांची मत्स्यव्यवसाय प्रशिक्षण केंद्राला मान्यता; गडचिरोली चामोर्शी येथे उभारणार  केंद्र",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-18T11:43:22",
-            "url": "https://maharashtratimes.com/maharashtra/gadchiroli/gadchiroli-fisheries-training-center-to-be-set-up-in-chamorshi-approval-granted-by-fisheries-ports-minister-nitesh-rane-/articleshow/133313168.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
-        {
-            "id": "9ffb03573c14",
-            "feed": "esakal",
-            "title": "असावा एखादा छंद! १० कोटींच्या गाडीसाठी मोजले ३८२ कोटी, Ferrariची पहिली EV कुणी घेतली?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T11:54:33",
-            "url": "https://www.esakal.com/ampstories/web-story/ferrari-luce-first-electric-car-ev-auction-382-crore-herbert-wertheim-ferrari-luce-chassis-zero-record-price-auction-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/h4abc7nz/ferrari-9.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "7139b8af9a8a",
-            "feed": "maharashtratimes",
-            "title": "झारखंडमध्ये 'JSSC-CGL' सह सर्व भरती परीक्षा रद्द, सोरेन सरकारचा मोठा निर्णय; दुसरीकडे नियुक्त उमेदवारांचे प्रोजेक्ट भवनबाहेर आंदोलन!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-18T11:53:49",
-            "url": "https://maharashtratimes.com/career/career-news/jharkhand-jssc-cgl-exam-cancelled-hemant-soren-protest-2026-cm-hemant-soren-tdpl-recruitment-scam/articleshow/133313303.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "e2480d61dd18",
-            "feed": "esakal",
-            "title": "Marathi News Updates : पुण्यात आदिवासी विद्यार्थी आश्रमगृहात विद्यार्थ्यांच आमरण उपोषण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T11:50:13",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-18th-august-2026-pune-road-accident-11-year-old-boy-dies-due-to-bad-road-cctv-captures-incident-maharashtra-weather-update-mumbai-rain-pune-kolhapur-sangli-satara-nashik-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-uddhav-thackeray-rahul-gandhi-srs92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "82338ee1f8ac",
-            "feed": "esakal",
-            "title": "Vinod Tawde Uttar Pradesh : उत्तर प्रदेशची जबाबदारी विनोद तावडेंकडे; भाजपकडून आगामी विधानसभा निवडणुकीच्या पार्श्वभूमीवर राजकीय हालचालींना वेग",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T11:48:51",
-            "url": "https://www.esakal.com/desh/bjp-has-assigned-vinod-tawde-a-key-responsibility-in-uttar-pradesh-ahead-of-the-upcoming-assembly-elections-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/b158j2t0/sandeep-shirguppe-2026-08-18T114811.285.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "c555c3cc9f0a",
+            "id": "99535c81a759",
             "feed": "lokmat",
-            "title": "प्रॉपर्टीसाठी लेकीनेच केली वडिलांची हत्या; बॉयफ्रेंडच्या मदतीने रचला कट, 'असा' झाला पर्दाफाश",
+            "title": "वारणा पट्ट्यातील शेतकऱ्यांसाठी आनंदाची बातमी! चांदोली धरण ९४ टक्के भरले, नदीत ५,९०० क्युसेकने विसर्ग",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-18T11:42:02",
-            "url": "https://www.lokmat.com/crime/property-dispute-father-murder-case-vijayapura-karnataka-retired-teacher-killed-daughter-lover-arrested-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/father-murder_2026081765000.jpeg",
+            "published": "2026-08-18T12:46:35",
+            "url": "https://www.lokmat.com/sangli/good-news-for-farmers-in-warna-belt-chandoli-dam-94-percent-full-5900-cusecs-released-into-the-river-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/warana-dam-water-level_2026081765101.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
+        },
+        {
+            "id": "b4f9f7ffd44d",
+            "feed": "lokmat",
+            "title": "१६ वर्षे 'लिव्ह-इन'... बॉयफ्रेंडच्या मदतीने पार्टनरचा काटा काढला, मृतदेह कसारा घाटात फेकला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T12:42:55",
+            "url": "https://www.lokmat.com/nashik/live-in-for-16-years-partner-was-killed-with-the-help-of-boyfriend-body-thrown-into-kasara-ghat-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pathardii-crime_2026081765096.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "96c69b43176f",
+            "feed": "lokmat",
+            "title": "खुशखबर! कोल्हापूर जिल्हा बँक कर्मचाऱ्यांना वेतनवाढ फरक वर्ग; कधी पासून लागू, किती कोटींचा फरक..वाचा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T12:42:31",
+            "url": "https://www.lokmat.com/kolhapur/kolhapur-district-bank-employees-get-salary-hike-in-different-categories-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-kddcc-news_2026081765095.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4e54d56b827b",
+            "feed": "esakal",
+            "title": "Dr. Narendra Dabhokar Case : डॉ.नरेंद्र दाभोलकर हत्या प्रकरण : हायकोर्टाकडून सचिन अंदुरेच्या जन्मठेपेच्या शिक्षेला स्थगिती, जामीनही मंजूर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T12:41:29",
+            "url": "https://www.esakal.com/pune/narndra-dabhokar-murder-case-sachin-andure-bail-bombay-high-court-life-imprisonment-stay-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/acacsg5x/dabholkar-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "24c6e0403a16",
+            "feed": "esakal",
+            "title": "Rare White Snake : साप पांढरा का दिसतो? शिराळ्यात आढळलेल्या दुर्मिळ 'अल्बिनो नाग'मागील वैज्ञानिक कारण जाणून घ्या",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T12:49:52",
+            "url": "https://www.esakal.com/ampstories/web-story/shirala-nagpanchami-rare-white-albino-cobra-snake-darshan-41-snake-lovers-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/4v24spe4/Rare-White-snake",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "83911d2c716d",
+            "feed": "lokmat",
+            "title": "नागपंचमीला पूजा करताना वाघाने घेतला शेतकऱ्याचा बळी; नरसिंगपूर शिवारातील घटना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T12:49:18",
+            "url": "https://www.lokmat.com/vardha/tiger-kills-farmer-while-worshipping-on-nag-panchami-incident-in-narsinghpur-shivara-a-a1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-18-at-12.46.41-pm-1_2026081765105.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ba605f9ebefd",
+            "feed": "lokmat",
+            "title": "राम बनण्याची संधी असूनही यशने रावणाचीच भूमिका का निवडली? सांगितलं कारण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T12:48:09",
+            "url": "https://www.lokmat.com/filmy/south-movies/yash-explains-playing-ravan-in-nitesh-tiwari-ramayana-movie-ranbir-kapoor-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yash-explains-playing-ravan-in-nitesh-tiwari-ramayana-movie-ranbir-kapoor-latest_2026081765104.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "b4b2dc046a63",
+            "feed": "lokmat",
+            "title": "Crime CCTV Video: चाकू घेतला आणि तरुणीजवळ गेला; काही कळण्याच्या आत पोटावर चार वार, रेस्टॉरंटच्या किचनमधील घटना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T12:45:58",
+            "url": "https://www.lokmat.com/crime/crime-cctv-video-took-a-knife-and-approached-the-young-woman-stabbed-her-four-times-in-the-stomach-before-she-knew-it-incident-in-a-bar-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/muskan-chaudhary-murder-video_2026081765093.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "b4a32d20829c",
+            "feed": "lokmat",
+            "title": "Latest Marathi News LIVE: डॉ. नरेंद्र दाभोळकर हत्या प्रकरणातील आरोपीला मुंबई हायकोर्टाने दिला जामीन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-18T12:39:41",
+            "url": "https://www.lokmat.com/national/maharashtra-marathi-news-live-updates-18-august-2026-shiv-sena-supreme-court-hearing-kapil-sibal-eknath-shinde-uddhav-thackeray-us-israel-iran-tensions-donald-trump-pm-narendra-modi-jharkhand-protest-amit-shah-devendra-fadnavis-a-a681/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/liveblogfbimage_2026051711600.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "10af34d232cf",
+            "feed": "esakal",
+            "title": "World Breast Cancer Research Day: ‘या’ ५ कारणांमुळे तरुण महिलांमध्ये वाढू शकतो स्तनाच्या कर्करोगाचा धोका!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T12:37:01",
+            "url": "https://www.esakal.com/health/breast-cancer-risk-in-young-women-5-reasons-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/ld44kcws/Breast-Cancer-in-Young-Women.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "93aade11e8ab",
+            "feed": "lokmat",
+            "title": "भारताच्या 'या' राज्याच्या नावावर 4 अनोखे वर्ल्ड रेकॉर्ड्स; एक विक्रम तर कोणीच मोडू शकणार नाही!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T12:13:46",
+            "url": "https://www.lokmat.com/jarahatke/indias-only-state-to-hold-4-unique-world-records-one-record-can-never-be-broken-a-a583/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/andhra-pradesh-recordss1_2026081765049.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "5aa61a5954e8",
+            "feed": "lokmat",
+            "title": "कंपनीत बॉसला वैतागले? AI च्या मदतीने चिनी कर्मचाऱ्यांनी शोधला भन्नाट ‘टाइमपास’, जगात झाला ट्रेंड",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T11:55:48",
+            "url": "https://www.lokmat.com/social-viral/frustrated-with-the-boss-in-the-company-ai-desktop-pets-are-gaining-popularity-in-china-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/china-boss-virtual-pet_2026081765010.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "b359e1a6073e",
             "feed": "lokmat",
@@ -178,22 +226,6 @@
             "published": "2026-08-18T11:39:12",
             "url": "https://www.lokmat.com/international/us-iran-war-updates-donald-trump-gets-angry-on-south-korea-over-not-helping-american-army-a-a747/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-angry-1808_2026081764999.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "240175c0246b",
-            "feed": "lokmat",
-            "title": "\"भारताकडून शिकायला हवं...\"; ट्रम्प यांच्याकडून भारतीय निवडणूक व्यवस्थेचं कौतुक, ज्ञानेश कुमारांचाही उल्लेख",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-18T10:48:52",
-            "url": "https://www.lokmat.com/international/we-should-learn-from-india-trump-praises-indian-electoral-system-also-mentions-dnyanesh-kumar-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-rfe-d_2026081764971.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -212,41 +244,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-18/dhgns1rl/Trump-Cites-India’s-Election-System-Mentions-Gyanesh-Kumar.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "c26b594d6b9f",
-            "feed": "esakal",
-            "title": "Donald Trump: इराणशी गुप्त चर्चेमागे कोण? ट्रम्प प्रशासनाने IRGC पर्यंत कशी पोहोच मिळवली? सीक्रेट कनेक्शन आलं समोर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-17T22:13:21",
-            "url": "https://www.esakal.com/global/donald-trump-secret-iran-connection-who-helped-him-reach-irgc-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-17/ls00o1ei/Trump-Secret-Iran-Outreach-Why-Did-US-Turn-to-Barzani.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "8ed2543746f4",
+            "id": "bb86675c3a25",
             "feed": "maharashtratimes",
-            "title": "गटार खणण्याचं काम सुरू असताना मजुरांच्या हाती घबाड; सोन्याची बिस्किटं, नाणी पाहून डोळे विस्फारले",
+            "title": "Virat Kohli : 19 वर्षांचा पोरगा भारतीय क्रिकेटचा 'किंग' कसा बनला? कोहलीची संपूर्ण 'विराट' कारकीर्द; आयुष्यातील सर्वात मोठा टर्निंग पॉइंट",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "world"
+                "category": "sports"
             },
-            "published": "2026-08-17T19:46:39",
-            "url": "https://maharashtratimes.com/international/international-news/18-year-old-construction-worker-in-belgium-uncovered-gold-treasure-worth-rs-98-crore/articleshow/133299127.cms",
+            "published": "2026-08-18T12:14:43",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/virat-kohli-special-incredible-journey-biography-and-biggest-turning-points-of-his-career-debut/articleshow/133314097.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "sports": [
+        },
+        {
+            "id": "d83ed2b215c9",
+            "feed": "lokmat",
+            "title": "Live कॅमेऱ्यासमोर दोन माजी क्रिकेटपटू भिडले; एकमेकांवर केली व्यंगात्मक टिप्पणी, VIDEO व्हायरल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-18T12:00:14",
+            "url": "https://www.lokmat.com/cricket/news/sanjay-manjrekar-murali-kartik-fight-ind-vs-sl-test-match-live-commentary-headted-argument-video-goes-viral-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sanjay-manjrekar-murali-kartik-fight-ind-vs-sl-test-match-live-commentary-m-_2026081765016.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c2f27ec15f72",
             "feed": "esakal",
@@ -262,86 +294,54 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-18/czxodvjs/Dinesh-Chandimal-shoulder-and-neck-injury-while-fielding",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "632407a609a0",
-            "feed": "esakal",
-            "title": "Babar Azam: बाबर आझमने मैदान सोडले! इंग्लंडचा सामना करण्यापूर्वीच माघार घेतली, आयत्यावेळी पाकिस्तान कर्णधाराच्या शोधात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-18T11:54:16",
-            "url": "https://www.esakal.com/krida/cricket/babar-azam-hand-injury-pakistan-vs-england-first-test-captain-shan-masood-salman-aga-headingley-test-2026-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/gk0mxfce/babar-aazam.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "59b015378837",
-            "feed": "esakal",
-            "title": "IND vs SL 1st Test: वाचवलंस मित्रा! KL Rahul ने धरलेली तंबूची वाट, पण देवदत्त पडिक्कने रोखले... पुढे काय घडले? Viral Video",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-18T11:11:58",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-kl-rahul-was-walking-back-after-lbw-devdutt-padikkals-drs-call-gives-him-a-lifeline-video-viral-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/tvkqq8km/KL-Rahul-DRS-saved-by-Devdutt-Padikkal-in-IND-vs-SL-Test",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "3e7e934c473e",
+            "id": "004a1e86d8a4",
             "feed": "maharashtratimes",
-            "title": "NASDAQ Trading Hours: अमेरिकी शेअर बाजार आता झोपणार नाही, 23 तास सुरू राहणार जगातील सर्वात मोठे एक्सचेंज; गुंतवणूकदारांना नव्या संधीचे दार उघडणार",
+            "title": "Housing Society Rules: हाउसिंग सोसायटीत भाडेकरूने नियम मोडला, तर दंड घरमालकाने भरायचा की भाडेकरूने? सोसायटीच्या दंडाचे नियम पाहा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-18T11:51:35",
-            "url": "https://maharashtratimes.com/business/share-bazaar/nasdaq-plan-to-introduce-overnight-trading-session-new-23-hours-trading-hours-may-start-in-december-2026/articleshow/133312590.cms",
+            "published": "2026-08-18T12:48:21",
+            "url": "https://maharashtratimes.com/business/real-estate-news/what-if-tenant-violates-society-rules-who-pays-fine-know-flat-owners-liability-tenancy-agreement-terms-and-society-penalty-rules/articleshow/133313675.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c84816be95b1",
+            "id": "290c70181894",
             "feed": "lokmat",
-            "title": "अमेरिकेच्या ५०% टॅरिफविरोधात भारताची WTOकडे धाव, चर्चेची मागणी; निर्यातीला धक्का बसण्याची शक्यता",
+            "title": "Kanda Grape Export : कांदा, द्राक्ष निर्यातीला चालना मिळणार; आता कंटेनर अडकून पडणार नाही, काय घेतला निर्णय",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-18T11:36:50",
-            "url": "https://www.lokmat.com/business/news/america-tarrifs-india-approaches-wto-against-us-50-tariff-demands-talks-exports-likely-to-be-hit-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-tarrif-on-india_2026081764995.jpg",
+            "published": "2026-08-18T12:30:02",
+            "url": "https://www.lokmat.com/agriculture/market-yard/onion-grape-exports-will-get-boost-now-containers-will-not-get-stuck-green-channle-scheme-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-grape_2026081765055.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "cb6436ed8ad9",
+            "id": "87d24401edd1",
             "feed": "lokmat",
-            "title": "Airtel पेमेंट्स बँकेतून सुनील भारती मित्तल यांनी दिला राजीनामा; आता कोण असणार नवीन बॉस?",
+            "title": "Russia Fuel Shortage: रशियात पेट्रोल पंपांवर पुन्हा मोठ्या रांगा; भारत 'अशी' करू शकतो मित्राची मदत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-18T11:12:57",
-            "url": "https://www.lokmat.com/business/banking-loans/sunil-bharti-mittal-resigns-from-airtel-payments-bank-shabnam-sinha-will-be-the-boss-know-who-is-she-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sunil-mittal-payment-bank-1_2026081764980.jpg",
+            "published": "2026-08-18T12:29:03",
+            "url": "https://www.lokmat.com/business/news/russia-fuel-shortage-long-queues-at-petrol-pumps-in-russia-again-india-can-help-its-friend-how-know-details-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-russia-petrol-1_2026081765068.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
