@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "18-08-2026 | 11:52 PM IST",
+    "lastUpdated": "19-08-2026 | 12:51 AM IST",
     "maharashtra": [
+        {
+            "id": "6d0acdb77b97",
+            "feed": "esakal",
+            "title": "डॉ. शोनाली वळसंगकर यांचा अर्ज न्यायालयाने फेटाळला! ‘ही’ मागणी अमान्य; ‘एस. पी. इन्स्टिट्यूट ऑफ न्यूरोसायन्स’शी ३१ डिसेंबर २०२४ पासून संबंध नसल्याची कागदपत्रे, वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T00:35:00",
+            "url": "https://www.esakal.com/maharashtra/dr-shonali-valsangkars-application-rejected-by-the-court-this-demand-is-invalid-documents-showing-no-connection-with-s-p-institute-of-neuroscience-since-31-december-2024-read",
+            "image": "https://cf-images.assettype.com/esakal/2025-05-15/752ma4ww/maharashtra-vidhansabha-election-DECLARED-2.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "de04934e86fa",
+            "feed": "esakal",
+            "title": "Ambajogai News : धानोरा ग्रामपंचायत कर्मचाऱ्याने संपविले जीवन; मुलींची छेड काढल्याच्या संशयातून झाली होती मारहाण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T23:52:25",
+            "url": "https://www.esakal.com/marathwada/dhanora-gram-panchayat-employee-dies-by-endlife-after-assault-over-suspicion-of-harassing-girls-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-05-11/kdggqdr9/Crime",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "2f74624b2d3c",
             "feed": "esakal",
@@ -48,41 +80,41 @@
             "image": "https://cf-images.assettype.com/esakal/2023-11/505b0982-7a99-4e45-8aec-68d46d27a056/4model_20schools.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "101f0ac0d6f0",
+            "id": "e116a4955262",
             "feed": "esakal",
-            "title": "Karad News : कऱ्हाडात होणार दुसरी उड्डाण शाळा! एमएडीसीच्‍या निर्णयाने ठरणार वैमानिकांचे ॲव्हिएशन हब; विमानतळही उजळणार",
+            "title": "Yogi Adityanath यांच्याकडून नाना पाटेकरांचं तोंडभरून कौतुक; म्हणाले, 'प्रसिद्धी न करता शेतकऱ्यांसाठी मदत करणारी पहिली व्यक्ती...'",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-18T23:35:12",
-            "url": "https://www.esakal.com/satara/karad-set-to-get-a-second-flying-school-poised-to-become-an-aviation-hub-for-aspiring-pilots-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/pob8aes8/Plane",
+            "published": "2026-08-19T00:47:00",
+            "url": "https://www.esakal.com/desh/yogi-adityanath-praises-nana-patekar-for-helping-farmers-without-publicity-calls-him-a-true-social-contributor-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/068hj8vy/sudhir-jadhav-satara-6.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "21178324c395",
-            "feed": "maharashtratimes",
-            "title": "Solapur Politics : सोलापूर महापालिकेच्या सभेत राजकीय संस्कृतीचं दर्शन, महापौरांना मागे घ्यावा लागला पाकीट शब्द",
+            "id": "78306e975d41",
+            "feed": "lokmat",
+            "title": "Lucknow: लखनौमधील सावन महोत्सवात भयानक दुर्घटना, पाळण्याची ट्रॉली तुटून खाली पडली; अनेक जण जखमी",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-08-18T23:20:45",
-            "url": "https://maharashtratimes.com/maharashtra/solapur/solapur-municipal-corporation-meeting-controversy-arises-over-mayors-pocket-comment/articleshow/133329194.cms",
-            "image": "",
+            "published": "2026-08-19T00:17:03",
+            "url": "https://www.lokmat.com/uttar-pradesh/lucknow-fair-tragedy-ferris-wheel-trolley-breaks-down-several-injured-including-three-siblings-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lucknow-fair-tragedy_2026081765600.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
+            "category_reason": "url"
+        },
         {
             "id": "182e6d60defc",
             "feed": "lokmat",
@@ -102,7 +134,7 @@
         {
             "id": "96d9f8759734",
             "feed": "lokmat",
-            "title": "थलपती विजय यांची महिलांना मोठी भेट; तिसऱ्या अपत्यासाठीही मिळणार एक वर्षाची मॅटरनिटी लीव्ह!",
+            "title": "maternity leave: थलपती विजय यांची महिलांना मोठी भेट; तिसऱ्या अपत्यासाठीही मिळणार एक वर्षाची मॅटरनिटी लीव्ह!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
@@ -130,41 +162,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-18/idifgs77/Latest-Marathi-Breaking-News-2026-08-18T223543.827.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "d27542810353",
-            "feed": "maharashtratimes",
-            "title": "Chandra Grahan 2026 Timing : रक्षाबंधनच्या दिवशी वर्षातील शेवटचे चंद्रग्रहण ? पहा ग्रहणाचा सुतक काळ,कालावधी व कुठे कुठे दिसणार ग्रहण !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-18T22:15:46",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/chandra-grahan-2026-timing-sutak-kal-niyam-dos-and-dont/articleshow/133327661.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e2320aec4dd6",
-            "feed": "lokmat",
-            "title": "Crime: अनैतिक संबंधात अडसर ठरलेल्या पतीचा काढला काटा, गावालगतच्या विहिरीत फेकला मृतदेह",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-18T22:11:08",
-            "url": "https://www.lokmat.com/crime/wardha-hinganghat-crime-news-woman-kills-husband-with-help-of-brother-in-law-lover-in-wardha-body-thrown-in-well-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wadner-police-station_2026081765582.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "b836816cfd7f",
+            "feed": "esakal",
+            "title": "किंग कोहलीचा पहिला आंतरराष्ट्रीय सामना आठवतोय का?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T23:54:03",
+            "url": "https://www.esakal.com/ampstories/web-story/virat-kohli-first-international-match-story-august-18-2008-india-vs-sri-lanka-dambulla-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/iozikqha/Virat-Kohli-First-Match-4.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "f58cfbc05de1",
             "feed": "maharashtratimes",
