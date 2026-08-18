@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "18-08-2026 | 10:50 AM IST",
+    "lastUpdated": "18-08-2026 | 11:55 AM IST",
     "maharashtra": [
         {
-            "id": "6d9d23209bc9",
-            "feed": "esakal",
-            "title": "Gadchiroli Ashram School: शैक्षणिक नुकसानाची जबाबदारी कोणाची?; जोपर्यंत सुरक्षा नाही, तोपर्यंत मुलांना शाळेत पाठवणार नाही",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T10:44:43",
-            "url": "https://www.esakal.com/vidarbha/japatlai-ashram-school-student-safety-education-loss-gadchiroli-parents-demand-security-measures-snakebite-incident-samruddhi-naitam-nagpur-treatment-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/lpr0ajhr/Abhi-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "893a5f292aec",
+            "id": "a7e9f3b0307e",
             "feed": "maharashtratimes",
-            "title": "Voter List: मतदारांसाठीच्या SIR प्रक्रियेची मुदत संपली; २४ तारखेच्या यादीत नाव दिसलं नाही तर घाबरू नका, काय-काय करायचं ते समजून घ्या!",
+            "title": "Malaria Cases Mumbai: मुंबई तापाने फणफणली! तीन महिन्यांत मलेरियाच्या 3 हजार रुग्णांची नोंद; डेंग्यूचे 1079, तर H1N1चे 309 रुग्ण",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T10:42:39",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/sir-voter-list-to-be-announced-on-august-24-what-to-do-if-your-name-is-missing/articleshow/133311522.cms",
+            "published": "2026-08-18T11:52:44",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-3177-malaria-cases-were-detected-between-june-and-15-august-2026/articleshow/133312630.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "2de043b91a31",
+            "id": "02a7bd2ee7ab",
             "feed": "esakal",
-            "title": "Shiv Sena: ‘शिवसेना’ कुणाची? सुप्रीम कोर्टाच्या सुनावणीआधी शिंदेंचा मोठा दावा; नेत्यांना दिल्या खास सूचना, राजकारणात खळबळ!",
+            "title": "Kolhapur ZP Solar Projects: ग्रामपंचायतींवर सौरऊर्जेचा घाट; १३ कोटी खर्चाचा प्रस्ताव विचाराधीन; जिल्हा परिषद सदस्य अनभिज्ञ",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T10:34:54",
-            "url": "https://www.esakal.com/maharashtra/shiv-sena-supreme-court-hearing-bow-arrow-symbol-dispute-eknath-shinde-meeting-kapil-sibal-uddhav-thackeray-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/yry92nay/Shiv-Sena-Supreme-Court-hearing.jpg",
+            "published": "2026-08-18T11:50:46",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-zilla-parishad-13-crore-solar-energy-project-gram-panchayats-fund-proposal-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/xjpft5gz/images.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b80a77ac7e46",
-            "feed": "lokmat",
-            "title": "कचऱ्याच्या साम्राज्याला जागेची भूक; तुर्भे डम्पिंग ग्राउंड क्षमतेच्या उंबरठ्यावर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-18T10:34:16",
-            "url": "https://www.lokmat.com/navi-mumbai/turbhe-dumping-ground-is-on-the-verge-of-capacity-a-a842-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/clipboard01aduampsianagrosoa_202011524048.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "6c216bb8a9fc",
+            "id": "03c68af16222",
             "feed": "esakal",
-            "title": "Agricultur Admission: कृषी प्रवेशाची पहिली यादी जाहीर! तुमचे नाव आहे का? १०,९७६ विद्यार्थ्यांना मिळाली प्रवेशाची संधी",
+            "title": "Mumbai Crime: दीड वर्षाच्या बाळाची ५ लाखात विक्री, बापाचं धक्कादायक कृत्य, मामाला संशय अन्...; मुंबईतील भयंकर कांड उघड",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T10:32:19",
-            "url": "https://www.esakal.com/pune/maharashtra-agriculture-admission-first-list-released-10976-students-get-seats-in-nine-professional-agriculture-courses-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/zikc4yuh/sudhir-jadhav-satara-9.jpg",
+            "published": "2026-08-18T11:47:11",
+            "url": "https://www.esakal.com/mumbai/father-sold-his-one-and-half-year-baby-for-5-lakh-rupees-dharavi-police-safely-rescued-baby-and-arrested-6-accused-mumbai-crime-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/6ehqbcvq/Mumbai-Interstate-Human-Trafficking-Gang.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c8d79787d368",
+            "feed": "esakal",
+            "title": "Unique Funeral: आजीच्या संघर्षमय आयुष्याला अनोखा निरोप, अंत्ययात्रेत बँडसह फटाक्यांची आतषबाजी; नाती झाल्या खांदेकरी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T11:46:38",
+            "url": "https://www.esakal.com/ahmednagar/grand-farewell-to-grandmother-with-band-and-fireworks-as-granddaughters-carry-her-bier-in-emotional-funeral-procession-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/0pi92k82/sudhir-jadhav-satara-13.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "0132f431be96",
+            "feed": "maharashtratimes",
+            "title": "Gadchiroli Charmoshi: मंत्री नितेश राणे यांची मत्स्यव्यवसाय प्रशिक्षण केंद्राला मान्यता; गडचिरोली चामोर्शी येथे उभारणार  केंद्र",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T11:43:22",
+            "url": "https://maharashtratimes.com/maharashtra/gadchiroli/gadchiroli-fisheries-training-center-to-be-set-up-in-chamorshi-approval-granted-by-fisheries-ports-minister-nitesh-rane-/articleshow/133313168.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "e2480d61dd18",
+            "id": "9ffb03573c14",
             "feed": "esakal",
-            "title": "Marathi News Updates : केरळमध्ये ईडीची मोठी कारवाई; कोझिकोडमधील ८ ठिकाणी छापे",
+            "title": "असावा एखादा छंद! १० कोटींच्या गाडीसाठी मोजले ३८२ कोटी, Ferrariची पहिली EV कुणी घेतली?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-18T10:46:42",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-18th-august-2026-pune-road-accident-11-year-old-boy-dies-due-to-bad-road-cctv-captures-incident-maharashtra-weather-update-mumbai-rain-pune-kolhapur-sangli-satara-nashik-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-uddhav-thackeray-rahul-gandhi-srs92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-18T11:54:33",
+            "url": "https://www.esakal.com/ampstories/web-story/ferrari-luce-first-electric-car-ev-auction-382-crore-herbert-wertheim-ferrari-luce-chassis-zero-record-price-auction-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/h4abc7nz/ferrari-9.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "97ce88fbbd08",
-            "feed": "lokmat",
-            "title": "Mangalagauri 2026: सतत बोलणाऱ्या बायका मंगळागौरीच्या पूजेत गप्प का असतात? जाणून घ्या व्रतनियम",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-18T10:43:22",
-            "url": "https://www.lokmat.com/bhakti/mangalagauri-2026-why-do-women-who-always-talk-remain-silent-during-the-worship-of-mangalagauri-know-the-rules-of-the-vow-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mangalagauri-2026-puja-rules_2026081764970.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "5a57fdd88d18",
-            "feed": "esakal",
-            "title": "शाहरुख, अजय देवगण, टायगर श्रॉफला FDAची नोटीस; तुकाराम मुंढेंनी सांगितलं कारवाईमागचं नेमकं कारण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T10:42:23",
-            "url": "https://www.esakal.com/premier/shah-rukh-khan-ajay-devgn-tiger-shroff-fda-notice-vimal-elaichi-tukaram-munde-reaction-surrogate-advertisement-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/vzv4w3fw/FDA-NOTICE-VIMAL-ELAICHI",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "20a519e13250",
+            "id": "7139b8af9a8a",
             "feed": "maharashtratimes",
-            "title": "Twisha Sharma : बायकोचे अवशेष उद्या न्यायला सांग, आता मला शांततेत मरु दे; Ex मिस पुणेचा वहिनीला शेवटचा मेसेज, काही मिनिटात मृत्यूला मिठी",
+            "title": "झारखंडमध्ये 'JSSC-CGL' सह सर्व भरती परीक्षा रद्द, सोरेन सरकारचा मोठा निर्णय; दुसरीकडे नियुक्त उमेदवारांचे प्रोजेक्ट भवनबाहेर आंदोलन!",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-18T10:41:19",
-            "url": "https://maharashtratimes.com/india-news/let-me-die-in-peace-right-now-chargesheet-reveals-ex-miss-pune-model-twisha-sharma-final-message-to-sis-in-law-rashi-abrol-before-death/articleshow/133311839.cms",
+            "published": "2026-08-18T11:53:49",
+            "url": "https://maharashtratimes.com/career/career-news/jharkhand-jssc-cgl-exam-cancelled-hemant-soren-protest-2026-cm-hemant-soren-tdpl-recruitment-scam/articleshow/133313303.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "e2480d61dd18",
+            "feed": "esakal",
+            "title": "Marathi News Updates : पुण्यात आदिवासी विद्यार्थी आश्रमगृहात विद्यार्थ्यांच आमरण उपोषण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T11:50:13",
+            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-18th-august-2026-pune-road-accident-11-year-old-boy-dies-due-to-bad-road-cctv-captures-incident-maharashtra-weather-update-mumbai-rain-pune-kolhapur-sangli-satara-nashik-nagpur-marathwada-vidarbha-bjp-congress-shivsena-ncp-pm-modi-amit-shah-devendra-fadnavis-eknath-shinde-uddhav-thackeray-rahul-gandhi-srs92-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "b4a32d20829c",
+            "id": "82338ee1f8ac",
+            "feed": "esakal",
+            "title": "Vinod Tawde Uttar Pradesh : उत्तर प्रदेशची जबाबदारी विनोद तावडेंकडे; भाजपकडून आगामी विधानसभा निवडणुकीच्या पार्श्वभूमीवर राजकीय हालचालींना वेग",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T11:48:51",
+            "url": "https://www.esakal.com/desh/bjp-has-assigned-vinod-tawde-a-key-responsibility-in-uttar-pradesh-ahead-of-the-upcoming-assembly-elections-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/b158j2t0/sandeep-shirguppe-2026-08-18T114811.285.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "c555c3cc9f0a",
             "feed": "lokmat",
-            "title": "Latest Marathi News LIVE: 'त्या' रिक्षाचालकांवर कारवाई होणार नाही, सरनाईकांनी मांडली भूमिका",
+            "title": "प्रॉपर्टीसाठी लेकीनेच केली वडिलांची हत्या; बॉयफ्रेंडच्या मदतीने रचला कट, 'असा' झाला पर्दाफाश",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": null
             },
-            "published": "2026-08-18T10:39:15",
-            "url": "https://www.lokmat.com/national/maharashtra-marathi-news-live-updates-18-august-2026-shiv-sena-supreme-court-hearing-kapil-sibal-eknath-shinde-uddhav-thackeray-us-israel-iran-tensions-donald-trump-pm-narendra-modi-jharkhand-protest-amit-shah-devendra-fadnavis-a-a681/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/liveblogfbimage_2026051711600.jpeg",
+            "published": "2026-08-18T11:42:02",
+            "url": "https://www.lokmat.com/crime/property-dispute-father-murder-case-vijayapura-karnataka-retired-teacher-killed-daughter-lover-arrested-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/father-murder_2026081765000.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         }
     ],
     "world": [
+        {
+            "id": "b359e1a6073e",
+            "feed": "lokmat",
+            "title": "इराण युद्धात मदत मागणाऱ्या अमेरिकेला दक्षिण कोरियाने दाखवला 'ठेंगा'; डोनाल्ड ट्रम्प संतापून म्हणाले- \"आता बघाच...\"",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-18T11:39:12",
+            "url": "https://www.lokmat.com/international/us-iran-war-updates-donald-trump-gets-angry-on-south-korea-over-not-helping-american-army-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-angry-1808_2026081764999.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "240175c0246b",
+            "feed": "lokmat",
+            "title": "\"भारताकडून शिकायला हवं...\"; ट्रम्प यांच्याकडून भारतीय निवडणूक व्यवस्थेचं कौतुक, ज्ञानेश कुमारांचाही उल्लेख",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-18T10:48:52",
+            "url": "https://www.lokmat.com/international/we-should-learn-from-india-trump-praises-indian-electoral-system-also-mentions-dnyanesh-kumar-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-rfe-d_2026081764971.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "559a557c6cd8",
             "feed": "esakal",
@@ -212,120 +244,104 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "7f871a9cb726",
-            "feed": "maharashtratimes",
-            "title": "​Memes: 'ऑस्ट्रेलियाला त्यांच्याच घरात लोळवलं', बांग्लादेशच्या ऐतिहासिक विजयावर पडतोय मीम्सचा पाऊस",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-17T15:20:21",
-            "url": "https://maharashtratimes.com/viral/viral-news/bangladesh-beat-australia-by-9-wickets-on-home-soil-top-5-memes-and-jokes-viral/articleshow/133292842.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "6fd6ca73cf36",
+            "id": "c2f27ec15f72",
             "feed": "esakal",
-            "title": "IND vs SL 1st Test: अरे पाय तरी हलव..! यशस्वी जैस्वाल एका जागेवर अडकला, भोपळ्यावर माघारी परतला... Video Viral",
+            "title": "IND vs SL 1st Test:  श्रीलंकेला धक्का... सामना सुरू असताना स्टार फलंदाजाला हॉस्पिटलमध्ये करावे लागले दाखल; नेमके काय घडले?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-18T10:45:00",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-yashasvi-jaiswal-gets-stuck-in-one-place-walks-back-for-a-registers-his-7th-test-duck-video-viral-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/d2qyrrsb/Yashasvi-Jaiswal-gets-out-for-duck-in-IND-vs-SL-1st-Test",
+            "published": "2026-08-18T11:55:13",
+            "url": "https://www.esakal.com/krida/cricket/big-setback-for-sri-lanka-dinesh-chandimal-taken-to-hospital-after-suffering-shoulder-and-neck-injury-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/czxodvjs/Dinesh-Chandimal-shoulder-and-neck-injury-while-fielding",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "20b4ddffdca7",
+            "id": "632407a609a0",
             "feed": "esakal",
-            "title": "Viral Video: तू स्वतःचा चेहरा आधी आरशात पाहा...; IND vs SL कसोटीत स्टुडिओत भारताचे दोन दिग्गज भांडले;  अजिंक्य रहाणे बसला होता शेजारी",
+            "title": "Babar Azam: बाबर आझमने मैदान सोडले! इंग्लंडचा सामना करण्यापूर्वीच माघार घेतली, आयत्यावेळी पाकिस्तान कर्णधाराच्या शोधात",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-18T10:13:13",
-            "url": "https://www.esakal.com/krida/cricket/murali-kartik-sanjay-manjrekar-clash-commentary-box-argument-viral-video-india-vs-sri-lanka-first-test-ajinkya-rahane-cricket-news-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/9p7mh4bp/Murali-Kartik-vs-Sanjay-Manjrekar.jpg",
+            "published": "2026-08-18T11:54:16",
+            "url": "https://www.esakal.com/krida/cricket/babar-azam-hand-injury-pakistan-vs-england-first-test-captain-shan-masood-salman-aga-headingley-test-2026-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/gk0mxfce/babar-aazam.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "04f6f8b5e94f",
+            "id": "59b015378837",
             "feed": "esakal",
-            "title": "IND vs SL 1st Test: मोहम्मद सिराजने अम्पायरचं डोकं जवळपास फोडलंच होतं; रवींद्र जडेजाही घाबरला, नेमकं काय घडलं? Video",
+            "title": "IND vs SL 1st Test: वाचवलंस मित्रा! KL Rahul ने धरलेली तंबूची वाट, पण देवदत्त पडिक्कने रोखले... पुढे काय घडले? Viral Video",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-18T10:07:09",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-mohammed-siraj-gives-umpire-a-huge-scare-with-fierce-throw-ravindra-jadejas-reaction-goes-viral-video-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/xras28rd/Mohammed-Siraj’s-Bullet-Throw-Nearly-Hits-Umpire-Ravindra-Jadeja-Left-Shocked",
+            "published": "2026-08-18T11:11:58",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-kl-rahul-was-walking-back-after-lbw-devdutt-padikkals-drs-call-gives-him-a-lifeline-video-viral-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/tvkqq8km/KL-Rahul-DRS-saved-by-Devdutt-Padikkal-in-IND-vs-SL-Test",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "07f85159eb11",
-            "feed": "lokmat",
-            "title": "N Chandrasekaran : टाटा समुहाच्या बोर्डरूममध्ये खळबळ! एन. चंद्रशेखर यांच्या राजीनाम्यावरून संचालक मंडळात दोन गट; निर्णयावर फेरविचारची मागणी",
+            "id": "3e7e934c473e",
+            "feed": "maharashtratimes",
+            "title": "NASDAQ Trading Hours: अमेरिकी शेअर बाजार आता झोपणार नाही, 23 तास सुरू राहणार जगातील सर्वात मोठे एक्सचेंज; गुंतवणूकदारांना नव्या संधीचे दार उघडणार",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-18T10:43:56",
-            "url": "https://www.lokmat.com/photos/business/tata-sons-debate-n-chandrasekaran-resignation-weight-reconsideration-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tata-sons-n-chandrashekharns_2026081764945.jpg",
+            "published": "2026-08-18T11:51:35",
+            "url": "https://maharashtratimes.com/business/share-bazaar/nasdaq-plan-to-introduce-overnight-trading-session-new-23-hours-trading-hours-may-start-in-december-2026/articleshow/133312590.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b4d21fafaec0",
+            "id": "c84816be95b1",
             "feed": "lokmat",
-            "title": "Sugar Market : साखरेचा 'शुगर शॉक'! महिनाभरात क्विंटलमागे तब्बल १,३५० रुपयांची वाढ; पुढे काय?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-18T10:42:54",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-sugar-market-sugar-sugar-shock-increase-of-rs-1350-per-quintal-in-a-month-what-next-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/s_2026081764962.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "fbed7381a7a7",
-            "feed": "lokmat",
-            "title": "Gold-Silver Price 18 August 2026: स्वस्त झाली सोनं-चांदी; पटापट चेक करा मुंबई, दिल्ली, चेन्नई, कोलकाता आणि बंगळुरुतील २४K, २२K, १८K गोल्ड रेट",
+            "title": "अमेरिकेच्या ५०% टॅरिफविरोधात भारताची WTOकडे धाव, चर्चेची मागणी; निर्यातीला धक्का बसण्याची शक्यता",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-18T10:40:39",
-            "url": "https://www.lokmat.com/business/savings-investments/gold-silver-price-18-august-2026-became-cheaper-check-24k-22k-18k-gold-rate-in-mumbai-delhi-chennai-kolkata-and-bangalore-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gold-silver-price-1556sf1_2026061725785.jpg",
+            "published": "2026-08-18T11:36:50",
+            "url": "https://www.lokmat.com/business/news/america-tarrifs-india-approaches-wto-against-us-50-tariff-demands-talks-exports-likely-to-be-hit-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-tarrif-on-india_2026081764995.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "cb6436ed8ad9",
+            "feed": "lokmat",
+            "title": "Airtel पेमेंट्स बँकेतून सुनील भारती मित्तल यांनी दिला राजीनामा; आता कोण असणार नवीन बॉस?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-18T11:12:57",
+            "url": "https://www.lokmat.com/business/banking-loans/sunil-bharti-mittal-resigns-from-airtel-payments-bank-shabnam-sinha-will-be-the-boss-know-who-is-she-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sunil-mittal-payment-bank-1_2026081764980.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
