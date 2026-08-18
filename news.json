@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "18-08-2026 | 07:05 PM IST",
+    "lastUpdated": "18-08-2026 | 07:53 PM IST",
     "maharashtra": [
         {
-            "id": "83316429ecf1",
+            "id": "d077025e607a",
+            "feed": "lokmat",
+            "title": "Mumbai Local: घाटकोपरमध्ये लोकलच्या छतावर चढण्याचा प्रयत्न; विजेचा धक्का लागून तरुण जखमी, ऐन पीक अवरमधील घटना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-18T19:50:35",
+            "url": "https://www.lokmat.com/mumbai/attempt-to-climb-on-roof-of-local-train-in-ghatkopar-youth-injured-due-to-electric-shock-incident-during-peak-hour-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-local-news-ghatkopar-1_2026081765522.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6cf3d6662341",
+            "feed": "lokmat",
+            "title": "बीडमध्ये बालविवाहाचे भीषण वास्तव उघड! १७ वर्षीय मुलगी तिसऱ्यांदा झाली आई, प्रकृती गंभीर!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T19:49:45",
+            "url": "https://www.lokmat.com/beed/beed-news-17-year-old-minor-gives-birth-for-third-time-shifted-to-ambajogai-in-critical-state-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pregnant-mata-women-minor-beed_2026081765533.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "287f90889a23",
             "feed": "esakal",
-            "title": "DA hike: सरकारी कर्मचाऱ्यांसाठी गुड न्यूज! महागाई भत्ता वाढला, सात महिन्यांची थकबाकीही मिळणार",
+            "title": "FDA Crime : हॉटेल ‘चूल मटन’ला एफडीए चा दणका; स्वच्छता, आरोग्यविषयक नियमांचे पालन होत नसल्‍याने परवाना निलंबित",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T19:02:05",
-            "url": "https://www.esakal.com/maharashtra/maharashtra-government-employees-dearness-allowance-da-hike-60-percent-january-2026-arrears-gr-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/6ktna9oa/Latest-Marathi-Breaking-News-2026-08-18T190151.017.jpg",
+            "published": "2026-08-18T19:46:51",
+            "url": "https://www.esakal.com/pune/fda-crime-on-hotel-chul-mutton-license-suspended-over-hygiene-and-health-regulation-violations-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-01/4fjn0rbd/FDA.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bed569c636a2",
-            "feed": "lokmat",
-            "title": "Mumbai Local: अंधेरी-विरार लोकलमध्ये महिलांमध्ये तुफान हाणामारी; पायातील चप्पल काढून मारलं, व्हिडीओ व्हायरल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-18T18:52:53",
-            "url": "https://www.lokmat.com/mumbai/mumbai-local-train-women-passengers-fight-in-andheri-virar-local-train-video-goes-viral-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-local-train-fights-video-1_2026081765510.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "95aef3a94864",
-            "feed": "lokmat",
-            "title": "जिल्हा परिषद झांकी; भाजपसाठी सातारा जिल्हा बँक बाकी !, महायुतीतील तडा कायम राहणार का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-18T18:41:29",
-            "url": "https://www.lokmat.com/satara/after-capturing-power-in-the-zilla-parishad-the-bjp-has-set-its-sights-on-the-satara-district-bank-a-a829-c746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-ele-satara-mahayuti_2026081765506.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0a8e2ead489c",
+            "id": "96e8cc229a9a",
             "feed": "esakal",
-            "title": "महाराष्ट्रात धर्मस्वातंत्र्य कायदा लागू! रक्षाबंधनापासून अंमलबजावणी, राज्य शासनाची अधिसूचना जारी",
+            "title": "मी दिलेला निर्णय शाश्वत, सिब्बल यांचे आरोप बिनबुडाचे! राहुल नार्वेकरांचं जोरदार प्रत्युत्तर, नेमकं काय म्हणाले?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-18T18:38:40",
-            "url": "https://www.esakal.com/maharashtra/maharashtra-freedom-of-religion-act-2026-implementation-gazette-notification-forced-conversion-law-rules-punishment-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/8bgne46m/Latest-Marathi-Breaking-News-2026-08-18T183750.450.jpg",
+            "published": "2026-08-18T19:45:32",
+            "url": "https://www.esakal.com/vidarbha/shiv-sena-party-symbol-case-supreme-court-kapil-sibal-rahul-narwekar-reaction-latest-news-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/sjhru1oa/Shiv-Sena-Party-Symbol-Case",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "d994babc6c71",
-            "feed": "lokmat",
-            "title": "अनुसूचित जमातीचा दर्जा जन्मजात असतो, वेगळा धर्म स्वीकारल्यामुळे नष्ट होत नाही",
+            "id": "5681d8c9abf3",
+            "feed": "maharashtratimes",
+            "title": "Sarpanch Mangesh Sable | सरपंचाचा काटा काढण्यासाठी खोटे साक्षीदार आणले, पोलीस आणि प्रशासनावर घणाघात",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-18T18:22:13",
-            "url": "https://www.lokmat.com/nagpur/scheduled-tribe-status-is-innate-it-is-not-lost-by-adopting-a-different-religion-a-a511-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-18-at-6.21.23-pm-1_2026081765498.jpeg",
+            "published": "2026-08-18T19:44:31",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/mangesh/videoshow/133325042.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "7b89623a62b6",
-            "feed": "esakal",
-            "title": "हॉटेल्समध्ये काचेचे बाथरूम का असतात? ९९% लोकांना माहित नाही",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T18:55:22",
-            "url": "https://www.esakal.com/ampstories/web-story/why-do-hotels-have-glass-bathrooms-know-reason-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/50fe98gj/Hotel-Glass-Bathroom.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "513033dd4888",
-            "feed": "lokmat",
-            "title": "\"मातृत्व की नोकरी?\" महिलांवर ही वेळ आणू नका; अलाहाबाद हायकोर्टाचा मोठा निर्णय",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-18T18:53:40",
-            "url": "https://www.lokmat.com/sakhi/social-viral/pregnancy-no-ground-to-deny-government-jobs-allahabad-high-court-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pregnant-women-4-k_2026061725015.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e4a7a5378f2c",
+            "id": "735ba08d751a",
             "feed": "maharashtratimes",
-            "title": "Krutika Tulaskar : 'रात्रीस खेळ चाले' मालिकेनंतर चेहऱ्याला पॅरालिसिस, मोठे प्रोजेक्ट सोडले; मराठी अभिनेत्रीनं सांगितला कठीण काळ",
+            "title": "Baba Ramdev : 'ही मानसिक संतुलन बिघडल्याची लक्षणं', कंगनाच्या 'जनरेशन गटर'च्या वक्तव्यावर बाबा रामदेवांचा संताप",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-18T18:46:11",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/marathi-actress-krutika-tulaskar-suffered-from-bells-palsy/articleshow/133323380.cms",
+            "published": "2026-08-18T19:49:51",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/baba-ramdev-reacted-on-kangana-ranaut-statement-about-gen-z/articleshow/133324503.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e15609d7b9c9",
-            "feed": "maharashtratimes",
-            "title": "ही त्या कचरा गाडीच्या ड्रायव्हरशी का बोलते? नवऱ्याला बायकोवर संशय; निष्पाप कामगाराचा हकनाक बळी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-18T18:39:07",
-            "url": "https://maharashtratimes.com/india-news/delhi-husband-arrested-after-sanitation-worker-lost-life-in-attack/articleshow/133323364.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ac1fca62adaf",
+            "id": "afff9a0c109c",
             "feed": "lokmat",
-            "title": "१ ग्रॅम सोन्यात आकर्षक-ट्रेंडी मोठी मंगळसूत्र; १० सुंदर डिझाईन्स-कानातल्यांचा सेटही",
+            "title": "वास्कोच्या देव दामोदराचा १२७वा अखंड भजनी सप्ताह सुरू; १२७ वर्षांची परंपरा, हजारो भाविकांची गर्दी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-18T18:37:12",
-            "url": "https://www.lokmat.com/sakhi/photos/shopping/1-gram-gold-big-mangalsutra-10-trendy-heavy-long-mangalsutra-designs-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-16-at-12.40.43-pm_2026081764158.jpeg",
+            "published": "2026-08-18T19:47:10",
+            "url": "https://www.lokmat.com/goa/the-127th-akhand-bhajani-week-of-dev-damodar-of-vasco-begins-127-years-of-tradition-a-crowd-of-thousands-of-devotees-a-a1016/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shree-damodar-saptah-vasco-goa_2026081765530.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "01e0e6d7ebb6",
+            "feed": "maharashtratimes",
+            "title": "राम मंदिर देणगी चोरी प्रकरणात ज्यांच्यावर सर्वाधिक आरोप, त्यांनाच क्लीन चिट; SIT कडून दिलासा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-18T19:36:51",
+            "url": "https://maharashtratimes.com/india-news/ram-mandir-ayodhya-former-official-champat-rai-gets-clean-chit-in-donation-theft-case/articleshow/133324531.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "a352c8776cfa",
+            "feed": "lokmat",
+            "title": "Kalyan: पोलिसांकडून असंवेदनशीलतेचा कहर, हद्दीच्या वादात मृतदेह चार तास रेल्वे ट्रॅकवर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T19:32:00",
+            "url": "https://www.lokmat.com/kalyan-dombivli/kalyan-insensitivity-by-the-police-body-left-on-the-railway-track-for-four-hours-in-a-boundary-dispute-a-a855-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kalyan-death-news-1_2026081765528.jpg",
             "isBreaking": false,
             "category_reason": "default"
+        },
+        {
+            "id": "b4a32d20829c",
+            "feed": "lokmat",
+            "title": "Latest Marathi News LIVE: मध्य रेल्वेची वाहतूक उशिराने, ओव्हरहेड वायरचा धक्का लागून एक युवक जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-18T19:27:55",
+            "url": "https://www.lokmat.com/national/maharashtra-marathi-news-live-updates-18-august-2026-shiv-sena-supreme-court-hearing-kapil-sibal-eknath-shinde-uddhav-thackeray-us-israel-iran-tensions-donald-trump-pm-narendra-modi-jharkhand-protest-amit-shah-devendra-fadnavis-a-a681/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/liveblogfbimage_2026051711600.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "5bf8e76f4941",
+            "feed": "lokmat",
+            "title": "फिलीपीन्स हादरले! फेसबुक लाईव्ह करत विद्यार्थ्याचा शाळेत गोळीबार; एकाचा मृत्यू, स्वतःवरही झाडली गोळी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-18T19:19:35",
+            "url": "https://www.lokmat.com/international/school-shooting-in-philippines-9th-grade-student-kills-classmate-live-streams-on-facebook-before-suicide-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/philippines-school-shooting_2026081765523.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "4ae3b3e7475d",
             "feed": "lokmat",
@@ -198,22 +214,6 @@
             "category_reason": "feed"
         },
         {
-            "id": "18403dea707c",
-            "feed": "lokmat",
-            "title": "\"तुम्ही फार मोठ्याने बोलता, गप्प बसा...!\" ट्रम्प यांनी महिला पत्रकाराला फटकारलं; नेमकं काय विचारलं होतं?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-18T17:20:47",
-            "url": "https://www.lokmat.com/international/us-donald-trump-clash-cnn-reporter-kristen-holmes-over-natalie-harp-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump_2026081765437.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "f8e316d59c10",
             "feed": "esakal",
             "title": "एटीएममध्ये एका महिन्यात किती पैसे भरले जातात? हे कोण ठरवते?",
@@ -230,23 +230,39 @@
             "category_reason": "keyword"
         },
         {
-            "id": "09747c11eb02",
-            "feed": "lokmat",
-            "title": "Ayush shetty beats shi yu qi: गतविजेत्याला आयुषचा धक्काकोण आहे आयुष शेट्टी? भारतीय बॅडमिंटनच्या उगवत्या ताऱ्याने चीनच्या 'वर्ल्ड नंबर-१'ला दिला पराभवाचा दणका!",
+            "id": "10af34d232cf",
+            "feed": "esakal",
+            "title": "World Breast Cancer Research Day: ‘या’ ५ कारणांमुळे तरुण महिलांमध्ये वाढू शकतो स्तनाच्या कर्करोगाचा धोका!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-18T16:54:47",
-            "url": "https://www.lokmat.com/other-sports/bwf-world-championships-2026-who-is-ayush-shetty-who-caused-sensation-in-badminton-world-by-defeating-world-number-shi-yuqi-of-china-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bwf-world-championships-who-is-ayush-shetty-m-_2026081765415.jpg",
+            "published": "2026-08-18T12:37:01",
+            "url": "https://www.esakal.com/health/breast-cancer-risk-in-young-women-5-reasons-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/ld44kcws/Breast-Cancer-in-Young-Women.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "0ee0ed7c9f74",
+            "feed": "maharashtratimes",
+            "title": "Glenn Maxwell Vini Raman Baby Girl : मॅक्सवेलच्या घरी चिमुकल्या परीचं आगमन; विनी रमनने दिला मुलीला जन्म, नावही ठरलं",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-18T19:33:43",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/glenn-maxwell-vini-raman-welcome-baby-girl-shared-post-on-instagram/articleshow/133324825.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "1fba0192200a",
             "feed": "maharashtratimes",
@@ -278,25 +294,41 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-1st-test-day-4-stumps-m-_2026081765504.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "17472d44c02f",
-            "feed": "esakal",
-            "title": "IND vs SL, Test: भारतीय संघ विजयाच्या उंबरठ्यावर! चौथ्या दिवशी फलंदाजी गडबडली, पण गोलंदाजांनी राखले वर्चस्व",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-18T18:23:12",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-sri-lanka-galle-test-day-4-india-need-six-wickets-for-victory-sri-lanka-need-288-runs-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/8xi97nw6/Sri-Lanka-vs-India-1st-Test-1.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "2c60772633c3",
+            "feed": "maharashtratimes",
+            "title": "गुंतवणूकदारांनो, लक्ष द्या! सोनं की चांदी, Robert Kiyosaki यांच्या मते ऑगस्टचा बेस्ट पर्याय कोणता?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-18T19:48:54",
+            "url": "https://maharashtratimes.com/business/share-bazaar/robert-kiyoski-posted-about-his-commodity-choice-for-august-2026/articleshow/133324863.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f20768a1d802",
+            "feed": "lokmat",
+            "title": "Karjmafi : पीककर्ज माफीच्या प्रक्रियेत द्विस्ट, बँकांना हेअरकटचा पर्याय, हेअरकटचे नियम समजून घ्या!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-18T19:35:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/karjmafi-twist-in-the-process-of-crop-loan-waiver-banks-have-an-option-of-haircut-understand-the-rules-of-haircut-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kakj_2026081765500.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "b3bb295fcc12",
             "feed": "lokmat",
@@ -310,38 +342,6 @@
             "published": "2026-08-18T18:49:02",
             "url": "https://www.lokmat.com/business/stock-market/share-market-price-less-than-rs20-but-returns-over-1100-these-3-penny-stocks-made-investors-rich-a-a732/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/penny-stockss-rise_2026081765508.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "42d5c8a2ada0",
-            "feed": "lokmat",
-            "title": "इगतपुरीच्या विभागीय कृषी संशोधन केंद्रात विद्यार्थ्यांनी घेतले भात लागवडीचे धडे, वाचा सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-18T18:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-students-took-lessons-in-rice-cultivation-at-the-divisional-agricultural-research-center-igatpuri-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hat-lahd_2026081765466.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b6d896bc8ff8",
-            "feed": "maharashtratimes",
-            "title": "मित्तल यांच्या दहा वर्षांच्या कार्यकाळाला पूर्णविराम! Airtel Payments बँकेच्या चेअरमन पदावर नवी नियुक्ती, कोण आहेत डॉ. शबनम सिन्हा?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-18T18:28:36",
-            "url": "https://maharashtratimes.com/business/business-news/shabnam-sinha-airtel-payments-banks-chairperson-work-experience/articleshow/133323003.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
