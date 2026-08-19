@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "19-08-2026 | 06:09 AM IST",
+    "lastUpdated": "19-08-2026 | 07:42 AM IST",
     "maharashtra": [
         {
-            "id": "0085970c06e3",
-            "feed": "lokmat",
-            "title": "आता मुलाखती बंद, अभ्यासावर लक्ष केंद्रीत करा; राज ठाकरेंचा ‘व्हायरल गर्ल्स’ना मोलाचा सल्ला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T06:04:45",
-            "url": "https://www.lokmat.com/mumbai/now-stop-interviews-and-focus-on-studies-mns-chief-raj-thackeray-important-advice-to-viral-girls-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rajmns1_202211917838.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9be3490329ac",
-            "feed": "lokmat",
-            "title": "चिंताजनक... यंदा देशात ७० टक्के दुष्काळ पडणार? स्कायमेटच्या नव्या अंदाजाने धाकधूक वाढली",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T05:57:47",
-            "url": "https://www.lokmat.com/maharashtra/will-there-be-a-drought-in-70-percent-of-the-country-this-year-skymet-new-forecasts-has-increased-fear-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/monsoon-el-nino-4_2026061725078.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "191ab1805377",
-            "feed": "lokmat",
-            "title": "खोपोलीत शिंदेसेनेचे नगरसेवकपद रद्द; जात प्रमाणपत्र अवैध ठरले, पराभूत उमेदवाराची होती तक्रार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T05:49:21",
-            "url": "https://www.lokmat.com/raigad/shiv-sena-shinde-group-corporator-post-in-khopoli-cancelled-caste-certificate-declared-invalid-complaint-filed-by-defeated-candidate-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eknath-shinde-sad-1408d_2025061472698.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "4e35bf3071b1",
-            "feed": "lokmat",
-            "title": "चेंबूरमधील झेप्टोसहित मुंबईतील ६ हॉटेल, क्लबचे परवाने निलंबित; ५० आस्थापनांना सुधारणा नोटीस",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T05:43:37",
-            "url": "https://www.lokmat.com/mumbai/fda-action-license-of-6-hotels-clubs-in-mumbai-including-zepto-in-chembur-suspended-50-establishments-issued-rectification-notice-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tukaram-mundhe-gtf_2026061730410.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e5cbc8ceb129",
-            "feed": "lokmat",
-            "title": "चिंता मिटली... गणेशोत्सवासाठी कोकण रेल्वेवेर विशेष फेऱ्या; मुंबई-नागपूरहून गोव्यासाठी ट्रेन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T05:38:47",
-            "url": "https://www.lokmat.com/navi-mumbai/big-relief-to-passengers-ganpati-2026-special-trip-to-run-on-konkan-railway-trains-from-mumbai-and-nagpur-to-goa-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-railway-special-trains_2026031658909.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "dc20028a9358",
-            "feed": "maharashtratimes",
-            "title": "2028 मध्ये भारताची 'शुक्र मोहीम' तर 2035 पर्यंत स्वतःचे स्पेस स्टेशन उभारणार, 440 हून अधिक स्टार्टअप्सचे बळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-19T06:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/science-technology/india-space-masterplan-venus-mission-by-2028-own-space-station-by-2035-and-440-plus-startups-leading-the-acharge/articleshow/133323668.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "a0b742a53949",
-            "feed": "lokmat",
-            "title": "आधी अपात्रतेचा निकाल, मग पक्ष कुणाचा ते ठरवा; ठाकरे गटाचा सर्वोच्च न्यायालयात युक्तिवाद",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-19T05:27:30",
-            "url": "https://www.lokmat.com/national/first-decide-the-disqualification-result-then-whose-party-it-belongs-to-uddhav-thackeray-group-argument-in-the-supreme-court-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sfe56tgvdfbdh_202302968049.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "80dc7287a9d8",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 19 ऑगस्ट 2026 : ग्रह गोचरचा काही राशींना होणार फायदा तर कोणाला होणार आर्थिक तंगीचा त्रास ! पहा तुमचे राशिभविष्य काय सांगते ?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-19T05:00:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-19-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/133302544.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "dcfffb36f4b4",
-            "feed": "maharashtratimes",
-            "title": "अंक भविष्य,19 August 2026: मूलांक 1 सावधगिरीने निर्णय घ्या! मूलांक 3 नवीन संपर्क लाभदायक! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-19T05:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-19-august-2026-anapha-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133328291.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e116a4955262",
+            "id": "e0fc875b5a0f",
             "feed": "esakal",
-            "title": "Yogi Adityanath यांच्याकडून नाना पाटेकरांचं तोंडभरून कौतुक; म्हणाले, 'प्रसिद्धी न करता शेतकऱ्यांसाठी मदत करणारी पहिली व्यक्ती...'",
+            "title": "Pune Ring Road: पुणेकरांना वाहतूक कोंडीतून मिळणार दिलासा! रिंगरोडच्या पूर्व विस्ताराला मंजुरी; ३१.८ किमी मार्गावर ४ बोगदे, १८ उड्डाणपूल",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T07:32:00",
+            "url": "https://www.esakal.com/pune/pune-ring-road-east-extension-gets-approval-to-ease-traffic-congestion-with-318-km-route-four-tunnels-and-18-flyovers-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/fwcdgzjg/sudhir-jadhav-satara-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d26216a6ddf9",
+            "feed": "lokmat",
+            "title": "नौसैनिक पुरणमल प्रकरण: २४ तास तो पत्नी, आणि दोन मुलांच्या मृतदेहांसोबत निवांत वावरत होता...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T07:27:48",
+            "url": "https://www.lokmat.com/mumbai/puranmal-case-he-spent-24-hours-peacefully-with-the-bodies-of-his-wife-and-two-children-a-a457-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/puranmal-case-mumbai_2026081765602.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2e7cb63dcf61",
+            "feed": "esakal",
+            "title": "ढिंग टांग : मी इथेच राहीन! मी इथेच राहीन!!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-19T00:47:00",
-            "url": "https://www.esakal.com/desh/yogi-adityanath-praises-nana-patekar-for-helping-farmers-without-publicity-calls-him-a-true-social-contributor-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/068hj8vy/sudhir-jadhav-satara-6.jpg",
+            "published": "2026-08-19T07:23:00",
+            "url": "https://www.esakal.com/sampadakiya/dhing-tang-mi-ithech-rahil-mi-ithech-rahil-british-nandi-delhi-visit-political-speculation-devendra-fadnavis-modi-maharashtra-politics-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/m1ys3xtb/Dhing-Tang-1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "f4e5ae21301b",
+            "feed": "lokmat",
+            "title": "आता मिरा-भाईंदरवरून वसई-विरारला जा मेट्रोने; प्रकल्पाला मंत्रिमंडळाच्या समितीने दिली मंजुरी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T07:19:33",
+            "url": "https://www.lokmat.com/mumbai/now-travel-from-mira-bhayandar-to-vasai-virar-by-metro-line-cabinet-committee-approves-project-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thane-bhiwandie-191_2026021640320.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "57cf62b47f05",
+            "feed": "esakal",
+            "title": "Corporator Daughter: भाजप नगरसेविकेच्या २३ वर्षीय मुलीने संपवले आयुष्य, परीक्षेच्या आदल्या दिवशी उचलले टोकाचे पाऊल",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T07:14:03",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/bjp-corporator-daughter-dies-by-endlife-at-23-a-day-before-exam-shocking-incident-leaves-family-and-city-in-grief-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/iafl9hxp/sudhir-jadhav-satara.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "bd5ab3cb6587",
+            "feed": "esakal",
+            "title": "Maharashtra Rain Update : महाराष्ट्रात वादळी पावसाचा इशारा; सात जिल्ह्यांना येलो अलर्ट",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T07:24:16",
+            "url": "https://www.esakal.com/desh/maharashtra-weather-update-yellow-alert-seven-districts-thunderstorm-rain-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/qsuyaq6q/sandeep-shirguppe-2026-08-19T072337.153.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "4f6c0a10a077",
+            "feed": "lokmat",
+            "title": "आजचे राशीभविष्य, १९ ऑगस्ट २०२६ : आजचा दिवस शुभ फलदायी, भरपूर आनंद मिळेल!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-19T07:23:53",
+            "url": "https://www.lokmat.com/astro/predictions/today-daily-horoscope-todays-horoscope-august-19-2026-today-will-be-auspicious-and-fruitful-you-will-get-a-lot-of-happiness-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhavishya-wednesday_202208865234.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8a0034468d70",
+            "feed": "lokmat",
+            "title": "Shravan 2026: महादेवाला पांढरी फुले आवडतात पण केतकीची फुले नाही; असे का? वाचा ही पौराणिक कथा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-19T07:10:02",
+            "url": "https://www.lokmat.com/bhakti/shravan-2026-lord-shiva-likes-white-flowers-but-not-ketki-flowers-why-is-that-read-this-mythological-story-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lord-shiva-ketaki-flower-in-shravana_2026081765377.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "d4829dba4cc0",
+            "feed": "esakal",
+            "title": "विशेष : जेनस्पार्क",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T07:03:00",
+            "url": "https://www.esakal.com/education-jobs/genspark-ai-super-agent-research-analysis-presentation-documents-tables-ai-tools-pranav-mantri-ai-trainer-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/4nzlu678/Esakal-23.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a8ceaf399fc6",
+            "feed": "esakal",
+            "title": "आजचे राशिभविष्य - १९ ऑगस्ट २०२६",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T07:00:00",
+            "url": "https://www.esakal.com/horoscope/on-this-day-today-rashi-bhavishya-horoscope-in-marathi-19-august-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-30/veemryit/esakal2025-11-039nzjhvy62horoscope.avif",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "22a9fe77e26d",
+            "feed": "esakal",
+            "title": "Gold Mine Collapse : सोन्याच्या खाणीत मोठी दुर्घटना; ३० कामगारांचा मृत्यू, अनेक जण ढिगाऱ्याखाली अडकले",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T07:41:42",
+            "url": "https://www.esakal.com/global/central-african-republic-gold-mine-collapse-30-workers-dead-rescue-operation-nana-mambere-abba-mine-accident-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/m2dkyt9n/Central-African-Republic-gold-mine-collapse.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "2b260fa792c8",
+            "feed": "lokmat",
+            "title": "भारताच्या निवडणूक यंत्रणेकडून शिका: ट्रम्प, वैध छायाचित्र नसतानाही मतदान होत असल्याची खंत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-19T06:21:20",
+            "url": "https://www.lokmat.com/international/learn-from-india-electoral-system-said-america-president-donald-trump-and-laments-voting-despite-lack-of-valid-photo-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-white-house_2026041690733.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "b836816cfd7f",
             "feed": "esakal",
@@ -198,22 +230,6 @@
             "category_reason": "keyword"
         },
         {
-            "id": "5bf8e76f4941",
-            "feed": "lokmat",
-            "title": "फिलीपीन्स हादरले! फेसबुक लाईव्ह करत विद्यार्थ्याचा शाळेत गोळीबार; एकाचा मृत्यू, स्वतःवरही झाडली गोळी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-18T19:19:35",
-            "url": "https://www.lokmat.com/international/school-shooting-in-philippines-9th-grade-student-kills-classmate-live-streams-on-facebook-before-suicide-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/philippines-school-shooting_2026081765523.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "5ccadec26b49",
             "feed": "maharashtratimes",
             "title": "मुंबईच्या 2 डॉक्टरांना पाकिस्तानचा सर्वोच्च सन्मान; जिन्नांचं गुपित लपवणारे 'ते' दोघे नेमके कोण?",
@@ -228,22 +244,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "f8e316d59c10",
-            "feed": "esakal",
-            "title": "एटीएममध्ये एका महिन्यात किती पैसे भरले जातात? हे कोण ठरवते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T17:04:07",
-            "url": "https://www.esakal.com/ampstories/web-story/how-much-money-loaded-into-atm-machine-in-one-month-and-who-decides-this-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/mcnd3m9a/ATM-Cash-Loading.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "b5fc09e806d3",
+            "feed": "maharashtratimes",
+            "title": "पालकांच्या अडचणीतून तयार झाली व्यवसायाची संधी! आईच्या काळजीने उभा राहिला हजारो कोटींचा व्यवसाय, कोण आहेत रितू नारायण?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-19T07:00:00",
+            "url": "https://maharashtratimes.com/business/business-news/ritu-narayan-the-founder-of-america-based-company-zum-success-story/articleshow/133326415.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "83983b365610",
             "feed": "esakal",
             "title": "Edible Oil Rate : महागाईच्या होरपळीत खाद्यतेलाचाही ‘भडका’; वर्षभरात भाव १० ते १८ टक्क्यांनी वाढले; ग्राहकांना फटका",
@@ -328,22 +344,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-16/0z0cgdwi/Abhi-51.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "cfdcf57621bc",
-            "feed": "lokmat",
-            "title": "10 गुंठ्यात सेंद्रिय करटुले शेतीचा यशस्वी प्रयोग, 250 रुपये किलोचा भाव, केळापुर येथील शेतकऱ्याची यशोगाथा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-18T20:35:02",
-            "url": "https://www.lokmat.com/agriculture/success-story/successful-experiment-of-organic-kartule-farming-in-10-gunthas-success-story-of-farmer-from-kelapur-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kartule_2026081765526.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
