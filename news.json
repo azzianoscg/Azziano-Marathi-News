@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "19-08-2026 | 01:00 PM IST",
+    "lastUpdated": "19-08-2026 | 01:54 PM IST",
     "maharashtra": [
         {
-            "id": "00a164f1ee3b",
+            "id": "83924f18f245",
             "feed": "esakal",
-            "title": "Pandharpur Corridor: पंढरपूर कॉरिडॉरसाठी मोठा निर्णय; बाधित व्यापारी आणि रहिवाशांच्या पुनर्वसन धोरणाला मंजुरी",
+            "title": "Pune Airport Missing Youth : दुबईहून दिल्लीला निघालेला तरुण पुणे विमानतळावरुन बेपत्ता; कुटुंबीयांची पोलिसांकडे धाव,शोध सुरू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T13:49:41",
+            "url": "https://www.esakal.com/pune/dubai-abu-dhabi-to-delhi-missing-youth-afzal-pune-airport-viman-nagar-police-search-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/yr72hesc/Pune-Airport-Missing-Youth.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1bbe15f8a44a",
+            "feed": "esakal",
+            "title": "Nashik Pune Highway: ‘राष्ट्रवादी’चे अनोखे आंदोलन! सिन्नर-खेड महामार्गाच्या प्रलंबित कामांवरून आक्रमक; चितेवर बसून दोघांचे उपोषण",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-19T12:54:06",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/pandharpur-corridor-gets-major-approval-rehabilitation-policy-for-affected-traders-and-residents-approved-by-maharashtra-cabinet-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/09f8zifl/sudhir-jadhav-satara-21.jpg",
+            "published": "2026-08-19T13:46:00",
+            "url": "https://www.esakal.com/ahmednagar/sinnar-khed-highway-protest-ncp-leaders-sit-on-funeral-pyre-over-pending-road-works-and-demand-immediate-action-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/w9n7xvf7/sudhir-jadhav-satara-23.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "4280cf530490",
+            "id": "cd072fa9743d",
             "feed": "lokmat",
-            "title": "'भिंतींवर शेवाळ, कमानींची पडझड!'; खुलताबादची ऐतिहासिक 'बनी बेगम बाग' संकटात; पर्यटकांची नाराजी",
+            "title": "PMC: पावसाने उघडीप देऊनही खड्डे दुरुस्तीचे काम कासवगतीनेच सुरु; समाविष्ट गावांतील रस्ते वाऱ्यावरच",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-19T12:53:09",
-            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/moss-on-the-walls-collapse-of-historical-arches-mughal-heritage-in-peril-historic-bani-begum-garden-in-khuldabad-awaits-urgent-restoration-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bani-begam-bag-khulatabad-fea_2026081765875.jpg",
+            "published": "2026-08-19T13:41:53",
+            "url": "https://www.lokmat.com/pune/pmc-pothole-repair-work-continues-at-a-snails-pace-despite-rain-exposure-roads-in-affected-villages-remain-windy-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/road-condition-4-d_2026081765951.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7f3bfa73a923",
+            "id": "4114523e3838",
+            "feed": "maharashtratimes",
+            "title": "Free Ration Scheme: संचालकही खायचे 'मोफत धान्य'; योजनेतून वगळले 42 हजार कार्ड, लाभार्थ्यांत प्राप्तिकर भरणाऱ्यांचाही समावेश",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T13:41:15",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/free-food-grain-scheme-stopped-for-more-than-42000-ration-cardholders-in-nagpur/articleshow/133340457.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c3374016c139",
             "feed": "esakal",
-            "title": "Nagpur Road Condition: सिमेंट रोडवरील उखडलेले गट्टू लावणे सुरू",
+            "title": "Manoj Jarange: मराठा आरक्षणाच्या लढ्यात कोणता नवा पेच निर्माण झाला? जरांगेंचा पुन्हा उपोषणाचा निर्णय का?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-19T12:51:23",
-            "url": "https://www.esakal.com/vidarbha/nagpur/nagpur-zingabai-takli-godhani-cement-road-pothole-repair-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/jbmyhwus/Abhi-1.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ad7c668a78f7",
-            "feed": "lokmat",
-            "title": "महाराष्ट्र धर्मांतरविरोधी कायदा : बेकायदेशीर विवाहातून जन्मलेल्या बालकाचा धर्म कोणता असणार? जाणून घ्या महत्वाच्या तरतुदी...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T12:49:27",
-            "url": "https://www.lokmat.com/photos/maharashtra/maharashtra-anti-conversion-act-what-will-be-the-religion-of-a-child-born-from-an-illegal-marriage-know-the-important-provisions-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-anti-conversion-law-provisions-19-th22-1_2026081765855.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5eeadf90af14",
-            "feed": "lokmat",
-            "title": "‘फ्लाईंग जिप्सी’च्या मालकाला वठणीवर आणणार;पोलिस आयुक्त अमितेश कुमार यांचा इशारा(video)",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T12:46:46",
-            "url": "https://www.lokmat.com/pune/will-bring-the-owner-of-flying-gypsy-to-justice-police-commissioner-amitesh-kumar-warns-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/flying-gypsy_2026081765863.jpg",
+            "published": "2026-08-19T13:38:19",
+            "url": "https://www.esakal.com/maharashtra/manoj-jarange-maratha-reservation-new-problem-protest-29-august-58-lakh-kunbi-records-certificates-supreme-court-sebc-10-percent-reservation-srk94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/6556jxdy/Manoj-Jarange-Patil-announces-another-agitation-over-pending-Maratha-reservation-demands-with-58-lakh-Kunbi-records-and-certificate-implementation-at-the-centre-of-the-issue.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "375ae8502945",
+            "id": "3a7e020ea02b",
+            "feed": "lokmat",
+            "title": "बॉक्स ऑफिसवर 'Batwara 1947' पास की फेल? सनी देओलच्या सिनेमाने पाच दिवसांत जमवला 'इतक्या' कोटींचा गल्ला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-19T13:50:30",
+            "url": "https://www.lokmat.com/filmy/bollywood/sunny-deol-and-preity-zinta-starrer-batwara-1947-movie-box-office-collection-day-5-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/batwara-movie-1_2026081765954.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "090df8533ee9",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : संजय राऊतांची निवडणूक आयोगावर सडकून टीका, काय म्हणाले?",
+            "title": "कर्जबाजारी होण्यापासून वाचायचे असेल तर; ‘या’ मुलांकाच्या लोकांनी राहा सावध!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-19T12:40:33",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-19th-august-2026-supreme-court-decisions-paper-leak-case-shiv-sena-party-and-symbol-case-pm-cares-fund-us-president-donald-trump-voter-list-revision-chief-minister-devendra-fadnavis-rain-and-dams-maratha-reservation-manoj-jarange-patil-tribal-student-case-srk94-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
+            "published": "2026-08-19T13:44:49",
+            "url": "https://www.esakal.com/ampstories/web-story/numerology-these-birth-numbers-should-be-careful-with-money-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/thedosbc/numerlofy.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "cad01f71b7d4",
+            "id": "3baaeadfe799",
             "feed": "lokmat",
-            "title": "परवाना नाही, एनओसी नाही आणि सुरक्षेची साधनेही नाही… कोलकाताच्या हॉटेलमधील आगीत ९ बांगलादेशींचा जीव कसा गेला?",
+            "title": "\"मी सासरा कमी आणि...\" सून पूजा बिरारीबद्दल आदेश बांदेकरांनी व्यक्त केल्या खास भावना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-19T13:44:15",
+            "url": "https://www.lokmat.com/filmy/television/aadesh-bandekar-on-daughter-in-law-pooja-birari-soham-bandekar-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aadesh-bandekar-on-daughter-in-law-pooja-birari-soham-bandekar_2026081765957.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "62ddab81fe32",
+            "feed": "esakal",
+            "title": "Gulkand Benefits : आयुर्वेदात गुलकंदाचे महत्त्व; पचनासाठी फायदेशीर?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T13:40:33",
+            "url": "https://www.esakal.com/ampstories/web-story/gulkand-benefits-ayurveda-stomach-digestion-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-27/5o1i7n3f/Gulkand-Health-Benefits-in-Summer-3.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8ee5cd0830e9",
+            "feed": "lokmat",
+            "title": "\"मी भाजपाचा म्हणून घरमालक फुकट राहायला देत नाही...\"; शहजाद पूनावालांनी मांडली व्यथा, काय घडलं?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-19T12:37:25",
-            "url": "https://www.lokmat.com/national/no-license-no-noc-and-no-safety-equipment-how-did-9-bangladeshis-lose-their-lives-in-a-fire-at-a-kolkata-hotel-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/west-bengal-fire-case_2026081765846.jpg",
+            "published": "2026-08-19T13:34:54",
+            "url": "https://www.lokmat.com/national/as-a-bjp-member-i-dont-let-landlords-live-for-free-shahzad-poonawala-expressed-his-grief-what-happened-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/poonawala-interview-politicsal_2026081765934.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "world": [
+        {
+            "id": "54d78c13ad05",
+            "feed": "lokmat",
+            "title": "भारतीय वंशाच्या Pia Dandiya यांची अमेरिकेच्या राजकारणात दमदार सुरुवात; नोव्हेंबरमध्ये इतिहास रचण्यास सज्ज",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-19T13:43:52",
+            "url": "https://www.lokmat.com/international/who-is-pia-dandiya-indian-origin-wins-democratic-nomination-for-florida-22-district-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pia-dandia-us-politics-1908_2026081765938.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bc6e9641a52c",
+            "id": "1002af04eda0",
             "feed": "lokmat",
-            "title": "अल्लू अर्जुन-दीपिकाच्या 'राका'मध्ये लोकप्रिय हॉलिवूड स्टारची एंट्री? साकारणार खतरनाक व्हिलन",
+            "title": "२४ प्लॅटफॉर्म आणि १२१ वर्षांचा इतिहास; जगातील सर्वात सुंदर रेल्वे स्टेशन, जिथे गेल्यावर तुम्हीही व्हाल थक्क!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-19T12:35:43",
-            "url": "https://www.lokmat.com/filmy/south-movies/popular-hollywood-star-will-smith-to-play-villain-in-allu-arjun-deepikas-raaka-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/popular-hollywood-star-will-smith-to-play-villain-in-allu-arjun-deepikas-raaka-_2026081765831.jpg",
+            "published": "2026-08-19T13:41:15",
+            "url": "https://www.lokmat.com/jarahatke/24-platforms-and-121-years-of-history-the-most-beautiful-railway-station-in-the-world-where-you-too-will-be-amazed-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/antwarp-station-1_2026081765943.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "keyword"
         },
-        {
-            "id": "c61406e905aa",
-            "feed": "lokmat",
-            "title": "हिमोग्लोबिन झटपट वाढविणारे ३ घरगुती पदार्थ- फक्त १ महिना खा, एनर्जी वाढून कामं उरकतील भरभर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T12:34:49",
-            "url": "https://www.lokmat.com/sakhi/photos/health/3-food-combinations-that-helps-to-increase-iron-level-how-to-improve-iron-level-traditional-food-for-iron-deficiency-a-lifestyle-diseases-photo-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/food-combinations-to-increase-iron_2026081765834.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5374e67d52cf",
-            "feed": "lokmat",
-            "title": "गॅस बर्नरची छिद्र होतील मोकळी! घरातल्या ‘या’ पदार्थाने करा झटपट क्लिनिंग-सिलेंडर अनेक महिने चालेल, होईल बचत...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T12:32:06",
-            "url": "https://www.lokmat.com/sakhi/social-viral/how-to-clean-gas-burner-how-to-clean-clogged-gas-burner-gas-burner-cleaning-how-to-unclog-gas-burner-holes-tips-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-clean-clogged-gas-burner_2026081765816.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        }
-    ],
-    "world": [
         {
             "id": "07f71a21d2f7",
             "feed": "lokmat",
@@ -212,138 +244,106 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-19/1hzw2bo0/Spirituality-really-helps-for-mental-peace",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "22a9fe77e26d",
-            "feed": "esakal",
-            "title": "Gold Mine Collapse : सोन्याच्या खाणीत मोठी दुर्घटना; ३० कामगारांचा मृत्यू, अनेक जण ढिगाऱ्याखाली अडकले",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-19T07:41:42",
-            "url": "https://www.esakal.com/global/central-african-republic-gold-mine-collapse-30-workers-dead-rescue-operation-nana-mambere-abba-mine-accident-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/m2dkyt9n/Central-African-Republic-gold-mine-collapse.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b836816cfd7f",
-            "feed": "esakal",
-            "title": "किंग कोहलीचा पहिला आंतरराष्ट्रीय सामना आठवतोय का?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-18T23:54:03",
-            "url": "https://www.esakal.com/ampstories/web-story/virat-kohli-first-international-match-story-august-18-2008-india-vs-sri-lanka-dambulla-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-18/iozikqha/Virat-Kohli-First-Match-4.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "b3769d5429cc",
-            "feed": "lokmat",
-            "title": "उंचीमुळे करिअर लागलं होतं पणाला, अमिताभ बच्चन यांना करावा लागलेला रिजेक्शनचा सामना, सांगितला 'तो' अनुभव",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T12:41:50",
-            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-actor-amitabh-bachchan-once-faced-rejection-because-of-his-height-during-early-days-of-carrer-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amitabh-bachchan-actor_2026081765839.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5236e1f68b6c",
-            "feed": "maharashtratimes",
-            "title": "IND vs SL 1st Test : ऋषभ बेजबाबदार खेळतो म्हणत कितीही नावे ठेवा पण पंत ठरलाय भारताचा कसोटी नंबर वन प्लेयर; कॅप्टन गिल, रोहित, विराट सगळेच पिछाडीवर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-19T12:40:16",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-1st-test-rishabh-pant-the-highest-run-scorer-for-india-in-the-world-test-championship/articleshow/133339682.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "03f017bd62f5",
+            "id": "d26253b7c5f0",
             "feed": "esakal",
-            "title": "IND vs SL 1st Test: \"तूझ्यात हिंमत असेल ना तर...\"; Yashasvi Jaiswal श्रीलंकेच्या फलंदाजाला भिडला, हायव्होल्टेज ड्रामा; नेमकं काय झालं?",
+            "title": "IND vs SL: भारताचा दणदणीत विजय WTC मध्येही फायदा; पण तरी फायनलं आव्हान अजूनही कठीणच; पाहा समीकरण",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-19T12:32:23",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-if-you-have-got-the-guts-hit-a-six-yashasvi-jaiswal-provokes-dickwella-then-gets-him-out-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/f8erh1go/Yashasvi-Jaiswal-provokes-Niroshan-Dickwella-before-getting-him-out",
+            "published": "2026-08-19T13:44:53",
+            "url": "https://www.esakal.com/krida/cricket/india-beat-sri-lanka-galle-1st-test-wtc-points-table-world-test-championship-final-scenario-update-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/h9qbqrat/Team-India-6.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e4ff41d34af2",
+            "feed": "esakal",
+            "title": "IND vs SL 1st Test:  Manav Suthar च्या १० विकेट्स अन् भारताचा दणदणीत विजय; मालिकेत १-० अशी आघाडी, WTC Final च्या आशा कायम",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-19T13:27:08",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-manav-suthars-10-wicket-haul-india-crush-sri-lanka-in-galle-take-1-0-lead-in-test-series-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/tbr4qiee/Manav-Suthar-match-winning-performance-against-Sri-Lanka",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d351400c1e83",
+            "feed": "lokmat",
+            "title": "IND vs SL : ६०० व्या ऐतिहासिक कसोटीत टीम इंडियाचा दिमाखदार विजय; श्रीलंकेविरुद्धच्या मालिकेत १-० अशी आघाडी!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-19T13:25:42",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-1st-test-team-india-won-by-165-runs-in-their-historic-600th-test-take-a-1-0-lead-against-sri-lanka-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-finfal-result-m-1_2026081765927.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "9b8a38cfb0ee",
+            "id": "32eb8acb88af",
             "feed": "lokmat",
-            "title": "सरकारी बँकांनी आता 'कूल' बनावं! Gen Z ना आकर्षित करण्यासाठी निर्मला सीतारामन यांचा बँकांना सल्ला",
+            "title": "BookMyShow मध्ये KKR करणार गुंतवणूक; किती हिस्सा खरेदी करणार, जाणून घ्या प्लॅन",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-19T12:50:02",
-            "url": "https://www.lokmat.com/business/banking-loans/banking-for-youth-campaign-government-banks-should-now-become-cool-nirmala-sitharamans-advice-to-banks-to-attract-gen-z-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nirmala-sitaraman-youth-banking_2026081765866.jpg",
+            "published": "2026-08-19T13:47:26",
+            "url": "https://www.lokmat.com/business/news/kkr-to-invest-in-bookmyshow-how-much-stake-will-it-buy-know-future-plan-entertainment-industry-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bookmyshow-kkr-1_2026081765961.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "08e3ebec3e69",
+            "id": "9cb6c754e570",
             "feed": "lokmat",
-            "title": "फोर्डची सर्व्हिस सेंटरही गाशा गुंडाळू लागली; १० वर्षांचा दिलेला शब्द, पाच वर्षांतच...",
+            "title": "Mirchi Market : नंदुरबार, शहादा मार्केटमध्ये मिरचीचे दर घसरले, राज्यातील इतर मार्केटमध्ये काय दर मिळतोय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-19T12:48:11",
-            "url": "https://www.lokmat.com/auto/fords-service-center-also-started-to-fold-a-promise-made-for-10-years-broken-in-five-years-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ford-service-center-closed-news_2026081765865.jpg",
+            "published": "2026-08-19T13:45:01",
+            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-mirchi-market-chilli-prices-have-fallen-in-nandurbar-and-shahada-markets-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mirchi-sh_2026081765891.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "61a8cb5cbd7a",
+            "id": "af4e340254a8",
             "feed": "lokmat",
-            "title": "विजय केडिया यांनी खरेदी केले एकाच कंपनीचे २०००००० शेअर्स! बातमी येताच १७ टक्क्यांनी वधारले, तुमच्याकडे आहेत का?",
+            "title": "Kanda Market : श्रीरामपूर बाजारात गावरान कांदा चार हजाराकडे; वाचा नंबर १ कांद्याला काय मिळतोय दर?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-19T12:42:04",
-            "url": "https://www.lokmat.com/business/news/kedia-buys-20-lakh-shares-of-zaggle-prepaid-ocean-services-rose-by-17-percent-as-soon-as-the-news-came-out-do-you-have-any-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-hr_2026081765859.jpg",
+            "published": "2026-08-19T13:43:15",
+            "url": "https://www.lokmat.com/agriculture/market-yard/kanda-market-in-srirampur-market-gavran-onion-is-selling-for-four-thousand-read-what-is-the-price-of-number-1-onion-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-market-shrirampur_2026081765879.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
