@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "19-08-2026 | 11:49 PM IST",
+    "lastUpdated": "20-08-2026 | 12:49 AM IST",
     "maharashtra": [
+        {
+            "id": "ac54280acaa9",
+            "feed": "lokmat",
+            "title": "ओबीसी मतदारांवर भाजपची नजर; ओबीसी प्रदेश कार्यकारिणीत विदर्भाचे १८ पदाधिकारी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T00:09:26",
+            "url": "https://www.lokmat.com/maharashtra/bjp-eyes-obc-voters-18-office-bearers-from-vidarbha-in-obc-state-executive-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bjp-3_2026081766478.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "dd8a1a3d6704",
+            "feed": "esakal",
+            "title": "मध्यप्रदेशातून बंदुका आणून ५० हजारांत विकणारा सांगलीचा तरूण जेरबंद! मध्यप्रदेशसह माढा, पंढरपूर, सांगोला, आटणी तालुक्यातील ८ जण अटक, १७ गावठी बंदुका जप्त, वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T23:59:00",
+            "url": "https://www.esakal.com/maharashtra/a-youth-from-sangli-was-arrested-for-bringing-guns-from-madhya-pradesh-and-selling-them-for-rs-50000-8-people-from-madha-pandharpur-sangola-atani-talukas-including-madhya-pradesh-were-arrested-17-village-guns-were-seized-read",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/fzopvhla/IMG20260819182747.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "73e84938f5be",
             "feed": "esakal",
@@ -46,38 +78,6 @@
             "published": "2026-08-19T22:55:19",
             "url": "https://www.esakal.com/maharashtra/big-decision-of-the-agriculture-department-now-there-will-be-farmer-friends-in-villages-on-an-honorarium-of-rs-1500-30-percent-posts-reserved-for-women-11587-farmer-friends-will-be-appointed-in-the-state",
             "image": "https://cf-images.assettype.com/esakal/2025-07-23/zz38v31q/Abhi-2025-07-23T083203.944.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b207d364ce64",
-            "feed": "maharashtratimes",
-            "title": "Narendra Dabholkar Case : हायकोर्टाच्या निर्णयाला सुप्रीम कोर्टात आव्हान देणार, डॉ. हमीद दाभोलकर यांची भूमिका",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T22:52:15",
-            "url": "https://maharashtratimes.com/maharashtra/satara/hamid-dabholkar-reaction-on-bail-granted-to-accused-in-dr-narendra-dabholkar-case/articleshow/133354423.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b71de0dfdc59",
-            "feed": "lokmat",
-            "title": "२० हजाराची लाच घेताना पालिकेचा अभियंत्याला रंगेहाथ पकडलं; एसीबीची कारवाई, कार्यालयातून ७ लाख जप्त!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T22:35:52",
-            "url": "https://www.lokmat.com/mumbai/mumbai-municipal-engineer-arrested-for-taking-bribe-anti-corruption-bureau-latest-action-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bribe-4_2026081766469.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
@@ -248,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "8c53583fc0b7",
+            "feed": "maharashtratimes",
+            "title": "Duleep Trophy Final Venue Changed : दुलीप ट्रॉफी सुरु होण्याआधीच मोठा ट्विस्ट! BCCIने फायनलचं ठरलेलं मैदान अचानक बदललं; नेमकं कारण काय?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-20T00:26:10",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/duleep-trophy-2026-27-final-venue-changed-chennai-ma-chidambaram-stadium-reason/articleshow/133357165.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "cff8f9fc587f",
+            "feed": "lokmat",
+            "title": "IND vs SL: भारताचे सर्वात यशस्वी कसोटी कर्णधार, शुभमन गिलनं कोहलीला टाकलं मागं, गांगुलीच्या विक्रमाशी बरोबरी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-20T00:02:46",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-india-most-successful-test-captain-shubman-gill-overtakes-virat-kohli-equals-sourav-ganguly-record-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shubman-gill-virat-kohli-sourav-ganguly-1_2026081766476.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "0ba814e27b18",
             "feed": "maharashtratimes",
             "title": "India vs Pakistan Hockey : टीम इंडियाने 5 धडाकेबाज गोल ठोकले अन्  पाकिस्तानला वर्ल्ड कपमधून बाहेरचा रस्ता दाखवला, सरपंच हरमनप्रीतच्या टोळीचा धुमाकूळ!",
@@ -260,38 +292,6 @@
             "published": "2026-08-19T23:29:32",
             "url": "https://maharashtratimes.com/sports/hockey/india-beat-pakistan-by-5-3-in-fih-hockey-world-cup-2026-harmanpreet-singh-abhishek/articleshow/133355542.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6048c66f5963",
-            "feed": "maharashtratimes",
-            "title": "Manav Suthar Records : 10 विकेट्स, विक्रमांची रास, तरी सामनावीर पुरस्कार पडिक्कलला; मानव सुथारसोबत अन्याय झाला?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-19T22:32:36",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/manav-suthar-10-wickets-india-vs-sri-lanka-first-test-records-devdutt-padikkal/articleshow/133353679.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "81a4ab970ecd",
-            "feed": "esakal",
-            "title": "ENG vs PAK, Test: इंग्लंडने खेळाडूंना अचानक काऊंटी क्रिकेट खेळायला पाठवले, पाकिस्तानविरुद्ध कसोटी सुरू असताना हे का केले?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-19T22:12:40",
-            "url": "https://www.esakal.com/krida/cricket/england-release-five-non-playing-test-squad-members-vs-pakistan-for-county-championship-round-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/zqfab9zk/England-Cricket-Team-1.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
