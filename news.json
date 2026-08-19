@@ -1,21 +1,53 @@
 {
-    "lastUpdated": "19-08-2026 | 11:55 AM IST",
+    "lastUpdated": "19-08-2026 | 01:00 PM IST",
     "maharashtra": [
         {
-            "id": "3c0cb4397e03",
+            "id": "00a164f1ee3b",
+            "feed": "esakal",
+            "title": "Pandharpur Corridor: पंढरपूर कॉरिडॉरसाठी मोठा निर्णय; बाधित व्यापारी आणि रहिवाशांच्या पुनर्वसन धोरणाला मंजुरी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T12:54:06",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/pandharpur-corridor-gets-major-approval-rehabilitation-policy-for-affected-traders-and-residents-approved-by-maharashtra-cabinet-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/09f8zifl/sudhir-jadhav-satara-21.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "4280cf530490",
             "feed": "lokmat",
-            "title": "मराठमोळा अभिनेता चढणार बोहल्यावर? लग्नाविषयी दिली मोठी हिंट, गुलशन कुमार यांच्या मुलीसोबत रंगल्या होत्या अफेअरच्या चर्चा",
+            "title": "'भिंतींवर शेवाळ, कमानींची पडझड!'; खुलताबादची ऐतिहासिक 'बनी बेगम बाग' संकटात; पर्यटकांची नाराजी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-19T11:49:57",
-            "url": "https://www.lokmat.com/filmy/television/parth-samthaan-buys-house-in-pune-speaks-about-marriage-and-responsibilities-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/parth-samthaan-buys-house-in-pune-speaks-about-marriage-and-responsibilities-34-_2026081765794.jpeg",
+            "published": "2026-08-19T12:53:09",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/moss-on-the-walls-collapse-of-historical-arches-mughal-heritage-in-peril-historic-bani-begum-garden-in-khuldabad-awaits-urgent-restoration-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bani-begam-bag-khulatabad-fea_2026081765875.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
+        },
+        {
+            "id": "7f3bfa73a923",
+            "feed": "esakal",
+            "title": "Nagpur Road Condition: सिमेंट रोडवरील उखडलेले गट्टू लावणे सुरू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T12:51:23",
+            "url": "https://www.esakal.com/vidarbha/nagpur/nagpur-zingabai-takli-godhani-cement-road-pothole-repair-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/jbmyhwus/Abhi-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         },
         {
             "id": "ad7c668a78f7",
@@ -27,175 +59,127 @@
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-19T11:48:56",
+            "published": "2026-08-19T12:49:27",
             "url": "https://www.lokmat.com/photos/maharashtra/maharashtra-anti-conversion-act-what-will-be-the-religion-of-a-child-born-from-an-illegal-marriage-know-the-important-provisions-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-anti-conversion-law-provisions-10-th1-copy_2026081765784.jpg",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-anti-conversion-law-provisions-19-th22-1_2026081765855.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "2fd6b42ccfd9",
-            "feed": "esakal",
-            "title": "Nashik Earthquake : नाशिक पुन्हा हादरलं! पेठमध्ये सकाळी भूकंपाचे धक्के,भिंतींना गेले तडे; नागरिकांमध्ये भीती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T11:41:29",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-earthquake-tremors-peth-surgana-dindori-earthquake-shocks-maharashtra-latest-news-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/j8j01l1b/nashik-earthquake.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c393f920acd4",
+            "id": "5eeadf90af14",
             "feed": "lokmat",
-            "title": "Pune politics : पुण्यात महायुतीत ‘मिठाचा खडा’...! चंद्रकांत पाटील यांच्या कामांचा हिशोब मागणे बालवडकरांना भोवले",
+            "title": "‘फ्लाईंग जिप्सी’च्या मालकाला वठणीवर आणणार;पोलिस आयुक्त अमितेश कुमार यांचा इशारा(video)",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-19T11:38:54",
-            "url": "https://www.lokmat.com/pune/pune-politics-balwadkar-was-asked-to-account-for-chandrakant-patils-work-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/2026-amol-balwadkar-chandrakant-patil_2026081765766.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "26e3425bef89",
-            "feed": "esakal",
-            "title": "Pune Accident: विजेचा धक्का बसून दोन सख्ख्या चुलत भावांचा मृत्यू; सुदैवाने आई बचावली, भावाला वाचवण्यासाठी धावला अन्..",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T11:36:31",
-            "url": "https://www.esakal.com/pune/two-cousin-brothers-die-of-electric-shock-in-daund-mother-narrowly-escapes-while-trying-to-save-her-son-from-live-current-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/7ay2fes3/sudhir-jadhav-satara-17.jpg",
+            "published": "2026-08-19T12:46:46",
+            "url": "https://www.lokmat.com/pune/will-bring-the-owner-of-flying-gypsy-to-justice-police-commissioner-amitesh-kumar-warns-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/flying-gypsy_2026081765863.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "2eae92fd1cf6",
+            "id": "375ae8502945",
             "feed": "esakal",
-            "title": "स्वामिंग पूल, हिरवीगार झाडं... वंदना गुप्तेंच्या अलिबागमधल्या बंगल्याची खास झलक; नाटकाच्या टीमचं केलं जंगी स्वागत",
+            "title": "Marathi News Live Updates : संजय राऊतांची निवडणूक आयोगावर सडकून टीका, काय म्हणाले?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-19T11:53:25",
-            "url": "https://www.esakal.com/premier/vandana-gupte-alibaug-banglow-with-swimming-pool-greenery-hosted-kutumb-kirtan-natak-team-ata-home-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/ibu1unxe/VANDANA-GUPTE.jpg",
+            "published": "2026-08-19T12:40:33",
+            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-19th-august-2026-supreme-court-decisions-paper-leak-case-shiv-sena-party-and-symbol-case-pm-cares-fund-us-president-donald-trump-voter-list-revision-chief-minister-devendra-fadnavis-rain-and-dams-maratha-reservation-manoj-jarange-patil-tribal-student-case-srk94-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "bc7c2ff4ea7e",
-            "feed": "esakal",
-            "title": "ऑफिस डेस्कसाठी पीस लिली का निवडावी?",
+            "id": "cad01f71b7d4",
+            "feed": "lokmat",
+            "title": "परवाना नाही, एनओसी नाही आणि सुरक्षेची साधनेही नाही… कोलकाताच्या हॉटेलमधील आगीत ९ बांगलादेशींचा जीव कसा गेला?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-19T12:37:25",
+            "url": "https://www.lokmat.com/national/no-license-no-noc-and-no-safety-equipment-how-did-9-bangladeshis-lose-their-lives-in-a-fire-at-a-kolkata-hotel-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/west-bengal-fire-case_2026081765846.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bc6e9641a52c",
+            "feed": "lokmat",
+            "title": "अल्लू अर्जुन-दीपिकाच्या 'राका'मध्ये लोकप्रिय हॉलिवूड स्टारची एंट्री? साकारणार खतरनाक व्हिलन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-19T11:52:48",
-            "url": "https://www.esakal.com/ampstories/web-story/why-peace-lily-is-a-good-plant-for-your-office-desk-best-indoor-plant-marathi-information-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/6ydcwt9u/Peace-Lily-4.jpg",
+            "published": "2026-08-19T12:35:43",
+            "url": "https://www.lokmat.com/filmy/south-movies/popular-hollywood-star-will-smith-to-play-villain-in-allu-arjun-deepikas-raaka-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/popular-hollywood-star-will-smith-to-play-villain-in-allu-arjun-deepikas-raaka-_2026081765831.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "72fee54af562",
+            "id": "c61406e905aa",
             "feed": "lokmat",
-            "title": "जगप्रसिद्ध अर्थतज्ज्ञाची लेक, बोल्ड भूमिकेमुळे चर्चेत आलेली अभिनेत्री; हॉलिवूडमध्येही झळकली",
+            "title": "हिमोग्लोबिन झटपट वाढविणारे ३ घरगुती पदार्थ- फक्त १ महिना खा, एनर्जी वाढून कामं उरकतील भरभर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-19T11:50:20",
-            "url": "https://www.lokmat.com/filmy/photos/bollywood/actress-nandana-sen-is-daughter-of-nobel-price-winner-indian-economist-amartya-sen-know-about-her-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nandana-sen_2026081765796.jpg",
+            "published": "2026-08-19T12:34:49",
+            "url": "https://www.lokmat.com/sakhi/photos/health/3-food-combinations-that-helps-to-increase-iron-level-how-to-improve-iron-level-traditional-food-for-iron-deficiency-a-lifestyle-diseases-photo-a602/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/food-combinations-to-increase-iron_2026081765834.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
         },
         {
-            "id": "12443a165b69",
+            "id": "5374e67d52cf",
             "feed": "lokmat",
-            "title": "Astro Tip: कुंडलीतील अष्टम भाव म्हणजे फक्त संकट की मोठी संधी? जाणून घ्या ज्योतिषातील खरा तर्क!",
+            "title": "गॅस बर्नरची छिद्र होतील मोकळी! घरातल्या ‘या’ पदार्थाने करा झटपट क्लिनिंग-सिलेंडर अनेक महिने चालेल, होईल बचत...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-19T11:49:17",
-            "url": "https://www.lokmat.com/bhakti/astro-tip-is-the-eighth-house-in-the-horoscope-just-a-crisis-or-a-big-opportunity-know-the-true-logic-of-astrology-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/astro-tip-ashtham-bhav-1_2026081765793.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "f19ad4dc5321",
-            "feed": "lokmat",
-            "title": "ज्याच्यावर प्रेम जडले, त्याच्याशीच साखरपुडा झाला; पण नंतर हुंड्याची मागणी अन्... ५ महिन्यांनंतर झाला धक्कादायक खुलासा!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T11:48:52",
-            "url": "https://www.lokmat.com/crime/the-person-she-fell-in-love-with-got-engaged-to-but-then-she-demanded-dowry-and-a-shocking-revelation-came-5-months-later-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/priyanka-singh-case-1_2026081765791.jpg",
+            "published": "2026-08-19T12:32:06",
+            "url": "https://www.lokmat.com/sakhi/social-viral/how-to-clean-gas-burner-how-to-clean-clogged-gas-burner-gas-burner-cleaning-how-to-unclog-gas-burner-holes-tips-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-clean-clogged-gas-burner_2026081765816.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "af12edc40763",
+            "id": "07f71a21d2f7",
             "feed": "lokmat",
-            "title": "आता कुठे संबंध सुधारत होते, इतक्यात इराणने पुन्हा केला मिसाईल हल्ला; संतापलेल्या युएईने व्यापारच रोखला!",
+            "title": "पाकिस्तानात सोशल मीडिया स्टारच्या जीवाला धोका?; टिकटॉकर्स आयशाच्या हत्येनंतर उभा राहिला प्रश्न",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "world"
+                "category": null
             },
-            "published": "2026-08-19T10:27:13",
-            "url": "https://www.lokmat.com/international/just-when-relations-were-improving-iran-launched-another-missile-attack-the-enraged-uae-stopped-trade-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-missile-uae-1_2026081765687.jpg",
+            "published": "2026-08-19T12:50:45",
+            "url": "https://www.lokmat.com/crime/28-year-old-social-media-star-ayesha-gilmani-shot-dead-in-pakistan-what-is-the-reason-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-aysha-gilmani-pakistan_2026081765868.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "91c3da258e24",
-            "feed": "lokmat",
-            "title": "२७१ प्रवासी आणि १६ कर्मचारी, चार टायर फुटले, विमानाच्या दोन तास आकाशात घिरट्या; व्हिएतनामच्या विमानाचा २ तास थरार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-19T10:12:28",
-            "url": "https://www.lokmat.com/international/271-passengers-and-16-crew-four-tires-burst-plane-hovers-in-the-sky-for-two-hours-2-hour-thrill-for-vietnamese-plane-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tyre-burst-vietnam-flight_2026081765661.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
             "id": "2f2ca968c3d3",
@@ -244,106 +228,122 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-19/m2dkyt9n/Central-African-Republic-gold-mine-collapse.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "b836816cfd7f",
+            "feed": "esakal",
+            "title": "किंग कोहलीचा पहिला आंतरराष्ट्रीय सामना आठवतोय का?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-18T23:54:03",
+            "url": "https://www.esakal.com/ampstories/web-story/virat-kohli-first-international-match-story-august-18-2008-india-vs-sri-lanka-dambulla-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-18/iozikqha/Virat-Kohli-First-Match-4.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "85db3cd054a6",
+            "id": "b3769d5429cc",
             "feed": "lokmat",
-            "title": "IND vs SL 1st Test: एक नो-बॉल अन् टीम इंडियाचं टेन्शन वाढलं; श्रीलंकन कर्णधाराचं अर्धशतक, जड्डूनं अशी भरून काढली चूक!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-19T11:38:09",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-gautam-gambhir-left-visibly-frustrated-after-ravindra-jadeja-no-ball-india-sri-lanka-galle-test-dhananjaya-de-silva-fifty-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dhananjaya-de-silva-fifty-ravindra-jadeja-no-ball-m-_2026081765754.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0d4620b607fa",
-            "feed": "lokmat",
-            "title": "“डोळा बंद होईना, हालचाल जाणवत नव्हती...” ‘रात्रीस खेळ चाले’ फेम अभिनेत्री करत होती गंभीर आजाराचा सामना, पहिल्यांदाच केला खुलासा",
+            "title": "उंचीमुळे करिअर लागलं होतं पणाला, अमिताभ बच्चन यांना करावा लागलेला रिजेक्शनचा सामना, सांगितला 'तो' अनुभव",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-19T11:13:07",
-            "url": "https://www.lokmat.com/filmy/television/marathi-television-actress-ratris-khel-chale-serial-fame-krutika-tulaskar-suffered-from-bells-palsy-share-her-experience-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/krutika-tulaskar_2026081765723.jpg",
+            "published": "2026-08-19T12:41:50",
+            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-actor-amitabh-bachchan-once-faced-rejection-because-of-his-height-during-early-days-of-carrer-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amitabh-bachchan-actor_2026081765839.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "2fd31f1252f0",
+            "id": "5236e1f68b6c",
             "feed": "maharashtratimes",
-            "title": "IND vs PAK : हॉकी वर्ल्ड कपमध्ये भारत-पाक आमनेसामने, पाकिस्तानला विजय आवश्यकच, सामना किती वाजता आणि कुठे पाहता येणार?",
+            "title": "IND vs SL 1st Test : ऋषभ बेजबाबदार खेळतो म्हणत कितीही नावे ठेवा पण पंत ठरलाय भारताचा कसोटी नंबर वन प्लेयर; कॅप्टन गिल, रोहित, विराट सगळेच पिछाडीवर",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-19T11:09:05",
-            "url": "https://maharashtratimes.com/sports/hockey/hocky-world-cup-2026-india-vs-pakistan-match-when-and-where-can-you-watch/articleshow/133337750.cms",
+            "published": "2026-08-19T12:40:16",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-1st-test-rishabh-pant-the-highest-run-scorer-for-india-in-the-world-test-championship/articleshow/133339682.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "03f017bd62f5",
+            "feed": "esakal",
+            "title": "IND vs SL 1st Test: \"तूझ्यात हिंमत असेल ना तर...\"; Yashasvi Jaiswal श्रीलंकेच्या फलंदाजाला भिडला, हायव्होल्टेज ड्रामा; नेमकं काय झालं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-19T12:32:23",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-if-you-have-got-the-guts-hit-a-six-yashasvi-jaiswal-provokes-dickwella-then-gets-him-out-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/f8erh1go/Yashasvi-Jaiswal-provokes-Niroshan-Dickwella-before-getting-him-out",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "982d5871a5ce",
+            "id": "9b8a38cfb0ee",
             "feed": "lokmat",
-            "title": "वंदना गुप्तेंच्या अलिबागमधील बंगल्यावर 'कुटुंब किर्रतन'च्या टीमची मेजवानी! संकर्षण कऱ्हाडेने शेअर केला व्हिडीओ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T11:41:04",
-            "url": "https://www.lokmat.com/filmy/television/vandana-gupte-alibaug-luxurious-house-kutumb-kirrtan-drama-team-party-sankarshan-karhade-video-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vandana-gupte-alibaug-luxurious-house-kutumb-kirrtan-drama-team-party-sankarshan-karhade-see-video_2026081765777.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "b93a21cdc1ee",
-            "feed": "lokmat",
-            "title": "आता एलपीजी सिलिंडरच्या झंझटीपासून होणार कायमची मुक्ती...! मोदी सरकारची मोठी घोषणा",
+            "title": "सरकारी बँकांनी आता 'कूल' बनावं! Gen Z ना आकर्षित करण्यासाठी निर्मला सीतारामन यांचा बँकांना सल्ला",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-19T11:39:10",
-            "url": "https://www.lokmat.com/photos/business/cylinder-replacement-png-gas-pipeline-big-announcement-by-modi-government-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lpg-gas_2026081765731.jpeg",
+            "published": "2026-08-19T12:50:02",
+            "url": "https://www.lokmat.com/business/banking-loans/banking-for-youth-campaign-government-banks-should-now-become-cool-nirmala-sitharamans-advice-to-banks-to-attract-gen-z-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nirmala-sitaraman-youth-banking_2026081765866.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "60562e1efe69",
+            "id": "08e3ebec3e69",
             "feed": "lokmat",
-            "title": "Pik Pahani : शेतकऱ्यांनो सावधान! पीक पाहणीच्या नावाखाली पैसे मागणाऱ्यांची आता तक्रार करा",
+            "title": "फोर्डची सर्व्हिस सेंटरही गाशा गुंडाळू लागली; १० वर्षांचा दिलेला शब्द, पाच वर्षांतच...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-19T11:38:25",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-pik-pahani-farmers-beware-report-now-those-who-ask-for-money-in-the-name-of-crop-inspection-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pik-pahani-1_2026081765738.jpg",
+            "published": "2026-08-19T12:48:11",
+            "url": "https://www.lokmat.com/auto/fords-service-center-also-started-to-fold-a-promise-made-for-10-years-broken-in-five-years-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ford-service-center-closed-news_2026081765865.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "61a8cb5cbd7a",
+            "feed": "lokmat",
+            "title": "विजय केडिया यांनी खरेदी केले एकाच कंपनीचे २०००००० शेअर्स! बातमी येताच १७ टक्क्यांनी वधारले, तुमच्याकडे आहेत का?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-19T12:42:04",
+            "url": "https://www.lokmat.com/business/news/kedia-buys-20-lakh-shares-of-zaggle-prepaid-ocean-services-rose-by-17-percent-as-soon-as-the-news-came-out-do-you-have-any-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-hr_2026081765859.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ]
 }
