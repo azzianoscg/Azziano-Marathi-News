@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "19-08-2026 | 10:48 PM IST",
+    "lastUpdated": "19-08-2026 | 11:49 PM IST",
     "maharashtra": [
+        {
+            "id": "73e84938f5be",
+            "feed": "esakal",
+            "title": "Beed Municipal Council : बीड नगरपालिकेत ‘आपसातच’ जुंपली; ठरावातील फेरबदलावरून उपनगराध्यक्ष अन् सभापती भिडले",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T23:47:14",
+            "url": "https://www.esakal.com/marathwada/clash-within-beed-municipal-council-deputy-mayor-and-committee-chairman-spar-over-changes-to-official-resolution-politics-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/klle02y5/Beed-Municipal-Council",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "f5e3c375fa85",
+            "feed": "lokmat",
+            "title": "तुकाराम मुंडे सुसाट! कुर्ला, मालाड आणि खारघर येथील आस्थापनांवर एफडीएची कारवाई, अस्वच्छतेमुळे परवाने रद्द",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T23:16:15",
+            "url": "https://www.lokmat.com/maharashtra/tukaram-munde-fda-action-against-establishments-in-kurla-malad-and-kharghar-licenses-cancelled-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fda-suspends-licences-of-3-establishments-1_2026081766471.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c07e73b5aec4",
+            "feed": "esakal",
+            "title": "कृषी विभागाचा मोठा निर्णय! आता गावागावांत १५०० रुपये मानधनावरील शेतकरी मित्र; ३० टक्के पदे महिलांसाठी राखीव; राज्यात ११,५८७ शेतकरी मित्र नेमले जाणार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T22:55:19",
+            "url": "https://www.esakal.com/maharashtra/big-decision-of-the-agriculture-department-now-there-will-be-farmer-friends-in-villages-on-an-honorarium-of-rs-1500-30-percent-posts-reserved-for-women-11587-farmer-friends-will-be-appointed-in-the-state",
+            "image": "https://cf-images.assettype.com/esakal/2025-07-23/zz38v31q/Abhi-2025-07-23T083203.944.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b207d364ce64",
+            "feed": "maharashtratimes",
+            "title": "Narendra Dabholkar Case : हायकोर्टाच्या निर्णयाला सुप्रीम कोर्टात आव्हान देणार, डॉ. हमीद दाभोलकर यांची भूमिका",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T22:52:15",
+            "url": "https://maharashtratimes.com/maharashtra/satara/hamid-dabholkar-reaction-on-bail-granted-to-accused-in-dr-narendra-dabholkar-case/articleshow/133354423.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "b71de0dfdc59",
             "feed": "lokmat",
@@ -16,73 +80,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bribe-4_2026081766469.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "22e1c5516b2f",
-            "feed": "esakal",
-            "title": "Shirur Crime : बेकायदेशीरपणे भिशी, दाम दुप्पट रक्कम करून देण्याचे अमीष; वीस कोटींहून अधिक रकमेचा अपहार, तीन महिलांसह पाचजणांविरूद्ध गुन्हा दाखल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T22:34:56",
-            "url": "https://www.esakal.com/pune/illegal-chit-fund-and-double-money-scheme-fraud-over-rupees-20-crore-allegedly-misappropriated-five-booked-including-three-women-crime-shirur-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-19/jkh0kkqr/Crime",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9069a49b687f",
-            "feed": "esakal",
-            "title": "आमदारांच्या ‘पीएं’कडून अधिकाऱ्यांकडे पैशांची मागणी? ‘तुमच्या विभागात गडबडी आहेत, साहेब तुम्हाला फैलावर घेतील, तुमची तक्रार शासनास करतील’ म्हणून...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T22:30:00",
-            "url": "https://www.esakal.com/maharashtra/mlas-ps-demand-money-from-officials-there-are-problems-in-your-department-sir-they-will-take-you-to-task-they-will-complain-about-you-to-the-government",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-19/2nwryfy6/Parliament-2026-02-19T211033.646.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "683d4ed5485c",
-            "feed": "lokmat",
-            "title": "बॉस स्कॅम प्रकरणात सिमकार्ड पुरवठा करणाऱ्यांना झारखंड, बिहारमधून अटक; सायबर पोलिसांची कारवाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T22:25:18",
-            "url": "https://www.lokmat.com/mumbai/sim-card-suppliers-arrested-from-jharkhand-bihar-in-boss-scam-case-cyber-police-take-action-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/boss-scam-case_2026081766467.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d1d779b10fcf",
-            "feed": "esakal",
-            "title": "आता सायबर गुन्हेगारांनी लंपास केलेली रक्कम परत मिळणार! ‘या’ वेबसाईटवर करावा लागणार अर्ज; ५० हजारांपेक्षा कमी रकमेसाठी लागणार नाही ‘एफआयआर’, वाचा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T22:22:30",
-            "url": "https://www.esakal.com/maharashtra/now-the-money-looted-by-cyber-criminals-will-be-returned-application-will-have-to-be-made-on-this-website-no-fir-required-for-amounts-less-than-rs-50000-read",
-            "image": "https://cf-images.assettype.com/esakal/2021-07/6f167dfe-de45-4377-89be-f9593963fb73/5.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "07ea897d1599",
+            "feed": "esakal",
+            "title": "आयुर्वेदात 'या' फळाला आहे सुपरफूडचा दर्जा!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T22:51:56",
+            "url": "https://www.esakal.com/ampstories/web-story/ayurveda-amla-indian-gooseberry-superfood-health-benefits-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/3tpv44w8/ft-6.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "2652b77bcfb8",
             "feed": "maharashtratimes",
@@ -146,22 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/img-20260819-214715_2026081766462.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "de63e0c310cd",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 20 August 2026: नीचभंग राजयोग, सर्वार्थ सिद्धि योग, चंद्राचे वृश्चिक राशीत गोचर! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-19T21:56:53",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-20-august-2026-in-marathi-neechbhang-rajyog-sarvartha-siddhi-yog-and-shubha-muhurta/articleshow/133352307.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "0ba814e27b18",
+            "feed": "maharashtratimes",
+            "title": "India vs Pakistan Hockey : टीम इंडियाने 5 धडाकेबाज गोल ठोकले अन्  पाकिस्तानला वर्ल्ड कपमधून बाहेरचा रस्ता दाखवला, सरपंच हरमनप्रीतच्या टोळीचा धुमाकूळ!",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-19T23:29:32",
+            "url": "https://maharashtratimes.com/sports/hockey/india-beat-pakistan-by-5-3-in-fih-hockey-world-cup-2026-harmanpreet-singh-abhishek/articleshow/133355542.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "6048c66f5963",
             "feed": "maharashtratimes",
             "title": "Manav Suthar Records : 10 विकेट्स, विक्रमांची रास, तरी सामनावीर पुरस्कार पडिक्कलला; मानव सुथारसोबत अन्याय झाला?",
@@ -276,22 +292,6 @@
             "published": "2026-08-19T22:12:40",
             "url": "https://www.esakal.com/krida/cricket/england-release-five-non-playing-test-squad-members-vs-pakistan-for-county-championship-round-psk96",
             "image": "https://cf-images.assettype.com/esakal/2026-08-19/zqfab9zk/England-Cricket-Team-1.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9cb902604c7e",
-            "feed": "maharashtratimes",
-            "title": "IND vs SL :  भारताकडून १६५ धावांनी पराभव; श्रीलंकेच्या हातून कुठे निसटली मॅच?   भावुक कॅप्टन डी सिल्वाने सगळं सांगितलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-19T20:47:58",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/indian-team-wins-by-165-runs-against-sri-lanka-in-first-test-dhananjaya-de-silvas-reaction/articleshow/133351337.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
