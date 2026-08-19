@@ -1,99 +1,147 @@
 {
-    "lastUpdated": "19-08-2026 | 08:51 PM IST",
+    "lastUpdated": "19-08-2026 | 09:49 PM IST",
     "maharashtra": [
         {
-            "id": "b7d9224a5cf0",
-            "feed": "lokmat",
-            "title": "फराळ म्हणजे साबुदाणा-बटाटाच नव्हे, उपवासालाही पौष्टिक बनवा",
+            "id": "8b9f92e19341",
+            "feed": "maharashtratimes",
+            "title": "Thane News : कल्याण एपीएमसीच्या माजी संचालकांचा पवारांच्या राष्ट्रवादीत प्रवेश, तर ठाण्यात उबाठा पदाधिकाऱ्याचा राजीनामा",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T21:37:02",
+            "url": "https://maharashtratimes.com/maharashtra/thane/ncp-party-workers-join-sharad-pawar-party-in-kalyan/articleshow/133352736.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1590a54b726b",
+            "feed": "esakal",
+            "title": "Manoj Jarange Patil: मनोज जरांगेंचं ठरलं! मुंबईत नव्हे अंतरवालीतच!! निर्णय का बदलला? अचानक मुंबईत जाण्याची शक्यता",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-19T20:43:10",
-            "url": "https://www.lokmat.com/amravati/snacks-are-not-just-sago-and-potatoes-make-fasting-nutritious-too-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-19-at-8.42.25-pm-1_2026081766454.jpeg",
+            "published": "2026-08-19T21:16:29",
+            "url": "https://www.esakal.com/marathwada/manoj-jarange-patil-announces-hunger-strike-at-antarwali-sarati-mumbai-maratha-reservation-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/e2pe2aq6/Latest-Marathi-Breaking-News-2026-08-19T211556.589.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "f6cfcc6c054c",
+            "id": "628725aeab1c",
+            "feed": "lokmat",
+            "title": "Amba Ghat: रस्त्यावर झोपले, गाड्या अडवल्या, पर्यटकांना शिवीगाळ; आंबा घाटात मद्यधुंद तरुणांचा धिंगाणा!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T21:12:19",
+            "url": "https://www.lokmat.com/maharashtra/drunk-youths-blocking-traffic-at-amba-ghat-sleeping-on-the-road-blocking-cars-abusing-tourists-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/drunk-youths-creating-ruckus-at-amba-ghat_2026081766458.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8860ad8593dc",
             "feed": "esakal",
-            "title": "Mumbai Crime : गर्दीच्या लोकलमध्ये महिलांच्या दागिन्यांवर डल्ला; २१ वर्षीय महिला जाळ्यात, ३.४३ लाखांचे दागिने जप्त",
+            "title": "Mumbai News : झेडपीच्या प्रश्नांवर तोडगा; आरोग्य केंद्र आणि निवासस्थानांचा मार्ग मोकळा; उपमुख्यमंत्री सुनेत्रा पवार यांच्या अध्यक्षतेखाली बैठकीत महत्त्वाचे निर्णय",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-19T20:40:43",
-            "url": "https://www.esakal.com/mumbai/jewellery-stolen-from-women-in-crowded-local-trains-21-year-old-woman-arrested-jewellery-worth-rupees-343-lakh-seized-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/pec9lenm/Jewellery-Stolen-from-Women-in-Crowded-Local-Trains-21-Year-Old-Woman-Arrested",
+            "published": "2026-08-19T21:11:08",
+            "url": "https://www.esakal.com/mumbai/zp-issues-resolved-path-cleared-for-health-centers-and-staff-quarters-key-decisions-taken-under-dcm-sunetra-pawar-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-11/ie7krpcc/Sunetra-Pawar",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6d9facff02d7",
-            "feed": "lokmat",
-            "title": "‘छात्रों की गूंज’ कार्यक्रमात सर्वांना प्रवेश, मात्र मुलींना प्राधान्य दिले जाणार - यशोमती ठाकूर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T20:40:42",
-            "url": "https://www.lokmat.com/pune/everyone-is-allowed-to-participate-in-the-chhatron-ki-goonj-program-but-priority-will-be-given-to-girls-yashomati-thakur-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-yashomati-thakur-4-s_2026081766453.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "66b48c70e8a4",
-            "feed": "lokmat",
-            "title": "विद्यार्थ्यांनी स्वतःची आवड आणि क्षमता ओळखून सामाजिक कार्यात सक्रिय सहभाग नोंदवावा, चंद्रकांत पाटील यांचं आवाहन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T20:40:24",
-            "url": "https://www.lokmat.com/maharashtra/chandrakant-patil-appeals-to-students-to-identify-their-own-interests-and-abilities-and-actively-participate-in-social-work-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chandrakant-patil-2221_2026081766452.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4b562a074572",
-            "feed": "lokmat",
-            "title": "Pune Accident: पुण्यातील नवले पुलाजवळ विचित्र अपघात, ५ ते ६ गाड्या ऐकमेकांवर आदळल्या, थरारक घटनेचा व्हिडीओ समोर!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T20:38:57",
-            "url": "https://www.lokmat.com/pune/pune-accident-strange-accident-near-navle-bridge-in-pune-5-to-6-vehicles-collided-with-each-other-video-of-the-thrilling-incident-is-out-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pune-navle-bridge-accident-video_2026081766450.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
-        {
-            "id": "375ae8502945",
+            "id": "9aa4f5d4d742",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : जातनिहाय जनगणनेच्या बाबतीत अशा प्रकारची फसवणूक का केली जात आहे? - के. सी. वेणुगोपाल",
+            "title": "Hiwarkhed Accident : पत्रकार किशोर खडे यांचा अपघातात मृत्यू; हिवरखेड-सोनाळा मार्गावर दुचाकींची समोरासमोर धडक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-19T20:43:58",
+            "published": "2026-08-19T21:06:08",
+            "url": "https://www.esakal.com/akola/journalist-kishor-khade-dies-in-road-accident-head-on-collision-between-two-bikes-on-hiwarkhed-sonala-road-accident-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/j15lmhzo/Reporter-Kishor-Khade",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "india": [
+        {
+            "id": "46ee9d92bbd9",
+            "feed": "lokmat",
+            "title": "Spurious Liquor: बनावट दारू प्यायल्यानं ५ जणांचा मृत्यू; २० जणांवर उपचार सुरू, तिघांची प्रकृती चिंताजनक!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-19T21:45:21",
+            "url": "https://www.lokmat.com/national/gujarat-bhavnagar-shoking-news-five-people-die-after-drinking-spurious-liquor-20-hospitalized-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gujarat-spurious-liquor-deaths_2026081766460.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b26d203eaa18",
+            "feed": "maharashtratimes",
+            "title": "Pankaj Bhadouria : 'कॅन्सरनं माझ्या शरीराची परीक्षा घेतली', 'मास्टर शेफ' विजेती करतेय कर्करोगाचा सामना, दिली हेल्थ अपडेट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-19T21:14:11",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/master-chef-india-winner-pankaj-bhadouria-battling-with-breast-cancer-shares-health-update/articleshow/133352227.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "85723874d197",
+            "feed": "esakal",
+            "title": "आपण स्वतःला गुदगुल्या का करू शकत नाही? वैज्ञानिक कारण जाणून व्हाल थक्क!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T21:13:34",
+            "url": "https://www.esakal.com/ampstories/web-story/why-cant-you-tickle-yourself-brain-science-self-tickling-explained-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/fzfyvn8v/1.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "375ae8502945",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : पारोळ्यात रेशनचा माल काळ्याबाजारात विक्रीचा प्रयत्न फसला",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T21:04:38",
             "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-19th-august-2026-supreme-court-decisions-paper-leak-case-shiv-sena-party-and-symbol-case-pm-cares-fund-us-president-donald-trump-voter-list-revision-chief-minister-devendra-fadnavis-rain-and-dams-maratha-reservation-manoj-jarange-patil-tribal-student-case-srk94-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
             "isBreaking": false,
@@ -114,57 +162,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "27ef4248df57",
+            "id": "7002dc74fad3",
             "feed": "maharashtratimes",
-            "title": "Dr. Ganesh Baraiya Success Story: ३ फूट उंची अन् अंगावर शहारे आणणारा संघर्ष! कोण आहेत डॉ. गणेश बारैया? ज्यांच्या जिद्दीपुढे 'बिग बी' देखील झाले नतमस्तक",
+            "title": "ट्रम्प यांची सावली, कारमध्ये जागा न मिळाल्यानं डिक्कीत उडी मारली; वादात सापडलेल्या नताली कोण?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "world"
             },
-            "published": "2026-08-19T20:38:09",
-            "url": "https://maharashtratimes.com/career/career-news/dr-ganesh-baraiya-in-kbc-success-story-worlds-shortest-doctor-2026-his-father-refusal-of-5-lakh-circus-offer/articleshow/133351518.cms",
+            "published": "2026-08-19T21:41:33",
+            "url": "https://maharashtratimes.com/international/international-news/who-is-natalie-harp-us-president-donald-trumps-executive-assistant-now-at-the-centre-of-controversy/articleshow/133353097.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
-        {
-            "id": "4710e132d754",
-            "feed": "esakal",
-            "title": "Premium|Human Nature Relationship : निसर्गाशी नातं; संशोधक, आदिवासी आणि शहरी माणसाच्या तीन वाटा, एकच गाभा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-19T20:38:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/human-nature-relationship-traditional-ecological-knowledge-forest-life-local-communities-nature-conservation-india-wildlife-environment-learning-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/glycaqtx/Abhi-35.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "ac5ae5ca4b99",
-            "feed": "esakal",
-            "title": "Shiv Sena Case Updates: शिवसेना कोणाची? सिब्बल यांच्या युक्तिवादानंतर आता देवदत्त कामत मैदानात!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-19T20:31:07",
-            "url": "https://www.esakal.com/videos/shiv-sena-case-updates-whose-party-after-sibal-arguments-devdatt-kamat-in-court",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/988b1tzk/pratibha-21.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        }
-    ],
-    "world": [
         {
             "id": "6b94d6bda331",
             "feed": "lokmat",
@@ -228,25 +244,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/women-photgrapherr_2026081766365.jpeg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "bf0e849eb91e",
+            "id": "9cb902604c7e",
             "feed": "maharashtratimes",
-            "title": "UAE vs Iran : मध्यपूर्वेत संघर्ष आणखी पेटला, यूएईनं इराणसोबत सर्व आर्थिक संबंध तोडले",
+            "title": "IND vs SL :  भारताकडून १६५ धावांनी पराभव; श्रीलंकेच्या हातून कुठे निसटली मॅच?   भावुक कॅप्टन डी सिल्वाने सगळं सांगितलं",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-08-19T15:36:47",
-            "url": "https://maharashtratimes.com/video/mt-originals/uae-vs-iran-conflict-escalate/videoshow/133344504.cms",
+            "published": "2026-08-19T20:47:58",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/indian-team-wins-by-165-runs-against-sri-lanka-in-first-test-dhananjaya-de-silvas-reaction/articleshow/133351337.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "sports": [
+            "category_reason": "feed"
+        },
         {
             "id": "fd83304c9473",
             "feed": "lokmat",
@@ -266,7 +282,7 @@
         {
             "id": "27cb1d31d564",
             "feed": "esakal",
-            "title": "Hockey World Cup, IND vs PAK: भारताकडून गोलचा पाऊस अन् पाकिस्तान आऊट! दणदणीत विजयासह हरमनप्रीतचा संघ पुढच्या फेरीत प्रवेश",
+            "title": "Hockey World Cup, IND vs PAK: भारताकडून गोलचा पाऊस अन् पाकिस्तान आऊट! दणदणीत विजयासह हरमनप्रीतचा संघ पुढच्या फेरीत",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
@@ -278,25 +294,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-19/9h8cw94b/India-Hockey-Team-4.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "09614b9aeeb3",
-            "feed": "lokmat",
-            "title": "IND vs SL: 'सामनावीर' ठरलेल्या देवदत्त पडिक्कलला बक्षीस म्हणून किती रक्कम मिळाली? आकडा पाहून बसेल धक्का",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-19T19:14:58",
-            "url": "https://www.lokmat.com/cricket/photos/ind-vs-sl-how-much-price-money-did-devdutt-padikkal-received-as-man-of-the-match-reward-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devdutt-padikkal-money_2026081766405.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "587db4d2832c",
+            "feed": "esakal",
+            "title": "Axis Bank Credit Card वापरता? नवे नियम लागू होणार; कधीपासून आणि कोणते? जाणून घ्या...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T21:21:36",
+            "url": "https://www.esakal.com/sakal-money/axis-bank-credit-card-rules-changed-new-rules-to-take-effect-from-august-28-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/nleoz1tx/Axis-Bank-Credit-Card-Holders-Must-Know-These-Changes-Coming-From-August-28.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "979e9985e0ed",
             "feed": "lokmat",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sbi-atm-shq81_2026081766438.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "a232ae5dfd3d",
-            "feed": "lokmat",
-            "title": "Mahila Shetkari : शेतीची मालकी नसलेल्या महिलांना मिळणार शेतकरी प्रमाणपत्र, 1 सप्टेंबरपासून ऑनलाईन नोंदणी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T19:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/mahila-shetkari-women-who-do-not-own-farm-will-get-farmer-certificate-online-registration-from-september-1-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mhala-sheta_2026081766360.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
