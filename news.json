@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "19-08-2026 | 03:48 PM IST",
+    "lastUpdated": "19-08-2026 | 04:46 PM IST",
     "maharashtra": [
         {
-            "id": "a33b5a120db5",
+            "id": "f82ce621edf2",
+            "feed": "esakal",
+            "title": "Latur CJP School Audit: कॉक्रोच जनता पार्टीचे संस्थापक अभिजीत दिपके उद्या लातूर दौऱ्यावर; ‘CJP चे स्कूल ठीक करो’ अभियानातून चार शाळांचे सोशल ऑडिट",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-19T16:42:49",
+            "url": "https://www.esakal.com/marathwada/abhijit-dipke-latur-district-tour-cockroach-janata-party-cjp-school-theek-karo-campaign-school-social-audit-ujani-ekambi-ausa-latur-municipal-school-26-government-schools-20-august-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/rsf5zauy/Abhi.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7ff795df0820",
             "feed": "lokmat",
-            "title": "पिझ्झामध्ये अळ्या; लोणावळ्यातील मॅप्रो गार्डनला नोटीस;‘एफएसएसएआय’कडून तपासणी",
+            "title": "Chakan MIDC : 'ऑटोमोबाइल हब'ची वाहतूक व्यवस्था कोलमडली;चाकणचा विकास की अव्यवस्थेचा विस्तार ?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-19T15:42:17",
-            "url": "https://www.lokmat.com/pune/lonavala-mapro-garden-maggots-in-pizza-notice-to-mapro-garden-in-lonavala-inspection-by-fssai-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pizza-0123_2026081766132.jpg",
+            "published": "2026-08-19T16:41:33",
+            "url": "https://www.lokmat.com/pune/chakan-midc-the-transportation-system-of-the-automobile-hub-collapsed-development-of-chakan-or-expansion-of-disorder-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/imddcc0_2026081766236.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f10b8ff65821",
-            "feed": "lokmat",
-            "title": "Sangli Crime: कुपवाडमधील खून हल्ल्यातील जखमी पतीचा मृत्यू, संशयितावर दुहेरी खुनाचा गुन्हा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T15:40:50",
-            "url": "https://www.lokmat.com/sangli/husband-injured-in-kupwad-murder-attack-dies-suspect-booked-for-double-murder-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kupwad-murder-news-photo_2026081766131.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "de751482acf6",
+            "id": "6b193467414c",
             "feed": "esakal",
-            "title": "सुरत, गुवाहाटी अन् भाजपसोबत सत्तास्थापना... शिंदे गटाच्या बंडामागे काय होतं? कपिल सिब्बलांनी सर्वोच्च न्यायालयात मांडला घटनाक्रम",
+            "title": "Manchar News : उत्कृष्ट सेवा पदकाने मंचरचे पोलीस हवालदार अमोल निघोट यांचा गौरव; केंद्रीय गृह मंत्रालयाकडून सन्मान",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-19T15:40:05",
-            "url": "https://www.esakal.com/maharashtra/shivsena-supreme-court-hearing-kapil-sibal-eknath-shinde-rebel-mlas-surat-guwahati-bjp-government-formation-anti-defection-law-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/akcthdax/Shiv-Sena-Supreme",
+            "published": "2026-08-19T16:39:26",
+            "url": "https://www.esakal.com/pune/manchar-police-constable-amol-nighot-honored-with-police-medal-for-meritorious-service-by-union-home-ministry-success-motivation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/g8lq9mhj/amol-nighot-and-vinaykumar-chaube",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7a0992c3b54c",
-            "feed": "maharashtratimes",
-            "title": "Pratap Sarnaik | मराठी शिका नाहीतर कारवाई अटळ, प्रताप सरनाईकांनी खडेबोल सुनावलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-19T15:38:12",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/learn-marathi-or-face-inevitable-actionpratap-sarnaik-issues-a-stern-warning-/videoshow/133344531.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6f95b35c0441",
+            "id": "d48e528dcfa0",
             "feed": "lokmat",
-            "title": "Chakan MIDC: चाकण एमआयडीसी आहे की, यमनगरी? २ प्रमुख मार्गांवर अडीच वर्षांत २०८ बळी, ७ महिन्यांत खड्ड्यांमुळे २०० अपघात",
+            "title": "महिला प्रवाशांसाठी सुरक्षित एसटी सेवेच्या दिशेने महत्त्वाचं पाऊल, सात दिवसांत अहवाल देण्याचे प्रताप सरनाईक यांचे निर्देश",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-19T15:37:41",
-            "url": "https://www.lokmat.com/pune/is-chakan-midc-or-yamnagari-208-deaths-in-2-and-a-half-years-on-2-major-roads-200-accidents-due-to-potholes-in-7-months-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-khadde-chakan_2026081766125.jpg",
+            "published": "2026-08-19T16:36:58",
+            "url": "https://www.lokmat.com/maharashtra/important-step-towards-safe-st-service-for-women-passengers-pratap-sarnaik-directs-to-submit-report-within-seven-days-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/st-bus-pratap-sarnaik-neelam-gorhe-1_2026081766229.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "652d89303104",
+            "feed": "esakal",
+            "title": "Baramati News : बारामतीत दक्ष नागरिक व पोलिसांच्या सतर्कतेमुळे नवजात अर्भकाचे वाचले प्राण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-19T16:36:04",
+            "url": "https://www.esakal.com/pune/vigilant-citizens-and-police-save-newborn-babys-life-in-baramati-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/yhsjl59h/New-Born-Baby-Life-Saving",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "0f51880f9d3c",
+            "id": "889646feefe2",
+            "feed": "lokmat",
+            "title": "वरुण धवनने घेतली स्वतःची शेतजमीन; म्हणाला, \"आयुष्यातील सर्वात मोठी उपलब्धी\"",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-19T16:40:56",
+            "url": "https://www.lokmat.com/filmy/bollywood/varun-dhawan-buys-a-farm-land-shares-video-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/varun-dhawan-buys-farm-land-biggest-achievement-border-2_2026081766042.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ed504b26c4b1",
+            "feed": "lokmat",
+            "title": "'बिग बॉस २०'मध्ये दिसणार मौनी रॉय? मेकर्सने ऑफर केली मोठी फी; अभिनेत्रीसोबत चर्चा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-19T16:39:47",
+            "url": "https://www.lokmat.com/filmy/television/mouni-roy-to-participate-in-bigg-boss-20-salman-khan-host-makers-approached-her-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/salman-mouni_2026081766233.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "878e06d232db",
             "feed": "esakal",
-            "title": "SBI च्या ग्राहकांना मोठा झटका! कॅश विड्रॉवलचे नियम बदलले, ४ मोफत व्यवहारांनंतर भरावा लागणार चार्ज, पण किती?",
+            "title": "काजू खाल्ल्याने शरीरात काय बदल होतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-19T15:44:51",
-            "url": "https://www.esakal.com/sakal-money/sbi-changes-cash-withdrawal-rules-15-charge-after-4-free-withdrawals-from-october-1-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/2730sycf/SBI-Customers-Will-Pay-More-for-Cash-Withdrawals-Beyond-Monthly-Free-Limit.jpg",
+            "published": "2026-08-19T16:38:16",
+            "url": "https://www.esakal.com/ampstories/web-story/what-happens-to-your-body-when-you-eat-cashews-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/g92ljszw/Cashew-Almond-or-Walnut.jpg",
             "isBreaking": false,
             "category_reason": "default"
+        },
+        {
+            "id": "32aaf3240954",
+            "feed": "lokmat",
+            "title": "Shravan 2026: सत्यम्, शिवम् आणि सुंदरम्: या तीन शब्दांमध्ये दडलंय काय? हे एकत्र म्हणण्याचे कारण काय?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-19T16:37:40",
+            "url": "https://www.lokmat.com/bhakti/shravan-2026-satyam-shivam-and-sundaram-what-is-hidden-in-these-three-words-what-is-the-reason-for-saying-them-together-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/satyam-shivam-sundaram-meaning_2026081766224.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         },
         {
             "id": "375ae8502945",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : आम्ही शिंदेंना अपात्र घोषित करू शकतो का? - न्यायमूर्ती",
+            "title": "Marathi News Live Updates : दिल्लीतील इंदिरा भवन येथे काँग्रेस कार्यकारिणीची बैठक झाली",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-19T15:42:26",
+            "published": "2026-08-19T16:37:02",
             "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-19th-august-2026-supreme-court-decisions-paper-leak-case-shiv-sena-party-and-symbol-case-pm-cares-fund-us-president-donald-trump-voter-list-revision-chief-minister-devendra-fadnavis-rain-and-dams-maratha-reservation-manoj-jarange-patil-tribal-student-case-srk94-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "f8750e12c841",
-            "feed": "lokmat",
-            "title": "Shravan Special : ना खवा, ना दूध! चणे भाजून चटकन करा पौष्टिक पेढे - श्रावणसणासाठी झटपट गोड पदार्थ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T15:42:02",
-            "url": "https://www.lokmat.com/sakhi/food/how-to-make-pedha-from-roasted-chana-roasted-gram-pedha-recipe-roasted-chana-pedha-recipe-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-make-pedha-from-roasted-chana_2026081764941.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "df91978c784a",
-            "feed": "lokmat",
-            "title": "६० वर्षांच्या ‘जुंटा हाऊस’वर हातोडा? पणजीत कॅसिनो-हॉटेलच्या प्रस्तावावरून वाद",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T15:39:45",
-            "url": "https://www.lokmat.com/goa/will-junta-house-be-demolished-threat-looms-over-the-60-year-old-historic-building-a-a1016/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/junata-house-goa-18-june-road-old-building_2026081766127.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "12383bb86a2d",
-            "feed": "lokmat",
-            "title": "विधानसभा अध्यक्षांना कागदपत्रे देताना केलेली 'ती' चूक शिंदेसेनेला भोवणार?; सिब्बलांचा मोठा दावा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-19T15:39:28",
-            "url": "https://www.lokmat.com/national/eknath-shinde-vs-uddhav-thackeray-shivsena-symbol-case-will-shinde-sena-be-blamed-for-that-mistake-made-while-giving-documents-to-the-assembly-speaker-kapil-sibal-big-claim-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kapil-sibal-in-coiurt-ss-19-august_2026081766129.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "9348135a497b",
+            "feed": "lokmat",
+            "title": "पाकिस्तानच्या ल्यारीमध्ये रंगली गाढवांची शर्यत, विजेत्या गाढवाचा आनंद गगनात मावेना; पाहा भन्नाट VIDEO",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-19T15:53:10",
+            "url": "https://www.lokmat.com/social-viral/pakistan-lyari-karachi-donkey-cart-race-viral-video-tradition-social-media-trending-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-donkey-1908_2026081766139.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "52028b728e2a",
             "feed": "lokmat",
@@ -228,120 +244,104 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "ec9323cf3873",
-            "feed": "esakal",
-            "title": "Premium|SBNR : हल्ली लोकं Spirituality कडे का वळतायेत.? नुकतंच प्रसिद्ध झालेलं जागतिक संशोधन काय सांगतंय.?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-19T09:01:00",
-            "url": "https://www.esakal.com/premium-article/spiritual-but-not-religious-yoga-meditation-global-research-sbnrexplained-in-marathi-sk88",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/1hzw2bo0/Spirituality-really-helps-for-mental-peace",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "ce9e30094c49",
+            "id": "066108dc076e",
+            "feed": "esakal",
+            "title": "Yashasvi Jaiswal : मी तुला IPLमध्ये घेऊन जाईन! यशस्वीने live मॅचमध्ये श्रीलंकन फलंदाजाला दिली ऑफर, Video ने खळबळ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-19T16:44:23",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-1st-test-yashasvi-jaiswal-niroshan-dickwella-live-match-chat-goes-viral-ipl-offer-steals-the-show-video-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/4dtmm957/Yashasvi-Jaiswal-and-Niroshan-Dickwella-chat-viral-video",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2bfacdfd8707",
             "feed": "lokmat",
-            "title": "\"पिक्चर अभी बाकी है...\" पंतची कॅप्टन गिलला धोबीपछाड; WTC मध्ये बनला 'नंबर वन' भारतीय!",
+            "title": "Manav Suthar Record : एकाच षटकात ३ विकेट्स अन् मॅचचा ट्विस्ट संपला; १० विकेट्सचा डाव साधत मानव सुथारचा खास विक्रम!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-19T15:34:59",
-            "url": "https://www.lokmat.com/cricket/photos/ind-vs-sl-rishabh-pant-wtc-record-surpasses-shubman-gill-most-runs-in-icc-world-test-championship-by-indian-batter-list-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/most-runs-in-icc-world-test-championship-by-indian-batter-m-7_2026081766116.jpg",
+            "published": "2026-08-19T16:34:27",
+            "url": "https://www.lokmat.com/cricket/news/india-600th-test-manav-suthar-took-10-wickets-against-sri-lanka-after-axar-patel-hirwani-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-600th-test-manav-suthar-took-10-wickets-m-_2026081766215.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "2f6665c51940",
+            "id": "b1c90387b4ed",
             "feed": "esakal",
-            "title": "IND vs SL 1st Test: सामन्यात १० विकेट्स, तरी मानव सुथारला POM चा पुरस्कार नाही! कोण ठरला सर्वोत्तम खेळाडू अन् का?",
+            "title": "ENG vs PAK 1st Test: अरे काय हे! ०.१ चेंडूवर पाकिस्तानची विकेट, कपिल देव यांनी ४३ वर्षांपूर्वी दिलेला असा धक्का, आता... Video Viral",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-19T14:36:02",
-            "url": "https://www.esakal.com/krida/cricket/devdutt-padikkal-wins-player-of-the-match-award-against-sri-lanka-why-didnt-manav-suthar-win-pom-despite-his-10-wicket-haul-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-19/nv1hsczz/Why-Manav-Suthar-did-not-win-Player-of-the-Match-despite-10-wickets",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c09e4ea88027",
-            "feed": "maharashtratimes",
-            "title": "IND vs SL 1st Test : भारताचा 600 व्या ऐतिहासिक सामन्यात दणदणीत विजय; मानव सुतारच्या 10 विकेट, सामनावीर कोण?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-19T14:15:02",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-1st-test-india-won-by-165-runs-ind-vs-sl-galle-test-cricket-match-sri-lanka-tour/articleshow/133342337.cms",
-            "image": "",
+            "published": "2026-08-19T16:17:17",
+            "url": "https://www.esakal.com/krida/cricket/eng-vs-pak-1st-test-ollie-robinson-strikes-on-the-first-ball-get-azan-awais-repeats-kapil-devs-43-year-old-feat-video-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/54xbvquu/ENG-vs-PAK-1st-Test-Ollie-Robinson-first-ball-wicket",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "8d2c88db5dc0",
+            "id": "6ffd3a3d0d51",
             "feed": "lokmat",
-            "title": "रॉयल एनफिल्डने लॉन्च केले Classic 350 चे Gorkha Edition; जाणून घ्या किंमत अन् फीचर्स...",
+            "title": "शेअर बाजारात घसरणीचे सत्र कायम; सेन्सेक्स ३२५ अंकांनी घसरला तर निफ्टी २४,०७८ वर बंद",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T15:33:05",
-            "url": "https://www.lokmat.com/photos/auto/royal-enfield-launches-gorkha-edition-of-classic-350-know-the-price-and-features-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/re-classic-gorakha_2026081766113.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e6a20461c0af",
-            "feed": "maharashtratimes",
-            "title": "Who is Naiyya Saggi: 'नोकरी सोडून काय करशील?' पोरीनं अब्जावधींच्या तीन-तीन कंपन्या सुरू केल्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-19T15:26:00",
-            "url": "https://maharashtratimes.com/business/business-news/success-story-of-naiyya-saggi-harvard-mba-graduate-who-built-three-companies-worth-more-than-1-billion-dollar/articleshow/133343825.cms",
-            "image": "",
+            "published": "2026-08-19T16:31:38",
+            "url": "https://www.lokmat.com/business/stock-market/stock-market-falls-again-sensex-falls-by-325-points-nifty-closes-at-24078-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/market-falls-19-aug_2026081766214.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bb5facd5b169",
+            "id": "41da626a78f3",
             "feed": "lokmat",
-            "title": "१८ गुंठ्यांत १५ टन आले उत्पादनातून कमावले तब्बल १८.५० लाख; वाचा कोरेगावच्या शेतकऱ्याची यशोगाथा",
+            "title": "कृषि यांत्रिकीकरण योजनेसाठी 4 कोटी निधी वितरणास मंजुरी, अनुदान अडकलेल्यांना लाभ मिळणार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-19T15:22:15",
-            "url": "https://www.lokmat.com/agriculture/success-story/earned-rs-1850-lakhs-from-producing-15-tons-of-ginger-in-18-gunthas-read-the-success-story-of-a-farmer-from-koregaon-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aale-utpadan-story_2026081765972.jpeg",
+            "published": "2026-08-19T16:25:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/approval-for-distribution-of-4-crore-funds-for-agricultural-mechanization-scheme-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/krishi-mech_2026081766079.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7e349013d941",
+            "feed": "lokmat",
+            "title": "लाईट गेली तरी १० तास चालणार पंखा...! नवा BLDC फॅन लाँच, कोणत्या कंपनीने आणला असेल बरे...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-19T16:18:10",
+            "url": "https://www.lokmat.com/tech/rechargeable-battery-ceiling-fan-even-if-the-light-goes-out-the-fan-will-run-for-10-hours-new-bldc-fan-launched-which-company-brought-it-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/orient-battery-rechargable-fan-2_2026081766186.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
