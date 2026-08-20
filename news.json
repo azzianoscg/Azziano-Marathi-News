@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "20-08-2026 | 11:53 PM IST",
+    "lastUpdated": "21-08-2026 | 12:53 AM IST",
     "maharashtra": [
+        {
+            "id": "b0c49163d3be",
+            "feed": "lokmat",
+            "title": "लातूर आरटीओ कार्यालयात सहाय्यक मोटार वाहन निरीक्षकास मारहाण, खाजगी एजंटावर गुन्हा दाखल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T00:24:33",
+            "url": "https://www.lokmat.com/latur/assistant-motor-vehicle-inspector-beaten-up-at-latur-rto-office-case-registered-against-private-agent-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/latur-rto-office-assault_2026081767329.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "64675086bb76",
+            "feed": "lokmat",
+            "title": "Nagpur Bomb Threat Case: शैक्षणिक संस्थांसह १९ ठिकाणी बॉम्ब ठेवल्याची धमकी, आरोपींचा शोध घेण्यासाठी जीमेलची मदत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-21T00:13:15",
+            "url": "https://www.lokmat.com/nagpur/gmail-also-tries-to-find-the-person-threatening-schools-searches-on-the-dark-web-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-bomb-threat_2026081767327.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "41845b0bcd69",
+            "feed": "esakal",
+            "title": "सोलापुरात ७८ वर्षीय वृद्धेची फसवणूक! ‘आमच्या साहेबाला ५ मुलीनंतर मुलगा झालाय, त्यामुळे मोफत साड्या वाटप सुरू आहे’ सांगून दुचाकीस्वार दागिने घेऊन पसार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T23:57:00",
+            "url": "https://www.esakal.com/maharashtra/a-78-year-old-woman-was-cheated-in-solapur-a-bike-rider-took-away-her-jewellery-saying-our-boss-has-a-son-after-5-daughters-so-he-is-distributing-free-sarees",
+            "image": "https://cf-images.assettype.com/esakal/2021-09/3a9d70bd-10a0-4fbd-a8f6-d7f789effeb5/eSakal___2021_08_09T070840_159.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "b45e27fb5265",
             "feed": "lokmat",
@@ -32,54 +80,6 @@
             "image": "https://cf-images.assettype.com/esakal/2021-04/2cf19c76-fbc8-4dc7-8cb9-8baa6aea8334/rain_sakal.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "01f3e4f15062",
-            "feed": "maharashtratimes",
-            "title": "Government Action : कर्तव्यात कसूर महागात, गटशिक्षणाधिकारी आणि मुख्याध्यापक निलंबित",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T22:54:58",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/lapse-in-educational-duties-education-officer-and-headmaster-suspended-in-kannad/articleshow/133384253.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "32ac204fa14d",
-            "feed": "esakal",
-            "title": "Pune BJP-NCP Clash: भाजप नेते गणेश बिडकर यांचे सुनेत्रा पवारांना पत्र; अमोल बालवडकरांवर ‘अहंकारी, हेकेखोर’ आरोप, विकास निधी रोखल्याचा वाद पेटला",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T22:45:18",
-            "url": "https://www.esakal.com/pune/pune-politics-ganesh-bidkar-complaint-against-amol-balwadkar-arrogant-stubborn-sunetra-pawar-devendra-fadnavis-ravindra-chavan-murlidhar-mohol-chandrakant-patil-bjp-ncp-pune-municipal-corporation-fund-row-suhas-tingre-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/v7yfxh2k/Esakal-18.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7eee83953000",
-            "feed": "lokmat",
-            "title": "गोरगरीब आदिवासी विद्यार्थ्यांचे शिक्षण केवळ वसतिगृह प्रवेशाअभावी थांबू नये- डॉ. अशोक उईके",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-20T22:41:26",
-            "url": "https://www.lokmat.com/chandrapur/chandrapur-tribal-students-hostel-admission-education-of-poor-tribal-students-should-not-stop-just-due-to-lack-of-hostel-admission-dr-ashok-uike-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chandrapur-tribal-students-hostel-admission_2026081767321.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
@@ -102,7 +102,7 @@
         {
             "id": "8461298c6bce",
             "feed": "lokmat",
-            "title": "मोहालीमध्ये मोठी दुर्घटना! बांधकामाधीन इमारत कोसळली, ६ कामगार ढिगाऱ्याखाली अडकल्याची भिती, बचावकार्य सुरू",
+            "title": "मोहालीमध्ये मोठी दुर्घटना! बांधकामाधीन इमारत कोसळली, दोन कामगारांचा मृत्यू, एक जखमी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
