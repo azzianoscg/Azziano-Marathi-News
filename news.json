@@ -1,82 +1,82 @@
 {
-    "lastUpdated": "20-08-2026 | 09:56 AM IST",
+    "lastUpdated": "20-08-2026 | 10:51 AM IST",
     "maharashtra": [
         {
-            "id": "a8b6d7195179",
+            "id": "cb3b75a8f4c0",
+            "feed": "lokmat",
+            "title": "कपडे वाळत घालण्याच्या तारेत उतरला वीजप्रवाह; दोन चुलत भावांचा दुर्दैवी मृत्यू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T10:47:11",
+            "url": "https://www.lokmat.com/pune/pune-news-two-cousins-die-after-being-electrocuted-by-clothes-drying-wire-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahu-nn_2026081766531.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d9f10bf4e7a5",
+            "feed": "lokmat",
+            "title": "नथुराम आणि गोपाळ गोडसे हे राष्ट्रीय स्वयंसेवक संघाचे कार्यकर्ते होते; सात्यकी सावरकर यांचा न्यायालयात दावा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T10:45:43",
+            "url": "https://www.lokmat.com/pune/nathuram-and-gopal-godse-were-rss-activists-satyaki-savarkar-claims-in-court-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-pun0_2026081766530.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e4622d6e4354",
+            "feed": "lokmat",
+            "title": "गुन्हा दाखल झाल्याने नैराश्य! पुण्यात राष्ट्रीय खो-खोपटूने उचलले टोकाचे पाऊल; नेमकं काय घडलं?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T10:43:32",
+            "url": "https://www.lokmat.com/pune/despair-after-a-case-was-filed-national-kho-khopattu-took-extreme-steps-in-pune-what-exactly-happened-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kho-kho-00_2026081766527.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "64173c7aa56a",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : डॉ .नरेंद्र दाभोलकर  यांच्या १३ व्या स्मृतिदिनानिमित्त अंनिसकडून शिंदे पुलावर अभिवादन",
+            "title": "Mumbai Local: मध्य रेल्वेवर लोकलचा खोळंबा! एकामागोमाग दोन अपघात; एकाची धावत्या लोकलमधून उडी, तर दुसरा गाडीखाली पडून जखमी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-20T09:45:46",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-20-august-2026-latest-news-india-supreme-court-rbi-inflation-india-gold-rate-today-petrol-diesel-price-monsoon-update-imd-weather-updatemaharashtra-breaking-news-mumbai-pune-maharashtra-rain-alert-mumbai-rain-pune-rain-marathi-language-test-maharashtra-politics-devendra-fadnavis-pratap-sarnaik-shivsena-abhijit-dipke-cjp-sugar-rate-monsoon-update-ymk86-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-20T10:43:08",
+            "url": "https://www.esakal.com/mumbai/central-railway-mumbai-local-train-services-disrupted-due-to-accident-one-end-his-life-by-jump-from-running-train-and-other-injured-after-falling-in-thane-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-18/jupdy2i9/mumbai-local-.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f40754935903",
-            "feed": "esakal",
-            "title": "FDA Action: तुकाराम मुंढेंचा अ‍ॅक्शन मोड सुरूच! मालाड, कुर्ला, खारघरमधील  खाद्य आस्थापनांवर एफडीएची कारवाई",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T09:41:58",
-            "url": "https://www.esakal.com/mumbai/tukaram-mundhe-action-mode-fda-suspended-licenses-and-registrations-of-food-establishments-in-malad-kurla-and-kharghar-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-02/x9cqbdzd/Abhi.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4a8cb1b4cabc",
-            "feed": "esakal",
-            "title": "Shiv Sena: \"आम्ही शिंदेंना अपात्र ठरवू शकतो का?\"; सुप्रीम कोर्टाने थेट विचारलं, नार्वेकरांचा आदेशही रद्द केला जाऊ शकतो",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T09:41:35",
-            "url": "https://www.esakal.com/maharashtra/shiv-sena-row-supreme-court-justice-bagchi-asked-devadatt-kamat-can-disqualify-eknath-shinde-mla-uddhav-thackeray-speaker-decision-anti-defection-law-dhanush-baan-election-commission-maharashtra-politics-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/92ydn8o0/Supreme-Court-hearing-in-the-Shiv-Sena-dispute-over-the-disqualification-of-Eknath-Shinde-and-other-MLAs.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "49d377de0c25",
+            "id": "6a12f7b57b1f",
             "feed": "maharashtratimes",
-            "title": "MBBS, BDS admission 2026: वैद्यकीय प्रवेशासाठी अर्जनोंदणीस मुदतवाढ; 'सीईटी सेल'कडून एमबीबीएस, बीडीएसचे सुधारित वेळापत्रक जाहीर!",
+            "title": "Pune News: पुण्यात प्रसूतीदरम्यान महिलेचा मृत्यू, काही क्षणांत बाळानेही गमावला जीव; रुग्णालयावर गंभीर आरोप, नातेवाईक संतापले!",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-20T09:31:01",
-            "url": "https://maharashtratimes.com/career/career-news/maharashtra-neet-ug-mbbs-bds-admission-revised-schedule-2026/articleshow/133363537.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "948ab10a566f",
-            "feed": "maharashtratimes",
-            "title": "Abhijeet Dipke On Thalapathy Vijay | अभिजीत दिपकेंकडून थलपती सरकारला संवैधानिक अधिकारांची आठवण",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-20T09:28:41",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/abhijit-dipkes-reaction-to-vijay-thalapathy/videoshow/133363716.cms",
+            "published": "2026-08-20T10:42:55",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/death-of-woman-and-newborn-during-delivery-in-pune-serious-allegations-against-maymar-hospital/articleshow/133364892.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -84,87 +84,103 @@
     ],
     "india": [
         {
-            "id": "527a72481b29",
+            "id": "ef39d62a4a09",
+            "feed": "lokmat",
+            "title": "\"त्याच्या लघवीतून रक्त आलं आणि...\"; इमरान हाश्मीच्या अवघ्या ३ वर्षांच्या लेकाला झालेला कॅन्सर, अभिनेत्याचा भावुक अनुभव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-20T10:47:28",
+            "url": "https://www.lokmat.com/filmy/bollywood/emraan-hashmi-3-year-old-son-diagnosed-with-cancer-actor-says-he-had-blood-in-his-urine-and-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/emraan-hashmi-3-year-old-son-diagnosed-with-cancer-actor-says-he-had-blood-in-his-urine-and..._2026081766528.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ceacae3c825c",
+            "feed": "lokmat",
+            "title": "सोनम वांगचुक पुन्हा सक्रिय! गृह मंत्रालयासोबत बैठक; केंद्राला 'नॉन-नेगोशिएबल' मागण्यांची यादी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-20T10:45:41",
+            "url": "https://www.lokmat.com/national/sonam-wangchuk-active-again-visit-to-home-ministry-list-of-non-negotiable-issues-given-to-the-center-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sonam-wangchuk_2026081766519.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "04356f3b1ab3",
+            "feed": "maharashtratimes",
+            "title": "Aishwarya Narkar Real Name : आठल्येंची लेक झाली नारकरांची सून, पतीनं नव्हे तर नणंदेनं ठेवलं नवीन नाव, पण माहेरचं नाव माहित्येय का?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-20T10:41:26",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/aishwarya-narkar-shared-name-change-story-after-wedding/articleshow/133364237.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "02a91eb67448",
+            "feed": "lokmat",
+            "title": "'वादळवाट'वेळी आमच्यात कोल्ड वॉर होतं..., अभिनेत्री अदिती सारंगधरचं नीलम शिर्केबद्दल वक्तव्य",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-20T10:31:49",
+            "url": "https://www.lokmat.com/filmy/television/aditi-sarangdhar-reveals-there-was-cold-war-between-her-and-neelam-shirke-during-vadalvaat-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aditi-nilam_2026081766523.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3f93ff0ec486",
             "feed": "esakal",
-            "title": "रजनीकांतांचा जलवा; रिलीजआधीच ‘जेलर 2’ने केली 160 कोटींची कमाई",
+            "title": "Gold Rate Today: सोन्याच्या भावाने ग्राहकांना रडवलं! सोनं 16 हजारांनी महागलं; आता 10 ग्रॅम कितीला? पाहा ताजा भाव",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-20T09:47:36",
-            "url": "https://www.esakal.com/premier/rajinikanths-jailer-2-ott-deal-worth-rs-160-crore-before-theatrical-release-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/xa3lou2e/RAJINIKANTH-JAILER-2",
+            "published": "2026-08-20T10:30:29",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/gold-rate-today-gold-price-increased-by-16000-latest-10-gram-gold-price-india-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/56lljv7e/Copy-of-Copy-of-banner-2026-08-20T102531.203.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "623adc374fd1",
-            "feed": "lokmat",
-            "title": "नारळीपौर्णिमा २०२६: महाराष्ट्रात नारळी पाैर्णिमेला केले जाणारे ५ पारंपरिक गोड पदार्थ, कोकणापासून विदर्भापर्यंत खास पक्वान्नं",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-20T09:45:01",
-            "url": "https://www.lokmat.com/sakhi/photos/food/narali-pornima-special-food-5-foods-of-narali-pournima-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-19-at-16.34.03_2026081766301.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "7ea989607de2",
-            "feed": "maharashtratimes",
-            "title": "आजीच्या पारंपरिक पद्धतीने बनवा विस्मरणात गेलेली खुसखुशीत गुळाच्या सांजोरी,१ आठवडा टिकणाऱ्या सांजोऱ्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-20T09:35:25",
-            "url": "https://maharashtratimes.com/lifestyle-news/home-decor-hacks/how-to-make-sanjori-traditional-recipe/articleshow/133363814.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "99de2f926220",
-            "feed": "lokmat",
-            "title": "कपभर चणाडाळ आणि पोह्यांचा खमन ढोकळा, इतका हलका आणि मऊ की मुलंही म्हणतील हाच डबा बेस्ट!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-20T09:30:03",
-            "url": "https://www.lokmat.com/sakhi/food/chana-dal-poha-khaman-dhokla-recipe-at-home-instant-khaman-dhokla-recipe-soft-and-spongy-khaman-dhokla-recipe-soft-khaman-dhokla-without-besan-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/30-minute-khaman-dhokla-recipe_2026081766270.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "c300c4ff88b5",
-            "feed": "maharashtratimes",
-            "title": "Aadesh Bandekar On Pooja Birari : सासरा कमी बाबाच जास्त झालोय, घरात लेक असल्याचा आनंद; सूनबाईंबद्दल भरभरून बोलले सासरेबुवा आदेश बांदेकर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-20T09:29:30",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/aadesh-bandekar-shared-about-how-life-changes-when-pooja-birari-become-daughter-in-law/articleshow/133363180.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         }
     ],
     "world": [
+        {
+            "id": "4adf4ba78008",
+            "feed": "lokmat",
+            "title": "मुंबईतील २ डॉक्टरांनी जिनांचा आजार जगापासून लपवून ठेवला, म्हणून...; पाकिस्तान देणार सर्वोच्च नागरी सन्मान 'निशान-ए-इम्तियाज'",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-20T09:51:11",
+            "url": "https://www.lokmat.com/international/muhammad-ali-jinnah-illness-secret-doctors-2-mumbai-doctors-hid-jinnahs-illness-from-the-world-so-pakistan-to-award-highest-civilian-honour-nishan-e-imtiaz-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mohammad-ali-jinnah-3_2026081766507.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "692775d79a5e",
             "feed": "lokmat",
@@ -214,136 +230,120 @@
             "category_reason": "feed"
         },
         {
-            "id": "49260d6d7c93",
-            "feed": "lokmat",
-            "title": "स्पेसएक्स रॉकेटची धडक; नासाकडून फोटो जारी, रॉकेट कोसळून चंद्रावर १८ मीटर रुंद खड्डा",
+            "id": "7002dc74fad3",
+            "feed": "maharashtratimes",
+            "title": "ट्रम्प यांची सावली, कारमध्ये जागा न मिळाल्यानं डिक्कीत उडी मारली; वादात सापडलेल्या नताली कोण?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-08-20T07:17:24",
-            "url": "https://www.lokmat.com/international/spacex-rocket-crashes-nasa-releases-photos-leaving-18-meter-wide-crater-on-the-moon-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/spacex-nasa-moon_2026081766482.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "47a72f7bfb03",
-            "feed": "lokmat",
-            "title": "स्वत:च्या आयुष्याबद्दल लिहिणे मला सोपे नव्हते: सोनिया गांधी, आत्मचरित्राबद्दल भावपूर्ण विचार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-20T06:27:21",
-            "url": "https://www.lokmat.com/international/it-was-not-easy-for-me-to-write-about-my-own-life-said-sonia-gandhi-an-emotional-thoughts-on-autobiography-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/new-project-2022-08-23t075934.704_202208871366.jpg",
+            "published": "2026-08-19T21:41:33",
+            "url": "https://maharashtratimes.com/international/international-news/who-is-natalie-harp-us-president-donald-trumps-executive-assistant-now-at-the-centre-of-controversy/articleshow/133353097.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "17c0c5cb5f5f",
+            "id": "ba66b185d7f4",
             "feed": "esakal",
-            "title": "ENG VS PAK 1ST TEST: तुला पाच, मला पाच! इंग्लंडच्या गोलंदाजांचा कहर, पाकिस्तानचे बारा वाजवले; पहिल्याच दिवशी जागेवर आपटले...",
+            "title": "Manav Suthar: मानव सुथारचा धुमाकूळ! ९३ वर्षांनंतर ऐतिहासिक विक्रमाची बरोबरी, अश्विन-हरभजनच्या पंक्तीतही मिळवलं मानाचं स्थान",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-20T09:41:51",
-            "url": "https://www.esakal.com/krida/cricket/eng-vs-pak-1st-test-five-for-josh-tongue-five-for-ollie-robinson-england-bowl-out-pakistan-for-171-video-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/ci2znmyk/Josh-Tongue-Ollie-Robinson-five-wickets",
+            "published": "2026-08-20T10:51:24",
+            "url": "https://www.esakal.com/krida/cricket/manav-suthar-historic-record-india-vs-sri-lanka-test-10-wickets-93-year-old-mohammed-nissar-record-galle-test-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/3v38ps3v/manav-suthar.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f2efabd142dc",
-            "feed": "esakal",
-            "title": "Lakshya Sen: पहिला गेम जिंकूनही लक्ष्य सेनचा धक्कादायक पराभव! १८ वर्षीय गॅरेट टॅनने कमबॅक करत भारतीय स्टारचं आव्हान केलं संपुष्टात",
+            "id": "89813a0ea906",
+            "feed": "maharashtratimes",
+            "title": "IND vs SL : कोणाच्या लक्षात आलं नाही पण  श्रीलंकेच्या कर्णधाराने पराभवासाठी तिसऱ्याच खेळाडूचं घेतलं नाव, कोण आहे मॅचविनर?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
             },
-            "published": "2026-08-20T09:40:12",
-            "url": "https://www.esakal.com/krida/lakshya-sen-bwf-world-championships-2026-garrett-tan-defeat-badminton-news-india-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/8e6fp7gk/laksha-sen.jpg",
+            "published": "2026-08-20T10:22:24",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-test-srilanka-team-captain-dhananjay-de-silva-big-statement-about-kl-rahul-after-match/articleshow/133364243.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "99af0e847ca4",
+            "id": "e5e13c27467e",
             "feed": "esakal",
-            "title": "R. Praggnanandhaa: प्रज्ञानंदचा विजय अन् फायनलचं तिकीट पक्कं! मॅक्सिम लॅगरेव्हला पराभूत करत भारतीय स्टारने रचला मोठा इतिहास",
+            "title": "IND vs SL 2nd Test: भारताच्या Playing XI मध्ये दुसऱ्या कसोटीत 'खतरनाक'ऑल राऊंडरचे पदार्पण नक्की; गंभीर कोणाला बाहेर बसवणार?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-08-20T09:32:58",
-            "url": "https://www.esakal.com/krida/r-praggnanandhaa-sinquefield-cup-2026-grand-chess-tour-final-qualification-maxime-lagarde-chess-news-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/rxrueks5/r-pradyannanad.jpg",
+            "published": "2026-08-20T10:10:44",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-2nd-test-india-playing-xi-prediction-kuldeep-yadav-likely-out-saransh-jain-set-for-test-debut-in-colombo-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/zdwry0ua/IND-vs-SL-2nd-Test-India-Playing-XI-prediction",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "4c7d31d18ad1",
+            "id": "bd4b8209d08b",
             "feed": "lokmat",
-            "title": "गॅस सिलिंडर बुकिंगची कटकट आता मिटणार; केंद्र सरकार १ सप्टेंबरपासून सुरु करणार 'ही' नवीन योजना",
+            "title": "Beekeeping Project : मधमाश्यांच्या पेट्यांतच शेतकऱ्यांना डंख! ८१ हजारांऐवजी १.३५ लाखांची वसुली; प्रकल्पावर प्रश्नचिन्ह",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-20T09:46:17",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/the-hassle-of-booking-gas-cylinders-will-now-be-over-central-government-will-start-this-new-scheme-from-september-1-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cylinder-book_2026081766491.jpeg",
+            "published": "2026-08-20T10:50:42",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-beekeeping-project-farmers-get-stung-in-the-bee-hives-recovery-of-135-lakhs-instead-of-81-thousand-question-mark-on-the-project-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hoeybean-1_2026081766536.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "f4f5589ab6b9",
+            "id": "58b1b14b972f",
+            "feed": "lokmat",
+            "title": "टेलिकॉम कंपन्यांनी न सांगताच धाड टाकली, आता पुन्हा सांगून टाकणार; मोबाईल रिचार्ज पुन्हा १६ टक्क्यांनी महागणार?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-20T10:49:10",
+            "url": "https://www.lokmat.com/tech/mobile-recharge-price-hike-2026-airtel-jio-telecom-companies-made-a-surprise-attack-now-they-will-say-it-again-mobile-recharge-will-become-expensive-by-16-percent-again-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jio-airtel-vi-mobile-recharge-price-hike-1_2026081766534.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "660ee2d65766",
             "feed": "maharashtratimes",
-            "title": "Gold-Silver Rate Today : सोने-चांदीत दरवाढीचे संकेत? सणासुदीच्या तोंडावर सराफा बाजारातील दरांचा यु-टर्न, FOMC मिनट्सचा परिणाम",
+            "title": "8th Pay Commission लागू होण्याआधीच केंद्रीय अधिकाऱ्यांसाठी आनंदवार्ता! प्रमोशनविना मिळणार बंपर पगार, कसा वाढेल पगार?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-20T09:42:41",
-            "url": "https://maharashtratimes.com/business/business-news/gold-silver-price-today-20-august-2026-bullion-market-rates-take-u-turn-ahead-of-festive-season-fomc-minutes-released/articleshow/133363344.cms",
+            "published": "2026-08-20T10:48:09",
+            "url": "https://maharashtratimes.com/business/business-news/central-govt-employees-will-get-bumper-pay-hike-without-promotion-under-nfu-ahead-of-8th-pay-commission-implementation/articleshow/133364416.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "11c67cbc0f47",
-            "feed": "lokmat",
-            "title": "Mosambi Market : मोसंबीचे आगारच संकटात! जालन्यात दर कोसळले; शेतकऱ्यांना प्रतिटन फक्त १२ ते १८ हजार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-20T09:38:16",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-mosambi-market-mosambi-warehouses-are-in-crisis-prices-have-collapsed-in-jalna-farmers-get-only-12-to-18-thousand-per-ton-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mosambi-market-11111_2026081766500.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
