@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "21-08-2026 | 03:46 AM IST",
+    "lastUpdated": "21-08-2026 | 04:46 AM IST",
     "maharashtra": [
         {
             "id": "b0c49163d3be",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "cf39654cdb31",
+            "feed": "lokmat",
+            "title": "चौधरी चरणसिंह : शेतकऱ्यांच्या हक्कांसाठी आयुष्य वेचले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T04:36:24",
+            "url": "https://www.lokmat.com/manthan/chaudhary-charan-singh-he-sacrificed-his-life-for-the-rights-of-farmers-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chaudhary-charan-singh-lokmat_2026081767331.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "b40b5c174cd7",
             "feed": "maharashtratimes",
             "title": "<b>पंचांग 21 August 2026: जराजिवंतिका पूजन,त्रिकोण योग,सर्वार्थ सिद्धि योग,रवि योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
@@ -146,22 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-20/ar6ao9bx/Parents-Favorite-Child.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "df4446988507",
-            "feed": "esakal",
-            "title": "Mehbooba Mufti: जम्मू काश्मीर भरताचाच अविभाज्य भाग म्हटलेल्या अमेरिकेच्या राजदूतांवर महबूबा मुफ्ती नाराज, स्पष्ट शब्दांत म्हणाल्या...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-20T22:05:10",
-            "url": "https://www.esakal.com/desh/mehbooba-mufti-agrees-with-cm-omar-abdullah-us-envoy-sergio-gor-srinagar-visit-jammu-kashmir-travel-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/204euwc3/Latest-Marathi-Breaking-News-2026-08-20T220333.654.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
