@@ -1,170 +1,234 @@
 {
-    "lastUpdated": "20-08-2026 | 01:55 PM IST",
+    "lastUpdated": "20-08-2026 | 02:53 PM IST",
     "maharashtra": [
         {
-            "id": "44fabc907a33",
+            "id": "c65ff0e9210d",
+            "feed": "esakal",
+            "title": "Titwala News: लोकांचे जीवन वाचवणाऱ्या डॉक्टरने आयुष्य संपवले, टिटवाळ्यातील घटनेने सारेच हळहळले",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T14:53:06",
+            "url": "https://www.esakal.com/mumbai/titwala-40-year-old-doctor-sachin-satpute-end-his-life-his-dead-body-found-at-home-in-hari-om-valley-area-dombivli-crime-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/vzh0i6jj/Titwala-Dr.-Sachin-Satpute-Case.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "00567b746bac",
+            "feed": "esakal",
+            "title": "Karad Crime: कऱ्हाडच्या मुंढेत मास्कधारी चोरट्यांची दहशत; बंद घरांना एकापाठोपाठ लक्ष्य, ५ ते ६ घरांमध्ये घरफोडी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T14:50:47",
+            "url": "https://www.esakal.com/satara/karad-mundhe-masked-thieves-terrorize-residents-as-5-to-6-closed-houses-are-targeted-in-a-burglary-series-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/k3tso2w3/sudhir-jadhav-satara-17.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2f68bcaaf257",
             "feed": "maharashtratimes",
-            "title": "Mayor Ritu Tawde | Aaditya Thackeray आणि Kishori Pednekar यांच्यावर सडकून टीका",
+            "title": "Devendra Fadnavis: राहुल गांधींचा पुण्यात संवाद कार्यक्रम; विद्यार्थिनींच्या सहभागावरून मुख्यमंत्री फडणवीसांनी केला गंभीर आरोप",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-20T13:50:31",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-mayor-ritu-tawde-launches-a-scathing-attack-on-aaditya-thackeray/videoshow/133370794.cms",
+            "published": "2026-08-20T14:50:21",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/cm-devendra-fadnavis-serious-allegations-on-rahul-gandhi-pune-event-registration-of-female-students/articleshow/133371639.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9e64a70da6a3",
+            "id": "bd7e936c0a5e",
             "feed": "esakal",
-            "title": "Talathi Job Fraud: बनावट ई-मेल, स्वाक्षरी अन् नियुक्ती आदेश; छत्रपती संभाजीनगरात तलाठी पदाच्या नावाखाली दोघांकडून ४१.५० लाखांची फसवणूक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-20T13:49:44",
-            "url": "https://www.esakal.com/marathwada/chhatrapati-sambhajinagar-talathi-job-fraud-two-people-cheated-of-41-lakh-50-thousand-using-fake-appointment-orders-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/ysyokarx/sudhir-jadhav-satara-13.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0510cd4b6f1b",
-            "feed": "lokmat",
-            "title": "१ लाखांचा पगार, डिप्रेशन अन् ४ वर्षे भटकला... केरळ पोलिसांनी नागपुरच्या तरुणाला दिलं नवं आयुष्य",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T13:48:34",
-            "url": "https://www.lokmat.com/nagpur/nagpur-engineer-reunited-with-family-after-4-years-in-kerala-thanks-to-police-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kerala-police_2026081766780.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "cedd855ab395",
-            "feed": "lokmat",
-            "title": "कर्तव्य बजावण्यात निष्काळजीपणा करणाऱ्या अधिकाऱ्यांवर कारवाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T13:45:28",
-            "url": "https://www.lokmat.com/nagpur/action-against-officers-who-are-negligent-in-performing-their-duties-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-73_2026081766779.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a8b6d7195179",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update : मुंबईतील मोकळ्या जागा खासगी विकासकांना देण्याचा घाट, आदित्य ठाकरेंचा आरोप",
+            "title": "शेतकऱ्यांच्या वारस नोंदी \nघेण्याचे बँकांना आदेश",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-20T13:44:36",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-20-august-2026-latest-news-india-supreme-court-rbi-inflation-india-gold-rate-today-petrol-diesel-price-monsoon-update-imd-weather-updatemaharashtra-breaking-news-mumbai-pune-maharashtra-rain-alert-mumbai-rain-pune-rain-marathi-language-test-maharashtra-politics-devendra-fadnavis-pratap-sarnaik-shivsena-abhijit-dipke-cjp-sugar-rate-monsoon-update-ymk86-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-20T14:42:01",
+            "url": "https://www.esakal.com/pune/farmers-inheritance-loan-waiver",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/ki7gs8lp/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1f54472498b4",
+            "feed": "esakal",
+            "title": "कांट आणि ज्ञानेश्‍वर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T14:40:42",
+            "url": "https://www.esakal.com/pune/kant-philosophical-dualism",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/f6wgtijj/Banner1.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "b2e247725540",
+            "id": "79c497ca4c7a",
+            "feed": "maharashtratimes",
+            "title": "सगुण-निर्गुण: ध्यान आणि स्वयंप्रज्ञता",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-20T14:48:43",
+            "url": "https://maharashtratimes.com/editorial/sagun-nirgun/gajanan-natekar-sagun-nirgun-article-on-meditation-and-self-awareness/articleshow/133371997.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "ae2dea16fdbe",
             "feed": "esakal",
-            "title": "दालचिनी घेताय की झाडाची साल? \nअशी ओळखा original दालचिनी!",
+            "title": "Success Story: खिशात फक्त 20 रुपये घेऊन अमेरिकेत पोहोचले, आज अब्जावधींचे मालक! भारतीय उद्योजकाचा डंका",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-20T13:52:24",
-            "url": "https://www.esakal.com/ampstories/web-story/how-to-identify-original-vs-fake-cinnamon-ceylon-vs-cassia-dalchini-original-dalchini-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/5xo30mps/Fake-Cinnamon-How-to-Spot-Real-Ceylon-Dalchini.png",
+            "published": "2026-08-20T14:47:55",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/success-story-romesh-wadhwani-20-rupees-to-billionaire-indian-entrepreneur-america-business-success-story-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/pqc2f36c/Copy-of-Copy-of-banner-2026-08-20T143925.607.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "keyword"
         },
         {
-            "id": "4f39ffc52bfe",
+            "id": "475fb3febaaa",
             "feed": "lokmat",
-            "title": "Mahabharat: श्रीकृष्णांनी पांडवांसाठी मागितलेली 'ती' ५ गावं आज आहेत देशातली मोठी शहरं!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-20T13:49:47",
-            "url": "https://www.lokmat.com/bhakti/mahabharata-the-5-villages-that-lord-krishna-asked-for-the-pandavas-are-today-the-biggest-cities-in-the-country-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahabharat-villages-in-todays-india-1_2026081766787.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "adf8b5163b01",
-            "feed": "lokmat",
-            "title": "'ऑपरेशन सफेद सागर' सीरिजमध्ये कॉमेडियन राजू श्रीवास्तव यांचे आभार का मानले गेले? कारण वाचून थक्क व्हाल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-20T13:41:02",
-            "url": "https://www.lokmat.com/filmy/photos/web-series/operation-safed-sagar-webseries-thanks-late-comedian-raju-srivastava-you-will-be-surprised-to-read-the-reason-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/operation-safed-sagar-webseries-thanks-late-comedian-raju-srivastava-you-will-be-surprised-to-read-the-reason_2026081766776.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8d7fd601d430",
-            "feed": "lokmat",
-            "title": "Kangana Ranaut : \"तुमच्या आसपासही असू शकतो निळा ड्रम\"; कंगना राणौतचा संताप, वेस्टर्न कल्चरवर हल्लाबोल",
+            "title": "ICICI बँक मॅनेजर पत्नीला बँकेबाहेर बोलविले अन्..., SBI कर्मचाऱ्याने स्वतःवरही झाडली गोळी, व्हॉट्सॲप स्टेटसने उडाली खळबळ",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-20T13:40:58",
-            "url": "https://www.lokmat.com/national/kangana-ranaut-raises-questions-over-bengaluru-murder-case-and-takes-aim-at-westernized-culture-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kangana-ranaut-blue_2026081766775.jpeg",
+            "published": "2026-08-20T14:47:44",
+            "url": "https://www.lokmat.com/national/sbi-employee-shot-icici-manager-wife-divya-mishra-pragya-mishra-sister-murder-lucknow-manas-bajpai-shot-sister-and-wife-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/icici-bank-manager-wife-shot-dead-by-sbi-employee-up-crime-news_2026081766847.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "76b4d0373a65",
+            "id": "a2c44776069b",
+            "feed": "lokmat",
+            "title": "बुढ्ढी के बाल पांढरे आणि जिलेबी पांढरट पिवळी, मंचुरियनची उडाली लाली! पदार्थांनी कुणाला घाबरुन बदलले रंग..",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-20T14:45:43",
+            "url": "https://www.lokmat.com/sakhi/food/where-did-the-colors-of-food-disappear-jalebi-candy-floss-turns-white-fda-in-action-a-a1009/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fda-food_2026081766811.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "4dd655e12410",
+            "feed": "lokmat",
+            "title": "Vastu Shastra: आपली आई, आजी दृष्ट काढताना मीठ-मोहरी-मिरची का वापरायची; वास्तू शास्त्रात मिळते उत्तर!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-20T14:42:50",
+            "url": "https://www.lokmat.com/bhakti/vastu-shastra-why-did-our-mothers-and-grandmothers-use-salt-mustard-and-chilli-to-remove-evil-eye-the-answer-is-found-in-vastu-shastra-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/najar-utarna-vastu-tips_2026081766841.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "world": [
+        {
+            "id": "a5a746dbb34b",
+            "feed": "lokmat",
+            "title": "जेरुसलेममध्ये भारतीय नागरिकाची हत्या; केअरटेकर म्हणून करत होता काम, संशयिताला बेड्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-20T14:47:27",
+            "url": "https://www.lokmat.com/international/suspicious-death-of-indian-citizen-in-israel-suspect-arrested-indian-embassy-in-tel-aviv-in-action-mode-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-caregiver-stabbed-to-death_2026081766843.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d2ce068e7ca3",
+            "feed": "maharashtratimes",
+            "title": "शाळेची फी १४ लाख, बससाठी ३ लाख अन् युनिफॉर्मचे २६ हजार; मुलीच्या शिक्षणाचा वार्षिक खर्च पाहून जाल चक्रावून, महिलेचा व्हिडीओ व्हायरल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-20T14:20:47",
+            "url": "https://maharashtratimes.com/viral/viral-news/dubai-school-fees-woman-reveals-rs-18-lakh-annual-cost-of-daughters-international-education/articleshow/133371596.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "01bf06e735cd",
             "feed": "esakal",
-            "title": "British Colonialism : काळ्या मिरीच्या व्यापारातून इंग्रजांनी कसा बळकावला भारत? जाणून घ्या ब्रिटिशांच्या राजवटीचा थरारक प्रवास",
+            "title": "पंढरपूरचे विठ्ठल मंदिर कोणी बांधले? 900 वर्षांचा इतिहास जाणून घ्या",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-20T13:40:43",
-            "url": "https://www.esakal.com/ampstories/web-story/black-pepper-history-india-spice-trade-vasco-da-gama-british-colonialism-east-india-company-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/lhdr90mg/Why-Was-Black-Pepper-Called-Black-Gold",
+            "published": "2026-08-20T14:01:44",
+            "url": "https://www.esakal.com/ampstories/web-story/who-built-the-pandharpur-vitthal-temple-know-its-900-year-history-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/742zqm5h/Pandharpur-Vitthal-Temple-900-Year-History-5.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        }
-    ],
-    "world": [
+        },
+        {
+            "id": "27661cbd8598",
+            "feed": "esakal",
+            "title": "Premium|Doctor on a Warfront Book : युद्धभूमीवर डॉक्टरांची मानवतेची लढाई; ‘डॉक्टर ऑन अ वॉरफ्रंट’मधून समोर येते युद्धाची भयावह कहाणी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-20T14:00:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/doctor-on-a-warfront-book-doctors-without-borders-war-zone-medical-aid-syria-yemen-iraq-mosul-humanity-war-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/uzi22d52/Abhi-36.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "397783203e1d",
             "feed": "lokmat",
@@ -180,25 +244,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pak-turey-plane-1h1_2026081766755.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "7002dc74fad3",
-            "feed": "maharashtratimes",
-            "title": "ट्रम्प यांची सावली, कारमध्ये जागा न मिळाल्यानं डिक्कीत उडी मारली; वादात सापडलेल्या नताली कोण?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-19T21:41:33",
-            "url": "https://maharashtratimes.com/international/international-news/who-is-natalie-harp-us-president-donald-trumps-executive-assistant-now-at-the-centre-of-controversy/articleshow/133353097.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "d4f638b175d6",
+            "feed": "lokmat",
+            "title": "ENG vs PAK: क्रिकेटच्या इतिहासात पहिल्यांदाच घडली अशी गोष्ट... अर्धा-अर्धा कापून दिला सामन्याचा चेंडू, कारण...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-20T14:12:23",
+            "url": "https://www.lokmat.com/cricket/news/england-vs-pakistan-ollie-robinson-josh-tongue-cut-match-ball-in-half-split-after-five-wicket-hauls-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/match-ball-half-2008-1_2026081766809.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "10248efb7532",
             "feed": "lokmat",
@@ -230,72 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-20/vovl17nh/ONE-BALL286-RUNS-THE-TRUTH-BEHIND-CRICKET’S-CRAZIEST-STORY",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "50b5c73cb160",
-            "feed": "lokmat",
-            "title": "Video: दे दणादण... एकाने दुसऱ्याला उचलून आपटला, मग तो त्याच्या अंगावर धावून गेला...; फुटबॉलच्या खेळात कुस्तीचा आखाडा!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-20T12:48:58",
-            "url": "https://www.lokmat.com/social-viral/fight-video-on-football-ground-inter-miami-vs-philadelphia-union-players-wwe-boxing-ring-red-card-lionel-messi-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/football-fight-2008_2026081766696.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "business": [
         {
-            "id": "7ea26b9b706f",
-            "feed": "maharashtratimes",
-            "title": "Property Rights Explained: पतीच्या उत्पन्नातून पत्नीच्या नावावर खरेदी केलेल्या मालमत्तेवर नेमका कोणाचा हक्क? इतरांना वाटा मिळतो का? मालकी हक्क कसा ठरतो, पाहा",
+            "id": "6caa9fb448e5",
+            "feed": "lokmat",
+            "title": "सुरक्षित नोकरी सोडून व्यवसायात उतरले; आज देशातील सर्वात मोठ्या पाइप कंपनीचे मालक, अंबानीही त्यांचे ग्राहक",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-20T13:46:51",
-            "url": "https://maharashtratimes.com/business/real-estate-news/property-rights-explained-home-bought-in-wife-name-by-husband-who-is-real-owner/articleshow/133367356.cms",
-            "image": "",
+            "published": "2026-08-20T14:45:55",
+            "url": "https://www.lokmat.com/business/savings-investments/dee-development-engineers-left-a-secure-job-to-enter-the-business-today-the-owner-of-the-countrys-largest-pipe-company-even-ambani-is-their-customer-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dde-engineering-business_2026081766842.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d4eefdaf0f6e",
+            "id": "b6661c2909ed",
             "feed": "lokmat",
-            "title": "Sugarcane Pest Attack : ऊस हिरवागार, पण बळीराजा चिंतेत! जालना जिल्ह्यात रोगांचा कहर; फवारणीसाठी अखेर ड्रोनचा आधार",
+            "title": "दमदार पावसामुळे एरंडोल तालुक्यातील जलसाठ्यात वाढ; चोरटक्की, भालगाव, खडके सिम, पद्मालय व विखरण तलाव भरले",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-20T13:19:13",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-sugarcane-pest-attack-sugarcane-is-green-but-baliraja-is-worried-diseases-wreak-havoc-in-jalna-district-drone-support-finally-available-for-spraying-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sugarcane-pest-attack-1_2026081766730.jpg",
+            "published": "2026-08-20T14:34:27",
+            "url": "https://www.lokmat.com/agriculture/weather/heavy-rains-increase-water-levels-in-erandol-taluka-chortakki-bhalgaon-khadke-sim-padmalaya-and-vikaran-lakes-filled-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-u-erandol-tahshil-dam-water-update_2026081766831.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "833e6d80c0cb",
+            "id": "ccd40899e700",
             "feed": "lokmat",
-            "title": "महाविद्यालयीन विद्यार्थ्यांसाठी गुगलचा मोठा धमाका...! १ वर्ष मोफत जेमिनी प्लस मिळणार, कसे करायचे सबस्क्राईब...",
+            "title": "ITR Refund: म्युच्युअल फंड विकून पैसे कमावलेत, ITR मध्ये सांगितलं नाही, आता नोटीस आली तर काय करावं?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "business"
             },
-            "published": "2026-08-20T13:17:24",
-            "url": "https://www.lokmat.com/tech/googles-big-bang-for-college-students-get-1-year-free-gemini-plus-how-to-subscribe-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/google-gemini-student-free-subscription_2026081766735.jpg",
+            "published": "2026-08-20T14:25:58",
+            "url": "https://www.lokmat.com/business/income-tax/itr-refund-earned-money-by-selling-mutual-funds-but-it-was-not-stated-in-the-itr-what-should-you-do-if-get-a-notice-now-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mutual-fund-investment-itr-notice-1_2026081766821.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ]
 }
