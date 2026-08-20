@@ -1,88 +1,136 @@
 {
-    "lastUpdated": "20-08-2026 | 08:54 PM IST",
+    "lastUpdated": "20-08-2026 | 09:52 PM IST",
     "maharashtra": [
         {
-            "id": "3ed8d352bf36",
+            "id": "dfc380e5f6e9",
             "feed": "esakal",
-            "title": "Marwade Bypass : मरवडे बायपास मागणी आंदोलनात वाहतूक अडथळा; 35 ग्रामस्थांवर गुन्हे दाखल, सनदशीर आंदोलनाला शिक्षा?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-20T20:51:08",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/marwade-bypass-demand-protest-35-citizens-booked-mangalwedha-vijaypur-national-highway-561a-rasta-roko-case-police-action-solapur-marwade-highway-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2024-11-21/2tvrm9rm/crimenews5.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "316d4a26e1b2",
-            "feed": "esakal",
-            "title": "Maharashtra Agriculture Department Reform: कृषी विभागाचा पुनर्रचित आकृतीबंध स्थगित करा; भविष्योन्मुख नवा आराखडा व क्षेत्रीय अधिकाऱ्यांची संख्या वाढवण्याची आमदार रणधीर सावरकर यांची मुख्यमंत्र्यांकडे मागणी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-20T20:47:05",
-            "url": "https://www.esakal.com/akola/krushi-vibhag-punarrchit-akrutibandh-sthagit-randhir-savarkar-chief-minister-devendra-fadnavis-agriculture-department-maharashtra-dattatray-bharne-akola-vidarbha-marathwada-north-maharashtra-farmer-officers-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/ot3t0bj7/Esakal-14.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "a8b6d7195179",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update: ‘कौन बनेगा करोडपती’च्या मंचावर कु. रुचिता आढळरावने कमावले ५० लाख",
+            "title": "Mumbai News: धावत्या लोकलमध्ये आसनावरून वाद, नंतर धक्काबुक्की अन्... ६२ वर्षीय प्रवाशाला ढकललं; उपचारादरम्यान मृत्यू",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-20T20:45:40",
+            "published": "2026-08-20T21:51:11",
+            "url": "https://www.esakal.com/mumbai/churchgate-borivali-local-passenger-pushed-from-divyang-coach-during-seat-fight-dies-in-mumbai-local-train-news-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a8b6d7195179",
+            "feed": "esakal",
+            "title": "Latest Marathi News Live Update: बालवडकरांनंतर टिंगरेंचाही निधी घेतला काढून, स्थायी समितीत भाजपाच निर्णय",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T21:49:34",
             "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-20-august-2026-latest-news-india-supreme-court-rbi-inflation-india-gold-rate-today-petrol-diesel-price-monsoon-update-imd-weather-updatemaharashtra-breaking-news-mumbai-pune-maharashtra-rain-alert-mumbai-rain-pune-rain-marathi-language-test-maharashtra-politics-devendra-fadnavis-pratap-sarnaik-shivsena-abhijit-dipke-cjp-sugar-rate-monsoon-update-ymk86-snk89",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "996d62cae010",
+            "id": "9f158367eec1",
+            "feed": "maharashtratimes",
+            "title": "Shiv Sena Case : ठाकरेंना धनुष्यबाण पेलवले नाही, सुप्रीम कोर्टातील युक्तिवादावरुन प्रमोद जठार यांचा खोचक टोला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T21:22:13",
+            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/bjp-mla-pramod-jathar-slams-uddhav-thackeray-over-shiv-sena-case-in-supreme-court/articleshow/133382121.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d0b3b517f02c",
             "feed": "lokmat",
-            "title": "पुणे यार्डमधील कामासाठी रविवारी ९ तासांचा ब्लॉक; 'या' रेल्वे गाड्या रद्द",
+            "title": "Amravati Mumbai Flight: अमरावती-मुंबई विमानसेवेत बदल; २५ ऑगस्टपासून आठवड्यातून चारच दिवस उड्डाण",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-20T20:43:34",
-            "url": "https://www.lokmat.com/pune/9-hour-block-on-sunday-for-work-in-pune-yard-ya-train-cancelled-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/railway-block-4_2026081767309.jpg",
+            "published": "2026-08-20T21:20:50",
+            "url": "https://www.lokmat.com/maharashtra/amravati-mumbai-flight-changes-in-amravati-mumbai-flight-service-flights-will-be-operated-only-four-days-a-week-from-august-25-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/plane-3_2026081767315.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "354795cdfa0d",
-            "feed": "esakal",
-            "title": "Golden Jubilee Celebration: वळतीत सुवर्णमहोत्सवी हरिनाम सप्ताह; ‘भक्तपंढरी’च्या देखाव्याने गाव झाले पंढरपूरसमान भक्तिमय",
+            "id": "cebc4e3e1414",
+            "feed": "lokmat",
+            "title": "तानंग फाट्याजवळ कंटेनरमध्ये दीड कोटींचा गांजा जप्त, ओडीसातून तस्करी, साताऱ्यातील संशयितास अटक",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-08-20T20:42:36",
-            "url": "https://www.esakal.com/pune/valti-ambegaon-50-years-akhanda-harinam-saptah-swarnamahotsav-bhaktpandhari-vitthal-rukmini-temple-pandharpur-bhakti-gram-ekta-navnath-bheke-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/o4oyn66h/Esakal-13.png",
+            "published": "2026-08-20T21:10:49",
+            "url": "https://www.lokmat.com/sangli/ganja-worth-rs-15-crore-seized-in-container-near-tanang-phata-smuggled-from-odisha-suspect-from-satara-district-arrested-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sangli-news-ganja-smuggling_2026081767313.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
+        {
+            "id": "bea03f60737c",
+            "feed": "lokmat",
+            "title": "'किंग'चं शूटिंग अंतिम टप्प्यात; तीन वर्षांनंतर शाहरुख खान करणार दमदार कमबॅक, कधी होणार प्रदर्शित?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-20T21:48:16",
+            "url": "https://www.lokmat.com/filmy/bollywood/shah-rukh-kha-king-movie-shooting-final-schedule-release-date-suhana-khan-siddharth-anand-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shahrukh-khan-king-movie-shooting-final-schedule-release-date-suhana-khan-siddharth-anand_2026081767272.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "7cc330c37d56",
+            "feed": "maharashtratimes",
+            "title": "आई, मी प्रसाद घेऊन येतो! दिव्येश घरातून निघाला; लक्झरी बसच्या दारात विचित्र अपघात, लहानग्याचा शेवट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-20T21:26:53",
+            "url": "https://maharashtratimes.com/india-news/7-year-old-boy-dies-after-neck-trapped-in-bus-door-in-gujarat/articleshow/133382171.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "6254c687c7d9",
+            "feed": "maharashtratimes",
+            "title": "Shivani Sonar : अभिनयक्षेत्रात येण्यापूर्वी 'या' क्षेत्रात काम करायची झी मराठीची नायिका, स्वतःच केला खुलासा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-20T21:19:56",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/zee-marathi-taarini-fame-shivani-sonar-worked-as-makeup-artist-before-entering-in-acting/articleshow/133382038.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "c93f477aad78",
             "feed": "esakal",
@@ -114,54 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vadodara-bus-incident-news-1_2026081767307.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "76ca2e3755d3",
-            "feed": "maharashtratimes",
-            "title": "Vanita Kharat : WhatsApp हॅक, पैशांच्या मागणीचा मेसेज, वनिता खरातसोबत घडला स्कॅम; अभिनेत्रीकडून चाहत्यांना सतर्कतेचा इशारा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-20T20:27:36",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/maharashtrachi-hasyajatra-fame-vanita-kharat-shares-incident-of-scam-happened-to-her/articleshow/133380948.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "5713356e4884",
-            "feed": "esakal",
-            "title": "150 वर्षांपूर्वी भारत असा दिसत होता!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-20T20:11:30",
-            "url": "https://www.esakal.com/ampstories/web-story/150-years-ago-india-rare-photos-raja-deen-dayal-historical-photographs-indian-history-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/rxy6h3xr/oldindianphotos.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "c00d0d1752d0",
-            "feed": "maharashtratimes",
-            "title": "Shiv Sena SC Hearing : ठाकरेंच्या वकीलांनी दाखला दिला तो Rajendra Singh Rana खटला नेमकं काय?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-20T20:10:26",
-            "url": "https://maharashtratimes.com/video/mt-originals/rajendra-singh-rana-vs-swami-prasad-maurya-2007-case-explained/videoshow/133380951.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "9827d145a2e2",
+            "feed": "maharashtratimes",
+            "title": "एफडी धारकांसाठी आनंदाची बातमी! आता दररोज कळणार परताव्याचा आकडा; RBI चा नवा नियम, जाणून घ्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-20T21:20:26",
+            "url": "https://maharashtratimes.com/business/business-news/fd-interest-rate-new-rule-by-rbi-applied-from-october-2026/articleshow/133381998.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "baa129f296ac",
             "feed": "lokmat",
             "title": "वेकोली प्रकल्पग्रस्त शेतकऱ्यांना प्रति एकर ३० लाख रुपये द्या; आमदार सुधीर मुनगंटीवार यांच्या मागणीवरून मुख्यमंत्र्यांचा केंद्राकडे प्रस्ताव",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "0011e5ec679f",
-            "feed": "lokmat",
-            "title": "Mahindra: कॅप्टन सीट्ससह प्रीमियम फीचर्स, महिंद्राची ६-सीटर इलेक्ट्रीक कार लॉन्च, जाणून घ्या किंमत",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-20T19:31:41",
-            "url": "https://www.lokmat.com/auto/mahindra-xev-9s-6-seater-electric-car-launched-will-get-premium-features-including-captain-seats-know-the-price-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahindra-xev-9s-_2026081767283.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
