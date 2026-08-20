@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "20-08-2026 | 10:50 PM IST",
+    "lastUpdated": "20-08-2026 | 11:53 PM IST",
     "maharashtra": [
+        {
+            "id": "b45e27fb5265",
+            "feed": "lokmat",
+            "title": "Mumbai Local: कल्याण स्थानकात तांत्रिक बिघाड; कसारा, कर्जतकडे जाणारी रेल्वे ठप्प, आसनगाव लोकल ठाकुर्लीत रद्द",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T23:46:08",
+            "url": "https://www.lokmat.com/maharashtra/mumbai-local-technical-failure-at-kalyan-station-kasara-karjat-bound-train-stopped-asangaon-local-canceled-in-thakurli-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-local-train-disruption_2026081767325.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fe7ca618dc85",
+            "feed": "esakal",
+            "title": "अगोदर तापमान वाढणार मग मुसळधार पाऊस येणार! सप्टेंबरच्या पहिल्या आठवड्यात सुरू होणार परतीचा मॉन्सून; हवामान तज्ज्ञ म्हणाले, ‘या’ भागात पडेल पाऊस",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T23:45:00",
+            "url": "https://www.esakal.com/maharashtra/first-the-temperature-will-rise-then-heavy-rains-will-come-the-return-monsoon-will-start-in-the-first-week-of-september-meteorologists-said-rain-will-fall-in-this-area",
+            "image": "https://cf-images.assettype.com/esakal/2021-04/2cf19c76-fbc8-4dc7-8cb9-8baa6aea8334/rain_sakal.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "01f3e4f15062",
+            "feed": "maharashtratimes",
+            "title": "Government Action : कर्तव्यात कसूर महागात, गटशिक्षणाधिकारी आणि मुख्याध्यापक निलंबित",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T22:54:58",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/lapse-in-educational-duties-education-officer-and-headmaster-suspended-in-kannad/articleshow/133384253.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "32ac204fa14d",
             "feed": "esakal",
@@ -32,57 +80,41 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chandrapur-tribal-students-hostel-admission_2026081767321.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        }
+    ],
+    "india": [
+        {
+            "id": "b40b5c174cd7",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 21 August 2026: जराजिवंतिका पूजन,त्रिकोण योग,सर्वार्थ सिद्धि योग,रवि योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-20T23:45:40",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-21-august-2026-in-marathi-jarajivantika-pujan-trikon-yog-sarvartha-siddhi-yog-and-shubha-muhurta/articleshow/133383883.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
         },
         {
-            "id": "ddcb438e5024",
+            "id": "8461298c6bce",
             "feed": "lokmat",
-            "title": "LPG free village:  राज्यातील पहिले एलपीजी मुक्त अन् पीएनजी युक्त गाव; आशिवने रचला ऊर्जाबदलाचा इतिहास",
+            "title": "मोहालीमध्ये मोठी दुर्घटना! बांधकामाधीन इमारत कोसळली, ६ कामगार ढिगाऱ्याखाली अडकल्याची भिती, बचावकार्य सुरू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "india"
             },
-            "published": "2026-08-20T22:29:43",
-            "url": "https://www.lokmat.com/latur/first-lpg-free-and-png-equipped-village-in-maharashtra-aashiv-creates-energy-transition-history-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lpg-1_2026081767319.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ca729837c265",
-            "feed": "esakal",
-            "title": "Pimpalvandi Protest: पिंपळवंडीतील चिमुकलीवरील अत्याचार व हत्येच्या निषेधार्थ जनसागर उसळला; नराधमाला २० दिवसांत फाशीची जोरदार मागणी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T22:24:33",
-            "url": "https://www.esakal.com/pune/pimpalwandi-10-year-old-girl-assault-murder-case-silent-march-candle-march-fast-track-court-accused-death-penalty-justice-demand-pune-rural-police-superintendent-sandeep-singh-gill-mla-sharad-sonawane-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/fbzcvevs/Esakal-17.png",
+            "published": "2026-08-20T23:05:40",
+            "url": "https://www.lokmat.com/national/punjab-under-construction-hospital-building-collapses-in-mohali-many-workers-trapped-under-rubble-rescue-operation-underway-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/punjab-mohali-hospital-building-collapse-1_2026081767323.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
-        {
-            "id": "f349fdf24dda",
-            "feed": "esakal",
-            "title": "Mahagaon Rural Hospital: ‘सकाळ’च्या पाठपुराव्याला यश; महागाव ग्रामीण रुग्णालयात डॉक्टरांसह पाच अतिरिक्त कर्मचाऱ्यांची तात्पुरती नियुक्ती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T22:21:28",
-            "url": "https://www.esakal.com/pune/mahagaon-rural-hospital-doctors-five-staff-appointed-after-attack-sakal-follow-up-two-medical-officers-nurse-class-four-employee-security-guard-yavatmal-health-department-sukhdev-rathod-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/2doctor_1_0.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
         {
             "id": "f0d2bd83a15a",
             "feed": "esakal",
@@ -128,38 +160,6 @@
             "published": "2026-08-20T22:05:10",
             "url": "https://www.esakal.com/desh/mehbooba-mufti-agrees-with-cm-omar-abdullah-us-envoy-sergio-gor-srinagar-visit-jammu-kashmir-travel-snk89",
             "image": "https://cf-images.assettype.com/esakal/2026-08-20/204euwc3/Latest-Marathi-Breaking-News-2026-08-20T220333.654.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "6634c40323f4",
-            "feed": "lokmat",
-            "title": "‘कांदेपोहे’ कार्यक्रमात प्रत्येक मुलीने भावी जोडीदाराला विचारायलाच हवेत ८ प्रश्न, तरच द्या होकार...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-20T22:00:02",
-            "url": "https://www.lokmat.com/sakhi/photos/sex-relationship/questions-girls-should-ask-before-marriage-8-questions-to-ask-before-marriage-questions-every-girl-should-ask-her-future-husband-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/questions-to-ask-future-husband-before-marriage_2026081767060.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "1729dee669d3",
-            "feed": "maharashtratimes",
-            "title": "Beed  Files Marathi Movie: पवनचक्क्या अन् क्राइम सीन, 'बीड फाइल्स'च्या पोस्टरने चर्चेला उधाण, जिल्ह्यातलं दाहक वास्तव येणार समोर?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-20T21:56:02",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/beed-files-marathi-movie-announcement-poster-viral/articleshow/133382512.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         }
