@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "20-08-2026 | 06:09 AM IST",
+    "lastUpdated": "20-08-2026 | 07:41 AM IST",
     "maharashtra": [
+        {
+            "id": "481867485a6b",
+            "feed": "lokmat",
+            "title": "पश्चिम रेल्वेवर मिळणार ‘विमानतळ स्टाईल’ स्वच्छतागृहे; बीओटी तत्त्वावर दर्जेदार सुविधा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T07:34:23",
+            "url": "https://www.lokmat.com/mumbai/airport-style-toilet-to-be-available-on-western-railway-quality-facilities-on-bot-basis-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/retiring-room-booking-1_2023041009419.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f222c7913da2",
+            "feed": "esakal",
+            "title": "Maharashtra Rain: महाराष्ट्रात पुन्हा पावसाचा मोठा खंड! १५ जिल्ह्यांत अपुरा पाऊस; मराठवाडा-विदर्भाची चिंता वाढली",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T07:33:39",
+            "url": "https://www.esakal.com/pune/maharashtra-rain-break-15-districts-face-rain-deficit-as-marathwada-and-vidarbha-brace-for-water-stress-in-august-2026-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/bmv0gio5/sudhir-jadhav-satara-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7fe127d47643",
+            "feed": "lokmat",
+            "title": "सायन रुग्णालयात ‘उदंड जाहले रुग्ण’, बेड आणायचे कुठून...? एकाच खाटेवर दोन जणांवर उपचार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T07:22:41",
+            "url": "https://www.lokmat.com/mumbai/extremely-ill-patients-at-sion-hospital-where-to-get-bed-two-people-being-treated-on-the-same-bed-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sion-hospitlai_2025021403783.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d73e712a19a4",
+            "feed": "maharashtratimes",
+            "title": "Talathi Recruitment Scam: छ.संभाजीनगरात बोगस तलाठी भरतीचा पर्दाफाश, दोघांची 41 लाख रुपयांची फसवणूक; बनावट नियुक्तीपत्र, प्रशिक्षणही दिलं, प्रकरण काय?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-20T06:50:56",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/fake-talathi-recruitment-racket-busted-in-chhatrapati-sambhajinagar-2-job-seekers-duped-of-rs-41-lakh/articleshow/133361437.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "4494f885d153",
             "feed": "lokmat",
@@ -16,155 +80,123 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indigo_2017082216.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "3548b6616d34",
-            "feed": "lokmat",
-            "title": "१० हजार कोटींच्या घोटाळ्यात ३७ कोटींची मालमत्ता जप्त; मुंबई-भोपाळमध्ये ईडीची धडक कारवाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T05:55:47",
-            "url": "https://www.lokmat.com/mumbai/assets-worth-37-crore-seized-in-10000-crore-scam-ed-takes-action-in-mumbai-bhopal-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ed-78_202011515459.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "465934f548d4",
-            "feed": "lokmat",
-            "title": "परवानगीशिवाय प्रस्तावात माझ्या नावाचा उल्लेख नको; संतप्त महापौरांची आयुक्तांकडे कैफियत",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T05:53:03",
-            "url": "https://www.lokmat.com/mumbai/my-name-should-not-be-mentioned-in-the-proposal-without-permission-bmc-mayor-ritu-tawade-complains-to-the-mumbai-commissioner-ashwini-bhide-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ritu-tawde-and-ashwini-bhide_2026081766480.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bdb84ad4a7e0",
-            "feed": "lokmat",
-            "title": "राज्यात ‘एसआयआर’च्या वेळापत्रकात बदल, अंतिम मतदार यादी ४ नोव्हेंबरला, पहिला टप्पा पूर्ण",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T05:42:27",
-            "url": "https://www.lokmat.com/maharashtra/changes-in-the-schedule-of-sir-in-the-state-and-final-voter-list-on-november-4-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/election-2_2026081762094.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fa22295ac590",
-            "feed": "lokmat",
-            "title": "रिक्षा-टॅक्सी चालकांना मराठी न आल्यास परवाना निलंबित; आजपासून नियम लागू: प्रताप सरनाईक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-20T05:38:58",
-            "url": "https://www.lokmat.com/mumbai/license-of-rickshaw-taxi-drivers-suspended-if-they-do-not-know-marathi-rules-applicable-from-today-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pratap-sarnaik-and-auto-rickshaw-taxi_2026041690068.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "1fe5a4410ae1",
+            "id": "9e28f3aa180f",
             "feed": "lokmat",
-            "title": "वृद्ध आई-वडिलांचा छळ? मुलांना घरातून हाकलता येणार; सर्वोच्च न्यायालयाने केले स्पष्ट",
+            "title": "आजचे राशीभविष्य, २० ऑगस्ट २०२६: अडलेली कामे पूर्ण होण्याचा मार्ग सापडेल, आज आर्थिक लाभाचा योग; काय सांगतेय तुमची राशी?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": null
             },
-            "published": "2026-08-20T06:04:45",
-            "url": "https://www.lokmat.com/national/harassment-of-elderly-parents-children-can-be-thrown-out-of-the-house-supreme-court-clarifies-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/suprme-court45_2026071751706.jpg",
+            "published": "2026-08-20T07:34:54",
+            "url": "https://www.lokmat.com/astro/articles/todays-horoscope-august-20-2026-you-will-find-a-way-to-complete-the-stalled-work-today-is-a-day-of-financial-gains-what-does-your-zodiac-sign-say-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhavishya-thursday_202208865771.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         },
         {
-            "id": "584d593a5c7a",
-            "feed": "lokmat",
-            "title": "‘धनुष्यबाण’वर थेट निशाणा, आम्हाला द्या, नाही तर गोठवा! घटनात्मक पापाला बक्षीस नको: ठाकरे गट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-20T06:02:18",
-            "url": "https://www.lokmat.com/national/direct-aim-at-bow-and-arrow-symbol-give-it-to-us-or-freeze-it-constitutional-sin-should-not-be-rewarded-uddhav-thackeray-group-said-in-supreme-court-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/uddhav-thackeray-vs-eknath-shinde-shivsena-sc-hearing-big-update_2026011628144.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "474f7cf58a96",
+            "id": "6c39a79d2fc4",
             "feed": "esakal",
-            "title": "20  ऑगस्ट 2026 राशीभविष्य! काही राशींना आर्थिक लाभ, तर काहींनी घ्यावी काळजी",
+            "title": "Maharashtra weather update : महाराष्ट्रात पावसाला पोषक हवामान नाही? कमी दाबाचे क्षेत्र गुजरातकडे; IMDचा अंदाज",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-20T05:59:46",
-            "url": "https://www.esakal.com/ampstories/web-story/20-august-2026-horoscope-know-your-career-money-and-family-predictions-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-20/s4pb4lu9/1.jpg.jpeg",
+            "published": "2026-08-20T07:33:43",
+            "url": "https://www.esakal.com/desh/maharashtra-rain-forecast-low-pressure-area-moves-towards-gujarat-imd-update-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/46tlxfgp/sandeep-shirguppe-2026-08-20T073309.384.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "104053ed1886",
+            "feed": "esakal",
+            "title": "२० ऑगस्ट 2026 पंचांग! राहुकाळ, शुभ मुहूर्त, तिथी आणि नक्षत्राची संपूर्ण माहिती",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-20T07:21:53",
+            "url": "https://www.esakal.com/culture-and-religion/panchang-august-20-2026-auspicious-and-inauspicious-timings-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/1vb553o9/panchang.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "23b446bba817",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 20 ऑगस्ट 2026 : कोणत्या राशींवर होणार स्वामीकृपा कोणाला मिळणार गुरुचे पाठबळ ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "id": "ad409ae865ab",
+            "feed": "esakal",
+            "title": "Congress Lok Sabha: लोकसभेच्या जागा २५ वर्षांसाठी गोठवा; काँग्रेसच्या राष्ट्रीय कार्यकारिणीची मागणी, देशातील आठशे शहरांत ‘छात्रों की गूंज’",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-20T05:00:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-20-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/133350305.cms",
-            "image": "",
+            "published": "2026-08-20T07:20:36",
+            "url": "https://www.esakal.com/desh/congress-working-committee-demands-lok-sabha-seats-frozen-for-25-years-amid-chhatron-ki-goonj-across-800-indian-cities-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/e38eqvyk/sudhir-jadhav-satara.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "ad97c0639b6b",
-            "feed": "maharashtratimes",
-            "title": "अंक भविष्य, 20 August 2026: मूलांक 3 निर्णयावर विश्वास ठेवा! मूलांक 7 संयम हाच आधार! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "id": "a6a4efd063b6",
+            "feed": "lokmat",
+            "title": "श्रावण गुरुवार २०२६: संकटांचा डोंगर कोसळलाय? म्हणा टेंबे स्वामी रचित हे 'दिव्य स्तोत्र'; दूर होतील सर्व कष्ट!",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-20T05:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-20-august-2026-nichbhang-rajyog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133350527.cms",
-            "image": "",
+            "published": "2026-08-20T07:10:02",
+            "url": "https://www.lokmat.com/bhakti/shravan-guruvar-2026-has-the-mountain-of-troubles-collapsed-sing-this-divine-stotra-composed-by-tembe-swami-all-hardships-will-be-removed-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ghorkashtoddharan-stotra-by-vasudevanand-saraswati.jpg-shravan-special_2026081766254.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "49260d6d7c93",
+            "feed": "lokmat",
+            "title": "स्पेसएक्स रॉकेटची धडक; नासाकडून फोटो जारी, रॉकेट कोसळून चंद्रावर १८ मीटर रुंद खड्डा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-20T07:17:24",
+            "url": "https://www.lokmat.com/international/spacex-rocket-crashes-nasa-releases-photos-leaving-18-meter-wide-crater-on-the-moon-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/spacex-nasa-moon_2026081766482.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "47a72f7bfb03",
+            "feed": "lokmat",
+            "title": "स्वत:च्या आयुष्याबद्दल लिहिणे मला सोपे नव्हते: सोनिया गांधी, आत्मचरित्राबद्दल भावपूर्ण विचार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-20T06:27:21",
+            "url": "https://www.lokmat.com/international/it-was-not-easy-for-me-to-write-about-my-own-life-said-sonia-gandhi-an-emotional-thoughts-on-autobiography-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/new-project-2022-08-23t075934.704_202208871366.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "7002dc74fad3",
             "feed": "maharashtratimes",
@@ -212,38 +244,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-warning-to-gulf-countries-1_2026081766436.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "5c3d9437a468",
-            "feed": "lokmat",
-            "title": "माणसाने सागरतळाशी गाडलेलं 'ते’ विष झालं लीक, जगावर मोठं संकट, नेमकं काय आहे ते?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-19T19:32:09",
-            "url": "https://www.lokmat.com/photos/international/radioactive-barrels-leak-in-atlantic-ocean-the-poison-that-humans-buried-at-the-bottom-of-the-ocean-has-leaked-causing-a-major-crisis-for-the-world-what-exactly-is-it-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/radioactive-barrels-atlantic-ocean-2_2026081766413.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9f7f586cac52",
-            "feed": "lokmat",
-            "title": "World Photography Day : भारताची पहिली महिला फोटोग्राफर कोण होती माहिती आहे? फोटो काढणंही सोपं नव्हतं..",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-19T19:21:54",
-            "url": "https://www.lokmat.com/sakhi/photos/social-viral/world-photography-day-who-was-indias-first-female-photographer-her-camera-made-history-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/women-photgrapherr_2026081766365.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
