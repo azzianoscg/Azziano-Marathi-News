@@ -1,185 +1,233 @@
 {
-    "lastUpdated": "21-08-2026 | 04:47 PM IST",
+    "lastUpdated": "21-08-2026 | 05:55 PM IST",
     "maharashtra": [
         {
-            "id": "6e301af9779f",
-            "feed": "esakal",
-            "title": "Nirgudsar News : व्हिडिओ चित्रीकरण व वार्तांकन करण्यासाठी गेलेल्या पत्रकारास मारहाण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T16:45:10",
-            "url": "https://www.esakal.com/pune/journalist-assaulted-while-covering-news-and-recording-video-footage-crime-nirgudsar-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-15/xfcd3yve/sudhir-jadhav-satara.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "cb7070a15d29",
+            "id": "e3ae3d2a0bf0",
             "feed": "lokmat",
-            "title": "Latest Marathi News LIVE: काँग्रेस एकीकडे संविधान मानतं अन् दुसरीकडे 'वंदे मातरम्'ला विरोध करतं- भाजपचा आरोप",
+            "title": "एसआयआरनंतर आता मतदान केंद्रांचेही सुसूत्रीकरण; कोल्हापूर जिल्ह्यात 'या' मतदारसंघात वाढणार मतदान केंद्रे",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T16:44:25",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-21-august-2026-shiv-sena-symbol-case-uddhav-thackeray-eknath-shinde-pm-narendra-modi-cabinet-expansion-rahul-gandhi-genz-connect-cm-devendra-fadnavis-tukaram-mundhe-fda-action-us-iran-tension-donald-trump-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-marathi-news-_2026021636877.jpg",
+            "published": "2026-08-21T17:53:48",
+            "url": "https://www.lokmat.com/kolhapur/after-sir-now-the-polling-stations-are-also-being-streamlined-five-additional-polling-stations-to-be-set-up-in-kolhapur-district-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/voting-center-news-kol_2026081767922.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "73ef3bec7827",
+            "id": "60052ed50f66",
+            "feed": "esakal",
+            "title": "Ausa News : वर्दीतील अधिकारी अन्‌ स्वच्छतेचा सेवेकरी; कुमार चौधरींचा ज्ञान पंढरीकडून गौरव",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-21T17:52:47",
+            "url": "https://www.esakal.com/marathwada/police-officer-and-cleanliness-champion-kumar-chaudhary-honoured-by-dnyan-pandhari-ausa-success-motivation-outstanding-officer-medal-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/uyn3qxns/Police-Officer-Kumar-Chaudhary",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7244aeba3a55",
+            "feed": "lokmat",
+            "title": "'मुंबईकर चॅम्पियन्सचा चाळीतून चॅम्पियनशिपपर्यंतचा प्रेरणादायी प्रवास'; रविंद्र चव्हाण यांच्याकडून कौतुक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-21T17:46:08",
+            "url": "https://www.lokmat.com/mumbai/mumbaikar-champions-inspiring-journey-from-chawl-to-championship-praised-by-ravindra-chavan-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ravindra-chaavhan-tweet_2026081767902.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "587cdaf22646",
             "feed": "maharashtratimes",
-            "title": "Ashish Shelar | ठाकरेंनी डिवचलं, आशिष शेलारांचा पलटवार, ठाकरे बाप-लेकावर तुटून पडले",
+            "title": "Vilas Ghule न्याय मिळण्यासाठी मोर्चा मात्र Gunratna Sadavarte यांच्या टार्गेटवर जरांगे, विखे, सुळे",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T16:43:31",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/ashish-shelar-critisized-aaditya-thackeray/videoshow/133402657.cms",
+            "published": "2026-08-21T17:45:57",
+            "url": "https://maharashtratimes.com/maharashtra/beed/gunaratna-sadavarte-joined-the-protest-to-secure-justice-for-vilas-ghule-yet-his-sights-were-set-on-maratha-leaders-/videoshow/133404165.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1c027b4a54a0",
-            "feed": "lokmat",
-            "title": "अंगणवाडीतील मुलांना निकृष्ट दर्जाचा पोषण आहार; पोलखोल करणाऱ्या सेविकेवरील निलंबनाची कारवाई अखेर मागे",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T16:39:02",
-            "url": "https://www.lokmat.com/pune/poor-quality-nutrition-for-children-in-anganwadi-suspension-action-against-the-employee-who-exposed-the-issue-is-finally-reversed-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/reshma-pardhi-4_2026081767839.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a5d514176fbf",
+            "id": "0cc0782dc7f4",
             "feed": "esakal",
-            "title": "Farmer Loan Waiver : शेतकरी कर्जमाफीवरुन तुपकर पुन्हा मुंबईत धडकणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T16:37:33",
-            "url": "https://www.esakal.com/mumbai/ravikant-thupkar-set-to-march-on-mumbai-again-over-farmer-loan-waiver-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/9uf6lur4/Ravikant-Tupkar",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
-        {
-            "id": "9a63674509f4",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : शिवसेनेने देशभरात पक्षाचा विस्तार करण्याचा निर्णय घेतला आहे, ही अभिमानाची बाब आहे - शायना एनसी",
+            "title": "Ganja Seized : शेतात 22 किलो ओला, सुका मिळून तब्बल 5 लाख 58 हजार रुपये किंमतीचा गांजा जप्त",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-21T16:37:24",
+            "published": "2026-08-21T17:41:37",
+            "url": "https://www.esakal.com/marathwada/cannabis-worth-rupees-558-lakh-seized-from-farm-22-kilograms-of-wet-and-dry-ganja-recovered-crime-kauchalwadi-area-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/nvwgta47/Wet-and-Dry-Ganja-Seized",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "india": [
+        {
+            "id": "9b6a224b988c",
+            "feed": "maharashtratimes",
+            "title": "3,000 रुपयांमध्ये बहिणीसाठी टॉप-5 बेस्ट स्मार्टवॉच; रक्षाबंधनाला ठरेल खासमखास भेट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-21T17:48:11",
+            "url": "https://maharashtratimes.com/gadget-news/raksha-bandhan-2026-top-5-premium-smartwatches-under-3000-to-gift-your-sister/articleshow/133404017.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8a24ab6eb707",
+            "feed": "lokmat",
+            "title": "इमरान हाश्मीच्या पहिल्या हिरोइनला ओळखणंही कठीण; २३ वर्षांनी बदलला लूक, अभिनय सोडून करतेय 'हे' काम",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T17:46:56",
+            "url": "https://www.lokmat.com/filmy/bollywood/its-hard-to-even-recognize-emraan-hashmis-first-heroine-aparna-tilak-her-look-has-changed-after-23-years-she-is-quitting-acting-and-doing-this-work-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aparna-tilak_2026081767903.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "9a63674509f4",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : पेलेट गन प्रकरणी एफआयआर दाखल",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-21T17:45:00",
             "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-21-august-2026-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-shravan-maratha-reservation-manoj-jarange-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-kaas-plateau-flower-season-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "cca2be9a6ddc",
+            "id": "589729708334",
             "feed": "lokmat",
-            "title": "प्रशासकीय अधिकाऱ्यांच्या खुर्चीवर कायम असतो पांढरा टॉवेल, तो का? मुंढे खुर्चीजवळ गेले आणि...",
+            "title": "अमेरिकन ब्रॅण्ड मॅक्सीच्या नावाखाली विकतोय साडी, कोल्हापुरी चपलेनंतर आता साड्यांवर डोळा- भलताच डेंजर प्रकार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T16:31:14",
-            "url": "https://www.lokmat.com/sakhi/social-viral/why-is-there-always-a-white-towel-on-government-officials-chairs-tukaram-mundhe-walked-up-to-the-chair-and-then-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chair-towel-mundhe_2026081767738.jpeg",
+            "published": "2026-08-21T17:44:07",
+            "url": "https://www.lokmat.com/sakhi/social-viral/american-jw-pei-brand-selling-indian-saree-as-a-botanical-embellished-draped-overlay-maxi-dress-a-a602/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-21-at-16.13.45_2026081767911.jpeg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "keyword"
         },
         {
-            "id": "3d6d1e63b9ae",
+            "id": "adfff9bd156f",
+            "feed": "maharashtratimes",
+            "title": "Awarapan 2: अख्खा बॉलिवूड एक तरफ! इम्रान हाश्मीची वेगळीच क्रेझ, 'आवारपन २'ने एका आठवड्यात केली तब्बल इतक्या कोटींची कमाई,",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-21T17:42:08",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/box-office-collections/awarapan-2-first-week-box-office-collection-emraan-hashmi-movie-cross-100-cr/articleshow/133403733.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "world": [
+        {
+            "id": "eb6665cd880d",
             "feed": "lokmat",
-            "title": "5 Trendy Super Stylish Haircut : केस कापण्यापूर्वी ‘हे’ ५ हेअरकट पाहा, बदलून जाईल तुमचा लूक",
+            "title": "America Plane Crash: अमेरिकेच्या अलास्कामध्ये चार्टर विमानाचा भीषण अपघात; ८ जणांचा मृत्यू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "world"
             },
-            "published": "2026-08-21T16:27:29",
-            "url": "https://www.lokmat.com/sakhi/photos/beauty/5-super-trendy-short-hair-cuts-5-short-hair-cuts-for-smart-look-5-trending-hair-cuts-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/5-super-trendy-short-hair-cuts_2026081767834.jpeg",
+            "published": "2026-08-21T17:44:38",
+            "url": "https://www.lokmat.com/international/america-news-charter-plane-crash-kills-8-near-remote-radar-site-in-western-alaska-air-force-says-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/western-alaska-charter-plane-crash-1_2026081767909.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
         {
-            "id": "d838c3e3a1ae",
+            "id": "3be3f445c1f9",
             "feed": "esakal",
-            "title": "झुरळ पाहून श्वेता तिवारी घाबरली! म्हणाली, ‘तुकाराम मुंढे जी, तुम्ही कुठे आहात?’ Viral Video",
+            "title": "Pakistan Politics: अली खान ते इम्रान खान... पाकिस्तानच्या सत्ताधाऱ्यांचा शेवट नेहमीच वेदनादायी का? वाचा राजकारणाचा काळा इतिहास",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-21T16:26:02",
-            "url": "https://www.esakal.com/premier/shweta-tiwari-cockroach-viral-video-tukaram-mundhe-instamart-red-bull-fda-commissioner-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/ajxpb7if/SHWETA-TIWARI-COCKROACH-VIRAL-VIDEO",
+            "published": "2026-08-21T17:23:23",
+            "url": "https://www.esakal.com/global/from-liaquat-ali-khan-to-imran-khan-why-has-pakistan-political-leadership-faced-such-tragic-fate-know-history-and-reason-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/40d9kjcx/Why-Do-Pakistan’s-Leaders-End-Up-in-Jail-Exile-or-Worse-A-Look-at-History.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "b5b29c58e82a",
+            "id": "fb5503f660ec",
             "feed": "lokmat",
-            "title": "कपाशीच्या आड गांजाची शेती! जालन्यातील कौचालवाडीच्या शेतात पोलिसांचा छापा, मोठा साठा जप्त",
+            "title": "टूथब्रशवर कागद ठेवा अन् दात स्वच्छ करा, जपानच्या 'पेपर टूथपेस्ट'ची जगभरात चर्चा, कशी करते काम?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "world"
             },
-            "published": "2026-08-21T16:23:54",
-            "url": "https://www.lokmat.com/jalana/cannabis-cultivation-in-the-middle-of-cotton-crop-police-raid-kauchalwadi-field-of-jalana-dist-goods-worth-rs-525-lakh-seized-one-arrested-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganja-crime-farmer-ambad-fea_2026081767826.jpg",
+            "published": "2026-08-21T17:16:30",
+            "url": "https://www.lokmat.com/international/viral-video-put-paper-on-your-toothbrush-and-clean-your-teethjapan-paper-toothpaste-sheet-reduces-plastic-waste-how-does-it-work-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/japan-paper-toothpaste-sheet-1_2026081767886.jpg",
             "isBreaking": false,
-            "category_reason": "default"
-        }
-    ],
-    "world": [
+            "category_reason": "feed"
+        },
         {
-            "id": "68f419310aa9",
-            "feed": "lokmat",
-            "title": "‘हॉस्पिटलच्या बेडवर मरण्यापेक्षा रस्त्यावर मरु!’ पॅरालिसिस झालेल्या बायकोला घेऊन ६९ वर्षांचे आजोबा निघाले देशप्रवासाला...",
+            "id": "3a05aa4ec47e",
+            "feed": "maharashtratimes",
+            "title": "समुद्रात दहशत!  22 भारतीयांचं अपहरण; सागरी लुटारूंकडून 2 जहाजं हायजॅक; भारताचं टेन्शन वाढलं",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
             },
-            "published": "2026-08-21T15:40:47",
-            "url": "https://www.lokmat.com/sakhi/social-viral/chinese-man-takes-paralysed-wife-on-road-trip-chinese-couple-travelling-the-world-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chinese-man-takes-paralysed-wife-on-road-trip_2026081767750.jpeg",
+            "published": "2026-08-21T16:49:57",
+            "url": "https://maharashtratimes.com/international/international-news/two-vessels-with-22-indians-on-board-hijacked-by-pirates-near-yemen-and-somalia/articleshow/133402421.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
             "id": "50ecfd8aa433",
@@ -196,57 +244,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "12ae66e2cf1e",
-            "feed": "esakal",
-            "title": "Viral News : खेळता खेळता ५ वर्षांच्या मुलीने गिळलं ५० ग्रॅम सोनं; डॉक्टरांनी असं काढलं बाहेर!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-21T13:53:14",
-            "url": "https://www.esakal.com/trending-news/china-5-year-old-girl-swallows-50-gram-gold-bar-doctors-remove-gold-bar-hospital-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/d36gk52g/gold-news-1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "c37194283738",
-            "feed": "esakal",
-            "title": "Imran Khan : पाकिस्तानचे माजी पंतप्रधान इम्रान खान यांना रुग्णालयातून पुन्हा तुरुंगात नेलं; सुप्रीम कोर्टाच्या आदेशानंतरही घडला प्रकार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-21T10:31:04",
-            "url": "https://www.esakal.com/global/imran-khan-medical-checkup-shifa-international-hospital-adiala-jail-pakistan-supreme-court-shehbaz-sharif-government-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/6mevqfqx/Imran-Khan-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "99e74d03884f",
-            "feed": "esakal",
-            "title": "Omraje Nimbalkar सोडून गेले.. ठाकरेंनी शब्दाप्रमाणं नवा चेहरा उतरवलाच? | Kailas Patil",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-21T09:54:36",
-            "url": "https://www.esakal.com/videos/omraje-nimbalkar-has-left-uddhav-thackeray-indeed-field-a-new-face-who-is-sanjay-nimbalkar",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/qjbucd1u/mqdefault.webp",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "4aba89c2cb46",
+            "feed": "maharashtratimes",
+            "title": "Medhavi Bidhuri Celebration Video : मेधावीने मैदान गाजवलं अन् नेटीझन्सच्या पडल्या विकेट; पण ट्रेंडला आलेलं सेलिब्रेशन तिचं नाहीच! मग नेमकं कोणाचं?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-21T17:14:55",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/medhavi-bidhuris-celebration-after-taking-wicket-in-womens-delhi-premier-league-2026-goes-viral/articleshow/133402063.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "643475600567",
+            "feed": "esakal",
+            "title": "२०२७ वर्ल्ड कपसाठी टीम इंडियात मोठा उलटफेर? वैभव सूर्यवंशीची एन्ट्री अन् ‘या’ स्टार्सना डच्चू; माजी CSK खेळाडूने सांगितली टीम!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-21T17:08:50",
+            "url": "https://www.esakal.com/krida/cricket/robin-uthappa-2027-odi-world-cup-team-india-vaibhav-sooryavanshi-in-yashasvi-jaiswal-out-bomb-squad-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/kum9iini/Cheerleaders-Controversy-viral-video.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "fce1f2c958c6",
             "feed": "lokmat",
@@ -262,41 +294,41 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-2nd-test-1_2026081767821.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "993aec256291",
-            "feed": "esakal",
-            "title": "Who Is Medhavi Bidhuri: नवीन नॅशनल क्रश! स्मृती मानधनाला विसराल, सोशल मीडियावर 'ट्रेंड'मध्ये आलेली Medhavi Bidhuri कोण? Video Viral",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-21T15:42:08",
-            "url": "https://www.esakal.com/krida/cricket/watch-new-national-crush-forget-smriti-mandhana-who-is-medhavi-bidhuri-taking-social-media-by-storm-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/f71ud47s/Who-Is-Medhavi-Bidhuri",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "39cf313d3a7a",
-            "feed": "maharashtratimes",
-            "title": "Jacob Martin Case : कारकीर्द संपली, नोकरीही गेली; २२ वर्षांनंतर भारतीय क्रिकेटर निर्दोष मुक्त, २००४ मध्ये नेमकं काय घडलं होतं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-21T15:38:12",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/jacob-martin-acquitted-by-patiala-house-court-after-22-years-visa-case/articleshow/133400922.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "64354bb016fd",
+            "feed": "lokmat",
+            "title": "Kanda Market : तब्बल दीड वर्षानंतर राज्यातील 'या' प्रसिद्ध बाजार समितीत कांद्याला मिळतोय उच्चांकी दर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T17:23:55",
+            "url": "https://www.lokmat.com/agriculture/market-yard/kanda-market-after-a-year-and-a-half-onions-are-getting-the-highest-price-in-this-famous-market-committee-in-the-state-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-market-solapur_2026081767896.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "accd25ff1e5d",
+            "feed": "lokmat",
+            "title": "Nagpur Forest Department : ८५० एकरांतून लँटाना हद्दपार! आता जंगलात वन्यप्राण्यांना मिळणार आंबा, पेरू अन् करवंदाची मेजवानी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T17:15:27",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-nagpur-forest-department-forest-departments-master-plan-for-wildanimals-fruit-orchard-feast-in-850-acres-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jaungle-1_2026081767871.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "608c6a429c17",
             "feed": "lokmat",
@@ -312,38 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/market-21-aug_2026081767842.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "d17083443014",
-            "feed": "maharashtratimes",
-            "title": "महिन्याला अगदी 25 हजार कमावणारासुद्धा कोट्यधीश होऊ शकतो; चिकाटी, अभ्यास खूप महत्वाचा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-21T16:24:19",
-            "url": "https://maharashtratimes.com/business/business-news/mutual-fund-sip-calculation-to-build-1-crore-fund-within-different-targets/articleshow/133401164.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "938011cf88fb",
-            "feed": "lokmat",
-            "title": "Viksit Maharashtra 2047 : कापूस, बाजारपेठ, प्रक्रिया... शेतीसाठी ‘मास्टरप्लॅन’ तयार! १२ जिल्ह्यांची निवड",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-21T16:22:54",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-viksit-maharashtra-2047-cotton-market-processing-masterplan-for-agriculture-ready-12-districts-selected-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/viksit-maharashtra-2047-1_2026081767824.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
