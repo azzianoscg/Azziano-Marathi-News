@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "21-08-2026 | 05:55 PM IST",
+    "lastUpdated": "21-08-2026 | 07:07 PM IST",
     "maharashtra": [
         {
-            "id": "e3ae3d2a0bf0",
+            "id": "e26eaa10099c",
             "feed": "lokmat",
-            "title": "एसआयआरनंतर आता मतदान केंद्रांचेही सुसूत्रीकरण; कोल्हापूर जिल्ह्यात 'या' मतदारसंघात वाढणार मतदान केंद्रे",
+            "title": "नियमित व्यायाम, व्यसनांपासून दूर; तरीही मॉर्निंग वॉक करून परताना २५ वर्षीय तरुणाचा हृदयविकाराने मृत्यू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T19:04:34",
+            "url": "https://www.lokmat.com/dharashiv/dharashiv-news-fit-addiction-free-25-year-old-msrtc-staffer-jayant-korde-dies-of-heart-attack-during-morning-walk-in-kalamb-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/addiction-free-youth-death-abd_2026081767996.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "d5abc17e8778",
+            "feed": "lokmat",
+            "title": "मुंबईत उद्धवसेनेला मोठा धक्का! विशाखा राऊत यांचे नगरसेवकपद रद्द होणार?; शिंदेसेनेला फायदा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T17:53:48",
-            "url": "https://www.lokmat.com/kolhapur/after-sir-now-the-polling-stations-are-also-being-streamlined-five-additional-polling-stations-to-be-set-up-in-kolhapur-district-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/voting-center-news-kol_2026081767922.jpg",
+            "published": "2026-08-21T19:03:32",
+            "url": "https://www.lokmat.com/mumbai/big-blow-to-uddhav-sena-in-mumbai-will-vishakha-raut-corporator-post-be-cancelled-eknath-shinde-sena-benefits-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vishakha-raut-bmc1_2026081767993.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "60052ed50f66",
-            "feed": "esakal",
-            "title": "Ausa News : वर्दीतील अधिकारी अन्‌ स्वच्छतेचा सेवेकरी; कुमार चौधरींचा ज्ञान पंढरीकडून गौरव",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-21T17:52:47",
-            "url": "https://www.esakal.com/marathwada/police-officer-and-cleanliness-champion-kumar-chaudhary-honoured-by-dnyan-pandhari-ausa-success-motivation-outstanding-officer-medal-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/uyn3qxns/Police-Officer-Kumar-Chaudhary",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7244aeba3a55",
+            "id": "51d6f49b309c",
             "feed": "lokmat",
-            "title": "'मुंबईकर चॅम्पियन्सचा चाळीतून चॅम्पियनशिपपर्यंतचा प्रेरणादायी प्रवास'; रविंद्र चव्हाण यांच्याकडून कौतुक",
+            "title": "उल्हासनगर महापालिकेवर वंचित बहुजन आघाडीचा मोर्चा, दलित, मुस्लिम समाजाच्या घरांना नोटीसा का? सुजात आंबेडकर यांचा सवाल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T17:46:08",
-            "url": "https://www.lokmat.com/mumbai/mumbaikar-champions-inspiring-journey-from-chawl-to-championship-praised-by-ravindra-chavan-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ravindra-chaavhan-tweet_2026081767902.jpg",
+            "published": "2026-08-21T19:03:32",
+            "url": "https://www.lokmat.com/thane/why-is-the-vanchit-bahujan-aghadi-front-against-ulhasnagar-municipal-corporation-notices-issued-to-the-houses-of-dalit-and-muslim-communities-sujit-ambedkars-question-a-a562-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ulhasnagar-sujat-ambedkar-1_2026081767995.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "587cdaf22646",
-            "feed": "maharashtratimes",
-            "title": "Vilas Ghule न्याय मिळण्यासाठी मोर्चा मात्र Gunratna Sadavarte यांच्या टार्गेटवर जरांगे, विखे, सुळे",
+            "id": "5fe763936dde",
+            "feed": "lokmat",
+            "title": "शेतकऱ्यांसाठी सरकारचा मोठा निर्णय, आता ‘या’ गोष्टीसाठी एक रुपयाही द्यावा लागणार नाही, महसूलमंत्री चंद्रशेखर बावनकुळे यांनी केली घोषणा",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T17:45:57",
-            "url": "https://maharashtratimes.com/maharashtra/beed/gunaratna-sadavarte-joined-the-protest-to-secure-justice-for-vilas-ghule-yet-his-sights-were-set-on-maratha-leaders-/videoshow/133404165.cms",
-            "image": "",
+            "published": "2026-08-21T18:57:16",
+            "url": "https://www.lokmat.com/maharashtra/now-farmers-will-not-have-to-pay-royalty-for-the-soil-and-manure-required-for-farm-work-revenue-minister-chandrashekhar-bawankule-announced-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chandrashekhar-bavankule-1_2026081767990.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0cc0782dc7f4",
-            "feed": "esakal",
-            "title": "Ganja Seized : शेतात 22 किलो ओला, सुका मिळून तब्बल 5 लाख 58 हजार रुपये किंमतीचा गांजा जप्त",
+            "id": "9e0d75a6798d",
+            "feed": "lokmat",
+            "title": "महाराष्ट्र-हेसन भागीदारीतून गुंतवणूक, रोजगार आणि कौशल्य विकासाला चालना मिळेल -मुख्यमंत्री",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
             },
-            "published": "2026-08-21T17:41:37",
-            "url": "https://www.esakal.com/marathwada/cannabis-worth-rupees-558-lakh-seized-from-farm-22-kilograms-of-wet-and-dry-ganja-recovered-crime-kauchalwadi-area-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/nvwgta47/Wet-and-Dry-Ganja-Seized",
+            "published": "2026-08-21T18:54:29",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-hessen-partnership-will-boost-investment-employment-and-skill-development-chief-minister-devendra-fadnavis-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cm-devendra-fadnavis-2108_2026081767988.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "9b6a224b988c",
-            "feed": "maharashtratimes",
-            "title": "3,000 रुपयांमध्ये बहिणीसाठी टॉप-5 बेस्ट स्मार्टवॉच; रक्षाबंधनाला ठरेल खासमखास भेट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-21T17:48:11",
-            "url": "https://maharashtratimes.com/gadget-news/raksha-bandhan-2026-top-5-premium-smartwatches-under-3000-to-gift-your-sister/articleshow/133404017.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8a24ab6eb707",
+            "id": "69a90977ca9c",
             "feed": "lokmat",
-            "title": "इमरान हाश्मीच्या पहिल्या हिरोइनला ओळखणंही कठीण; २३ वर्षांनी बदलला लूक, अभिनय सोडून करतेय 'हे' काम",
+            "title": "रणबीर कपूरच्या 'अ‍ॅनिमल पार्क'संदर्भात मोठी अपडेट, 'स्पिरिट'च्या रिलीजच्या ६ महिन्यांनंतर सुरू होणार शूटिंग",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T17:46:56",
-            "url": "https://www.lokmat.com/filmy/bollywood/its-hard-to-even-recognize-emraan-hashmis-first-heroine-aparna-tilak-her-look-has-changed-after-23-years-she-is-quitting-acting-and-doing-this-work-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aparna-tilak_2026081767903.jpeg",
+            "published": "2026-08-21T19:05:29",
+            "url": "https://www.lokmat.com/filmy/bollywood/big-update-regarding-ranbir-kapoors-animal-park-shooting-will-begin-6-months-after-the-release-of-spirit-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/animal-park_2026081767998.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "9a63674509f4",
+            "id": "96f537f9d49e",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : पेलेट गन प्रकरणी एफआयआर दाखल",
+            "title": "व्हेजिटेबल पुलाव आठवड्यातून दोनदा खाल्ल्यास काय फायदे मिळतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-21T17:45:00",
+            "published": "2026-08-21T19:02:27",
+            "url": "https://www.esakal.com/ampstories/web-story/vegetable-pulao-benefits-eating-twice-a-week-health-nutrition-and-digestion-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/lqymwhrv/1.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ce3d898dccfd",
+            "feed": "maharashtratimes",
+            "title": "7900mAh ची मोठी बॅटरी, 50MP कॅमेऱ्यासह Poco M8x 5G बाजारात, फीचर्सही खास",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-21T19:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/poco-m8x-5g-launched-in-india-with-massive-7900mah-battery-and-120hz-display-price-specs/articleshow/133404942.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "9a63674509f4",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : न्यायाच्या दिशेने हे पहिले पाऊल आहे. गुन्हा दाखल झाला आहे - राहुल गांधी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-21T18:55:49",
             "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-21-august-2026-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-shravan-maratha-reservation-manoj-jarange-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-kaas-plateau-flower-season-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "589729708334",
+            "id": "7857ab8e1641",
             "feed": "lokmat",
-            "title": "अमेरिकन ब्रॅण्ड मॅक्सीच्या नावाखाली विकतोय साडी, कोल्हापुरी चपलेनंतर आता साड्यांवर डोळा- भलताच डेंजर प्रकार",
+            "title": "Video - ...अन् क्षणात होत्याचं नव्हतं झालं! मसूरीत पावसाचा हाहाकार, भूस्खलनात घर, दुकान कोसळलं",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "india"
             },
-            "published": "2026-08-21T17:44:07",
-            "url": "https://www.lokmat.com/sakhi/social-viral/american-jw-pei-brand-selling-indian-saree-as-a-botanical-embellished-draped-overlay-maxi-dress-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-21-at-16.13.45_2026081767911.jpeg",
+            "published": "2026-08-21T18:53:07",
+            "url": "https://www.lokmat.com/national/mussoorie-heavy-rain-landslide-house-collapse-live-video-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mussoorie-landslide_2026081767987.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "adfff9bd156f",
-            "feed": "maharashtratimes",
-            "title": "Awarapan 2: अख्खा बॉलिवूड एक तरफ! इम्रान हाश्मीची वेगळीच क्रेझ, 'आवारपन २'ने एका आठवड्यात केली तब्बल इतक्या कोटींची कमाई,",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-21T17:42:08",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/box-office-collections/awarapan-2-first-week-box-office-collection-emraan-hashmi-movie-cross-100-cr/articleshow/133403733.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "ca6177425f2a",
+            "feed": "lokmat",
+            "title": "पाकिस्तानचा चीनसोबत 'सीक्रेट' डाव उघड; कराचीहून J-16 जेट थेट अमेरिकेच्या मित्राच्या घरात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-21T18:07:48",
+            "url": "https://www.lokmat.com/international/pakistan-secret-plot-with-china-exposed-j-16-jet-from-karachi-directly-reach-egypt-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-egypt-sh1_2026081767941.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3b5278111b92",
+            "feed": "lokmat",
+            "title": "आता पुतीन ‘या’ देशाविरोधात युद्ध पुकारण्याच्या तयारीत? आण्विक पाणबुडी घेऊन पोहोचलं सैन्य",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-21T18:05:14",
+            "url": "https://www.lokmat.com/international/now-vladimir-putin-is-preparing-to-declare-war-against-this-country-the-army-arrived-with-a-nuclear-submarine-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-japan-1_2026081767933.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "eb6665cd880d",
             "feed": "lokmat",
@@ -212,136 +244,104 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/japan-paper-toothpaste-sheet-1_2026081767886.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "3a05aa4ec47e",
-            "feed": "maharashtratimes",
-            "title": "समुद्रात दहशत!  22 भारतीयांचं अपहरण; सागरी लुटारूंकडून 2 जहाजं हायजॅक; भारताचं टेन्शन वाढलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-21T16:49:57",
-            "url": "https://maharashtratimes.com/international/international-news/two-vessels-with-22-indians-on-board-hijacked-by-pirates-near-yemen-and-somalia/articleshow/133402421.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "50ecfd8aa433",
-            "feed": "maharashtratimes",
-            "title": "बोल्टपेक्षाही वेगवान! चीनमध्ये रोबोट  इतका फास्ट धावला की थेट भिंतीवर आदळला; कंबर मोडून निघाल्या ठिणग्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-21T15:36:51",
-            "url": "https://maharashtratimes.com/gadget-news/robot-olympics-humanoid-robot-running-faster-than-usain-bolt-crashes-into-wall-in-china-testing/articleshow/133400758.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "4aba89c2cb46",
-            "feed": "maharashtratimes",
-            "title": "Medhavi Bidhuri Celebration Video : मेधावीने मैदान गाजवलं अन् नेटीझन्सच्या पडल्या विकेट; पण ट्रेंडला आलेलं सेलिब्रेशन तिचं नाहीच! मग नेमकं कोणाचं?",
+            "id": "1dedad6f5651",
+            "feed": "lokmat",
+            "title": "IPL 2027: हार्दिक पांड्याला जर मुंबई इंडियन्समधून बाहेर जायचं असेल तर... ; MIचा मास्टरप्लॅन तयार!",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-21T17:14:55",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/medhavi-bidhuris-celebration-after-taking-wicket-in-womens-delhi-premier-league-2026-goes-viral/articleshow/133402063.cms",
-            "image": "",
+            "published": "2026-08-21T18:32:17",
+            "url": "https://www.lokmat.com/cricket/photos/ipl-2027-trade-if-hardik-pandya-wants-to-leave-mumbai-indians-mi-will-go-for-player-exchange-not-only-cash-trade-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hardik-pandya-mi-new-plan-2108_2026081767967.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "643475600567",
+            "id": "00fc2490c160",
+            "feed": "lokmat",
+            "title": "IAS Ankur Lather : क्रिकेट खेळून चिमुकल्यांचं मन जिंकणाऱ्या अधिकारी कोण? आधी MBBS डॉक्टर, आता आहेत IAS",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T18:18:06",
+            "url": "https://www.lokmat.com/sakhi/photos/inspirational/ias-ankur-lather-success-story-mbbs-doctor-upsc-cracked-second-attempt-became-ias-video-viral-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ias-ankur-lathar_2026081767962.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "1cb2cfd06774",
             "feed": "esakal",
-            "title": "२०२७ वर्ल्ड कपसाठी टीम इंडियात मोठा उलटफेर? वैभव सूर्यवंशीची एन्ट्री अन् ‘या’ स्टार्सना डच्चू; माजी CSK खेळाडूने सांगितली टीम!",
+            "title": "IND vs AFG T20 Series: भारत-अफगाणिस्तान मालिकेच्या वेळापत्रकात बदल? जाणून घ्या नवं शेड्यूल",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-21T17:08:50",
-            "url": "https://www.esakal.com/krida/cricket/robin-uthappa-2027-odi-world-cup-team-india-vaibhav-sooryavanshi-in-yashasvi-jaiswal-out-bomb-squad-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/kum9iini/Cheerleaders-Controversy-viral-video.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fce1f2c958c6",
-            "feed": "lokmat",
-            "title": "भारताला रोखण्यासाठी श्रीलंकेचा 'मास्टरप्लॅन', पहिल्या पराभवानंतर संघात मोठा बदल, २ नवोदित खेळाडूंना संधी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-21T16:22:57",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-2nd-test-sri-lanka-master-plan-to-stop-team-india-big-changes-in-second-test-opportunity-for-kamil-mishara-and-sahan-arachchige-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-2nd-test-1_2026081767821.jpg",
+            "published": "2026-08-21T18:08:41",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-afg-t20-series-india-afghanistan-new-schedule-september-2026-dates-change-bcci-update-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/5nvdszwk/ind-vs-af.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "64354bb016fd",
+            "id": "9a660093dd7b",
             "feed": "lokmat",
-            "title": "Kanda Market : तब्बल दीड वर्षानंतर राज्यातील 'या' प्रसिद्ध बाजार समितीत कांद्याला मिळतोय उच्चांकी दर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-21T17:23:55",
-            "url": "https://www.lokmat.com/agriculture/market-yard/kanda-market-after-a-year-and-a-half-onions-are-getting-the-highest-price-in-this-famous-market-committee-in-the-state-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-market-solapur_2026081767896.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "accd25ff1e5d",
-            "feed": "lokmat",
-            "title": "Nagpur Forest Department : ८५० एकरांतून लँटाना हद्दपार! आता जंगलात वन्यप्राण्यांना मिळणार आंबा, पेरू अन् करवंदाची मेजवानी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-21T17:15:27",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-nagpur-forest-department-forest-departments-master-plan-for-wildanimals-fruit-orchard-feast-in-850-acres-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jaungle-1_2026081767871.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "608c6a429c17",
-            "feed": "lokmat",
-            "title": "दिवसभरातील चढ-उतारानंतर सेन्सेक्स-निफ्टी सपाट, मेटल आणि रिअल्टी शेअर्सने बाजाराला तारले...",
+            "title": "अमेरिकन एक्सप्रेस आणि नीता मुकेश अंबानी कल्चरल सेंटरमध्ये भागीदारी; कार्डधारकांना मिळणार विशेष सुविधा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-21T16:41:56",
-            "url": "https://www.lokmat.com/business/stock-market/share-market-21-aug-sensex-nifty-flat-after-days-ups-and-downs-metal-and-realty-stocks-rescue-the-market-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/market-21-aug_2026081767842.jpg",
+            "published": "2026-08-21T19:02:06",
+            "url": "https://www.lokmat.com/business/news/american-express-and-nita-mukesh-ambani-cultural-center-partner-cardholders-will-get-special-benefits-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jio-world_2026081767992.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "63a0a60a9f93",
+            "feed": "lokmat",
+            "title": "iPhone 16: आयफोन १६च्या खरेदीवर जबरदस्त ऑफर, थेट १९ हजार वाचवण्याची संधी, कुठं मिळतोय इतका स्वस्त?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T18:48:42",
+            "url": "https://www.lokmat.com/tech/flipkart-great-offer-on-the-purchase-of-iphone-16-opportunity-to-save-directly-19-thousand-where-can-you-get-it-so-cheap-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iphone-16-4_2026081767982.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "aefca096cdc8",
+            "feed": "maharashtratimes",
+            "title": "सोन्याच्या किंमतीत वाढ अन् Gold Loan कंपन्यांची चांदी; IIFL Finance च्या शेअरमध्ये आज इतकी तेजी का?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-21T18:45:55",
+            "url": "https://maharashtratimes.com/business/business-news/gold-price-hike-led-to-increased-in-share-price-of-gold-loan-companies-iifl-finance-muthoot-finance-annapurna-finance/articleshow/133405300.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
