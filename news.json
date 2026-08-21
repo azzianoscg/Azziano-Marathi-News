@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "21-08-2026 | 08:53 PM IST",
+    "lastUpdated": "21-08-2026 | 09:50 PM IST",
     "maharashtra": [
+        {
+            "id": "0337043d0858",
+            "feed": "maharashtratimes",
+            "title": "Satara Crime : 3 टक्के कमिशनचे आमिष अन् लोकांचे  ATM आणि DEBIT कार्ड घ्यायचे, सायबर गुन्हेगारांसाठी काम करणारी टोळी सापडली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-21T21:35:05",
+            "url": "https://maharashtratimes.com/maharashtra/satara/satara-police-arrest-accused-who-lured-3-percent-commission-and-take-atm-and-debit-card-for-cyber-crime/articleshow/133408033.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bd56a61c3e3e",
+            "feed": "esakal",
+            "title": "Pune News : प्रसूतीच्या असह्य कळा... अन् ‘ती’ बनली रणरागिणी; वाहतूक कोंडीतून १९ वर्षीय तरुणीने गर्भवतीला नेले रुग्णालयात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-21T21:14:24",
+            "url": "https://www.esakal.com/pune/amid-excruciating-labour-pains-19-year-girl-varsha-shinde-turns-heroine-takes-pregnant-woman-to-hospital-through-traffic-jam-humanity-initiative-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/5ykexdk1/Varsha-Shinde",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "11c9f7f9010e",
+            "feed": "esakal",
+            "title": "DCM Sunetra Pawar : सावित्रीबाईंच्या विचारांची ज्योत पिढ्यान्‌पिढ्या तेवत राहील; पुणे विद्यापीठात २८ ज्ञानशिल्पांचे लोकार्पण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-21T21:01:52",
+            "url": "https://www.esakal.com/pune/savitribai-phule-ideals-will-inspire-generations-28-knowledge-sculptures-inaugurated-at-pune-university-dcm-sunetra-pawar-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-11/ie7krpcc/Sunetra-Pawar",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d6de77f349cf",
+            "feed": "esakal",
+            "title": "अस्वच्छ किचन पडले महागात! मुंबईतील McDonald’s आउटलेटचा परवाना निलंबित; तुकाराम मुंढेंची मोठी कारवाई",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-21T20:57:43",
+            "url": "https://www.esakal.com/mumbai/mcdonald-outlet-in-mumbai-faces-fda-action-license-suspended-over-hygiene-issues-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/cgeiavcr/Cockroaches-and-Hygiene-Lapses-Found-FDA-Suspends-McDonald’s-Outlet-License.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "21d9619de04e",
             "feed": "esakal",
@@ -16,155 +80,107 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-21/lka96mxx/Crime",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "968afe4c89da",
-            "feed": "lokmat",
-            "title": "लोकशाही वाचवण्यासाठी तरुणांनी पुढे येऊन नेतृत्व स्वीकारावे, ही राहुल गांधींची भूमिका - नाना पटोले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T20:50:17",
-            "url": "https://www.lokmat.com/pune/rahul-gandhis-stance-is-that-youth-should-come-forward-and-accept-leadership-to-save-democracy-nana-patole-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nana-patole-nm-4-s_2026081768074.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8618a0450547",
-            "feed": "lokmat",
-            "title": "वाढत्या गुन्हेगारीमुळे पोलिसांच्या खुपिया विभागाची पोलखोल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T20:45:29",
-            "url": "https://www.lokmat.com/nagpur/rising-crime-exposes-polices-secret-department-a-a877-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-21-at-8.44.29-pm-1_2026081768072.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "663a3368eb6c",
-            "feed": "lokmat",
-            "title": "कुख्यात बुकी सोंटू जैनकडच्या छापेमारीत ईडीच्या हाती लागले घबाड",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T20:42:14",
-            "url": "https://www.lokmat.com/nagpur/ed-makes-a-big-deal-out-of-raids-on-notorious-bookie-sontu-jain-a-a877-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-21-at-8.41.31-pm-1_2026081768069.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "87a678d07d22",
-            "feed": "lokmat",
-            "title": "Pune Metro: मेट्रोची ‘तारीख पे तारीख’; उदघाटन कधी? पुणेकरांना प्रत्यक्ष प्रवासासाठी आणखी प्रतीक्षा करावी लागणार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T20:42:13",
-            "url": "https://www.lokmat.com/pune/metros-date-by-date-when-will-it-be-inaugurated-pune-residents-will-have-to-wait-longer-for-the-actual-journey-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hinjwadi-metro-4-s_2026081768071.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "5adf7ac42ae2",
-            "feed": "esakal",
-            "title": "Premium|Seafloor Spreading : समुद्रतळ तयार होताना पहिल्यांदाच थेट निरीक्षण; दक्षिण हिंदी महासागरात वैज्ञानिकांचा मोठा शोध",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-21T20:50:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/scientists-directly-observe-seafloor-spreading-new-oceanic-crust-south-indian-ocean-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-16/6biaf6wy/Abhi-41.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "0dedb6d062bc",
+            "id": "951621d2533b",
             "feed": "maharashtratimes",
-            "title": "Arjun Rampal  Marriage: अनेक वर्षे लिव्ह-इन रिलेशनशिपमध्ये, दोन मुलांच्या जन्मानंतर बॉलिवूड अभिनेत्यानं गुपचूप उरकलं गर्लफ्रेंडसोबत लग्न",
+            "title": "Actress Sowcar Janaki Passes Away: सिनेविश्वावर शोककळा, ज्येष्ठ अभिनेत्री  सावकार जानकी यांचं निधन, ९४ व्या वर्षी घेतला अखेरचा श्वास",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-21T20:45:07",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/arjun-rampal-marries-longtime-live-in-partner-gabriella-demetriades-in-goa/articleshow/133407738.cms",
+            "published": "2026-08-21T21:31:28",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/actress-sowcar-janaki-passes-away-at-age-of-94/articleshow/133408569.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "b40637994f4c",
+            "id": "b9a5ab65b507",
+            "feed": "maharashtratimes",
+            "title": "Crime News: मुख्याध्यापिकेला संपवलं; 'बाबू', पार्ट्या अन् आयफोनमुळे गूढ उकललं, दहावीचे 2 विद्यार्थी अटकेत",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-21T21:21:05",
+            "url": "https://maharashtratimes.com/india-news/telangana-principal-stabbed-to-death-iphone-and-babu-on-last-call-exposed-2-class-10-students/articleshow/133408267.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "272310a0b57c",
             "feed": "lokmat",
-            "title": "श्रीयुत गंगाधर टिपरेमधील शलाका आठवतेय का? आज आहे तिचा वाढदिवस, आता दिसते अशी",
+            "title": "Shravan Somvar Special : स्टीलच्या ग्लासमध्ये कोथिंबीर वडी! बेसन न घालता कोथिंबीर वडी करण्याची सोपी रेसिपी...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T20:42:26",
-            "url": "https://www.lokmat.com/filmy/television/reshma-naik-do-you-remember-shalaka-from-shriyut-gangadhar-tipare-today-is-her-birthday-she-looks-like-this-now-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/reshma-naik-shalaka-shriyut-gangadhar-tipre-3_2026081768065.jpg",
+            "published": "2026-08-21T21:13:28",
+            "url": "https://www.lokmat.com/sakhi/food/how-to-make-kothimbir-vadi-in-steel-glass-steel-glass-kothimbir-vadi-recipe-kothimbir-vadi-recipe-easy-kothimbir-vadi-recipe-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kothimbir-vadi-in-steel-glass_2026081766848.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6634c40323f4",
+            "feed": "lokmat",
+            "title": "‘कांदेपोहे’ कार्यक्रमात प्रत्येक मुलीने भावी जोडीदाराला विचारायलाच हवेत ८ प्रश्न, तरच द्या होकार...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T21:12:17",
+            "url": "https://www.lokmat.com/sakhi/photos/sex-relationship/questions-girls-should-ask-before-marriage-8-questions-to-ask-before-marriage-questions-every-girl-should-ask-her-future-husband-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/questions-to-ask-future-husband-before-marriage_2026081767060.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
             "id": "9a63674509f4",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : दिल्ली पोलिसांनी 'रॅपिड ॲक्शन फोर्स'च्या मदतीने जंतरमंतरवर जमलेल्या आंदोलकांना ताब्यात घेतले",
+            "title": "Marathi News Live Updates : JPSC आणि JSSC परीक्षेचे उमेदवार झारखंडचे मुख्यमंत्री हेमंत सोरेन आणि काँग्रेस खासदार राहुल गांधी यांचे पुतळे जाळणार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-21T20:41:28",
+            "published": "2026-08-21T21:08:42",
             "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-21-august-2026-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-shravan-maratha-reservation-manoj-jarange-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-kaas-plateau-flower-season-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "efd1e885d143",
+            "id": "19ee10d7bc56",
             "feed": "maharashtratimes",
-            "title": "CJP Team Attacked In Rajasthan: पळवून मारलं, गाड्या फोडल्या,  Pellet Gun वरून Rahul Gandhiचा ठिय्या",
+            "title": "Elon Musk Education: दोन दिवसांतच सोडली PhD; जाणून घ्या जगातील सर्वात श्रीमंत व्यक्ती इलॉन मस्क यांचं शिक्षण किती?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-21T20:30:46",
-            "url": "https://maharashtratimes.com/video/mt-originals/rahul-gandhi-parliament-protest-cjp-ashutosh-ranka-jaipur-attack-pellet-gun/videoshow/133407684.cms",
+            "published": "2026-08-21T21:32:48",
+            "url": "https://maharashtratimes.com/career/career-news/elon-musk-education-qualification-success-story-marathi-news-tesla-space-x-world-richest-person/articleshow/133408448.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        }
-    ],
-    "world": [
+        },
         {
             "id": "3be3f445c1f9",
             "feed": "esakal",
@@ -282,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "b48fad7f1bc9",
+            "feed": "maharashtratimes",
+            "title": "सरकारने इथेनॉलवर पुन्हा केली टाळाटाळ अन् दिली भलतीच कारणे, मग नक्की कशामुळे महागली साखर?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-21T21:24:43",
+            "url": "https://maharashtratimes.com/business/business-news/sugar-price-hike-reasons-according-to-indian-government/articleshow/133407797.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "4a4239819983",
             "feed": "lokmat",
             "title": "Agriculture Scheme : शेतकऱ्यांना विद्युतपंप, स्प्रिंकलर सेट व काटेरी तार पुरविण्यासाठी झेडपीची सेसफंड योजना",
@@ -312,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thai_2026081768012.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "4a634fc40ac2",
-            "feed": "lokmat",
-            "title": "'मुरांबा' फेम रमाने घेतलं स्वतःचं हक्काचं घर; गृहप्रवेशाचे फोटो शेअर करत म्हणाली, \"काही स्वप्नांना...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-21T19:36:32",
-            "url": "https://www.lokmat.com/filmy/television/muramba-fame-rama-aka-shivani-mundhekar-buys-her-own-house-shares-photos-of-housewarming-says-some-dreams-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shivani-mundhekar-house_2026081768015.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ]
 }
