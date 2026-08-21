@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "22-08-2026 | 03:43 AM IST",
+    "lastUpdated": "22-08-2026 | 04:44 AM IST",
     "maharashtra": [
+        {
+            "id": "e1a3bdc522d3",
+            "feed": "lokmat",
+            "title": "प्रेमत्रिकोणातून हत्या; मृतकाची पत्नी व तिच्या प्रियकराचा शोध सुरू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T04:37:07",
+            "url": "https://www.lokmat.com/nagpur/die-due-to-love-triangle-search-underway-for-deceased-wife-and-her-lover-a-a877-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-29_202111728489.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "6d05ef3d9133",
             "feed": "lokmat",
@@ -62,22 +78,6 @@
             "published": "2026-08-21T23:00:36",
             "url": "https://maharashtratimes.com/maharashtra/pune-news/dispute-between-abvp-and-nsui-in-pune-before-rahul-gandhi-program-chhatro-ki-gunj/articleshow/133410083.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "aa95a36fd6f2",
-            "feed": "lokmat",
-            "title": "Nagpur: डागा रुग्णालयातून नवजात बाळ पळवलं, पोलिसांनी काही तासातच लावला छडा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T22:58:21",
-            "url": "https://www.lokmat.com/nagpur/nagpur-a-newborn-baby-was-kidnapped-from-daga-hospital-the-police-caught-him-within-few-hours-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-newborn-baby-theft-1_2026081768082.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
