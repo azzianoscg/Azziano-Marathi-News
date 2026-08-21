@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "21-08-2026 | 11:52 PM IST",
+    "lastUpdated": "22-08-2026 | 12:49 AM IST",
     "maharashtra": [
+        {
+            "id": "6d05ef3d9133",
+            "feed": "lokmat",
+            "title": "'आयफोन १५ प्रो घेऊन देतो, खाली ये' ३ तास विनवण्या करूनही कुणालनं ऐकलं नाही, छ. संभाजीनगर दुर्घटनेतील मोठी अपडेट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-21T23:54:59",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/iphone-emi-dispute-turns-tragic-in-chhatrapati-sambhajinagar-father-mother-and-son-die-after-falling-into-gorge-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chhatrapati-sambhajinagar-tragedy_2026081768086.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "980d96c7ad72",
             "feed": "lokmat",
@@ -64,25 +80,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-newborn-baby-theft-1_2026081768082.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "2f68eeb814fe",
+            "id": "fa9ebfac578e",
             "feed": "esakal",
-            "title": "Daund Crime : दौंडमध्ये विवाहितेच्या गळ्यावर चाकूने वार; दोघांविरुद्ध गुन्हा दाखल",
+            "title": "Varanasi Dolphin: गंगेच्या लाटांमध्ये दिसणार दुर्मिळ डॉल्फिन; वाराणसीत 'डॉल्फिन सफारी'ला पर्यटकांची पसंती",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-21T22:36:06",
-            "url": "https://www.esakal.com/pune/married-woman-stabbed-in-the-neck-in-daund-case-registered-against-two-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-28/adnmdyqw/Daund-Police-Station",
+            "published": "2026-08-22T00:01:00",
+            "url": "https://www.esakal.com/tourism/varanasi-dolphin-safari-ganges-river-gangetic-dolphin-dhakwa-kaithi-wildlife-institute-of-india-dolphin-mitra-eco-tourism-tourism-uttar-pradesh-dolphin-watching-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-20/81dnrg95/Esakal-9.png",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
+            "category_reason": "keyword"
+        },
         {
             "id": "751dc7c666e1",
             "feed": "esakal",
@@ -146,22 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "9a63674509f4",
-            "feed": "esakal",
-            "title": "Marathi News Updates : आज राज्यासह देशात कुठे काय घडलं? जाणून घ्या...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-21T22:14:27",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-21-august-2026-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-shravan-maratha-reservation-manoj-jarange-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-kaas-plateau-flower-season-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
