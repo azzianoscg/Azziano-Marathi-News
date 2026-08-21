@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "21-08-2026 | 10:53 AM IST",
+    "lastUpdated": "21-08-2026 | 11:58 AM IST",
     "maharashtra": [
         {
-            "id": "4b814df72d29",
+            "id": "75fc387a463f",
+            "feed": "lokmat",
+            "title": "Nagpur Crime: मुंबईतील तरुणीसाठी दोन गुंड भिडले, नागपूरमध्ये रस्त्यावर पडला रक्ताचा सडा; गौरव रगडेची नरेंद्रनगरात हत्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-21T11:51:35",
+            "url": "https://www.lokmat.com/nagpur/nagpur-crime-two-goons-clashed-over-a-young-woman-from-mumbai-blood-splattered-on-the-streets-in-nagpur-gaurav-ragde-was-murdered-in-narendranagar-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-crime-gaurav-ragde_2026081767470.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3c372d49056c",
             "feed": "esakal",
-            "title": "Kolhapur Fake Doctors: दहा दिवसांत बनावट डॉक्टरांवर कारवाई करा; सभापती सारिका नांदेकर: जिल्हा परिषदेच्या आरोग्य समितीच्या सभेत आदेश",
+            "title": "Rickshaw-Taxi Fare Hike: रिक्षा-टॅक्सीचा प्रवास महागणार, 1 सप्टेंबरपासून नवे दर लागू होणार; किती भाडे वाढणार?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T10:50:47",
-            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-fake-doctors-health-committee-action-zilla-parishad-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/5i3302tc/Abhi.jpg",
+            "published": "2026-08-21T11:48:54",
+            "url": "https://www.esakal.com/mumbai/auto-rickshaws-and-taxi-fare-hike-in-mumbai-and-mmr-from-september-1-know-new-rates-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/k48x5307/Rickshaw-Taxi-Fare-Hike.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1fc862022788",
+            "id": "9ccb5244fae9",
             "feed": "lokmat",
-            "title": "हवेली, खेड प्रांताधिकाऱ्यांच्या 'एजंट'गिरीची चौकशी होणार; महसूलमंत्र्यांचा कारवाईचा इशारा",
+            "title": "Ratnagiri: वांझोळे सुवारेवाडीत भक्ष्याच्या नादात घरात घुसला बिबट्या, हल्ल्यात वृद्ध महिला जखमी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-21T10:49:54",
-            "url": "https://www.lokmat.com/pune/haveli-khed-provincial-officials-to-be-investigated-for-agent-status-revenue-minister-warns-of-action-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bavankule-000_2026081767421.jpg",
+            "published": "2026-08-21T11:47:43",
+            "url": "https://www.lokmat.com/ratnagiri/leopard-attacks-woman-in-wanjhole-suwarewadi-ratnagiri-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ratnagiri-leoprad-news-photo_2026081767472.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "cb7070a15d29",
-            "feed": "lokmat",
-            "title": "Latest Marathi News LIVE: जयपूरमध्ये आशुतोष रांकासह CJPच्या टीमला गावकऱ्यांनी पळून लावले... वाहनेही फोडली!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T10:49:51",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-21-august-2026-shiv-sena-symbol-case-uddhav-thackeray-eknath-shinde-pm-narendra-modi-cabinet-expansion-rahul-gandhi-genz-connect-cm-devendra-fadnavis-tukaram-mundhe-fda-action-us-iran-tension-donald-trump-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e325beeec54c",
+            "id": "3a27cfd76c5f",
             "feed": "esakal",
-            "title": "Gold Rate Today: सोनं 16 हजारांनी महाग! तुमच्या शहरातील 24K, 22K, 18K चा आजचा भाव पाहा",
+            "title": "Talere-Gaganbawda Highway Notice : सर्वोच्च न्यायालयाच्या दणक्यानंतर तळेरे-कोल्हापूर महामार्गावरील 56 मालमत्ताधारकांना नोटीस; तुमचे घर किंवा दुकान तर यात नाही ना?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-21T10:49:06",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/gold-rate-today-16-thousand-increase-24k-22k-18k-gold-silver-price-latest-mumbai-pune-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/2lg8jvss/Copy-of-Copy-of-banner-2026-08-21T104250.008.jpg",
+            "published": "2026-08-21T11:47:12",
+            "url": "https://www.esakal.com/kokan/talere-gaganbawda-highway-encroachment-56-building-owners-notice-vaibhavwadi-sindhudurg-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/dvsamp8d/Talere-Kolhapur-highway-latest-news",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "d71ccd2aecaa",
+            "id": "1119cbf5ebb5",
             "feed": "lokmat",
-            "title": "Rain Update : देशात पुन्हा पावसाचा जोर वाढणार! कोकण, विदर्भासाठीही हवामान विभागाचा मोठा इशारा",
+            "title": "Nida Khan : TCS धर्मांतर प्रकरण : निदा खानला दुसऱ्या गुन्ह्यात सशर्त जामीन",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T10:48:27",
-            "url": "https://www.lokmat.com/photos/maharashtra/rain-update-rain-will-increase-again-in-the-country-meteorological-department-warns-of-big-warning-for-konkan-vidarbha-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rain-update-news_2026081767417.jpg",
+            "published": "2026-08-21T11:45:19",
+            "url": "https://www.lokmat.com/nashik/tcs-nashik-case-nida-khan-granted-conditional-bail-in-second-case-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nida-khan-tcs-1_2026051698984.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "0ff0fa905345",
+            "id": "5520cc32e225",
+            "feed": "lokmat",
+            "title": "मॉल आणि थिएटर्सच्या टॉयलेटचे दरवाजे खालून छोटे का असतात? जाणून घ्या यामागील महत्त्वाचे कारण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T11:52:31",
+            "url": "https://www.lokmat.com/social-viral/why-are-the-toilet-doors-of-malls-and-theaters-smaller-from-the-bottom-know-the-important-reason-behind-this-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/toilet-doors-in-cinema-hall-shopping-malls_2026081767457.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "4fc0ae65ac5c",
             "feed": "maharashtratimes",
-            "title": "Zee Marathi Serial:अमृतसरच्या ऐतिहासिक परिसरात पहिल्यांदाच मराठी मालिकेचं शूटिंग, १८ जणांची टीम सह 'तारिणी' अटारी बॉर्डरवर",
+            "title": "Today Lucky Rashibhavishya 21 August 2026 : चंद्र,शनी आणि गुरु त्रिकोण योगातून देणार या 3 राशींना तिप्पट लाभ !",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-21T10:49:44",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/zee-marathi-taarini-tv-serial-shooting-at-amritsar-attari-border-operation-tiranga/articleshow/133393393.cms",
+            "published": "2026-08-21T11:50:18",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/today-lucky-rashibhavishya-21-august-2026-aajche-prediction-horoscope-bhagyavan-rashi/articleshow/133395253.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "a8ebf322aeb1",
+            "feed": "lokmat",
+            "title": "वयाच्या ५५ वर्षांपर्यंत महापालिकेत नोकरी, सिनेमाच्या वेडापायी गमावली आयुष्यभराची कमाई; मराठी अभिनेता कर्जबाजारी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T11:49:57",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/worked-in-the-municipal-corporation-till-the-age-of-55-lost-his-lifetime-earnings-due-to-cinema-craze-marathi-actor-vijay-nikam-in-debt-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vijay-nikam-story_2026081767475.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
         },
         {
             "id": "9a63674509f4",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : बिहारचे मुख्यमंत्री सम्राट चौधरी भाजपचे राष्ट्रीय सरचिटणीस विनोद तावडे यांच्या दिल्लीतील निवासस्थानी दाखल",
+            "title": "Marathi News Live Updates : जयपूरमध्ये CJP पथकावर हल्ल्यानंतर भाजप आमदाराची खोचक टीका; म्हणाले, ‘घरात झुरळाचा काही उपयोग नसतो’",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-21T10:46:08",
+            "published": "2026-08-21T11:49:43",
             "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-21-august-2026-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-shravan-maratha-reservation-manoj-jarange-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-kaas-plateau-flower-season-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "ae2eccbc0181",
-            "feed": "esakal",
-            "title": "रोज चपाती खाणे आरोग्यासाठी चांगले आहे का?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-21T10:39:57",
-            "url": "https://www.esakal.com/ampstories/web-story/is-eating-chapati-every-day-good-for-your-health-know-the-facts-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/y7h16n4r/Make-Soft-Chapati-for-Long-Time-8.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d09a8f922a87",
+            "id": "bd75dc95d850",
             "feed": "lokmat",
-            "title": "\"'वंदे मातरम्'च्या पहिल्या दोनच ओळी ठीक\" शर्मिला टागोर यांचे वक्तव्य; कंगना राणौत टीका करत म्हणाली...",
+            "title": "'तुला जपणार आहे' फेम अभिनेत्रीचा साखरपुडा, कोण आहे होणारा नवरा? फोटो समोर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T10:37:35",
-            "url": "https://www.lokmat.com/filmy/bollywood/kangana-ranaut-on-sharmila-tagore-vande-mataram-remarks-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kangana-ranaut-on-sharmila-tagore-vande-mataram-remark_2026081767402.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d58efb0c21e1",
-            "feed": "lokmat",
-            "title": "\"स्वतःला फक्त मराठी माणूस म्हणवणं गरजेचं नाही, तर...\"; श्वेता तिवारीची नाराजी, राज ठाकरेंना टॅग करत म्हणाली- \"त्यांचे समर्थक...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-21T10:34:12",
-            "url": "https://www.lokmat.com/filmy/television/shweta-tiwaris-long-post-tagging-raj-thackeray-and-saying-his-supporters-are-using-bad-language-to-him-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shweta-tiwaris-long-post-tagging-raj-thackeray-and-saying-his-supporters-are-using-bad-language-to-him_2026081767399.jpg",
+            "published": "2026-08-21T11:48:50",
+            "url": "https://www.lokmat.com/filmy/television/tula-japnar-ahe-fame-actress-rucha-gaikwad-engaged-photos-viral-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rucha-gaikwad-engagement-2_2026081767474.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "daeaf8778541",
+            "feed": "lokmat",
+            "title": "हॉर्मुजमध्ये तणाव वाढला! अमेरिकेच्या धमकीनंतर जागतिक राजकारणात खळबळ; चीन आणि इराण थेट आमने-सामन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-21T11:34:51",
+            "url": "https://www.lokmat.com/international/tensions-rise-in-hormuz-after-americas-threat-there-is-a-stir-in-global-politics-china-and-iran-are-directly-face-to-face-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jinping-trump-1-2_2026081767462.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a3a309b3d746",
+            "feed": "lokmat",
+            "title": "२६ वर्षांची गुप्त प्रेमकथा...! गायिकेने १६ वर्षांनी आपल्या मुलाला त्याचा बाप कोण हे सांगितले..., देशाचा राजा आहे समजल्यावर...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-21T11:22:19",
+            "url": "https://www.lokmat.com/photos/international/wendy-van-wanten-prince-laurent-affair-a-26-year-old-secret-love-story-the-singer-told-her-son-who-his-father-was-after-16-years-after-learning-that-he-was-the-king-of-the-country-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/prince-laurent-son-clement-vandenkerckhove-11-th1_2026081767448.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "d72978e1bafb",
             "feed": "lokmat",
@@ -212,136 +244,104 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-21/qjbucd1u/mqdefault.webp",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "466a035ec6c4",
-            "feed": "lokmat",
-            "title": "'रिंग ऑफ फायर'चा पुन्हा एकदा कहर; पेरूमध्ये ६.७ तीव्रतेच्या भूकंपाने उडाली तारांबळ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-21T09:49:59",
-            "url": "https://www.lokmat.com/international/peru-earthquake-67-magnitude-earthquake-hits-southern-peru-no-tsunami-threat-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/peru-earthuake_2026081767375.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5c039385cc1b",
-            "feed": "maharashtratimes",
-            "title": "Global Child Education Crisis: युद्ध आणि महागाईचा मोठा फटका! जगातील  २.३४ कोटी मुलांचे शिक्षण धोक्यात; 'युनिसेफ'चा अत्यंत धक्कादायक अहवाल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-21T08:10:00",
-            "url": "https://maharashtratimes.com/career/career-news/unicef-report-global-child-poverty-education-crisis-marathi-news/articleshow/133385350.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "324f19fef1db",
+            "id": "ece5594b09e8",
             "feed": "esakal",
-            "title": "१९ चेंडूंत ९० धावा: ऑस्ट्रेलियन फलंदाजाचे पोर्तुगालसाठी दमदार शतक! T20 World Cup पात्रता फेरीत रोनाल्डोचा देश अव्वल",
+            "title": "ENG vs PAK: मायकेल वॉनने पाकिस्तानची इभ्रत काढली; रमीझ राजाला मिरची झोंबली... Video पोस्ट करून थयथयाट",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-21T10:45:17",
-            "url": "https://www.esakal.com/krida/cricket/moises-henriques-stars-as-portugal-crush-czech-republic-in-icc-mens-t20-world-cup-sub-regional-europe-qualifier-c-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/8hql9gd0/Moises-Henriques-century-for-Portugal-against-Czech-Republic",
+            "published": "2026-08-21T11:19:17",
+            "url": "https://www.esakal.com/krida/cricket/ramiz-raja-reacts-to-michael-vaughan-calling-pakistan-weakest-team-to-tour-england-at-headingley-test-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/lh8k3tma/Ramiz-Raja-Urges-Pakistan-to-Fight-Back-Against-England.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "faa21595504b",
-            "feed": "lokmat",
-            "title": "ENG vs PAK : बाबर, तुने क्या किया?” मुमताजनं केली पोलखोल; नेमकं काय म्हणाली?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-21T10:40:34",
-            "url": "https://www.lokmat.com/cricket/news/babar-azam-ruined-pakistan-world-class-pace-attack-former-female-player-urooj-mumtaz-heavily-criticized-the-pakistan-captain-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistani-former-female-player-urooj-mumtaz-heavily-criticized-babar-azam-m_2026081767405.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "403646dd7366",
+            "id": "cdf28615660d",
             "feed": "esakal",
-            "title": "Diamond League Live Streaming: नीरज चोप्रासमोर पुन्हा एकदा श्रीलंकेच्या पाथिरागेचं आव्हान; कधी अन् कुठे पाहाणा मॅच?",
+            "title": "Arjun Tendulkar: मुंबई-गोवा अन् आता? अर्जुन तेंडुलकर कोणत्या संघाकडून खेळणार? ओमान दौऱ्यावर न गेल्याने चर्चेला उधाण",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-08-21T10:10:35",
-            "url": "https://www.esakal.com/krida/lausanne-diamond-league-live-streaming-neeraj-chopra-faces-rumesh-pathirage-javelin-match-timing-where-to-watch-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/igsf6hdo/Neeraj-Chopra-vs-Rumesh-Pathirage-Lausanne-Diamond-League.jpg",
+            "published": "2026-08-21T11:16:24",
+            "url": "https://www.esakal.com/krida/cricket/arjun-tendulkar-to-continue-with-goa-oman-tour-absence-sparks-speculation-over-his-future-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/rhwuebs2/Arjun-Tendulkar-to-continue-with-Goa-for-2026-domestic-season",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
+        },
+        {
+            "id": "9032382c95aa",
+            "feed": "maharashtratimes",
+            "title": "Aryavir Sehwag : बाप तसा बेटा! वीरेंद्र सेहवागच्या मुलाचा वडिलांसारखाच कडक बॅकफूट पंच, Video एकदा पाहाच",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-21T11:08:34",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/virender-sehwag-son-aaryavir-iconic-back-foot-punch-like-his-father-video-viral-delhi-premier-league-2026/articleshow/133392960.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "67687fbca695",
+            "id": "d95aba2d35e9",
             "feed": "lokmat",
-            "title": "Maharashtra LPG Free Village : सिलिंडर बुकिंगची झंझट संपली; महाराष्ट्रातील 'या' गावात थेट येतोय पाइपलाइनने गॅस",
+            "title": "Halad Market : हळदीला तेजीचा रंग; ७०० रुपयांनी भाव वधारले, पण बाजारातील आवक झाली निम्मी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T10:44:10",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-maharashtra-lpg-free-village-the-hassle-of-booking-cylinders-is-over-gas-is-coming-directly-to-this-village-in-maharashtra-through-pipeline-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lpg-free-village-1_2026081767414.jpg",
+            "published": "2026-08-21T11:52:36",
+            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-halad-market-turmeric-sees-bullish-trend-price-increases-by-rs-700-but-market-arrivals-halve-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/halad-market-teji-1_2026081767466.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "838effb606ef",
+            "id": "1b2bfc96f99a",
             "feed": "lokmat",
-            "title": "Gold Price 21 August 2026: सोन्या-चांदीच्या दरात विक्रमी तेजी कायम; पटापट चेक करा 24K, 22K, 18K गोल्ड रेट्स",
+            "title": "क्रिप्टो गुंतवणुकीत 'हे' राज्य आघाडीवर; दिल्ली-मुंबईलाही मागे टाकले, पाहा संपूर्ण यादी...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-21T10:24:49",
-            "url": "https://www.lokmat.com/business/savings-investments/gold-price-21-august-2026-record-rise-in-gold-and-silver-prices-continues-quickly-check-24k-22k-18k-gold-rates-mumbai-delhi-chennai-kolkata-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-women-buying-gold-1_2026081767394.jpg",
+            "published": "2026-08-21T11:44:04",
+            "url": "https://www.lokmat.com/business/savings-investments/cryptocurrency-news-this-state-leads-in-crypto-investment-even-surpasses-delhi-mumbai-see-the-complete-list-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crypto-currency-news_2026081767468.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "5b534b433e32",
-            "feed": "esakal",
-            "title": "Multibagger Stock: केवळ 8 महिन्यांत 1 लाखाचे 5 लाख झाले! AI शेअरने गुंतवणूकदारांना दिला 500% रिटर्न",
+            "id": "090a4967deca",
+            "feed": "maharashtratimes",
+            "title": "Raghuram Rajan: माणसं काढून AI वापरणाऱ्या कंपन्यांवर कर लादा, कृत्रिम बुद्धीमत्तेचा जेवढा वापर तेवढा कर! अर्थतज्ज्ञ रघुराम राजन यांचा प्रस्ताव",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-21T10:18:46",
-            "url": "https://www.esakal.com/sakal-money/share-market/multibagger-ai-stock-1-lakh-to-5-lakh-in-8-months-500-percent-return-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/0plsl7qt/Sakal-Money-35.jpg",
+            "published": "2026-08-21T11:18:31",
+            "url": "https://maharashtratimes.com/business/business-news/raghuram-rajan-warns-jobocalypse-flags-job-loss-risks-due-to-ai-strategy-to-level-field-for-human-workers/articleshow/133393265.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
