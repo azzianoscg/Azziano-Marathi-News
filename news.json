@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "21-08-2026 | 01:57 PM IST",
+    "lastUpdated": "21-08-2026 | 02:56 PM IST",
     "maharashtra": [
         {
-            "id": "e95071761d7e",
-            "feed": "esakal",
-            "title": "Mumbai News: पीओपी मूर्तींबाबत हायकोर्टाचा दिलासा, सहा फुटांवरील गणेशमूर्तींचे नैसर्गिक जलस्रोतांत विसर्जनाचा मार्ग मोकळा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T13:52:49",
-            "url": "https://www.esakal.com/mumbai/high-court-applied-last-years-policy-on-pop-idols-permitting-immersion-of-ganesh-idols-taller-than-6-feet-in-natural-water-bodies-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-11/wwig3w3s/mumbai-high-court",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c2ba0407dc2a",
-            "feed": "lokmat",
-            "title": "मुलाने डोंगरावरून घेतली उडी! वाचवताना आई-वडीलही कोसळले; तिघांच्या मृत्यूने छ.संभाजीनगर सुन्न",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T13:50:34",
-            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/chhatrapati-sambhajinagar-news-the-boy-jumped-from-the-mountain-while-saving-him-his-parents-also-fell-ch-sambhajinagar-is-stunned-by-the-death-of-three-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/khavalya-dongar-death-three-abd-crime_2026081767635.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b26cda9c361d",
+            "id": "47e691e58286",
             "feed": "maharashtratimes",
-            "title": "Kolhapur | साखर साठा असूनही दरात संशयास्पद वाढ, शेतकरी नेते राजू शेट्टींचा हल्लाबोल",
+            "title": "2014 मध्येच मविआ सरकार येणार होतं? पृथ्वीराज बाबांचा गौप्यस्फोट; फडणवीस अन् 175 नेत्यांचा दाखला",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T13:47:01",
-            "url": "https://maharashtratimes.com/maharashtra/kolhapur/raju-shetti-on-high-sugar-rate/videoshow/133398179.cms",
+            "published": "2026-08-21T14:50:05",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/got-proposal-in-2014-to-alliance-with-shiv-sena-to-keep-bjp-out-of-power-claims-congress-leader-prithviraj-chavan/articleshow/133399303.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "84427c846015",
+            "id": "8f600d14f5a7",
+            "feed": "maharashtratimes",
+            "title": "Mumbai News : मुंबईकर चॅम्पियन्सचा चाळीतून चॅम्पियनशिपपर्यंतचा प्रेरणादायी प्रवास, आमदार रविंद्र चव्हाण यांच्याकडून कौतुक",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-21T14:44:26",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mla-ravindra-chavan-praises-youth-who-reached-mumbai-championship/articleshow/133399393.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1df2de16fdd5",
             "feed": "esakal",
-            "title": "Kolhapur DCC Bank Election : कोल्हापुरात राजकीय भूकंप! जिल्हा बँकेच्या 484 संस्था अपात्र ठरण्याची शक्यता; बड्या नेत्यांचे वर्चस्व धोक्यात?",
+            "title": "जय हिंद इंडस्ट्रीजची \n६०० कोटींची गुंतवणूक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T13:46:54",
-            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-district-bank-election-2027-484-institutions-ineligible-defaulting-development-societies-voter-list-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/4g1ofm3w/Kolhapur-District-Bank-election-2027-voter-list-update",
+            "published": "2026-08-21T14:43:27",
+            "url": "https://www.esakal.com/pune/jay-hind-industries-600-crore-investment",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/aptwhrks/Banner1.png",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0d2774eec917",
+            "id": "8dfb9e2f72af",
             "feed": "lokmat",
-            "title": "Pune: ८ दिवसांत खड्डे दुरुस्त न केल्यास रस्त्यावर उतरण्याचा इशारा; प्रशासनाच्या कारभारापुढे सत्ताधारीचं हतबल",
+            "title": "अमरावती-मुंबई विमानसेवेत बदल; २५ पासून आठवड्यात ४ दिवस उड्डाण",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-21T14:43:06",
+            "url": "https://www.lokmat.com/amravati/changes-in-amravati-mumbai-flight-service-4-flights-a-week-from-25th-a-a1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-21-at-2.41.14-pm-1_2026081767706.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "9284ff325c7a",
+            "feed": "esakal",
+            "title": "Kolhapur Gokul Election 2026 : सप्टेंबरच्या पहिल्या आठवड्यात 'गोकुळ'चं चित्र होणार स्पष्ट; बिनविरोधची शक्यता मावळली, अंतिम मतदार यादी होणार प्रसिद्ध",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T13:42:55",
-            "url": "https://www.lokmat.com/pune/warning-of-taking-to-the-streets-if-potholes-are-not-repaired-within-8-days-ruling-party-desperate-before-administrations-actions-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-road-conditions-4_2026081767629.jpg",
+            "published": "2026-08-21T14:43:04",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/gokul-election-kolhapur-satej-patil-25-seats-political-battle-mushrif-narke-kore-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-13/zuonvfpz/Gokul-election-voter-list-2026-in-Kolhapur",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "9a63674509f4",
+            "id": "2534432aa90b",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : राहुल गांधींचा पोलीस ठाण्यात ठिय्या; जंतर-मंतर आंदोलनातील जखमी विद्यार्थ्याच्या तक्रारीवर एफआयआरची मागणी",
+            "title": "आर्मीचे कपडे एकसारखेच का असतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-21T13:57:08",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-21-august-2026-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-shravan-maratha-reservation-manoj-jarange-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-kaas-plateau-flower-season-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-21T14:53:34",
+            "url": "https://www.esakal.com/ampstories/web-story/why-army-uniforms-are-same-reason-behind-military-uniform-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/zlh1z3w5/1.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "4284e5b57f0b",
+            "id": "2c80df3d8335",
             "feed": "esakal",
-            "title": "त्वचेचा ग्लो परत मिळवण्यासाठी असे करा बटाटा फेशिअल!",
+            "title": "चहा बनवून तासन्‌तास ठेवता? पुन्हा गरम करून पिण्यापूर्वी 'हे' वाचा!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-21T13:48:50",
-            "url": "https://www.esakal.com/ampstories/web-story/natural-remedy-for-tanning-how-to-try-a-potato-facial-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/d6ahjm97/Potato-on-Face-Benefits-and-Side-Effects-7.jpg",
+            "published": "2026-08-21T14:44:42",
+            "url": "https://www.esakal.com/ampstories/web-story/reheating-leftover-tea-know-this-before-you-drink-it-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/zxaav1gw/Side-Effects-of-Drinking-Tea-and-Coffee-Together-8.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "bc660da1e5f7",
-            "feed": "maharashtratimes",
-            "title": "Chandra Grahan 2026 Rashibhavishya : वर्षातील शेवटचे चंद्रग्रहण कुंभ राशीत, राहु वाढवणार 5 राशींच्या अडचणी रहावे सतर्क !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-21T13:45:44",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/chandra-grahan-2026-rashibhavishya-lunar-eclipse-horoscope-effect-and-impact-on-rashi/articleshow/133398153.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d1a92f7ff318",
+            "id": "23311c383a28",
             "feed": "lokmat",
-            "title": "Batwara 1947: \"सनी देओलने मुसलमानाची भूमिका साकारल्याने...\"; चित्रपटाच्या कमी कमाईवर दिग्दर्शक राजकुमार संतोषी काय म्हणाले?",
+            "title": "लक्ष्मीकांत बेर्डे आणि सचिन पिळगावकर, दोघांसोबतच्या जोडीबद्दल अशोक सराफ स्पष्टच बोलले; म्हणाले, \"त्याला पाहिजे ते...\"",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T13:41:24",
-            "url": "https://www.lokmat.com/filmy/bollywood/batwara-1947-performed-poorly-at-the-box-office-director-rajkumar-santoshi-said-sunny-deol-played-muslim-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/batwara-1947-performed-poorly-at-the-box-office-director-rajkumar-santoshi-said-sunny-deol-played-muslim_2026081767625.jpg",
+            "published": "2026-08-21T14:42:18",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/ashok-saraf-spoke-clearly-about-his-pairing-with-laxmikant-berde-and-sachin-pilgaonkar-said-whatever-he-wants-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ashok-saraf-on-laxmikant-and-sachin_2026081767702.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "6b954e9dda30",
+            "id": "c85bd8b1e789",
             "feed": "lokmat",
-            "title": "लहान कुंडीतही वाढतं लिंबाचं रोपं, ३ गोष्टी नियमित करा-रसाळ लिंबांनी वाकेल झाड",
+            "title": "Most Expensive Indian Sarees : भारतातल्या सर्वात महागड्या ५ साड्या, पाहा प्रत्येक साडीचं खास वैशिष्ट्य आणि नजाकत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T13:40:24",
-            "url": "https://www.lokmat.com/sakhi/gardening/growing-lemon-trees-in-small-pots-tips-for-rainy-season-gardening-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-18-at-5.50.32-pm_2026081767291.jpeg",
+            "published": "2026-08-21T14:42:14",
+            "url": "https://www.lokmat.com/sakhi/photos/fashion/5-most-expensive-sarees-of-india-6-luxury-sarees-of-india-a-a602/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-21-at-12.09.39_2026081767696.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "300935149533",
+            "feed": "esakal",
+            "title": "मुलीला सासरी पाठवण्याची परंपरा कधी सुरू झाली? पहिले कन्यादान कोणी केलं होतं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-21T14:39:16",
+            "url": "https://www.esakal.com/ampstories/web-story/kanyadan-meaning-significance-hindu-marriage-daksha-prajapati-27-daughters-chandra-dev-kanyadan-ritual-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/ld717hek/1.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "2c60b71fe932",
+            "feed": "lokmat",
+            "title": "२२ भारतीय असलेल्या दोन जहाजांचे अपहरण, हॉर्न ऑफ आफ्रिकाच्या सागरी हद्दीतील खळबळजनक घटना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-21T14:02:11",
+            "url": "https://www.lokmat.com/international/hijacking-of-two-ships-carrying-22-indians-a-sensational-incident-in-the-maritime-boundaries-of-the-horn-of-africa-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/two-vessels-hijacked-by-pirates-22-indians-on-board_2026081767647.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "12ae66e2cf1e",
             "feed": "esakal",
@@ -180,22 +196,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-21/d36gk52g/gold-news-1.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "bf4a607d3c6c",
-            "feed": "lokmat",
-            "title": "धक्कादायक! २०५० पर्यंत जगातील शहरांचे चित्र बदलणार; ढाका मुंबईला मागे टाकून एक नंबरवर जाणार, नवी दिल्ली चौथ्या क्रमांकावर, तर मुंबई...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-21T13:12:34",
-            "url": "https://www.lokmat.com/international/most-populated-cities-in-world-2050-the-picture-of-the-worlds-cities-will-change-by-2050-dhaka-will-surpass-mumbai-to-become-number-one-new-delhi-will-be-in-fourth-place-and-mumbai-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bangladsh-dhaka-mumbai-population-3_2026081767607.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         },
         {
             "id": "c37194283738",
@@ -248,102 +248,102 @@
     ],
     "sports": [
         {
-            "id": "2ab142055b60",
+            "id": "15fd38f125e0",
             "feed": "esakal",
-            "title": "IND vs SL 2nd Test: श्रीलंकेने दुसऱ्या कसोटीसाठी जाहीर केला १४ सदस्यीय संघ; दुखापतीचा फटका, तरी मालिका बरोबरीत सोडवण्यासाठी मजबूत मोर्चेबांधणी",
+            "title": "लेकीने पदक जिंकले, पुलेला गोपिचंदने मिठी मारली! त्रिशा-गायत्रीची BWF World Championships मध्ये ऐतिहासिक कामगिरी; भावनिक क्षण Video",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-21T14:49:36",
+            "url": "https://www.esakal.com/krida/historic-medal-for-treesa-jolly-and-gayatri-gopichand-at-bwf-world-championships-pullela-gopichand-emotional-hug-steals-the-show-video-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/m4zoih7p/Treesa-Jolly-Gayatri-Gopichand-historic-medal-BWF-World-Championships-2026",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "bd51219dcba7",
+            "feed": "esakal",
+            "title": "IND vs SL 2nd Test: कुलदीप यादव, लोकेश राहुल सरावाला आलेच नाही; दुसऱ्या सामन्याला मुकणार? प्रशिक्षकाने Playing XI बाबत दिले महत्त्वाचे अपडेट्स",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-21T13:48:21",
-            "url": "https://www.esakal.com/krida/cricket/sri-lanka-announce-squad-for-2nd-test-vs-india-kamil-mishara-sahan-arachchige-have-been-drafted-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/g7p87pci/Sri-Lanka-14-member-squad-for-second-Test-against-India",
+            "published": "2026-08-21T14:21:05",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-2nd-test-kuldeep-yadav-and-kl-rahul-miss-training-will-they-miss-the-colombo-test-india-coach-reveals-playing-xi-plans-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/wywl2gow/Kuldeep-Yadav-KL-Rahul-miss-India-training-session-before-second-Test",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "418fdb3db142",
-            "feed": "esakal",
-            "title": "WTC स्पर्धेत जो रुटने केला वर्ल्ड रेकॉर्ड! इतिहासात आजपर्यंत कोणत्यात कर्णधाराला जमलं नव्हतं",
+            "id": "4d52afa1f514",
+            "feed": "maharashtratimes",
+            "title": "Mohammed Shami :पहिलीच मॅच, ड्रेसिंग रूममध्ये सचिन, सेहवाग अन् धोनी; युवराज म्हणाला- खुर्चीवर उभा राहा... आज तोच प्लेयर भारताचा चॅम्पियन खेळाडू",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-21T12:34:41",
-            "url": "https://www.esakal.com/krida/cricket/joe-root-scripts-wtc-history-becomes-first-captain-to-score-3000-runs-in-world-test-championship-england-vs-pakistan-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/cco19isy/Joe-Root.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "01b613945301",
-            "feed": "esakal",
-            "title": "ENG vs PAK 1st Test: फुल कॉमेडी! पाकिस्तानी खेळाडूने चेंडू स्टम्पऐवजी रिझवानच्या पायावर मारला अन् विकेटसाठी अपील करू लागला... Video",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-21T12:25:00",
-            "url": "https://www.esakal.com/krida/cricket/eng-vs-pak-1st-test-comedy-of-errors-pakistan-player-salman-agha-hit-rizwan-instead-of-stumps-then-appealed-for-a-wicket-video-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/mchghxfh/Pakistan-players-hit-Mohammad-Rizwan-instead-of-stumps-during-England-Test",
+            "published": "2026-08-21T14:08:54",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/mohammed-shami-special-incredible-journey-biography-and-biggest-turning-points-of-his-career/articleshow/133398595.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "8aaf17da4116",
+            "id": "8e31f7137069",
             "feed": "lokmat",
-            "title": "मागील महिन्यात टोमॅटो 100 रुपये किलो, आता दर घसरले, किरकोळ अन् ठोक बाजारात काय दर मिळतोय?",
+            "title": "लाईट बील वाढतंय? ३२ इंचापासून ५५ इंचापर्यंतचा स्मार्ट टीव्ही एका तासात किती वीज वापरतो? जाणून घ्या!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T13:45:02",
-            "url": "https://www.lokmat.com/agriculture/market-yard/last-month-tomatoes-were-sold-for-rs-100-per-kg-now-the-prices-down-see-latest-prices-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tamate-js_2026081767542.jpeg",
+            "published": "2026-08-21T14:43:30",
+            "url": "https://www.lokmat.com/tech/is-the-electricity-bill-increasing-how-much-electricity-does-a-32-inch-to-55-inch-smart-tv-use-in-an-hour-find-out-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/smart-tv_2026081767700.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "9f233f288a8a",
+            "id": "5f99376cbbb6",
             "feed": "lokmat",
-            "title": "AI ने बदलले नशीब! GenZ तरुणांची झाली चांदी; खरेदी केली ६०० कोटींची प्रॉपर्टी...",
+            "title": "'या' चुका टाळा अन्यथा PF खात्यातील व्याजाची रक्कम मिळणे थांबेल! 'निष्क्रिय' खात्यांबाबतचा नियम जाणून घ्या...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-21T13:43:32",
-            "url": "https://www.lokmat.com/business/news/artificial-intelligence-career-genz-youth-became-rich-bought-property-worth-600-crores-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ai-career-usa_2026081767630.jpg",
+            "published": "2026-08-21T14:41:40",
+            "url": "https://www.lokmat.com/business/savings-investments/epfo-rule-avoid-these-mistakes-otherwise-you-will-stop-getting-interest-in-your-pf-account-know-the-rule-regarding-dormant-accounts-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/epfo-rulee_2026081767699.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e5b9573c6791",
-            "feed": "esakal",
-            "title": "Home Loan EMI: महिन्याला ३.५ लाख पगार, तरीही १.७ कोटींचं घर घेतलं नाही! EMI पाहून कपलने का घेतला मोठा निर्णय?",
+            "id": "3a681622199b",
+            "feed": "lokmat",
+            "title": "राज्यात 'या' रेशन कार्डधारकांना मिळणार नाही धान्य? ‘मिशन सुधार’मध्ये आता १० निकषांवर पडताळणी",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T13:28:21",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/home-loan-emi-3-5-lakh-monthly-salary-1-7-crore-house-emi-calculation-couple-decision-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/8hgybadb/Bank-Loan-Guarantor-1.jpg",
+            "published": "2026-08-21T14:24:12",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/will-these-ration-card-holders-not-get-food-grains-in-the-state-now-verification-on-10-criteria-in-mission-sudhar-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ration-band_2026081767639.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         }
     ]
 }
