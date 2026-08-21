@@ -1,215 +1,199 @@
 {
-    "lastUpdated": "21-08-2026 | 01:04 PM IST",
+    "lastUpdated": "21-08-2026 | 01:57 PM IST",
     "maharashtra": [
         {
-            "id": "f6a74e296862",
+            "id": "e95071761d7e",
             "feed": "esakal",
-            "title": "Shahada Bribery Case: वनपाल संजय पवार यांना न्यायालयीन कोठडी; सव्वादोन महिन्यांनंतर ‘एसीबी’ची दुसरी कारवाई",
+            "title": "Mumbai News: पीओपी मूर्तींबाबत हायकोर्टाचा दिलासा, सहा फुटांवरील गणेशमूर्तींचे नैसर्गिक जलस्रोतांत विसर्जनाचा मार्ग मोकळा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-21T12:56:57",
-            "url": "https://www.esakal.com/jalgaon/shahada-acb-bribery-case-forest-officer-sanjay-pawar-investigation-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/bzhb35bd/Abhi-1.jpg",
+            "published": "2026-08-21T13:52:49",
+            "url": "https://www.esakal.com/mumbai/high-court-applied-last-years-policy-on-pop-idols-permitting-immersion-of-ganesh-idols-taller-than-6-feet-in-natural-water-bodies-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-11/wwig3w3s/mumbai-high-court",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "baa2df01f68a",
+            "id": "c2ba0407dc2a",
             "feed": "lokmat",
-            "title": "Kolhapur Crime: लग्नाच्या आमिषाने गायिकेवर लैंगिक अत्याचार, तरुणास अटक",
+            "title": "मुलाने डोंगरावरून घेतली उडी! वाचवताना आई-वडीलही कोसळले; तिघांच्या मृत्यूने छ.संभाजीनगर सुन्न",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T12:55:39",
-            "url": "https://www.lokmat.com/kolhapur/singer-sexually-assaulted-with-the-lure-of-marriage-youth-arrested-in-kolhapur-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ujalaiwadi-crime-arest_2026081767566.jpg",
+            "published": "2026-08-21T13:50:34",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/chhatrapati-sambhajinagar-news-the-boy-jumped-from-the-mountain-while-saving-him-his-parents-also-fell-ch-sambhajinagar-is-stunned-by-the-death-of-three-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/khavalya-dongar-death-three-abd-crime_2026081767635.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d7a326992ab3",
-            "feed": "lokmat",
-            "title": "पीएचडीच्या १२-१४ वर्षांच्या प्रतीक्षेला हायकोर्टाचा दिलासा; लाखांचा दंड, महिनाभराची अंतिम मुदत",
+            "id": "b26cda9c361d",
+            "feed": "maharashtratimes",
+            "title": "Kolhapur | साखर साठा असूनही दरात संशयास्पद वाढ, शेतकरी नेते राजू शेट्टींचा हल्लाबोल",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-21T12:52:40",
-            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/bamu-phd-row-bombay-hc-grants-1-month-relief-to-scholars-stuck-for-12-14-years-on-rs-1-lakh-fine-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bamu-gate-new-round-csn-abd_2025011375932.jpg",
+            "published": "2026-08-21T13:47:01",
+            "url": "https://maharashtratimes.com/maharashtra/kolhapur/raju-shetti-on-high-sugar-rate/videoshow/133398179.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "dcd20e4f101f",
-            "feed": "lokmat",
-            "title": "गणेशोत्सवाच्या पार्श्वभूमीवर कोल्हापूर पोलिसांनी जाहीर नियमावली, नियमाचे उल्लंघन करणाऱ्या मंडळांवर कडक कारवाई करणार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-21T12:50:38",
-            "url": "https://www.lokmat.com/kolhapur/kolhapur-police-announce-guidelines-ahead-of-ganeshotsav-strict-action-will-be-taken-against-mandals-that-violate-the-rules-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganeshustav-police-kolhapur_2026081767558.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bebd366a4c7d",
+            "id": "84427c846015",
             "feed": "esakal",
-            "title": "Lanja Flyover Traffic Update : गणेशोत्सवापूर्वी कोकणवासीयांना मोठा दिलासा! लांजा उड्डाणपुलावरून एकेरी वाहतूक सुरू; पाहा पूर्ण पूल कधी होणार खुला?",
+            "title": "Kolhapur DCC Bank Election : कोल्हापुरात राजकीय भूकंप! जिल्हा बँकेच्या 484 संस्था अपात्र ठरण्याची शक्यता; बड्या नेत्यांचे वर्चस्व धोक्यात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-21T12:50:09",
-            "url": "https://www.esakal.com/kokan/lanja-flyover-mumbai-goa-highway-one-way-traffic-open-before-ganeshotsav-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/g3zwdv1b/Mumbai-Goa-Highway-Lanja-flyover-opening",
+            "published": "2026-08-21T13:46:54",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-district-bank-election-2027-484-institutions-ineligible-defaulting-development-societies-voter-list-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/4g1ofm3w/Kolhapur-District-Bank-election-2027-voter-list-update",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
+        },
+        {
+            "id": "0d2774eec917",
+            "feed": "lokmat",
+            "title": "Pune: ८ दिवसांत खड्डे दुरुस्त न केल्यास रस्त्यावर उतरण्याचा इशारा; प्रशासनाच्या कारभारापुढे सत्ताधारीचं हतबल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-21T13:42:55",
+            "url": "https://www.lokmat.com/pune/warning-of-taking-to-the-streets-if-potholes-are-not-repaired-within-8-days-ruling-party-desperate-before-administrations-actions-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-road-conditions-4_2026081767629.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "f9e5a2dafcec",
+            "id": "9a63674509f4",
             "feed": "esakal",
-            "title": "‘गोविंदा-कोमल रानी लग्न करणार होते’ सुनीता आहूजाचा मोठा खुलासा, राखी सावंतसमोर म्हणाली...",
+            "title": "Marathi News Live Updates : राहुल गांधींचा पोलीस ठाण्यात ठिय्या; जंतर-मंतर आंदोलनातील जखमी विद्यार्थ्याच्या तक्रारीवर एफआयआरची मागणी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-21T13:03:13",
-            "url": "https://www.esakal.com/premier/sunita-ahuja-claims-govinda-komal-rani-were-planning-marriage-rakhi-sawant-phone-call-divorce-case-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/e4ubqlhn/SUNITA-AHUJA-GOVINDA-KOMAL-RANI-MARRIAGE-rakhi",
+            "published": "2026-08-21T13:57:08",
+            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-21-august-2026-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-uddhav-thackeray-eknath-shinde-weather-update-imd-shravan-maratha-reservation-manoj-jarange-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-kaas-plateau-flower-season-neet-mpsc-exam-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "8428df62e446",
+            "id": "4284e5b57f0b",
+            "feed": "esakal",
+            "title": "त्वचेचा ग्लो परत मिळवण्यासाठी असे करा बटाटा फेशिअल!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-21T13:48:50",
+            "url": "https://www.esakal.com/ampstories/web-story/natural-remedy-for-tanning-how-to-try-a-potato-facial-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/d6ahjm97/Potato-on-Face-Benefits-and-Side-Effects-7.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "bc660da1e5f7",
             "feed": "maharashtratimes",
-            "title": "Tukaram Mundhe : तुकाराम मुंढेचे लक्ष आता सुट्या तेलावर, तेलात भेसळ नक्की कशी असते fssai सांगितले भेसळ कशी ओळखावी",
+            "title": "Chandra Grahan 2026 Rashibhavishya : वर्षातील शेवटचे चंद्रग्रहण कुंभ राशीत, राहु वाढवणार 5 राशींच्या अडचणी रहावे सतर्क !",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-21T12:57:32",
-            "url": "https://maharashtratimes.com/lifestyle-news/home-decor-hacks/tukaram-mundhe-ban-loose-edible-oil-sales-how-to-identify-fake-cooking-oil-fssai-recommended-tips/articleshow/133396929.cms",
+            "published": "2026-08-21T13:45:44",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/chandra-grahan-2026-rashibhavishya-lunar-eclipse-horoscope-effect-and-impact-on-rashi/articleshow/133398153.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "cbac4267428a",
+            "id": "d1a92f7ff318",
             "feed": "lokmat",
-            "title": "Shravan Special: राजगिऱ्याचं थालिपीठ म्हणजे उपवासासाठी सुपरफूड! पौष्टिक खूप- ॲसिडीटीही होत नाही",
+            "title": "Batwara 1947: \"सनी देओलने मुसलमानाची भूमिका साकारल्याने...\"; चित्रपटाच्या कमी कमाईवर दिग्दर्शक राजकुमार संतोषी काय म्हणाले?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T12:54:35",
-            "url": "https://www.lokmat.com/sakhi/food/shravan-special-rajgira-thalipith-recipe-how-to-make-rajgira-thalipith-for-fast-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rajgira-thalipith-recipe_2026081767564.jpeg",
+            "published": "2026-08-21T13:41:24",
+            "url": "https://www.lokmat.com/filmy/bollywood/batwara-1947-performed-poorly-at-the-box-office-director-rajkumar-santoshi-said-sunny-deol-played-muslim-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/batwara-1947-performed-poorly-at-the-box-office-director-rajkumar-santoshi-said-sunny-deol-played-muslim_2026081767625.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "6f77cf454ac3",
+            "id": "6b954e9dda30",
             "feed": "lokmat",
-            "title": "तुर्कीची खैर नाही! सीरियावर इस्रायलची कारवाई भारतासाठी ठरू शकते गेमचेंजर? NATOच्या नियमात पळवाट",
+            "title": "लहान कुंडीतही वाढतं लिंबाचं रोपं, ३ गोष्टी नियमित करा-रसाळ लिंबांनी वाकेल झाड",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": null
             },
-            "published": "2026-08-21T12:51:52",
-            "url": "https://www.lokmat.com/photos/national/israeli-opinion-article-says-turkeys-nato-protection-does-not-apply-to-troops-in-syria-its-benefit-to-india-against-pakistan-turkey-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/isreal-india-turkey-1_2026081767559.jpg",
+            "published": "2026-08-21T13:40:24",
+            "url": "https://www.lokmat.com/sakhi/gardening/growing-lemon-trees-in-small-pots-tips-for-rainy-season-gardening-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-18-at-5.50.32-pm_2026081767291.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "28bcbbb4db48",
-            "feed": "lokmat",
-            "title": "मोठा राजकीय पेच...! तेलंगणाचे मुख्यमंत्री रेवंत रेड्डी लंडनहून अमेरिकेला जाणार होते, केंद्र सरकारने परवानगी नाकारली...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-21T12:51:41",
-            "url": "https://www.lokmat.com/national/big-political-dilemma-telangana-chief-minister-revanth-reddy-was-going-to-go-to-america-from-london-the-central-government-denied-permission-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/revanth-reddy-l_2026081767561.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "4dceb753b858",
-            "feed": "lokmat",
-            "title": "किती तो हलगर्जीपणा! डॉक्टर आजी कारमध्येच विसरल्या १० महिन्यांच्या चिमुरडीला; उकाड्यामुळे गुदमरून मृत्यू",
+            "id": "12ae66e2cf1e",
+            "feed": "esakal",
+            "title": "Viral News : खेळता खेळता ५ वर्षांच्या मुलीने गिळलं ५० ग्रॅम सोनं; डॉक्टरांनी असं काढलं बाहेर!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-08-21T12:29:21",
-            "url": "https://www.lokmat.com/international/how-careless-doctor-forgot-10-month-old-baby-in-car-died-of-suffocation-due-to-heat-stroke-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/car-incident_2026081767520.jpg",
+            "published": "2026-08-21T13:53:14",
+            "url": "https://www.esakal.com/trending-news/china-5-year-old-girl-swallows-50-gram-gold-bar-doctors-remove-gold-bar-hospital-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/d36gk52g/gold-news-1.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
-            "id": "daeaf8778541",
+            "id": "bf4a607d3c6c",
             "feed": "lokmat",
-            "title": "होर्मुझमध्ये तणाव वाढला! अमेरिकेच्या धमकीनंतर जागतिक राजकारणात खळबळ; चीन आणि इराण थेट आमने-सामने",
+            "title": "धक्कादायक! २०५० पर्यंत जगातील शहरांचे चित्र बदलणार; ढाका मुंबईला मागे टाकून एक नंबरवर जाणार, नवी दिल्ली चौथ्या क्रमांकावर, तर मुंबई...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-08-21T11:34:51",
-            "url": "https://www.lokmat.com/international/tensions-rise-in-hormuz-after-americas-threat-there-is-a-stir-in-global-politics-china-and-iran-are-directly-face-to-face-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jinping-trump-1-2_2026081767462.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a3a309b3d746",
-            "feed": "lokmat",
-            "title": "२६ वर्षांची गुप्त प्रेमकथा...! गायिकेने १६ वर्षांनी आपल्या मुलाला त्याचा बाप कोण हे सांगितले..., देशाचा राजा आहे समजल्यावर...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-21T11:22:19",
-            "url": "https://www.lokmat.com/photos/international/wendy-van-wanten-prince-laurent-affair-a-26-year-old-secret-love-story-the-singer-told-her-son-who-his-father-was-after-16-years-after-learning-that-he-was-the-king-of-the-country-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/prince-laurent-son-clement-vandenkerckhove-11-th1_2026081767448.jpg",
+            "published": "2026-08-21T13:12:34",
+            "url": "https://www.lokmat.com/international/most-populated-cities-in-world-2050-the-picture-of-the-worlds-cities-will-change-by-2050-dhaka-will-surpass-mumbai-to-become-number-one-new-delhi-will-be-in-fourth-place-and-mumbai-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bangladsh-dhaka-mumbai-population-3_2026081767607.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -244,9 +228,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-21/qjbucd1u/mqdefault.webp",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "5c039385cc1b",
+            "feed": "maharashtratimes",
+            "title": "Global Child Education Crisis: युद्ध आणि महागाईचा मोठा फटका! जगातील  २.३४ कोटी मुलांचे शिक्षण धोक्यात; 'युनिसेफ'चा अत्यंत धक्कादायक अहवाल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-21T08:10:00",
+            "url": "https://maharashtratimes.com/career/career-news/unicef-report-global-child-poverty-education-crisis-marathi-news/articleshow/133385350.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "2ab142055b60",
+            "feed": "esakal",
+            "title": "IND vs SL 2nd Test: श्रीलंकेने दुसऱ्या कसोटीसाठी जाहीर केला १४ सदस्यीय संघ; दुखापतीचा फटका, तरी मालिका बरोबरीत सोडवण्यासाठी मजबूत मोर्चेबांधणी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-21T13:48:21",
+            "url": "https://www.esakal.com/krida/cricket/sri-lanka-announce-squad-for-2nd-test-vs-india-kamil-mishara-sahan-arachchige-have-been-drafted-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/g7p87pci/Sri-Lanka-14-member-squad-for-second-Test-against-India",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "418fdb3db142",
             "feed": "esakal",
@@ -278,72 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-21/mchghxfh/Pakistan-players-hit-Mohammad-Rizwan-instead-of-stumps-during-England-Test",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "ece5594b09e8",
-            "feed": "esakal",
-            "title": "ENG vs PAK: मायकेल वॉनने पाकिस्तानची इभ्रत काढली; रमीझ राजाला मिरची झोंबली... Video पोस्ट करून थयथयाट",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-21T11:19:17",
-            "url": "https://www.esakal.com/krida/cricket/ramiz-raja-reacts-to-michael-vaughan-calling-pakistan-weakest-team-to-tour-england-at-headingley-test-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/lh8k3tma/Ramiz-Raja-Urges-Pakistan-to-Fight-Back-Against-England.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "7cc07a5c4dcc",
-            "feed": "maharashtratimes",
-            "title": "Bank of Baroda Recruitment 2026: बँक ऑफ बडोदामध्ये २ हजार ४८२ पदांची मेगाभरती; महाराष्ट्रात २१८ जागा, जाणून घ्या पात्रता आणि पगार",
+            "id": "8aaf17da4116",
+            "feed": "lokmat",
+            "title": "मागील महिन्यात टोमॅटो 100 रुपये किलो, आता दर घसरले, किरकोळ अन् ठोक बाजारात काय दर मिळतोय?",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-21T12:58:05",
-            "url": "https://maharashtratimes.com/career/career-news/bank-of-baroda-recruitment-local-bank-officer-marathi-news-bob-bharti-2482-lbo-vacancies-including-218-posts-in-maharashtra/articleshow/133396620.cms",
-            "image": "",
+            "published": "2026-08-21T13:45:02",
+            "url": "https://www.lokmat.com/agriculture/market-yard/last-month-tomatoes-were-sold-for-rs-100-per-kg-now-the-prices-down-see-latest-prices-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tamate-js_2026081767542.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "9f233f288a8a",
+            "feed": "lokmat",
+            "title": "AI ने बदलले नशीब! GenZ तरुणांची झाली चांदी; खरेदी केली ६०० कोटींची प्रॉपर्टी...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-21T13:43:32",
+            "url": "https://www.lokmat.com/business/news/artificial-intelligence-career-genz-youth-became-rich-bought-property-worth-600-crores-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ai-career-usa_2026081767630.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e5b9573c6791",
+            "feed": "esakal",
+            "title": "Home Loan EMI: महिन्याला ३.५ लाख पगार, तरीही १.७ कोटींचं घर घेतलं नाही! EMI पाहून कपलने का घेतला मोठा निर्णय?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-21T13:28:21",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/home-loan-emi-3-5-lakh-monthly-salary-1-7-crore-house-emi-calculation-couple-decision-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/8hgybadb/Bank-Loan-Guarantor-1.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "c7c88ff872ab",
-            "feed": "lokmat",
-            "title": "बड्या उद्योगांच्या शेल कंपन्या रडारवर; ३० हजार कोटींच्या परदेशी व्यवहारांची चौकशी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-21T12:45:56",
-            "url": "https://www.lokmat.com/business/news/shell-companies-of-big-industries-on-radar-foreign-transactions-worth-30000-crore-under-investigation-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/income-tax-department_20180363851.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c5b3a18fd7ed",
-            "feed": "lokmat",
-            "title": "२४ कॅरेट सोन्याचे भाव विक्रमी पातळीवर..; तरुणांमध्ये वाढली ९ कॅरेट सोन्याची क्रेझ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-21T12:39:41",
-            "url": "https://www.lokmat.com/business/savings-investments/gold-price-24-carat-gold-prices-at-record-levels-craze-for-9-carat-gold-increases-among-youth-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/9-karat-gold-price_2026081767536.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
