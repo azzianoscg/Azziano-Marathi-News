@@ -1,10 +1,58 @@
 {
-    "lastUpdated": "23-08-2026 | 12:45 AM IST",
+    "lastUpdated": "23-08-2026 | 01:42 AM IST",
     "maharashtra": [
+        {
+            "id": "5b220a101b8e",
+            "feed": "lokmat",
+            "title": "लिफ्ट मागून कार थांबविली; चाकूचा धाकावर चालकाला लुटले, अडीच लाखांची रोकड लंपास, हुडकेश्वरमधील घटनेने खळबळ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T01:15:03",
+            "url": "https://www.lokmat.com/nagpur/car-stopped-after-asking-for-lift-driver-robbed-at-knifepoint-cash-worth-rs-25-lakhs-stolen-incident-in-hudkeshwar-creates-stir-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-shocking-1_2026081768670.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7230107e8529",
+            "feed": "lokmat",
+            "title": "Nagpur: जरीपटक्यात जखमी तरुणाचा मृत्यू; खुनाचा गुन्हा दाखल, दोघांना अटक, अन्य आरोपींचा शोध",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T00:55:30",
+            "url": "https://www.lokmat.com/nagpur/nagpur-21-year-old-assault-victim-succumbs-to-injuries-murder-case-registered-against-accused-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-crime-4_2026081768668.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fba741e70d30",
+            "feed": "lokmat",
+            "title": "मुझे मेरा बच्चा दे दो, मातृत्वावर दोनदा आघात; सैरभैर अंजूममुळे सर्वच स्तंभित, तिच्यामुळे नातेवाईकांना मनस्ताप, न्यायालयातून मिळाला जामीन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T00:48:05",
+            "url": "https://www.lokmat.com/nagpur/give-me-my-child-motherhood-is-attacked-twice-everyone-is-shocked-by-sairbhair-anjum-relatives-are-suffering-because-of-her-bail-was-granted-by-the-court-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-7_2026081768666.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "53d751f0dae6",
             "feed": "lokmat",
-            "title": "Mumbai: मुंबईत गणपती आगमनावेळी २२ फूटी मूर्ती कोसळली, एकाचा मृत्यू; दोन जखमी",
+            "title": "Mumbai: मुंबईत गणपती आगमनावेळी २२ फूटी मूर्ती कोसळली; दोघांचा मृत्यू, ५ जण जखमी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
@@ -30,54 +78,6 @@
             "published": "2026-08-22T23:42:01",
             "url": "https://www.lokmat.com/maharashtra/came-from-mumbai-to-save-ebola-but-the-opposite-happened-young-man-and-young-woman-drowned-unfortunate-incident-in-sawantwadi-a-a1012/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-22-at-11.01.19-pm-2_2026081768662.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b39dfe09bdc0",
-            "feed": "maharashtratimes",
-            "title": "आयफोनवरून वाद, कुणालची डोंगरावरून उडी, आई, वडिलांचाही शेवट; आता घरी 'तो' एकटाच, अन्न-पाणी सोडलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T22:52:07",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/sambhajinagar-family-dies-after-son-jumps-off-cliff-now-have-their-dog-at-home/articleshow/133428277.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ea99c4305217",
-            "feed": "maharashtratimes",
-            "title": "\"लग्नाचं टेन्शन, कुटुंबाचा दबाव... आम्ही काय करायचं?\" MPSC पेपरफुटीमुळे मनाने पूर्णपणे तुटलेल्या विद्यार्थिनीची राहुल गांधींसमोर भावनिक व्यथा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-22T22:50:39",
-            "url": "https://maharashtratimes.com/career/career-news/mpsc-paper-leak-rahul-gandhi-pune-student-protest-marathi-news-sharayu-chopade/articleshow/133428295.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "e7a91e744f25",
-            "feed": "esakal",
-            "title": "Ganeshotsav : गणेशोत्सव निर्बंधमुक्त असावा; सर्वपक्षीय नेत्यांची मागणी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T22:46:58",
-            "url": "https://www.esakal.com/pune/ganeshotsav-should-be-free-from-restrictions-demand-leaders-across-political-parties-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/jlpfeukb/pune-ganeshotsav",
             "isBreaking": false,
             "category_reason": "feed"
         }
@@ -198,22 +198,6 @@
             "category_reason": "keyword"
         },
         {
-            "id": "08831d18f6f7",
-            "feed": "lokmat",
-            "title": "\"माझ्या पतीला बळीचा बकरा बनवलं\"; रशियाच्या जहाजावरुन भारतीय कॅप्टनला अटक, पत्नी भावुक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-22T18:42:38",
-            "url": "https://www.lokmat.com/international/indian-captain-arrested-in-uk-over-russian-oil-ship-case-wife-calls-him-a-scapegoat-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/captain-ajay-pant_2026081768546.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "0c5ef2647aee",
             "feed": "esakal",
             "title": "US Canada Trade War: अमेरिकेचा कॅनडाला मोठा आर्थिक धक्का; ५०% टॅरिफ लागू, कार्नींचा प्रत्युत्तराचा इशारा, म्हणाले...",
@@ -242,6 +226,22 @@
             "published": "2026-08-22T17:00:00",
             "url": "https://www.esakal.com/premium-article/saptahik/immanuel-kant-philosophy-moral-principles-groundwork-metaphysics-morals-world-peace-amp17",
             "image": "https://cf-images.assettype.com/esakal/2026-08-16/f5ldnr1b/Abhi-2026-08-09T185603.282.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "d7fa11bc3466",
+            "feed": "esakal",
+            "title": "Premium|Forced Labour : कायदे असूनही वेठबिगारी का थांबत नाही? सक्तीच्या मजुरीचे जागतिक वास्तव",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-22T15:00:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/forced-labour-bonded-labour-global-trade-human-rights-laws-enforcement-political-support-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/vawsmjql/Abhi-64.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
