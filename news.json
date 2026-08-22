@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "22-08-2026 | 01:47 PM IST",
+    "lastUpdated": "22-08-2026 | 02:47 PM IST",
     "maharashtra": [
         {
-            "id": "85331b13873a",
-            "feed": "maharashtratimes",
-            "title": "शिंदेसेनेचे आमदार अपात्र? ठाकरेंची कोर्टात मागणी; विधानसभा अध्यक्ष नार्वेकर काय म्हणाले?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T13:43:52",
-            "url": "https://maharashtratimes.com/maharashtra/kolhapur/rahul-narwekar-reacts-to-thackeray-factions-arguments-in-shiv-sena-mla-disqualification-case/videoshow/133420430.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6fd9e9c8b935",
-            "feed": "maharashtratimes",
-            "title": "Nagpur Accident : बाईकवरून जाताना अचानक तोल गेला, मागून येणाऱ्या बसची धडक; तरुणीचा जागीच मृत्यू",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T13:42:08",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-manewada-and-kamathi-minor-girl-young-girl-died-in-terrible-accident/articleshow/133420319.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "df78f4ad59ae",
+            "id": "c0dca1d894ae",
             "feed": "esakal",
-            "title": "Shaktipeeth Highway Protest: ‘शक्तिपीठ’बाबत आमदारांनी भूमिका जाहीर करावी; आमदार जयंत पाटील यांचे आव्हान; जिल्हाधिकारी कार्यालयावर विराट मोर्चा",
+            "title": "Aadhaar PAN Voter ID Found in Garbage: आधार, पॅन व मतदान कार्डांचा कचऱ्यात खच; येवल्यातील घटनेने खळबळ, सुरक्षिततेचा प्रश्न ऐरणीवर; चौकशीची मागणी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T14:44:54",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/yeola-aadhaar-pan-voter-id-documents-found-garbage-data-security-concern-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/cfoj1fic/Abhi-4.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "01e89ae81160",
+            "feed": "maharashtratimes",
+            "title": "Accident News: मुंबई-पुणे एक्स्प्रेस वेवरील बोगद्यात ट्रॅव्हल बसची चार वाहनांना धडक; विचित्र अपघातात १० जण जखमी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T14:44:41",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/horrific-accident-on-mumbai-pune-expressway-10-injured-traffic-disrupted/articleshow/133421048.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "11536b47e9bd",
+            "feed": "lokmat",
+            "title": "'दप्तर हलके करा, बालपण वाचवा!' भुगावच्या शाळांमध्ये पाठीच्या ओझ्याची गंभीर समस्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T14:41:00",
+            "url": "https://www.lokmat.com/pune/lighten-your-backpack-save-your-childhood-serious-problem-of-back-strain-in-bhugaon-schools-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhugaon-schools08965_2026081768350.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4dba32d7651a",
+            "feed": "lokmat",
+            "title": "कुणाल तेव्हाही जीवन संपवण्यासाठी खवड्या डोंगरावर गेला होता, पण अशी घातली गेली होती समजूत, पण आता...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T14:40:42",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/kunal-chandgude-had-gone-to-khavdya-mountain-to-end-his-life-before-he-had-made-such-a-promise-at-that-time-but-now-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kunal-chandgude-1_2026081768345.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1ad8d37f440a",
+            "feed": "lokmat",
+            "title": "कापूस व्यापाऱ्याला पाथरीतून उचलले, लोह्यात नेऊन बेदम मारहाण अन् फोन-पेवरून खंडणी! ४ लाखांची लूट; एक जेरबंद",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-22T13:37:26",
-            "url": "https://www.esakal.com/paschim-maharashtra/shaktipeeth-highway-protest-sangli-jayant-patil-farmers-land-acquisition-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/4g670aob/Abhi-5.jpg",
+            "published": "2026-08-22T14:40:01",
+            "url": "https://www.lokmat.com/parabhani/parbhani-crime-kidnapped-pathri-cotton-trader-robbed-of-rs-4-lakh-in-loha-1-nabbed-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kidnapping-crime-abd-parbhani-pathari-fea_2026081768323.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "40032ba3dc11",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : विद्यार्थ्यांचा आवाज दाबण्याचा प्रयत्न कोण करत आहे, हेही तरुणांना चांगले समजतय : विजय वडेट्टीवार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T13:35:40",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-22-august-2026-rahul-gandhi-pune-visit-chhatron-ki-goonj-congress-vs-bjp-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-weather-update-imd-cjp-shravan-maratha-reservation-pm-narendra-modi-fda-tukaram-mundhe-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-srs92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6b83b5fed69b",
-            "feed": "esakal",
-            "title": "Sugar Price Hike: साठा असूनही साखर महाग, ग्राहकांसह शेतकऱ्यांत चिंता; नक्की फायदा कोणाला? अहवाल समोर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T13:26:42",
-            "url": "https://www.esakal.com/mumbai/sugar-prices-hike-despite-having-stock-question-rising-over-who-is-benefiting-from-rising-pricesin-farmers-and-consumers-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/19z80tmb/Sugar-Price-Hike.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "364aeb01141b",
-            "feed": "lokmat",
-            "title": "खूशखबर! FASTag चा ३५० रुपयांचा मंथली पास लाँच झाला; टोलवरून महिन्यातून कितीही वेळा जा...",
+            "id": "e159a48d80e9",
+            "feed": "esakal",
+            "title": "हिमोग्लोबिन कमी आहे? आहारात या ३ पदार्थांचा करा समावेश",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-22T13:44:01",
-            "url": "https://www.lokmat.com/national/nhai-digital-local-toll-pass-good-news-fastag-monthly-pass-worth-rs-350-launched-go-through-toll-as-many-times-as-you-want-in-a-month-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fastag-109_2026081768280.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b58bfab6fbc3",
-            "feed": "lokmat",
-            "title": "तुमचं पोट रोज साफ होतं, सकाळी की सायंकाळी? ‘या’ प्रश्नाचं उत्तरच सांगतं, तुम्ही आजारी की ठणठणीत...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-22T13:38:29",
-            "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/what-does-your-pooping-time-say-about-your-health-pooping-time-and-health-healthy-pooping-habits-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/what-does-your-pooping-time-say-about-your-health_2026081768272.jpeg",
+            "published": "2026-08-22T14:45:18",
+            "url": "https://www.esakal.com/ampstories/web-story/homemade-foods-to-support-healthy-hemoglobin-levels-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/ye5wlvab/Foods-to-Boost-Your-Hemoglobin-Naturally-6.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "4596c44742f3",
+            "id": "f5e42e928d7f",
+            "feed": "maharashtratimes",
+            "title": "Amit Shah Meet CM Thalapathy Vijay: कोवलमचा संवादसेतू",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-22T14:43:39",
+            "url": "https://maharashtratimes.com/editorial/amit-shah-meets-tamil-nadu-cm-joseph-vijay-ahead-of-southern-zonal-council-meeting/articleshow/133421029.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "065ebb973c70",
             "feed": "lokmat",
-            "title": "मातीच्या गणेशमूर्तीना यंदा पसंती; पर्यावरणपूरक गणेशोत्सवासाठी लगबग",
+            "title": "फक्त १५ रुपयांत ६ उपाय, स्वस्तात मस्त काम-घरातली कानाकोपऱ्यातली वाळवी होईल कायमची गायब...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-22T13:37:27",
-            "url": "https://www.lokmat.com/goa/clay-ganesh-idols-are-preferred-this-year-ready-for-eco-friendly-ganeshotsav-in-goa-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganpati-mumbai_2017088176.jpg",
+            "published": "2026-08-22T14:40:07",
+            "url": "https://www.lokmat.com/sakhi/photos/social-viral/how-to-get-rid-of-termites-permanently-how-to-get-rid-of-termites-on-walls-termite-control-at-home-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-get-rid-of-termites-on-walls_2026081768339.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "9a7f942f9404",
+            "id": "0631256c501a",
             "feed": "lokmat",
-            "title": "लँडिंगवेळी इंडिगो विमानाचा मागील भाग धावपट्टीला घासल्याने ओरखडे! DGCA कडून विमानाचे उड्डाण तातडीने रोखले",
+            "title": "एम. एस. स्वामिनाथन : भारताच्या हरितक्रांतीचे जनक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": null
             },
-            "published": "2026-08-22T13:35:37",
-            "url": "https://www.lokmat.com/national/indigo-plane-scrapes-runway-during-landing-causing-scratches-dgca-immediately-stops-flight-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indigo-flight-_2026081768262.jpg",
+            "published": "2026-08-22T14:34:33",
+            "url": "https://www.lokmat.com/manthan/m-s-swaminathan-father-of-indias-green-revolution-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sm-swaminathan_2026081768340.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         },
         {
-            "id": "a4c8449d5aae",
+            "id": "61de76380e80",
             "feed": "lokmat",
-            "title": "मुख्यमंत्र्यांच्या पत्नीवर गंभीर आरोप; ५ कोटींची लाच घेऊन बलात्कार प्रकरण दाबण्याचा प्रयत्न? चौकशीचे आदेश",
+            "title": "बैठ्या कामामुळे हिप्स फॅट्स वाढले? ५ मिनिटांत होणारे सोपे व्यायाम- चरबी कमी होईल पटापट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": null
             },
-            "published": "2026-08-22T13:29:44",
-            "url": "https://www.lokmat.com/national/punjab-chief-minister-wife-accused-of-accepting-5-crore-bribe-national-human-rights-commission-issues-notice-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/punjab-cm-bhagwant-mann-wife_2026081768267.jpg",
+            "published": "2026-08-22T14:27:48",
+            "url": "https://www.lokmat.com/sakhi/fitness/3-exercises-that-helps-to-reduce-hips-fat-how-to-reduce-hips-fat-best-5-minutes-exercise-to-reduce-hips-fat-a-a602/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-22-at-12.50.18_2026081768330.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "ad5ac60fe507",
+            "feed": "lokmat",
+            "title": "'सिंधू'साधू...! कंगाल पाकिस्तान भारताला साखर विकण्याच्या तयारीत...; भारत घेणार का?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-22T14:32:48",
+            "url": "https://www.lokmat.com/international/sugar-shortage-india-opportunist-poor-pakistan-is-preparing-to-sell-sugar-to-india-will-india-buy-it-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-suger-will-sell-to-india_2026081768337.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "247e7fe97f6d",
             "feed": "esakal",
@@ -232,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "425bd4fb2e0d",
+            "feed": "lokmat",
+            "title": "IPL नंतर टीम इंडियात एन्ट्री; वैभव सूर्यवंशीची आता खरी परीक्षा! राहुल द्रविड म्हणाले, \"मोठं यश मिळालंय, मात्र...\"",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-22T14:06:42",
+            "url": "https://www.lokmat.com/cricket/news/rahul-dravid-words-of-wisdom-for-vaibhav-suryavanshi-focus-on-the-red-ball-rormat-alongside-the-ipl-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahul-dravid-on-vaibhav-suryavanshi-and-test-cricketm_2026081768310.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4bc1ce0a8322",
+            "feed": "maharashtratimes",
+            "title": "Wasim Jaffer : 'वनडे आणि टी-20 टीममध्ये यायचं असेल तर एकच गोष्ट कर'; ऋषभ पंतला माजी खेळाडूने काय सल्ला दिला?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-22T13:55:02",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-former-player-wasim-jaffer-advice-to-rishabh-pant-comeback-in-odi-and-t20-team/articleshow/133419672.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "4814bf22f51e",
             "feed": "esakal",
             "title": "AUS vs BAN 2nd Test: बांगलादेशच्या ६४ धावांचा पाठलाग करताना ऑस्ट्रेलियाची दमछाक; Shoriful Islam च्या सहा बळींनी फिरली मॅच, पहिल्याच दिवशी १८ विकेट्स Video",
@@ -246,88 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-22/3kiqaanv/Mitchell-Starc-and-Shoriful-Islam-take-six-wickets-each-in-second-Test",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "597799f08be7",
-            "feed": "lokmat",
-            "title": "ICC WTC Points Table : पाकिस्तान रसातळाला; इंग्लंड जिंकले, फायदा मात्र तिसऱ्याला; टीम इंडियाचं काय?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-22T13:08:39",
-            "url": "https://www.lokmat.com/cricket/news/wtc-points-table-update-after-eng-vs-pak-test-pakistan-slump-to-bottom-after-losing-to-england-in-leeds-test-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wtc-points-table-update-after-eng-vs-pak-m_2026081768240.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "42828a4d98a8",
-            "feed": "maharashtratimes",
-            "title": "AUS vs BAN Video : दुसऱ्या कसोटीत मिचेल स्टार्कचा कहर! 22 बॉलमध्ये 5 विकेट घेत बांगलादेशची उडवली दाणादाण, 64वर ऑल आऊट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-22T12:42:32",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/aus-vs-ban-2nd-tets-mitchell-starc-strikes-back-with-a-22-ball-five-wicket-haul/articleshow/133419465.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "c4aa5aadeeb7",
-            "feed": "maharashtratimes",
-            "title": "Cheque Book Rules Change: तुमच्या पैशांच्या व्यवहाराची पद्धत बदलणार; जुन्या चेकबुकचा वापर बंद होणार, आता बदलावं लागेल तुमचं ‘चेक’ बुक",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-22T13:32:57",
-            "url": "https://maharashtratimes.com/business/business-news/rbi-new-bank-cheque-book-rules-2027-alpha-numeric-code-mandatory-replace-old-before-31-december-2026/articleshow/133417559.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6d24e6389647",
+            "id": "43e934f8e108",
             "feed": "lokmat",
-            "title": "टेलिकॉम कंपनीचा भन्नाट प्लॅन...! ४८५ रुपयांचा रिचार्ज ७२ दिवसांची व्हॅलिडिटी अन् रोज २GB डेटा!",
+            "title": "श्रावण सुरू झाल्यामुळे नारळाच्या दरात अजून वाढ; वाचा मागील ५ दिवसांत काय मिळाला दर?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-22T13:30:36",
-            "url": "https://www.lokmat.com/tech/awesome-plan-recharge-of-rs-485-72-days-validity-and-2gb-data-daily-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bsnl-2562_2026081768269.jpg",
+            "published": "2026-08-22T14:13:20",
+            "url": "https://www.lokmat.com/agriculture/market-yard/coconut-prices-increase-further-as-shravan-begins-read-what-the-prices-were-in-the-last-5-days-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/naral-bajar-bhav_2026081768259.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "c0724647cb27",
+            "id": "9e7e924e8e83",
             "feed": "lokmat",
-            "title": "करटुली, भारंगी व म्हैसवेलसह नैसर्गिकरीत्या उगवणाऱ्या शेकडो रानभाज्या बहरल्या; जाणून घ्या वैशिष्ट्ये",
+            "title": "MahaDBT Seed Scheme : शेतकऱ्यांनो, योजनांचा लाभ घ्यायचाय? मग 'या' ४ गोष्टी पूर्ण करा; बियाणे मिळणार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-22T13:13:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/hundreds-of-naturally-growing-wild-vegetables-including-kartuli-bharangi-and-mhaisvel-bloomed-know-the-characteristics-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shravna-special-ranbahji_2026081768188.jpeg",
+            "published": "2026-08-22T14:03:48",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-mahadbt-seed-scheme-farmers-want-to-take-advantage-of-the-scheme-then-complete-these-4-things-you-will-get-seeds-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/biyane-1_2026081768303.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "cbc81e8acd43",
+            "feed": "esakal",
+            "title": "Premium|Nifty Capital Market Index : निफ्टी कॅपिटल मार्केट निर्देशांक म्हणजे काय? २० कंपन्यांची निवड कशी होते?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-22T13:56:00",
+            "url": "https://www.esakal.com/sakal-money/nifty-capital-market-index-nse-top-20-companies-free-float-market-capitalisation-nifty-500-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/u59t7603/Abhi-63.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ]
 }
