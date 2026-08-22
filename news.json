@@ -1,82 +1,82 @@
 {
-    "lastUpdated": "22-08-2026 | 07:39 AM IST",
+    "lastUpdated": "22-08-2026 | 09:04 AM IST",
     "maharashtra": [
         {
-            "id": "68f4214d2546",
+            "id": "f4be46a84948",
+            "feed": "esakal",
+            "title": "Kolhapur Corporator Harassment Case: नगरसेविकेच्या विनयभंगप्रकरणी एकावर गुन्हा; रस्त्यात अडविले",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T08:58:28",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-corporator-harassment-case-old-palace-police-garbage-issue-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/i283ic3w/Abhi-6.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c381dde836dd",
+            "feed": "esakal",
+            "title": "Chandgude Family Tragedy: मालकांच्या आठवणीत श्वानाचे डोळे पाणावले; लाडक्या कुणालची वाट पाहात दिवसभर खाल्ला नाही अन्नाचा कण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-22T08:53:26",
+            "url": "https://www.esakal.com/marathwada/aurangabad/chandgude-family-pet-dog-kunal-zalta-phata-sambhajinagar-emotional-story-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/q50skys1/Abhi-4.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "d80433f4c1e0",
+            "feed": "esakal",
+            "title": "Chhatrapati Sambhajinagar: तुला वडील नको का? मंगळसूत्र तोडते, तुझ्या पाया पडते, पण तू मागं ये; आईची आर्त विनवणी, पण शेवटी...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-22T08:39:43",
+            "url": "https://www.esakal.com/marathwada/aurangabad/khavdya-dongar-chhatrapati-sambhajinagar-chandgude-family-tragic-incident-police-investigation-iphone-financial-stress-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/z08vtaox/Abhi-4.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "40032ba3dc11",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : सीओईपीतील गोंधळ प्रकरणी युवक काँग्रेसच्या ५० ते ६० कार्यकर्त्यांवर गुन्हा दाखल",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T08:39:00",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-22-august-2026-rahul-gandhi-pune-visit-chhatron-ki-goonj-congress-vs-bjp-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-weather-update-imd-cjp-shravan-maratha-reservation-pm-narendra-modi-fda-tukaram-mundhe-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-srs92-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1ee2e7a06a6c",
             "feed": "maharashtratimes",
-            "title": "Prithviraj Chavan: ही सरकारच्या शेवटाची सुरुवात! 'जेन झी'च्या आंदोलनाबाबत माजी मुख्यमंत्री चव्हाणांचा निशाणा",
+            "title": "Mumbai Local Update: विकेंडला मुंबईकरांचे हाल! मध्य, हार्बर रेल्वेमार्गावर मेगाब्लॉक; कोणत्या लोकल रद्द? पाहा वेळापत्रक",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-22T07:16:54",
-            "url": "https://maharashtratimes.com/maharashtra/nashik/congress-prithviraj-chavan-says-bjp-in-panic-mode-after-genz-delhi-protest/articleshow/133415795.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "04547e3f8346",
-            "feed": "lokmat",
-            "title": "सुसंवादावरून काँग्रेस-राष्ट्रवादीत जुंपली; सुप्रिया सुळेंचे विधान अन् नाना पटोलेंचे उत्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T07:09:57",
-            "url": "https://www.lokmat.com/mumbai/congress-ncp-sp-group-clash-over-communication-gap-mp-supriya-sule-statement-and-nana-patole-reply-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supriya-sule-and-nana-patole_2024111342437.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c7af3c339add",
-            "feed": "lokmat",
-            "title": "आमदाराचे विनंती पत्र कोर्टाच्या आदेशापेक्षा वरचढ आहे का?; हायकोर्टाचा आयुक्तांना संतप्त सवाल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T07:06:20",
-            "url": "https://www.lokmat.com/mumbai/is-the-mla-request-letter-superior-to-the-court-order-mumbai-high-court-angry-question-to-mira-bhayandar-commissioner-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/high-court-mumbai-0704_2026041678766.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "40f0e18cdc87",
-            "feed": "lokmat",
-            "title": "मध्य रेल्वेवर उद्या प्रवास खोळंबणार; गर्दी उसळणार, हार्बर मार्गावरील फेऱ्या पाच तास बंद",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T06:52:13",
-            "url": "https://www.lokmat.com/mumbai/travel-on-central-railway-will-be-disrupted-tomorrow-harbour-line-services-will-be-closed-for-five-hours-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-mega-block-news-in-marathi_2025061474888.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a458a76c6dd1",
-            "feed": "maharashtratimes",
-            "title": "Rahul Gandhi Pune: राहुल गांधींचा आज पुण्यात 'छात्रों की गूंज' कार्यक्रम; पोलिसांकडून कडेकोट सुरक्षा व्यवस्था",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T06:48:06",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/rahul-gandhi-visiting-pune-today-22-august-2026-for-chhatron-ki-goonj-program/articleshow/133415675.cms",
+            "published": "2026-08-22T08:38:53",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-local-train-update-central-harbour-railway-megablock-on-23-august-2026/articleshow/133416177.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -84,84 +84,84 @@
     ],
     "india": [
         {
-            "id": "dfc60f7f4181",
-            "feed": "maharashtratimes",
-            "title": "Bhushan Pradhan: माझे विचार थेट त्या व्यक्तिरेखेत शोधत नाही, भूमिका निवडीवर स्पष्टच बोलला अभिनेता भूषण प्रधान",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-22T07:31:53",
-            "url": "https://maharashtratimes.com/entertainment/interview/marathi-actor-bhushan-pradhan-talks-about-role-in-bhushan-pradhan/articleshow/133415878.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "011fb08f9cb1",
-            "feed": "maharashtratimes",
-            "title": "Star Pravah Actress: ठरलं तर मग! स्टार प्रवाहच्या 'मी कात टाकली’ मालिकेत अभिनेत्री सानिका मोजार दिसणार नागिणीच्या रुपात",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-22T07:11:33",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/star-pravah-new-serial-mi-kaat-takali-actress-name-revealed-sanika-mojar-to-play-lead-role-as-nagin/articleshow/133415793.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ab8de403b481",
-            "feed": "lokmat",
-            "title": "Shravan Shanivar 2026: श्रावणातल्या प्रत्येक शनिवारी का करतात पिंपळाची पूजा? जाणून घ्या अश्वत्थ पूजेचे महत्त्व!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-22T07:10:01",
-            "url": "https://www.lokmat.com/bhakti/shravan-shanivar-2026-why-is-peepal-worship-performed-on-every-saturday-in-shravan-know-the-importance-of-ashwath-puja-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shravan-shanivar-2026-ashvath-maruti-pujan_2026081767838.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ea6a3a8d5987",
+            "id": "78eda49aaeb4",
             "feed": "esakal",
-            "title": "आजचे राशिभविष्य - 22 ऑगस्ट 2026",
+            "title": "Teacher Recruitment Update : सरकारी शाळांमध्ये 15,000 शिक्षकांची भरती! कन्नडसोबत मराठीसाठी 200, तर ऊर्दूसाठी 800 जागा; D.Ed.-B.Ed. धारकांना मोठा दिलासा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-22T07:00:00",
-            "url": "https://www.esakal.com/horoscope/on-this-day-today-rashi-bhavishya-horoscope-in-marathi-22nd-august-2026-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-25/i2b4j4n6/esakal2025-11-039nzjhvy62horoscope.avif",
+            "published": "2026-08-22T08:53:38",
+            "url": "https://www.esakal.com/education-jobs/karnataka-teacher-recruitment-marathi-urdu-medium-1000-vacancies-ded-bed-government-schools-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-06-11/57fe2bgd/Karnataka-government-primary-teacher-recruitment-2026",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "8b6904ce92f1",
+            "feed": "lokmat",
+            "title": "रात्री दही खावं की खाऊच नये? या प्रश्नाचं खरंखुरं शास्त्रीय उत्तर, वाचून तुम्हीच ठरवा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-22T08:50:02",
+            "url": "https://www.lokmat.com/sakhi/food/is-curd-good-for-health-see-how-much-to-eat-and-how-much-to-avoid-a-a1009/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/curd-foodss_2026081767979.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "2062bda29687",
+            "id": "8d0e696f0c74",
             "feed": "lokmat",
-            "title": "मुख्यमंत्री रेवंत रेड्डी यांचा अमेरिका दौरा नाकारला; परराष्ट्र मंत्रालयाने नियमच दाखवला",
+            "title": "भयानक...! सोडून गेलेली पत्नी परत मिळावी म्हणून मित्राचा नरबळी दिला; जेवायला बोलावले अन्...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-22T06:49:53",
-            "url": "https://www.lokmat.com/national/telangana-cm-revanth-reddy-america-tour-rejected-ministry-of-external-affairs-shows-the-rules-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/revanth-reddy-pc-news_2024111341527.jpg",
+            "published": "2026-08-22T08:19:52",
+            "url": "https://www.lokmat.com/national/human-sacrifice-in-odisha-horrible-a-man-sacrificed-his-friend-to-get-his-abandoned-wife-back-invited-him-for-dinner-and-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/narbali-odisha-news-2_2026081768092.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "22880eac71e2",
+            "feed": "maharashtratimes",
+            "title": "Yogesh Sahu KBC 18: आयआयटी मुंबईचा टॉपर, १ कोटीच्या प्रश्नावर चुकला २३ वर्षीय योगेश साहूचा अंदाज, तुम्हाला येतंय का उत्तर?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-22T08:19:27",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/kaun-banega-crorepati-18-iit-bombay-topper-yogesh-sahu-quit-at-rs-1-crore-question-won-rs-50-lakhs/articleshow/133416189.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b8d669b000a5",
+            "feed": "esakal",
+            "title": "रवी किशन यांना घरात कोंडून ठेवण्याची पत्नीची इच्छा! पण कारण काय असेल?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-22T08:04:00",
+            "url": "https://www.esakal.com/premier/ravi-kishan-wife-preeti-shukla-wants-to-lock-him-at-home-viral-statement-why-ravi-kishan-going-viral-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/cnohac93/WHY-DOES-RAVI-KISHAN-WIFE-WANT-TO-LOCK-HIM-AT-HOME",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
@@ -248,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "f615c7867f65",
+            "feed": "esakal",
+            "title": "India vs Sri Lanka Test: कुलदीप यादव दुसरी कसोटी खेळणार का? बहुतुलेंनी स्पष्टच सांगितले, म्हणाले...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-22T08:47:28",
+            "url": "https://www.esakal.com/krida/kuldeep-yadav-sairaj-bahutule-kookaburra-ball-india-sri-lanka-second-test-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-14/lbmcq9rr/Kuldeep-Yadav-Ravindra-Jadeja-Manav-Suthar-playing-together-in-Galle-Test",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1c989a09b573",
+            "feed": "esakal",
+            "title": "AUS vs BAN 2nd Test: 'झिप झॅप झूम'! Mitchell Starc चा कहर, २२ चेंडूंत ५ विकेट्स; बांगलादेशची ७ बाद ३६ धावा, बिकट अवस्था Video",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-22T08:29:27",
+            "url": "https://www.esakal.com/krida/cricket/aus-vs-ban-2nd-test-mitchell-starc-takes-5-wickets-in-22-balls-bangladesh-slump-to-367-video-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/nbnti1bv/Mitchell-Starc-takes-five-wickets-in-22-balls-against-Bangladesh",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "3f75adf637c9",
             "feed": "esakal",
             "title": "PAK vs ENG: पाकिस्तानचा पुन्हा फ्लॉप शो; इंग्लंडसमोर पत्त्यांसारखा कोसळला संघ, एक डाव अन् १०३ धावांनी दारुण पराभव, नेमकं कुठे चुकलं?",
@@ -262,41 +294,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-21/mjsep35a/end-vs-pak.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        }
+    ],
+    "business": [
+        {
+            "id": "33e3ff8ac5a4",
+            "feed": "lokmat",
+            "title": "सातबारा दुरुस्तीवर सरकारचा मोठा निर्णय; आता फक्त 'या' चुकांसाठीच करता येणार 'कलम १५५’चा वापर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-22T08:57:09",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/governments-big-decision-on-the-12th-amendment-now-section-155-can-be-used-only-for-these-mistakes-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/satbara-durusti-niyam_2026081768094.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         },
         {
-            "id": "d3fb06b3b1ca",
+            "id": "1be4713603b3",
             "feed": "maharashtratimes",
-            "title": "Imran Khan Pakistan : बॉलिवूड सुपरस्टारला जिच्यावर प्रेम होतं, त्याच सौंदर्यवतीच्या प्रेमात वेडे झालेले इम्रान खान; आता तीन वर्षांपासून तुरुंगात, कारण काय?",
+            "title": "सरकारी स्कीमच्या गुंतवणुकीतून मिळवा लाखोंचा निधी; महिन्याला 2000, 5000 किंवा 10000 रुपये गुंतवल्यास फक्त व्याजाचे मिळतील 37 लाख",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "sports"
+                "category": "business"
             },
-            "published": "2026-08-21T20:52:26",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/imran-khan-cricket-career-and-zeenat-aman-1992-world-cup-pakistan-pm-adiala-prison/articleshow/133408089.cms",
+            "published": "2026-08-22T08:45:35",
+            "url": "https://maharashtratimes.com/business/business-news/sukanya-samriddhi-yojana-how-monthly-1000-1200-2000-5000-10000-investment-could-give-55-lakh-income/articleshow/133416180.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
-        {
-            "id": "d143173ff4ad",
-            "feed": "esakal",
-            "title": "वैभव सूर्यवंशीची बॅटिंग पाहायचीय? दिलीप ट्रॉफी कधीपासून? सामने LIVE प्रक्षेपित केले जाणार का, जाणून घ्या संपूर्ण माहिती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-21T20:30:00",
-            "url": "https://www.esakal.com/krida/cricket/vaibhav-sooryavanshi-duleep-trophy-2026-live-streaming-telecast-schedule-match-details-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/tycd2wi3/IND-vs-SL.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "business": [
         {
             "id": "c3385462bda0",
             "feed": "maharashtratimes",
@@ -309,38 +341,6 @@
             },
             "published": "2026-08-22T07:00:00",
             "url": "https://maharashtratimes.com/business/business-news/milky-mist-success-story-how-satish-kumar-started-it-at-the-age-of-16-years/articleshow/133406063.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f944c9fc2399",
-            "feed": "maharashtratimes",
-            "title": "आधार कार्डवरून बँक खाते होऊ शकते रिकामे; घरबसल्या नंबर लपवण्याचा सोपा मार्ग",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-22T06:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/how-to-download-masked-aadhaar-online-step-by-step-to-protect-your-identity/articleshow/133405588.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "b48fad7f1bc9",
-            "feed": "maharashtratimes",
-            "title": "सरकारने इथेनॉलवर पुन्हा केली टाळाटाळ अन् दिली भलतीच कारणे, मग नक्की कशामुळे महागली साखर?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-21T21:24:43",
-            "url": "https://maharashtratimes.com/business/business-news/sugar-price-hike-reasons-according-to-indian-government/articleshow/133407797.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
