@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "22-08-2026 | 11:44 PM IST",
+    "lastUpdated": "23-08-2026 | 12:45 AM IST",
     "maharashtra": [
+        {
+            "id": "53d751f0dae6",
+            "feed": "lokmat",
+            "title": "Mumbai: मुंबईत गणपती आगमनावेळी २२ फूटी मूर्ती कोसळली, एकाचा मृत्यू; दोन जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T00:24:41",
+            "url": "https://www.lokmat.com/mumbai/tragedy-at-bhuleshwar-cha-raja-agaman-mirawanuk-mandal-president-minor-girl-among-3-injured-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhuleshwar-cha-raja-agaman-mirawanuk_2026081768664.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7f6213508edf",
+            "feed": "lokmat",
+            "title": "अबोला सोडवण्यासाठी मुंबईहून आला, पण उलटेच घडले, युवकासह युवतीचा बुडून मृत्यू, सावंतवाडीतील दुर्दैवी घटना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T23:42:01",
+            "url": "https://www.lokmat.com/maharashtra/came-from-mumbai-to-save-ebola-but-the-opposite-happened-young-man-and-young-woman-drowned-unfortunate-incident-in-sawantwadi-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-22-at-11.01.19-pm-2_2026081768662.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "b39dfe09bdc0",
             "feed": "maharashtratimes",
@@ -48,41 +80,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-22/jlpfeukb/pune-ganeshotsav",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "d86aacc37c05",
+            "id": "346eb1dc7dfd",
             "feed": "maharashtratimes",
-            "title": "‘मराठी येत नाही म्हणून रिक्षावाला सोडतोय मुंबई’, रिक्षा ट्रेनमध्ये ढकलतानाचा VIDEO व्हायरल, RTOच्या कारवाईची होतेय चर्चा",
+            "title": "<b>पंचांग 23 August 2026: पुत्रदा स्मार्त एकादशी, चंद्राधियोग, बुधादित्य योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-22T22:43:22",
-            "url": "https://maharashtratimes.com/viral/viral-news/learn-marathi-or-this-will-be-your-fate-auto-rickshaw-video-goes-viral-amid-mumbai-language-row/articleshow/133428362.cms",
+            "published": "2026-08-23T00:14:21",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-23-august-2026-in-marathi-putrada-smarta-ekadashi-chandradhi-yog-budhaditya-yog-and-shubha-muhurta/articleshow/133430013.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
         },
-        {
-            "id": "cb4622755958",
-            "feed": "lokmat",
-            "title": "कुणालची आई होती युट्युबर, गुरुवारी शेअर केला होता शेवटचा व्हिडीओ, म्हणाल्या होत्या…",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T22:35:15",
-            "url": "https://www.lokmat.com/photos/chhatrapati-sambhajinagar/kunal-chandgudes-mother-was-a-youtuber-she-shared-her-last-video-on-thursday-saying-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sangita-chandgude-youtube-2_2026081768651.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
         {
             "id": "875bc455e149",
             "feed": "esakal",
@@ -146,22 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "e9982cde5d92",
-            "feed": "esakal",
-            "title": "वरिष्ठ IAS अधिकारी बेपत्ता, मोबाईही बंद; शेवटचं लोकेशन बंगळुरु विमानतळावर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-22T21:51:34",
-            "url": "https://www.esakal.com/desh/karnataka-ias-officer-gyanendra-kumar-gangwar-missing-mobile-switched-off-last-location-bengaluru-kempegowda-airport-kpsc-exam-controller-latest-news-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/3qyh6zzr/Karnataka-IAS-Officer-Gyanendra-Kumar-Gangwar-Missing",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
