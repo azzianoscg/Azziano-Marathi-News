@@ -1,88 +1,136 @@
 {
-    "lastUpdated": "22-08-2026 | 08:41 PM IST",
+    "lastUpdated": "22-08-2026 | 09:42 PM IST",
     "maharashtra": [
         {
-            "id": "c4bfe3fdfa18",
-            "feed": "esakal",
-            "title": "Balewadi Accident : चिखलामुळे बालेवाडीत दुचाकीस्वारांचे अपघात; नागरिकांचा संताप",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T20:40:59",
-            "url": "https://www.esakal.com/pune/mud-causes-accidents-for-two-wheeler-riders-in-balewadi-citizens-express-anger-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/2c7r3atk/Mud-Causes-Accidents-for-Two-Wheeler-Riders-in-Balewadi",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "40032ba3dc11",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : चाकणमध्ये वाहतूककोंडी; पुणे-नाशिक महामार्गावर वाहनांच्या रांगा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T20:40:39",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-22-august-2026-rahul-gandhi-pune-visit-chhatron-ki-goonj-congress-vs-bjp-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-weather-update-imd-cjp-shravan-maratha-reservation-pm-narendra-modi-fda-tukaram-mundhe-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-srs92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3f6c980549b5",
+            "id": "61f0f8aed259",
             "feed": "lokmat",
-            "title": "कर्मचारी पर्मनंट होणार, वेतनही वाढणार, कोणाला मिळेल लाभ?",
+            "title": "Chhatrapati Sambhajinagar: १३ जणांच्या आत्महत्या अन् एकाची हत्या; खवड्या डोंगराचा भयानक इतिहास, गावकऱ्यांमध्ये घबराट!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T21:35:35",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/chhatrapati-sambhajinagar-khavadya-mountain-tragedy-local-fears-rise-after-13-suicides-and-fatal-family-fall-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chhatrapati-sambhajinagar-khavadya-mountain-tragedy_2026081768645.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "65a3929243ea",
+            "feed": "esakal",
+            "title": "Koyna Surplus Land : तीन पिढ्या संपल्या, पण नोकरी मिळालीच नाही! पोफळी, कोळकेवाडीतील कोयना प्रकल्पग्रस्तांची नेमकी मागणी काय? 2 वर्षांपूर्वीचा शासन निर्णय कागदावरच",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-22T21:29:35",
+            "url": "https://www.esakal.com/kokan/chiplun-koyna-project-affected-families-surplus-land-return-employment-rehabilitation-demand-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/nr28zct4/Koyna-project-rehabilitation-and-land-acquisition-issues",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1ef561784e79",
+            "feed": "lokmat",
+            "title": "मुलगा, वडील, आई... सगळे गेले, सुन्या सुन्या घरात मागे उरला केवळ कुत्रा, त्याची झालीय अशी अवस्था",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T21:13:36",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/chhatrapati-sambhaji-nagar-news-son-father-mother-everyone-is-gone-only-the-dog-is-left-in-the-deserted-house-he-is-in-such-a-state-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chhatrapati-sambhaji-nagar-news-2_2026081768643.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "266211266817",
+            "feed": "esakal",
+            "title": "Premium|Chhatrapati Sambhajinagar iphone:आयफोनचा हट्ट जिवावर बेतला? मोबाइल, मानसिकता आणि मुलं हा तिढा सोडवायचा कसा?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-22T21:13:06",
+            "url": "https://www.esakal.com/premium-article/chhatrapati-sambhajinagar-iphone-craze-rural-india-teen-mobile-addiction-mental-health-parenting-skp29",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/cwrj4g0f/mobile-CSMT.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "0e18d42598ec",
+            "feed": "esakal",
+            "title": "Leopard Attack : सहजपूरला बिबट्याच्या हल्ल्यात १७ बोकड ठार; ईदसाठी बोकड आणले होते",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T21:06:46",
+            "url": "https://www.esakal.com/pune/leopard-attack-kills-17-bokad-in-sahajpur-goats-had-been-brought-for-eid-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/8nsmqxyd/Leopard-Attack-Kills-17-bokad-in-Sahajpur",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "b0b710a10253",
+            "feed": "maharashtratimes",
+            "title": "Smriti Irani : 'तुकाराम ओंबळेंनी कसाबला पकडण्यासाठी एखाद्या तरुणाची वाट पाहिली नाही', स्मृती इराणींचं वक्तव्य, केली जेन झींची बोलती बंद",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-22T21:09:09",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/smriti-irani-talks-about-gen-z-recalls-26-11-attacks-tukaram-omble-ajmal-kasab/articleshow/133426958.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "a56ac846bd91",
+            "feed": "lokmat",
+            "title": "Kothimbir Vadi : कोथिंबीर वडीत 'हे' पदार्थ न विसरता घाला, तरच वडी होईल कुरकुरीत-पाहा खास ट्रिक...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-22T20:30:46",
-            "url": "https://www.lokmat.com/gadchiroli/employees-will-become-permanent-salaries-will-also-increase-who-will-get-the-benefits-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-22-at-8.29.58-pm-1_2026081768632.jpeg",
+            "published": "2026-08-22T21:05:02",
+            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-make-crunchy-coriander-vadi-secret-ingredients-for-crispy-kothimbir-vadi-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/secret-ingredients-for-crispy-kothimbir-vadi_2026081768565.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "9dbf39f77993",
+            "feed": "maharashtratimes",
+            "title": "Manasi Salvi : 'मला निघून जायला सांगितलं', सुप्रसिद्ध मराठी अभिनेत्रीला आला हिंदी मालिकेच्या सेटवर वाईट अनुभव",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-22T20:42:58",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/manasi-salvi-shares-bad-experience-of-mahadev-and-sons-hindi-serial/articleshow/133426529.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
-        {
-            "id": "aab24a1ce8bf",
-            "feed": "lokmat",
-            "title": "मुंबईचा जागतिक कीर्तीचा शरीरसौष्ठवपटू सागर माळीचे निधन, अवघ्या ३८व्या वर्षी घेतला अखेरचा श्वास",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T20:30:27",
-            "url": "https://www.lokmat.com/mumbai/mumbais-world-renowned-bodybuilder-sagar-mali-passes-away-breathed-his-last-at-the-age-of-just-38-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sagar-mali-1_2026081768630.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6a2887c08a79",
-            "feed": "esakal",
-            "title": "Rahul Gandhi: महिलांची ओळख वडील, पती किंवा मुलांमुळे नाही... ‘छात्रों की गूंज’मध्ये राहुल गांधींनी मांडली महिलांच्या स्वातंत्र्याची भूमिका",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-22T20:25:18",
-            "url": "https://www.esakal.com/pune/rahul-gandhi-says-women-must-be-free-nari-shakti-is-strength-of-nation-at-students-ki-goonj-in-pune-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/af4xswj5/Rahul-Gandhi-Highlights-Women’s-Rights-and-Freedom-at-Students-Ki-Goonj.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
         {
             "id": "835c8e8a3576",
             "feed": "lokmat",
@@ -114,57 +162,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-16/mmmuhx67/Abhi-43.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "11c2c70ef92c",
-            "feed": "esakal",
-            "title": "लोअर, मिडल की अपर बर्थ? सीटखाली सामान ठेवण्याचा अधिकार कुणाचा?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-22T20:16:17",
-            "url": "https://www.esakal.com/ampstories/web-story/indian-railways-lower-middle-upper-berth-under-seat-luggage-storage-space-rights-who-can-keep-luggage-under-lower-berth-train-rules-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/7b0hjdsq/Indian-Railways-Lower-Berth-Rule-9.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "ea2c3aea3b41",
-            "feed": "lokmat",
-            "title": "'लक्ष्मीनिवास' फेम अभिनेत्री होणार आई! फ्लॉन्ट केला बेबी बंप, मॅटर्निटी फोटोशूटला मिळतेय पसंती",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-22T20:06:28",
-            "url": "https://www.lokmat.com/filmy/photos/television/laxminivas-fame-actress-payal-pandey-to-become-a-mother-flaunts-baby-bump-maternity-photoshoot-is-getting-liked-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/payal-pandey-01_2026081768618.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ea89621367c4",
-            "feed": "lokmat",
-            "title": "रोज घालण्यासाठी स्मार्ट कलमकारी सुंदर गाऊन! फक्त ६०० रुपयांत कम्फर्ट आणि स्टाइलही, विसरा नेहमीचे गबाळे गाऊन...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-22T20:00:02",
-            "url": "https://www.lokmat.com/sakhi/photos/fashion/kalamkari-night-gown-cotton-kalamkari-night-gown-kalamkari-printed-night-gown-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trendy-kalamkari-night-gown_2026081768483.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "d92b1c23cb59",
+            "feed": "maharashtratimes",
+            "title": "Strait of Hormuz American territory: ट्रम्प यांचा दुसऱ्यांदा दावा, Venezuela वरून डिवचलं",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-22T20:42:22",
+            "url": "https://maharashtratimes.com/video/mt-originals/trump-hormuz-claim-iran-response-venezuela-canada-us-tensions/videoshow/133426763.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "08831d18f6f7",
             "feed": "lokmat",
@@ -228,22 +244,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-22/vawsmjql/Abhi-64.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "247e7fe97f6d",
-            "feed": "esakal",
-            "title": "El Nino 2027: १०० वर्षांत जे घडलं नाही, ते २०२७ मध्ये घडणार? एल निनोचा भयंकर इशारा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-22T09:31:52",
-            "url": "https://www.esakal.com/global/strongest-el-nino-in-100-years-2027-record-breaking-heatwave-low-rainfall-crop-damage-inflation-warning-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/h2h9kkli/Scientists-warn-that-a-potentially-severe-El-Nino-in-2027-could-drive-global-temperatures-higher-and-affect-rainfall-and-agriculture.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "347f83ce860d",
+            "feed": "maharashtratimes",
+            "title": "सरकारी गोल्ड बॉन्ड रीडीम करण्याचे कॅलेंडर जारी! दोन वेगवेगळ्या तारखांमुळे उडतोय गोंधळ? समजून घ्या सोप्या भाषेत",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-22T20:59:25",
+            "url": "https://maharashtratimes.com/business/business-news/gold-bond-redemption-calender-difference-between-premature-redemption-and-request-window/articleshow/133426460.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "768adf1b9125",
             "feed": "lokmat",
             "title": "मातीशिवाय शेती; इन्सुलिन, भाजीपाला अन् मत्स्य उत्पादन, पाण्याचीही बचत; काय आहे 'पुसा'चे स्मार्ट तंत्रज्ञान",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sugar-st_2026081768589.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "48892b90a0ac",
-            "feed": "lokmat",
-            "title": "सुट्ट्यांची रेलचेल, पुढच्या आठवड्यात ‘या’ दिवशी राहणार बँका बंद, असं करा कामाचं नियोजन, नाहीतर होईल खोळंबा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-22T19:50:48",
-            "url": "https://www.lokmat.com/business/news/banks-will-be-closed-on-this-day-next-week-plan-your-work-accordingly-otherwise-there-will-be-delays-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-holiday-1_2026081768598.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
