@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "23-08-2026 | 02:42 AM IST",
+    "lastUpdated": "23-08-2026 | 03:41 AM IST",
     "maharashtra": [
         {
             "id": "5b220a101b8e",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "54506c1a1b7d",
+            "feed": "esakal",
+            "title": "Pisces Weekly Horoscope: मीन राशीसाठी निर्णय घेताना सावधान! विलंबानंतर मिळणार यश; जुनी व्यक्ती पुन्हा आयुष्यात येण्याची शक्यता",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T03:30:00",
+            "url": "https://www.esakal.com/horoscope/pisces-weekly-horoscope-should-be-cautious-while-making-decisions-23rd-august-2026-to-29th-august-2026-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-19/58g3iio5/Pisces-zodiac-sign-August-23-to-29",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "346eb1dc7dfd",
             "feed": "maharashtratimes",
             "title": "<b>पंचांग 23 August 2026: पुत्रदा स्मार्त एकादशी, चंद्राधियोग, बुधादित्य योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
@@ -144,22 +160,6 @@
             "published": "2026-08-22T22:34:50",
             "url": "https://www.esakal.com/ampstories/web-story/how-was-pocket-watch-invented-know-history-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-08-22/xbivw774/Before-Wristwatches-There-Were-Pocket-Watches-Know-Their-History.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e425fe129563",
-            "feed": "maharashtratimes",
-            "title": "दोन केक दिसताहेत सारखेच, हुशार असाल तर या केकमधील फरक दाखवा शोधून",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-22T22:12:34",
-            "url": "https://maharashtratimes.com/viral/viral-news/can-you-spot-3-differences-between-these-two-cake-pictures-try-this-viral-puzzle/articleshow/133427970.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
