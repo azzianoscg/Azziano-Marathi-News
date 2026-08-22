@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "22-08-2026 | 04:42 PM IST",
+    "lastUpdated": "22-08-2026 | 05:49 PM IST",
     "maharashtra": [
         {
-            "id": "1b105c179d28",
-            "feed": "esakal",
-            "title": "Maratha Reservation : माजी मंत्री अब्दुल सत्तार यांची शिष्ठाई निष्फळ; मनोज जरांगे उपोषण करण्यावर ठाम",
+            "id": "f0793ecffdca",
+            "feed": "lokmat",
+            "title": "राहुल गांधींच्या भेटीचा विद्यार्थिनीने नाकारला निरोप; म्हणाली, 'मला राजकीय फायद्यासाठी वापरू नका..'",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-22T16:40:01",
-            "url": "https://www.esakal.com/marathwada/maratha-reservation-former-minister-abdul-sattars-mediation-fails-manoj-jarange-patil-remains-firm-on-hunger-strike-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/6scyg0pn/Manoj-Jarange-Patil-and-Abdul-Sattar",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "732ffdb0f755",
-            "feed": "maharashtratimes",
-            "title": "VIDEO |  'छात्रों की गूंज' कार्यक्रमासाठी राहुल गांधी पुण्यात दाखल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-22T16:38:42",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/rahul-gandhi-chatro-ki-gunj-pune/videoshow/133422806.cms",
-            "image": "",
+            "published": "2026-08-22T17:40:50",
+            "url": "https://www.lokmat.com/pune/rahul-gandhi-pune-visit-student-rejects-rahul-gandhis-invitation-to-meet-her-says-dont-use-me-for-political-gain-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pune-students-002_2026081768505.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "459173fa096d",
+            "id": "f5c7194a0885",
+            "feed": "esakal",
+            "title": "Karad News : साताऱ्याचे पालकमंत्री शंभूराज देसाई यांच्या हस्ते छत्रपती शिवाजी महाराज कोयना जलसागरातील पाण्याचे पूजन",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-22T17:24:57",
+            "url": "https://www.esakal.com/satara/satara-guardian-minister-shambhuraj-desai-performs-water-worship-at-chhatrapati-shivaji-maharaj-koyna-reservoir-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/99qpidws/Shambhuraj-Desai",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2de1f8126b0b",
             "feed": "lokmat",
-            "title": "उदगीरमध्ये २,१४३ कोटींचा महाघोटाळा; १६ बोगस कंपन्यांद्वारे व्यापाऱ्याने पैसा परदेशात पळवला",
+            "title": "एमडी ‘ड्रग्स’च्या जाळ्याचा मास्टरमाईंड मध्यप्रदेशातून अटक; गुन्हे शाखेने पकडला सूत्रधार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-22T16:33:22",
-            "url": "https://www.lokmat.com/latur/udgir-mega-scam-rs2143-crore-money-laundering-unearthed-in-latur-fir-against-16-companies-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/udgir-scam-mahaghotala-fea_2026081768444.jpg",
+            "published": "2026-08-22T17:22:52",
+            "url": "https://www.lokmat.com/amravati/mastermind-of-md-drugs-network-arrested-from-madhya-pradesh-crime-branch-nabs-mastermind-a-a783-c1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-22-at-5.21.16-pm-1_2026081768481.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "0c7accb15f3c",
+            "id": "9199d784d852",
             "feed": "esakal",
-            "title": "Nanded News : फुटबॉलच्या वेडातून उलगडला मानवतेचा अर्थ; स्वारातीम विद्यापीठात ‘द कप’चा अनुभव",
+            "title": "Pune News : खड्डे बुजविण्याच्या ४१ निविदा अडकून पडल्या",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-22T16:32:20",
-            "url": "https://www.esakal.com/nanded/football-passion-reveals-the-true-meaning-of-humanity-the-cup-experience-at-swaratim-university-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/w86jtr0p/tibetan-movie-the-cup",
+            "published": "2026-08-22T17:18:30",
+            "url": "https://www.esakal.com/pune/41-tenders-for-filling-pune-potholes-remain-stuck-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/k440hy6g/pune-road-potholes",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "4cd46fbbab8b",
-            "feed": "maharashtratimes",
-            "title": "Vishakha Raut Kunbi Certificate Cancelled:उद्धव ठाकरेंना धक्का, शिंदेंच्या सरवणकरांना संधी मिळणार?",
+            "id": "40032ba3dc11",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : काँग्रेस नगरसेवकांसोबत बैठक संपली, राहुल गांधी कार्यक्रमस्थळी रवाना",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
             },
-            "published": "2026-08-22T16:27:22",
-            "url": "https://maharashtratimes.com/video/mt-originals/vishakha-raut-kunbi-certificate-cancelled-ex-mumbai-mayor-corporator-post-risk-sada-sarvankar/videoshow/133422627.cms",
-            "image": "",
+            "published": "2026-08-22T17:17:52",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-22-august-2026-rahul-gandhi-pune-visit-chhatron-ki-goonj-congress-vs-bjp-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-weather-update-imd-cjp-shravan-maratha-reservation-pm-narendra-modi-fda-tukaram-mundhe-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-srs92-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "8216efd50b21",
-            "feed": "lokmat",
-            "title": "आयफोनच्या वेडापाई तरुण भरकटले, कुणी स्पर्म डोनेट केलं, कुणी किडनी विकली...तर, कोण बनलं गुन्हेगार!",
+            "id": "2112f34181b2",
+            "feed": "esakal",
+            "title": "Talegaon Station News : तळेगाव-चाकण रस्त्यावरील खड्डे दुरुस्तीसाठी सिमेंट ब्लॉक्सची मात्रा; जुनाट खड्ड्यांसाठी दीर्घकालीन उपायाची प्रायोगिक अंमलबजावणी",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-22T16:35:09",
-            "url": "https://www.lokmat.com/national/the-iphone-crazed-youth-went-astray-some-donated-sperm-some-sold-their-kidneyswho-became-a-criminal-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iphone-craze-1_2026081768438.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "32417735ce8a",
-            "feed": "lokmat",
-            "title": "पुत्रदा एकादशी २०२६: संतानप्राप्ती आणि वंशवृद्धीसाठी जाणून घ्या पूजाविधी, महत्त्व आणि नियम!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-22T16:31:03",
-            "url": "https://www.lokmat.com/bhakti/putrada-ekadashi-2026-know-the-rituals-importance-and-rules-for-procreation-and-family-growth-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/putrada-ekadashi-2026-ritual_2026081768440.jpg",
+            "published": "2026-08-22T17:38:07",
+            "url": "https://www.esakal.com/pimpri-chinchwad/cement-blocks-used-to-repair-potholes-on-talegaon-chakan-road-pilot-long-term-solution-for-persistent-potholes-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/n7fco7qj/Cement-Blocks-Used-to-Repair-Potholes-on-Talegaon-Chakan-Road",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "741f017ff026",
+            "feed": "maharashtratimes",
+            "title": "Aayush Bhide : 'तो खूप वाईट काळ होता', करोनात आई-वडिल गेले, न खचता आयुषनं पूर्ण केलं बाबांचं स्वप्न, सांगितला कठीण काळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-22T17:27:46",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/star-pravah-premachi-goshta-fame-aayush-bhide-on-mother-and-father-death-actor-started-organization-in-his-father-name/articleshow/133422984.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "1f588b7ce08e",
-            "feed": "lokmat",
-            "title": "Andhra Pradesh Food : आंध्र स्टाईल वांग्याची चटणी म्हणजे झणझणीत वंकाया पचड़ी! एकदा खा वांगी आवडू लागतील",
+            "id": "fa8c34734c75",
+            "feed": "esakal",
+            "title": "झाड लावा अन् त्याच्या वाढीला साथ द्या!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-22T16:28:06",
-            "url": "https://www.lokmat.com/sakhi/food/baingan-chutney-vankaya-pachadi-recipe-how-to-make-andhra-pradesh-special-baingan-chutney-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-22-at-13.06.11_2026081768436.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "1de90c147d63",
-            "feed": "lokmat",
-            "title": "धक्कादायक! सॉफ्टवेयर इंजिनीअर पतीची सासरच्यांकडून बेदम मारहाण करून हत्या, पत्नी म्हणाली, \"सगळे नाटक...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-22T16:22:04",
-            "url": "https://www.lokmat.com/crime/shocking-software-engineer-husband-vinay-gupta-brutally-beaten-to-death-by-in-laws-wife-says-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-2226_2026081768432.jpg",
+            "published": "2026-08-22T17:18:59",
+            "url": "https://www.esakal.com/pimpri-chinchwad/todays-latest-marathi-news-pim26b13997-txt-pc-today-20260822114859",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/r0uj1r1k/Banner2.png",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "a80d00c47e31",
+            "id": "fa6194333c29",
             "feed": "lokmat",
-            "title": "उत्तम मराठी बोलते DDLJ मधली 'छुटकी', शाहरुख खानबद्दल म्हणाली, \"तो खूप शो ऑफ...\"",
+            "title": "जपनाम! बॉबी देओलच्या गाजलेल्या वेब सीरिजचा पुढचा भाग येणार, 'आश्रम ४'चं शूटिंग सुरू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-22T16:18:50",
-            "url": "https://www.lokmat.com/filmy/bollywood/actress-pooja-ruparel-from-ddlj-talks-fluent-marathi-shares-experience-working-with-shahrukh-khan-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pooja-filmy_2026081768430.jpg",
+            "published": "2026-08-22T17:14:52",
+            "url": "https://www.lokmat.com/filmy/web-series/ashram-4-update-bobby-deol-web-series-new-season-shooting-start-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ashram-4-web-series_2026081768474.jpg",
             "isBreaking": false,
             "category_reason": "default"
+        },
+        {
+            "id": "dac62e372865",
+            "feed": "maharashtratimes",
+            "title": "पत्नीला परत आणण्यासाठी नरबळी! जेवणाच्या बहाण्यानं बोलावून संपवलं; तलावातील बॉडीनं बिंग फुटलं",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-22T17:14:08",
+            "url": "https://maharashtratimes.com/india-news/odisha-shocker-man-performed-human-sacrifice-to-get-back-wife-5-arrested/articleshow/133423156.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "1ed41e49f568",
+            "feed": "lokmat",
+            "title": "पाकिस्तानात मोठे काहीतरी घडणार? रावळपिंडीमध्ये अचानक लष्कर तैनात, रस्त्यांवर रणगाडे अन् बंदुकधारी जवान",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-22T17:41:33",
+            "url": "https://www.lokmat.com/international/will-something-big-happen-in-pakistan-army-suddenly-deployed-in-rawalpindi-tanks-and-gunmen-on-the-roads-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-army-on-road_2026081768497.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "94c5e486efef",
+            "feed": "esakal",
+            "title": "Premium|Immanuel Kant Philosophy : इमॅन्युअल कांटचे तत्त्वज्ञान आणि नैतिकतेचा जागतिक शांततेशी संबंध",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-22T17:00:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/immanuel-kant-philosophy-moral-principles-groundwork-metaphysics-morals-world-peace-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/f5ldnr1b/Abhi-2026-08-09T185603.282.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "bceed24da69d",
             "feed": "lokmat",
@@ -198,22 +230,6 @@
             "category_reason": "keyword"
         },
         {
-            "id": "ad5ac60fe507",
-            "feed": "lokmat",
-            "title": "'सिंधू'साधू...! कंगाल पाकिस्तान भारताला साखर विकण्याच्या तयारीत...; भारत घेणार का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-22T14:32:48",
-            "url": "https://www.lokmat.com/international/sugar-shortage-india-opportunist-poor-pakistan-is-preparing-to-sell-sugar-to-india-will-india-buy-it-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-suger-will-sell-to-india_2026081768337.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "247e7fe97f6d",
             "feed": "esakal",
             "title": "El Nino 2027: १०० वर्षांत जे घडलं नाही, ते २०२७ मध्ये घडणार? एल निनोचा भयंकर इशारा",
@@ -228,122 +244,106 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-22/h2h9kkli/Scientists-warn-that-a-potentially-severe-El-Nino-in-2027-could-drive-global-temperatures-higher-and-affect-rainfall-and-agriculture.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "19ee10d7bc56",
-            "feed": "maharashtratimes",
-            "title": "Elon Musk Education: दोन दिवसांतच सोडली PhD; जाणून घ्या जगातील सर्वात श्रीमंत व्यक्ती इलॉन मस्क यांचं शिक्षण किती?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-21T21:32:48",
-            "url": "https://maharashtratimes.com/career/career-news/elon-musk-education-qualification-success-story-marathi-news-tesla-space-x-world-richest-person/articleshow/133408448.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "fe2718b4b7bb",
-            "feed": "maharashtratimes",
-            "title": "AUS vs BAN : बांगलादेशच्या खेळाडूचा रडीचा डाव, कॅच पकडतानाच मध्येच आला, पण कांगारूंनी पुढच्या ओव्हरमध्ये जिरवली",
+            "id": "89bc591c3bd1",
+            "feed": "lokmat",
+            "title": "हेजलवूड झेल टिपणार तेवढ्यात बांगलादेशी फलंदाजाने दिला धक्का, मग पंचांनी दिला असा निर्णय",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-22T16:38:02",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/aus-vs-ban-2nd-test-josh-hazlewood-taskin-ahmed-collision-obstructing-field-umpire-take/articleshow/133422019.cms",
-            "image": "",
+            "published": "2026-08-22T17:22:29",
+            "url": "https://www.lokmat.com/cricket/news/aus-vs-ban-2nd-test-just-as-hazlewood-was-about-to-take-a-catch-the-bangladeshi-batsman-taskin-ahmed-gave-a-blow-then-the-umpires-gave-a-decision-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aus-ban-12_2026081768479.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "df1dfc3850fd",
+            "id": "26c6727eb7e3",
             "feed": "esakal",
-            "title": "आयपीएलमध्ये धुमाकूळ, पण रेड बॉलमध्ये संघर्ष; वैभव सूर्यवंशीबाबत राहुल द्रविडचा मोठा सल्ला, ‘तो फक्त १५ वर्षांचा आहे, थोडा वेळ द्या!’",
+            "title": "HARISHCHANDRA BIRAJDAR: २० किलो वजनाचा फरक तरीही आव्हान स्वीकारलं; १४ मिनिटांत सतपाल सिंगला चीतपट करणाऱ्या बिराजदार मामांची गाजलेली कुस्ती",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "sports"
+                "category": null
             },
-            "published": "2026-08-22T16:04:20",
-            "url": "https://www.esakal.com/krida/cricket/rahul-dravid-advice-to-vaibhav-sooryavanshi-give-him-time-and-be-patient-marathi-cricket-news-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/1efh0u80/vaibhav-suryavanshi.jpg",
+            "published": "2026-08-22T16:48:47",
+            "url": "https://www.esakal.com/krida/harishchandra-birajdar-vs-satpal-singh-famous-wrestling-match-belgaum-1977-marathi-wrestling-news-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-22/1ky7biku/WhatsApp-Image-2026-08-22-at-4.47.52-PM.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "907a6228929a",
-            "feed": "maharashtratimes",
-            "title": "Gautam Gambhir : पत्रकाराच्या त्या प्रश्नावर गौतम गंभीरने झटकले हात, कॅप्टन गिलकडे दाखवलं बोटं; नेमका कोणता?",
+            "id": "fc9262c02734",
+            "feed": "lokmat",
+            "title": "IPL ट्रॉफीचा दुष्काळ संपवण्यासाठी MI ची मोठी खेळी; RR च्या दिग्गजावर लावला डाव!",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-22T15:39:00",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-coach-gautam-gambhir-talk-about-kuldeep-yadav-before-second-test/articleshow/133421160.cms",
-            "image": "",
+            "published": "2026-08-22T16:41:35",
+            "url": "https://www.lokmat.com/cricket/news/five-time-ipl-champions-mumbai-indians-appointed-zubin-bharucha-as-franchises-director-of-performance-ahead-of-ipl-2027-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-indians-appointed-zubin-bharucha-as-director-of-performance-m_2026081768448.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "7c4b58f8a01e",
+            "id": "2735c1752747",
             "feed": "lokmat",
-            "title": "माडग्याळ मेंढीला राष्ट्रीय ओळख; दुष्काळी भागात का ठरते फायदेशीर? जाणून घ्या मेंढीची वैशिष्ट्ये",
+            "title": "Gangapur Dam : नाशिकची 9 धरणे शंभर टक्के भरली, गंगापूर, गिरणा, भावली धरणात किती टक्के पाणीसाठा?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-22T16:37:45",
-            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/madgyal-sheep-gets-national-recognition-why-is-it-beneficial-in-drought-prone-areas-know-the-characteristics-of-the-sheep-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/madgyal-sheep-national_2026081768387.jpeg",
+            "published": "2026-08-22T17:15:01",
+            "url": "https://www.lokmat.com/agriculture/weather/9-dams-of-nashik-are-100-percent-full-see-gangapur-girna-bhavli-dams-water-level-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganga-nsk-2_2026081768470.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "6d3650bc996e",
+            "id": "80d95718d7e6",
             "feed": "lokmat",
-            "title": "Gold Silver Price Weekly Update: अचानक सोन्या-चांदीच्या किमतीत का आली जोरदार तेजी? आठवड्याभरात ₹८००० पेक्षा अधिक महागलं सोनं",
+            "title": "एक चूक अन् तब्बल 40 लाख कार रिकॉल! टेस्लासह चिनी कंपन्यांचा मोठा निर्णय; नेमकं प्रकरण काय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-22T16:32:21",
-            "url": "https://www.lokmat.com/business/savings-investments/gold-silver-price-weekly-update-why-did-the-price-of-gold-and-silver-suddenly-rise-sharply-gold-became-more-expensive-by-more-than-rs-8000-in-a-week-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gold-silver-import_2026081760310.jpg",
+            "published": "2026-08-22T17:09:48",
+            "url": "https://www.lokmat.com/auto/one-mistake-and-4-million-car-recalls-big-decision-by-chinese-companies-including-tesla-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tesla-car-china_2026081768472.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "8b40ef79df9e",
-            "feed": "maharashtratimes",
-            "title": "आसाममधील पुरातून वाचवलेल्या जॉयमोती’ हत्तीणीवर विशेष उपचारांसाठी अनंत अंबानी यांच्या 'वंतारा'मध्ये रवानगी",
+            "id": "bcd772abd68b",
+            "feed": "lokmat",
+            "title": "Fruit Drop : ऐन काढणीच्या तोंडावर संत्रा-मोसंबीची फळगळ; 'देठ सुकी'ने शेतकऱ्यांची चिंता वाढवली",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-08-22T16:25:37",
-            "url": "https://maharashtratimes.com/business/business-news/joymoti-53-year-old-elephant-sp-airlifted-from-assam-nagaland-floods-to-vantara-jamnagar-for-specialised-veterinary-treatment/articleshow/133422256.cms",
-            "image": "",
+            "published": "2026-08-22T17:08:51",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-fruit-drop-orange-mosambi-fruit-drop-on-the-eve-of-harvest-deth-suki-increases-farmers-concerns-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fruit-drop-1_2026081768463.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
