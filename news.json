@@ -1,88 +1,136 @@
 {
-    "lastUpdated": "23-08-2026 | 07:44 PM IST",
+    "lastUpdated": "23-08-2026 | 08:42 PM IST",
     "maharashtra": [
         {
-            "id": "d9488cda35f4",
+            "id": "98a8f0a10bd7",
             "feed": "maharashtratimes",
-            "title": "Abhijeet Dipke यांनी दुरावस्था दाखवली, Dada Bhuse टार्गेटवर येताच Eknath Shinde यांचा अॅक्शन प्लॅन",
+            "title": "Bhaskar Jadhav Speech |  राम मंदिर कथित चोरीच्या मुद्यावरून भास्कर जाधव आक्रमक",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T20:17:03",
+            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/shivsena-ubt-leader-bhaskar-jadhav-on-ram-mandir-chori/videoshow/133441551.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "cbe777a4d65f",
+            "feed": "esakal",
+            "title": "Paithan Crime: पाचोडजवळ टोलवर राडा! वाद सोडवण्यासाठी गेलेल्या पोलिस कर्मचाऱ्यावर हल्ला; आठ संशयित ताब्यात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T20:11:40",
+            "url": "https://www.esakal.com/marathwada/pachod-toll-plaza-clash-police-officer-attacked-while-settling-dispute-eight-suspects-taken-into-custody-after-cctv-probe-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/2s3yuben/sudhir-jadhav-satara-14.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "760fb833f9dc",
+            "feed": "maharashtratimes",
+            "title": "Kanbai Mahotsav : साडेचार हजार वर्षांपूर्वीची परंपरा, खान्देशातील प्रसिद्ध कानबाई माता उत्सव नेमका काय आहे? जाणून घ्या A टू Z",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T20:07:11",
+            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/kanbai-mata-mahotsav-4500-year-old-tradition-of-khandesh-celebration-methods-and-cultural-significance/articleshow/133441028.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "abb993bb68e2",
+            "feed": "maharashtratimes",
+            "title": "Khavdya Dongar : 'आयफोनचा काहीही संबंध नाही, कुणालला असं करायचंच नव्हतं'; वादामागचं जुनं कारण समोर, आजोबांनी सांगितली धक्कादायक वस्तुस्थिती",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T20:01:28",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/chhatrapati-sambhajinagar-khavdya-dongar-tragic-accident-son-mother-father-death-sangita-chandgude-father-reaction/articleshow/133441235.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "79720c703a43",
+            "feed": "maharashtratimes",
+            "title": "Chandrashekhar Bawankule On Manoj Jarange | जरांगेंवर प्रश्न विचारताच बावनकुळेंनी काय उत्तर दिलं?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T19:56:03",
+            "url": "https://maharashtratimes.com/maharashtra/kolhapur/chandrashekhar-bawankule-statement-on-manoj-jarange-patil-protest/videoshow/133441282.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "065ebb973c70",
+            "feed": "lokmat",
+            "title": "फक्त १५ रुपयांत ६ उपाय, स्वस्तात मस्त काम-घरातली कानाकोपऱ्यातली वाळवी होईल कायमची गायब...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T20:12:15",
+            "url": "https://www.lokmat.com/sakhi/photos/social-viral/how-to-get-rid-of-termites-permanently-how-to-get-rid-of-termites-on-walls-termite-control-at-home-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-get-rid-of-termites-on-walls_2026081768339.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ea89621367c4",
+            "feed": "lokmat",
+            "title": "रोज घालण्यासाठी स्मार्ट कलमकारी सुंदर गाऊन! फक्त ६०० रुपयांत कम्फर्ट आणि स्टाइलही, विसरा नेहमीचे गबाळे गाऊन...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T20:06:38",
+            "url": "https://www.lokmat.com/sakhi/photos/fashion/kalamkari-night-gown-cotton-kalamkari-night-gown-kalamkari-printed-night-gown-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trendy-kalamkari-night-gown_2026081768483.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "20fa0b2d9a25",
+            "feed": "maharashtratimes",
+            "title": "Puneet Vashist : 'शाहरुखमुळे सिनेमातून माझे सीन्स कट केले, बॉलिवूडनं दुर्लक्षित केलं, मला दारूचं व्यसन लागलं', लोकप्रिय अभिनेत्याचा खुलासा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-23T19:27:22",
-            "url": "https://maharashtratimes.com/video/mt-originals/eknath-shinde-school-education-mission-mode-cjp-dada-bhuse-maharashtra-schools/videoshow/133441014.cms",
+            "published": "2026-08-23T19:39:40",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/puneet-vashist-talks-about-shah-rukh-khan-and-alcohol-habits/articleshow/133440830.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
-        {
-            "id": "f79e8cad3b86",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : वैद्यनाथाच्या दर्शनासाठी भाविकांची मोठी गर्दी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T19:26:19",
-            "url": "https://www.esakal.com/maharashtra/chhatronkigoonj-reservationreform-rahul-gandhi-pune-messi-fine-imd-rain-alert-bhuleshwar-ganpati-accident-ganesh-idol-fall-mumbai-abhijeet-dipke-fir-maharashtra-fda-fadnavis-gen-z-nagpur-marathi-taxi-drivers-chhatron-ki-goonj-pune-ymk86-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "321ad95fc037",
-            "feed": "lokmat",
-            "title": "कठड्याचा पाइप तोडून बस लोखंडी रॉडला अडकली; १०० फूट दरीत कोसळता कोसळता ४९ प्रवासी बचावले!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T19:16:09",
-            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/bus-gets-stuck-in-iron-rod-after-breaking-a-pipe-49-passengers-survive-falling-into-100-foot-ravine-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kannad-accidnet_2026081769075.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "62dba0cda2cc",
-            "feed": "lokmat",
-            "title": "Rohullah Mehdi : बॉलिवूड अभिनेता रोहुल्लाह मेहदीला ड्रग्ज प्रकरणात अटक; फिल्मी स्टाईल सापळा रचला अन्...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T19:04:12",
-            "url": "https://www.lokmat.com/filmy/bollywood/mumbai-police-arrest-actor-rohullah-mehdi-in-md-drug-case-amid-bollywood-drug-network-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rohullah-mehdi_2026081769072.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "b78695d02a41",
-            "feed": "lokmat",
-            "title": "आंदोलन पुणे जिल्ह्यात झळ मात्र सातारा जिल्ह्याला, प्रवाशांसह वाहनचालकांना प्रचंड मनस्ताप",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T19:03:21",
-            "url": "https://www.lokmat.com/satara/protests-in-pune-district-but-hits-satara-district-causing-immense-distress-to-passengers-and-drivers-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/satara-protest_2026081769073.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
         {
             "id": "f081d1760122",
             "feed": "lokmat",
@@ -114,57 +162,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bjp-mission-modi-youth-connect_2026081769085.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "1b42f657d2ea",
-            "feed": "esakal",
-            "title": "पावसाळा संपताना फिरायला निघा! सप्टेंबरमध्ये निसर्गाच्या सान्निध्यात जाण्यासाठी ५ भन्नाट ठिकाणं",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T19:22:48",
-            "url": "https://www.esakal.com/tourism/best-places-to-visit-in-september-in-india-amritsar-kodaikanal-lonavala-ziro-valley-udaipur-travel-guide-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/a9ya5qgy/best-places-to-visit-in-September",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "06b4ee12c067",
-            "feed": "esakal",
-            "title": "Premium|Student Protest in Jharkhand : विद्यार्थी आंदोलनांनी हादरले राजकारण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T19:00:00",
-            "url": "https://www.esakal.com/saptarang/jharkhand-student-protest-exam-irregularities-education-system-unemployment-opportunities-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/axbfy0g4/Abhi-66.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "d0562160a4a9",
-            "feed": "maharashtratimes",
-            "title": "लहान मुलांपासून 5 इलेक्ट्रॉनिक वस्तू दूर ठेवा; निष्काळजीपणा ठरेल घातक!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-23T19:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/keep-these-5-electronic-items-away-from-children-to-avoid-serious-home-accidents/articleshow/133430545.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "4953e4bf38a2",
+            "feed": "lokmat",
+            "title": "\"युद्धातून बाहेर पडण्याचा हा एकमेव मार्ग...\"; US डीलवर इराणच्या राष्ट्राध्यक्षांचं मोठं वक्तव्य",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-23T20:22:21",
+            "url": "https://www.lokmat.com/international/us-iran-war-this-is-the-only-way-out-of-war-iranian-president-big-statement-on-us-deal-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-iran-deal-trump_2026081769104.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f3f9e08edcad",
             "feed": "lokmat",
@@ -228,25 +244,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-23/82cvz6op/An-Ohio-woman-faces-a-defamation-lawsuit-after-posting-a-one-star-Google-review-with-the-company-seeking-25000-in-damages.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        }
+    ],
+    "sports": [
+        {
+            "id": "a77606806025",
+            "feed": "maharashtratimes",
+            "title": "Yashasvi Jaiswal Controversy : यशस्वीला राग महागात पडणार? लाइफटाइम बॅनचा धोका, पण टीम इंडियाच्या कोचकडून बचाव, काय म्हणाले?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-23T20:10:17",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-sl-second-test-coach-sitanshu-kotak-on-incident-involving-yashasvi-jaiswal-and-asitha-fernando/articleshow/133438958.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         },
         {
-            "id": "3c8750bb2f31",
+            "id": "3b87eb7dd040",
             "feed": "esakal",
-            "title": "Humanoid Robot 100m Record : चिनी रोबोटने मोडला उसैन बोल्टचा जागतिक विक्रम; १०० मीटर अंतर अवघ्या ९.३९ सेकंदांत केले पार, VIDEO VIRAL",
+            "title": "Cricketer Retirement : चार वेळचा IPL चॅम्पियन खेळाडूची निवृत्तीची घोषणा! म्हणाला, 'आता खेळण्याला काहीच अर्थ नाही...'",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-08-23T10:09:41",
-            "url": "https://www.esakal.com/trending-news/tianzhuo-humanoid-robot-100m-record-9-39-seconds-usain-bolt-world-record-humanoid-robot-games-china-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/qzy48gaw/Humanoid-Robot-100m-Record.jpg",
+            "published": "2026-08-23T19:50:04",
+            "url": "https://www.esakal.com/krida/cricket/india-karn-sharma-announces-retirement-from-cricket-4-time-ipl-winner-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/57ko0iks/Karn-Sharma-Retirement.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "sports": [
+            "category_reason": "feed"
+        },
         {
             "id": "fca878a3905d",
             "feed": "lokmat",
@@ -262,41 +294,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/most-test-centuries-by-an-indian-player-in-sri-lanka-see-list-m_2026081769077.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "4093bc58e9ea",
-            "feed": "maharashtratimes",
-            "title": "Vaibhav Sooryavanshi Wicket : वैभवला ८ धावांतच गार केलं, बॉक्सिंगमध्ये गोल्ड जिंकणारा हा गोलंदाज आहे तरी कोण? क्रिकेटमध्ये एन्ट्रीची भन्नाट कहाणी!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-23T19:12:30",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/who-is-bishworjit-konthoujam-vaibhav-sooryavanshi-wicket-boxing-to-cricket-duleep-trophy/articleshow/133440569.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7f37512b6e7e",
-            "feed": "maharashtratimes",
-            "title": "Ind vs Sl 2nd Test : भारत-श्रीलंका दुसऱ्या कसोटीचा पहिला दिवसच ठरणार टर्निंग पॉइंट, श्रीलंकेच्या खेळाडूंकडून 2 मोठ्या चुका; भारताने उभारला 300 धावांचा डोंगर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-23T19:11:28",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-2nd-test-sri-lanka-team-dropped-two-catch-devdutt-padikkal-first-day/articleshow/133440598.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "74a62fb9fc9e",
+            "feed": "lokmat",
+            "title": "Cotton Production : कापूस उत्पादन अंदाज चुकला; हंगाम संपायला दाेन महिने शिल्लक, 325 लाख गाठी बाजारात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T20:34:34",
+            "url": "https://www.lokmat.com/agriculture/market-yard/cotton-production-forecast-missed-two-months-left-for-season-to-end-325-lakh-bales-in-market-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kapus-utpa_2026081769106.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "533b9ec442c4",
             "feed": "esakal",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/usache-dr_2026081769093.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "509f41a08507",
-            "feed": "esakal",
-            "title": "Share Market: ‘एफ अँड ओ’ चा भूलभुलैया",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T19:27:41",
-            "url": "https://www.esakal.com/sakal-money/f-and-o-trading-maze-explained-know-the-risks-rules-and-challenges-of-futures-and-options-trading-in-stock-market-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/onzxis5j/sudhir-jadhav-satara-11.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ]
 }
