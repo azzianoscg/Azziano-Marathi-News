@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "23-08-2026 | 11:45 PM IST",
+    "lastUpdated": "24-08-2026 | 12:45 AM IST",
     "maharashtra": [
+        {
+            "id": "724edbe84a0d",
+            "feed": "esakal",
+            "title": "वाहतूक पोलिसांकडे आता बॉडी वॉर्न कॅमेरे! कॅमेऱ्यात रेकॉर्ड होणार आवाज, पोलिसांशी अरेरावी, हुज्जत घालणे वाहनचालकास पडणार महागात, वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T23:59:00",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/traffic-police-now-equipped-with-body-worn-cameras-audio-will-be-recorded-motorists-who-act-rudely-or-argue-with-the-police-will-face-serious-consequencesread-on",
+            "image": "https://cf-images.assettype.com/esakal/2021-09/6201461d-a749-4de1-a501-ad5003deef88/eSakal___2021_09_10T203922_620.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b83547a7880d",
+            "feed": "esakal",
+            "title": "इन्स्टाग्रामवर ओळख! 27 वर्षीय तरुणाला 42 वर्षीय महिलेचा लागला लळा, ती तरूणाच्या घरी राहायला गेली; महिलेचा पती, मुलासह इतरांच्या मारहाणीत तरुणाचा मृत्यू, वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T23:49:00",
+            "url": "https://www.esakal.com/maharashtra/met-on-instagram-a-27-year-old-man-became-close-to-a-42-year-old-woman-and-she-moved-into-his-home-the-man-died-after-being-beaten-by-the-womans-husband-son-and-othersread-more",
+            "image": "https://cf-images.assettype.com/esakal/2024-07/055d1f30-4a4e-44b2-9a06-f4782da9439c/accident%20news(20).jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "fcc024d10ec4",
             "feed": "lokmat",
@@ -48,41 +80,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-23/qbj7c316/sudhir-jadhav-satara-21.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "1d41c4e9994a",
-            "feed": "maharashtratimes",
-            "title": "Crime News : विवाहितेस घराबाहेर काढले; सासरच्यांवर गुन्हे दाखल, नव्या घरासाठी 10 लाख रुपये आणण्यासाठी छळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T22:15:14",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/married-woman-harassed-for-ten-lakh-rupees-thrown-out-of-house-in-ghatkopar/articleshow/133442752.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3b944ec94954",
-            "feed": "lokmat",
-            "title": "लुटमारीची बोंब करून पोलिसांची भंबेरी उडविणारा फिर्यादीच बनला आरोपी; कारचालकाने स्वतःच रचला कट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T22:11:15",
-            "url": "https://www.lokmat.com/crime/in-nagpur-police-investigation-has-revealed-that-the-car-driver-had-staged-a-robbery-because-he-did-not-want-to-repay-the-money-borrowed-from-a-friend-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/26-bagsnatched_20180481344.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "india": [
+        {
+            "id": "8fe8f3f90635",
+            "feed": "esakal",
+            "title": "वर्कआउटआधी ब्लॅक कॉफी घेतल्याने शरीरावर काय परिणाम होतो?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T23:58:23",
+            "url": "https://www.esakal.com/ampstories/web-story/is-black-coffee-beneficial-before-exercise-know-the-pros-and-cons-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/yieemkqm/black-coffee-1.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "f3b72a988f9c",
             "feed": "lokmat",
@@ -144,22 +160,6 @@
             "published": "2026-08-23T22:35:52",
             "url": "https://www.esakal.com/desh/india-to-get-1800-km-new-lpg-pipeline-network-which-states-will-it-pass-through-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-08-23/5ggbhgev/New-LPG-Pipeline-Network-Across.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0c2112cd544d",
-            "feed": "lokmat",
-            "title": "साप्ताहिक राशीभविष्य: ६ राशींना कठीण काळ, खर्च वाढेल; ६ राशींना चांगला लाभ, हाती पैसा राहील!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T22:07:08",
-            "url": "https://www.lokmat.com/photos/bhakti/weekly-horoscope-23-august-2026-to-29-august-2026-saptahik-rashi-bhavishya-in-marathi-6-zodiac-signs-difficult-times-expenses-increase-6-zodiac-signs-good-profit-money-in-hand-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/weekly-rashi-bhavishya_202209877470.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
