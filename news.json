@@ -1,88 +1,152 @@
 {
-    "lastUpdated": "23-08-2026 | 08:42 PM IST",
+    "lastUpdated": "23-08-2026 | 09:43 PM IST",
     "maharashtra": [
         {
-            "id": "98a8f0a10bd7",
+            "id": "d42472c98d0f",
             "feed": "maharashtratimes",
-            "title": "Bhaskar Jadhav Speech |  राम मंदिर कथित चोरीच्या मुद्यावरून भास्कर जाधव आक्रमक",
+            "title": "Kannad Ghat : काळजाचा ठोका चुकवणारा अपघात; काठड्यावर लटकली एसटी बस, खिडकीतून उड्या मारून 49 प्रवाशांनी वाचवला जीव",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-23T20:17:03",
-            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/shivsena-ubt-leader-bhaskar-jadhav-on-ram-mandir-chori/videoshow/133441551.cms",
+            "published": "2026-08-23T21:31:01",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/thrilling-st-bus-accident-at-kannad-chalisagaon-ghat-49-passengers-saved-their-lives/articleshow/133442167.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "cbe777a4d65f",
+            "id": "d931870088f0",
             "feed": "esakal",
-            "title": "Paithan Crime: पाचोडजवळ टोलवर राडा! वाद सोडवण्यासाठी गेलेल्या पोलिस कर्मचाऱ्यावर हल्ला; आठ संशयित ताब्यात",
+            "title": "UPSC CAPF Success Story: एक एकर शेती, शेतमजुरी अन् जिद्दीच्या जोरावर UPSC CAPF मध्ये २७९ वा क्रमांक; प्रवीण स्वामींची यशोगाथा..",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-23T20:11:40",
-            "url": "https://www.esakal.com/marathwada/pachod-toll-plaza-clash-police-officer-attacked-while-settling-dispute-eight-suspects-taken-into-custody-after-cctv-probe-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/2s3yuben/sudhir-jadhav-satara-14.jpg",
+            "published": "2026-08-23T21:30:44",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/pravin-swami-secures-all-india-rank-279-in-upsc-capf-2025-after-rising-from-one-acre-farm-and-farm-labour-background-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/8o47231t/sudhir-jadhav-satara-18.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "760fb833f9dc",
+            "id": "3e754bfde322",
+            "feed": "esakal",
+            "title": "Kas Plateau Flower Festival : कास पठारावरील फुले पाहण्यासाठी आता 200 रुपये शुल्क; पठारावर जाण्यापूर्वी जाणून घ्या Online Booking ची सोपी पद्धत",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T21:10:00",
+            "url": "https://www.esakal.com/satara/kas-plateau-flower-festival-2026-entry-fee-online-booking-tourist-rules-satara-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/g31f0m9y/Kas-Plateau-Flower-Festival-2026-entry-fee",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "57cad9dbe7e3",
             "feed": "maharashtratimes",
-            "title": "Kanbai Mahotsav : साडेचार हजार वर्षांपूर्वीची परंपरा, खान्देशातील प्रसिद्ध कानबाई माता उत्सव नेमका काय आहे? जाणून घ्या A टू Z",
+            "title": "Chhatrapati Sambhajinagar : 'आमचं सर्व संपलं, आता वंशच नाही'; वृद्ध बापाचा काळीज चिरणारा आक्रोश, म्हातारपणी होतकरु लेकराला खांदा, उपस्थितांचाही कंठ दाटला",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-23T20:07:11",
-            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/kanbai-mata-mahotsav-4500-year-old-tradition-of-khandesh-celebration-methods-and-cultural-significance/articleshow/133441028.cms",
+            "published": "2026-08-23T21:03:32",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/chhatrapati-sambhajinagar-khavdya-mountain-accident-murlidhar-chandgude-father-reaction/articleshow/133441941.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "abb993bb68e2",
-            "feed": "maharashtratimes",
-            "title": "Khavdya Dongar : 'आयफोनचा काहीही संबंध नाही, कुणालला असं करायचंच नव्हतं'; वादामागचं जुनं कारण समोर, आजोबांनी सांगितली धक्कादायक वस्तुस्थिती",
+            "id": "b6863321ef01",
+            "feed": "lokmat",
+            "title": "स्मशानभूमीत गाडीचा हेडलाईट आणि मोबाईल टॉर्चवर अंत्यसंस्कार,स्थानिकांनी व्यक्त केला संताप",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-08-23T20:01:28",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/chhatrapati-sambhajinagar-khavdya-dongar-tragic-accident-son-mother-father-death-sangita-chandgude-father-reaction/articleshow/133441235.cms",
-            "image": "",
+            "published": "2026-08-23T20:56:24",
+            "url": "https://www.lokmat.com/dharashiv/locals-express-anger-over-cremation-in-graveyard-with-car-headlights-and-mobile-torches-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dharashiv_2026081769119.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "79720c703a43",
-            "feed": "maharashtratimes",
-            "title": "Chandrashekhar Bawankule On Manoj Jarange | जरांगेंवर प्रश्न विचारताच बावनकुळेंनी काय उत्तर दिलं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T19:56:03",
-            "url": "https://maharashtratimes.com/maharashtra/kolhapur/chandrashekhar-bawankule-statement-on-manoj-jarange-patil-protest/videoshow/133441282.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
+        {
+            "id": "7aefe728d3a3",
+            "feed": "esakal",
+            "title": "जगात साखर कुठून आली? भारत नव्हे, ‘या’ संस्कृतीने शोधला ऊस आणि साखरेचा इतिहास...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T21:19:42",
+            "url": "https://www.esakal.com/ampstories/web-story/where-did-sugar-come-from-who-invented-did-sugar-really-originate-in-india-know-history-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/elwkua3a/Origin-of-Sugar-How-Ancient-Civilization-Discovered-Sweetener.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "141b142cdd7d",
+            "feed": "lokmat",
+            "title": "उरलेल्या भाताचे असेही पदार्थ करता येतात? ६ क्रेझी रेसिपी , कळणारही नाही की शिळा भात खात आहात..",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T21:02:35",
+            "url": "https://www.lokmat.com/sakhi/photos/food/make-these-dishes-with-leftover-rice-6-crazy-recipes-you-wont-even-know-youre-eating-stale-rice-a-a1009/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rice-foods-neww_2026081769123.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8bf4a903b3d4",
+            "feed": "maharashtratimes",
+            "title": "Shekhar Phadke : 'काही चॅनलवर मला काम मिळत नाही, 10-12 वर्षांपूर्वी न सांगता मालिकेतून काढण्यात आलेलं', मराठी अभिनेत्याचं वक्तव्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-23T21:01:32",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/star-pravah-tu-hi-re-maza-mitwa-fame-shekhar-phadke-on-career-and-loss-of-projects/articleshow/133441523.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "a2475f7c3ac3",
+            "feed": "lokmat",
+            "title": "अचानक पाहुणे आले की खायला काय करावे असा प्रश्न पडतो ? काळजी नको , सणासुदीला करा १० मिनिटांत होणारे सोपे पदार्थ ...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T20:45:44",
+            "url": "https://www.lokmat.com/sakhi/food/instant-recipes-cooking-ideas-cook-for-guests-in-just-half-and-hour-a-a1009/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/food-for-guest_2026081769110.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "065ebb973c70",
             "feed": "lokmat",
@@ -98,70 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-get-rid-of-termites-on-walls_2026081768339.jpeg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "ea89621367c4",
-            "feed": "lokmat",
-            "title": "रोज घालण्यासाठी स्मार्ट कलमकारी सुंदर गाऊन! फक्त ६०० रुपयांत कम्फर्ट आणि स्टाइलही, विसरा नेहमीचे गबाळे गाऊन...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T20:06:38",
-            "url": "https://www.lokmat.com/sakhi/photos/fashion/kalamkari-night-gown-cotton-kalamkari-night-gown-kalamkari-printed-night-gown-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trendy-kalamkari-night-gown_2026081768483.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "20fa0b2d9a25",
-            "feed": "maharashtratimes",
-            "title": "Puneet Vashist : 'शाहरुखमुळे सिनेमातून माझे सीन्स कट केले, बॉलिवूडनं दुर्लक्षित केलं, मला दारूचं व्यसन लागलं', लोकप्रिय अभिनेत्याचा खुलासा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-23T19:39:40",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/puneet-vashist-talks-about-shah-rukh-khan-and-alcohol-habits/articleshow/133440830.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "f081d1760122",
-            "feed": "lokmat",
-            "title": "फोडणीचं वरण करण्याच्या १० टिप्स; खमंग-चवदार होईल वरण, रोजच्या साध्या जेवणाची वाढेल चव",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T19:36:58",
-            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-make-maharashtrian-fodnicha-varan-fodnicha-varan-making-tips-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-23-at-3.27.02-pm_2026081769095.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "c37ec7473ca3",
-            "feed": "lokmat",
-            "title": "७ राज्यांतील निवडणूक युद्धासाठी भाजपाचं 'मेगा मिशन'; Gen Z वर खास नजर, युथ कनेक्टवर भर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-23T19:23:41",
-            "url": "https://www.lokmat.com/national/bjp-mega-mission-for-election-war-in-7-states-special-focus-on-gen-z-emphasis-on-youth-connect-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bjp-mission-modi-youth-connect_2026081769085.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
@@ -248,100 +248,100 @@
     ],
     "sports": [
         {
-            "id": "a77606806025",
+            "id": "844d834c9c67",
             "feed": "maharashtratimes",
-            "title": "Yashasvi Jaiswal Controversy : यशस्वीला राग महागात पडणार? लाइफटाइम बॅनचा धोका, पण टीम इंडियाच्या कोचकडून बचाव, काय म्हणाले?",
+            "title": "Ravindra Jadeja Bold : नेमका काय विषय झाला! बॉल लागल्यावर मैदान न सोडता खेळणाऱ्या रविंद्र जडेजा  असा कसा आऊट झाला? Video व्हायरल",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-23T20:10:17",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-sl-second-test-coach-sitanshu-kotak-on-incident-involving-yashasvi-jaiswal-and-asitha-fernando/articleshow/133438958.cms",
+            "published": "2026-08-23T21:40:50",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-2nd-test-ravindra-jadeja-bowled-asitha-fernando-viral-video-on-social-media/articleshow/133442502.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3b87eb7dd040",
-            "feed": "esakal",
-            "title": "Cricketer Retirement : चार वेळचा IPL चॅम्पियन खेळाडूची निवृत्तीची घोषणा! म्हणाला, 'आता खेळण्याला काहीच अर्थ नाही...'",
+            "id": "4325af2466fb",
+            "feed": "maharashtratimes",
+            "title": "Imran Khan News : इम्रान खानसाठी क्रिकेट जगत एकवटलं; कपिल देव, गावसकरांसह २१ दिग्गजांचं पाकिस्तानच्या पंतप्रधानांना पत्र, नेमकं काय घडलं?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-23T19:50:04",
-            "url": "https://www.esakal.com/krida/cricket/india-karn-sharma-announces-retirement-from-cricket-4-time-ipl-winner-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/57ko0iks/Karn-Sharma-Retirement.jpg",
+            "published": "2026-08-23T21:26:11",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/cricket-legends-unite-for-imran-khan-21-former-captains-write-to-pakistani-pm-including-kapil-dev-sunil-gavaskar-humanity/articleshow/133442159.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fca878a3905d",
+            "id": "fc39cf44a491",
             "feed": "lokmat",
-            "title": "IND vs SL : लंकेत पडिक्कलचा शतकी डंका! कोहलीच्या विक्रमाशी बरोबरी; तेंडुलकर आजही अव्वल",
+            "title": "इम्रान खान यांच्यासाठी दिग्गज एकवटले; कपिल देव, गावस्करांसह २१ जणांचं पाक पंतप्रधानांना पत्र",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-23T19:37:51",
-            "url": "https://www.lokmat.com/cricket/photos/ind-vs-sl-devdutt-padikkal-equals-virat-kohli-record-sachin-tendulkar-holds-record-for-most-test-centuries-by-an-indian-player-in-sri-lanka-see-list-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/most-test-centuries-by-an-indian-player-in-sri-lanka-see-list-m_2026081769077.jpg",
+            "published": "2026-08-23T21:07:09",
+            "url": "https://www.lokmat.com/cricket/news/veterans-unite-for-imran-khan-21-including-kapil-dev-gavaskar-write-letter-to-pakistan-prime-minister-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/imram-khan-letter-sh1_2026081769125.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "74a62fb9fc9e",
+            "id": "97ebddeceb6a",
+            "feed": "maharashtratimes",
+            "title": "आयकर विभागाच्या नोटिशीवर असतील हे कलम तर आधीच व्हा सावध! जाणून घ्या प्रत्येक सेक्शनच्या नोटीसचा अर्थ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-23T21:17:15",
+            "url": "https://maharashtratimes.com/business/business-news/income-tax-notice-section-types-and-its-meaning/articleshow/133442194.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8559757325ad",
             "feed": "lokmat",
-            "title": "Cotton Production : कापूस उत्पादन अंदाज चुकला; हंगाम संपायला दाेन महिने शिल्लक, 325 लाख गाठी बाजारात",
+            "title": "आपल्या मुलांच्या भविष्यासाठी फक्त २५० रुपयांपासून सुरू करा गुंतवणूक; 'या' खास योजनेबद्दल जाणून घ्या...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-23T20:53:36",
+            "url": "https://www.lokmat.com/business/savings-investments/nps-vatsalya-start-investing-for-your-childrens-future-from-just-rs-250-know-about-this-special-scheme-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nps-vatsalya_2026081769113.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3c2d74c098f9",
+            "feed": "lokmat",
+            "title": "महागडी सर्व्हिसींग परवडेना...तरुणाने स्वतःच दुरुस्त केली EV कारची बॅटरी; पाहा Video",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-23T20:34:34",
-            "url": "https://www.lokmat.com/agriculture/market-yard/cotton-production-forecast-missed-two-months-left-for-season-to-end-325-lakh-bales-in-market-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kapus-utpa_2026081769106.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "533b9ec442c4",
-            "feed": "esakal",
-            "title": "Income Tax: भेटवस्तू, कर्जाची नोंद कुठे करावी?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T19:34:42",
-            "url": "https://www.esakal.com/sakal-money/where-to-record-gifts-and-loans-in-income-tax-return-know-the-correct-tax-rules-and-reporting-requirements-for-taxpayers-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/ewzjqino/sudhir-jadhav-satara-12.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "506d1a741b2d",
-            "feed": "lokmat",
-            "title": "Sugarcane Rate : साखरेचे दर तर वधारले, पण उसाला प्रति टन सरासरी काय दर मिळतोय, वाचा सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T19:30:02",
-            "url": "https://www.lokmat.com/agriculture/market-yard/sugar-prices-have-increased-see-average-price-per-ton-of-sugarcane-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/usache-dr_2026081769093.jpeg",
+            "published": "2026-08-23T20:43:11",
+            "url": "https://www.lokmat.com/auto/electric-car-servicing-unable-to-afford-expensive-servicingman-repairs-ev-car-battery-himself-watch-video-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ev-battery_2026081769112.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
