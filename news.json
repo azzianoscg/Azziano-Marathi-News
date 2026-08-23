@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "23-08-2026 | 09:57 AM IST",
+    "lastUpdated": "23-08-2026 | 10:50 AM IST",
     "maharashtra": [
         {
-            "id": "0aafad1c54e4",
+            "id": "a75ee4d626f6",
             "feed": "esakal",
-            "title": "Hivarkhed Farmers' Issue: पावसाचा खंड वाढवतोय शेतकऱ्यांची चिंता; उभ्या पिकांना पाण्याची प्रतीक्षा; बळीराजा संकटात",
+            "title": "Dhamangaon Farmer Case: संसाराचा गाडा हाकणारा आधारवड कोलमडला; ५२ वर्षीय शेतकऱ्याची कर्जबाजारीपणातून आत्महत्या",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-23T09:53:58",
-            "url": "https://www.esakal.com/akola/hivarkhed-rain-break-soybean-tur-cotton-crops-farmers-concern-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/saikcr1m/Abhi-6.jpg",
+            "published": "2026-08-23T10:47:20",
+            "url": "https://www.esakal.com/vidarbha/dhamangaon-farmer-took-life-borgaon-nistane-debt-crop-loss-maharashtra-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/0u718dpd/Abhi-4.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
+            "id": "aa6e65ac6e7f",
+            "feed": "lokmat",
+            "title": "ढोल-ताशांचा गजर अन् तरुणींचा बुलंद आवाज;‘छात्रों की गूंज’ कार्यक्रमात राहुल गांधींचा तरुणींशी संवाद",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T10:43:24",
+            "url": "https://www.lokmat.com/pune/rahul-gandhi-pune-visit-the-sound-of-drums-and-cymbals-and-the-loud-voices-of-young-women-rahul-gandhis-interaction-with-young-women-in-the-chhatron-ki-goonj-program-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rg-o123_2026081768722.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "f79e8cad3b86",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : भोंगवली सबस्टेशनविरोधात कापूरहोळमध्ये आज रास्ता रोको",
+            "title": "Marathi News Live Updates : कापूरहोळमध्ये रास्ता रोको, पुणे- बेंगलुरू महामार्गावर वाहतूक कोंडी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-23T09:48:08",
+            "published": "2026-08-23T10:42:49",
             "url": "https://www.esakal.com/maharashtra/chhatronkigoonj-reservationreform-rahul-gandhi-pune-messi-fine-imd-rain-alert-bhuleshwar-ganpati-accident-ganesh-idol-fall-mumbai-abhijeet-dipke-fir-maharashtra-fda-fadnavis-gen-z-nagpur-marathi-taxi-drivers-chhatron-ki-goonj-pune-ymk86-spb94",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9a2d81e7c61e",
-            "feed": "maharashtratimes",
-            "title": "Nashik Crime: लग्न जुळवण्यासाठी स्मशानात अघोरी पूजा; भोंदूविरुद्ध गुन्हा, महिलेची 77 हजारांची फसवणूक, प्रकरण काय?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T09:42:12",
-            "url": "https://maharashtratimes.com/maharashtra/nashik/bhondu-baba-swindled-34-yrs-old-woman-rs-77000-for-occult-ritual-under-pretext-of-marriage/articleshow/133434075.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "625771408fbe",
-            "feed": "maharashtratimes",
-            "title": "Chandgude Family Death Case : मृत्यूनंतरही मिटलं नाही अंतर! वडिलांवर मूळगावी अंत्यसंस्कार, आई-लेकराला माहेरी अग्निडाग; संपूर्ण गाव हमसून हमसून रडलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-23T09:34:22",
-            "url": "https://maharashtratimes.com/photogallery/news/chhatrapati-sambhajinagar-tisgaon-khavdya-dongar-chandgude-family-death-case-mother-and-son-cremated-at-maternal-home-father-cremated-in-native-village/photoshow/133434108.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "b374b6964e96",
-            "feed": "maharashtratimes",
-            "title": "Tukaram Mundhe Pune: पुण्यात तुकाराम मुंढे कार्यक्रमाला येणार असल्याचा धसका; दुकाने बंद करून व्यावसायिक गायब, घटनेची सगळीकडे चर्चा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T09:27:01",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/food-shops-shut-due-to-fda-tukaram-mundhe-event-in-pune-business-owners-in-panic/articleshow/133433934.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
-        {
-            "id": "7b28363567a6",
+            "id": "967980102c96",
             "feed": "esakal",
-            "title": "Khambora Crime Case: खांबोरा येथे प्रेमप्रकरणातून तरुणाची हत्या; ‘चोरांनी’ मारल्याचा बनाव करून मृतदेह आणला ठाण्यात",
+            "title": "Wardha Tiger Sighting: हिंगणी-माळेगाव ठेका मार्गावर वाघाचा डेरा ; भीतीचे वातावरण; वन्यप्राण्यांच्या भ्रमणमार्गात अडथळे निर्माण झाल्याने रस्त्यांचा आधार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-23T09:51:17",
-            "url": "https://www.esakal.com/crime/khambora-crime-case-love-affair-youth-case-ural-police-akola-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/ganc7fnf/Abhi-4.jpg",
+            "published": "2026-08-23T10:32:45",
+            "url": "https://www.esakal.com/vidarbha/wardha-tiger-sighting-hingni-malegaon-road-wildlife-corridor-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/9f9ju0b1/Abhi-6.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "c41c98c7f8ab",
+            "id": "1ee6117267a3",
             "feed": "lokmat",
-            "title": "\"माझे चित्रपट चालत नव्हते तेव्हा अंबानी कुटुंबाने माझ्यावर...\"; रणवीर सिंगचा मोठा खुलासा, 'धुरंधर' बद्दल काय म्हणाला?",
+            "title": "ऑगस्टचा शेवटही कोरडा; दुष्काळाची चिंता वाढली; हवामान विभागाचा अंदाज; राज्यात आतापर्यंत ६ टक्के पावसाची तूट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-23T09:46:10",
-            "url": "https://www.lokmat.com/filmy/bollywood/ranveer-singhs-big-revelation-about-dhurandhar-success-and-thanks-to-ambani-family-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ranveer-singhs-big-revelation-about-dhurandhar-success-and-thanks-to-ambani-family_2026081768710.jpg",
+            "published": "2026-08-23T10:27:31",
+            "url": "https://www.lokmat.com/mumbai/end-of-august-also-dry-drought-concerns-increased-meteorological-department-forecast-6-percent-rainfall-deficit-in-the-state-so-far-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjktygim_2026081768718.jpg",
             "isBreaking": false,
-            "category_reason": "default"
-        },
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
         {
-            "id": "288a2b98d89b",
-            "feed": "lokmat",
-            "title": "साधेपणा आणि सेवाभावाचा आदर्श : बाळासाहेब खेर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T09:35:08",
-            "url": "https://www.lokmat.com/manthan/balasaheb-kher-an-epitome-of-simplicity-and-public-service-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/balasaheb-kher-bharat-ratna_2026081768709.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "58d2485ae4e0",
+            "id": "3c5356952a54",
             "feed": "maharashtratimes",
-            "title": "Kangana Ranaut On Tapsee Pannu : ही कसली स्वस्त कॉपी जन्माला घातली,तुमची मेहनत वाया! 8 वर्षांपूर्वीचा वाद पुन्हा उफळला, कंगनाने भांडणात तापसी पन्नूच्या पालकांनाही खेचले",
+            "title": "Swati Deval On TMKOC : तारक मेहतामध्ये माधवीच्या रोलसाठी खुद्द भिडेनेच सुचवलेलं स्वाती देवलचं नाव, पण झी मराठीच्या गाजलेल्या मालिकेसाठी दिला नकार",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-23T09:06:23",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/kangana-ranaut-dragged-taapsee-pannu-parents-into-an-eight-year-old-dispute/articleshow/133433756.cms",
+            "published": "2026-08-23T10:42:27",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/taarak-mehta-fame-bhide-aka-mandar-chandwadkar-offered-madhvi-roll-to-swati-deval/articleshow/133434395.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "b4152e527f69",
+            "id": "3bc4b014e06d",
             "feed": "lokmat",
-            "title": "न्यायाधीश देव नव्हेत, त्यांचा प्रत्येक निर्णय अचूक असेलच असे नाही; न्या. करोल यांचे प्रतिपादन",
+            "title": "स्वदेशी ‘तेजस’च्या कार्यक्रमावर हवाई दलाच्या माजी उप-प्रमुखांकडून कठोर शब्दांत टीका; निवृत्तीनंतर काही आठवड्यांतच भाष्य",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-23T08:59:26",
-            "url": "https://www.lokmat.com/national/judges-are-not-gods-not-every-decision-they-make-will-be-correct-justice-karol-asserts-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ghmyvm_2026081768693.jpg",
+            "published": "2026-08-23T10:41:07",
+            "url": "https://www.lokmat.com/national/former-air-force-vice-chief-strongly-criticizes-indigenous-tejas-program-comments-made-within-weeks-of-retirement-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mfjfv_2026081768721.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "4bed0da36dfd",
+            "feed": "esakal",
+            "title": "Helmet Safety: हेल्मेटलाही असते एक्सपायरी डेट! किती वर्षांनी बदलावे जुने हेल्मेट? वेळीच सावध व्हा, नाहीतर जिवाला वाढेल धोका!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T10:34:10",
+            "url": "https://www.esakal.com/lifestyle/helmet-expiry-date-replacement-rules-safety-tips-marathi-helmet-expiration-how-many-years-danger-of-old-helmets-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/v6wywchc/Helmet-Expiry-Date-Safety-Guide-When-Should-You-Replace-Itpng",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a98a0d33b423",
+            "feed": "lokmat",
+            "title": "'वांग्याचे भरीत' खाल्ले आणि ९ महिन्यांच्या बाळासह ३ बहिणींचा मृत्यू; पूनम, मनिषाच्या मृत्युने खळबळ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T10:28:29",
+            "url": "https://www.lokmat.com/crime/3-sisters-including-9-month-old-baby-die-after-eating-brinjal-stew-poonam-manishas-death-creates-stir-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/three-sisters-died-after-eating-vangyache-bharit_2026081768712.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "fb678f5f09c2",
+            "feed": "lokmat",
+            "title": "३४ व्या वर्षी प्रसिद्ध अभिनेत्याने तमन्नासोबत केला साखरपुडा; चाहत्यांकडून अभिनंदनाचा वर्षाव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T10:27:11",
+            "url": "https://www.lokmat.com/filmy/television/yrkkh-actor-mohsin-khan-gets-engaged-to-tamannaah-at-34-fans-shower-congratulations-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/actor-mohsin-khan-gets-engaged-to-tamannaah-at-34-fans-shower-congratulations_2026081768716.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "3ebf320b2024",
+            "feed": "esakal",
+            "title": "Google वर एक स्टार रिव्ह्यू; कंपनीने महिलेवरच दाखल केला मानहानीचा दावा... काय आहे प्रकरण?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T10:30:36",
+            "url": "https://www.esakal.com/global/google-one-star-review-defamation-lawsuit-ohio-woman-25000-dollar-damages-company-srk94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/82cvz6op/An-Ohio-woman-faces-a-defamation-lawsuit-after-posting-a-one-star-Google-review-with-the-company-seeking-25000-in-damages.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "3c8750bb2f31",
+            "feed": "esakal",
+            "title": "Humanoid Robot 100m Record : चिनी रोबोटने मोडला उसैन बोल्टचा जागतिक विक्रम; १०० मीटर अंतर अवघ्या ९.३९ सेकंदांत केले पार, VIDEO VIRAL",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T10:09:41",
+            "url": "https://www.esakal.com/trending-news/tianzhuo-humanoid-robot-100m-record-9-39-seconds-usain-bolt-world-record-humanoid-robot-games-china-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/qzy48gaw/Humanoid-Robot-100m-Record.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "21056c3f753a",
             "feed": "lokmat",
@@ -212,41 +244,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-22/10cebkae/Abhi-68.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "5364a7985a83",
-            "feed": "lokmat",
-            "title": "ट्रम्पचा झटका; अमेरिकेचे कॅनडावर ५० टक्के टॅरिफ; डॉलरच्या बदल्यात डॉलरने प्रत्युत्तर देण्याचा कॅनडाचा इशारा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-23T08:41:31",
-            "url": "https://www.lokmat.com/international/trumps-blow-us-imposes-50-percent-tariff-on-canada-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ghjrk6tg7l_2026081768688.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "be2b3f72b703",
-            "feed": "lokmat",
-            "title": "तिसऱ्या महायुद्धाची ठिणगी पडणार? अमेरिकेच्या दाव्यावर इराणचा संताप, होर्मुझ स्ट्रेटवरून पुन्हा हायव्होल्टेज ड्रामा!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-23T08:29:02",
-            "url": "https://www.lokmat.com/international/will-world-war-iii-be-sparked-irans-anger-over-us-claim-high-voltage-drama-again-over-the-strait-of-hormuz-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hormuz-donald-mojtba-1_2026081768684.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "f91e9acfd164",
+            "feed": "esakal",
+            "title": "Duleep Trophy 2026: वैभव सूर्यवंशीला मोठी खेळी करता आली नाही; फक्त ८ धावांवर गमावली विकेट, नेमका कसा झाला OUT? पाहा VIDEO",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-23T10:33:14",
+            "url": "https://www.esakal.com/krida/cricket/duleep-trophy-2026-vaibhav-sooryavanshi-out-for-8-runs-how-did-he-get-out-watch-video-east-zone-vs-north-east-zone-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/4ffzz940/HOW-VAIBHAV-SOORYAVANSHI-OUT-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "eca71a4212d3",
+            "feed": "maharashtratimes",
+            "title": "IND vs SL Playing 11 : भारताचा टॉस जिंकत बॅटिंगचा निर्णय, टीममध्ये एकमेव बदल; ३३ वर्षी खेळाडू करणार पदार्पण, पाहा कोण",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-23T10:02:24",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/sri-lanka-vs-india-2nd-test-team-india-win-toss-and-bat-first-saransh-jain-debut/articleshow/133434227.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "0bd20e964e14",
             "feed": "esakal",
@@ -262,41 +294,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-23/clcvkb5d/IND-vs-SL-2nd-Test.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "894d00d1049b",
-            "feed": "esakal",
-            "title": "IND vs SL 2nd Test: ठणठणीत खेळपट्टी गोलंदाजांना सतावणार; भारत- श्रीलंका यांच्यातील दुसरी कसोटी आजपासून",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-23T08:49:22",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-sri-lanka-2nd-test-colombo-pitch-report-singhalese-sports-club-marathi-cricket-news-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/5hkeuwmg/cricket-4.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "079bf5904f66",
-            "feed": "maharashtratimes",
-            "title": "IND vs SL 2nd Test : भारत वि. श्रीलंका आज दुसरा कसोटी सामना, 3 वर्षांनी परदेशात पहिली मालिका जिंकणार, किती वाजता सुरू होणार?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-23T08:05:20",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-sri-lanka-2nd-test-where-when-to-watch/articleshow/133433452.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "0ec127531e3a",
+            "feed": "lokmat",
+            "title": "Recharge Borewell : दिंद्रुडमध्ये जलक्रांती! सरस्वती नदीच्या पात्रात ८८ भूजल पुनर्भरण; दुष्काळी भाग झाला पाणीदार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T10:32:54",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-recharge-borewell-water-revolution-in-dindrud-88-groundwater-recharges-in-the-saraswati-river-basin-drought-prone-areas-become-water-rich-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/recharge-borewell-1_2026081768719.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "781acf3415c4",
             "feed": "lokmat",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "dce548177932",
-            "feed": "lokmat",
-            "title": "Vidarbha Rain Update : अखेर प्रतीक्षा संपली! विदर्भात पावसाची 'कमबॅक'; २३-२४ ऑगस्टला जोरदार सरी?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T09:21:38",
-            "url": "https://www.lokmat.com/agriculture/weather/latest-news-vidarbha-rain-update-finally-the-wait-is-over-rains-comeback-in-vidarbha-heavy-showers-on-august-23-24-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vidarbha-1_2026081768705.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
