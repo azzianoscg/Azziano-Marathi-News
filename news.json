@@ -1,88 +1,136 @@
 {
-    "lastUpdated": "23-08-2026 | 09:43 PM IST",
+    "lastUpdated": "23-08-2026 | 10:42 PM IST",
     "maharashtra": [
         {
-            "id": "d42472c98d0f",
-            "feed": "maharashtratimes",
-            "title": "Kannad Ghat : काळजाचा ठोका चुकवणारा अपघात; काठड्यावर लटकली एसटी बस, खिडकीतून उड्या मारून 49 प्रवाशांनी वाचवला जीव",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T21:31:01",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/thrilling-st-bus-accident-at-kannad-chalisagaon-ghat-49-passengers-saved-their-lives/articleshow/133442167.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d931870088f0",
+            "id": "1b74995088d8",
             "feed": "esakal",
-            "title": "UPSC CAPF Success Story: एक एकर शेती, शेतमजुरी अन् जिद्दीच्या जोरावर UPSC CAPF मध्ये २७९ वा क्रमांक; प्रवीण स्वामींची यशोगाथा..",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T21:30:44",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/pravin-swami-secures-all-india-rank-279-in-upsc-capf-2025-after-rising-from-one-acre-farm-and-farm-labour-background-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/8o47231t/sudhir-jadhav-satara-18.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "3e754bfde322",
-            "feed": "esakal",
-            "title": "Kas Plateau Flower Festival : कास पठारावरील फुले पाहण्यासाठी आता 200 रुपये शुल्क; पठारावर जाण्यापूर्वी जाणून घ्या Online Booking ची सोपी पद्धत",
+            "title": "Devendra Fadnavis: काँग्रेस पक्ष दुटप्पी व दिशाहीन: मुख्यमंत्री देवेंद्र फडणवीसांचा राहुल गांधींवर हल्लाबोल",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-23T21:10:00",
-            "url": "https://www.esakal.com/satara/kas-plateau-flower-festival-2026-entry-fee-online-booking-tourist-rules-satara-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/g31f0m9y/Kas-Plateau-Flower-Festival-2026-entry-fee",
+            "published": "2026-08-23T22:39:52",
+            "url": "https://www.esakal.com/vidarbha/nagpur/devendra-fadnavis-slams-rahul-gandhi-and-congress-over-women-reservation-bill-and-calls-party-directionless-in-nagpur-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2024-08-22/mfjzako1/Devendra%20Fadnavis%20(2).jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "57cad9dbe7e3",
+            "id": "e0e3213beb9c",
+            "feed": "esakal",
+            "title": "Sugar Industry: साखर कारखान्यांसाठी सरकारचा मोठा निर्णय! ४ हजार कोटींचे सॉफ्ट लोन, व्याजाचा भारही सरकार उचलणार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T22:26:33",
+            "url": "https://www.esakal.com/mumbai/maharashtra-government-proposes-4000-crore-soft-loan-for-sugar-mills-to-support-industry-and-reduce-financial-stress-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/qbj7c316/sudhir-jadhav-satara-21.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1d41c4e9994a",
             "feed": "maharashtratimes",
-            "title": "Chhatrapati Sambhajinagar : 'आमचं सर्व संपलं, आता वंशच नाही'; वृद्ध बापाचा काळीज चिरणारा आक्रोश, म्हातारपणी होतकरु लेकराला खांदा, उपस्थितांचाही कंठ दाटला",
+            "title": "Crime News : विवाहितेस घराबाहेर काढले; सासरच्यांवर गुन्हे दाखल, नव्या घरासाठी 10 लाख रुपये आणण्यासाठी छळ",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-23T21:03:32",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/chhatrapati-sambhajinagar-khavdya-mountain-accident-murlidhar-chandgude-father-reaction/articleshow/133441941.cms",
+            "published": "2026-08-23T22:15:14",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/married-woman-harassed-for-ten-lakh-rupees-thrown-out-of-house-in-ghatkopar/articleshow/133442752.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b6863321ef01",
+            "id": "3b944ec94954",
             "feed": "lokmat",
-            "title": "स्मशानभूमीत गाडीचा हेडलाईट आणि मोबाईल टॉर्चवर अंत्यसंस्कार,स्थानिकांनी व्यक्त केला संताप",
+            "title": "लुटमारीची बोंब करून पोलिसांची भंबेरी उडविणारा फिर्यादीच बनला आरोपी; कारचालकाने स्वतःच रचला कट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-23T20:56:24",
-            "url": "https://www.lokmat.com/dharashiv/locals-express-anger-over-cremation-in-graveyard-with-car-headlights-and-mobile-torches-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dharashiv_2026081769119.jpg",
+            "published": "2026-08-23T22:11:15",
+            "url": "https://www.lokmat.com/crime/in-nagpur-police-investigation-has-revealed-that-the-car-driver-had-staged-a-robbery-because-he-did-not-want-to-repay-the-money-borrowed-from-a-friend-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/26-bagsnatched_20180481344.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "190b3bc2d139",
+            "feed": "esakal",
+            "title": "Eknath Shinde: चाकणमधील उद्योगांचे स्थलांतर रोखणार’; उपमुख्यमंत्री एकनाथ शिंदेंनी उद्योजकांच्या समस्यांवर घेतले महत्त्वाचे निर्णय",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T22:03:02",
+            "url": "https://www.esakal.com/pune/chakan-industries-relocation-stopped-as-eknath-shinde-takes-key-decisions-on-industrial-problems-and-infrastructure-issues-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/7p9wm2zy/sudhir-jadhav-satara-20.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "3ea9e27f5a94",
+            "feed": "esakal",
+            "title": "LPG वाहतुकीसाठी देशात 1,800 किमी पाइपलाइन; कोणकोणत्या राज्यांतून जाणार? काय बदलणार? वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T22:35:52",
+            "url": "https://www.esakal.com/desh/india-to-get-1800-km-new-lpg-pipeline-network-which-states-will-it-pass-through-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/5ggbhgev/New-LPG-Pipeline-Network-Across.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "0c2112cd544d",
+            "feed": "lokmat",
+            "title": "साप्ताहिक राशीभविष्य: ६ राशींना कठीण काळ, खर्च वाढेल; ६ राशींना चांगला लाभ, हाती पैसा राहील!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T22:07:08",
+            "url": "https://www.lokmat.com/photos/bhakti/weekly-horoscope-23-august-2026-to-29-august-2026-saptahik-rashi-bhavishya-in-marathi-6-zodiac-signs-difficult-times-expenses-increase-6-zodiac-signs-good-profit-money-in-hand-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/weekly-rashi-bhavishya_202209877470.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "151046f9e115",
+            "feed": "maharashtratimes",
+            "title": "Mukesh Khanna : 'भारत माता आणि राष्ट्रधवज यांना आम्ही प्रतीकं मानतो', 'जन गण मन'च्या वादावर काय म्हणाले मुकेश खन्ना?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-23T21:50:50",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/mukesh-khanna-reacted-on-jana-gana-mana-controversy/articleshow/133442367.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "7aefe728d3a3",
             "feed": "esakal",
@@ -114,57 +162,41 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rice-foods-neww_2026081769123.jpeg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "8bf4a903b3d4",
-            "feed": "maharashtratimes",
-            "title": "Shekhar Phadke : 'काही चॅनलवर मला काम मिळत नाही, 10-12 वर्षांपूर्वी न सांगता मालिकेतून काढण्यात आलेलं', मराठी अभिनेत्याचं वक्तव्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-23T21:01:32",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/star-pravah-tu-hi-re-maza-mitwa-fame-shekhar-phadke-on-career-and-loss-of-projects/articleshow/133441523.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "a2475f7c3ac3",
-            "feed": "lokmat",
-            "title": "अचानक पाहुणे आले की खायला काय करावे असा प्रश्न पडतो ? काळजी नको , सणासुदीला करा १० मिनिटांत होणारे सोपे पदार्थ ...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T20:45:44",
-            "url": "https://www.lokmat.com/sakhi/food/instant-recipes-cooking-ideas-cook-for-guests-in-just-half-and-hour-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/food-for-guest_2026081769110.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "065ebb973c70",
-            "feed": "lokmat",
-            "title": "फक्त १५ रुपयांत ६ उपाय, स्वस्तात मस्त काम-घरातली कानाकोपऱ्यातली वाळवी होईल कायमची गायब...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T20:12:15",
-            "url": "https://www.lokmat.com/sakhi/photos/social-viral/how-to-get-rid-of-termites-permanently-how-to-get-rid-of-termites-on-walls-termite-control-at-home-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-get-rid-of-termites-on-walls_2026081768339.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "67cec0026b48",
+            "feed": "lokmat",
+            "title": "\"७ तास घरी राहिलो, जेवलो, अंघोळ केली...\"; बांगलादेशात हिंदू कुटुंबाची हत्या करणाऱ्या आरोपींची कबुली",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T21:51:42",
+            "url": "https://www.lokmat.com/crime/i-stayed-at-home-for-7-hours-ate-took-a-bath-confession-of-accused-who-murdered-hindu-family-in-bangladesh-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hindu-family-sh18_2026081769127.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "fbd1d32aa82e",
+            "feed": "esakal",
+            "title": "US-Iran War: आम्हाला व्हेनेझुएला बनवायला निघाले होते; इराणचा ट्रम्प यांच्यावर घणाघात, राष्ट्राध्यक्षांचा अमेरिकेला टोला",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T21:46:58",
+            "url": "https://www.esakal.com/global/iran-hits-back-at-donald-trump-you-tried-to-make-us-venezuela-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/31vbychl/Iran-Fires-Back-at-Trump-as-Strait-of-Hormuz-Tensions-Escalate.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "4953e4bf38a2",
             "feed": "lokmat",
@@ -212,45 +244,13 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-23/fbjhcvp8/Famous-Jackfruit-Dishes-Eaten-Around-the-World.png",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "9fb047b63c52",
-            "feed": "esakal",
-            "title": "Vilas Shelke Travel Books : अभियंता असूनही प्रवासलेखनाकडे कसे वळले विलास शेळके?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T13:17:57",
-            "url": "https://www.esakal.com/saptarang/vilas-shelke-purvayan-madhyayan-travel-books-japan-china-dubai-egypt-culture-history-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/ctl7w4xv/download-6.jfif",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "3ebf320b2024",
-            "feed": "esakal",
-            "title": "Google वर एक स्टार रिव्ह्यू; कंपनीने महिलेवरच दाखल केला मानहानीचा दावा... काय आहे प्रकरण?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T10:30:36",
-            "url": "https://www.esakal.com/global/google-one-star-review-defamation-lawsuit-ohio-woman-25000-dollar-damages-company-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/82cvz6op/An-Ohio-woman-faces-a-defamation-lawsuit-after-posting-a-one-star-Google-review-with-the-company-seeking-25000-in-damages.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
             "id": "844d834c9c67",
             "feed": "maharashtratimes",
-            "title": "Ravindra Jadeja Bold : नेमका काय विषय झाला! बॉल लागल्यावर मैदान न सोडता खेळणाऱ्या रविंद्र जडेजा  असा कसा आऊट झाला? Video व्हायरल",
+            "title": "Ravindra Jadeja : नेमका काय विषय झाला! बॉल लागल्यावरही मैदान न सोडता खेळणाऱ्या रविंद्र जडेजा  असा कसा आऊट झाला? Video व्हायरल",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
@@ -266,7 +266,7 @@
         {
             "id": "4325af2466fb",
             "feed": "maharashtratimes",
-            "title": "Imran Khan News : इम्रान खानसाठी क्रिकेट जगत एकवटलं; कपिल देव, गावसकरांसह २१ दिग्गजांचं पाकिस्तानच्या पंतप्रधानांना पत्र, नेमकं काय घडलं?",
+            "title": "Imran Khan News : इम्रान खानसाठी गावसकर-कपिल देव यांच्यासह 21 माजी कर्णधार एकवटले; पाकिस्तानच्या पीएमना पाठवलं 3 मागण्यांचं पत्र, कारण काय?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
