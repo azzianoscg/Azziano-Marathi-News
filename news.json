@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "23-08-2026 | 10:42 PM IST",
+    "lastUpdated": "23-08-2026 | 11:45 PM IST",
     "maharashtra": [
+        {
+            "id": "fcc024d10ec4",
+            "feed": "lokmat",
+            "title": "PUC च्या दरात वाढ करण्यास परिवहन विभागाची मंजुरी; वाहनधारकांना बसणार फटका, नवे दर काय?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T23:15:34",
+            "url": "https://www.lokmat.com/maharashtra/transport-department-approves-increase-in-puc-rates-in-maharashtra-vehicle-owners-will-be-affected-what-are-the-new-rates-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/puc-check-rate-increased_2026081769135.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "1b74995088d8",
             "feed": "esakal",
@@ -64,25 +80,57 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/26-bagsnatched_20180481344.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "190b3bc2d139",
-            "feed": "esakal",
-            "title": "Eknath Shinde: चाकणमधील उद्योगांचे स्थलांतर रोखणार’; उपमुख्यमंत्री एकनाथ शिंदेंनी उद्योजकांच्या समस्यांवर घेतले महत्त्वाचे निर्णय",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T22:03:02",
-            "url": "https://www.esakal.com/pune/chakan-industries-relocation-stopped-as-eknath-shinde-takes-key-decisions-on-industrial-problems-and-infrastructure-issues-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/7p9wm2zy/sudhir-jadhav-satara-20.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "f3b72a988f9c",
+            "feed": "lokmat",
+            "title": "तामिळ चित्रपटसृष्टीत १ सप्टेंबरपासून ‘शटडाऊन’ची शक्यता; ओटीटी प्रदर्शनाच्या कालावधीवरून वाद",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T23:06:23",
+            "url": "https://www.lokmat.com/filmy/south-movies/tamil-film-industry-likely-to-shut-down-from-september-1-controversy-over-ott-release-period-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tamild-ott-vs-theratye_2026081769133.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "77df6d0e08c4",
+            "feed": "lokmat",
+            "title": "पती, पत्नी अन् प्रियकर...तिघांनाही एकत्र राहायचंय; घरच्यांचा विरोध, प्रकरण पोलिसांकडे पोहोचलं",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T22:58:25",
+            "url": "https://www.lokmat.com/crime/husband-wife-and-loverall-three-want-to-live-together-family-members-oppose-case-reaches-police-at-sitapur-up-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/husband-wife-aur-lover-sitapur_2026081769131.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3831dcc9fdc2",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 24 August 2026: पुत्रदा भागवत एकादशी, श्रावणी सोमवार, प्रीति योग, आयुष्मान योग, हंस राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-23T22:57:57",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-24-august-2026-in-marathi-putrada-bhagavata-ekadashi-shravani-somwar-hans-rajyoga-and-shubha-muhurta/articleshow/133442382.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "3ea9e27f5a94",
             "feed": "esakal",
@@ -114,54 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/weekly-rashi-bhavishya_202209877470.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "151046f9e115",
-            "feed": "maharashtratimes",
-            "title": "Mukesh Khanna : 'भारत माता आणि राष्ट्रधवज यांना आम्ही प्रतीकं मानतो', 'जन गण मन'च्या वादावर काय म्हणाले मुकेश खन्ना?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-23T21:50:50",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/mukesh-khanna-reacted-on-jana-gana-mana-controversy/articleshow/133442367.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7aefe728d3a3",
-            "feed": "esakal",
-            "title": "जगात साखर कुठून आली? भारत नव्हे, ‘या’ संस्कृतीने शोधला ऊस आणि साखरेचा इतिहास...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T21:19:42",
-            "url": "https://www.esakal.com/ampstories/web-story/where-did-sugar-come-from-who-invented-did-sugar-really-originate-in-india-know-history-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/elwkua3a/Origin-of-Sugar-How-Ancient-Civilization-Discovered-Sweetener.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "141b142cdd7d",
-            "feed": "lokmat",
-            "title": "उरलेल्या भाताचे असेही पदार्थ करता येतात? ६ क्रेझी रेसिपी , कळणारही नाही की शिळा भात खात आहात..",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T21:02:35",
-            "url": "https://www.lokmat.com/sakhi/photos/food/make-these-dishes-with-leftover-rice-6-crazy-recipes-you-wont-even-know-youre-eating-stale-rice-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rice-foods-neww_2026081769123.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
