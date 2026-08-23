@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "23-08-2026 | 11:53 AM IST",
+    "lastUpdated": "23-08-2026 | 12:55 PM IST",
     "maharashtra": [
         {
-            "id": "db7a2a917c49",
+            "id": "c3d6cb06b588",
             "feed": "esakal",
-            "title": "Selu Traveler Accident: ट्रॅव्हलरची टिप्परला मागून धडक; गुजरात येथील १७ प्रवासी जखमी; रमणा फाट्याजवळ अपघात",
+            "title": "Mumbai News: महापालिकेच्या जागेवर बेकायदा बांधकाम, महालक्ष्मी रेसकोर्सवरील प्रकार; प्रशासनाचे तत्काळ कारवाईचे आदेश",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T12:49:08",
+            "url": "https://www.esakal.com/mumbai/illegal-construction-on-municipal-land-at-mahalakshmi-racecourse-administration-orders-immediate-action-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-25/sdyaq35t/bmc-budget-2026.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7f8850aecb67",
+            "feed": "lokmat",
+            "title": "‘डॉक्टरांच्या सुरक्षिततेसाठी केरळच्या धर्तीवर कायदा’",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T12:47:58",
+            "url": "https://www.lokmat.com/nashik/law-on-the-lines-of-kerala-for-the-safety-of-doctors-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjfyc_2026081768814.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9b19e856c491",
+            "feed": "esakal",
+            "title": "राज्यातील बालसुरक्षेसाठी समिती स्थापन, बाल हक्क संरक्षण आयोगाच्या बैठकीत निर्णय; पाहणी करून अहवाल देणार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T12:36:03",
+            "url": "https://www.esakal.com/mumbai/maharashtra-state-commission-for-protection-of-child-rights-to-review-facilities-in-ashram-schools-and-residential-institutions-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/z2q7ubaj/Maharashtra-Child-Rights-Commission.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2d066ac10053",
+            "feed": "esakal",
+            "title": "मुलाच्या हट्टापायी आई-वडिलांच्याही दुर्दैवी मृत्यू प्रकरणात नवा आणि खळबळजनक ट्विस्ट | Chhatrapati Sambhajinagar",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-23T11:43:08",
-            "url": "https://www.esakal.com/vidarbha/selu-ramana-phata-traveler-tipper-accident-17-injured-gujarat-pilgrims-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/9y4vulgu/Abhi-4.jpg",
+            "published": "2026-08-23T12:35:19",
+            "url": "https://www.esakal.com/videos/family-tragedy-son-parents-death-shocking-twist-chhatrapati-sambhajinagar-akp99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/nqc78bip/mqdefault.webp",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "2862eb80fabb",
-            "feed": "lokmat",
-            "title": "पवना नदी स्वच्छतेवर कोट्यवधींचा खर्च; तरीही प्रदूषण कायम, हिशेबाची मावळकरांची मागणी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T11:37:47",
-            "url": "https://www.lokmat.com/pune/pune-news-crores-spent-on-cleaning-the-pavana-river-still-pollution-persists-mavalkars-demand-an-accounting-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/river-dam-000_2026081768755.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d91832f535e3",
-            "feed": "maharashtratimes",
-            "title": "राहुल गांधींसमोर नेहा राठोडचं गाणं; पुण्यातील छात्रों की गुंजमध्ये धरला ठेका",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T11:32:52",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/neha-rathore-sings-bhojpuri-song-in-front-of-rahul-gandhi/videoshow/133435372.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dcedd4dc4d8d",
+            "id": "186b48856a47",
             "feed": "esakal",
-            "title": "Crime: रस्त्याकडेला उभं राहून नागरिकांवर नको त्या कमेंट्स, जाब विचारताच मोठा वाद; तरुणांच्या हाणामारीत 65 वर्षीय रिक्षाचालकाचा मृत्यू",
+            "title": "ढिंग टांग२३०८२६",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-23T11:32:12",
-            "url": "https://www.esakal.com/mumbai/bhiwandi-crime-65-years-old-rickshaw-driver-died-after-beaten-by-youths-due-to-confronting-them-for-making-comments-on-citizens-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/747zu7m8/Bhiwandi-Crime.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bccbfd5cf7a4",
-            "feed": "lokmat",
-            "title": "Mhada lottery: अरे बापरे! म्हाडाच्या लॉटरीत एकाला लागली बारा घरे, दुसऱ्याला सात घरे; नशिबवान लोक कोण आहेत?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T11:18:59",
-            "url": "https://www.lokmat.com/nashik/mhada-lottery-oh-my-god-one-person-got-twelve-houses-another-got-seven-houses-in-the-mhada-lottery-who-are-the-lucky-people-a-a333-c571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mhada-lottery-nashik-2026_2026081768742.jpeg",
+            "published": "2026-08-23T12:22:02",
+            "url": "https://www.esakal.com/pune/pune-mahnje-prem",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/c14h1idy/Banner1.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "5cbc90870f71",
-            "feed": "lokmat",
-            "title": "तापसी पन्नूवर भडकली कंगना राणौत; 'सस्ती कॉपी' म्हणत जोरदार हल्लाबोल, नंतर डिलीट केली पोस्ट",
+            "id": "16fd9134babe",
+            "feed": "esakal",
+            "title": "Putrada Ekadashi 2026: पुत्रदा एकादशी आज की उद्या? तारखेबाबत गोंधळ! जाणून घ्या पूजेची आणि पारणाची योग्य वेळ...",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-23T11:48:41",
-            "url": "https://www.lokmat.com/filmy/bollywood/kangana-ranaut-slams-taapsee-pannu-upbringing-remark-sasti-copy-controversy-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kangana-ranaut-slams-taapsee-pannu-for-talking-about-their-past-feud-calls-her-sasti-copy-1_2026081768768.jpg",
+            "published": "2026-08-23T12:48:46",
+            "url": "https://www.esakal.com/culture-and-religion/putrada-ekadashi-2026-date-confusion-august-23-or-24-puja-parana-muhurat-marathi-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/bnjndeiu/putrada-ekadashi-.png",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "0f3ab67a7958",
-            "feed": "lokmat",
-            "title": "प्रमाणीकरण नसलेल्या ‘एआय डॉक्टर’ मशीन खरेदीचा घाट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T11:44:51",
-            "url": "https://www.lokmat.com/pimpri-chinchwad/pimpari-chinchwad-the-threat-of-buying-uncertified-ai-doctor-machines-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ai-doctor-machines0025_2026081768764.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "93ec34693c88",
-            "feed": "lokmat",
-            "title": "भारतात विज्ञानाचा सर्वात मोठा चमत्कार! ३५०००००००० वर्षे जुन्या पाषाणात सापडले सृष्टीचे मोठे रहस्य",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-23T11:44:42",
-            "url": "https://www.lokmat.com/jarahatke/the-biggest-miracle-of-science-in-india-the-great-secret-of-creation-found-in-a-350000000-year-old-stone-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-scienties_2026081768760.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "c3588599b7a7",
+            "id": "0bab32ae7c9e",
             "feed": "maharashtratimes",
-            "title": "Europe Drought 2026: युरोपमध्ये दुष्काळ का पडला आहे?",
+            "title": "Govinda Legal Notice : सावधान! भडकलाय गोविंदा, खोटी माहिती पसरवणाऱ्यांना 100 कोटींच्या मानहानिची धमकी, जप्त होणार संपत्ती",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-23T11:38:52",
-            "url": "https://maharashtratimes.com/editorial/samwad/europe-drought-crisis-as-brutal-heatwave-scorches-germany-france-britain-belgium/articleshow/133435295.cms",
+            "published": "2026-08-23T12:46:08",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/govinda-legal-notice-100-crore-defamation-case-against-those-who-spread-defamatory-information/articleshow/133435791.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "242aef57fe2f",
-            "feed": "maharashtratimes",
-            "title": "Shalini Thackeray On Shweta Tiwari : प्रसिद्धी मिळावी म्हणून मराठी माणूस, राजसाहेब आणि मनसेचा वापर करू नका! शालिनी ठाकरेंची श्वेता तिवारीच्या आरोपांवरुन खरमरीत पोस्ट",
+            "id": "0ff16b59f41a",
+            "feed": "lokmat",
+            "title": "ख्रिस्तोफर नोलनचा मास्टरपीस 'द ओडिसी' ओटीटीवर येण्यास सज्ज; 'या' तारखेला घरबसल्या पाहता येणार चित्रपट",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-23T11:38:40",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/shalini-thackeray-post-on-shweta-tiwari-question-to-raj-thackeray/articleshow/133434974.cms",
-            "image": "",
+            "published": "2026-08-23T12:44:58",
+            "url": "https://www.lokmat.com/filmy/hollywood/the-odyssey-ott-release-date-christopher-nolan-tom-holland-prime-video-apple-tv-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/the-odyssey-ott-release-date-christopher-nolan-tom-holland-prime-video-apple-tv-1_2026081768810.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "35314a43bc5d",
+            "feed": "lokmat",
+            "title": "Govinda Big Decision: वैयक्तिक आयुष्याबद्दलच्या चर्चांना वैतागून गोविंदाने घेतला 'हा' मोठा निर्णय, चाहते थक्क",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T12:44:21",
+            "url": "https://www.lokmat.com/filmy/bollywood/govinda-threatens-legal-action-against-those-spreading-marriage-rumours-deepfakes-online-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/govinda-threatens-legal-action-against-those-spreading-marriage-rumours-deepfakes-online_2026081768812.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "61bb49715b1d",
+            "feed": "esakal",
+            "title": "गोविंदाची तब्येत बिघडली? चेहऱ्यावर मास्क, पडलेला चेहरा अन्.... सोशल मीडियावर Viral Video",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-23T12:39:57",
+            "url": "https://www.esakal.com/premier/govinda-spotted-leaving-hospital-amid-sunita-ahuja-divorce-buzz-says-im-fine-komal-rani-marriage-rumours-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/8y6eueag/GOVINDA-SPOTTED-LEAVING-HOSPITAL",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "eca610368371",
+            "feed": "lokmat",
+            "title": "खळबळजनक! गुजरातच्या व्यापाऱ्याची अमेरिकेत हत्या; मुलीसमोरच वडिलांवर झाडल्या गोळ्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-23T12:18:49",
+            "url": "https://www.lokmat.com/international/gujarat-businessman-suresh-patel-killed-in-america-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/suresh-patel_2026081768799.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "b6a657f6b5f0",
             "feed": "lokmat",
@@ -214,22 +230,6 @@
             "category_reason": "keyword"
         },
         {
-            "id": "21056c3f753a",
-            "feed": "lokmat",
-            "title": "Japan Earthquake : जपानमध्ये ५.९ तीव्रतेचा भूकंप; टोकियो हादरले, २३ जण जखमी, रेल्वे वाहतूकही विस्कळीत",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-23T09:10:39",
-            "url": "https://www.lokmat.com/international/japan-earthquake-59-magnitude-earthquake-in-japan-tokyo-shaken-23-injured-rail-traffic-disrupted-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/japan-earthquake-today_2026081768699.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "43247c9621ab",
             "feed": "esakal",
             "title": "Premium|Open Source AI Revolution : जागतिक महासत्तांची गणितं कशी बदलली?",
@@ -248,100 +248,100 @@
     ],
     "sports": [
         {
-            "id": "8475b26848c5",
-            "feed": "esakal",
-            "title": "IND vs SL: कोलंबो कसोटी जडेजासाठी खास; मैदानात उतरताच होणार मोठा विक्रम नावावर, अशी कामगिरी करणारा पहिलाच भारतीय!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-23T11:48:09",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-ravindra-jadeja-creates-history-becomes-first-indian-to-play-50-world-test-championship-matches-colombo-test-record-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/3lpodxp9/ravindra-jadejaa.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "58f67960eb2a",
+            "id": "7ae45dc2618b",
             "feed": "lokmat",
-            "title": "IND vs SL 2nd Test : टीम इंडियाने टॉस जिंकला; कुलदीपचा पत्ता कट, त्याच्या जागी नव्या गड्याला पदार्पणाची संधी",
+            "title": "IND vs SL : क्रिकेटचं मैदान झालं WWE चा आखाडा! यशस्वी-फर्नांडो भरमैदानात भिडले; नेमकं काय घडलं? (VIDEO)",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-23T11:06:50",
-            "url": "https://www.lokmat.com/cricket/news/india-vs-sri-lanka-live-streaming-info-when-where-to-watch-ind-vs-sl-2nd-test-match-saransh-jain-makes-his-debut-replacing-kuldeep-yadav-both-team-playing-11-and-head-to-head-record-at-the-ssc-ground-in-colombo-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-2nd-test-m-1_2026081768736.jpg",
+            "published": "2026-08-23T12:36:45",
+            "url": "https://www.lokmat.com/cricket/news/sri-lanka-vs-india-2nd-test-day-1-yashasvi-jaiswal-and-asitha-fernando-fight-in-colombo-during-match-watch-video-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yashasvi-jaiswal-and-asitha-fernando-fight-in-colombo-during-match-m_2026081768804.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f91e9acfd164",
-            "feed": "esakal",
-            "title": "Duleep Trophy 2026: वैभव सूर्यवंशीला मोठी खेळी करता आली नाही; फक्त ८ धावांवर गमावली विकेट, नेमका कसा झाला OUT? पाहा VIDEO",
+            "id": "039a2bc128ad",
+            "feed": "lokmat",
+            "title": "IND vs SL 2nd Test: गौतम गंभीरचे टीकाकारांना रोखठोक उत्तर, म्हणाला- \"माझ्यात आणि इतरांच्यात हाच फरक\"",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-23T10:33:14",
-            "url": "https://www.esakal.com/krida/cricket/duleep-trophy-2026-vaibhav-sooryavanshi-out-for-8-runs-how-did-he-get-out-watch-video-east-zone-vs-north-east-zone-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/4ffzz940/HOW-VAIBHAV-SOORYAVANSHI-OUT-1.jpg",
+            "published": "2026-08-23T11:58:54",
+            "url": "https://www.lokmat.com/cricket/photos/ind-vs-sl-2nd-test-gautam-gambhir-blunt-reply-to-critics-said-i-dont-go-for-likes-and-views-thats-difference-between-me-and-others-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gautam-gambhir-2308_2026081768786.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7d201f09cdba",
+            "feed": "lokmat",
+            "title": "Duleep Trophy : टेस्टमध्ये टी-२० तोरा! 'वंडर बॉय' वैभव सूर्यवंशीनं २ खणखणीत चौकार ठोकले, पण... (VIDEO)",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-23T11:56:52",
+            "url": "https://www.lokmat.com/cricket/news/duleep-trophy-2026-east-zone-vs-north-east-zone-quarter-final-vaibhav-suryavanshi-flops-on-red-ball-leadership-debut-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vaibhav-suryavanshi-flops-on-red-ball-leadership-debut-m_2026081768769.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "fdf1f1f80839",
+            "id": "3147e8abfb42",
             "feed": "lokmat",
-            "title": "आता अपघातग्रस्त प्राण्यांचे होणार संगोपन, राज्यात प्राणी अपंगालये उभारण्यात येणार; शासनाने दिली मंजुरी",
+            "title": "घोड, कुकडीच्या पाण्याची पळवापळवी; शाश्वत पाण्याअभावी उसाची टंचाई जाणवण्याची चिन्हे",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-23T11:29:50",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/now-accident-affected-animals-will-be-cared-for-animal-orphanages-will-be-set-up-in-the-state-government-has-given-approval-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-34-animal-hare-care-center_2026081768732.jpeg",
+            "published": "2026-08-23T12:38:52",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/water-for-horses-and-chickens-is-running-out-signs-of-sugarcane-shortage-due-to-lack-of-sustainable-water-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-34-34-u-34-sugarcane-farming_2026081768752.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "9d07de8094f0",
-            "feed": "esakal",
-            "title": "इथेनॉलच्या हट्टाने नितीन गडकरी अडचणीत",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T11:24:42",
-            "url": "https://www.esakal.com/blog/e20-ethanol-policy-nitin-gadkari-ethanol-blending-e10-fuel-economy-agriculture-debate-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/4zxbbn34/Abhi-7.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "82cb891703f6",
+            "id": "276ddf94676f",
             "feed": "lokmat",
-            "title": "Onion Market : कांदा ६० रुपयांवर पोहोचला, आता शेतकऱ्यांना मिळणार मोठा फायदा? कारण समजून घ्या",
+            "title": "Mushroom Farming : चार गुणांनी हुकली खाकी; मशरूमने बदललं आयुष्य! जालन्याच्या विद्या उजेड यांची प्रेरणादायी यशोगाथा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-23T11:22:48",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-onion-market-onion-has-reached-rs-60-now-farmers-will-get-big-benefits-understand-the-reason-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/onion-market-yavt-1_2026081768743.jpg",
+            "published": "2026-08-23T12:35:15",
+            "url": "https://www.lokmat.com/agriculture/success-story/latest-news-mushroom-farming-khaki-lost-by-four-points-mushrooms-changed-life-inspiring-success-story-of-vidya-ujjad-from-jalna-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mashroom-farming-1_2026081768806.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "6286c3b7e9fd",
+            "feed": "lokmat",
+            "title": "Maharashtra Rain : ऑगस्टचा शेवटी पश्चिम महाराष्ट्र ते उत्तर महाराष्ट्र अन् कोकणात पाऊस कसा राहील, वाचा सविस्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T12:18:52",
+            "url": "https://www.lokmat.com/agriculture/weather/how-the-rainfall-will-be-from-western-maharashtra-to-north-maharashtra-and-konkan-at-end-of-august-2026-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/paus-rain-4_2026081768798.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
