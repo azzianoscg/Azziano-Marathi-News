@@ -1,183 +1,183 @@
 {
-    "lastUpdated": "23-08-2026 | 04:42 PM IST",
+    "lastUpdated": "23-08-2026 | 05:49 PM IST",
     "maharashtra": [
         {
-            "id": "ead08201e5f3",
+            "id": "75b56f1ceec8",
+            "feed": "lokmat",
+            "title": "आदिवासी मुलींच्या वस्तीगृहाची वयोमर्यादा वाढवा; छात्रों की गुंज कार्यक्रमात आदिवासी विद्यार्थिनीने मांडल्या व्यथा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T17:29:25",
+            "url": "https://www.lokmat.com/pune/increase-the-age-limit-of-tribal-girls-hostels-tribal-student-expresses-her-grievances-in-students-voice-program-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/adivadi-women-01236_2026081769025.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a6a575a4caea",
             "feed": "esakal",
-            "title": "महाराष्ट्राच्या मातीतली चव! अशी बनवा झणझणीत मोदक आमटी",
+            "title": "Marathi Literature: शांताबाई शेळके यांच्या बालपणीच्या आठवणींच्या जागी भव्य स्मारक: माजी मंत्री दिलीप वळसे-पाटील; अभ्यासिका, स्पर्धा परीक्षा केंद्र उभारणार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T17:28:21",
+            "url": "https://www.esakal.com/pune/shantabai-shelke-memorial-to-rise-in-manchar-at-her-childhood-home-site-with-study-room-and-competitive-exam-centre-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/3p5z76m9/sudhir-jadhav-satara-4.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1d5eca5d17e6",
+            "feed": "lokmat",
+            "title": "मुलांना सुरक्षित अन्न द्यायचे ; पण परवाना कसा काढायचा? स्पष्ट माहिती नसल्याने मुख्याध्यापक संभ्रमात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-23T17:25:57",
+            "url": "https://www.lokmat.com/pune/children-should-be-given-safe-food-but-how-to-get-a-license-principals-confused-due-to-lack-of-clear-information-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/khichadi-01236_2026081769024.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9d3726e23cfe",
+            "feed": "esakal",
+            "title": "लाचेसंबधीची तक्रार टोल फ्री क्रमांकावर करा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-23T16:38:51",
-            "url": "https://www.esakal.com/ampstories/web-story/spicy-modak-amti-a-taste-of-maharashtra-try-this-traditional-recip-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/os0jxn1r/Spicy-Modak-Amti-Recipe-5.jpg",
+            "published": "2026-08-23T17:11:23",
+            "url": "https://www.esakal.com/kokan/todays-latest-marathi-news-kop26e25626-txt-ratnagiri-today-20260823114123",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/5sy081a3/ratnagiri_default_banner_1.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "f0f5c4491355",
+            "id": "f7b25514db1d",
             "feed": "maharashtratimes",
-            "title": "मराठा सेवकांच्या बैठकीत मोठा निर्णय! मनोज जरांगे यांनी मास्टर प्लॅन सांगितला",
+            "title": "Sangita Chandgude : खवड्या डोंगरावरुन जीव गमावणाऱ्या संगीता चांदगुडे यांचा व्हिडीओ व्हायरल, प्रेम आणि नात्याबद्दल भावनिक भाष्य",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-23T16:35:52",
-            "url": "https://maharashtratimes.com/maharashtra/jalna/manoj-jarange-reveals-the-master-plan-after-maratha-sevaks-meeting/videoshow/133438522.cms",
+            "published": "2026-08-23T17:09:55",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/khavdya-dongar-case-sangita-chandgudes-emotional-video-viral-talk-about-relationship/articleshow/133438769.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "f79e8cad3b86",
+            "id": "c344825953a0",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : कोल्हापूर MIDCमध्ये भीषण आग, अग्निशमन दल घटनास्थळी दाखल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T16:35:28",
-            "url": "https://www.esakal.com/maharashtra/chhatronkigoonj-reservationreform-rahul-gandhi-pune-messi-fine-imd-rain-alert-bhuleshwar-ganpati-accident-ganesh-idol-fall-mumbai-abhijeet-dipke-fir-maharashtra-fda-fadnavis-gen-z-nagpur-marathi-taxi-drivers-chhatron-ki-goonj-pune-ymk86-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7b3f6c3882b1",
-            "feed": "esakal",
-            "title": "Dilip Walse Pati: अंगणवाडीच्या पोषण आहारावर गंभीर प्रश्न! दर्जाची निष्पक्ष चौकशी करा, दोषींवर कारवाई करा; वळसे-पाटील आक्रमक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-23T16:22:11",
-            "url": "https://www.esakal.com/pune/anganwadi-nutrition-food-quality-under-question-dilip-walse-patil-demands-fair-probe-and-strict-action-against-guilty-officials-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2024-03/37dd8061-2663-4ec1-a6a4-d10b0de1e8f9/rushi___2024_03_30T204238_944.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dcbcc6a3d3b5",
-            "feed": "esakal",
-            "title": "गणेशोत्सवाचे बांद्यात नियोजन",
+            "title": "Vastu shastra: घरात लाकडी देवघर ठेवताय? वास्तुनुसार जाणून घ्या देवघर ठेवण्याची योग्य दिशा,उंची अन् स्वच्छतेचे नियम!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-23T16:17:13",
-            "url": "https://www.esakal.com/kokan/todays-latest-marathi-news-kop26e25648-txt-sindhudurg-today-20260823104713",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/6lzzad97/sindhudurga_default_banner_1.jpg",
+            "published": "2026-08-23T17:44:58",
+            "url": "https://www.esakal.com/culture-and-religion/vastu-shastra-rules-for-wooden-mandir-devghar-direction-placement-tips-marathi-height-cleanliness-rules-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/68sats52/vastu-tips.png",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
+            "category_reason": "default"
+        },
         {
-            "id": "1d1fd9399530",
+            "id": "151a4f6df215",
             "feed": "lokmat",
-            "title": "ओटीटीवर पहिल्या क्रमांकावर ट्रेंड करतोय 'हा' रॉम-कॉम सिनेमा, IMDb वर तगडी रेटिंग",
+            "title": "आले आले बाप्पाचे आगमन जवळ आले!! घरची साफसफाई केली का, 'या' ८ जागा न विसरता करा साफ...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-23T16:39:18",
-            "url": "https://www.lokmat.com/filmy/south-movies/pyar-prema-kalyanam-netflix-ott-release-trending-no-1-romantic-comedy-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/romantic-comedy-pyaar-prema-kalyanam-trending-no-1-on-netflix_2026081768992.jpg",
+            "published": "2026-08-23T17:30:02",
+            "url": "https://www.lokmat.com/sakhi/social-viral/dont-forget-to-clean-these-8-home-spots-see-how-to-clean-home-for-festive-season-a-a1009/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cleaning-tips-fest_2026081768938.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "3166a45d8431",
+            "id": "8c1df8c3d406",
+            "feed": "lokmat",
+            "title": "केस पांढरे झालेत? १ चमचा चहा पावडर घालून घरीच 'हा' डाय बनवा, काळेभोर-शायनी होतील केस",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T17:21:14",
+            "url": "https://www.lokmat.com/sakhi/beauty/how-to-dye-white-hair-without-dye-homemade-natural-hair-dye-tea-leaves-and-kalonji-premature-white-hairs-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-23-at-2.35.43-pm-1_2026081768989.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "cce47a43eaa6",
             "feed": "maharashtratimes",
-            "title": "Bar Council of India अध्यक्षांच्या राजीनाम्याची मागणी, Sadashiv Reddy यांचा 150 कोटींवरून आरोप",
+            "title": "Asha Singh : ज्येष्ठ अभिनेत्री आशा सिंह यांचं निधन; यश चोप्रा यांच्या 'महाभारत' मालिकेनं मिळालेली लोकप्रियता",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-23T16:37:32",
-            "url": "https://maharashtratimes.com/video/mt-originals/bci-chairman-manan-mishra-resignation-demand-150-crore-fund-allegations/videoshow/133438557.cms",
+            "published": "2026-08-23T17:03:47",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/mahabharat-fame-asha-singh-passes-away/articleshow/133438682.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "965eb8b6d44e",
+            "feed": "lokmat",
+            "title": "उत्तराखंडचा पहाडी कलावंत कसा बनला 'आगरी डॉन'?; जॉनी रावत यांनी सांगितला भन्नाट प्रवास",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-23T17:03:35",
+            "url": "https://www.lokmat.com/filmy/television/how-did-a-hill-artist-from-uttarakhand-become-agri-don-johnny-rawat-recounts-his-extraordinary-journey-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/joney-rawat-journey1_2026081769012.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "2f23dc040790",
-            "feed": "esakal",
-            "title": "‘फुलों का तारों का…’ गाणं आठवतं? रक्षाबंधनाच्या दिवशी हमखास ऐकलं जातं, पण हे गाणं कोणी लिहिलं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T16:27:04",
-            "url": "https://www.esakal.com/premier/phoolon-ka-taron-ka-rakshabandhan-song-anand-bakshi-kishore-kumar-lata-mangeshkar-hare-rama-hare-krishna-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/ryan59oh/PHOOLON-KA-TARON-KA",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e675f8d66e4b",
-            "feed": "maharashtratimes",
-            "title": "यशच्या Toxic सिनेमाच्या प्री-रिलीज कार्यक्रमात दुर्घटना; साऊंड सिस्टीम कोसळून 2 जण जखमी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-23T16:20:16",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/accident-at-yash-toxic-event-four-people-injured/articleshow/133438035.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7fd5998d999e",
-            "feed": "esakal",
-            "title": "पावसाचे पाणी गोड आणि समुद्राचे पाणी खारट का असते? भन्नाट कारण जाणून घ्या",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-23T16:08:53",
-            "url": "https://www.esakal.com/ampstories/web-story/why-is-rainwater-taste-like-sweet-and-seawater-salty-know-scientific-reason-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/huk6oikh/Sea-And-Rain-Water-Taste.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "77faeae81eba",
+            "id": "f3f9e08edcad",
             "feed": "lokmat",
-            "title": "छतावर वडील, पायऱ्यांवर माय-लेकी अन् बेडखाली मुलगा... बांगलादेशात हिंदू कुटुंबाची हत्या",
+            "title": "रशियाचे वाढते हल्ले, फ्रान्सची मोठी घोषणा; युक्रेनला पुरवणार ‘इंटरसेप्टर्स’! काय होणार फायदा?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-08-23T14:33:04",
-            "url": "https://www.lokmat.com/international/bangladesh-rangpur-family-murder-suspicious-death-police-cid-investigation-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/family-murder_2026081768891.jpg",
+            "published": "2026-08-23T17:20:55",
+            "url": "https://www.lokmat.com/international/big-development-in-russia-ukraine-war-updates-after-increasing-attacks-france-to-provide-interceptors-to-ukraine-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ukraine-france-2308_2026081769023.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -248,100 +248,100 @@
     ],
     "sports": [
         {
-            "id": "1aa228da612d",
-            "feed": "lokmat",
-            "title": "Rishabh Pant Retires Hurt: अतरंगी फटकेबाजी नडली? रिषभ पंत दुखापतग्रस्त, रिटायर्ड हर्ट होऊन मैदान सोडलं",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-23T16:25:51",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-2nd-test-day-1-rishabh-pant-retires-hurt-after-wrist-injury-at-sinhalese-sports-club-colombo-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rishabh-pant-retires-hurt-m_2026081768984.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "17af61f5f6bd",
+            "id": "0cadc42e6d22",
             "feed": "esakal",
-            "title": "IND vs SL: रिषभ पंत अचानक मैदानातून का बाहेर गेला? रिटायर्ड हर्ट झाल्याने रवींद्र जडेजा मैदानात आला",
+            "title": "IND vs SL, 2nd Test: पडिक्कलने सलग दुसरं शतक करत ८ वर्षांचा दुष्काळ संपवला! शुभमन गिलचीही फिफ्टी, पहिल्या दिवसावर भारताचे वर्चस्व",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-23T16:14:03",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-why-rishabh-pant-walked-off-retired-hurt-as-ravindra-jadeja-came-out-to-bat-in-colombo-test-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/wmir977e/Rishabh-Pant-Retired-Hurt-Sri-Lanka-vs-India-2nd-Test.jpg",
+            "published": "2026-08-23T17:35:36",
+            "url": "https://www.esakal.com/krida/cricket/devdutt-padikkal-hits-back-to-back-away-test-centuries-in-india-vs-sri-lanka-colombo-test-shubman-gill-ravindra-jadeja-shines-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/akqskxj0/Devdutt-Padikkal-Century-Sri-Lanka-vs-India-2nd-Test.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3d3d6d0be86c",
+            "id": "8eaa0324e11b",
+            "feed": "maharashtratimes",
+            "title": "Yashaswi Jaiswal : 3 चौकार खाल्ले, विकेट घेताच श्रीलंकन गोलंदाज डिवचू लागला; यशस्वी थेट अंगावर धावला, कोलंबोत काय घडलं?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-23T16:47:44",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-2nd-test-yashasvi-jaiswal-asitha-fernando-fight-sledging/articleshow/133438182.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2ab1c4f3313c",
             "feed": "lokmat",
-            "title": "MI, CSK अन् SRH सोबत IPL ट्रॉफी जिंकणारा धुरंधर; टीम इंडियाकडून मोजक्या संधी, ३८व्या वर्षी निवृत्तीची घोषणा",
+            "title": "Devdutt Padikkal Century : पडिक्कलचा शतकी धमाका; पुजारानंतर अशी कामगिरी करणारा ठरला दुसरा भारतीय",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-23T15:55:41",
-            "url": "https://www.lokmat.com/cricket/news/indian-cricketer-and-ipl-star-karn-sharma-announces-retirement-at-age-of-38-got-opportunity-to-play-only-four-match-for-india-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-cricketer-and-ipl-star-karn-sharma-announces-retirement-m_2026081768974.jpg",
+            "published": "2026-08-23T16:45:19",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-india-batter-devdutt-padikkal-hits-his-second-consecutive-test-century-against-sri-lanka-on-the-opening-day-of-the-second-game-in-colomb-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devdutt-padikkal-hits-his-second-consecutive-test-century-against-sri-lanka-m_2026081768994.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "49f143649de8",
+            "id": "1991747d9e18",
             "feed": "lokmat",
-            "title": "कमाईची मोठी संधी; या आठवड्यात पडणार डिव्हिडंडचा पाऊस; ५० हून अधिक कंपन्या देणार लाभांश, पाहा यादी...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-23T16:29:13",
-            "url": "https://www.lokmat.com/business/stock-market/big-opportunity-to-earn-more-than-50-companies-will-pay-dividends-see-the-list-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-dividend_2026081768986.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "643c2f0d4155",
-            "feed": "lokmat",
-            "title": "भूमी अभिलेखच्या नकाशावरून गावातील शेत नोंदी गायब, तर पीक नोंदणीच्या ॲपमध्येही अडचणी",
+            "title": "Tomato Market : ९० हजार खर्च, हाती फक्त ३८ हजार! टोमॅटोचा भाव कोसळला; शेतकऱ्यावर पीक मोडण्याची वेळ",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-23T16:20:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-e-pik-nondni-crop-registration-app-also-facing-problems-crop-survey-scheme-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/e-pik_2026081768861.jpeg",
+            "published": "2026-08-23T17:25:27",
+            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-tomato-market-90-thousand-spent-only-38-thousand-in-hand-tomato-prices-have-collapsed-time-for-farmers-to-break-their-crop-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tomato-sheti-1_2026081769017.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "1fee803accba",
+            "id": "3bfd0c2a222c",
+            "feed": "maharashtratimes",
+            "title": "फक्त साखर नाही, स्वयंपाकघरातील अनेक गोष्टींच्या किंमती महागल्या; कोणकोणत्या? जाणून घ्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-23T17:16:06",
+            "url": "https://maharashtratimes.com/business/business-news/food-inflation-in-india-sugar-onion-palm-oil-and-pulse-price-goes-high/articleshow/133438700.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1b9f48a27eda",
             "feed": "lokmat",
-            "title": "वर्षाला २ कोटी पगार तरीही समाधानी नाही; META कंपनीतील जॉब सोडून जेसननं निवडला भलताच मार्ग",
+            "title": "८वा वेतन आयोग: बँक क्लर्कच्या पगारात होणार बंपर वाढ; ₹७५००० पर्यंत पोहोचणार?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-23T16:05:32",
-            "url": "https://www.lokmat.com/business/news/not-satisfied-with-a-salary-of-2-crores-per-yearjason-shen-left-his-job-at-meta-company-to-coach-startup-founders-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jascon-shen-meta-job-quit_2026081768979.jpg",
+            "published": "2026-08-23T17:06:51",
+            "url": "https://www.lokmat.com/business/savings-investments/8th-pay-commission-bank-clerks-salaries-will-see-a-bumper-increase-know-how-much-salary-will-increase-according-to-the-new-pay-structure-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-clerk_2026081769014.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
