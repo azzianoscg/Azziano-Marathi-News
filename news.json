@@ -1,88 +1,136 @@
 {
-    "lastUpdated": "24-08-2026 | 08:02 PM IST",
+    "lastUpdated": "24-08-2026 | 08:59 PM IST",
     "maharashtra": [
         {
-            "id": "ac6b7033aa40",
-            "feed": "lokmat",
-            "title": "Latest Marathi News LIVE: निष्पाप बालकांच्या मृत्यूची नैतिक जबाबदारी सरकारने स्वीकारली पाहिजे - वडेट्टीवार",
+            "id": "57e5e264ac50",
+            "feed": "maharashtratimes",
+            "title": "Farmer Loan Waiver:शेतकरी कर्जमाफीचा दुसरा हफ्ता जमा? किती जणांना लाभ, कर्जमाफीसाठी आणखी किती बाकी?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T19:59:03",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-24-august-2026shiv-sena-case-in-sc-us-iran-tension-donald-trump-pm-narendra-modi-cabinet-expansion-rahul-gandhi-amit-shah-cm-devendra-fadnavis-ind-vs-sl-test-cockroach-janata-party-eknath-shinde-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "678a7d6b35be",
-            "feed": "lokmat",
-            "title": "अमरावतीच्या प्रभागांना मिळणार विकासाचा ‘बूस्टर डोस’; प्रत्येक नगरसेवकाला ५० लाख",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-24T19:58:59",
-            "url": "https://www.lokmat.com/amravati/amravatis-wards-will-get-a-booster-dose-of-development-rs-50-lakhs-to-each-corporator-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-24-at-7.57.35-pm-1_2026081769809.jpeg",
+            "published": "2026-08-24T20:55:12",
+            "url": "https://maharashtratimes.com/video/mt-originals/maharashtra-farm-loan-waiver-second-installment-farmers/videoshow/133472068.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "ece915becd77",
-            "feed": "lokmat",
-            "title": "अन्न व औषध प्रशासनाची राज्यभर धडक कारवाई; मुंबई क्रिकेट क्लबसह ११ ठिकाणचे परवाने निलंबित",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T19:54:20",
-            "url": "https://www.lokmat.com/maharashtra/food-and-drug-administration-takes-drastic-action-across-the-state-licenses-of-11-places-including-mumbai-cricket-club-suspended-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tukaram-munde-fda-action-1_2026081769805.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f6eade6e6a56",
-            "feed": "lokmat",
-            "title": "अनधिकृत प्लाॅटिंगचे जन्मदातेच मनपा अधिकारी; झोन अधिकारी, निरीक्षकांची वर्षानुवर्षे डोळेझाक!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T19:53:58",
-            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/chhatrapati-sambhajinagar-municipal-officials-are-the-originators-of-unauthorized-planting-zone-officers-inspectors-have-turned-a-blind-eye-for-years-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/plot-municipality-abd-fea_2026081769803.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a35897528d22",
+            "id": "797e82eb110a",
             "feed": "maharashtratimes",
-            "title": "Rohit Pawar Speech | थेट फडणवीसांवर हल्लाबोल,रोहित पवारांचं आक्रमक भाषण!!",
+            "title": "Amit Thackeray : आम्हाला आमच्याच लोकांनी फसवले, अमित ठाकरे नेमकं काय म्हणाले?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-24T19:51:38",
-            "url": "https://maharashtratimes.com/maharashtra/wardha/mla-rohit-pawar-critisized-cm-devendra-fadnavis/videoshow/133470600.cms",
+            "published": "2026-08-24T20:49:52",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/amit-thackeray-big-statement-about-mns-party-workers/articleshow/133471809.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5f50a40bd4ca",
+            "feed": "esakal",
+            "title": "Loan Waiver: महाराष्ट्रातील शेतकऱ्यांना मोठा दिलासा! कर्जमाफीचा दुसरा हप्ता जारी; खात्यात पोहोचले हजारो कोटी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T20:49:25",
+            "url": "https://www.esakal.com/mumbai/maharashtra-farmer-loan-waiver-second-loan-waiver-installment-released-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/9d2jr9at/Maharashtra-Farmers-Get-Major-Relief-as-Second-Loan-Waiver-Installment-Is-Released.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "896bc4d13239",
+            "feed": "esakal",
+            "title": "Ujani Water: उजनीचे पाणी वाया, बोराळे नंदूरचे तलाव कोरडे! शेतकऱ्यांसह शिवसेना पदाधिकाऱ्यांचा संताप, कार्यालयात ठिय्या",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T20:43:31",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/ujani-water-wasted-as-borale-nandur-lakes-stay-dry-farmers-and-shiv-sena-leaders-protest-at-ujani-office-for-water-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/4r0nf1m2/sudhir-jadhav-satara-12.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "59fbe0ee4056",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : जशी याद्यांची प्रक्रिया पूर्ण होत आहे, तशी आम्ही संबंधित प्रकरणे निकाली काढत आहोत - बावनकुळे",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T20:42:03",
+            "url": "https://www.esakal.com/maharashtra/maharashtra-sir-2026-election-commission-sir-india-latest-news-today-gold-price-today-meesho-ipo-monsoon-2026-neet-mds-2026-shravan-somvar-mumbai-news-todaypune-breaking-news-pune-satara-highway-protest-maharashtra-rain-alert-chakan-metro-maharashtra-medical-doctors-protest-neet-mds-maharashtra-ymk86-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "b4fda1437bde",
+            "feed": "esakal",
+            "title": "अमेरिकेत घरांच्या खिडक्यांना लोखंडी ग्रील्स का नसतात? कारण जाणून वाटेल आश्चर्य",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T20:57:23",
+            "url": "https://www.esakal.com/ampstories/web-story/india-vs-usa-home-security-window-grilles-american-homes-window-safety-smart-security-systems-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/lp6dm4wp/1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "c7c6f4c1c709",
+            "feed": "lokmat",
+            "title": "ब्लाऊजचे गोल-चौकोनी गळे विसरून जा! २०२६ मध्ये ट्रेंडिंग असणारे १० सुपरस्टायलिश ब्लाऊज पॅटर्न्स, पाहताच सर्वजण म्हणतील 'वाह'!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-24T20:05:02",
+            "url": "https://www.lokmat.com/sakhi/photos/fashion/stylish-blouse-designs-for-saree-trendy-modern-blouse-neck-patterns-hatke-blouse-neck-designs-modern-blouse-neck-designs-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trendy-modern-blouse-neck-patterns_2026081769527.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "1764b09c6cc2",
+            "feed": "maharashtratimes",
+            "title": "सॅमसंग युजर्सचा खिसा रिकामी होणार, सप्टेंबरपासून स्मार्टफोन आणि टॅबलेट महागणार",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-24T20:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/samsung-price-hike-smartphones-and-tablets-to-get-costlier-in-india-from-september/articleshow/133468909.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "657a7b2ed3fe",
             "feed": "esakal",
@@ -114,57 +162,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bjp-punjab-1_2026081769797.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "e45a7f07c6c5",
+            "id": "27bf431adebb",
             "feed": "maharashtratimes",
-            "title": "श्रावणात शिवाष्टक, शिव ताण्डव स्तोत्र पाठ करण्याचे काय आहे महत्व,महादेव होतात प्रसन्न देतात वरदान !",
+            "title": "अर्धा दुधी, जळालेल्या बांगड्या अन् काबा; बांगलादेशात हिंदू कुटुंबाला संपवलं, गूढ उलगडलं",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "world"
             },
-            "published": "2026-08-24T19:32:57",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/shivashtakam-shiva-tandava-stotram-shiv-mahimna-stotra-pathan-labh-for-prosperity-mahadev-blessing/articleshow/133469523.cms",
+            "published": "2026-08-24T20:39:14",
+            "url": "https://maharashtratimes.com/international/international-news/bangladesh-hindu-family-dies-mystery-solved-cousins-arrested/articleshow/133471737.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
-        {
-            "id": "89371a67a770",
-            "feed": "lokmat",
-            "title": "Raksha Bandhan 2026 :रात्री १ चमचा मसूर डाळीचा 'हा' पॅक लावा, राखीपौर्णिमेच्या कार्यक्रमासाठी चेहऱ्यावर येईल तेज",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T19:26:29",
-            "url": "https://www.lokmat.com/sakhi/beauty/raksha-bandhan-2026-homemade-face-pack-for-glowing-skin-homemade-face-pack-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-24-at-2.01.47-pm_2026081769543.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "b1f57339e377",
-            "feed": "lokmat",
-            "title": "पुऱ्या तेलकट- चपट्या होतात? पीठ मळणं ते तळण्यापर्यंत १० ट्रिक्स; टम्म फुगतील पुऱ्या",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T19:25:35",
-            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-make-less-oily-puri-how-to-make-perfect-fluffy-and-non-greasy-puries-every-time-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-23-at-4.05.26-pm_2026081769613.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        }
-    ],
-    "world": [
         {
             "id": "b9af12c77a7b",
             "feed": "lokmat",
@@ -228,25 +244,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "a87a7765799f",
-            "feed": "lokmat",
-            "title": "अक्षय खन्नावर भारी पडली 'महाकाली'! 'ही' अभिनेत्री नक्की आहे तरी कोण?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T18:14:27",
-            "url": "https://www.lokmat.com/filmy/photos/south-movies/mahakali-teaser-who-is-sriya-reddy-salaar-actress-cricketer-daughter-akshaye-khanna-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahakali-teaser-who-is-sriya-reddy-salaar-actress-cricketer-daughter-akshaye-khanna_2026081769761.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "dfc814db66d2",
+            "feed": "esakal",
+            "title": "Hockey World Cup: भारतीय संघाचं विश्वविजयाचं स्वप्न भंगलं! अर्जेंटिनाकडून 'करो या मरो'च्या सामन्यात पराभवाचा मोठा धक्का",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T20:22:19",
+            "url": "https://www.esakal.com/krida/india-knocked-out-of-fih-hockey-world-cup-2026-after-5-3-loss-to-argentina-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/jckrwg2l/India-Hockey-Team-5.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "37796e986671",
             "feed": "maharashtratimes",
@@ -278,25 +294,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-24/j0im3ya5/Dhruv-Jurel-Sri-Lanka-vs-India-2nd-Test.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        }
+    ],
+    "business": [
+        {
+            "id": "50f92cd76786",
+            "feed": "maharashtratimes",
+            "title": "आधी इथेनॉल, मग कमी उत्पादन, आता नवे कारण समोर; देशातली प्रमुख साखर उद्योग संस्था स्पष्टच म्हणाली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-24T20:46:14",
+            "url": "https://maharashtratimes.com/business/business-news/sugar-price-hike-reason-panic-buying-given-by-isma/articleshow/133471804.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         },
         {
-            "id": "0f328095e201",
+            "id": "c43d55dfff31",
             "feed": "lokmat",
-            "title": "IND vs SL 2nd Test Day 2 Stumps : टीम इंडियानं उभारला धावांचा डोंगर; श्रीलंकेचा 'नाईट वॉचमन'चा डावही फसला अन्...",
+            "title": "Shetkari Karjmafi : शेतकरी कर्जमाफीचा दुसरा हफ्ता आला, पहा विभागनिहाय पात्र शेतकऱ्यांची यादी, वाचा सविस्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "sports"
+                "category": null
             },
-            "published": "2026-08-24T18:24:49",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-2nd-test-day-2-stumps-manav-suthar-snares-prabath-jayasuriya-sl-2-down-for-8-after-india-declared-their-first-innings-at-503-for-9-dhruv-jurel-shine-with-centtury-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-2nd-test-day-2-stumpsm_2026081769759.jpg",
+            "published": "2026-08-24T20:35:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/shetkari-karjmafi-second-installment-of-farmer-loan-waiver-relesed-see-the-list-of-eligible-farmers-by-divison-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/karj-mafi-2_2026081769807.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "business": [
+            "category_reason": "url"
+        },
         {
             "id": "a5875df51f11",
             "feed": "maharashtratimes",
@@ -310,38 +342,6 @@
             "published": "2026-08-24T19:36:41",
             "url": "https://maharashtratimes.com/business/business-news/kanda-express-onion-train-strated-from-monday/articleshow/133469339.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "49743ed56c7f",
-            "feed": "lokmat",
-            "title": "ऑगस्टच्या शेवटी द्राक्ष आणि डाळिंब बागेत 'ही' दोन महत्वाची कामे करून घ्या, वाचा सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T19:30:02",
-            "url": "https://www.lokmat.com/agriculture/smart-farming/latest-news-two-important-tasks-in-grape-and-pomegranate-orchards-at-end-of-august-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/drskha-dalimb_2026081769723.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ca978764f8ad",
-            "feed": "lokmat",
-            "title": "अमेरिकेच्या राजदूतांनी टाटांच्या कारखान्याला भेट का दिली? इथे तयार होतंय तरी काय? अमेरिकेचंही लक्ष वेधलं?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-24T19:01:49",
-            "url": "https://www.lokmat.com/business/news/why-did-the-us-ambassador-visit-the-tata-factory-what-is-being-produced-here-did-it-attract-the-attention-of-the-us-as-well-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/usa-tata_2026081769792.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
