@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "24-08-2026 | 03:58 PM IST",
+    "lastUpdated": "24-08-2026 | 04:48 PM IST",
     "maharashtra": [
         {
-            "id": "39042a5fe115",
+            "id": "bd0829bcc0cb",
             "feed": "esakal",
-            "title": "Maratha Reservation: जरांगेंच्या भेटीसाठी सरकारचे शिष्टमंडळ अंतरवाली सराटीत; मंत्री  विखे पाटील, सामंत, देसाईंची चर्चा",
+            "title": "Abhijit Dipke: सरकारी शाळांसाठी किती निधी? किती पदे रिक्त? अभिजीत दीपकेंनी शिक्षण मंत्र्यांना विचारले ६ सवाल, माहिती देण्याचे आवाहन",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-24T15:54:00",
-            "url": "https://www.esakal.com/marathwada/government-delegation-meets-manoj-jarange-patil-in-antarwali-sarati-ahead-of-august-29-maratha-reservation-protest-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/uva9j1ap/sudhir-jadhav-satara.jpg",
+            "published": "2026-08-24T16:43:14",
+            "url": "https://www.esakal.com/maharashtra/cjp-abhijit-dipke-writes-to-education-ministers-seeks-6-key-details-on-government-schools-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/zcxvsezn/Government-School-Conditions-Abhijit-Dipke-Seeks-6-Key-Details-From-States.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "5410bb2377c6",
+            "id": "ac6b7033aa40",
             "feed": "lokmat",
-            "title": "सावंतवाडीत आत्महत्येपूर्वी दोघांत वाद, लिशाचा मोबाइलच उलगडेल आत्महत्येमागचे गूढ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T15:49:33",
-            "url": "https://www.lokmat.com/sindhudurga/lishas-mobile-phone-recovered-from-moti-talao-in-sawantwadi-where-she-jumped-will-unravel-the-mystery-behind-her-suicide-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/swantwadi-lisha_2026081769580.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "4407a989df1b",
-            "feed": "lokmat",
-            "title": "आमचा पक्ष आता शुद्ध, गोमूत्र पलीकडे शिंपडा : विजय वडेट्टीवार",
+            "title": "Top Marathi News LIVE: शेतकरी कर्जमाफीचा दुसरा हफ्ता जारी; मुख्यमंत्री फडणवीसांच्या हस्ते वितरण",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-24T15:45:49",
-            "url": "https://www.lokmat.com/maharashtra/our-party-is-now-pure-sprinkle-cow-urine-beyond-says-vijay-vadettiwar-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vijay-kol-pc_2026081769577.jpg",
+            "published": "2026-08-24T16:42:47",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-24-august-2026shiv-sena-case-in-sc-us-iran-tension-donald-trump-pm-narendra-modi-cabinet-expansion-rahul-gandhi-amit-shah-cm-devendra-fadnavis-ind-vs-sl-test-cockroach-janata-party-eknath-shinde-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "c929148e9698",
+            "feed": "lokmat",
+            "title": "कांदिवलीत अमराठी रिक्षाचालकांची मुजोरी; प्रवासी घेऊन जाणाऱ्या मराठी चालकाला मारहाण, मनसे आक्रमक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T16:42:20",
+            "url": "https://www.lokmat.com/mumbai/non-marathi-rickshaw-driver-hooliganism-in-kandivali-marathi-driver-carrying-passengers-beaten-up-mns-aggressive-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mns-auto-marathi-driver_2026081769662.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ac5e005bd010",
+            "feed": "esakal",
+            "title": "Freedom Struggle History: चार हुतात्म्यांच्या बलिदानापासून राजगुरू-भगतसिंगांच्या फाशीपर्यंत; ७० दिवसांचा तो धगधगता इतिहास",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T16:41:19",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/solapur-four-martyrs-and-rajguru-bhagat-singh-sukhdev-the-70-day-history-of-sacrifice-in-indias-freedom-struggle-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/a6csk09n/sudhir-jadhav-satara-2.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         },
         {
             "id": "59fbe0ee4056",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : शेतकरी कर्जमाफीचा दुसरा हप्ता वितरीत",
+            "title": "Marathi News Live Updates : भारतातील अमेरिकेचे राजदूत सर्जिओ गोर यांनी तेलंगणातील हैदराबाद येथील टाटा लॉकहीड मार्टिन एरोस्ट्रक्चर्स लिमिटेड प्रकल्पाला भेट दिली",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-24T15:45:16",
+            "published": "2026-08-24T16:40:42",
             "url": "https://www.esakal.com/maharashtra/maharashtra-sir-2026-election-commission-sir-india-latest-news-today-gold-price-today-meesho-ipo-monsoon-2026-neet-mds-2026-shravan-somvar-mumbai-news-todaypune-breaking-news-pune-satara-highway-protest-maharashtra-rain-alert-chakan-metro-maharashtra-medical-doctors-protest-neet-mds-maharashtra-ymk86-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "6550de7b0967",
-            "feed": "lokmat",
-            "title": "जीर्ण घराची भिंत कोसळून दोन वर्षीय बालिका ठार; आईवडील गेले होते शेतीच्या कामावर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T15:43:40",
-            "url": "https://www.lokmat.com/gondia/two-year-old-girl-killed-after-wall-of-dilapidated-house-collapses-parents-had-gone-to-farm-work-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-24-at-3.42.40-pm-1_2026081769572.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "9b00663faa70",
+            "id": "fc3e9c0e3777",
+            "feed": "esakal",
+            "title": "झी मराठीवर येतेय नवी मालिका ‘धाकट्या सूनबाई’! प्रेमाची नवी गोष्ट लवकरच, कोण आहे नायिका?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T16:45:00",
+            "url": "https://www.esakal.com/premier/dhakhtya-sunbai-zee-marathi-new-serial-promo-mrunmayee-more-remake-chhoti-bahu-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/wdv5mw4v/ZEE-MARATHI-NEW-SERIAL-DHAKTYA-SUNBAI-PROMO",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "eee126d1c9b4",
             "feed": "lokmat",
-            "title": "ॲक्ने, पिंपल्स, ओपन पोअर्समुळे चेहरा खराब झाला? फक्त ५ रुपयांचा सोपा उपाय- ८ दिवसांत दिसेल फरक",
+            "title": "गरोदर महिला पोलिसांसाठी गणवेशात केला मोठा बदल, कृती छोटी पण सोय मोठी-सोशल मीडियात चर्चा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T15:52:15",
-            "url": "https://www.lokmat.com/sakhi/beauty/use-of-clove-to-reduce-acne-pimples-and-open-pores-how-to-get-rid-of-open-pores-acne-and-pimples-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/clove-to-reduce-acne_2026081769584.jpeg",
+            "published": "2026-08-24T16:44:07",
+            "url": "https://www.lokmat.com/sakhi/social-viral/the-kerala-police-has-relaxed-uniform-rules-for-women-during-pregnancy-a-a602/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-24-at-14.12.50_2026081769667.jpeg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "keyword"
         },
         {
-            "id": "4b74ace57705",
+            "id": "fabb6c8528a0",
             "feed": "lokmat",
-            "title": "Video: आपल्या पणजोबांकडून शिकला माकड, खाउचे पुडे वर दिल्यावरच घेतलेले मोबाईल खाली टाकले...",
+            "title": "अमिताभ 'बच्चन' नव्हे तर...; बिग बींचं खरं नाव माहितीये का? वाचून थक्क व्हाल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T15:49:38",
-            "url": "https://www.lokmat.com/jarahatke/clever-monkey-iphone-barter-video-the-monkey-learned-from-his-great-grandfather-he-threw-down-the-mobile-phone-he-had-taken-only-after-he-had-given-him-a-bowl-of-food-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/phone-stolen-by-monkey-video-viral_2026081769579.jpg",
+            "published": "2026-08-24T16:41:48",
+            "url": "https://www.lokmat.com/filmy/photos/bollywood/amitabh-bachchan-real-name-and-surname-is-not-bachchan-its-srivastava-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amitabh-bachchan-real-name_2026081769660.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "5a12ba4448e2",
+            "id": "364ccef6df01",
             "feed": "lokmat",
-            "title": "'५८ लाख नोंदींची यादी द्या!';शिष्टमंडळासमोर जरांगेंचा संताप, थेट शिंदे समितीशी फोनवरून खलबते",
+            "title": "Raksha Bandhan 2026 Muhurat: भद्रा काळात भावाला राखी का बांधू नये? यंदाही भद्राचे सावट असणार आहे का?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T15:47:22",
-            "url": "https://www.lokmat.com/jalana/no-compromise-on-58-lakh-records-manoj-jarange-confronts-govt-ministers-in-heated-antarwali-sarati-meeting-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jarange-vikhe-desail-samant-fea_2026081769576.jpg",
+            "published": "2026-08-24T16:41:13",
+            "url": "https://www.lokmat.com/bhakti/raksha-bandhan-2026-why-not-tie-a-rakhi-to-your-brother-during-bhadra-will-there-be-a-shadow-of-bhadra-this-year-too-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raksha-bandhan-2026-bhadra-kaal_2026081767776.jpeg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "68314a8d1e29",
+            "id": "9b9ffa1411db",
             "feed": "lokmat",
-            "title": "बॉलिवूड कपलचा ३९ वर्षांचा संसार मोडणार? इन्स्टाग्रामवर एकमेकांना केलं अनफॉलो, पदरात दोन मुलं",
+            "title": "साउथ स्टार यशसोबत सेल्फी घेण्यासाठी आला चाहता, बॉडीगार्डने मागे खेचलं; पण पुढे काय घडलं?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T15:45:50",
-            "url": "https://www.lokmat.com/filmy/bollywood/govinda-and-sunita-ahuja-unfollow-each-other-from-instagram-amid-divorce-rumors-a-a971/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/govinda-sunita-ahuja-unfollows-each-other-1_2026081769574.jpg",
+            "published": "2026-08-24T16:38:17",
+            "url": "https://www.lokmat.com/filmy/south-movies/south-star-yash-gowda-video-viral-fan-came-up-to-him-for-a-selfie-and-bodyguard-stopped-him-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yash-south_2026081769658.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "fd47966f3333",
+            "id": "3cb62b67f1ae",
             "feed": "maharashtratimes",
-            "title": "कोट्यवधी कमावले पण भारतात परत यायचं नाही, पैसा नव्हे, ही आहेत खरी कारणं! अमेरिकेतल्या भारतीय तरुणाचा व्हिडीओ व्हायरल",
+            "title": "बांगलादेशात अख्खं हिंदू कुटुंब संपवलं, त्याच घरात अंघोळ केली; पोलीस तपासात संपूर्ण घटनेला वेगळंच वळण",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "world"
             },
-            "published": "2026-08-24T15:44:38",
-            "url": "https://maharashtratimes.com/viral/viral-news/why-dont-indians-return-to-india-after-settling-in-the-us-indian-man-explains-video-viral/articleshow/133461024.cms",
+            "published": "2026-08-24T16:01:43",
+            "url": "https://maharashtratimes.com/international/international-news/bangladesh-rangpur-hindu-family-murder-revealed-shocking-details-attackers-took-drug-stayed-back-for-food-and-bath/articleshow/133451621.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "world": [
+            "category_reason": "feed"
+        },
         {
             "id": "3770d3d0f89a",
             "feed": "maharashtratimes",
@@ -228,122 +244,106 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "e72c99c8230c",
-            "feed": "esakal",
-            "title": "Guinea Landfill Collapse : मुसळधार पावसाचा कहर! कचऱ्याचा डोंगर कोसळला; ३० जणांचा मृत्यू, अनेक झोपड्या ढिगाऱ्याखाली",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T08:06:33",
-            "url": "https://www.esakal.com/global/guinea-landfill-collapse-30-dead-conakry-garbage-dump-heavy-rain-rescue-operation-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/fp2jt0yq/Guinea-Landfill-Collapse.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "0cf841bad0b2",
-            "feed": "lokmat",
-            "title": "IND vs SL 2nd Test: मैदानात भिडलेल्या यशस्वी-फर्नांडोला ICC नं घडवली अद्दल; दोघांवर अशी झाली कारवाई!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-24T15:23:00",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-yashasvi-jaiswal-asitha-fernando-punished-by-icc-for-2nd-test-day-1-altercation-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yashasvi-jaiswal-asitha-fernando-punished-by-icc-for-2nd-test-day-1-altercation-m_2026081769535.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6452d421c73b",
-            "feed": "lokmat",
-            "title": "हॉकीचा जादूगार : मेजर ध्यानचंद",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T15:22:55",
-            "url": "https://www.lokmat.com/manthan/the-magician-of-hockey-major-dhyan-chand-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/major-dhaynchand_2026081769537.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "d60fd52edcd3",
+            "id": "58cef5e132eb",
             "feed": "esakal",
-            "title": "Yashasvi Jaiswal : अंगावर धावणे महागात पडले, ICCची यशस्वी जैस्वालवर कारवाई! ५ सामन्यांची बंदी की आणखी काही? नेमका काय निर्णय घेतला...",
+            "title": "IND vs SL 2nd Test: ध्रुव जुरेलची शतकी खेळी! भारताची पाचशे धावांच्या दिशेने वाटचाल; हार्दिक पांड्यानंतर असा पराक्रम करणारा पहिला",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-24T15:02:43",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-2nd-test-icc-confirms-sanctions-for-yashasvi-jaiswal-and-asitha-fernando-after-heated-incident-fines-25-of-match-fee-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/dqj0lmeb/Yashasvi-Jaiswal-ICC-sanction-after-incident-with-Asitha-Fernando",
+            "published": "2026-08-24T16:42:11",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-2nd-test-dhruv-jurel-hits-a-stunning-century-as-india-march-towards-500-rishabh-pant-unleashes-carnage-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/8jbt122e/Dhruv-Jurel-century-in-India-vs-Sri-Lanka-2nd-Test",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "f7efbd36b2e3",
+            "feed": "maharashtratimes",
+            "title": "Yashasvi Jaiswal : ज्याची भीती तेच घडलं! यशस्वी जयस्वालला भांडणं पडली महागात, ICCची आतापर्यंतची मोठी कारवाई",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-24T16:30:09",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-2nd-test-yashasvi-jaiswal-and-asitha-fernando-have-both-been-fined-25-of-their-match-fees/articleshow/133462223.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6d1823550a16",
+            "feed": "esakal",
+            "title": "Asian Games साठीच्या भारताच्या ताफ्यात 'मॅडी'चा मुलगा! जपानमध्ये होणाऱ्या स्पर्धेत 'गोल्डन' कामगिरीसाठी सज्ज...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T16:29:38",
+            "url": "https://www.esakal.com/krida/asian-games-2026-r-madhavans-son-vedaant-madhavan-named-in-indias-swimming-squad-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/bcv0mnkh/Vedaant-Madhavan-selected-in-India-swimming-squad-for-Asian-Games-2026",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "business": [
         {
-            "id": "6d00f857c103",
-            "feed": "esakal",
-            "title": "Sugar Stocks: साखर तुमच्यासाठी महागली, मात्र शेअर्ससाठी 'गोड' झाली! साखर कंपन्यांचे  अनेक शेअर्स 52-Week High वर",
+            "id": "0caf73471a59",
+            "feed": "lokmat",
+            "title": "8th Pay Commission: केंद्रीय कर्मचाऱ्यांना मिळू शकते खूशखबर, ६७% पर्यंत वाढू शकते सॅलरी, बेसिक पे होऊ शकतो दुप्पट!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-24T15:40:28",
-            "url": "https://www.esakal.com/sakal-money/share-market/sugar-stocks-sugar-price-hike-sugar-companies-shares-52-week-high-bajaj-hindusthan-dwarikesh-dhampur-uttam-sugar-stocks-rally-august-2026-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/p7tx5e1t/Copy-of-Copy-of-banner-2026-08-24T153019.193.jpg",
+            "published": "2026-08-24T16:32:11",
+            "url": "https://www.lokmat.com/business/news/8th-pay-commission-know-fitment-factor-good-news-for-central-employees-salary-can-increase-by-up-to-67-percent-basic-pay-can-be-doubled-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/women-money-investment-1_2024061250665.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e9d49eee21a6",
+            "id": "cb82b936204a",
             "feed": "lokmat",
-            "title": "सर्वत्र शुकशुकाट; पावसाने मोठा खंड दिल्याने बाजारपेठेतील आर्थिक उलाढाल मंदावली",
+            "title": "मराठवाड्यातील लघु, मध्यम प्रकल्पांची अवस्था दयनीय; ११ मोठ्या धरणांपैकी सहा धरणांत ३० टक्क्यांपेक्षा कमी पाणीसाठा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T15:39:22",
-            "url": "https://www.lokmat.com/agriculture/market-yard/drought-everywhere-economic-turnover-in-the-market-slowed-down-as-rains-caused-a-major-disruption-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-r-34-u-market_2026081769567.jpeg",
+            "published": "2026-08-24T16:31:04",
+            "url": "https://www.lokmat.com/agriculture/weather/the-condition-of-small-and-medium-projects-in-marathwada-is-pathetic-six-out-of-11-large-dams-have-less-than-30-percent-water-storage-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-34-u-34-34-34-34-marathwada-water-update_2026081769605.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "fb4bb745d1f7",
+            "id": "db4c6f66dfe1",
             "feed": "lokmat",
-            "title": "Soft Drink Brand Pune: कोका-कोलाच्या आधी पुण्यात सुरू झाला होता ‘या’ कंपनीचा सोडा व्यवसाय; आजही जपलीय १४२ वर्षांची परंपरा",
+            "title": "'विषमुक्त' शेतीचा पॅटर्न, शेतकरी वळताय नैसर्गिक शेतीकडे, उत्पादनांना चांगला भावही मिळतोय!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-08-24T15:15:21",
-            "url": "https://www.lokmat.com/business/news/soft-drink-brand-pune-ardeshir-soda-business-was-started-in-pune-before-coca-cola-142-years-of-tradition-still-maintained-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ardeshir-soda-new-3_2026081769523.jpg",
+            "published": "2026-08-24T16:25:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/pesticide-free-farming-pattern-farmers-are-turning-to-natural-farming-organic-vegetbale-prices-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vish-msu_2026081769515.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
