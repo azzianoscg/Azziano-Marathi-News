@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "25-08-2026 | 12:51 AM IST",
+    "lastUpdated": "25-08-2026 | 01:49 AM IST",
     "maharashtra": [
         {
             "id": "e1be3a18aef5",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "e880567da45a",
+            "feed": "esakal",
+            "title": "भारतासाठी ३३ व्या वर्षी पदार्पण! सारांश जैनचा विक्रम",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-25T01:13:55",
+            "url": "https://www.esakal.com/ampstories/web-story/saransh-jain-makes-test-debut-at-33-oldest-indian-21st-century-ind-vs-sl-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/jt5n5cl2/Saransh-Jain-1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "1c1d803f6be7",
             "feed": "maharashtratimes",
             "title": "Aayush Bhide Interview: 'आई गेली तो पर्यंत तिला माहिती नव्हतं की, बाबा गेलेत', आयुष भिडेच्या आयुष्यातला तो कठीण दिवस, १४ दिवसांत आयुष्यच बदललं;  तुमच्याही डोळ्यात येईल पाणी",
@@ -144,22 +160,6 @@
             "published": "2026-08-24T22:10:50",
             "url": "https://www.lokmat.com/kalyan-dombivli/friendship-between-mp-shrikant-shinde-and-raju-patil-mns-raju-patil-expressed-his-feelings-a-a629/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raju-patil-mns-shrikant-shinde2_2026081769826.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "7e29a5f0b27a",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 25 August  2026: भौमप्रदोष, मंगळागौरी पूजन, आयुष्मान योग, सौभाग्य योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-24T21:42:30",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-25-august-2026-in-marathi-bhaumapradosha-mangalagauri-poojan-ayushman-yog-and-shubha-muhurta/articleshow/133470931.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
