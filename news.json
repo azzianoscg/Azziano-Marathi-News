@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "24-08-2026 | 11:55 PM IST",
+    "lastUpdated": "25-08-2026 | 12:51 AM IST",
     "maharashtra": [
+        {
+            "id": "e1be3a18aef5",
+            "feed": "esakal",
+            "title": "पावसाळ्यातही सोलापूर जिल्ह्यात ३२ टँकर! ‘या’ ४६ गावांमधील ७० हजार नागरिकांना व ४६ हजार जनावरांना पाणीपुरवठा, वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T23:59:00",
+            "url": "https://www.esakal.com/maharashtra/32-tankers-deployed-in-solapur-district-even-during-the-monsoon-water-being-supplied-to-70000-residents-and-46000-animals-across-these-46-villagesread-on",
+            "image": "https://cf-images.assettype.com/esakal/2021-10/335c73d3-3fec-4b61-9923-9b3d77ad0cba/water_696x447.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "e9ce35c4c8ad",
             "feed": "esakal",
@@ -64,22 +80,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-24/5nkgdgas/sudhir-jadhav-satara-18.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "3e69d9ddefb9",
-            "feed": "maharashtratimes",
-            "title": "Narali Purnima : नारळी पौर्णिमेपासून समुद्रात गजर; सात बोटी सज्ज, 30 हजार परप्रांतीय कामगारांवर मासेमारी हंगामाची भिस्त",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T22:47:53",
-            "url": "https://maharashtratimes.com/maharashtra/raigad/narali-purnima-start-of-fishing-season-in-raigad-30000-migrant-workers-will-work/articleshow/133474364.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "82daa78cb3a5",
+            "feed": "maharashtratimes",
+            "title": "Hocky India vs Argentina : हॉकी वर्ल्डकपमधून भारताचं पॅकअप, अर्जेंटिनानकडून 5-3ने पराभव; शेवटचा वर्ल्डकप केव्हा जिंकलेला?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-25T00:20:28",
+            "url": "https://maharashtratimes.com/sports/hockey/india-defeated-by-argentina-in-hockey-world-cup-2026/articleshow/133476455.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "dc08e7813af2",
             "feed": "maharashtratimes",
             "title": "Saina Nehwal : देशासाठी पदकं जिंकणाऱ्या सायना नेहवालला भाजप प्रवेशानंतर खुणावतंय आणखी एक मोठं स्वप्न; पुढचं पाऊल नेमकं काय? स्वत:च सांगितलं",
@@ -275,22 +291,6 @@
             },
             "published": "2026-08-24T21:54:36",
             "url": "https://maharashtratimes.com/sports/cricket/cricket-news/dhruv-jurels-century-and-jai-jawan-jai-kisan-celebration-spark-discussions-in-the-cricket-world/articleshow/133472973.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0898c15ab429",
-            "feed": "maharashtratimes",
-            "title": "Dhruv Jurel Century News : ध्रुव जुरेलने 115 धावा कुटल्या, नाबाद राहिला; तरीही नावावर लागला नकोसा विक्रम",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-24T21:10:45",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-2nd-test-dhruv-jurel-unwanted-record-13-balls-99-to-100/articleshow/133468415.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
