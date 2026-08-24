@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "24-08-2026 | 05:56 PM IST",
+    "lastUpdated": "24-08-2026 | 07:12 PM IST",
     "maharashtra": [
-        {
-            "id": "00e89e805fa0",
-            "feed": "esakal",
-            "title": "Cabinet Meeting Decision: विद्यार्थ्यांसह खेळाडूंना फायदा होणार, मंत्रिमंडळ बैठकीत 4 महत्त्वाचे निर्णय",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T17:56:08",
-            "url": "https://www.esakal.com/maharashtra/mahayuti-government-took-4-significant-decisions-during-cabinet-meeting-that-will-benefit-to-students-and-athletes-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/a68ixv38/Cabinet-Meeting-Decision.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
         {
             "id": "59fbe0ee4056",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : २९ ऑगस्टला आंदोलन करणारच, निर्णायक आंदोलन होणार - जरांगे",
+            "title": "Marathi News Live Updates : भविष्यात अशी कोणतीही घटना घडणार नाही, याची आपण सर्वांनी खबरदारी घेतली पाहिजे - शायना एनसी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-24T17:53:02",
+            "published": "2026-08-24T19:11:22",
             "url": "https://www.esakal.com/maharashtra/maharashtra-sir-2026-election-commission-sir-india-latest-news-today-gold-price-today-meesho-ipo-monsoon-2026-neet-mds-2026-shravan-somvar-mumbai-news-todaypune-breaking-news-pune-satara-highway-protest-maharashtra-rain-alert-chakan-metro-maharashtra-medical-doctors-protest-neet-mds-maharashtra-ymk86-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f0c416e68294",
+            "id": "9a0840196ad8",
+            "feed": "esakal",
+            "title": "Jewali Burglary: जेवळीत मध्यरात्री चोरट्यांचा धुमाकूळ! ५ ते ६ घरे फोडली, लाखोंचा ऐवज लंपास; गावात भीतीचे वातावरण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T19:02:42",
+            "url": "https://www.esakal.com/marathwada/jewali-theft-spree-5-to-6-locked-houses-broken-into-overnight-gold-silver-cash-and-bike-stolen-in-lohara-taluka-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/bvok6vx5/sudhir-jadhav-satara-8.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "eb580b90a002",
+            "feed": "esakal",
+            "title": "सप्टेंबरमध्ये महाराष्ट्र फिरायचाय? मग या 7 ठिकाणी नक्की जा!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T19:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/best-places-to-visit-in-maharashtra-in-september-kaas-plateau-malshej-ghat-bhandardara-lonavala-mahabaleshwar-kolad-matheran-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/revbw5t5/1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "e901b97b5574",
+            "feed": "maharashtratimes",
+            "title": "Rohit Pawar Speech | थेट फडणवीसांवर हल्लाबोल,रोहित पवारांचं आक्रमक भाषण!!",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T18:58:53",
+            "url": "https://maharashtratimes.com/maharashtra/wardha/mla-rohit-pawar-critisized-cm-devendra-fadnavis/videoshow/133468554.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "890e1351f04c",
             "feed": "lokmat",
-            "title": "विद्यार्थी शाळेत, पण शिक्षक गायब! एटापल्लीत शिक्षण विभागाच्या तपासणीत धक्कादायक वास्तव",
+            "title": "'हर हर महादेव'चा जयघोष! दुसऱ्या श्रावण सोमवारी वैद्यनाथ चरणी भाविकांचा सागर नतमस्तक!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T17:51:42",
-            "url": "https://www.lokmat.com/gadchiroli/students-in-school-but-teachers-missing-shocking-reality-revealed-in-education-department-inspection-in-etapalli-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-24-at-5.49.42-pm-1_2026081769735.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "308e481662c8",
-            "feed": "esakal",
-            "title": "Government Contractors: शासकीय कंत्राटदारांची ९६ हजार कोटींची देयके थकीत; तातडीने पैसे द्या, अन्यथा आंदोलन तीव्र करण्याचा इशारा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T17:47:20",
-            "url": "https://www.esakal.com/pune/maharashtra-government-contractors-await-96000-crore-dues-demand-immediate-payment-or-statewide-agitation-intensifies-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/aixye8dk/sudhir-jadhav-satara-4.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7800f3a8ad80",
-            "feed": "esakal",
-            "title": "मळगाव वाचनालयात\nउद्या श्रद्धांजली सभा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T17:37:54",
-            "url": "https://www.esakal.com/kokan/todays-latest-marathi-news-kop26e25973-txt-sindhudurg-today-20260824120754",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/2nvshxk4/sindhudurga_default_banner_1.jpg",
+            "published": "2026-08-24T18:53:22",
+            "url": "https://www.lokmat.com/beed/parli-vaijnath-temple-chants-of-har-har-mahadev-a-sea-of-devotees-bow-down-at-the-feet-of-vaidyanath-on-the-second-monday-of-shravan-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vaidyanath-beed-parali-devotee-fea_2026081769790.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "5abec8b89a44",
-            "feed": "lokmat",
-            "title": "२२ लाखांच्या ऑफरमुळे मित्र बनला खूनी, श्रेयाच्या हत्येमागे नवा ट्विस्ट; पोलीस तपासात खुलासा",
+            "id": "3362aeb0d3ad",
+            "feed": "maharashtratimes",
+            "title": "Harman Baweja Transformation: कोण होतास तू काय झालास तू! बॉलिवूडच्या या  हँडसम हंक अभिनेत्याला ओळखणंही झालं कठीण, VIDEO व्हायरल",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-24T17:51:17",
-            "url": "https://www.lokmat.com/crime/debt-burden-on-the-head-offer-of-22-lakhs-conspiracy-hatched-by-a-friend-new-twist-in-the-murder-of-shreya-upadhyay-revealed-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shryea-case-punit-police_2026081769733.jpg",
+            "published": "2026-08-24T18:59:27",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/harman-baweja-unrecognizable-transformation-latest-video-viral/articleshow/133467496.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "1d7292e7daa5",
+            "id": "355a967a35e8",
             "feed": "esakal",
-            "title": "Wheat Flour Export: भारतीय गव्हाचे पीठ आता परदेशात जाणार! ४ वर्षांची निर्यातबंदी अखेर हटवली; केंद्र सरकारने घेतला मोठा निर्णय",
+            "title": "सुरुवातीला घाबरली, हातातली राखी पाहताच धावत आली; भावाने बहिण दिलं असं गिफ्ट, सोशल मीडियावर भावूक करणारा VIDEO",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-24T17:51:01",
-            "url": "https://www.esakal.com/sakal-money/central-government-lifted-ban-on-export-of-wheat-flour-and-related-products-such-as-maida-and-rava-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/rb52tn98/Wheat-Flour-Export.jpg",
+            "published": "2026-08-24T18:59:17",
+            "url": "https://www.esakal.com/trending-news/raksha-bandhan-viral-video-sister-scared-after-seeing-brother-holds-rakhi-brother-gives-stick-as-gift-emotional-social-media-video-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/akjyk09u/Raksha-Bandhan-Viral-Video",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
         },
         {
-            "id": "d05338cb7fef",
+            "id": "fb1f83a67dd1",
+            "feed": "esakal",
+            "title": "Laxman Hake:  आरक्षणावरून पुन्हा रणकंदन; हाकेंचा भुजबळांना थेट सवाल!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T18:50:51",
+            "url": "https://www.esakal.com/videos/laxman-hake-reservation-row-direct-question-to-bhujbal",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/evyuwjub/maxresdefault.webp",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "fe193aa5a387",
             "feed": "lokmat",
-            "title": "Pimpri Chinchwad: भरती प्रक्रियेदरम्यान प्रथम भेट; मैत्री अधिक घट्ट, २ महिला पोलिसांचा विवाहबद्ध होण्याचा निर्णय",
+            "title": "'सस्ती कॉपी' आणि 'बी-ग्रेड सिनेमा' म्हणून कंगनाने हिणवलं; आता तापसी पन्नूनं दोन शब्दात दिलं प्रत्युत्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T17:47:57",
-            "url": "https://www.lokmat.com/pimpri-chinchwad/first-meeting-during-recruitment-process-friendship-deepens-2-female-police-officers-decide-to-get-married-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-pcmc-police_2026081769727.jpg",
+            "published": "2026-08-24T18:50:44",
+            "url": "https://www.lokmat.com/filmy/bollywood/taapsee-pannu-shares-cryptic-post-after-kangana-ranauts-sasti-copy-remark-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/taapsee-pannu-shares-cryptic-post-after-kangana-ranauts-sasti-copy-remark_2026081769426.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "6ede2d2212bd",
+            "id": "2033df79966e",
             "feed": "lokmat",
-            "title": "पावसासाठी अजबच अंधश्रद्धा! पाऊस पडला नाही म्हणून गावकऱ्यांनी पुरलेला मृतदेह बाहेर काढून दिला अग्नी; धक्कादायक प्रकार उघड",
+            "title": "चांदगुडे कुटुंबातील वाद आत्ताचा नाही; कुणालच्या जन्माअगोदर १७ वर्षापूर्वी घडलेली 'ती' घटना समोर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T17:46:48",
-            "url": "https://www.lokmat.com/social-viral/viral-news-strange-superstition-about-rain-villagers-dug-out-buried-body-and-set-it-on-fire-because-it-didnt-rain-shocking-incident-revealed-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/telangana-nagarkurnool-villagers_2026081769717.jpg",
+            "published": "2026-08-24T18:47:01",
+            "url": "https://www.lokmat.com/photos/crime/kunal-chandgude-case-the-dispute-in-the-chandgude-family-is-not-a-recent-one-that-incident-that-happened-17-years-ago-before-kunal-birth-comes-to-light-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sangeeta-murlidhar-love-story-1_2026081769785.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "802f4a92607b",
-            "feed": "lokmat",
-            "title": "आलिशान गाडी घेऊन झाडू मारायला येतो सफाई कर्मचारी; आधी मिळायचे ५० रुपये, कसं बदललं आयुष्य?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-24T17:44:57",
-            "url": "https://www.lokmat.com/national/mangaluru-sanitation-worker-arrives-in-fortuner-to-sweeps-roads-know-hisstory-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sesappa_2026081769722.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "e5f83f3f8863",
+            "feed": "maharashtratimes",
+            "title": "Explained : पीएम मोदी, ट्रम्प यांच्या संयुक्त पत्रकार परिषदेत नक्की काय घडलं? अमेरिकेची टिप्पणी, त्यावर भारताची प्रतिक्रिया सर्व समजून घ्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-08-24T18:54:26",
+            "url": "https://maharashtratimes.com/international/international-news/g7-summit-pm-modi-and-donald-trump-press-confrerence-controversy/articleshow/133466261.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a87a7765799f",
+            "feed": "lokmat",
+            "title": "अक्षय खन्नावर भारी पडली 'महाकाली'! 'ही' अभिनेत्री नक्की आहे तरी कोण?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-24T18:14:27",
+            "url": "https://www.lokmat.com/filmy/photos/south-movies/mahakali-teaser-who-is-sriya-reddy-salaar-actress-cricketer-daughter-akshaye-khanna-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahakali-teaser-who-is-sriya-reddy-salaar-actress-cricketer-daughter-akshaye-khanna_2026081769761.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "91933d9b5f3f",
             "feed": "esakal",
@@ -212,138 +244,106 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "3770d3d0f89a",
-            "feed": "maharashtratimes",
-            "title": "ऑस्ट्रेलियाचा दणदणीत पलटवार; मिचेल स्टार्कचा बांगलादेशवर कहर! भारतीय फॅन्स मीम्समधून घेताहेत फिरकी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-24T12:11:22",
-            "url": "https://maharashtratimes.com/viral/viral-news/australia-bounce-back-to-beat-bangladesh-by-an-innings-and-91-runs/articleshow/133454172.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "4cfb4cdf7403",
-            "feed": "esakal",
-            "title": "मुनीर, सत्ता आणि संशय",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T12:06:16",
-            "url": "https://www.esakal.com/sampadakiya/editorial-articles/pakistan-asim-munir-power-and-suspicion-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/xr59cea3/pakistan-asim-Munir",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "432970f5b3f1",
-            "feed": "maharashtratimes",
-            "title": "Usain Bolt Record : जगातल्या सर्वात वेगवान धावपटूला कोणी दिली मात? बोल्टचा 17 वर्षांचा विक्रम मोडला; 100 मीटरचा नवा बादशाह कोण?",
+            "id": "c64bbb69a4e9",
+            "feed": "esakal",
+            "title": "IND vs SL, Test: ध्रुव जुरेलने 'जय जवान, जय किसान' टॅटू का काढला? स्वत:च केला खुलासा; रिषभ पंतच्या दुखापतीवरही दिली अपडेट",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-24T17:10:56",
-            "url": "https://maharashtratimes.com/sports/other-sports/usain-bolts-17-year-old-100-meter-sprint-world-record-broken-by-china-robot-tiangong-ultra/articleshow/133462231.cms",
-            "image": "",
+            "published": "2026-08-24T19:06:32",
+            "url": "https://www.esakal.com/krida/cricket/dhruv-jurel-tattoo-jai-jawan-jai-kisan-celebration-soldier-father-farmer-grandfather-rishabh-pant-shoulder-injury-update-ind-vs-sl-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/j0im3ya5/Dhruv-Jurel-Sri-Lanka-vs-India-2nd-Test.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d52e1b66ae3a",
+            "id": "0f328095e201",
             "feed": "lokmat",
-            "title": "Dhruv Jurel Century : \"जय जवान, जय किसान!\" लंकेत चमकला 'ध्रुवतारा'; बायसेपवरील टॅटू दाखवत साजरी केली सेंच्युरी!",
+            "title": "IND vs SL 2nd Test Day 2 Stumps : टीम इंडियानं उभारला धावांचा डोंगर; श्रीलंकेचा 'नाईट वॉचमन'चा डावही फसला अन्...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-24T17:02:40",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-2nd-test-day-2-dhruv-jurel-celebrated-his-century-by-flashing-a-biceps-tattoo-slogan-jai-jawan-jai-kisan-watch-video-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dhruv-jurel-m_2026081769687.jpg",
+            "published": "2026-08-24T18:24:49",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-2nd-test-day-2-stumps-manav-suthar-snares-prabath-jayasuriya-sl-2-down-for-8-after-india-declared-their-first-innings-at-503-for-9-dhruv-jurel-shine-with-centtury-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-2nd-test-day-2-stumpsm_2026081769759.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "58cef5e132eb",
-            "feed": "esakal",
-            "title": "IND vs SL 2nd Test: ध्रुव जुरेलची शतकी खेळी! भारताची पाचशे धावांच्या दिशेने वाटचाल; हार्दिक पांड्यानंतर असा पराक्रम करणारा पहिला",
+            "id": "5bc1cabc1267",
+            "feed": "maharashtratimes",
+            "title": "Tukaram Karande : पुण्यात नामांकित खेळाडूचा भयंकर शेवट! आधी तरुणीवर कॅफेत अत्याचार अन् आता अडकलेला वेगळ्याच गुन्ह्यात, नेमकं काय घडलं?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-24T16:42:11",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-2nd-test-dhruv-jurel-hits-a-stunning-century-as-india-march-towards-500-rishabh-pant-unleashes-carnage-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/8jbt122e/Dhruv-Jurel-century-in-India-vs-Sri-Lanka-2nd-Test",
+            "published": "2026-08-24T18:16:28",
+            "url": "https://maharashtratimes.com/sports/other-sports/kho-kho-player-tukaram-karande-finish-his-life-after-involed-case/articleshow/133465282.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "d7b359dc688a",
+            "id": "ca978764f8ad",
             "feed": "lokmat",
-            "title": "अमेरिकेत साखर निर्यातीसाठी सादर केली सहा कोटींची बनावट बँक हमी; 'एपीडा'च्या तक्रारीनंतर गुन्हा दाखल",
+            "title": "अमेरिकेच्या राजदूतांनी टाटांच्या कारखान्याला भेट का दिली? इथे तयार होतंय तरी काय? अमेरिकेचंही लक्ष वेधलं?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T17:40:13",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/fake-bank-guarantee-of-rs-6-crore-submitted-for-sugar-export-to-america-case-registered-after-apeda-complaint-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-u-r-sugar-export_2026081769714.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ae8f1acd9ee2",
-            "feed": "maharashtratimes",
-            "title": "नवीन प्रॉपर्टी लगेच विकण्याच्या भानगडीत पडू नका! नफ्यावर कर सवलत मिळवण्यासाठी आधी प्रॉपर्टीचे नियम लक्षात घ्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-24T17:36:04",
-            "url": "https://maharashtratimes.com/business/real-estate-news/section-54-of-income-tax-act-to-get-excemption-in-the-amount-of-tax/articleshow/133459437.cms",
-            "image": "",
+            "published": "2026-08-24T19:01:49",
+            "url": "https://www.lokmat.com/business/news/why-did-the-us-ambassador-visit-the-tata-factory-what-is-being-produced-here-did-it-attract-the-attention-of-the-us-as-well-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/usa-tata_2026081769792.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d122d3eae736",
+            "id": "c8ae922c5cb5",
             "feed": "lokmat",
-            "title": "Kanda Market : ना नाशिक, ना सोलापूर, ना पुणे, 'या' मार्केटमध्ये कांद्याला सर्वाधिक दर मिळतोय, वाचा आजचे बाजारभाव",
+            "title": "Agriculture Scheme : 'या' कृषिपंप लाभार्थी शेतकऱ्यांना वीज दरात सवलत मिळणार, निधी वितरणासाठी जीआर आला",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T17:35:02",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-kanda-market-nashik-solapur-pune-kanda-market-prices-see-todays-markets-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-14_2026081769702.jpeg",
+            "published": "2026-08-24T18:35:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/agriculture-scheme-farmers-benefiting-from-agricultural-pump-will-get-concession-in-electricity-tariff-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/plate-light_2026081769664.jpeg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "4344971227d5",
+            "feed": "lokmat",
+            "title": "केंद्र सरकारचा मोठा निर्णय! गव्हाच्या निर्यातीवरील बंदी उठवली; शेतकरी आणि निर्यातदारांना मिळणार दिलासा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-24T18:29:29",
+            "url": "https://www.lokmat.com/business/news/big-decision-of-the-central-government-ban-on-wheat-export-lifted-farmers-and-exporters-will-get-relief-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wheat-export_2026081769770.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ]
 }
