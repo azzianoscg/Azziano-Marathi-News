@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "24-08-2026 | 10:52 PM IST",
+    "lastUpdated": "24-08-2026 | 11:55 PM IST",
     "maharashtra": [
+        {
+            "id": "e9ce35c4c8ad",
+            "feed": "esakal",
+            "title": "३३१ 'सीसीटीव्ही'च्या देखभालीसाठी दरमहा १० लाखांचा खर्च! सोलापूर महापालिकेकडे थकले ९० लाख रुपये, कर्मचाऱ्यांचेही वेतन थांबले, वाचा...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T23:48:44",
+            "url": "https://www.esakal.com/maharashtra/monthly-cost-of-10-lakh-for-cctv-maintenance-solapur-municipal-corporation-has-outstanding-dues-of-90-lakh-employees-salaries-also-haltedread-more",
+            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/318683780_RxU2aUhrUZufOUzFHIueFJGHxiX2gol63uy2gNs1YmQ_20_20Copy_2.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "37017a3cf16c",
+            "feed": "lokmat",
+            "title": "राहुल गांधी यांचं CM देवेंद्र फडणवीसांना पत्र; आदिवासी विद्यार्थ्यांच्या मागण्यांकडे वेधले लक्ष",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T23:35:09",
+            "url": "https://www.lokmat.com/maharashtra/rahul-gandhi-letter-to-cm-devendra-fadnavis-draws-attention-to-the-demands-of-tribal-students-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fadnavis-devsndra-rahul-gandhi1_2026081769832.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "904a34da9cbb",
+            "feed": "esakal",
+            "title": "Shikrapur Crime: एमआयडीसीतील दादागिरीला ‘ब्रेक’; शिक्रापूरच्या अट्टल गुन्हेगारावर MPDA, अकोला कारागृहात रवानगी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T23:06:55",
+            "url": "https://www.esakal.com/pune/shikrapur-midc-gangster-booked-under-mpda-act-sent-to-akola-jail-after-police-action-against-repeated-serious-crimes-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/txlqi3yp/sudhir-jadhav-satara-19.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f3f7c8bc7e22",
             "feed": "esakal",
@@ -18,71 +66,55 @@
             "category_reason": "url"
         },
         {
-            "id": "bbdb1046640a",
-            "feed": "esakal",
-            "title": "अभिजीत दीपकेंना विचारलं- देशाचा बेस्ट PM कोण? क्षणाचाही विलंब न करता घेतलं 'या' नेत्याचं नाव; बेस्ट CM साठी घेतली तीन नावं",
+            "id": "3e69d9ddefb9",
+            "feed": "maharashtratimes",
+            "title": "Narali Purnima : नारळी पौर्णिमेपासून समुद्रात गजर; सात बोटी सज्ज, 30 हजार परप्रांतीय कामगारांवर मासेमारी हंगामाची भिस्त",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-24T22:39:14",
-            "url": "https://www.esakal.com/maharashtra/who-is-india-best-pm-ever-abhijeet-dipke-names-jawaharlal-nehru-abhijeet-dipke-pick-for-india-best-pm-sparks-political-buzz-cjp-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-11/wb17wy67/Abhi-4.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e9c7cbbba225",
-            "feed": "esakal",
-            "title": "Bidkin News: बिडकीनच्या DMIC हद्दीत अज्ञात महिलेचा संशयास्पद मृतदेह; घातपाताचा संशय, पोलिस तपास सुरू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T22:33:29",
-            "url": "https://www.esakal.com/marathwada/unknown-woman-found-dead-in-bidkin-dmic-area-suspicious-death-raises-murder-fears-as-police-launch-investigation-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/6c220jz3/sudhir-jadhav-satara-17.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7bc38057a480",
-            "feed": "esakal",
-            "title": "Pune Nagar Highway: पुणे-अहिल्यानगर महामार्गावरील सुरक्षेचा प्रश्न ऐरणीवर; शिरूरमध्ये प्रतिकात्मक तिरडी मांडून प्रशासनाचा निषेध",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T22:19:16",
-            "url": "https://www.esakal.com/pune/pune-ahilyanagar-highway-safety-issue-escalates-as-protesters-stage-symbolic-funeral-bier-in-shirur-against-administration-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/j6gpjmyf/sudhir-jadhav-satara-16.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f6b57a2922ed",
-            "feed": "esakal",
-            "title": "Pune Court: न्यायसेवेतील प्रदीर्घ अनुभव पुण्याच्या न्यायालयाच्या कामी; अंजू शेंडे यांनी स्वीकारला प्रमुख न्यायाधीशपदाचा पदभार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T21:58:12",
-            "url": "https://www.esakal.com/pune/anju-shende-takes-charge-as-pune-district-and-sessions-court-chief-judge-with-long-experience-in-judicial-service-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/egs98ul3/sudhir-jadhav-satara-15.jpg",
+            "published": "2026-08-24T22:47:53",
+            "url": "https://maharashtratimes.com/maharashtra/raigad/narali-purnima-start-of-fishing-season-in-raigad-30000-migrant-workers-will-work/articleshow/133474364.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "1c1d803f6be7",
+            "feed": "maharashtratimes",
+            "title": "Aayush Bhide Interview: 'आई गेली तो पर्यंत तिला माहिती नव्हतं की, बाबा गेलेत', आयुष भिडेच्या आयुष्यातला तो कठीण दिवस, १४ दिवसांत आयुष्यच बदललं;  तुमच्याही डोळ्यात येईल पाणी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-24T23:46:12",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/aayush-bhide-share-hard-time-he-lost-parents-in-corona-second-wave/articleshow/133475413.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "f1b7fa5bd4b4",
+            "feed": "lokmat",
+            "title": "अटकेतील महिला रुग्णालयात, पीडित भूखंडधारकांत रोष; पदाचा दुरुपयोग करून लाखोंचे भूखंड हडपले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-24T23:17:30",
+            "url": "https://www.lokmat.com/crime/detained-woman-in-hospital-anger-among-victim-plot-holders-land-worth-lakhs-seized-by-misusing-position-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-5881_201901189749.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "02c5ce4f0b8d",
             "feed": "esakal",
@@ -130,41 +162,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "62e4d4689e43",
-            "feed": "esakal",
-            "title": "एक किलो साखर बनवायला किती ऊस लागतो?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T21:40:09",
-            "url": "https://www.esakal.com/ampstories/web-story/how-much-sugar-is-produced-from-100-kg-sugarcane-1-kg-sugar-requires-how-much-sugarcane-sugar-recovery-explained-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/5kfnmadv/Sugar-Recovery-Explained-1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e1564287e8b3",
-            "feed": "maharashtratimes",
-            "title": "पतीनं ज्याला भाऊ मानलं, तोच पत्नीचा प्रियकर झाला; नवरा-बायकोच्या विचित्र हट्टानं पेच वाढला",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-24T21:30:43",
-            "url": "https://maharashtratimes.com/india-news/husband-considered-as-brother-becomes-wifes-lover-love-triangle-in-up-sitapur/articleshow/133472610.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "1ce3def308a1",
+            "feed": "lokmat",
+            "title": "म्युल अकाउंटमधून १०० कोटींपेक्षा जास्त रक्कमेची विल्हेवाट लावणारा गजाआड; रॅकेटचा सूत्रधार फरारच",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-24T23:39:18",
+            "url": "https://www.lokmat.com/crime/the-mastermind-of-the-racket-who-disposed-of-over-rs-100-crores-through-a-mule-account-is-absconding-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arrest46560_2024061251644.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "fbcf668bc5b9",
+            "feed": "lokmat",
+            "title": "१ लाख डॉलरपेक्षा जास्त फी, H1-B व्हिसावर अमेरिकेचा नवा प्लॅन; भारतावर काय होणार परिणाम?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-24T22:48:03",
+            "url": "https://www.lokmat.com/international/fees-of-more-than-1-lakh-dollars-america-new-plan-on-h1-b-visa-what-will-be-the-impact-on-india-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trump-donald-h1-b-visa_2026081769827.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "27bf431adebb",
             "feed": "maharashtratimes",
@@ -212,38 +244,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramthulla-shaikh-story_2026081769793.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "20cbfe22156c",
-            "feed": "maharashtratimes",
-            "title": "Gen Z नं डोक्यावर घेतलं, आता तेच विरोधात रस्त्यावर;  Nepal PM Balen Shah यांच्या डाऊनफॉलची ६ कारणं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-24T19:12:47",
-            "url": "https://maharashtratimes.com/video/mt-originals/nepal-prime-minister-balen-shah-downfall-explained/videoshow/133469011.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "e5f83f3f8863",
-            "feed": "maharashtratimes",
-            "title": "Explained : पीएम मोदी, ट्रम्प यांच्या संयुक्त पत्रकार परिषदेत नक्की काय घडलं? अमेरिकेची टिप्पणी, त्यावर भारताची प्रतिक्रिया सर्व समजून घ्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-24T18:54:26",
-            "url": "https://maharashtratimes.com/international/international-news/g7-summit-pm-modi-and-donald-trump-press-confrerence-controversy/articleshow/133466261.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
