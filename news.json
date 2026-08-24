@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "24-08-2026 | 10:05 AM IST",
+    "lastUpdated": "24-08-2026 | 10:59 AM IST",
     "maharashtra": [
         {
-            "id": "59fbe0ee4056",
+            "id": "28745bda0d5e",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : घाटकोपरच्या रमाबाई आंबेडकर नगरात कचऱ्यावर उभं राहून मनसेचं आंदोलन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T10:05:07",
-            "url": "https://www.esakal.com/maharashtra/maharashtra-sir-2026-election-commission-sir-india-latest-news-today-gold-price-today-meesho-ipo-monsoon-2026-neet-mds-2026-shravan-somvar-mumbai-news-todaypune-breaking-news-pune-satara-highway-protest-maharashtra-rain-alert-chakan-metro-maharashtra-medical-doctors-protest-neet-mds-maharashtra-ymk86-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "60e277597fcc",
-            "feed": "maharashtratimes",
-            "title": "मुंबईची मोकळी मैदानं वाचवण्यासाठी आदित्य ठाकरेंचा लढा; फडणवीस सरकारविरोधात मैदानात",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T10:03:22",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/aaditya-thackeray-criticizes-fadnavis-government-over-mumbais-open-grounds/videoshow/133451295.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "af903645b38b",
-            "feed": "esakal",
-            "title": "Palghar News: 'हे पुस्तक वाचाल तर आजार, समस्या दूर होतील', १८ वर्षीय तरुणावर धर्मांतराचा प्रयत्न; २२ महिलांविरोधात गुन्हा दाखल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T10:00:54",
-            "url": "https://www.esakal.com/mumbai/religious-conversion-of-18-year-old-youth-from-womens-case-has-been-registered-against-22-in-palghar-mokhada-crime-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-04/vrxl41yy/crime-investigation",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8d94eca88983",
-            "feed": "lokmat",
-            "title": "मुंबईत बाप्पाच्या आगमन मिरवणुकीवर इमारतीवरून अंडी फेकल्याचा आरोप; माझगावमध्ये तणाव, पोलिसांचा मोठा बंदोबस्त",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T09:57:52",
-            "url": "https://www.lokmat.com/mumbai/ganpati-aagaman-procession-mumbai-allegations-of-eggs-being-thrown-from-a-building-during-bappas-arrival-procession-in-mumbai-mazgaon-cha-maurya-tension-in-mazgaon-heavy-police-deployment-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-ganpati-pendal-egg-thrown-news_2026081769183.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "05da33801dee",
-            "feed": "maharashtratimes",
-            "title": "MHT CET CAP Round: बीबीए, बीसीए, बीएमएस प्रवेशाची तिसरी फेरी सुरू! २५ ऑगस्टपर्यंत पसंतीक्रम भरण्याची अंतिम संधी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-24T09:52:51",
-            "url": "https://maharashtratimes.com/career/career-news/mht-cet-bba-bca-bms-cap-round-3-option-form-marathi-news-maharashtra/articleshow/133450999.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "india": [
-        {
-            "id": "d1aa11f8d67c",
-            "feed": "esakal",
-            "title": "श्रावणात झाडं लावणं पवित्र का मानलं जातं? जाणून घ्या वैज्ञानिक महत्त्व",
+            "title": "Beed Stray Dog Menace: गल्लीबोळीत मोकाट कुत्र्यांचा हैदोस; शेल्टर हाऊस हवेत; निर्बीजीकरणाचा दावा फोल,  ५० लाखांचा निधी गेला कुठे?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-24T09:46:00",
-            "url": "https://www.esakal.com/ampstories/web-story/why-plant-trees-during-shravan-scientific-and-spiritual-significance-sacred-month-facts-zad-ka-lavtat-marathi-information-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/qnmd29zx/SHRAVAN-TREE-PLANTATION.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "344e2662e137",
-            "feed": "maharashtratimes",
-            "title": "सुका नारळापासून घरच्या घरी तयार करा १००% शुद्ध आणि नैसर्गिक नारळाचे तेल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-24T09:37:23",
-            "url": "https://maharashtratimes.com/lifestyle-news/home-decor-hacks/how-to-make-coconut-oil-at-home-from-dry-coconut/articleshow/133450879.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "f85978734059",
-            "feed": "esakal",
-            "title": "‘Toxic’च्या इव्हेंटमध्ये मोठा अपघात! स्पीकर स्टँड कोसळला, ४ जण जखमी; यशने थांबवलं भाषण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T09:35:08",
-            "url": "https://www.esakal.com/premier/toxic-pre-release-event-accident-yash-speaker-stand-collapses-four-injured-student-leg-fracture-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/u248binl/TOXIC-PRE-RELEASE-EVENT-ACCIDENT",
+            "published": "2026-08-24T10:53:15",
+            "url": "https://www.esakal.com/marathwada/beed-stray-dog-menace-50-lakh-shelter-house-sterilisation-civic-action-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/llbcebze/Abhi-96.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "a974a942676c",
+            "id": "e53920ae1665",
+            "feed": "esakal",
+            "title": "Onion Rate : कांदा पन्नाशीपार! शेतकऱ्यांमध्ये आनंदाचे वातावरण, दोन नंबर कांदाही चार हजारावर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T10:51:16",
+            "url": "https://www.esakal.com/ahmednagar/onion-prices-cross-rupees-50-per-kg-farmers-cheer-as-grade-two-onions-also-surpass-rupees-4000-per-quintal-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/vgwyh5bf/Onion-Rate-Increase",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "9ab086f37bd2",
+            "feed": "esakal",
+            "title": "Sagar Mali Bodybuilder Death : जगाला ताकद दाखवली पण..., आंतरराष्ट्रीय बॉडी बिल्डर सागर माळी यांचे निधन, मृत्यूचे धक्कादायक कारण समोर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T10:50:57",
+            "url": "https://www.esakal.com/mumbai/bodybuilder-sagar-mali-death-international-bodybuilder-dies-at-38-cause-revealed-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/1zid9nw7/sandeep-shirguppe-2026-08-24T105021.993.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "83f6f3b67134",
             "feed": "lokmat",
-            "title": "आई झाल्यानंतर तेजस्विनी लोणारीची भावुक पोस्ट; म्हणाली, \"आम्ही फक्त दोघंच होतो...\"",
+            "title": "...म्हणून एवढासा देश इतका नितांत सुंदर आहे!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T10:47:39",
+            "url": "https://www.lokmat.com/maharashtra/so-this-country-is-so-utterly-beautiful-a-a283-c653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jkfyvlb_2026081769218.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "aa5ab46628f5",
+            "feed": "esakal",
+            "title": "Chlorine Gas Leak : गोधनीतील जलशुद्धीकरण केंद्रात क्लोरीन गॅसची गळती; ५६ जण रुग्णालयात, २०० मीटर परिसरातील वस्त्या केल्या रिकाम्या",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T10:38:13",
+            "url": "https://www.esakal.com/vidarbha/nagpur/chlorine-gas-leak-at-godhani-water-treatment-plant-56-hospitalised-settlements-within-200-metres-evacuated-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/qazhjsh9/Chlorine-Gas-Leak-at-Godhani-Water-Treatment-Plant",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "a612036998c8",
+            "feed": "maharashtratimes",
+            "title": "Narendra Modi: आधी पंतप्रधान मोदींची मॅरेथॉन बैठक, आता भाजप ७ राज्यांसाठी प्लॅन ठरवणार, निवडणुकांसाठी कशी असणार रणनीती?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-24T09:33:56",
-            "url": "https://www.lokmat.com/filmy/marathi-cinema/tejaswini-lonaris-emotional-post-after-becoming-a-mother-she-said-it-was-just-the-two-of-us-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tejaswini-lonari-post_2026081769179.jpeg",
+            "published": "2026-08-24T10:56:26",
+            "url": "https://maharashtratimes.com/india-news/pm-narendra-modi-important-meeting-with-bjp-leaders-finalizes-strategy-for-elections-in-7-states/articleshow/133449366.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "47f6714f11c6",
+            "feed": "maharashtratimes",
+            "title": "सॅमसंग गॅलेक्सी S27 अल्ट्राचा लूक बदलणार; नव्या कॅमेरा प्लॅटू, मॅग्नेटिक चार्जिंगसह डिझाईन लीक",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-24T10:52:06",
+            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/samsung-galaxy-s27-ultra-leaks-major-rear-design-overhaul-and-qi2-magnetic-charging-tipped/articleshow/133451902.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "8ac3cee4ca6b",
+            "id": "69a750dce4d5",
             "feed": "lokmat",
-            "title": "भेंडीची भाजी चिकट होते? ४ टिप्स वापरा, हॉटेलसारखी चमचमीत, सुटसुटीत होईल भेंडीची भाजी",
+            "title": "Astro Tip: तुमच्या पत्रिकेत कोणते ग्रह कुठे बसलेत? जाणून घ्या घर, मन आणि नातेसंबंधांवर होणारा त्यांचा थेट परिणाम!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T09:30:02",
-            "url": "https://www.lokmat.com/sakhi/food/how-to-make-lady-finger-non-sticky-easy-cooking-tips-for-perfect-dish-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-23-at-11.51.30-am_2026081769137.jpeg",
+            "published": "2026-08-24T10:51:39",
+            "url": "https://www.lokmat.com/bhakti/astro-tip-which-planets-are-in-your-horoscope-know-their-direct-impact-on-your-home-mind-and-relationships-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/astro-effect-on-life_2026081769223.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "4c04d2acca1e",
+            "feed": "lokmat",
+            "title": "\"माझ्या डोक्यावर त्याचं कर्ज...\", छोट्या मुलाला मदत करण्यासाठी पापाराझीकडून घेतले पैसे, मग केलं असं काही...; रितेशचं होतंय कौतुक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-24T10:48:37",
+            "url": "https://www.lokmat.com/filmy/bollywood/ritesh-deshmukh-instagram-post-viral-ask-paparazi-no-said-i-have-his-debt-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ritesh-deshmuk-paparazi-1_2026081769219.jpg",
             "isBreaking": false,
             "category_reason": "default"
+        },
+        {
+            "id": "cee107777117",
+            "feed": "maharashtratimes",
+            "title": "Kriti Sanon : रक्षाबंधनाच्या जाहिरातीत क्रिती सेनॉनच्या कपड्यांवरुन भडकले प्रेक्षक, म्हणाले- सणवार दाखवायचा हा कोणता प्रकार!",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-24T10:47:13",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/krit-sanon-troll-on-clothes-for-rakshabandhan-special-ad/articleshow/133450844.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "29757cfeae93",
+            "feed": "maharashtratimes",
+            "title": "Crime News : क्षुल्लक कारणावरुन वाद, अज्ञाताकडून छातीवर गोळीबार; अमेरिकेत भारतीय तरुणाला संपवलं",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-08-24T10:52:29",
+            "url": "https://maharashtratimes.com/international/international-news/new-york-stanley-avenue-27-year-old-indian-youth-gurdeep-singh-killed/articleshow/133451970.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "67841b861dcf",
+            "feed": "lokmat",
+            "title": "Pakistan Turkey: पाकिस्तानात काय चाललंय! एअरबेसवर उतरली तुर्कीची लष्करी विमाने; घातक ड्रोन्स, शस्त्रास्त्रे...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-24T10:10:18",
+            "url": "https://www.lokmat.com/international/pakistan-turkey-whats-going-on-in-pakistan-turkish-military-planes-land-at-airbase-dangerous-drones-weapons-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/turkish-military-planes-in-pakistan_2026081769188.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c370bc2f870a",
             "feed": "lokmat",
@@ -212,138 +244,106 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjr6i7fj_2026081769160.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "04b0f238d404",
-            "feed": "lokmat",
-            "title": "इम्रान खान यांचे नशीब बदलेल का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T08:06:50",
-            "url": "https://www.lokmat.com/editorial/will-imran-khans-luck-change-pakistan-politics-a-a284-c653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/imran-khan-ffd_2026081769158.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "e72c99c8230c",
-            "feed": "esakal",
-            "title": "Guinea Landfill Collapse : मुसळधार पावसाचा कहर! कचऱ्याचा डोंगर कोसळला; ३० जणांचा मृत्यू, अनेक झोपड्या ढिगाऱ्याखाली",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T08:06:33",
-            "url": "https://www.esakal.com/global/guinea-landfill-collapse-30-dead-conakry-garbage-dump-heavy-rain-rescue-operation-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/fp2jt0yq/Guinea-Landfill-Collapse.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "cc64ebf07c2e",
+            "id": "a5dae1d14edb",
             "feed": "esakal",
-            "title": "Hockey World Cup : भारत-अर्जेंटिनामध्ये आज लढत रंगणार; हरमनच्या सेनेचा दुसऱ्या फेरीतील अखेरचा सामना",
+            "title": "Wath A Ball! पृथ्वी शॉचा संघर्ष सुरूच... डोळ्यासमोर चेंडू फिरला अन् यष्टिंवर आदळला, हा पठ्ठ्या नुसता पाहत राहिला Video Viral",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T10:02:24",
-            "url": "https://www.esakal.com/krida/hockey-world-cup-india-vs-argentina-clash-today-harmanpreets-team-faces-final-match-of-the-second-round-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/z16whjtz/Hockey-World-Cup",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "8c5990764f25",
-            "feed": "maharashtratimes",
-            "title": "Shubman Gill : कडक ना भावा! अर्धशतक करूनही शुभमन गिलने रचला इतिहास, अशी कामगिरी करणाचा भारताचा पहिलाच कर्णधार",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-24T09:59:16",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-shubman-gill-first-captain-complete-1000-runs-in-10-test-matches-in-world-test-championship/articleshow/133450951.cms",
-            "image": "",
+            "published": "2026-08-24T10:49:46",
+            "url": "https://www.esakal.com/krida/cricket/what-a-ball-prithvi-shaws-struggles-continue-as-abid-mushtaq-cleans-him-up-in-duleep-trophy-video-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/zpa671bq/Prithvi-Shaw-dismissed-by-Abid-Mushtaq-in-Duleep-Trophy",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "88f24550bb0c",
+            "id": "9d46547a674b",
             "feed": "esakal",
-            "title": "IND vs SL, 2nd Test: रिटायर्ड हर्ट झालेला रिषभ पंत फलंदाजीसाठी मैदानात येणार की नाही? कोचने दिली महत्त्वाची अपडेट",
+            "title": "VIRAL VIDEO: इंग्लंडच्या स्टार गोलंदाजाला नाइटक्लबबाहेर पोलिसांनी ठोकल्या बेड्या; VIDEO व्हायरल,  नेमकं काय घडलं?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-24T06:30:00",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-2nd-test-will-retired-hurt-rishabh-pant-bat-again-coach-sitanshu-kotak-gives-injury-update-marathi-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/agqbqi47/Rishabh-Pant-Sri-Lanka-vs-India-2nd-Test.jpg",
+            "published": "2026-08-24T10:30:40",
+            "url": "https://www.esakal.com/krida/cricket/england-cricketer-brydon-carse-handcuffed-outside-nightclub-video-goes-viral-ecb-investigation-england-vs-pakistan-test-series-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/4zjqjy9j/viral-video.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4ddf849550f9",
+            "feed": "lokmat",
+            "title": "Video: रिंकू सिंगचा धमाका! एकाच षटकात ठोकल्या २८ धावा, चौकार-षटकारांची केली बरसात, सामनाही जिंकला!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-24T10:21:34",
+            "url": "https://www.lokmat.com/cricket/news/rinku-singh-batting-28-runs-scored-in-single-over-hitting-fours-and-sixes-up-t20-league-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rinku-singh-batting-2408_2026081769193.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "5d221bff7f74",
+            "id": "f2e513a3dd53",
             "feed": "lokmat",
-            "title": "Stock Market Today: आठवड्याची सकारात्मक सुरुवात, ३३ अंकांच्या तेजीसह उघडला शेअर बाजार; गुंतवणूकदारांना २५००० कोटींचा फायदा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-24T09:52:07",
-            "url": "https://www.lokmat.com/business/stock-market/stock-market-today-24-august-2026-positive-start-to-the-week-stock-market-opened-with-a-gain-of-33-points-investors-benefit-from-rs-25000-crores-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-union-budget-2025_2025021388760.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8407ca5c80b8",
-            "feed": "lokmat",
-            "title": "₹९००० कोटींपेक्षा अधिकचा फटका! Uber ला का लावला इतका मोठा दंड? जाणून घ्या संपूर्ण प्रकरण",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-24T09:33:47",
-            "url": "https://www.lokmat.com/business/news/netherlands-deta-protection-authority-uber-fine-rs-9000-crore-why-fined-so-heavily-know-whats-matter-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/uber-car-accident-3_2025111581327.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "462b2fd570fd",
-            "feed": "lokmat",
-            "title": "यंदाचे कापूस उत्पादन ठरविणार कपड्यांच्या किमतींचे भवितव्य; सुताच्या दरात मोठी वाढ",
+            "title": "YouTube Video Viral Tricks: ज्याची वेळ बरी, त्याचा खेळ बरा...! युट्यूबवर लाखो व्ह्यूज हवेत? मग जाणून घ्या व्हिडिओ आणि शॉर्ट्स अपलोड करण्याची 'परफेक्ट दिवस अन् वेळ'",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T09:23:03",
-            "url": "https://www.lokmat.com/agriculture/market-yard/this-years-cotton-production-will-determine-the-future-of-clothing-prices-big-increase-in-yarn-prices-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-r-34-cotton-spread-rate_2026081769168.jpeg",
+            "published": "2026-08-24T10:44:50",
+            "url": "https://www.lokmat.com/photos/tech/youtube-video-viral-tricks-whoever-has-good-timing-plays-well-want-millions-of-views-on-youtube-then-know-the-perfect-day-and-time-to-upload-videos-and-shorts-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/youtube-video-views-trick-and-tips-19-th1_2026081769216.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "6eb41f7e01cc",
+            "feed": "lokmat",
+            "title": "पिके माना टाकू लागली, ओढे-नाले पडले कोरडे; सिद्धेश्वर धरणात अवघा ३१.६९ टक्के पाणीसाठा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-24T10:29:51",
+            "url": "https://www.lokmat.com/agriculture/weather/crops-started-to-fail-streams-and-drains-dried-up-siddheshwar-dam-has-only-3169-percent-water-storage-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/u-34-c.-34-34-marathwada-water_2026081769201.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "e72cacb6a6c2",
+            "feed": "esakal",
+            "title": "Gold Rate Today: लग्नासाठी सोनं घेणार? आधी ही बातमी वाचा! 20 हजारांनी महागलं सोनं; सर्वसामान्यांच्या आवाक्याबाहेर? पाहा ताजा भाव",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T10:27:07",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/gold-rate-today-wedding-gold-price-20-thousand-rise-august-2026-24k-22k-18k-latest-rate-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/san7lrd8/Copy-of-Copy-of-banner-2026-08-24T102037.795.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ]
 }
