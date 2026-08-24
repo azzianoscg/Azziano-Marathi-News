@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "24-08-2026 | 09:14 AM IST",
+    "lastUpdated": "24-08-2026 | 10:05 AM IST",
     "maharashtra": [
-        {
-            "id": "6dac9bc85edd",
-            "feed": "esakal",
-            "title": "Gadchiroli Ashram School Case: शिक्षण विभागाचे दोन अधिकारी निलंबित; साहाय्यक प्रकल्प अधिकारी सादमवार, विस्तार अधिकारी कन्नाके यांचा समावेश",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T09:08:11",
-            "url": "https://www.esakal.com/vidarbha/gadchiroli-japtalai-ashram-school-case-two-education-officers-suspended-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/oalupybp/Abhi-96.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "39e63555eca4",
-            "feed": "lokmat",
-            "title": "आधी मंत्रिमंडळ बैठक, नंतर वर्षा बंगल्यावर 'डिनर डिप्लोमसी'; CM फडणवीस, एकनाथ शिंदे, सुनेत्रा पवारांमध्ये होणार चर्चा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T09:07:34",
-            "url": "https://www.lokmat.com/mumbai/first-cabinet-meeting-then-dinner-diplomacy-at-varsha-bungalow-cm-fadnavis-eknath-shinde-sunetra-pawar-to-hold-discussions-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devendra-fadnavis-shinde-sunetra-pawar_2026081769170.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
         {
             "id": "59fbe0ee4056",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : काश्मिरी पंडितांना दहशतवाद्यांकडून धमकी",
+            "title": "Marathi News Live Updates : घाटकोपरच्या रमाबाई आंबेडकर नगरात कचऱ्यावर उभं राहून मनसेचं आंदोलन",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-24T08:58:09",
+            "published": "2026-08-24T10:05:07",
             "url": "https://www.esakal.com/maharashtra/maharashtra-sir-2026-election-commission-sir-india-latest-news-today-gold-price-today-meesho-ipo-monsoon-2026-neet-mds-2026-shravan-somvar-mumbai-news-todaypune-breaking-news-pune-satara-highway-protest-maharashtra-rain-alert-chakan-metro-maharashtra-medical-doctors-protest-neet-mds-maharashtra-ymk86-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ebc8447a1b72",
-            "feed": "esakal",
-            "title": "Shambhuraj Desai : जिल्हा बँकेसाठी वेट ॲण्ड वॉच; अंतिम याद्यांनंतरच शिवसेनेची भूमिका",
+            "id": "60e277597fcc",
+            "feed": "maharashtratimes",
+            "title": "मुंबईची मोकळी मैदानं वाचवण्यासाठी आदित्य ठाकरेंचा लढा; फडणवीस सरकारविरोधात मैदानात",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-24T08:54:42",
-            "url": "https://www.esakal.com/satara/wait-and-watch-on-satara-district-bank-polls-shiv-sena-to-decide-after-final-voter-lists-shambhuraj-desai-politics-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2024-07/39dbd6a8-7da6-4c1a-9675-6192a2f9e5bf/Rushikesh_Salvi___2024_07_03T230817_197.jpg",
+            "published": "2026-08-24T10:03:22",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/aaditya-thackeray-criticizes-fadnavis-government-over-mumbais-open-grounds/videoshow/133451295.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "5a976ca5784e",
+            "id": "af903645b38b",
             "feed": "esakal",
-            "title": "Nagpur Pothole Crisis: खड्ड्यांमुळे  शहरात ‘ऑफ रोडिंग’ अनुभव; बेसा पॉवर हाऊस-म्हाळगीनगर मार्गाची दैनावस्था",
+            "title": "Palghar News: 'हे पुस्तक वाचाल तर आजार, समस्या दूर होतील', १८ वर्षीय तरुणावर धर्मांतराचा प्रयत्न; २२ महिलांविरोधात गुन्हा दाखल",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-24T08:50:42",
-            "url": "https://www.esakal.com/vidarbha/nagpur/besa-power-house-mhalginagar-road-potholes-nagpur-traffic-congestion-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/5zq4fiz6/Abhi-96.jpg",
+            "published": "2026-08-24T10:00:54",
+            "url": "https://www.esakal.com/mumbai/religious-conversion-of-18-year-old-youth-from-womens-case-has-been-registered-against-22-in-palghar-mokhada-crime-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-04/vrxl41yy/crime-investigation",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "8d94eca88983",
+            "feed": "lokmat",
+            "title": "मुंबईत बाप्पाच्या आगमन मिरवणुकीवर इमारतीवरून अंडी फेकल्याचा आरोप; माझगावमध्ये तणाव, पोलिसांचा मोठा बंदोबस्त",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-24T09:57:52",
+            "url": "https://www.lokmat.com/mumbai/ganpati-aagaman-procession-mumbai-allegations-of-eggs-being-thrown-from-a-building-during-bappas-arrival-procession-in-mumbai-mazgaon-cha-maurya-tension-in-mazgaon-heavy-police-deployment-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-ganpati-pendal-egg-thrown-news_2026081769183.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "05da33801dee",
+            "feed": "maharashtratimes",
+            "title": "MHT CET CAP Round: बीबीए, बीसीए, बीएमएस प्रवेशाची तिसरी फेरी सुरू! २५ ऑगस्टपर्यंत पसंतीक्रम भरण्याची अंतिम संधी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-24T09:52:51",
+            "url": "https://maharashtratimes.com/career/career-news/mht-cet-bba-bca-bms-cap-round-3-option-form-marathi-news-maharashtra/articleshow/133450999.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "india": [
         {
-            "id": "f7d2a5201ee6",
+            "id": "d1aa11f8d67c",
             "feed": "esakal",
-            "title": "ISRO : हिंजवडीतील विद्यार्थ्यांची अंतराळाच्या दिशेने झेप! इस्रो,‘ईएसए’ भेटीसाठी निवड; कृष्‍णिका, श्रीजितची स्वप्नांना गवसणी",
+            "title": "श्रावणात झाडं लावणं पवित्र का मानलं जातं? जाणून घ्या वैज्ञानिक महत्त्व",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-24T09:11:55",
-            "url": "https://www.esakal.com/pimpri-chinchwad/hinjewadi-students-reach-for-stars-selected-for-isro-and-esa-visits-krishnika-mane-and-srijit-adsod-turn-dreams-into-reality-success-motivation-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/bbfnmzqi/krushnika-mane-and-shrijit-adsod",
+            "published": "2026-08-24T09:46:00",
+            "url": "https://www.esakal.com/ampstories/web-story/why-plant-trees-during-shravan-scientific-and-spiritual-significance-sacred-month-facts-zad-ka-lavtat-marathi-information-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-23/qnmd29zx/SHRAVAN-TREE-PLANTATION.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "4c2d8b30fbc4",
-            "feed": "esakal",
-            "title": "Sugar Rate Hike : विक्रमी दरवाढीमुळे साखर ‘कडू’! दर ७० ते ७२ रुपयांवर; सण-उत्सवावर महागाईचे सावट",
+            "id": "344e2662e137",
+            "feed": "maharashtratimes",
+            "title": "सुका नारळापासून घरच्या घरी तयार करा १००% शुद्ध आणि नैसर्गिक नारळाचे तेल",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-24T09:05:14",
-            "url": "https://www.esakal.com/pimpri-chinchwad/sugar-turns-bitter-amid-record-price-rise-rates-reach-70-to-72-casting-a-shadow-over-festive-celebrations-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-12/3v0wy7ob/sugar-production",
+            "published": "2026-08-24T09:37:23",
+            "url": "https://maharashtratimes.com/lifestyle-news/home-decor-hacks/how-to-make-coconut-oil-at-home-from-dry-coconut/articleshow/133450879.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "9f6ed5e6523a",
+            "id": "f85978734059",
             "feed": "esakal",
-            "title": "Premium| Car Buying Guide : कार खरेदीचा निर्णय चुकू नये असे वाटत असेल, तर गाडी घेण्यापूर्वी या गोष्टी नक्की तपासा",
+            "title": "‘Toxic’च्या इव्हेंटमध्ये मोठा अपघात! स्पीकर स्टँड कोसळला, ४ जण जखमी; यशने थांबवलं भाषण",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-24T09:00:00",
-            "url": "https://www.esakal.com/premium-article/car-buying-guide-things-to-check-before-buying-car-gss01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-22/7i79sros/WhatsApp-Image-2026-08-22-at-5.05.54-PM.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ad80e72e2aed",
-            "feed": "esakal",
-            "title": "Delhi Car Accident : स्विफ्ट कार दुभाजक ओलांडून दुसऱ्या इनोव्हाला धडकली; अपघातात दोन आमदारांसह ६ जण जखमी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T08:51:27",
-            "url": "https://www.esakal.com/desh/delhi-ito-car-accident-aap-mla-anil-jha-bjp-mla-abhay-patil-six-injured-lnjp-hospital-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/jzif1wl2/Delhi-car-accident.jpg",
+            "published": "2026-08-24T09:35:08",
+            "url": "https://www.esakal.com/premier/toxic-pre-release-event-accident-yash-speaker-stand-collapses-four-injured-student-leg-fracture-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/u248binl/TOXIC-PRE-RELEASE-EVENT-ACCIDENT",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "1c6405fd3a49",
-            "feed": "esakal",
-            "title": "Maharashtra Weather Update : बंगालच्या उपसागरातील कमी दाबाच्या क्षेत्राचा महाराष्ट्रावर परिणाम; पुणे-सातारासह पश्चिम महाराष्ट्रात ४ दिवस जोरदार पावसाची शक्यता",
+            "id": "a974a942676c",
+            "feed": "lokmat",
+            "title": "आई झाल्यानंतर तेजस्विनी लोणारीची भावुक पोस्ट; म्हणाली, \"आम्ही फक्त दोघंच होतो...\"",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T08:45:09",
-            "url": "https://www.esakal.com/desh/bay-of-bengal-low-pressure-may-intensify-rain-in-maharashtra-pune-satara-and-western-maharashtra-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/fsfikisy/sandeep-shirguppe-2026-08-24T084428.028.jpg",
+            "published": "2026-08-24T09:33:56",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/tejaswini-lonaris-emotional-post-after-becoming-a-mother-she-said-it-was-just-the-two-of-us-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tejaswini-lonari-post_2026081769179.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "8ac3cee4ca6b",
+            "feed": "lokmat",
+            "title": "भेंडीची भाजी चिकट होते? ४ टिप्स वापरा, हॉटेलसारखी चमचमीत, सुटसुटीत होईल भेंडीची भाजी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-24T09:30:02",
+            "url": "https://www.lokmat.com/sakhi/food/how-to-make-lady-finger-non-sticky-easy-cooking-tips-for-perfect-dish-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-23-at-11.51.30-am_2026081769137.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "c370bc2f870a",
+            "feed": "lokmat",
+            "title": "अमेरिका-इराण संघर्ष: होर्मुझ स्ट्रेटमधून तेलाची एक थेंबही जाऊ देणार नाही, इराणचा अमेरिकेला इशारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-24T09:11:13",
+            "url": "https://www.lokmat.com/international/us-iran-conflict-iran-warns-america-that-it-will-not-allow-even-a-drop-of-oil-to-pass-through-the-strait-of-hormuz-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-mojtba-hormuz_2026081769172.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "96e120ceb1f0",
             "feed": "lokmat",
@@ -228,25 +244,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-24/fp2jt0yq/Guinea-Landfill-Collapse.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "0adfb53f05c0",
-            "feed": "lokmat",
-            "title": "“कठीण काळात पंतप्रधान मोदी पाठीशी उभे राहिले, ट्रम्प विसरले नाहीत”; कुणी सांगितली खास आठवण?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-24T07:58:41",
-            "url": "https://www.lokmat.com/international/american-ambassador-in-india-sergio-gor-said-that-pm-narendra-modi-stood-by-us-in-difficult-times-donald-trump-did-not-forget-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-and-pm-modi_2026061726424.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "cc64ebf07c2e",
+            "feed": "esakal",
+            "title": "Hockey World Cup : भारत-अर्जेंटिनामध्ये आज लढत रंगणार; हरमनच्या सेनेचा दुसऱ्या फेरीतील अखेरचा सामना",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-24T10:02:24",
+            "url": "https://www.esakal.com/krida/hockey-world-cup-india-vs-argentina-clash-today-harmanpreets-team-faces-final-match-of-the-second-round-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/z16whjtz/Hockey-World-Cup",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8c5990764f25",
+            "feed": "maharashtratimes",
+            "title": "Shubman Gill : कडक ना भावा! अर्धशतक करूनही शुभमन गिलने रचला इतिहास, अशी कामगिरी करणाचा भारताचा पहिलाच कर्णधार",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-24T09:59:16",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-shubman-gill-first-captain-complete-1000-runs-in-10-test-matches-in-world-test-championship/articleshow/133450951.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "88f24550bb0c",
             "feed": "esakal",
@@ -262,88 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-23/agqbqi47/Rishabh-Pant-Sri-Lanka-vs-India-2nd-Test.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "844d834c9c67",
-            "feed": "maharashtratimes",
-            "title": "Ravindra Jadeja : नेमका काय विषय झाला! बॉल लागल्यावरही मैदान न सोडता खेळणारा रविंद्र जडेजा  असा कसा आऊट झाला? Video व्हायरल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-23T21:40:50",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-2nd-test-ravindra-jadeja-bowled-asitha-fernando-viral-video-on-social-media/articleshow/133442502.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4325af2466fb",
-            "feed": "maharashtratimes",
-            "title": "Imran Khan News : इम्रान खानसाठी गावसकर-कपिल देव यांच्यासह 21 माजी कर्णधार एकवटले; पाकिस्तानच्या पीएमना पाठवलं 3 मागण्यांचं पत्र, कारण काय?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-23T21:26:11",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/cricket-legends-unite-for-imran-khan-21-former-captains-write-to-pakistani-pm-including-kapil-dev-sunil-gavaskar-humanity/articleshow/133442159.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "e1ced72ec5f7",
+            "id": "5d221bff7f74",
             "feed": "lokmat",
-            "title": "Post Office मध्ये ५ वर्षांच्या FDवर किती मिळतंय व्याज? किती रुपयांपासून सुरू करू शकता गुंतवणूक",
+            "title": "Stock Market Today: आठवड्याची सकारात्मक सुरुवात, ३३ अंकांच्या तेजीसह उघडला शेअर बाजार; गुंतवणूकदारांना २५००० कोटींचा फायदा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-24T08:54:40",
-            "url": "https://www.lokmat.com/photos/business/how-much-interest-is-being-given-on-5-year-fd-in-post-office-from-how-much-rupees-can-you-start-investing-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/postofficescemee5_202208873626.png",
+            "published": "2026-08-24T09:52:07",
+            "url": "https://www.lokmat.com/business/stock-market/stock-market-today-24-august-2026-positive-start-to-the-week-stock-market-opened-with-a-gain-of-33-points-investors-benefit-from-rs-25000-crores-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-union-budget-2025_2025021388760.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "391cfb316400",
+            "id": "8407ca5c80b8",
             "feed": "lokmat",
-            "title": "यंदा परतीचा पाऊस किती ठरणार सार्थकी? वाचा काय सांगताहेत हवामान तज्ञ",
+            "title": "₹९००० कोटींपेक्षा अधिकचा फटका! Uber ला का लावला इतका मोठा दंड? जाणून घ्या संपूर्ण प्रकरण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-24T09:33:47",
+            "url": "https://www.lokmat.com/business/news/netherlands-deta-protection-authority-uber-fine-rs-9000-crore-why-fined-so-heavily-know-whats-matter-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/uber-car-accident-3_2025111581327.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "462b2fd570fd",
+            "feed": "lokmat",
+            "title": "यंदाचे कापूस उत्पादन ठरविणार कपड्यांच्या किमतींचे भवितव्य; सुताच्या दरात मोठी वाढ",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-24T08:39:36",
-            "url": "https://www.lokmat.com/agriculture/weather/how-significant-will-the-return-rains-be-this-year-read-what-weather-experts-are-saying-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-rain-monsoon_2026081769166.jpeg",
+            "published": "2026-08-24T09:23:03",
+            "url": "https://www.lokmat.com/agriculture/market-yard/this-years-cotton-production-will-determine-the-future-of-clothing-prices-big-increase-in-yarn-prices-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-r-34-cotton-spread-rate_2026081769168.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "a0be4780aad9",
-            "feed": "maharashtratimes",
-            "title": "एफडीपेक्षा जास्त अन् 100 टक्के परतावा देणारी RBI ची स्कीम; 1000 रुपयांपासून सुरू करून शून्य रिस्कमध्ये होईल Future Secure",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-24T08:37:49",
-            "url": "https://maharashtratimes.com/business/business-news/rbi-floating-rate-bonds-interest-rate-zero-risk-more-financial-benefit-than-fixed-deposit-rules-for-senior-citizens/articleshow/133449650.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
