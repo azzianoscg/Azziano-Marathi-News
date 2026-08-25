@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "25-08-2026 | 07:42 AM IST",
+    "lastUpdated": "25-08-2026 | 09:10 AM IST",
     "maharashtra": [
         {
-            "id": "29d67e605964",
-            "feed": "lokmat",
-            "title": "काळजाचा तुकडा विझला, यंत्रणेचे डोळे उघडणार का?",
+            "id": "9e43686f9266",
+            "feed": "esakal",
+            "title": "Sangli Highway Update : विटा-नागज महामार्गासाठी 95 कोटी मंजूर; कोकण-पश्चिम महाराष्ट्र कनेक्टिव्हिटीचा मार्ग मोकळा, गडकरींकडे खासदार पाटलांनी केला होता पाठपुरावा",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-25T07:37:55",
-            "url": "https://www.lokmat.com/amravati/a-piece-of-the-heart-has-been-extinguished-will-the-eyes-of-the-system-open-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fire-breaks-out-in-sncu-of-district-womens-hospital-in-amravati-s_2026081769848.jpg",
+            "published": "2026-08-25T09:06:46",
+            "url": "https://www.esakal.com/paschim-maharashtra/guhagar-vijapur-national-highway-vita-nagaj-road-95-crore-fund-administrative-approval-vishal-patil-sangli-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/syklg6qk/Guhagar-Vijapur-highway-latest-update",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "75bfbdd10649",
-            "feed": "lokmat",
-            "title": "भंडाऱ्यानंतरही धडा नाही: ‘फायर सेफ्टी’च्या उपाययोजना कुठे गेल्या?",
+            "id": "a11faa49e695",
+            "feed": "esakal",
+            "title": "Shaktipeeth Highway: सातबाऱ्यावर बोजा, आता जमिनीच्या मोजणीला विरोध; मायणीत शक्तिपीठ महामार्गाविरोधात शेतकरी एकवटले",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T07:35:00",
-            "url": "https://www.lokmat.com/maharashtra/no-lesson-learned-even-after-bhandara-where-have-the-fire-safety-measures-gone-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amravati-hospital-fire_2026081769847.jpg",
+            "published": "2026-08-25T09:04:49",
+            "url": "https://www.esakal.com/satara/farmers-oppose-shaktipeeth-highway-land-survey-in-mayani-over-land-burden-on-7-12-extract-and-fear-of-losing-farmland-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/1cwvvd19/sudhir-jadhav-satara-4.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b490c35d6bcd",
+            "id": "6c1e3742f651",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : 1 सप्टेंबरला मुंबईत धडकणार ओबीसी मोर्चा; नेत्यांकडून गावोगावी भेटी देत प्रचारसभा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-25T09:00:13",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-25-august-2026-election-commission-sir-india-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-weather-update-imd-cjp-shravan-obc-maratha-reservation-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c9c9035970d6",
             "feed": "maharashtratimes",
-            "title": "Nagpur Chlorine Gas Leak: क्लोरिन गळतीने गुदमरले गोधनी! जलशुद्धीकरण केंद्रातून पसरला विषारी वायू; 56 बाधित, 8 जण अतिदक्षता विभागात",
+            "title": "Amravati Fire : बाळ गेल्याचं आईला कुठल्या शब्दात सांगू? अमरावतीत अर्भकमृत्यू, बापाचा काळीज चिरणारा सवाल; आमचं लेकरु आहे तसं द्या, पोस्टमार्टम नको, कुटुंबांचा टाहो",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T07:31:44",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/chlorine-leak-suffocates-godhani-toxic-gas-spreads-from-water-purification-plant-56-resident-affected-8-in-icu/articleshow/133486525.cms",
+            "published": "2026-08-25T08:58:54",
+            "url": "https://maharashtratimes.com/maharashtra/amravati/amravati-district-hospital-nicu-fire-infants-death-father-cry-over-telling-mother/articleshow/133488952.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "8c60e8612036",
+            "id": "36ef42e3bb1c",
             "feed": "esakal",
-            "title": "SEO 서비스 · 주소 모음 · 링크 모음",
+            "title": "Chira Transport Rules: चिरा वाहतुकीला नियमांचे कुंपण घाला; भाजप आक्रमक; आंबवली-ताम्हाणे परिसरातील खाणींची चौकशी करा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-25T07:27:28",
-            "url": "https://www.esakal.com/blog/vasantrao-naik-was-chief-minister-maharashtra-eleven-consecutive-years-314978",
-            "image": "https://cf-images.assettype.com/esakal/2024-03/cc607f88-63dd-4c5e-9a1c-14b80df2daf8/5.jpg",
+            "published": "2026-08-25T08:57:58",
+            "url": "https://www.esakal.com/kokan/chira-transport-rules-ambavli-tamane-kosumb-mines-ratnagiri-bjp-demand-inspection-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/4c432h0g/Abhi-8.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "acafbc631935",
-            "feed": "esakal",
-            "title": "Devendra Fadnavis: महिला आरक्षण २०३४ पर्यंत ढकलण्याचा प्रयत्न; विरोधक महिलांना आरक्षणापासून रोखताहेत, मुख्यमंत्री फडणवीसांचा आरोप",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-25T07:26:47",
-            "url": "https://www.esakal.com/mumbai/devendra-fadnavis-accuses-opposition-of-delaying-women-reservation-until-2034-says-women-deserve-quota-by-2029-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-22/i59n4tzt/sudhir-jadhav-satara-6.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "6a7bcfee97b2",
+            "id": "f2c4a053a0a6",
             "feed": "esakal",
-            "title": "SEO 서비스 · 주소 모음 · 링크 모음 (Telegram:@BIBILZERODAY)",
+            "title": "Premium|Marathi Font: 'ळ' आणि 'ल' मधला फरक फक्त उच्चाराचा नाही; 'मुद्राक्षरविद्या' सांगते मराठी अक्षरांच्या रूपामागचं राजकारण!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-25T07:35:03",
-            "url": "https://www.esakal.com/lifestyle/seo-services-address-and-link-collection",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/4lpyor9x/banner.png",
+            "published": "2026-08-25T09:00:00",
+            "url": "https://www.esakal.com/premium-article/marathi-font-typography-devanagari-history-iit-bombay-girish-dalvi-book-skp29",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/euzo4u3n/Font.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "fd8628da83e2",
-            "feed": "esakal",
-            "title": "आरोग्याचे ‘बाळ’कडू : लहान मुले आणि ल्युकेमिया",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-25T07:18:00",
-            "url": "https://www.esakal.com/health/childhood-leukemia-symptoms-types-diagnosis-treatment-all-aml-cml-bone-marrow-chemotherapy-children-cancer-awareness-marathi-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/qon31e3l/Esakal-5.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "640cec4494c5",
+            "id": "edbc6c29da7a",
             "feed": "lokmat",
-            "title": "मासवण आश्रमशाळेतील ७ वर्षीय विद्यार्थ्याचा मृत्यू; १९ विद्यार्थी प्राथमिक आरोग्य केंद्रात",
+            "title": "मीड-डे मीलमध्ये भोपळ्याची भाजी खाल्ली अन् २७ विद्यार्थ्यांना अचानक चक्कर अन् उलट्या सुरू झाल्या! रुग्णालयात दाखल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-25T08:50:45",
+            "url": "https://www.lokmat.com/national/27-students-suddenly-started-feeling-dizzy-and-vomiting-after-eating-pumpkin-in-mid-day-meal-hospitalized-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mid-day-meal_2026081769859.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d2ac0d951f0e",
+            "feed": "lokmat",
+            "title": "स्वत:च्याच मृत्यूची खोटी बातमी, सिद्धार्थ जाधव भडकला; म्हणाला- \"एवढी कसली घाई आहे?\"",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-25T07:13:47",
-            "url": "https://www.lokmat.com/vasai-virar/7-year-old-student-of-masavan-ashram-school-dies-19-students-admitted-to-primary-health-center-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gstr_2026081769845.jpg",
+            "published": "2026-08-25T08:46:44",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/siddharth-jadhav-got-angry-after-hearing-fake-news-about-his-own-death-shared-post-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/siddharth-jadhav-death-news-1_2026081769857.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "21fdd8222510",
-            "feed": "lokmat",
-            "title": "मंगळागौर २०२६: अखंड सौभाग्य आणि सुखी संसारासाठी करा मंगळागौरीची पूजा; म्हणा ही पारंपरिक आरती!",
+            "id": "40b0a51de70f",
+            "feed": "maharashtratimes",
+            "title": "Delhi Rain: पावसाने दिल्लीची कोंडी! शहर, गुरुग्राममधील रस्ते जलमय; वाहतूक खोळंबल्याने प्रवाशांचे प्रचंड हाल",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-25T07:10:02",
-            "url": "https://www.lokmat.com/bhakti/mangalagaur-2026-worship-mangalagaur-for-everlasting-good-fortune-and-a-happy-life-recite-this-traditional-aarti-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mangalagauri-2026-arti_2026081769637.jpg",
+            "published": "2026-08-25T08:43:23",
+            "url": "https://maharashtratimes.com/india-news/heavy-rains-in-delhi-gurugram-roads-flooded-resident-suffers-due-to-traffic-disruption/articleshow/133487307.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "fd8ce226b138",
+            "id": "c8f4d419e514",
             "feed": "lokmat",
-            "title": "आजचे राशीभविष्य, २५ ऑगस्ट २०२६: सरकारकडून फायदा, कामे होतील; अचानक धनलाभ",
+            "title": "रक्षाबंधन २०२६: लुंबा राखी म्हणजे काय? भारतातील अनोखी परंपरा; प्रेम व्यक्त करायची हटके पद्धत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-25T07:08:15",
-            "url": "https://www.lokmat.com/astro/predictions/today-daily-horoscope-25-august-2026-know-what-your-rashi-says-rashi-bhavishya-in-marathi-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhavishya-tuesday_202208864666.jpg",
+            "published": "2026-08-25T08:41:21",
+            "url": "https://www.lokmat.com/bhakti/what-is-lumba-rakhi-a-unique-tradition-in-india-a-unique-way-to-express-love-in-raksha-bandhan-2026-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rba-6_2023081075641.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "a6a5d1d32a2a",
+            "feed": "lokmat",
+            "title": "'इराणने माझ्या मुलाची हत्या करण्याचा प्रयत्न केला'; बेंजामिन नेतन्याहू यांच्या आरोपाने खळबळ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-25T09:01:51",
+            "url": "https://www.lokmat.com/international/iran-tried-to-kill-my-son-benjamin-netanyahus-accusation-causes-a-stir-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-israel-netnyahu-son_2026081769863.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "069b00259bd6",
+            "feed": "lokmat",
+            "title": "इराणमध्ये १ डॉलरची किंमत २० लाख रियाल, राष्ट्रीय चलनाची विक्रमी घसरण; अमेरिकेकडून ‘इकॉनॉमिक डी डे’ निर्बंधांची तयारी सुरू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-25T08:52:37",
+            "url": "https://www.lokmat.com/international/1-dollar-costs-2-million-rials-in-iran-record-fall-in-national-currency-us-begins-preparations-for-economic-d-day-sanctions-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjfyukv_2026081769861.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "1ce3def308a1",
             "feed": "lokmat",
@@ -212,41 +244,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "b9af12c77a7b",
-            "feed": "lokmat",
-            "title": "परराष्ट्रमंत्री एस. जयशंकर यांनी घेतली पुतीन यांची भेट, दिला मोदींचा खास मेसेज, नेमकी काय चर्चा झाली? जाणून घ्या",
+            "id": "75499d84bac0",
+            "feed": "esakal",
+            "title": "IND vs AFG: भारत-अफगाणिस्तान ट्वेंटी-२० मालिकेसाठी यजमानांनी जाहीर केला संघ;  विराटशी भांडणारा खेळाडू संघात परतला...",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
             },
-            "published": "2026-08-24T19:20:03",
-            "url": "https://www.lokmat.com/international/external-affairs-minister-s-jaishankar-met-putin-gave-a-special-message-from-modi-what-exactly-was-discussed-find-out-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/s-jaishankar-vladimir-putin-2_2026081769795.jpg",
+            "published": "2026-08-25T08:42:29",
+            "url": "https://www.esakal.com/krida/cricket/afghanistan-announce-squad-for-t20i-series-against-india-naveen-ul-haq-returns-after-nearly-two-years-ibrahim-zadran-to-lead-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/9w5kc1tp/Afghanistan-squad-for-T20I-series-against-India",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "541c52ea66fd",
-            "feed": "lokmat",
-            "title": "३०० रूपये मजुरीने काम करणाऱ्याला मिळाली १५ लाखांच्या जॉबची ऑफर; आज सिंगापूरमध्ये करतोय Phd",
+            "id": "dd428f51ce3a",
+            "feed": "esakal",
+            "title": "IND vs SL 2nd Test: भन्नाट,भन्नाटssss! यशस्वी जैस्वालचा हा कॅप पाहाच, श्रीलंकेच्या ओपनरला झोप लागली नसेल Video Viral",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
             },
-            "published": "2026-08-24T19:17:54",
-            "url": "https://www.lokmat.com/inspirational-moral-stories/ramthulla-shaik-success-story-a-man-who-works-for-rs-300-got-a-job-offer-of-rs-15-lakhs-today-he-is-doing-his-phd-in-singapore-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramthulla-shaikh-story_2026081769793.jpg",
+            "published": "2026-08-25T08:02:13",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-sl-2nd-test-yashasvi-jaiswal-produces-a-sensational-catch-to-send-lahiru-udara-packing-video-goes-viral-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/lqm9d6xp/IND-VS-SL-2ND-TEST-YASHASVI-JAISWAL-TAKES-STUNNING-CATCH",
             "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "sports": [
+            "category_reason": "feed"
+        },
         {
             "id": "82daa78cb3a5",
             "feed": "maharashtratimes",
@@ -262,86 +294,54 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "dc08e7813af2",
-            "feed": "maharashtratimes",
-            "title": "Saina Nehwal : देशासाठी पदकं जिंकणाऱ्या सायना नेहवालला भाजप प्रवेशानंतर खुणावतंय आणखी एक मोठं स्वप्न; पुढचं पाऊल नेमकं काय? स्वत:च सांगितलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-24T22:41:29",
-            "url": "https://maharashtratimes.com/sports/badminton/saina-nehwal-joins-bjp-expresses-desire-to-contest-elections-in-politics/articleshow/133473678.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "47fc9a5a05db",
-            "feed": "maharashtratimes",
-            "title": "Dhruv Jurel tattoo : श्रीलंकेत मैदान गाजवल्यानंतर 'जय जवान जय किसान' सेलिब्रेशन, टॅटूमागची खरी कहाणी सांगताना ध्रुव काय म्हणाला?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-24T21:54:36",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/dhruv-jurels-century-and-jai-jawan-jai-kisan-celebration-spark-discussions-in-the-cricket-world/articleshow/133472973.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "408ba3122b08",
+            "id": "70ac016d68e5",
             "feed": "lokmat",
-            "title": "शेतकऱ्यांना मोठा दिलासा; गहू निर्यातबंदीला पूर्णविराम",
+            "title": "Wheat Market : गहू उत्पादकांसाठी मोठी खुशखबर; ४ वर्षांनंतर परदेशी बाजाराचे दरवाजे खुले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-25T09:05:22",
+            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-wheat-market-big-good-news-for-wheat-producers-doors-to-foreign-markets-open-after-4-years-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wheat-market-exp-1_2026081769865.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "54d38a8d8c77",
+            "feed": "lokmat",
+            "title": "सोनं, जमीन की शेअर बाजार; कुठे गुंतवताहेत भारतीय सर्वाधिक पैसा? बदलतोय विचार, तुमची इनव्हेस्टमेंट कुठे?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-25T06:33:34",
-            "url": "https://www.lokmat.com/business/news/big-relief-for-farmers-complete-end-to-wheat-export-ban-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-wheat-export_2026081769838.jpg",
+            "published": "2026-08-25T08:55:50",
+            "url": "https://www.lokmat.com/photos/business/gold-land-or-stock-market-where-are-indians-investing-the-most-money-changing-thinking-where-is-your-investment-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-investment-money-1_2026081769862.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3edcc85ae89d",
-            "feed": "lokmat",
-            "title": "जपानी मेंदूज्वरविरोधी लसीसाठी पुण्याच्या सिरम सोबत भागीदारी!",
+            "id": "4f23e485eb86",
+            "feed": "maharashtratimes",
+            "title": "EPFO Pension: फक्त 10 वर्षं नोकरी, तरी उतारवयात मिळणार पेन्शन; 15000 मूळ पगार असलेल्यांचं संपूर्ण गणित समजून घ्या",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-25T06:14:20",
-            "url": "https://www.lokmat.com/business/news/partnership-with-pune-based-serum-for-japanese-encephalitis-vaccine-a-a283-c653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/japanese-encephalitis-vaccine_2026081769836.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5b459ce3ff67",
-            "feed": "lokmat",
-            "title": "भारतात तयार करा आणि जगभरात विक्री करा! केंद्रीय मंत्री गोयल यांचे जपानी उद्योग समूहाला आवाहन; म्हणाले...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-25T05:59:31",
-            "url": "https://www.lokmat.com/business/news/make-in-india-and-sell-worldwide-union-minister-goyal-appeals-to-japanese-industry-groups-a-a283-c653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-japan-grw-piyush-goyal_2026081769834.jpg",
+            "published": "2026-08-25T08:31:54",
+            "url": "https://maharashtratimes.com/business/business-news/epfo-pension-calculation-on-11000-basic-salary-and-10-years-service-private-employees-should-know-details/articleshow/133487758.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
