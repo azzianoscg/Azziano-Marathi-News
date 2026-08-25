@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "25-08-2026 | 04:44 AM IST",
+    "lastUpdated": "25-08-2026 | 06:10 AM IST",
     "maharashtra": [
         {
             "id": "e1be3a18aef5",
@@ -84,82 +84,82 @@
     ],
     "india": [
         {
-            "id": "e880567da45a",
+            "id": "fc72bcfe3ea0",
             "feed": "esakal",
-            "title": "भारतासाठी ३३ व्या वर्षी पदार्पण! सारांश जैनचा विक्रम",
+            "title": "CM Matrubhumi Yojana: पूर्वजांच्या नावाने गावात विकासकाम उभारण्याची संधी; 'मुख्यमंत्री मातृभूमी योजने'त सरकार देणार ४०% निधी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-25T01:13:55",
-            "url": "https://www.esakal.com/ampstories/web-story/saransh-jain-makes-test-debut-at-33-oldest-indian-21st-century-ind-vs-sl-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/jt5n5cl2/Saransh-Jain-1.jpg",
+            "published": "2026-08-25T06:10:00",
+            "url": "https://www.esakal.com/desh/cm-matrubhumi-yojana-uttar-pradesh-village-development-donor-scheme",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-15/iok5shkn/CM-Matrubhumi-Yojana-uttar-pradesh.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "1c1d803f6be7",
+            "id": "1fdd2194da75",
+            "feed": "esakal",
+            "title": "जीवनमान-जीवनभान : ‘मला ब्रेक हवा आहे’",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-25T06:04:00",
+            "url": "https://www.esakal.com/health/mental-break-mental-fatigue-simplify-life-minimalism-yoga-aparigraha-stress-management-thoughts-expectations-social-media-digital-detox-lifestyle-coach-devyani-m-life-management-mental-peace-life-balance-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/y4s1y0w3/Esakal-2.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8dd09ff903ab",
             "feed": "maharashtratimes",
-            "title": "Aayush Bhide Interview: 'आई गेली तो पर्यंत तिला माहिती नव्हतं की, बाबा गेलेत', आयुष भिडेच्या आयुष्यातला तो कठीण दिवस, १४ दिवसांत आयुष्यच बदललं;  तुमच्याही डोळ्यात येईल पाणी",
+            "title": "एलियन्स, डार्क मॅटरचं टेन्शन वाढणार! NASA चा सर्वात खतरनाक 'डोळा' SpaceX च्या रॉकेटमध्ये फिट, अवकाशात होणार धमाका",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-24T23:46:12",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/aayush-bhide-share-hard-time-he-lost-parents-in-corona-second-wave/articleshow/133475413.cms",
+            "published": "2026-08-25T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/science-technology/nasa-powerful-roman-space-telescope-encapsulated-inside-spacex-falcon-heavy-rocket-for-historic-launch/articleshow/133478026.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "f1b7fa5bd4b4",
-            "feed": "lokmat",
-            "title": "अटकेतील महिला रुग्णालयात, पीडित भूखंडधारकांत रोष; पदाचा दुरुपयोग करून लाखोंचे भूखंड हडपले",
+            "id": "f7b1429729d5",
+            "feed": "maharashtratimes",
+            "title": "‘महाराष्ट्राची हास्यजत्रा’फेम शिवाली परबचा मराठमोळा लूक; पोज पाहून चाहते म्हणाले अजून दुसऱ्या मजल्यावरून फोटो काढा",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-24T23:17:30",
-            "url": "https://www.lokmat.com/crime/detained-woman-in-hospital-anger-among-victim-plot-holders-land-worth-lakhs-seized-by-misusing-position-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-5881_201901189749.jpg",
+            "published": "2026-08-25T05:30:00",
+            "url": "https://maharashtratimes.com/lifestyle-news/fashion/maharashtrachi-hasyajatra-fame-shivali-parab-pink-paithani-saree-photos/articleshow/133470481.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "02c5ce4f0b8d",
-            "feed": "esakal",
-            "title": "CNG-PNG महागणार? शेणापासून तयार होणाऱ्या CBG ची किंमत वाढली; ग्राहकांच्या खिशावर कसा परिणाम होणार?",
+            "id": "975909d41082",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 25 ऑगस्ट 2026 : या राशींसाठी दिवस ठरणार गेमचेंजर प्रॉपर्टी खरेदीचे योग बनणार ! पहा तुमचे राशिभविष्य काय सांगते ?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-24T22:21:44",
-            "url": "https://www.esakal.com/sakal-money/cng-png-prices-may-rise-cbg-price-hiked-40-know-how-it-could-hit-your-pocket-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/z3b7nu0e/How-New-CBG-Prices-Could-Affect-CNG-PNG-Rates.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "158a03393ae6",
-            "feed": "lokmat",
-            "title": "खासदार श्रीकांत शिंदे अन् राजू पाटलांची मैत्री...; मनसेच्या राजू पाटलांनी मनातलं सांगून टाकलं",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T22:10:50",
-            "url": "https://www.lokmat.com/kalyan-dombivli/friendship-between-mp-shrikant-shinde-and-raju-patil-mns-raju-patil-expressed-his-feelings-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raju-patil-mns-shrikant-shinde2_2026081769826.jpg",
+            "published": "2026-08-25T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-25-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/133471447.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "5b459ce3ff67",
+            "feed": "lokmat",
+            "title": "भारतात तयार करा आणि जगभरात विक्री करा! केंद्रीय मंत्री गोयल यांचे जपानी उद्योग समूहाला आवाहन; म्हणाले...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-25T05:59:31",
+            "url": "https://www.lokmat.com/business/news/make-in-india-and-sell-worldwide-union-minister-goyal-appeals-to-japanese-industry-groups-a-a283-c653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-japan-grw-piyush-goyal_2026081769834.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "03419944a620",
             "feed": "maharashtratimes",
             "title": "RBI च्या योजनेची कमाल! देशाच्या तिजोरीत अब्जो डॉलर्सने वाढ करणारी Forex Swap Facility आहे तरी काय? जाणून घ्या",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "c43d55dfff31",
-            "feed": "lokmat",
-            "title": "Shetkari Karjmafi : शेतकरी कर्जमाफीचा दुसरा हफ्ता आला, पहा विभागनिहाय पात्र शेतकऱ्यांची यादी, वाचा सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-24T20:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/shetkari-karjmafi-second-installment-of-farmer-loan-waiver-relesed-see-the-list-of-eligible-farmers-by-divison-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/karj-mafi-2_2026081769807.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
