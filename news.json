@@ -1,88 +1,120 @@
 {
-    "lastUpdated": "25-08-2026 | 10:52 PM IST",
+    "lastUpdated": "25-08-2026 | 11:54 PM IST",
     "maharashtra": [
         {
-            "id": "b4fcd8d85b63",
-            "feed": "lokmat",
-            "title": "बहिणीचा फोन बंद, घराला कुलूप, दरवाजा तोडून पाहताच ३० महिलेचा मृतदेह सापडला; पतीवर हत्येचा आरोप",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-25T22:40:02",
-            "url": "https://www.lokmat.com/crime/in-palghar-sister-phone-switched-off-house-locked-body-of-30-year-old-woman-found-after-breaking-down-door-husband-charged-with-murder-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/isi8383_2026081770640.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "9f357df41a1b",
+            "id": "914bf1f99fa1",
             "feed": "esakal",
-            "title": "Drunk Truck Driver: मद्यधुंद ट्रकचालकाची चालत्या वाहनातून उडी; चालकाविना ट्रक घरावर धडकला, मुलांची प्रसंगावधानाने सुटका",
+            "title": "Sugar Rate Hike : चहाच्या कपाला महागाईचा चटका; साखर, गॅससह दुधाचीही दरवाढ",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T22:38:15",
-            "url": "https://www.esakal.com/pune/shirur-pabal-road-speeding-truck-driver-jumps-from-moving-truck-iron-rods-accident-annapur-shirur-pune-truck-crashes-building-driver-arrested-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/1mmc5fwa/Esakal-33.jpg",
+            "published": "2026-08-25T23:50:15",
+            "url": "https://www.esakal.com/pune/tea-gets-costlier-as-inflation-bites-prices-of-sugar-lpg-gas-and-milk-rise-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/4m0pffbd/Tea-Rate-Increase",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "26879937be98",
+            "id": "6434068fd191",
             "feed": "esakal",
-            "title": "Tribal Students Protest: थेट मुख्यमंत्र्यांशी चर्चा होईपर्यंत आंदोलन तीव्रच; आदिवासी विद्यार्थ्यांचा अन्यायाविरोधात निर्धार",
+            "title": "Electricity Theft : बारामतीत वीजचोरांना महावितरणचा ‘करंट’; १७५९ जणांवर कारवाई, १२ लाख २७ हजार युनिटची चोरी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T22:30:14",
-            "url": "https://www.esakal.com/pune/manjari-pune-tribal-students-protest-hostel-age-limit-demands-chief-minister-direct-talk-fast-protest-13th-day-tribal-development-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/cmvqn1ov/Tribal-Students-Protest",
+            "published": "2026-08-25T23:39:13",
+            "url": "https://www.esakal.com/pune/msedcl-cracks-down-on-power-theft-in-baramati-action-against-1759-people-electricity-theft-totals-1227-million-units-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2025-01-09/id3jfxot/NashikNews20240629T012254907.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0d5f378291e3",
+            "id": "314b91994850",
             "feed": "esakal",
-            "title": "Pune Hooch Case: पुण्यातील विषारी गावठी दारू प्रकरणात आणखी दोघांना अटक; २१ मृत्यूंसाठी मकोका कारवाई, टोळीप्रमुखाचा शोध वेगाने",
+            "title": "Metro Project : खडकवासल्यात मेट्रो प्रकल्पाच्या हालचाली; अधिकाऱ्यांकडून पाहणी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T22:21:26",
-            "url": "https://www.esakal.com/pune/pune-toxic-country-liquor-case-two-more-arrested-21-deaths-mcoca-hadapsar-dapodi-methanol-gang-leader-datta-bhau-londhe-cid-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/223_76.jpg",
+            "published": "2026-08-25T23:32:19",
+            "url": "https://www.esakal.com/pune/metro-project-moves-forward-in-khadakwasla-officials-conduct-site-inspection-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/tuflitj7/Pune-Metro",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "64e7652fe837",
+            "id": "dd4e0282cc77",
             "feed": "esakal",
-            "title": "DJ Sound : तीव्र आवाजाच्या डीजेला बंदीच! पुणे पोलिसांची स्पष्ट भूमिका; नियमांचे उल्लंघन केल्यास थेट जप्ती",
+            "title": "Pune Crime : बेहिशेबी मालमत्ता जमविलेल्या तत्कालीन जीएसटी अधीक्षकाला सक्तमजुरी; गुन्ह्यात मदत केल्याने पत्नीही दोषी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T22:19:36",
-            "url": "https://www.esakal.com/pune/ban-on-loud-dj-music-continues-pune-police-clarify-stand-equipment-will-be-seized-for-rule-violations-ganeshotsav-dahihandi-festival-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2023-10/1e6c6248-2617-495d-a830-c316e277a11d/Legal_Consultant_Instagram_Post__1200_x_675_px___5_.jpg",
+            "published": "2026-08-25T22:57:36",
+            "url": "https://www.esakal.com/pune/former-gst-superintendent-sentenced-to-rigorous-imprisonment-for-amassing-disproportionate-assets-wife-also-convicted-for-aiding-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-01-31/3zo80ddd/court",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "903fb8476eb8",
+            "feed": "maharashtratimes",
+            "title": "Water Shortage : मराठवाड्यात भीषण पाणीसंकट! तहानलेल्या गावांसह टँकरच्या संख्येत वाढ, ४७७ विहिरी अधिग्रहित",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-25T22:57:36",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/severe-water-crisis-in-marathwada-477-wells-acquired-181-tankers-supply-water-to-villages/articleshow/133520425.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "6a49dbfb31b2",
+            "feed": "esakal",
+            "title": "इंग्लंडकडून खेळलेला भारतीय राजपुत्र: दुलीपसिंह",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-25T23:29:51",
+            "url": "https://www.esakal.com/ampstories/web-story/duleep-singh-prince-who-conquered-english-cricket-story-behind-bccis-duleep-trophy-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/qtibj9id/DuleepSinghji-9.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "871d9465f453",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 26 August 2026: बुध पूजन, गजकेसरी योग, बुधादित्य योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-25T23:27:26",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-26-august-2026-in-marathi-gajkesari-yog-budhaditya-yog-and-shubha-muhurta/articleshow/133518365.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "3988dcc4e506",
             "feed": "esakal",
@@ -130,41 +162,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-25/q9flymzz/Masala-Bhendi-recipe-9.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "6f7a5b58881a",
-            "feed": "maharashtratimes",
-            "title": "मोदी सरकारचे 2 महत्त्वाचे निर्णय, साखरेच्या दरात मोठी घट; सर्वसामान्य ग्राहकांना मोठा दिलासा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-25T21:59:54",
-            "url": "https://maharashtratimes.com/india-news/sugar-ex-mill-prices-down-by-18-percent-to-rs-55-per-kilogram-after-import-move-curbs-on-hoarding/articleshow/133518517.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e3d043804635",
-            "feed": "esakal",
-            "title": "खोबरेल तेल केसांवर लावताय? वापरण्याआधी 'हे' वाचा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-25T21:46:33",
-            "url": "https://www.esakal.com/ampstories/web-story/8-benefits-of-coconut-oil-for-hair-you-should-know-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/mbnzc19u/Best-hair-oil-for-hair-growth.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "8bce23fe0d40",
+            "feed": "lokmat",
+            "title": "कॅनडाचा करारा जबाब! ट्रम्प यांच्या धमकीनंतर उचललं मोठं पाऊल; व्यापार युद्ध पेटणार?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-25T23:32:53",
+            "url": "https://www.lokmat.com/international/canada-target-us-big-step-taken-after-donald-trump-threat-tarriff-will-a-trade-war-break-out-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trump-canda-vs-us_2026081770641.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "6b2b60221b36",
             "feed": "lokmat",
@@ -228,22 +244,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-23/bcjnpz67/Abhi-94.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "1e835f9b1fc2",
-            "feed": "maharashtratimes",
-            "title": "Mojtaba Khamenei Video : इराणचे सुप्रीम लीडर जिवंत आहेत! सरकारने मुज्तबा खामेनींचा व्हिडिओ पोस्ट करून केला दावा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-25T17:23:31",
-            "url": "https://maharashtratimes.com/international/international-news/mojtaba-khamenei-new-video-posted-by-government-amid-health-concerns-claimed-he-is-alive/articleshow/133507225.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
