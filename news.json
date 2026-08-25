@@ -1,165 +1,165 @@
 {
-    "lastUpdated": "25-08-2026 | 06:10 AM IST",
+    "lastUpdated": "25-08-2026 | 07:42 AM IST",
     "maharashtra": [
         {
-            "id": "e1be3a18aef5",
-            "feed": "esakal",
-            "title": "पावसाळ्यातही सोलापूर जिल्ह्यात ३२ टँकर! ‘या’ ४६ गावांमधील ७० हजार नागरिकांना व ४६ हजार जनावरांना पाणीपुरवठा, वाचा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T23:59:00",
-            "url": "https://www.esakal.com/maharashtra/32-tankers-deployed-in-solapur-district-even-during-the-monsoon-water-being-supplied-to-70000-residents-and-46000-animals-across-these-46-villagesread-on",
-            "image": "https://cf-images.assettype.com/esakal/2021-10/335c73d3-3fec-4b61-9923-9b3d77ad0cba/water_696x447.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e9ce35c4c8ad",
-            "feed": "esakal",
-            "title": "३३१ 'सीसीटीव्ही'च्या देखभालीसाठी दरमहा १० लाखांचा खर्च! सोलापूर महापालिकेकडे थकले ९० लाख रुपये, कर्मचाऱ्यांचेही वेतन थांबले, वाचा...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-24T23:48:44",
-            "url": "https://www.esakal.com/maharashtra/monthly-cost-of-10-lakh-for-cctv-maintenance-solapur-municipal-corporation-has-outstanding-dues-of-90-lakh-employees-salaries-also-haltedread-more",
-            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/318683780_RxU2aUhrUZufOUzFHIueFJGHxiX2gol63uy2gNs1YmQ_20_20Copy_2.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "37017a3cf16c",
+            "id": "29d67e605964",
             "feed": "lokmat",
-            "title": "राहुल गांधी यांचं CM देवेंद्र फडणवीसांना पत्र; आदिवासी विद्यार्थ्यांच्या मागण्यांकडे वेधले लक्ष",
+            "title": "काळजाचा तुकडा विझला, यंत्रणेचे डोळे उघडणार का?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-25T07:37:55",
+            "url": "https://www.lokmat.com/amravati/a-piece-of-the-heart-has-been-extinguished-will-the-eyes-of-the-system-open-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fire-breaks-out-in-sncu-of-district-womens-hospital-in-amravati-s_2026081769848.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "75bfbdd10649",
+            "feed": "lokmat",
+            "title": "भंडाऱ्यानंतरही धडा नाही: ‘फायर सेफ्टी’च्या उपाययोजना कुठे गेल्या?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-24T23:35:09",
-            "url": "https://www.lokmat.com/maharashtra/rahul-gandhi-letter-to-cm-devendra-fadnavis-draws-attention-to-the-demands-of-tribal-students-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fadnavis-devsndra-rahul-gandhi1_2026081769832.jpg",
+            "published": "2026-08-25T07:35:00",
+            "url": "https://www.lokmat.com/maharashtra/no-lesson-learned-even-after-bhandara-where-have-the-fire-safety-measures-gone-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amravati-hospital-fire_2026081769847.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "904a34da9cbb",
+            "id": "b490c35d6bcd",
+            "feed": "maharashtratimes",
+            "title": "Nagpur Chlorine Gas Leak: क्लोरिन गळतीने गुदमरले गोधनी! जलशुद्धीकरण केंद्रातून पसरला विषारी वायू; 56 बाधित, 8 जण अतिदक्षता विभागात",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-25T07:31:44",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/chlorine-leak-suffocates-godhani-toxic-gas-spreads-from-water-purification-plant-56-resident-affected-8-in-icu/articleshow/133486525.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8c60e8612036",
             "feed": "esakal",
-            "title": "Shikrapur Crime: एमआयडीसीतील दादागिरीला ‘ब्रेक’; शिक्रापूरच्या अट्टल गुन्हेगारावर MPDA, अकोला कारागृहात रवानगी",
+            "title": "SEO 서비스 · 주소 모음 · 링크 모음",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-25T07:27:28",
+            "url": "https://www.esakal.com/blog/vasantrao-naik-was-chief-minister-maharashtra-eleven-consecutive-years-314978",
+            "image": "https://cf-images.assettype.com/esakal/2024-03/cc607f88-63dd-4c5e-9a1c-14b80df2daf8/5.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "acafbc631935",
+            "feed": "esakal",
+            "title": "Devendra Fadnavis: महिला आरक्षण २०३४ पर्यंत ढकलण्याचा प्रयत्न; विरोधक महिलांना आरक्षणापासून रोखताहेत, मुख्यमंत्री फडणवीसांचा आरोप",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-24T23:06:55",
-            "url": "https://www.esakal.com/pune/shikrapur-midc-gangster-booked-under-mpda-act-sent-to-akola-jail-after-police-action-against-repeated-serious-crimes-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/txlqi3yp/sudhir-jadhav-satara-19.jpg",
+            "published": "2026-08-25T07:26:47",
+            "url": "https://www.esakal.com/mumbai/devendra-fadnavis-accuses-opposition-of-delaying-women-reservation-until-2034-says-women-deserve-quota-by-2029-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/i59n4tzt/sudhir-jadhav-satara-6.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "f3f7c8bc7e22",
-            "feed": "esakal",
-            "title": "Maratha Reservation: मनोज जरांगेंची सरकारला डेडलाइन; मागण्या मान्य न झाल्यास २९ ऑगस्टपासून अंतरवालीत उपोषण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-24T22:48:30",
-            "url": "https://www.esakal.com/marathwada/manoj-jarange-gives-maharashtra-government-deadline-until-august-28-warns-of-hunger-strike-from-august-29-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/5nkgdgas/sudhir-jadhav-satara-18.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "fc72bcfe3ea0",
+            "id": "6a7bcfee97b2",
             "feed": "esakal",
-            "title": "CM Matrubhumi Yojana: पूर्वजांच्या नावाने गावात विकासकाम उभारण्याची संधी; 'मुख्यमंत्री मातृभूमी योजने'त सरकार देणार ४०% निधी",
+            "title": "SEO 서비스 · 주소 모음 · 링크 모음 (Telegram:@BIBILZERODAY)",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-25T06:10:00",
-            "url": "https://www.esakal.com/desh/cm-matrubhumi-yojana-uttar-pradesh-village-development-donor-scheme",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-15/iok5shkn/CM-Matrubhumi-Yojana-uttar-pradesh.jpg",
+            "published": "2026-08-25T07:35:03",
+            "url": "https://www.esakal.com/lifestyle/seo-services-address-and-link-collection",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/4lpyor9x/banner.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "fd8628da83e2",
+            "feed": "esakal",
+            "title": "आरोग्याचे ‘बाळ’कडू : लहान मुले आणि ल्युकेमिया",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-25T07:18:00",
+            "url": "https://www.esakal.com/health/childhood-leukemia-symptoms-types-diagnosis-treatment-all-aml-cml-bone-marrow-chemotherapy-children-cancer-awareness-marathi-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-24/qon31e3l/Esakal-5.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "640cec4494c5",
+            "feed": "lokmat",
+            "title": "मासवण आश्रमशाळेतील ७ वर्षीय विद्यार्थ्याचा मृत्यू; १९ विद्यार्थी प्राथमिक आरोग्य केंद्रात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-25T07:13:47",
+            "url": "https://www.lokmat.com/vasai-virar/7-year-old-student-of-masavan-ashram-school-dies-19-students-admitted-to-primary-health-center-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gstr_2026081769845.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "21fdd8222510",
+            "feed": "lokmat",
+            "title": "मंगळागौर २०२६: अखंड सौभाग्य आणि सुखी संसारासाठी करा मंगळागौरीची पूजा; म्हणा ही पारंपरिक आरती!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-25T07:10:02",
+            "url": "https://www.lokmat.com/bhakti/mangalagaur-2026-worship-mangalagaur-for-everlasting-good-fortune-and-a-happy-life-recite-this-traditional-aarti-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mangalagauri-2026-arti_2026081769637.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "1fdd2194da75",
-            "feed": "esakal",
-            "title": "जीवनमान-जीवनभान : ‘मला ब्रेक हवा आहे’",
+            "id": "fd8ce226b138",
+            "feed": "lokmat",
+            "title": "आजचे राशीभविष्य, २५ ऑगस्ट २०२६: सरकारकडून फायदा, कामे होतील; अचानक धनलाभ",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-25T06:04:00",
-            "url": "https://www.esakal.com/health/mental-break-mental-fatigue-simplify-life-minimalism-yoga-aparigraha-stress-management-thoughts-expectations-social-media-digital-detox-lifestyle-coach-devyani-m-life-management-mental-peace-life-balance-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-24/y4s1y0w3/Esakal-2.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8dd09ff903ab",
-            "feed": "maharashtratimes",
-            "title": "एलियन्स, डार्क मॅटरचं टेन्शन वाढणार! NASA चा सर्वात खतरनाक 'डोळा' SpaceX च्या रॉकेटमध्ये फिट, अवकाशात होणार धमाका",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-25T06:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/science-technology/nasa-powerful-roman-space-telescope-encapsulated-inside-spacex-falcon-heavy-rocket-for-historic-launch/articleshow/133478026.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "f7b1429729d5",
-            "feed": "maharashtratimes",
-            "title": "‘महाराष्ट्राची हास्यजत्रा’फेम शिवाली परबचा मराठमोळा लूक; पोज पाहून चाहते म्हणाले अजून दुसऱ्या मजल्यावरून फोटो काढा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-25T05:30:00",
-            "url": "https://maharashtratimes.com/lifestyle-news/fashion/maharashtrachi-hasyajatra-fame-shivali-parab-pink-paithani-saree-photos/articleshow/133470481.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "975909d41082",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 25 ऑगस्ट 2026 : या राशींसाठी दिवस ठरणार गेमचेंजर प्रॉपर्टी खरेदीचे योग बनणार ! पहा तुमचे राशिभविष्य काय सांगते ?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-25T05:00:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-25-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/133471447.cms",
-            "image": "",
+            "published": "2026-08-25T07:08:15",
+            "url": "https://www.lokmat.com/astro/predictions/today-daily-horoscope-25-august-2026-know-what-your-rashi-says-rashi-bhavishya-in-marathi-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhavishya-tuesday_202208864666.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -298,6 +298,38 @@
     ],
     "business": [
         {
+            "id": "408ba3122b08",
+            "feed": "lokmat",
+            "title": "शेतकऱ्यांना मोठा दिलासा; गहू निर्यातबंदीला पूर्णविराम",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-25T06:33:34",
+            "url": "https://www.lokmat.com/business/news/big-relief-for-farmers-complete-end-to-wheat-export-ban-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-wheat-export_2026081769838.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3edcc85ae89d",
+            "feed": "lokmat",
+            "title": "जपानी मेंदूज्वरविरोधी लसीसाठी पुण्याच्या सिरम सोबत भागीदारी!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-08-25T06:14:20",
+            "url": "https://www.lokmat.com/business/news/partnership-with-pune-based-serum-for-japanese-encephalitis-vaccine-a-a283-c653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/japanese-encephalitis-vaccine_2026081769836.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "5b459ce3ff67",
             "feed": "lokmat",
             "title": "भारतात तयार करा आणि जगभरात विक्री करा! केंद्रीय मंत्री गोयल यांचे जपानी उद्योग समूहाला आवाहन; म्हणाले...",
@@ -310,38 +342,6 @@
             "published": "2026-08-25T05:59:31",
             "url": "https://www.lokmat.com/business/news/make-in-india-and-sell-worldwide-union-minister-goyal-appeals-to-japanese-industry-groups-a-a283-c653/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-japan-grw-piyush-goyal_2026081769834.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "03419944a620",
-            "feed": "maharashtratimes",
-            "title": "RBI च्या योजनेची कमाल! देशाच्या तिजोरीत अब्जो डॉलर्सने वाढ करणारी Forex Swap Facility आहे तरी काय? जाणून घ्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-24T21:54:15",
-            "url": "https://maharashtratimes.com/business/business-news/rbi-forex-swap-facility-know-the-meaning-and-how-it-works/articleshow/133473162.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "50f92cd76786",
-            "feed": "maharashtratimes",
-            "title": "आधी इथेनॉल, मग कमी उत्पादन, आता नवे कारण समोर; देशातली प्रमुख साखर उद्योग संस्था स्पष्टच म्हणाली",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-24T20:46:14",
-            "url": "https://maharashtratimes.com/business/business-news/sugar-price-hike-reason-panic-buying-given-by-isma/articleshow/133471804.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
