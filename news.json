@@ -1,88 +1,152 @@
 {
-    "lastUpdated": "25-08-2026 | 09:54 PM IST",
+    "lastUpdated": "25-08-2026 | 10:52 PM IST",
     "maharashtra": [
         {
-            "id": "473a72deac4a",
+            "id": "b4fcd8d85b63",
+            "feed": "lokmat",
+            "title": "बहिणीचा फोन बंद, घराला कुलूप, दरवाजा तोडून पाहताच ३० महिलेचा मृतदेह सापडला; पतीवर हत्येचा आरोप",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-25T22:40:02",
+            "url": "https://www.lokmat.com/crime/in-palghar-sister-phone-switched-off-house-locked-body-of-30-year-old-woman-found-after-breaking-down-door-husband-charged-with-murder-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/isi8383_2026081770640.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "9f357df41a1b",
             "feed": "esakal",
-            "title": "Pune Crime : अल्पवयीन नातीवर लैंगिक अत्याचार; आजोबाला जन्मठेप",
+            "title": "Drunk Truck Driver: मद्यधुंद ट्रकचालकाची चालत्या वाहनातून उडी; चालकाविना ट्रक घरावर धडकला, मुलांची प्रसंगावधानाने सुटका",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T21:11:08",
-            "url": "https://www.esakal.com/pune/assault-of-minor-granddaughter-grandfather-sentenced-to-life-imprisonment-crime-court-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/my1xaw2o/Court",
+            "published": "2026-08-25T22:38:15",
+            "url": "https://www.esakal.com/pune/shirur-pabal-road-speeding-truck-driver-jumps-from-moving-truck-iron-rods-accident-annapur-shirur-pune-truck-crashes-building-driver-arrested-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/1mmc5fwa/Esakal-33.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6c1e3742f651",
+            "id": "26879937be98",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : एका व्यावसायिक इमारतीत आग",
+            "title": "Tribal Students Protest: थेट मुख्यमंत्र्यांशी चर्चा होईपर्यंत आंदोलन तीव्रच; आदिवासी विद्यार्थ्यांचा अन्यायाविरोधात निर्धार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T21:10:01",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-25-august-2026-election-commission-sir-india-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-weather-update-imd-cjp-shravan-obc-maratha-reservation-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-08-25T22:30:14",
+            "url": "https://www.esakal.com/pune/manjari-pune-tribal-students-protest-hostel-age-limit-demands-chief-minister-direct-talk-fast-protest-13th-day-tribal-development-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/cmvqn1ov/Tribal-Students-Protest",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "76b374c0538b",
+            "id": "0d5f378291e3",
             "feed": "esakal",
-            "title": "Mumbai Metro Viral News: मुंबई मेट्रोत मांजरीला लागली 'नोकरी'! MMMOCL ने दिलं Chief Feline Officer पद, ड्युटीही ठरवली",
+            "title": "Pune Hooch Case: पुण्यातील विषारी गावठी दारू प्रकरणात आणखी दोघांना अटक; २१ मृत्यूंसाठी मकोका कारवाई, टोळीप्रमुखाचा शोध वेगाने",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T21:01:39",
-            "url": "https://www.esakal.com/mumbai/mumbai-metro-viral-cat-gets-official-job-mmmocl-names-it-chief-feline-officer-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/tbg0igyj/Mumbai-Metro-Gives-Its-Viral-Cat-a-Special-‘Officer’-Post.jpg",
+            "published": "2026-08-25T22:21:26",
+            "url": "https://www.esakal.com/pune/pune-toxic-country-liquor-case-two-more-arrested-21-deaths-mcoca-hadapsar-dapodi-methanol-gang-leader-datta-bhau-londhe-cid-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/223_76.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "cdc2e3a4e72a",
-            "feed": "maharashtratimes",
-            "title": "Dada Bhuse | अभिजीत दिपकेंचं शाळांच्या दुरावस्थेवरून आंदोलन, सरकारला धसका? भुसे काय म्हणाले?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-25T20:35:52",
-            "url": "https://maharashtratimes.com/maharashtra/nashik/dada-bhuse-on-dipke-protest-against-school/videoshow/133516386.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a27d10eff227",
+            "id": "64e7652fe837",
             "feed": "esakal",
-            "title": "Hospital Fire Audit : आरोग्य विभागाचे वरातीमागून घोडे; अमरावती दुर्घटनेनंतर राज्यातील रुग्णालयांचे फायर ऑडिट",
+            "title": "DJ Sound : तीव्र आवाजाच्या डीजेला बंदीच! पुणे पोलिसांची स्पष्ट भूमिका; नियमांचे उल्लंघन केल्यास थेट जप्ती",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T20:35:44",
-            "url": "https://www.esakal.com/pune/health-department-acts-after-the-incident-fire-audits-ordered-for-hospitals-across-maharashtra-following-amravati-tragedy-prakash-abitkar-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/39547h7d/minister-prakash-abitkar",
+            "published": "2026-08-25T22:19:36",
+            "url": "https://www.esakal.com/pune/ban-on-loud-dj-music-continues-pune-police-clarify-stand-equipment-will-be-seized-for-rule-violations-ganeshotsav-dahihandi-festival-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2023-10/1e6c6248-2617-495d-a830-c316e277a11d/Legal_Consultant_Instagram_Post__1200_x_675_px___5_.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "3988dcc4e506",
+            "feed": "esakal",
+            "title": "हर्नियाची ‘ही’ लक्षणं दिसताच सावध व्हा! दुर्लक्ष करणं पडू शकतं महागात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-25T22:36:16",
+            "url": "https://www.esakal.com/ampstories/web-story/dont-ignore-these-warning-signs-of-hernia-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/25x4zm4l/Hernia-Symptoms-9.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c747bfe323dd",
+            "feed": "esakal",
+            "title": "Airport: विमानतळांच्या खासगीकरणात सरकारचा नवा नियम! एका कंपनीला मर्यादित एअरपोर्टच मिळणार; बिडिंग कॅप लागू होणार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-25T22:27:45",
+            "url": "https://www.esakal.com/desh/india-plans-to-privatise-11-airports-but-one-company-wont-get-them-all-vru98",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/u55253nk/11-AAI-Airports-Up-for-Privatisation-Government-Moves-to-Prevent-Private-Monopoly.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7fcf6ec57a65",
+            "feed": "esakal",
+            "title": "कुरकुरीत आणि मोकळी भेंडी हवी? स्वयंपाक करताना या टिप्स वापरा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-25T22:12:32",
+            "url": "https://www.esakal.com/ampstories/web-story/4-simple-tips-for-perfect-non-slimy-okra-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/q9flymzz/Masala-Bhendi-recipe-9.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6f7a5b58881a",
+            "feed": "maharashtratimes",
+            "title": "मोदी सरकारचे 2 महत्त्वाचे निर्णय, साखरेच्या दरात मोठी घट; सर्वसामान्य ग्राहकांना मोठा दिलासा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-25T21:59:54",
+            "url": "https://maharashtratimes.com/india-news/sugar-ex-mill-prices-down-by-18-percent-to-rs-55-per-kilogram-after-import-move-curbs-on-hoarding/articleshow/133518517.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "e3d043804635",
             "feed": "esakal",
@@ -98,73 +162,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-25/mbnzc19u/Best-hair-oil-for-hair-growth.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "aa29e9b50476",
-            "feed": "maharashtratimes",
-            "title": "Kuku Kohli :  अरुणा इराणी यांचे पती दिग्दर्शक कुकू कोहली यांचं निधन, वयाच्या 77व्या वर्षी घेतला जगाचा निरोप",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-25T21:42:30",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/aruna-irani-husband-and-director-kuku-kohli-passes-away-at-age-of-77/articleshow/133518016.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1eac51aac89f",
-            "feed": "esakal",
-            "title": "Tamil Nadu TET Exemption : शिक्षकांना मोठा दिलासा! TET मधून सुटका होणार? विजय सरकारचा मोठा निर्णय",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-25T21:42:29",
-            "url": "https://www.esakal.com/desh/tamil-nadu-tet-exemption-pre-2010-teachers-supreme-court-tet-rules-2026-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/emrcuu7s/Marathi-News-2.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "6a1995227b64",
+            "id": "6b2b60221b36",
             "feed": "lokmat",
-            "title": "टीम भाजपानंतर आता केंद्रीय कॅबिनेटमध्ये होणार फेरबदल; १२ रिक्त जागांवर येणार नवे चेहरे?",
+            "title": "ऐन युक्रेन युद्धातच अमेरिकेचे लढाऊ विमान C-17 रशियात दाखल; कुणालाच थांगपत्ता नाही, चाललंय काय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": "world"
             },
-            "published": "2026-08-25T21:20:31",
-            "url": "https://www.lokmat.com/national/after-team-bjp-there-will-be-a-reshuffle-in-the-central-cabinet-new-faces-will-come-in-12-vacant-positions-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cabinet-reshuffle_2026081770636.jpg",
+            "published": "2026-08-25T22:15:05",
+            "url": "https://www.lokmat.com/international/russia-ukraine-war-us-c-17-military-aircraft-suddenly-arrives-in-moscow-cia-chief-john-ratcliffe-arrives-in-moscow-on-a-secret-trip-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-c-17-plane-in-russia-1_2026081770638.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
-        {
-            "id": "bc4fd8bfd817",
-            "feed": "maharashtratimes",
-            "title": "राज्यात टॉपर, CM कडून सन्मान; पण चाणाक्ष शेजाऱ्यामुळे पदव्या रद्द, 1 लाखाचं बक्षीसही जप्त होणार",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-25T21:19:31",
-            "url": "https://maharashtratimes.com/india-news/up-action-against-sanskrit-board-12th-class-topper-rajnish-yadav-degree-cancelled/articleshow/133517165.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "world": [
         {
             "id": "dde6f8db2137",
             "feed": "lokmat",
@@ -228,25 +244,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "1150d657641d",
+            "id": "77209e2b64ae",
             "feed": "maharashtratimes",
-            "title": "भारतीयांना अमेरिकेत नोकरी करणं आणखी महाग, आता एका जॉबसाठी कंपन्यांनाच 1,03,265 डॉलर मोजावे लागतील",
+            "title": "Vaibhav Sooryavashi Jersey Number :  जर्सीवर 'नंबर 3' दिसण्यासाठी वैभव सूर्यवंशीचं एवढं भारी जुगाड! कारणही खास आहे, नेमकं काय?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "world"
+                "category": "sports"
             },
-            "published": "2026-08-25T16:32:35",
-            "url": "https://maharashtratimes.com/international/international-news/h-1b-visa-new-rule-about-application-fee-per-employee-will-be-103265-dollars/articleshow/133505633.cms",
+            "published": "2026-08-25T22:44:11",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/duleep-trophy-2026-vaibhav-sooryavanshi-jersey-tape-number-3-secret-mother-connection/articleshow/133519354.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "sports": [
+        },
+        {
+            "id": "5ceb7d410aa8",
+            "feed": "esakal",
+            "title": "Video: Ruturaj Gaikwad ची १० वर्षांची तपश्चर्या भंगली! धाव घेताना गोंधळ उडाला अन् जे कधीही घडलं नव्हतं, ते घडलं",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-25T22:02:36",
+            "url": "https://www.esakal.com/krida/cricket/ruturaj-gaikwad-run-out-first-time-first-class-career-during-duleep-trophy-2026-quarterfinal-against-north-zone-video-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/zhifryke/Ruturaj-Gaikwad-Runout.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "37ef16eeccb0",
             "feed": "maharashtratimes",
@@ -262,41 +294,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "0dda42bd1fa8",
-            "feed": "esakal",
-            "title": "IND vs SL: 'तू वेळ वाया घाववतोय ब्रो...', सर्फराज खानची श्रीलंकन कर्णधाराला स्लेजिंग, Video होतोय Viral",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-25T20:14:49",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-sri-lanka-2nd-test-sarfaraz-khan-stump-mic-sledging-unsettles-dhananjaya-de-silva-in-colombo-viral-video-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/d6pic6oo/Sarfaraz-Khan’s-Stump-Mic-Sledging-Sri-Lanka-vs-India-2nd-Test.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "84cae208fadd",
-            "feed": "lokmat",
-            "title": "IND vs SL: भारताविरुद्ध सलग तीन डावांत ८०+ धावा, गॉल कसोटीत सोनल दिनुषाचा मोठा पराक्रम!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-25T20:12:26",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-80-runs-in-three-consecutive-innings-against-india-sonal-dinushas-great-feat-in-the-galle-test-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-25-at-8.03.46-pm_2026081770617.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "a193f85d7f39",
+            "feed": "maharashtratimes",
+            "title": "Success Story : 300 रुपयांतून केली सुरुवात, आज 7 हजार कोटींचं साम्राज्य; Bector यांचा व्यवसाय विस्ताराचा फॉर्म्युला काय?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-08-25T22:01:08",
+            "url": "https://maharashtratimes.com/business/business-news/rajni-bector-founder-of-mrs-bectors-food-specialities-limited-success-story/articleshow/133515778.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "fa9b6c84ff47",
             "feed": "lokmat",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "679b3f7afe65",
-            "feed": "lokmat",
-            "title": "Nuksan Bharpai : जून 2025 ते ऑक्टोबर 2025 ची नुकसान भरपाई आली, या जिल्ह्यांना मिळणार लाभ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-25T19:35:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/nuksan-bharpai-compensation-for-losses-from-june-2025-to-october-2025-has-arrived-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/badhit-shet_2026081770465.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
