@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "25-08-2026 | 10:53 AM IST",
+    "lastUpdated": "25-08-2026 | 11:58 AM IST",
     "maharashtra": [
         {
-            "id": "6c1e3742f651",
+            "id": "8910ff2f3eb3",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : पुणेकरांसाठी खुशखबर! म्हाडाच्या ४,४६२ घरांची सोडत जाहीर; १३ लाखांपासून घरांच्या किंमती",
+            "title": "Ramdas Athawale: ‘विठ्ठल लंघेंच्या नेतृत्वाला RPIची भक्कम साथ’; रामदास आठवले यांची नेवासेच्या विकासासाठी ग्वाही",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-25T11:56:53",
+            "url": "https://www.esakal.com/ahmednagar/ramdas-athawale-backs-vitthal-langhe-as-rpi-supports-his-leadership-for-development-of-nevasa-constituency-in-maharashtra-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/lla1pwrf/sudhir-jadhav-satara-11.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7c68a1a91da8",
+            "feed": "esakal",
+            "title": "Kolhapur Farmer Loan Waiver : शेतकरी कर्जमुक्तीचा दुसरा टप्पा सुरू! 37.65 कोटींचा निधी मंजूर, खात्यावर कधी जमा होणार पैसे?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T10:51:33",
+            "published": "2026-08-25T11:56:23",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/punyashlok-ahilyadevi-holkar-shetkari-karjmafi-5785-farmers-37-crore-loan-waiver-second-phase-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-08/6loujgqx/Kolhapur-farmer-loan-waiver-scheme-2026",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9631971ea856",
+            "feed": "maharashtratimes",
+            "title": "Nagpur Airport : नागपूरमध्ये  विमान उड्डाणांना अडथळा ठरतोय मटण बाजार ;विमानांना  पक्षी धडकण्याच्या घटना जास्त,प्रवाशांची सुरक्षा वाऱ्यावर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-25T11:53:12",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-airport-situation-at-poses-risk-to-flight-operations-raises-concerns-over-passenger-safety/articleshow/133496194.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6c1e3742f651",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : 'राहुल गांधींना हिंदू धर्मग्रंथांमध्ये फक्त नकारात्मकता दिसते'; शायना एनसी यांचा घणाघाती हल्ला",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-25T11:50:40",
             "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-25-august-2026-election-commission-sir-india-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-weather-update-imd-cjp-shravan-obc-maratha-reservation-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "2c6418f7d6f6",
-            "feed": "esakal",
-            "title": "Ladki Bahin Yojana Update : रक्षाबंधनाला लाडकी बहीण योजनेचा हप्ता मिळणार? 24 ते 48 तासांत खात्यात जमा होणार पैसे; सामाजिक न्याय विभागाचा 344 कोटींचा वळवला निधी!",
+            "id": "dc1944f8eec6",
+            "feed": "maharashtratimes",
+            "title": "Bhuleshwar Cha Raja : 'भुलेश्वरचा राजा' गणेश मंडळावर 'लालबागचा राजा'चं वडिलकीचं छत्र, नेवशे-जोशी कुटुंबीयांना मदतीचा हात, मंडळाला 11 लाखांचा निधी",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T10:44:20",
-            "url": "https://www.esakal.com/maharashtra/ladki-bahin-yojana-july-installment-payment-update-maharashtra-government-fund-transfer-dbt-rakshabandhan-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-21/le3l4c5t/Devendra-Fadnavis-Ladki-Bahin-Yojana-statement",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ea96dc2a4b7d",
-            "feed": "esakal",
-            "title": "डॉ. सचिनकुमार नांदगुडे लेख",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-25T10:36:56",
-            "url": "https://www.esakal.com/pune/water-flow-measurement-tools",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/nhm3o8xn/Banner1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "edf57af76c59",
-            "feed": "esakal",
-            "title": "Mumbai News: नवी मुंबईतील पवन हॉटेल नुकसानभरपाईच्या दाव्यावर भूमिका स्पष्ट करा, उच्च न्यायालयाचे राज्य सरकारला आदेश",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-25T10:30:04",
-            "url": "https://www.esakal.com/mumbai/high-court-orders-state-government-to-clarify-stance-on-50-lakh-compensation-claim-regarding-pawan-hotel-in-navi-mumbai-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-11/wwig3w3s/mumbai-high-court",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1e24b7805fa5",
-            "feed": "lokmat",
-            "title": "'यंदाचा गणेशोत्सव स्पीकरमुक्त वातावरणात साजरा व्हावा', पुणेकराची मागणी, कार्यकर्त्यांनी घातला गोंधळ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-25T10:28:57",
-            "url": "https://www.lokmat.com/pune/this-years-ganeshotsav-should-be-celebrated-in-a-speaker-free-environment-demands-punekar-activists-create-chaos-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pmc-4-d-baithak_2026081769906.jpg",
+            "published": "2026-08-25T11:46:39",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/bhuleshwar-cha-raja-ganesh-idol-accident-lalbaug-cha-raja-mandal-helps-sanket-nevshe-brijesh-joshi-family/articleshow/133495761.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "9632928d8599",
-            "feed": "maharashtratimes",
-            "title": "Kishore Kumar : किशोर कुमारपासून सावधान! दारावर विचित्र पाटी, 8000 रुपयांवरुन मोठा तमाशा, निर्मात्याच्या हाताला चावलेले अभिनेते",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-25T10:47:40",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/kishore-kumar-bite-producer-for-8000-rs-know-what-happened/articleshow/133493158.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d95f119b54e4",
+            "id": "d39d1b9a96c4",
             "feed": "lokmat",
-            "title": "गोमेकॉसाठी ५०० कोटींचे प्रकल्प देणार: मुख्यमंत्री प्रमोद सावंत",
+            "title": "Alpha OTT Release : थिएटरमध्ये नाही तर घरबसल्या बघा 'अल्फा', कुठे अन् कधी पाहता येणार?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-25T10:46:42",
-            "url": "https://www.lokmat.com/goa/will-provide-projects-worth-500-crore-for-goa-medical-college-said-cm-pramod-sawant-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cm-pramod-sawant-gmc-event_2026081769916.jpg",
+            "published": "2026-08-25T11:37:28",
+            "url": "https://www.lokmat.com/filmy/bollywood/alpha-ott-release-date-netflix-alia-bhatt-sharvari-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/alpha-ott-release-_2026081769960.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "930daee35e11",
-            "feed": "esakal",
-            "title": "PM Crop Insurance Scheme: ‘पीक विमा योजना की कॉर्पोरेट नफा?’; महाराष्ट्रातील ३६.८३ लाख शेतकऱ्यांनी योजना सोडल्याचा काँग्रेसचा दावा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-25T10:40:35",
-            "url": "https://www.esakal.com/desh/maharashtra-crop-insurance-row-congress-claims-36-lakh-farmers-quit-pm-crop-insurance-scheme-over-corporate-profit-model-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/pdyhjzqa/sudhir-jadhav-satara-6.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e91c8e671581",
+            "id": "6c4da9b653e7",
             "feed": "lokmat",
-            "title": "१३० वर्षांपासून गावकर कुटुंब घडवते भक्तीचा गणराय; केवळ मातीपासूनच बनवतात मूर्ती",
+            "title": "कधीकाळी हृतिक रोशनशी झालेली तुलना, हरमन बावेजाची आज अशी अवस्था; नेटकरी म्हणाले...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-25T10:40:28",
-            "url": "https://www.lokmat.com/goa/a-goa-gaokar-family-has-been-creating-devotional-ganesha-idols-for-130-years-they-make-idols-only-from-clay-a-a959-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganesh-idol_202008471065.jpg",
+            "published": "2026-08-25T11:29:13",
+            "url": "https://www.lokmat.com/filmy/bollywood/harman-baweja-unrecognisable-in-recent-look-once-upon-a-time-he-was-compared-to-hrithik-roshan-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/harman-baweja_2026081769952.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "61c53211a934",
+            "id": "d11b6d59ea4a",
             "feed": "lokmat",
-            "title": "संवादाचा अभाव, हट्टाची कुरघोडी आणि अपेक्षांचा कडेलोट",
+            "title": "'बंटवारा १९४७' पाहून सलमानही भारावला; थेट सनी देओलला केला फोन, काय होती भाईजानची प्रतिक्रिया?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-25T10:35:48",
-            "url": "https://www.lokmat.com/editorial/lack-of-communication-stubborn-bickering-and-conflicting-expectations-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjtyigm-sd_2026081769915.jpg",
+            "published": "2026-08-25T11:28:21",
+            "url": "https://www.lokmat.com/filmy/bollywood/karan-deol-reveals-salman-khan-praised-batwara-1947-and-sunny-deol-acting-after-watching-movie-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/actor-salman-khan_2026081769939.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "82d83156cbdc",
+            "feed": "lokmat",
+            "title": "“पगार वाढवा, चांगल्या सुविधा द्या”; महिला भाविकाने राम मंदिर कर्मचाऱ्यांसाठी दिले ४ कोटी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-25T11:25:49",
+            "url": "https://www.lokmat.com/national/increase-salary-provide-better-facilities-a-female-devotee-donates-4-crore-for-ayodhya-ram-mandir-employees-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ayodhya-ram-mandir-ram-lalla_2025011373924.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9962f7adc5be",
+            "feed": "lokmat",
+            "title": "\"मी गरोदर आहे असं सांगताच यशच्या डोळ्यांत पाणी आलं, आणि...\"; कियारा अडवाणीने केला खुलासा, 'टॉक्सिक'च्या सेटवर काय घडलं?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-25T11:24:05",
+            "url": "https://www.lokmat.com/filmy/bollywood/kiara-advani-reveals-what-happened-on-the-sets-of-toxic-when-she-said-she-is-pregnant-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kiara-advani-reveals-what-happened-on-the-sets-of-toxic-when-she-said-she-is-pregnant_2026081769935.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "07dae31fb730",
+            "feed": "lokmat",
+            "title": "ट्रम्प भारतीयांसह परदेशी नागरिकांसोबत मोठा गेम खेळणार; एका झटक्यात २ लाखांहून अधिक व्हिसा रद्द करण्याची तयारी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-25T11:01:59",
+            "url": "https://www.lokmat.com/international/us-visa-cancel-news-trump-will-play-a-big-game-with-indian-citizens-preparations-to-cancel-more-than-2-lakh-visas-in-one-go-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-visa-cancel-news_2026081769920.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f8064b1aa9b5",
             "feed": "lokmat",
@@ -182,166 +198,150 @@
             "category_reason": "feed"
         },
         {
-            "id": "d7ba9d1ca675",
-            "feed": "lokmat",
-            "title": "ट्रम्प यांना अमेरिकेच्या सुप्रीम कोर्टाचा मोठा दिलासा! ‘तो’ आदेश लागू करण्यास मिळाली परवानगी",
+            "id": "27bf431adebb",
+            "feed": "maharashtratimes",
+            "title": "अर्धा दुधी, जळालेल्या बांगड्या अन् काबा; बांगलादेशात हिंदू कुटुंबाला संपवलं, गूढ उलगडलं",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-08-25T09:17:43",
-            "url": "https://www.lokmat.com/international/donald-trump-gets-big-relief-from-america-supreme-court-permission-to-implement-that-order-for-mid-term-election-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-23_20171240999.jpg",
+            "published": "2026-08-24T20:39:14",
+            "url": "https://maharashtratimes.com/international/international-news/bangladesh-hindu-family-dies-mystery-solved-cousins-arrested/articleshow/133471737.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c72941241145",
-            "feed": "lokmat",
-            "title": "मॉरिशसमध्ये आज रंगणार ‘लोकमत वन वर्ल्ड समिट आणि अवॉर्ड्स’",
+            "id": "20cbfe22156c",
+            "feed": "maharashtratimes",
+            "title": "Gen Z नं डोक्यावर घेतलं, आता तेच विरोधात रस्त्यावर;  Nepal PM Balen Shah यांच्या डाऊनफॉलची ६ कारणं",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
             },
-            "published": "2026-08-25T09:11:04",
-            "url": "https://www.lokmat.com/international/lokmat-one-world-summit-and-awards-to-be-held-in-mauritius-today-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-one-world-summit-and-awards-to-be-held-in-mauritius_2026081769867.jpeg",
+            "published": "2026-08-24T19:12:47",
+            "url": "https://maharashtratimes.com/video/mt-originals/nepal-prime-minister-balen-shah-downfall-explained/videoshow/133469011.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
-            "id": "a6a5d1d32a2a",
-            "feed": "lokmat",
-            "title": "'इराणने माझ्या मुलाची हत्या करण्याचा प्रयत्न केला'; बेंजामिन नेतन्याहू यांच्या आरोपाने खळबळ",
+            "id": "e5f83f3f8863",
+            "feed": "maharashtratimes",
+            "title": "Explained : पीएम मोदी, ट्रम्प यांच्या संयुक्त पत्रकार परिषदेत नक्की काय घडलं? अमेरिकेची टिप्पणी, त्यावर भारताची प्रतिक्रिया सर्व समजून घ्या",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-08-25T09:01:51",
-            "url": "https://www.lokmat.com/international/iran-tried-to-kill-my-son-benjamin-netanyahus-accusation-causes-a-stir-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-israel-netnyahu-son_2026081769863.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "069b00259bd6",
-            "feed": "lokmat",
-            "title": "इराणमध्ये १ डॉलरची किंमत २० लाख रियाल, राष्ट्रीय चलनाची विक्रमी घसरण; अमेरिकेकडून ‘इकॉनॉमिक डी डे’ निर्बंधांची तयारी सुरू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-25T08:52:37",
-            "url": "https://www.lokmat.com/international/1-dollar-costs-2-million-rials-in-iran-record-fall-in-national-currency-us-begins-preparations-for-economic-d-day-sanctions-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjfyukv_2026081769861.jpg",
+            "published": "2026-08-24T18:54:26",
+            "url": "https://maharashtratimes.com/international/international-news/g7-summit-pm-modi-and-donald-trump-press-confrerence-controversy/articleshow/133466261.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "83415f48e47d",
+            "id": "3763d5f40ab1",
             "feed": "esakal",
-            "title": "Vaibhav Sooryavanshi : वैभवने दुलीप ट्रॉफीच्या सामन्यात 'हे' काय केलं? फोटो व्हायरल होताच सुरू झालीय उलटसुलट चर्चा",
+            "title": "IND vs AFG : संजू सॅमसन IN, अभिषेक शर्मा OUT! अफगाणिस्तानविरुद्ध कसा असेल भारतीय संघ? वाचा कोण येणार, कोण जाणार...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-25T10:23:57",
-            "url": "https://www.esakal.com/krida/cricket/vaibhav-sooryavanshis-duleep-trophy-jersey-sparks-buzz-why-did-he-tape-his-no-3-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/jeaj3nr4/Vaibhav-Sooryavanshi’s-unusual-taped-Duleep-Trophy-jersey-grabs-attention",
+            "published": "2026-08-25T11:42:10",
+            "url": "https://www.esakal.com/krida/cricket/sanju-samson-set-to-return-abhishek-sharma-may-miss-out-indias-likely-squad-for-afghanistan-t20is-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/2gaz0uky/India-likely-squad-for-Afghanistan-T20I-series-2026",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "a29661f630c7",
+            "id": "a02dfd47d080",
             "feed": "maharashtratimes",
-            "title": "IND vs SL : ध्रुव जुरेलने 99 धावांवरून 100 करण्यासाठी घेतले 13 चेंडू, या यादीत एक नंबरला तर गोलंदाज; टॉप 2 मध्ये कोण?",
+            "title": "No No-Ball Records : पदार्पण सामन्यात सारांश जैनचा पहिलाच चेंडू नो बॉल; संपूर्ण करियरमध्ये कधीही नो बॉल टाकणारे खेळाडू, भारतीय कर्णधाराचाही समावेश",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-25T10:03:55",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-2nd-test-list-of-batsmen-who-took-the-most-balls-from-99-to-100-dhruv-jurel-third/articleshow/133489156.cms",
+            "published": "2026-08-25T11:33:43",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-full-list-of-players-never-bowled-a-no-ball-in-their-entire-career-includes-an-indian-captain/articleshow/133495352.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f3fa1fa4d612",
+            "id": "a440f5a18639",
             "feed": "lokmat",
-            "title": "सुसाट... १५३.६ kmph वेगाने टाकला चेंडू, 'सुपरफास्ट' Kartik Tyagi ने घेतला भन्नाट विकेट",
+            "title": "ध्रुव जुरेल ते सचिन तेंडुलकर! ९९ धावांवरून शंभरी गाठण्यासाठी सर्वाधिक चेंडू खेळणारे ५ भारतीय; या यादीत अव्वल कोण?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-25T10:01:17",
-            "url": "https://www.lokmat.com/cricket/news/kartik-tyagi-bowled-1536-kmph-ball-superfast-delivery-to-dismiss-batter-watch-amazing-wicket-video-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kartik-tyagi-2508f_2026081769895.jpg",
+            "published": "2026-08-25T11:32:24",
+            "url": "https://www.lokmat.com/cricket/photos/ind-vs-sl-test-dhurv-jurel-to-sachin-tendulkar-most-balls-taken-from-99-to-100-by-an-indian-in-tests-century-since-2007-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/most-balls-taken-from-99-to-100-by-an-indian-in-tests-m-10_2026081769944.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "bea9e16ea816",
+            "id": "b683c7d62661",
+            "feed": "lokmat",
+            "title": "जॉनी लिव्हरची लाडकी लेक होणार गोविंदाची सून? जेमीनं शेअर केला व्हिडीओ, सांगितलं सत्य",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-25T11:46:27",
+            "url": "https://www.lokmat.com/filmy/bollywood/jamie-lever-reaction-on-wedding-with-yashvardhan-ahuja-video-govinda-johnny-lever-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jamie-lever-reaction-on-wedding-with-yashvardhan-ahuja-govinda-johnny-lever_2026081769963.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "92a54f672f75",
             "feed": "maharashtratimes",
-            "title": "Sugar Prices Fall: घाऊख साखरेचे दर 800 रुपयांनी घसरले तरीही सामान्यांना दिलासा नाहीच, आता LPG चा फॉर्म्युला अजमावण्याचा सरकारचा प्रस्ताव",
+            "title": "Iran Economic Crisis: 1 डॉलर = 13,74600 लाखांना! ‘आर्थिक D-Day’ आधी इराणी चलनाची ऐतिहासिक घसरगुंडी; अर्थव्यवस्था कोलमडली, जगण्याचे वांदे",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-08-25T10:49:40",
-            "url": "https://maharashtratimes.com/business/business-news/sugar-prices-fall-wholesale-rate-down-800-per-quintal-in-last-3-days-but-no-relief-to-common-man/articleshow/133491391.cms",
+            "published": "2026-08-25T11:38:31",
+            "url": "https://maharashtratimes.com/business/business-news/1-dollar-vs-1374600-rial-historic-crash-of-irani-currency-ahead-of-economic-d-day-people-struggle-for-survival/articleshow/133493807.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "75653e97f9d7",
+            "id": "aeae279862bd",
             "feed": "lokmat",
-            "title": "ही बजाजचीच नवी Pulsar 150 आहे का? वायफाय, गुगल मॅप्स, स्क्रीन मिररिंग अन् बरेच काही..., लाँच झाली",
+            "title": "मारुती सुझुकीची अल्टो इलेक्ट्रीक कार, जपानमध्ये आली; भारतात पुढील सहा महिन्यांत? ३१० ची रेंज देते...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-25T10:30:34",
-            "url": "https://www.lokmat.com/auto/new-bajaj-pulsar-150-price-is-this-bajajs-new-pulsar-150-wifi-google-maps-screen-mirroring-and-more-launched-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bajaj-pulser5r4_2026081769911.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "35e7a6922433",
-            "feed": "lokmat",
-            "title": "आजपासून राज्याच्या 'या' ९ जिल्ह्यात होणार ऑनलाइन खतविक्री; जाणून घ्या सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-25T10:28:21",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/online-fertilizer-sales-will-be-started-in-these-9-districts-of-the-state-from-today-know-the-details-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-u-34-34-34-fertilizer-farmer-agriculture-maharashtra_2026081769872.jpeg",
+            "published": "2026-08-25T11:31:44",
+            "url": "https://www.lokmat.com/photos/auto/suzuki-e-sky-electric-car-maruti-suzukis-alto-electric-car-launched-in-japan-india-in-the-next-six-months-offers-a-range-of-310-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maruti-e-sky-alto-ev-car-16-th1_2026081769954.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
