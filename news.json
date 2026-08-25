@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "25-08-2026 | 11:54 PM IST",
+    "lastUpdated": "26-08-2026 | 12:53 AM IST",
     "maharashtra": [
         {
             "id": "914bf1f99fa1",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "c566358556db",
+            "feed": "maharashtratimes",
+            "title": "MPSC Exam Cancelled: एमपीएससीचा मोठा निर्णय! 'औषध निरीक्षक' भरती प्रक्रिया अखेर रद्द; 'या' कारणामुळे होणार फेरपरीक्षा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-25T23:52:15",
+            "url": "https://maharashtratimes.com/career/career-news/mpsc-drug-inspector-recruitment-cancelled-re-exam-schedule-marathi-news/articleshow/133521934.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "6a49dbfb31b2",
             "feed": "esakal",
             "title": "इंग्लंडकडून खेळलेला भारतीय राजपुत्र: दुलीपसिंह",
@@ -146,22 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-25/u55253nk/11-AAI-Airports-Up-for-Privatisation-Government-Moves-to-Prevent-Private-Monopoly.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "7fcf6ec57a65",
-            "feed": "esakal",
-            "title": "कुरकुरीत आणि मोकळी भेंडी हवी? स्वयंपाक करताना या टिप्स वापरा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-25T22:12:32",
-            "url": "https://www.esakal.com/ampstories/web-story/4-simple-tips-for-perfect-non-slimy-okra-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/q9flymzz/Masala-Bhendi-recipe-9.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
