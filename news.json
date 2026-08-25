@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "25-08-2026 | 07:10 PM IST",
+    "lastUpdated": "25-08-2026 | 08:05 PM IST",
     "maharashtra": [
-        {
-            "id": "0040b4d4afd5",
-            "feed": "lokmat",
-            "title": "नागपुरात FDA चा धडाका! हॉटेल्सचे परवाने निलंबित; २.२३ कोटींची ‘रोस्टेड सुपारी’ जप्त",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-25T19:08:15",
-            "url": "https://www.lokmat.com/nagpur/fda-blast-in-nagpur-hotel-licenses-suspended-roasted-betel-nut-worth-rs-223-crore-seized-a-a515-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-25-at-7.06.19-pm-1_2026081770580.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
         {
             "id": "6c1e3742f651",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : दिल्लीतील राऊस ॲव्हेन्यू न्यायालयाने राजीव रंगिला यांचा अटकपूर्व जामीन अर्ज फेटाळला",
+            "title": "Marathi News Live Updates : नवी मुंबई परिसरात साखळी चोरीच्या एकूण सहा घटना",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T19:03:51",
+            "published": "2026-08-25T19:55:28",
             "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-25-august-2026-election-commission-sir-india-rickshaw-driver-mumbai-marathi-language-shiv-sena-supreme-court-weather-update-imd-cjp-shravan-obc-maratha-reservation-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-vru98",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "647674746e75",
-            "feed": "lokmat",
-            "title": "विवाह नोंदणी सोपी ! सरकारी कार्यालयांच्या फेऱ्या संपणार; प्रक्रिया होणार डिजिटल",
+            "id": "f8d4f39ff129",
+            "feed": "esakal",
+            "title": "Tribal Students Protest : चर्चा फिस्कटल्याने आदिवासी विद्यार्थ्यांकडून आंदोलन तीव्र करण्याचा इशारा; नव्याने दोन अत्यवस्थ विद्यार्थी रुग्णालयात दाखल",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-25T19:02:08",
-            "url": "https://www.lokmat.com/gadchiroli/marriage-registration-made-easy-rounds-at-government-offices-will-end-process-will-be-digital-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-25-at-7.00.45-pm-1_2026081770573.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b9ee8c7d8403",
-            "feed": "maharashtratimes",
-            "title": "Sugar Rate hike | 25 लाख टन फक्त महाराष्ट्रात मग बाकी राज्यातील साखर कुठं गेली?, राजू शेट्टींचा सवाल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-25T18:59:52",
-            "url": "https://maharashtratimes.com/maharashtra/kolhapur/25-lakh-tonnes-in-maharashtra-aloneso-where-did-the-sugar-from-the-other-states-go-raju-shetti-asks-/videoshow/133512924.cms",
-            "image": "",
+            "published": "2026-08-25T19:54:08",
+            "url": "https://www.esakal.com/pune/talks-fail-as-tribal-students-warn-of-intensified-protest-two-more-critically-students-hospitalized-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/cmvqn1ov/Tribal-Students-Protest",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fd3b8470cf9a",
+            "id": "b76ec0de14e0",
             "feed": "lokmat",
-            "title": "सोयाबीन घेतले पण पैसे न देता व्यापारी फरार! परभणीत शेतकऱ्यांना तब्बल ५० लाखांचा चुना",
+            "title": "डोळ्याच्या खोबणीत अडकलेली बंदुकीची गोळी चीरफाडीशिवाय बाहेर काढली",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-25T18:50:08",
-            "url": "https://www.lokmat.com/parabhani/parbhani-crime-farmers-duped-of-rs50-lakh-in-soybean-trade-scam-at-tadkalas-4-booked-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/soyabin-farm-fraud-50-lacs-par_2026081770561.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "f816a92056de",
-            "feed": "lokmat",
-            "title": "तुमच्या घरातलं पाणी किती शुद्ध? पाणी शुद्ध करण्याचे ३ उपाय-पावसाळ्यात पाण्यानेच होतात गंभीर आजार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-25T19:08:19",
-            "url": "https://www.lokmat.com/sakhi/food/water-causes-serious-diseases-during-monsoon-3-ways-to-purify-water-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/drinking-water-tiipss_2026081770569.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e0dfa57ac049",
-            "feed": "lokmat",
-            "title": "Crime: 'तुमच्या बिर्याणीला चव नाही' अल्पवयीन मुलांचं कामगाराशी भांडण, रागाच्या भरात चाकू भोसकला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-25T19:07:41",
-            "url": "https://www.lokmat.com/national/two-juveniles-stabbed-a-hotel-worker-in-delhi-after-a-dispute-over-chicken-biryani-taste-and-were-subsequently-arrested-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/delhi-welcome-area-biryani-dispute-knife-attack_2026081770577.jpg",
+            "published": "2026-08-25T19:52:46",
+            "url": "https://www.lokmat.com/nagpur/gunshot-stuck-in-eye-socket-removed-without-incision-a-a515-c1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-25-at-7.49.54-pm_2026081770610.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1895720f4f9b",
+            "id": "7bf63d11729a",
             "feed": "lokmat",
-            "title": "Blouse sleeves latest designs : बाह्या बदलून टाकतात ब्लाऊजचा लूक, पाहा ५० नवे डिझाइन्स",
+            "title": "Ganesh Mahotsav : डीजे डॉल्बीच्या विरोधात बोलणाऱ्या नागरिकाचा आवाज दडपणे दुर्दैवी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-08-25T18:58:02",
-            "url": "https://www.lokmat.com/sakhi/photos/shopping/50-trendy-blouse-sleeves-patterns-50-latest-blouse-sleeves-patterns-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-23-at-12.14.23-pm_2026081768969.jpeg",
+            "published": "2026-08-25T19:50:55",
+            "url": "https://www.lokmat.com/pune/ganesh-mahotsav-it-is-unfortunate-that-the-voice-of-a-citizen-speaking-out-against-dj-dolby-is-suppressed-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganesh-mahotsav02365_2026081770608.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
         {
-            "id": "169d2e71944f",
-            "feed": "lokmat",
-            "title": "एअर हॉस्टेसचा जॉब सोडला, अभिनय क्षेत्रातील संधी नाकारली; युवतीने स्वीकारला अध्यात्माचा मार्ग",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-25T18:53:51",
-            "url": "https://www.lokmat.com/social-viral/pranavi-tiwari-left-her-career-and-the-glamour-industry-to-permanently-settle-in-vrindavan-inspired-by-premanand-maharaj-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pranati-tiwari-girl-viral_2026081770566.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "faef1712bbbf",
+            "id": "906cd57d1a06",
             "feed": "esakal",
-            "title": "वृत्तपत्रांमध्ये चार ठिपके का छापले जातात? त्यांचा अर्थ काय?",
+            "title": "Jalkot Water Supply : जळकोटचा पाणीप्रश्न सुटणार; ६२ कोटींच्या नवीन जलवाहिनी व नळयोजनेला नगरपंचायतीची मंजुरी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-25T18:52:40",
-            "url": "https://www.esakal.com/ampstories/web-story/why-are-four-dots-printed-in-newspapers-at-bottom-what-do-they-mean-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/ub9y17iw/Newspaper-Bottom-4-color-dots.jpg",
+            "published": "2026-08-25T19:49:52",
+            "url": "https://www.esakal.com/marathwada/jalkot-latur-water-shortage-62-crore-water-supply-project-malhipparga-dam-new-10-km-pipeline-water-purification-plant-nagar-panchayat-prabhavati-kamble-sanjay-bansode-rohit-arbole-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/y8usuvro/Esakal-31.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "india": [
+        {
+            "id": "4006f39d42f3",
+            "feed": "maharashtratimes",
+            "title": "लाँचिंगला अवघे 15 दिवस शिल्लक, iPhone 18 Pro Max चे फीचर्स लीक, डिस्प्लेमध्ये मोठे बदल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-25T20:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/iphone-18-pro-max-with-15-days-to-launch-here-is-everything-we-know-so-far-about-apple-2026-flagship/articleshow/133499835.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
+        },
+        {
+            "id": "2d21d664ed76",
+            "feed": "esakal",
+            "title": "Modi Cabinet Reshuffle : मोदींच्या मंत्रिमंडळात मोठा फेरबदल? महाराष्ट्राला मिळू शकते नवे मंत्रिपद; 'या' मंत्र्यांना डच्चू?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-25T19:45:28",
+            "url": "https://www.esakal.com/desh/modi-cabinet-reshuffle-union-cabinet-expansion-young-ministers-vacant-posts-bjp-upcoming-elections-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/p370q2ag/Modi-1.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "49cf546703c0",
+            "feed": "lokmat",
+            "title": "रोज १ सफरचंद खावं पण कोणत्या वेळी? सफरचंद खाण्याची योग्य वेळ पाहा, निरोगी-फिट राहाल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-25T19:45:13",
+            "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/which-is-right-time-eat-apple-morning-or-evening-right-time-to-eat-apple-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-25-at-6.11.11-pm_2026081770597.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c41e3f446f35",
+            "feed": "maharashtratimes",
+            "title": "1999 मध्ये फ्रॉड, 2019 मध्ये 'मृत्यू' अन् 2026 मध्ये स्कूटरवर दिसला; चक्रावून टाकणारं प्रकरण",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-25T19:40:38",
+            "url": "https://maharashtratimes.com/india-news/up-agra-accused-declared-dead-13-years-ago-found-alive-court-sends-him-to-jail/articleshow/133514003.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "e5e13b80e858",
+            "feed": "lokmat",
+            "title": "’जास्त नाटक करू नको, FIR करेन’, पोलीस अधिकाऱ्याने भाजपा नेत्याला टपली मारत गेटवरून उठवले, त्यानंतर...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-08-25T19:36:40",
+            "url": "https://www.lokmat.com/national/madhya-pradesh-dont-make-too-much-drama-i-will-file-an-fir-police-officer-slaps-bjp-leader-and-lifts-him-up-from-the-gate-then-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/madhya-pradesh-police-bjp-1_2026081770603.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "dde6f8db2137",
+            "feed": "lokmat",
+            "title": "पाकिस्तान, तुर्कीची नवी चाल, बांगलादेशही देणार साथ?; भारतासमोर नव्या संकटाची चाहूल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-25T19:59:07",
+            "url": "https://www.lokmat.com/international/discussion-regarding-bangladesh-joining-the-mecca-agreement-involving-saudi-arabia-turkey-and-pakistan-have-raised-concerns-for-india-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-bangladesh-vs-india_2026081770612.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "09d59b0fb2ba",
             "feed": "maharashtratimes",
@@ -228,25 +244,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "1150d657641d",
+            "id": "25619b9ebad9",
             "feed": "maharashtratimes",
-            "title": "भारतीयांना अमेरिकेत नोकरी करणं आणखी महाग, आता एका जॉबसाठी कंपन्यांनाच 1,03,265 डॉलर मोजावे लागतील",
+            "title": "IND vs SL : भारत पाचशे पार गेला,  श्रीलंकेच्या 8 विकेट्सही घेतल्या; पण तिसऱ्या दिवशी दोन फलंदाजांनी सामना रंगतदार केला, नेमके कोण?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "world"
+                "category": "sports"
             },
-            "published": "2026-08-25T16:32:35",
-            "url": "https://maharashtratimes.com/international/international-news/h-1b-visa-new-rule-about-application-fee-per-employee-will-be-103265-dollars/articleshow/133505633.cms",
+            "published": "2026-08-25T19:28:15",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-second-test-day-3-sri-lanka-265-8-india-lead-prasidh-krishna-manav-suthar-three-wickets/articleshow/133513204.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "sports": [
+        },
+        {
+            "id": "246754a27a52",
+            "feed": "esakal",
+            "title": "IND vs SL: रिषभ पंतला नेमकं काय झालंय, विकेटकिपिंग का करत नाहीये? प्रशिक्षकांनी अखेर सत्य सांगितलं",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-08-25T19:19:03",
+            "url": "https://www.esakal.com/krida/cricket/india-vs-sri-lanka-2nd-test-rishabh-pant-shoulder-badly-bruised-morne-morkel-reveals-why-not-wicket-keeping-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/humgo5qz/Rishabh-Pant-Sri-Lanka-vs-India-2nd-Test.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "203f694449fa",
             "feed": "lokmat",
@@ -262,41 +294,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ms-dhoni-csk-relationship-in-trouble-after-stake-talks-fall-m_2026081770579.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "fa8b8d91d539",
-            "feed": "lokmat",
-            "title": "IND vs SL 2nd Test Day 3 Stumps : सोनल पुन्हा ठरला श्रीलंकेचा संकटमोचक; फॉलोऑनचं संकट टळणार का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-25T18:05:17",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-2nd-test-day-3-sonal-dinusha-again-becomes-sri-lankas-troublemaker-will-the-follow-on-crisis-be-avoided-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-2nd-test-day-3-rain-forces-early-stumps-india-need-2-wickets-to-enforce-follow-on-m_2026081770468.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2636c3a1bc7f",
-            "feed": "lokmat",
-            "title": "शाळेमुळे बरबाद झालं 'या' स्टार क्रिकेटरचं करियर! ऐन तारूण्यात घ्यावी लागली तडकाफडकी निवृत्ती",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-25T17:42:56",
-            "url": "https://www.lokmat.com/cricket/photos/will-pucovski-legal-action-on-school-for-head-injury-negligence-australia-cricket-career-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/will-pucovski-2508_2026081770459.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "679b3f7afe65",
+            "feed": "lokmat",
+            "title": "Nuksan Bharpai : जून 2025 ते ऑक्टोबर 2025 ची नुकसान भरपाई आली, या जिल्ह्यांना मिळणार लाभ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-25T19:35:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/nuksan-bharpai-compensation-for-losses-from-june-2025-to-october-2025-has-arrived-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/badhit-shet_2026081770465.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "0033fb8e7102",
             "feed": "lokmat",
@@ -326,22 +342,6 @@
             "published": "2026-08-25T18:20:48",
             "url": "https://www.lokmat.com/business/news/russia-suddenly-sells-gold-worth-rs-8-lakh-crore-stocks-at-6-year-low-will-gold-become-cheaper-in-the-global-market-a-a941/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gold-russia-sell_2026081770521.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3b2982f4b3b7",
-            "feed": "lokmat",
-            "title": "पोस्ट ऑफिसच्या या खास योजनेत महिन्याला ५ हजारांची कमाई, किती गुंतवणूक करावी लागेल?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-25T18:19:37",
-            "url": "https://www.lokmat.com/photos/business/how-much-investment-will-you-need-to-earn-rs-5000-per-month-in-this-special-scheme-of-the-post-office-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/post-office-mis_2026081770514.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
