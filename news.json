@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "26-08-2026 | 03:46 AM IST",
+    "lastUpdated": "26-08-2026 | 06:11 AM IST",
     "maharashtra": [
+        {
+            "id": "249a7e6d2df5",
+            "feed": "lokmat",
+            "title": "बेकायदा गर्भलिंग निदान,  ११ आरोपींना ‘मोक्का’; राज्यातील पहिलीच कारवाई",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-26T06:03:20",
+            "url": "https://www.lokmat.com/kolhapur/illegal-sex-determination-11-accused-mcoca-first-action-in-the-state-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjftyug_2026081770645.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c5953f68e66e",
+            "feed": "lokmat",
+            "title": "मंत्र्यांच्या कार्यालयांतील ‘बाहेरची’ माणसे हद्दपार; मुख्यमंत्री कार्यालयाचा थेट दणका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-26T05:57:57",
+            "url": "https://www.lokmat.com/maharashtra/outsiders-in-minister-offices-expelled-a-direct-blow-to-the-chief-ministers-office-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mantralay-25d_2026081770643.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "914bf1f99fa1",
             "feed": "esakal",
@@ -48,41 +80,73 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-25/tuflitj7/Pune-Metro",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "dd4e0282cc77",
+            "id": "be2e03347e84",
             "feed": "esakal",
-            "title": "Pune Crime : बेहिशेबी मालमत्ता जमविलेल्या तत्कालीन जीएसटी अधीक्षकाला सक्तमजुरी; गुन्ह्यात मदत केल्याने पत्नीही दोषी",
+            "title": "Mukhyamantri Bal Seva: आई-वडिलांचे छत्र हरपले? शिक्षणासाठी सरकार देणार दरमहा २,५०० रुपये; २३ वर्षांपर्यंत मिळणार लाभ",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-25T22:57:36",
-            "url": "https://www.esakal.com/pune/former-gst-superintendent-sentenced-to-rigorous-imprisonment-for-amassing-disproportionate-assets-wife-also-convicted-for-aiding-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-01-31/3zo80ddd/court",
+            "published": "2026-08-26T06:06:00",
+            "url": "https://www.esakal.com/desh/uttar-pradesh-mukhyamantri-bal-seva-yojana-supports-orphan-and-rescued-children",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/k7f2bnna/UP’s-Mukhyamantri-Bal-Seva-Yojana-Gives-Orphaned-and-Rescued-Children-₹2500-Monthly-Support-and-Education-Aid.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "903fb8476eb8",
+            "id": "f29477b180f0",
             "feed": "maharashtratimes",
-            "title": "Water Shortage : मराठवाड्यात भीषण पाणीसंकट! तहानलेल्या गावांसह टँकरच्या संख्येत वाढ, ४७७ विहिरी अधिग्रहित",
+            "title": "एलियनचे यान अंतराळात शेवटचे कधी दिसले? 500 फूट आकाराच्या तबकडीचे पुढे काय झाले?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-25T22:57:36",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/severe-water-crisis-in-marathwada-477-wells-acquired-181-tankers-supply-water-to-villages/articleshow/133520425.cms",
+            "published": "2026-08-26T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/science-technology/when-was-an-alien-spaceship-last-seen-pentagon-declassifies-mysterious-new-ufo-files/articleshow/133503519.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
+            "category_reason": "default"
+        },
+        {
+            "id": "f13c69c94cf1",
+            "feed": "esakal",
+            "title": "Kisan Samriddhi Yojana: शेतकऱ्यांसाठी 'किसान समृद्धी योजना'; सौर ऊर्जेवर चालणाऱ्या पंपांवर मिळणर ९०% अनुदान!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-26T05:43:00",
+            "url": "https://www.esakal.com/education-jobs/jharkhand-kisan-samriddhi-yojana-solar-irrigation-subsidy-details",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-16/3gaph84w/Kisan-Samriddhi-Yojana.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "93835ad89569",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 26 August 2026: मूलांक 2 कामात प्रगती, मात्र अहंकाराला आवर घाला! मूलांक 4 मेहनत, हुशारीमुळे यश! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-26T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-26-august-2026-shobhan-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133509649.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "c566358556db",
             "feed": "maharashtratimes",
@@ -98,70 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "6a49dbfb31b2",
-            "feed": "esakal",
-            "title": "इंग्लंडकडून खेळलेला भारतीय राजपुत्र: दुलीपसिंह",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-25T23:29:51",
-            "url": "https://www.esakal.com/ampstories/web-story/duleep-singh-prince-who-conquered-english-cricket-story-behind-bccis-duleep-trophy-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/qtibj9id/DuleepSinghji-9.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "871d9465f453",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 26 August 2026: बुध पूजन, गजकेसरी योग, बुधादित्य योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-25T23:27:26",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-26-august-2026-in-marathi-gajkesari-yog-budhaditya-yog-and-shubha-muhurta/articleshow/133518365.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3988dcc4e506",
-            "feed": "esakal",
-            "title": "हर्नियाची ‘ही’ लक्षणं दिसताच सावध व्हा! दुर्लक्ष करणं पडू शकतं महागात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-25T22:36:16",
-            "url": "https://www.esakal.com/ampstories/web-story/dont-ignore-these-warning-signs-of-hernia-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/25x4zm4l/Hernia-Symptoms-9.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "c747bfe323dd",
-            "feed": "esakal",
-            "title": "Airport: विमानतळांच्या खासगीकरणात सरकारचा नवा नियम! एका कंपनीला मर्यादित एअरपोर्टच मिळणार; बिडिंग कॅप लागू होणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-25T22:27:45",
-            "url": "https://www.esakal.com/desh/india-plans-to-privatise-11-airports-but-one-company-wont-get-them-all-vru98",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/u55253nk/11-AAI-Airports-Up-for-Privatisation-Government-Moves-to-Prevent-Private-Monopoly.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
