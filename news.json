@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "26-08-2026 | 03:01 PM IST",
+    "lastUpdated": "26-08-2026 | 03:54 PM IST",
     "maharashtra": [
         {
-            "id": "8db67ee094dc",
-            "feed": "lokmat",
-            "title": "झाडानं दिलं जीवदान! १०व्या मजल्यावरून पडली महिला, फांद्यांमध्ये अडकून वाचली; भांडूपमधील घटना",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-26T14:53:53",
-            "url": "https://www.lokmat.com/mumbai/woman-fell-from-10th-floor-in-bhandup-survived-by-getting-caught-in-branches-a-a681/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhanduptress_2026081771018.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bbf52a04bf80",
+            "id": "4e71f815098d",
             "feed": "maharashtratimes",
-            "title": "Chhatrapati Sambhajinagar : 'कुणालला जीव द्यायचा नव्हता, आई-वडिलांना एकत्र बघायचं होतं'; खवड्या डोंगर प्रकरणात मावशीचा खळबळजनक दावा",
+            "title": "Pune News: पुण्यात शाळा-महाविद्यालयांच्या १०० मीटर परिसरातील पानटपऱ्यांवर मोठी कारवाई; १९ टपऱ्या निष्कासित",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-26T14:53:10",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/chhatrapati-sambhajinagar-khavdya-dongar-chandgude-family-death-case-kunal-aunty-kalyani-parde-official-reaction/articleshow/133535683.cms",
+            "published": "2026-08-26T15:50:59",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/major-crackdown-on-stalls-near-schools-and-colleges-in-pune-19-stalls-removed/articleshow/133537452.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "096d8463a81a",
+            "id": "30f1e8d5e93b",
+            "feed": "maharashtratimes",
+            "title": "I Love You म्हणत विद्यार्थ्यांचा कल्लोळ, तरुणानं गुलाब दिलं, रोहित पवारांचा PM मोदींना टोला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-26T15:35:42",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/mpsc-student-gives-rose-to-rohit-pawar-saying-i-love-you-video-goes-viral/videoshow/133537271.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9528489eb504",
             "feed": "esakal",
-            "title": "Ratnagiri Municipal Building Issue: माझ्या केबिनमध्ये ‘म्युझिकल फॅन’!; नायर यांचे इमारतीच्या दर्जावर बोट; ‘एसी’ही अजब",
+            "title": "Kolhapur Gender Determination Case: हॉस्पिटलचा व्यवस्थापक, नर्स अटकेत; १६ संशयितांची नावे समोर; नऊ जणांना अटक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-26T15:31:49",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-gender-determination-case-hospital-manager-nurse-arrested-police-investigation-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/kfxk6xq6/Abhi-7.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "878370c71dee",
+            "feed": "lokmat",
+            "title": "'पैसे भरा अन्यथा गुन्हा'; ग्रामविकासाचा १ कोटींचा निधी हडपला; सरपंचासह ५ जणांना वसूली नोटिस",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-26T14:51:22",
-            "url": "https://www.esakal.com/kokan/ratnagiri-municipal-building-poor-construction-quality-musical-fan-ac-issues-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/qaelx1va/Abhi-6.jpg",
+            "published": "2026-08-26T15:27:14",
+            "url": "https://www.lokmat.com/beed/rs103-cr-panchayat-scam-nandurghat-sarpanch-gram-sevak-and-another-officers-given-3-day-ultimatum-to-return-embezzled-funds-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/grampanchayat-scam-one-crore-fea_2026081771052.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "2bf761cd5b02",
+            "id": "1bb0d1889f51",
             "feed": "lokmat",
-            "title": "Latest Marathi News LIVE: नेपाळमध्ये तिबेटकडून आलेल्या महापुराचा हाहाकार; गावं, पूल अन् प्रकल्प वाहून गेले",
+            "title": "Sangli News: कॅनॉलमध्ये कोसळली कार, चालक बेपत्ता; शोधमोहीम सुरू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-26T14:50:13",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-26-august-2026-pm-narendra-modi-cabinet-expansion-mohan-bhagwat-in-us-cm-devendra-fadnavis-cjp-protest-gen-z-rahul-gandhi-maratha-reservation-us-iran-tensions-donald-trump-ind-vs-sl-live-shiv-sena-case-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
+            "published": "2026-08-26T15:21:00",
+            "url": "https://www.lokmat.com/sangli/driver-missing-after-car-plunges-into-canal-in-the-zhurewadi-jarwad-area-of-sangli-district-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/canol-car-news_2026081771051.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7a495880b922",
-            "feed": "lokmat",
-            "title": "सीएस परीक्षेत नागपूरच्या मोहित बत्राची ऑल इंडिया रैंक-५",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-26T14:49:34",
-            "url": "https://www.lokmat.com/nagpur/nagpurs-mohit-batra-secures-all-india-rank-5-in-cs-exam-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-26-at-2.48.27-pm-1_2026081771013.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "820175813f39",
+            "id": "5f515d4cf69f",
             "feed": "esakal",
-            "title": "शिवरायांच्या काळात उपचारासाठी कोणत्या होत्या आयुर्वेदिक पद्धती?",
+            "title": "रेल्वे इंजिनला वेगवेगळे रंग का असतात? \nवाचा इंजिनच्या रंगांचे अर्थ!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-26T14:50:20",
-            "url": "https://www.esakal.com/ampstories/web-story/ayurvedic-treatment-methods-during-chhatrapati-shivaji-maharaj-era-maratha-warriors-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/2xn3tqro/web-story-45.jpg",
+            "published": "2026-08-26T15:54:22",
+            "url": "https://www.esakal.com/ampstories/web-story/why-railway-engines-have-different-colors-meaning-explained-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/6mjtcqwc/The-Secrets-Behind-Indian-Railway-Engine-Colors.png",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
             "id": "0dcd20fbf94b",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : जसप्रीत बुमराहला मागे टाकत मिचेल स्टार्क कसोटी क्रमवारीत अव्वल",
+            "title": "Latest Marathi News Live Update : करमाडमध्ये टोमॅटो दरावरून शेतकऱ्यांचा उद्रेक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-26T14:43:40",
+            "published": "2026-08-26T15:53:44",
             "url": "https://www.esakal.com/desh/marathi-news-live-update-26-august-2026-central-maharashtra-marathwada-rain-forecast-weather-updatemaharashtra-politics-pm-narendra-modi-rahul-gandhi-pune-chatro-ki-gunj-sharad-pawar-uddhav-thackeray-eknath-shinde-abhijeet-dipke-weather-imd-koyna-dam-maharashtra-rain-uodate-cm-devendra-fadnavis-farm-loan-waiver-mumbai-pune-traffic-update-srs92-snk89",
             "image": "https://cf-images.assettype.com/esakal/2024-03/d400462f-6713-4b33-8ed6-d973316daa07/latest_Marathi_News___2024_02_08T091255_317__1_.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "285bf17ab149",
-            "feed": "maharashtratimes",
-            "title": "बेकायदेशीर कमाई वाटून घेऊ! एकमेकांशी गद्दारी करणार नाही! हातात गंगाजल घेऊन नगरसेवकांची शपथ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-26T14:39:57",
-            "url": "https://maharashtratimes.com/india-news/up-shahjahanpur-councillors-takes-oath-to-share-municipal-earning-with-gangajal-in-hand/articleshow/133535412.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "a1a884a84bc5",
-            "feed": "maharashtratimes",
-            "title": "Rajinikanth on C Joseph Vijay: विजय यांच्या मुख्यमंत्रीपदाच्या कार्यकाळाला १०० दिवस पूर्ण,  प्रश्न विचारताच निघून गेले रजनीकांत, काय घडलं नेमकं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-26T14:35:44",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/rajinikanth-reaction-on-100-days-of-cm-vijay-tamil-nadu-government/articleshow/133535294.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1ed9410db91b",
+            "id": "4476e44940f4",
             "feed": "lokmat",
-            "title": "राम मंदिर ट्रस्टचे ३० बँक लॉकर तपासणार; महत्त्वाचे रेकॉर्ड गहाळ तर झाले नाही ना? संशय बळावला",
+            "title": "१७ वर्षे खासदार, १२ वर्षे भाजपची सत्ता, तरी गुरुग्राम पाण्यात, राव इंद्रजीत सिंह म्हणतात, याला काँग्रेस जबाबदार…",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-26T14:34:11",
-            "url": "https://www.lokmat.com/national/30-bank-lockers-of-ayodhya-ram-mandir-trust-to-be-checked-sit-investigated-all-important-document-for-final-report-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ram-mandir-ayodhya-2_2026071750991.jpg",
+            "published": "2026-08-26T15:47:52",
+            "url": "https://www.lokmat.com/national/17-years-as-mp-gurugram-flooded-again-rao-inderjit-singh-blames-congress-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mp-rao-inderjit-singh_2026081771040.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "c5873db28feb",
+            "feed": "esakal",
+            "title": "पाकिटात 1 रुपयाचं नाणं का ठेवतात? कारण जाणून तुम्हालाही आश्चर्य वाटेल!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-26T15:40:35",
+            "url": "https://www.esakal.com/ampstories/web-story/why-one-rupee-coin-kept-in-gift-envelope-shagun-packet-religious-significance-indian-tradition-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/7017poga/Pintrest.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "907bf32a02b7",
+            "feed": "esakal",
+            "title": "DDLJ च्या क्लायमॅक्समध्ये सगळे होते पण एक अभिनेत्री नव्हती; तिच्यामुळे बदलला चित्रपटाचा शेवट; इतक्या वर्षांनी सांगितलं कारण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-26T15:40:22",
+            "url": "https://www.esakal.com/premier/popular-actress-missing-from-final-scene-of-ddlj-her-absence-forced-makers-to-change-the-film-ending-years-later-reason-revealed-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/rg51t2mt/dilwale-dulhaniya-le-jayenge-climax.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "f6d88d86743d",
+            "feed": "lokmat",
+            "title": "मोहन भागवत यांच्या कार्यक्रमास विरोध करणाऱ्या ममदानींवर संतापली अमेरिकन अभिनेत्री, म्हणाली...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-26T15:33:58",
+            "url": "https://www.lokmat.com/international/american-singer-mary-millbengets-angry-at-mamdani-for-opposing-mohan-bhagwats-program-says-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mohan-bhagwat-rss-usa-1_2026081771058.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "6020ebe3c954",
             "feed": "lokmat",
@@ -180,22 +196,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tanvi-kolte-bigg-boss_2026081771022.jpeg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "a67bff734404",
-            "feed": "lokmat",
-            "title": "नेपाळमध्ये अचानक जलप्रलय; तिबेट सीमेवरील गावं, प्रकल्प वाहून गेले, मोठ्या जीवितहानीची भीती",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-26T13:52:34",
-            "url": "https://www.lokmat.com/international/sudden-deluge-in-nepal-villages-and-projects-along-the-tibet-border-washed-away-fears-of-heavy-loss-of-life-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-flash-flood_2026081770932.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         },
         {
             "id": "8c9baed40fb0",
@@ -248,100 +248,100 @@
     ],
     "sports": [
         {
-            "id": "7678c3f7a73f",
+            "id": "8cc9979fa019",
             "feed": "maharashtratimes",
-            "title": "Sanjay Manjrekar : वैभव आणि जयस्वालला आताच आवरा, संजय मांजरेकरांची जाहीरपणे दोघांवर कारवाई करण्याची मागणी, काय कारण?",
+            "title": "Anaya Bangar News : BCCIकडून प्रतिसाद नाही, मग ऑस्ट्रेलियाकडे धाव; अनायाला महिला संघात क्रिकेटची संधी कशी मिळाली? रिपोर्ट ठरला महत्त्वाचा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-26T14:22:23",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/sanjay-manjrekar-has-demanded-icc-take-action-against-vaibhav-suryavanshi-and-yashasvi-jaiswal/articleshow/133533813.cms",
+            "published": "2026-08-26T15:35:37",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/anaya-bangar-bcci-no-response-cricket-australia-clearance-to-play-community-cricket-permission-process/articleshow/133535903.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e0c3a02aabcf",
-            "feed": "lokmat",
-            "title": "‘बॅट धरता येत नाही, कॅच पकडता येत नाही…’, हा क्रिकेटपटू होतोय भयानक ट्रोल, प्रत्युत्तर देत म्हणाला...",
+            "id": "f141fc777d85",
+            "feed": "esakal",
+            "title": "वैभव सूर्यवंशीच्या टेस्ट ड्रीमला मोठा धक्का? राहुल द्रविड यांनी सांगितली मोठी अडचण; म्हणाले, ‘अजून बराच पल्ला गाठायचा आहे’",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-26T14:20:11",
-            "url": "https://www.lokmat.com/cricket/news/cant-hold-the-bat-cant-catch-cricketer-dev-chaudhary-is-becoming-a-terrible-troll-responding-and-saying-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dev-chaudhary-t20-1_2026081770977.jpg",
+            "published": "2026-08-26T15:10:43",
+            "url": "https://www.esakal.com/krida/cricket/vaibhav-sooryavanshi-test-dream-rahul-dravid-statement-india-test-team-ranji-red-ball-cricket-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/n523a43o/vaibhv-suryavanshi.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f91a6a9a9e04",
+            "id": "24418433a999",
             "feed": "lokmat",
-            "title": "Abid Mushtaq: अबिद मुश्ताक आहे तरी कोण? ज्यानं वेस्ट झोनच्या तोंडातून विजयी घास हिसकावला, ९ विकेट्स घेतल्या!",
+            "title": "Nightclub Controversy : 'जेंटलमन्स गेम'मधील स्टार खेळाडूंचा मैदानाबाहेर 'रात्रीस खेळ चाले...'; कॅप्टन जो रूट वैतागला!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-08-26T14:12:35",
-            "url": "https://www.lokmat.com/cricket/news/duleep-trophy-2026-who-is-abid-mushtaq-north-zone-vs-west-zone-match-result-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/who-is-abid-mushtaq_2026081770953.jpg",
+            "published": "2026-08-26T15:08:26",
+            "url": "https://www.lokmat.com/cricket/news/joe-root-disappointed-over-brydon-carse-nightclub-controversy-incident-says-fast-bowler-is-apologetic-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/joe-root-disappointed-over-brydon-carse-nightclub-controversy-m_2026081771043.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "be68dffdce21",
+            "id": "ac4445b686d5",
             "feed": "lokmat",
-            "title": "Sugar Market : साखरेसोबत गुळाचेही दर वधारले, साखरेचा जास्त साठा करण्यास बंदी, केंद्र सरकारचे काय निर्देश दिले?",
+            "title": "शेतीतील तोट्यावर जाफराबादचा भन्नाट उतारा! दररोज २५ हजार लिटरची 'दूधगंगा', शेतकरी मालामाल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-26T14:50:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/along-with-sugar-jaggery-prices-increased-ban-on-excessive-storage-of-sugar-read-central-government-intructions-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/asugar_2026081770885.jpeg",
+            "published": "2026-08-26T15:42:42",
+            "url": "https://www.lokmat.com/jalana/jafrabad-dairy-model-daily-25000-litres-milk-collection-boosts-rural-economy-in-jalna-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/milk-gramin-jafrabad-jalana-fea_2026081771071.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "b5414cdb9790",
+            "feed": "lokmat",
+            "title": "महसूल मंत्र्यांच्या घोषणेमुळे शेतकऱ्यांच्या आशा पल्लवित; 'त्या' पडीक जमिनी परत द्या, शेतकऱ्यांच्या मागणीने धरला जोर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-26T15:31:38",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/farmers-hopes-revived-due-to-revenue-ministers-announcement-give-back-those-wasteland-farmers-demand-gains-momentum-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-r-34-land-business-government-farmer_2026081770934.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "89ede2b2f00f",
+            "id": "5c5abcd0327a",
             "feed": "lokmat",
-            "title": "ITR-3 आणि ITR-4 भरण्याची अंतिम मुदत जवळ आली; 'हे' फॉर्म्स कोणाला भरावे लागतात? जाणून घ्या...",
+            "title": "इलॉन मस्क १,२५,००० एकर जमिनीवर उभारणार जगातील सर्वात मोठे 'स्पेस सेंटर', खर्च ऐकून चक्रावून जाल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-26T14:36:30",
-            "url": "https://www.lokmat.com/business/income-tax/deadline-for-filing-itr-3-and-itr-4-is-approaching-who-has-to-fill-these-forms-know-more-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/itr-filingg_2026081771005.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f5d7530708ab",
-            "feed": "lokmat",
-            "title": "‘विको’कडून आयुर्वेदिक साबणांची मालिका सादर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-08-26T14:20:18",
-            "url": "https://www.lokmat.com/business/news/wiko-launches-a-series-of-ayurvedic-soaps-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjfyky_2026081770981.jpg",
+            "published": "2026-08-26T15:29:25",
+            "url": "https://www.lokmat.com/business/news/elon-musk-will-build-the-worlds-largest-space-center-on-125000-acres-of-land-you-will-be-shocked-to-hear-the-cost-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/spacex-elonmusk_2026081771061.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
