@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "27-08-2026 | 12:19 AM IST",
+    "lastUpdated": "27-08-2026 | 02:58 AM IST",
     "maharashtra": [
         {
             "id": "84cb6fc84496",
@@ -84,22 +84,6 @@
     ],
     "india": [
         {
-            "id": "9fd6ae302ccd",
-            "feed": "maharashtratimes",
-            "title": "पांढरे केस होतील काळेकुट्ट? या 5 गोष्टी तेलात मिक्स करून लावा,",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-27T00:05:00",
-            "url": "https://maharashtratimes.com/lifestyle-news/yuva-katta/white-hair-care/articleshow/133549130.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
             "id": "548148d7e5bd",
             "feed": "esakal",
             "title": "डाळी-कडधान्ये आरोग्यासाठी चांगली, पण डायबेटीस असल्यास ‘हे’ नक्की वाचा",
@@ -159,6 +143,22 @@
             },
             "published": "2026-08-26T22:41:14",
             "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/mohan-joshi-talks-about-his-struggle/articleshow/133546875.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "bea2bb12a04d",
+            "feed": "maharashtratimes",
+            "title": "जितूनं फूस लावली! तरुणाची स्वत:च्याच घरात चोरी; 50 लाख लंपास, GF वर 5 लाख उडवले, आयफोन गिफ्ट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-26T21:25:39",
+            "url": "https://maharashtratimes.com/india-news/assam-shocker-man-steals-rs-50-lakh-gold-from-own-house-spends-on-girlfriend/articleshow/133545417.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "d9694645e84a",
+            "feed": "esakal",
+            "title": "१२ दिवसांचा क्रिकेट सामना, तरही निकाल ड्रॉ!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-27T01:05:37",
+            "url": "https://www.esakal.com/ampstories/web-story/crickets-longest-test-match-ever-england-vs-south-africa-1939-durban-12-days-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/04092f1w/Cricket’s-Longest-Match.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "1958d77b64f3",
             "feed": "maharashtratimes",
             "title": "ICC Ranking : मानव सुतारची ICC रँकिंगमध्ये हनुमान उडी, 2 मॅचमध्ये 17 विकेट घेत प्रसिध, सुंदर, अक्षर पटेल यांना टाकलं मागे; कितव्या स्थानी जाणून घ्या",
@@ -275,22 +291,6 @@
             },
             "published": "2026-08-26T23:23:39",
             "url": "https://maharashtratimes.com/sports/cricket/cricket-news/rishabh-pant-takes-historic-leap-in-icc-test-rankings-becomes-indias-number-1-batsman/articleshow/133547133.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "93970f7c1ae0",
-            "feed": "maharashtratimes",
-            "title": "IND vs SL Test Series : कोलंबो टेस्टच्या अखेरच्या दिवशी टीम इंडियाचे हे ५ खेळाडू ठरवणार सामन्याचा निकाल; एकाकडे कमबॅकची संधी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-26T21:32:42",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-sri-lanka-second-test-colombo-day5-saransh-jain-manav-suthar-kl-rahul-yashasvi-jaiswal-shubman-gill/articleshow/133545781.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
