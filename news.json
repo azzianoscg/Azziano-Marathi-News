@@ -1,170 +1,218 @@
 {
-    "lastUpdated": "26-08-2026 | 09:39 PM IST",
+    "lastUpdated": "27-08-2026 | 12:19 AM IST",
     "maharashtra": [
         {
-            "id": "8a888309a4c9",
-            "feed": "maharashtratimes",
-            "title": "Onion Express Nashik मध्ये सडका कांदा?, Ravikant Tupkar यांचं उद्या कर्जमाफीवरून आंदोलन",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-26T21:36:42",
-            "url": "https://maharashtratimes.com/video/mt-originals/onion-express-nashik-rotten-onion-ravikant-tupkar-farmer-loan-waiver-protest/videoshow/133545831.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5f80ae4bbaba",
-            "feed": "esakal",
-            "title": "Shirur Crime: शिरूर बीएसएनएल कार्यालय फोडून सोन्या-चांदीचे दागिने लांबवणारी टोळी जेरबंद; १८.५० लाखांचा मुद्देमाल जप्त",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-26T21:35:58",
-            "url": "https://www.esakal.com/pune/shirur-bsnl-office-break-in-theft-gold-silver-jewellery-18-50-lakh-three-accused-arrested-local-crime-branch-police-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/fwtuk5dq/Esakal-11.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "505567061b38",
-            "feed": "esakal",
-            "title": "Pune Murder Case: इंदापूरमध्ये खून प्रकरणातील आरोपी १८ महिन्यांनी जेरबंद; पोलिसांनी वेषांतर करून रचला सापळा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-26T21:31:45",
-            "url": "https://www.esakal.com/pune/indapur-nimsakhar-murder-case-accused-somnath-pawar-arrested-after-18-months-walchandnagar-police-disguise-operation-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/xeh5ofk5/Esakal-10.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7a88b8037d01",
-            "feed": "esakal",
-            "title": "Kannad Theft: कन्नड बसस्थानकातील महिलेची तीन लाखांची सोन्याची पोत लांबवणारा चोरटा अवघ्या पाच तासांत जेरबंद",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-26T21:26:26",
-            "url": "https://www.esakal.com/marathwada/kannad-city-police-gold-chain-theft-woman-bus-stand-3-lakh-stolen-gold-chain-thief-arrested-within-five-hours-police-action-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/1t6b3zqy/Esakal-9.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "8649b3bcc6c6",
-            "feed": "esakal",
-            "title": "CM Gram Sadak Road Safety: प्रशासन झोपेत असताना शेतमजुराचा पुढाकार; मुख्यमंत्री ग्रामसडक योजनेतील ‘मृत्यूचा खड्डा’ अखेर बुजला",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-26T21:20:26",
-            "url": "https://www.esakal.com/marathwada/gangapur-june-lakhmapur-chief-minister-gram-sadak-yojana-road-pothole-amalner-shivar-farmer-labourer-ashok-salve-filled-pothole-social-work-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/uuu2dyij/Esakal-8.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "bea2bb12a04d",
-            "feed": "maharashtratimes",
-            "title": "जितूनं फूस लावली! तरुणाची स्वत:च्याच घरात चोरी; 50 लाख लंपास, GF वर 5 लाख उडवले, आयफोन गिफ्ट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-26T21:25:39",
-            "url": "https://maharashtratimes.com/india-news/assam-shocker-man-steals-rs-50-lakh-gold-from-own-house-spends-on-girlfriend/articleshow/133545417.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d901eecf6346",
-            "feed": "esakal",
-            "title": "डांबरगोळी नेमकी कशापासून तयार होते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-26T21:17:03",
-            "url": "https://www.esakal.com/ampstories/web-story/what-are-mothballs-made-of-naphthalene-uses-benefits-risks-and-safety-precautions-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/v0ypu55z/9.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "b66bbef1ddcd",
-            "feed": "esakal",
-            "title": "एक्सपायर झालेल्या औषधांचं पुढे काय होतं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-26T21:11:40",
-            "url": "https://www.esakal.com/ampstories/web-story/what-happens-to-expired-medicines-in-india-how-expired-medicines-are-collected-returned-and-safely-disposed-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/r4egop13/What-Happens-to-Expired-Medicines-1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "ecf6e368265d",
-            "feed": "maharashtratimes",
-            "title": "हॉटेलच्या खोलीत 2 तरुण अन् 1 तरुणी; महिन्याची कमाई 18 लाख, पुणेकराचा 'गेम' पोलिसांकडून उघड",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-26T20:43:55",
-            "url": "https://maharashtratimes.com/india-news/jaipur-police-bursted-online-betting-racket-one-girl-and-two-men-arrested-from-hotel-room/articleshow/133544743.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "39e836e0be91",
+            "id": "84cb6fc84496",
             "feed": "lokmat",
-            "title": "हातात गंगाजल अन् अवैध ‘कमाई’ वाटपाची शपथ; UP मधील नगरसेवकांचा VIDEO व्हायरल, प्रकरण काय?",
+            "title": "नेपाळमधील पूरस्थितीत अडकलेल्या महाराष्ट्रातील नागरिकांसाठी सरकारकडून हेल्पलाईन नंबर जारी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": "maharashtra"
             },
-            "published": "2026-08-26T20:42:51",
-            "url": "https://www.lokmat.com/national/councillors-in-shahjahanpur-uttar-pradesh-holding-gangajal-while-taking-an-oath-to-engage-in-corruption-and-share-illegal-earnings-video-viral-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gangajal-corporater_2026081771438.jpg",
+            "published": "2026-08-26T23:35:15",
+            "url": "https://www.lokmat.com/maharashtra/nepal-flood-government-issues-helpline-number-for-maharashtra-citizens-stranded-in-nepal-floods-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-flood-helpline-number-2_2026081771458.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6cbc8df94adf",
+            "feed": "esakal",
+            "title": "Palghar Tribal Women Bamboo Rakhi: पालघरच्या आदिवासी भगिनींकडून राज्यपालांना ‘बांबू राखी’; स्वावलंबन, कौशल्य आणि संस्कृतीचा अनोखा स्नेहबंध",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-26T23:08:56",
+            "url": "https://www.esakal.com/mumbai/tribal-women-bamboo-rakhi-raksha-bandhan-governor-jishnu-dev-varma-seva-vivek-palghar-self-reliance-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/6m3dz0xr/Esakal-14.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "23eef74d61bf",
+            "feed": "maharashtratimes",
+            "title": "Kolhapur Gokul Election : गोकुळच्या रणांगणात सतेज पाटील आणि भाजप जिल्हाध्यक्षांच्या भेटीमुळे नवा ट्विस्ट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-26T23:04:17",
+            "url": "https://maharashtratimes.com/maharashtra/kolhapur/congress-mla-satej-patil-meet-bjp-leader-rajwardhan-naik-nimbalkar-before-gokul-election/articleshow/133547125.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c53823094ded",
+            "feed": "lokmat",
+            "title": "साताऱ्यातील १० महिला पर्यटक नेपाळमध्ये सुरक्षित; प्रशासनाकडून संपर्क, पोखरातील हाॅटेलमध्ये वास्तव्य",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-26T22:35:47",
+            "url": "https://www.lokmat.com/satara/nepal-flood-10-female-tourists-from-satara-safe-in-nepal-contacted-by-administration-staying-in-a-hotel-in-pokhara-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-shs91zh_2026081771456.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5d9ae5739033",
+            "feed": "maharashtratimes",
+            "title": "Pune News : पुण्यातलं चक्रावणारं प्रकरण, जेलमध्ये भेटले अन् कट आखला, सायबर क्राईमचं जाळं विणलं",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-26T22:31:30",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/two-accused-arrested-in-cyber-crime-case-crime-was-planned-in-jail/articleshow/133546589.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
+    "india": [
+        {
+            "id": "9fd6ae302ccd",
+            "feed": "maharashtratimes",
+            "title": "पांढरे केस होतील काळेकुट्ट? या 5 गोष्टी तेलात मिक्स करून लावा,",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-27T00:05:00",
+            "url": "https://maharashtratimes.com/lifestyle-news/yuva-katta/white-hair-care/articleshow/133549130.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "548148d7e5bd",
+            "feed": "esakal",
+            "title": "डाळी-कडधान्ये आरोग्यासाठी चांगली, पण डायबेटीस असल्यास ‘हे’ नक्की वाचा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-26T23:57:28",
+            "url": "https://www.esakal.com/ampstories/web-story/diabetes-keep-these-things-in-mind-while-eating-legumes-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/5r389aqp/Legumes-for-Diabetes.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8db739f48d8f",
+            "feed": "esakal",
+            "title": "कुत्रा तुमच्याकडे एकटक का पाहतो? संशोधनातून काय आलं समोर?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-26T23:40:13",
+            "url": "https://www.esakal.com/ampstories/web-story/why-does-your-dog-stare-at-you-research-reveals-a-fascinating-reason-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/8d0jsu4d/Dog-Scratches-and-Rabies-1.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "2cdf08701624",
+            "feed": "maharashtratimes",
+            "title": "MPSC Paper Leak Timeline: जाहिरातीपासून ते थेट अधिकाऱ्यांच्या अटकेपर्यंत!  औषध निरीक्षक भरती घोटाळ्याचा संपूर्ण घटनाक्रम",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-26T22:57:42",
+            "url": "https://maharashtratimes.com/career/career-news/mpsc-drug-inspector-paper-leak-case-complete-timeline-marathi-news/articleshow/133538524.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "d067c0fdc966",
+            "feed": "maharashtratimes",
+            "title": "Mohan Joshi : 'स्वतः माल भरायचो आणि उतरवायचो', नाटकासाठी सोडली नोकरी, सुरू केला टेम्पोचा व्यवसाय; मोहन जोशींनी सांगितला संघर्ष काळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-26T22:41:14",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/mohan-joshi-talks-about-his-struggle/articleshow/133546875.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
     "world": [
+        {
+            "id": "0f852ac49d1e",
+            "feed": "esakal",
+            "title": "Nepal Flash Flood: नेपाळच्या अवस्थेला चीन जबाबदार? पुराची माहिती 45 मिनिटं उशिरा दिल्याचा आरोप; नेमकं काय घडलं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-26T22:46:22",
+            "url": "https://www.esakal.com/global/nepal-flash-flood-china-45-minute-delay-warning-allegation-kerung-tibet-rasuwa-casualties-missing-tourists-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/fcv3zadl/Latest-Marathi-Breaking-News-2026-08-26T224431.594.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "23084c16e5fb",
+            "feed": "lokmat",
+            "title": "'भरी कोर्ट मै गोली मारेंगे' गाण्यानं चर्चेत आलेल्या अभिनेता अंकित बालियनची गोळ्या झाडून हत्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-26T22:17:14",
+            "url": "https://www.lokmat.com/crime/actor-ankit-baliyan-who-became-famous-for-the-song-bhari-court-main-goli-maarenge-was-shot-dead-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ankit-baliyan-ah181_2026081771454.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "d65fd360c901",
+            "feed": "lokmat",
+            "title": "तिबेटमध्ये भूकंप, हिमस्खलन, नदीचा प्रवाह अडला अन् काही मिनिटांत नेपाळमध्ये आली महापुराची लाट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-26T21:43:15",
+            "url": "https://www.lokmat.com/photos/international/nepal-flood-reason-earthquake-avalanche-in-tibet-river-flow-blocked-and-in-a-few-minutes-a-massive-flood-wave-hit-nepal-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-flood-thumbnil1_2026081771451.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "9d7a6e911204",
             "feed": "esakal",
@@ -196,101 +244,53 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "84510ae59f2d",
-            "feed": "lokmat",
-            "title": "Nepal Floods: नेपाळच्या महाप्रलयात मोठी जीवितहानी, मृतांचा आकडा ६२ वर, ५०० हून अधिक जण बेपत्ता, बचावकार्य सुरू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-26T19:30:46",
-            "url": "https://www.lokmat.com/international/nepal-rasuwa-trishuli-river-flood-62-deaths-and-over-500-missing-india-on-high-alert-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-floods-2_2026081771408.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f6ef063dadd4",
-            "feed": "maharashtratimes",
-            "title": "Nepal Flood Update: नेपाळमध्ये भीषण पूर, 100 हून अधिक भारतीय पर्यटक बेपत्ता; कैलास यात्रेला गेलेल्यांचाही समावेश",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-26T19:19:44",
-            "url": "https://maharashtratimes.com/international/international-news/nepal-floods-updates-fear-of-more-than-100-indian-tourist-missing/articleshow/133541631.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8b646a9e380d",
-            "feed": "lokmat",
-            "title": "अचानक आलेल्या पुरामुळे भयंकर विध्वंस, रस्ते, पूल, गाड्या गडप; नेपाळमधील पुरानंतरची भीषण दृश्यं",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-08-26T19:05:07",
-            "url": "https://www.lokmat.com/photos/international/nepal-flash-flood-flash-floods-cause-terrible-destruction-roads-bridges-cars-destroyed-horrific-scenes-after-floods-in-nepal-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-flood-image-3_2026081771356.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "f3642f99dc4c",
+            "id": "1958d77b64f3",
             "feed": "maharashtratimes",
-            "title": "Ravindra Jadeja No Ball Record : रवींद्र जडेजा 88 वर, पाकिस्तानचा स्टार 40 वर; टीम इंडियाची चिंता वाढवणारे आकडे नेमके कोणत्या रेकॉर्डचे?",
+            "title": "ICC Ranking : मानव सुतारची ICC रँकिंगमध्ये हनुमान उडी, 2 मॅचमध्ये 17 विकेट घेत प्रसिध, सुंदर, अक्षर पटेल यांना टाकलं मागे; कितव्या स्थानी जाणून घ्या",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-26T20:39:22",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ravindra-jadeja-embarrassing-88-no-ball-record-noman-ali-pakistan-on-40-ind-vs-sl-test-indian-spinners/articleshow/133544293.cms",
+            "published": "2026-08-27T00:05:27",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/icc-ranking-manav-suthar-jump-28-places-only-two-matches-for-india/articleshow/133549318.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fb1cff1fed64",
-            "feed": "esakal",
-            "title": "IND vs SL: शुभमन गिल पळत गेला अन् हवेत झेपावत घेतला भन्नाट कॅच! श्रीलंकेची जमलेली जोडी फोडली, पाहा Video",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-26T19:29:39",
-            "url": "https://www.esakal.com/krida/cricket/shubman-gill-takes-spectacular-diving-catch-to-dismiss-kamindu-mendis-india-vs-sri-lanka-colombo-test-day-4-video-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/hde8j7nt/Shubman-Gill-Sri-Lanka-vs-India-2nd-Test.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "60eca0df42b9",
+            "id": "efdce093ee02",
             "feed": "maharashtratimes",
-            "title": "IND vs SL : विजयाचा क्षण जवळ आला अन् पावसाने खेळ केला; पाचव्या दिवशी टीम इंडिया 4 विकेट्स घेणार की श्रीलंका सामन्यात आणखी एक ट्विस्ट आणणार?",
+            "title": "Rishabh Pant News : जखमी वाघासारखा मैदानात परतला अन् धावांचं वादळ आलं; ऋषभ पंतला मेहनतीचं फळ मिळालं, आता ICCरँकिंगमध्ये थेट एक नंबर",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-26T19:14:39",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-second-test-sri-lanka-229-6-india-four-wickets-away-from-win-series/articleshow/133543037.cms",
+            "published": "2026-08-26T23:23:39",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/rishabh-pant-takes-historic-leap-in-icc-test-rankings-becomes-indias-number-1-batsman/articleshow/133547133.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "93970f7c1ae0",
+            "feed": "maharashtratimes",
+            "title": "IND vs SL Test Series : कोलंबो टेस्टच्या अखेरच्या दिवशी टीम इंडियाचे हे ५ खेळाडू ठरवणार सामन्याचा निकाल; एकाकडे कमबॅकची संधी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-26T21:32:42",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-sri-lanka-second-test-colombo-day5-saransh-jain-manav-suthar-kl-rahul-yashasvi-jaiswal-shubman-gill/articleshow/133545781.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
