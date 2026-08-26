@@ -1,252 +1,284 @@
 {
-    "lastUpdated": "26-08-2026 | 03:54 PM IST",
+    "lastUpdated": "26-08-2026 | 04:50 PM IST",
     "maharashtra": [
         {
-            "id": "4e71f815098d",
-            "feed": "maharashtratimes",
-            "title": "Pune News: पुण्यात शाळा-महाविद्यालयांच्या १०० मीटर परिसरातील पानटपऱ्यांवर मोठी कारवाई; १९ टपऱ्या निष्कासित",
+            "id": "f9957e2fd633",
+            "feed": "lokmat",
+            "title": "ओटीपीही नाही, एपीकेही नाही; मेसेजला 'नाही' म्हणताच 'CA'च्या खात्यातून १.७० लाख गायब",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-26T15:50:59",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/major-crackdown-on-stalls-near-schools-and-colleges-in-pune-19-stalls-removed/articleshow/133537452.cms",
-            "image": "",
+            "published": "2026-08-26T16:43:43",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/no-otp-no-apk-170-lakhs-disappeared-from-cas-account-as-soon-as-he-said-no-to-the-message-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cyber-crime-abd-mobile-money-a_2025101570292.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "30f1e8d5e93b",
-            "feed": "maharashtratimes",
-            "title": "I Love You म्हणत विद्यार्थ्यांचा कल्लोळ, तरुणानं गुलाब दिलं, रोहित पवारांचा PM मोदींना टोला",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-26T15:35:42",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/mpsc-student-gives-rose-to-rohit-pawar-saying-i-love-you-video-goes-viral/videoshow/133537271.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9528489eb504",
+            "id": "3606aafd5b8c",
             "feed": "esakal",
-            "title": "Kolhapur Gender Determination Case: हॉस्पिटलचा व्यवस्थापक, नर्स अटकेत; १६ संशयितांची नावे समोर; नऊ जणांना अटक",
+            "title": "Shalarth ID Scam: शालार्थ आयडी घोटाळा ईडीकडे सोपवावा; शिक्षक परिषदेची मुख्यमंत्री, शिक्षणमंत्र्यांकडे मागणी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-26T15:31:49",
-            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-gender-determination-case-hospital-manager-nurse-arrested-police-investigation-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/kfxk6xq6/Abhi-7.jpg",
+            "published": "2026-08-26T16:32:23",
+            "url": "https://www.esakal.com/vidarbha/nagpur/shalarth-id-scam-investigation-ed-enforcement-directorate-maharashtra-state-teachers-council-demand-devendra-fadnavis-eknath-shinde-dadaji-bhuse-pankaj-bhoyar-education-department-corruption-fake-shalarth-id-scam-sit-investigation-maharashtra-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-23/iy18rkpv/Shalarth-ID-Scam",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "878370c71dee",
+            "id": "18586dd4c858",
             "feed": "lokmat",
-            "title": "'पैसे भरा अन्यथा गुन्हा'; ग्रामविकासाचा १ कोटींचा निधी हडपला; सरपंचासह ५ जणांना वसूली नोटिस",
+            "title": "Satara Crime: पोटच्या मुलीवर अत्याचाराचा प्रयत्न; बापाला दहा वर्ष शिक्षा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-26T16:32:10",
+            "url": "https://www.lokmat.com/satara/the-additional-district-and-sessions-court-at-vaduj-sentenced-the-accused-father-to-ten-years-of-rigorous-imprisonment-for-attempting-to-sexually-assault-his-own-minor-daughter-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-satara-news-photo_2026081771148.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "87e63cf37c69",
+            "feed": "lokmat",
+            "title": "पुरवठा विभागाचे साखरेच्या साठेबाजीवर सांगली, मिरजेत ९ ठिकाणी छापे",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-26T15:27:14",
-            "url": "https://www.lokmat.com/beed/rs103-cr-panchayat-scam-nandurghat-sarpanch-gram-sevak-and-another-officers-given-3-day-ultimatum-to-return-embezzled-funds-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/grampanchayat-scam-one-crore-fea_2026081771052.jpg",
+            "published": "2026-08-26T16:27:51",
+            "url": "https://www.lokmat.com/sangli/supply-department-raids-9-places-in-sangli-miraj-for-sugar-hoarding-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/suger-raid-sangli_2026081771139.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "1bb0d1889f51",
+            "id": "cbb9cd7ac0f6",
             "feed": "lokmat",
-            "title": "Sangli News: कॅनॉलमध्ये कोसळली कार, चालक बेपत्ता; शोधमोहीम सुरू",
+            "title": "Sangli: खरेदीदस्त नोंद मंजुरीसाठी सहा हजाराची लाचेची मागणी, कडेगावचा मंडल अधिकारी अटकेत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-26T15:21:00",
-            "url": "https://www.lokmat.com/sangli/driver-missing-after-car-plunges-into-canal-in-the-zhurewadi-jarwad-area-of-sangli-district-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/canol-car-news_2026081771051.jpg",
+            "published": "2026-08-26T16:16:28",
+            "url": "https://www.lokmat.com/sangli/demand-for-bribe-of-rs-6000-for-approval-of-purchase-order-divisional-officer-of-kadegaon-arrested-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kadegaon-bribe-arest_2026081771125.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "5f515d4cf69f",
-            "feed": "esakal",
-            "title": "रेल्वे इंजिनला वेगवेगळे रंग का असतात? \nवाचा इंजिनच्या रंगांचे अर्थ!",
+            "id": "917da81ff438",
+            "feed": "maharashtratimes",
+            "title": "US Visa Crisis: भारतीयांसाठी अमेरिकेचे दरवाजे बंद? Trump यांच्या Immigration धोरणाचा फटका",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-26T15:54:22",
-            "url": "https://www.esakal.com/ampstories/web-story/why-railway-engines-have-different-colors-meaning-explained-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/6mjtcqwc/The-Secrets-Behind-Indian-Railway-Engine-Colors.png",
+            "published": "2026-08-26T16:46:37",
+            "url": "https://maharashtratimes.com/video/mt-originals/us-visa-crisis-indians-trump-immigration-policy-h1b-visa-crackdown/videoshow/133539092.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "0dcd20fbf94b",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update : करमाडमध्ये टोमॅटो दरावरून शेतकऱ्यांचा उद्रेक",
+            "id": "b4491e1e71b2",
+            "feed": "maharashtratimes",
+            "title": "MPSC Paper Leak: एमपीएससी परीक्षा पेपरफुटीत थेट वरिष्ठ अधिकाऱ्यांचाच हात! अवर सचिवांसह ६ जणांना अटक केल्याने आयोगाच्या विश्वासार्हतेला मोठा तडा",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-26T15:53:44",
-            "url": "https://www.esakal.com/desh/marathi-news-live-update-26-august-2026-central-maharashtra-marathwada-rain-forecast-weather-updatemaharashtra-politics-pm-narendra-modi-rahul-gandhi-pune-chatro-ki-gunj-sharad-pawar-uddhav-thackeray-eknath-shinde-abhijeet-dipke-weather-imd-koyna-dam-maharashtra-rain-uodate-cm-devendra-fadnavis-farm-loan-waiver-mumbai-pune-traffic-update-srs92-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2024-03/d400462f-6713-4b33-8ed6-d973316daa07/latest_Marathi_News___2024_02_08T091255_317__1_.jpg",
+            "published": "2026-08-26T16:44:35",
+            "url": "https://maharashtratimes.com/career/career-news/mpsc-drug-inspector-paper-leak-under-secretary-abhijeet-lendwe-arrested-marathi-news/articleshow/133538792.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "4476e44940f4",
+            "id": "1054dfd7240a",
             "feed": "lokmat",
-            "title": "१७ वर्षे खासदार, १२ वर्षे भाजपची सत्ता, तरी गुरुग्राम पाण्यात, राव इंद्रजीत सिंह म्हणतात, याला काँग्रेस जबाबदार…",
+            "title": "flowering plants : घर सुगंधानं भारुन टाकणारी रंगबिरंगी ७ फुलझाडं लावा आजच, वाढतात भरभर आणि घरात येते प्रसन्नता",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": null
             },
-            "published": "2026-08-26T15:47:52",
-            "url": "https://www.lokmat.com/national/17-years-as-mp-gurugram-flooded-again-rao-inderjit-singh-blames-congress-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mp-rao-inderjit-singh_2026081771040.jpg",
+            "published": "2026-08-26T16:39:04",
+            "url": "https://www.lokmat.com/sakhi/photos/gardening/flowering-plants-plant-7-colorful-flowering-plants-great-fragrance-beautiful-colours-a-a1009/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/beautiful-flowerss_2026081771162.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         },
         {
-            "id": "c5873db28feb",
+            "id": "457e5771e4ad",
+            "feed": "lokmat",
+            "title": "गव्हाच्या पिठात मिसळा ५ गोष्टी, कार्ब कमी आणि प्रोटीन जास्त मिळेल, पाहा नेमकं करायचं काय..",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-26T16:37:54",
+            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-increase-protein-in-wheat-flour-for-chapati-how-to-make-high-protein-chapati-at-home-what-to-add-to-wheat-flour-to-increase-protein-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-increase-protein-in-roti_2026081770995.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3e238a98264d",
             "feed": "esakal",
-            "title": "पाकिटात 1 रुपयाचं नाणं का ठेवतात? कारण जाणून तुम्हालाही आश्चर्य वाटेल!",
+            "title": "रक्तातील साखर वाढतेय? लवंगाचं पाणी ठरू शकतं उपयोगी; कसं प्यावं?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-26T15:40:35",
-            "url": "https://www.esakal.com/ampstories/web-story/why-one-rupee-coin-kept-in-gift-envelope-shagun-packet-religious-significance-indian-tradition-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/7017poga/Pintrest.jpg",
+            "published": "2026-08-26T16:37:44",
+            "url": "https://www.esakal.com/ampstories/web-story/clove-water-benefits-blood-sugar-control-eugenol-antioxidants-how-to-drink-clove-water-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/n3kz219n/CLOVE-WATER-BENEFITS",
             "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "907bf32a02b7",
-            "feed": "esakal",
-            "title": "DDLJ च्या क्लायमॅक्समध्ये सगळे होते पण एक अभिनेत्री नव्हती; तिच्यामुळे बदलला चित्रपटाचा शेवट; इतक्या वर्षांनी सांगितलं कारण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-26T15:40:22",
-            "url": "https://www.esakal.com/premier/popular-actress-missing-from-final-scene-of-ddlj-her-absence-forced-makers-to-change-the-film-ending-years-later-reason-revealed-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/rg51t2mt/dilwale-dulhaniya-le-jayenge-climax.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "f6d88d86743d",
+            "id": "8f64bae9341f",
+            "feed": "esakal",
+            "title": "Nepal Flood: नेपाळमध्ये पावसाविना पूर! २९१ विदेशी नागरिक बेपत्ता; १०५ भारतीयांचा समावेश, १६ जणांचा मृत्यू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-26T16:42:06",
+            "url": "https://www.esakal.com/global/nepal-bhote-koshi-river-flash-flood-indian-tourists-missing-kailash-mansarovar-pilgrims-bihar-high-alert-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/ohhf8kna/Latest-Marathi-Breaking-News-2026-08-26T163336.504.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "4def517a5b84",
             "feed": "lokmat",
-            "title": "मोहन भागवत यांच्या कार्यक्रमास विरोध करणाऱ्या ममदानींवर संतापली अमेरिकन अभिनेत्री, म्हणाली...",
+            "title": "Video:भयंकर! काही क्षणांपूर्वी शांत असणाऱ्या नदीनं अचानक धारण केलं रौद्र रूप, पूल, घरं सारं उद्ध्वस्त",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-08-26T15:33:58",
-            "url": "https://www.lokmat.com/international/american-singer-mary-millbengets-angry-at-mamdani-for-opposing-mohan-bhagwats-program-says-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mohan-bhagwat-rss-usa-1_2026081771058.jpg",
+            "published": "2026-08-26T16:37:35",
+            "url": "https://www.lokmat.com/international/nepal-flash-flood-horrible-the-river-which-was-calm-a-few-moments-ago-suddenly-took-on-a-violent-form-bridges-houses-were-destroyed-watch-the-video-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-flood-1_2026081771141.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6020ebe3c954",
-            "feed": "lokmat",
-            "title": "'स्क्रिप्टेड विनर' म्हणणाऱ्यांना तन्वी कोलतेचं सडेतोड उत्तर; म्हणाली, \"शो झाला, आता...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-26T14:52:42",
-            "url": "https://www.lokmat.com/filmy/television/tanvi-koltes-blunt-reply-to-those-who-call-her-a-scripted-winner-for-bigg-boss-marathi-she-said-the-show-is-over-now-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tanvi-kolte-bigg-boss_2026081771022.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "8c9baed40fb0",
-            "feed": "esakal",
-            "title": "Premium|Brain Health : अब्जावधी लोक मेंदूच्या आजारांनी त्रस्त; मेंदूचे आरोग्य जपण्यासाठी काय कराल?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-26T13:00:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/brain-health-world-brain-day-brain-diseases-treatment-access-healthcare-nutrition-neurological-disorders-essential-medicines-medical-care-global-health-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-23/kuzr5kym/Abhi-93.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "483b3992fcbf",
+            "id": "18c074d3443e",
             "feed": "maharashtratimes",
-            "title": "Pakistan Fire : पाकिस्तानच्या बाल रुग्णालयात भीषण स्फोट, १६ पैकी १५ नवजात अर्भकांचा जागीच मृत्यू",
+            "title": "Nepal Flood : नेपाळमध्ये महापूर!  हजारहून अधिक लोक गेले वाहून, घर पत्त्यांसारखे कोसळले",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-08-26T12:37:11",
-            "url": "https://maharashtratimes.com/international/international-news/pakistans-government-hopital-caught-fire-15-new-born-baby-died/articleshow/133532158.cms",
+            "published": "2026-08-26T16:30:14",
+            "url": "https://maharashtratimes.com/international/international-news/nepal-floods-sweep-several-districts-many-people-are-missing-high-alert-situation/articleshow/133535128.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "afcf970d01f7",
-            "feed": "esakal",
-            "title": "Premium|Makkah Joint Defence Agreement : मक्का करारामुळे सौदी, तुर्कीए-पाकिस्तान एकत्र; भारतासाठी नवं सुरक्षा समीकरण किती मोठं आव्हान ठरणार?",
+            "id": "4c1b2075227c",
+            "feed": "maharashtratimes",
+            "title": "पाकिस्तानच्या कराचीत हे कोकणी कुटुंब बनवतंय सराळे,पण नक्की काय आणि कसा बनतो हा पदार्थ",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-26T12:00:00",
-            "url": "https://www.esakal.com/premium-article/makkah-joint-defence-agreement-saudi-arabia-turkiye-pakistan-india-security-strategic-alliance-regional-defence-nato-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/bmm3g6hf/Abhi-2026-08-26T084226.255.jpg",
+            "published": "2026-08-26T15:59:12",
+            "url": "https://maharashtratimes.com/lifestyle-news/home-decor-hacks/konkani-family-in-karachi-pakistan-is-making-sarawle-or-sarole-but-what-is-this-traditional-dish/articleshow/133537813.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "7a5077a123f6",
+            "feed": "lokmat",
+            "title": "Nepal Floods : नेपाळमध्ये निसर्गाचा प्रकोप! १०५ भारतीय पर्यटक बेपत्ता; मानसरोवर यात्रेकरूंवरही ओढावलं संकट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-08-26T15:50:58",
+            "url": "https://www.lokmat.com/international/nepal-floods-105-indian-tourists-missing-mansarovar-yatra-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-floods_2026081771093.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "b04dd2b66bd7",
+            "feed": "maharashtratimes",
+            "title": "ICC Test Ranking : ICC टेस्ट रँकिंग जाहीर, यॉर्कर किंग बुमराहने कसोटीतील नंबर वनचे सिंहासन गमावले; जाणून घ्या कारण",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-26T16:06:17",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/icc-test-ranking-mitchell-starc-replaces-jasprit-bumrah-number-one-position/articleshow/133537645.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b3311b9a04d8",
+            "feed": "lokmat",
+            "title": "ICC Rankings : वयाच्या ३६ व्या वर्षी स्टार्कची कमाल! बुमराहला मागे टाकत पहिल्यांदा बनला 'नंबर वन'",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-26T15:52:27",
+            "url": "https://www.lokmat.com/cricket/news/mitchell-starc-dethrones-jasprit-bumrah-becomes-icc-no-1-test-bowler-for-first-time-in-his-career-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mitchell-starc-dethrones-jasprit-bumrah-becomes-icc-no-1-test-bowler-m_2026081771098.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "8cc9979fa019",
             "feed": "maharashtratimes",
@@ -262,88 +294,56 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "f141fc777d85",
-            "feed": "esakal",
-            "title": "वैभव सूर्यवंशीच्या टेस्ट ड्रीमला मोठा धक्का? राहुल द्रविड यांनी सांगितली मोठी अडचण; म्हणाले, ‘अजून बराच पल्ला गाठायचा आहे’",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-08-26T15:10:43",
-            "url": "https://www.esakal.com/krida/cricket/vaibhav-sooryavanshi-test-dream-rahul-dravid-statement-india-test-team-ranji-red-ball-cricket-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/n523a43o/vaibhv-suryavanshi.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "24418433a999",
-            "feed": "lokmat",
-            "title": "Nightclub Controversy : 'जेंटलमन्स गेम'मधील स्टार खेळाडूंचा मैदानाबाहेर 'रात्रीस खेळ चाले...'; कॅप्टन जो रूट वैतागला!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-26T15:08:26",
-            "url": "https://www.lokmat.com/cricket/news/joe-root-disappointed-over-brydon-carse-nightclub-controversy-incident-says-fast-bowler-is-apologetic-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/joe-root-disappointed-over-brydon-carse-nightclub-controversy-m_2026081771043.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "ac4445b686d5",
-            "feed": "lokmat",
-            "title": "शेतीतील तोट्यावर जाफराबादचा भन्नाट उतारा! दररोज २५ हजार लिटरची 'दूधगंगा', शेतकरी मालामाल",
+            "id": "dd66de29ecda",
+            "feed": "esakal",
+            "title": "Investment: पोस्ट ऑफिसच्या 15-5-5 फॉर्म्युल्याने बना करोडपती! काय आहे ही गुंतवणूक योजना?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-26T15:42:42",
-            "url": "https://www.lokmat.com/jalana/jafrabad-dairy-model-daily-25000-litres-milk-collection-boosts-rural-economy-in-jalna-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/milk-gramin-jafrabad-jalana-fea_2026081771071.jpg",
+            "published": "2026-08-26T16:41:40",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/post-office-15-5-5-formula-ppf-investment-plan-25-years-one-crore-corpus-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-26/1462jma8/Copy-of-Copy-of-banner-2026-08-26T163010.848.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "b5414cdb9790",
+            "id": "d84d1a7a62fc",
             "feed": "lokmat",
-            "title": "महसूल मंत्र्यांच्या घोषणेमुळे शेतकऱ्यांच्या आशा पल्लवित; 'त्या' पडीक जमिनी परत द्या, शेतकऱ्यांच्या मागणीने धरला जोर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-26T15:31:38",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/farmers-hopes-revived-due-to-revenue-ministers-announcement-give-back-those-wasteland-farmers-demand-gains-momentum-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-r-34-land-business-government-farmer_2026081770934.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "5c5abcd0327a",
-            "feed": "lokmat",
-            "title": "इलॉन मस्क १,२५,००० एकर जमिनीवर उभारणार जगातील सर्वात मोठे 'स्पेस सेंटर', खर्च ऐकून चक्रावून जाल",
+            "title": "'या' शेअरने गुंतवणूकदारांना दिला छप्परफाड परतावा; अवघ्या सहा वर्षात ₹१ लाखांचे झाले ५२ लाख रुपये",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-08-26T15:29:25",
-            "url": "https://www.lokmat.com/business/news/elon-musk-will-build-the-worlds-largest-space-center-on-125000-acres-of-land-you-will-be-shocked-to-hear-the-cost-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/spacex-elonmusk_2026081771061.jpg",
+            "published": "2026-08-26T16:24:35",
+            "url": "https://www.lokmat.com/business/stock-market/this-stock-gave-sky-high-returns-to-investors-rs1-lakh-became-rs52-lakh-in-just-six-years-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cg-power-shares_2026081771132.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "8f97ab6072d6",
+            "feed": "lokmat",
+            "title": "Kharif Crop Management : खरीप पिकांवर पाण्याच्या ताणाचे संकट; संरक्षक सिंचनासह 'हे' ५ उपाय ठरतील फायदेशीर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-26T16:22:35",
+            "url": "https://www.lokmat.com/agriculture/smart-farming/latest-news-kharif-crop-management-water-stress-crisis-on-kharif-crops-these-5-solutions-along-with-conservation-irrigation-will-be-beneficial-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crop-adv-1_2026081771127.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
