@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "30-08-2026 | 02:52 AM IST",
+    "lastUpdated": "30-08-2026 | 05:12 AM IST",
     "maharashtra": [
+        {
+            "id": "774439663a01",
+            "feed": "esakal",
+            "title": "Mumbai High Court : आश्रमशाळेत 3 मुलींचा सर्पदंशाने मृत्यू अन् राज्यभर संताप! उपोषणाला बसलेल्या आदिवासी विद्यार्थ्यांसाठी 24 तास डॉक्टर हजर ठेवा, उच्च न्यायालयाचे आदेश",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-30T05:01:29",
+            "url": "https://www.esakal.com/mumbai/tribal-students-protest-gadchiroli-ashram-school-snakebite-deaths-bombay-high-court-medical-care-maharashtra-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/ps8zx7ae/tribal-students-hunger-strike-Maharashtra",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8c5858b06e84",
+            "feed": "esakal",
+            "title": "Tribal Students Protest : CM फडणवीसांची मध्यस्थी अन् रात्री निर्णय; पुण्यातील आदिवासी विद्यार्थ्यांचं उपोषण स्थगित, मागण्या पूर्ण न झाल्यास पुन्हा आंदोलनाचा इशारा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-30T04:46:14",
+            "url": "https://www.esakal.com/pune/tribal-students-protest-maharashtra-devendra-fadnavis-demands-accepted-12500-recruitment-hostel-food-dbt-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/2qj9jhm0/Tribal-Students’-Major-Demands-Accepted-by-Maharashtra-Government",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "379074ac227b",
             "feed": "esakal",
@@ -48,41 +80,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-29/yicgjpyi/Nitin-Patil-Ramraje-Naik-Nimbalkar-and-Udayanraje-Bhosale",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "9b842a5404e8",
-            "feed": "esakal",
-            "title": "Lonanad Accident : सालपे घाटात दुचाकीवरील दांपत्‍य ठार; अखेरच्‍या वळणावर ट्रकची मागून धडक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-29T22:53:48",
-            "url": "https://www.esakal.com/satara/couple-on-two-wheeler-killed-at-salpe-ghat-truck-hits-them-from-behind-on-final-turn-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-29/jsv00o9u/Tanaji-Kharade-and-Rekha-Kharade",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0f531329007a",
-            "feed": "esakal",
-            "title": "Paithan-Sambhajinagar Highway Crash: पैठण-छत्रपती संभाजीनगर महामार्गावर भीषण अपघात; अर्धवट रस्त्याच्या कामामुळे दुचाकीस्वाराचा मृत्यू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-29T22:50:44",
-            "url": "https://www.esakal.com/marathwada/paithan-chhatrapati-sambhajinagar-highway-accident-kaudgaon-car-bike-collision-two-wheeler-rider-bappasaheb-dinde-dies-road-work-safety-bidkin-police-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-29/qqzivgcp/Esakal-25.png",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
+        {
+            "id": "c00350a027bd",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 30 August 2026: मूलांक 4 तज्ज्ञांचा सल्ला लाभदायक! मूलांक 9 नातेसंबंधातील गोडवा जपा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-30T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-30-august-2026-rashi-parivartan-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133611587.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "b71acc56fa3c",
             "feed": "esakal",
@@ -146,22 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nitin-nabin-bjp-k1_2026081773388.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "343c1f31b317",
-            "feed": "esakal",
-            "title": "मुघलांच्या प्रत्येक बादशहाला 'हा' एक शौक होता 'कॉमन'",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-29T23:02:09",
-            "url": "https://www.esakal.com/ampstories/web-story/mughal-emperors-common-hobby-hunting-from-babur-akbar-jahangir-shah-jahan-to-aurangzeb-royal-lifestyle-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-29/9is1d8je/11.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
