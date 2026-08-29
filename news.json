@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "29-08-2026 | 11:31 PM IST",
+    "lastUpdated": "30-08-2026 | 02:52 AM IST",
     "maharashtra": [
         {
             "id": "379074ac227b",
@@ -14,6 +14,22 @@
             "published": "2026-08-29T23:28:59",
             "url": "https://www.esakal.com/pune/helping-hands-reach-flood-hit-nepal-shri-mukund-bhavan-trust-donates-rupees-5-lakh-for-sakal-relief-fund-pjp78",
             "image": "https://cf-images.assettype.com/esakal/2026-08-29/xbj25dm4/Shri-Mukund-Bhavan-Trust-Donates-rupees-5-Lakh-for-sakal-Relief-fund",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ccbf7887f254",
+            "feed": "maharashtratimes",
+            "title": "Gokul Election : गोकुळच्या रणांगणात महायुतीचा 'निर्धार'; धनंजय महाडिकांचा सतेज पाटलांच्या 'समविचारी' आघाडीवर बोचरी टीका",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-29T23:26:53",
+            "url": "https://maharashtratimes.com/maharashtra/kolhapur/bjp-mp-dhananjay-mahadik-slams-satej-patil-over-gokul-election-2026/articleshow/133617195.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -64,25 +80,57 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-29/qqzivgcp/Esakal-25.png",
             "isBreaking": false,
             "category_reason": "url"
+        }
+    ],
+    "india": [
+        {
+            "id": "b71acc56fa3c",
+            "feed": "esakal",
+            "title": "चॉकलेट कोणत्या फळापासून बनतं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-30T02:00:35",
+            "url": "https://www.esakal.com/ampstories/web-story/which-fruit-is-chocolate-made-from-and-how-cacao-beans-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/dpvgzthz/From-Cacao-Fruit-to-Chocolate-1.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         },
         {
-            "id": "68c5040c0df5",
+            "id": "ca34704e399e",
             "feed": "maharashtratimes",
-            "title": "Samruddhi Mahamarg : समृद्धी महामार्गाने प्रवास करणाऱ्यांसाठी महत्त्वाची बातमी! 31 ऑगस्ट ते 7 सप्टेंबर दरम्यान टप्याटप्याने वाहतूक ब्लॉक",
+            "title": "<b>पंचांग 30 August 2026: आदित्य पूजन, नवम पंचम योग, राशी परिवर्तन योग,  बुधादित्य योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-08-29T22:47:05",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/traffic-block-on-samruddhi-mahamarg-from-august-31-to-september-7/articleshow/133616259.cms",
+            "published": "2026-08-30T00:51:31",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-30-august-2026-in-marathi-navam-pancham-yog-and-shubha-muhurta/articleshow/133617854.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
+            "category_reason": "default"
+        },
+        {
+            "id": "eeac6f69f25f",
+            "feed": "esakal",
+            "title": "साखरेऐवजी गूळ खाणं खरंच फायदेशीर आहे का?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-29T23:36:52",
+            "url": "https://www.esakal.com/ampstories/web-story/is-jaggery-really-better-than-sugar-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/3qjw2kvn/Jaggery-vs-Honey-4.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "95eaf712a820",
             "feed": "lokmat",
@@ -114,57 +162,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-29/9is1d8je/11.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "5b6c5fe63473",
-            "feed": "maharashtratimes",
-            "title": "नाना नाना! अंधाऱ्या रात्री स्कूटरवर चिमुरडा एकटा, अश्रू थांबेनात; घटनाक्रम समजताच उपस्थित हादरले",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-29T22:40:50",
-            "url": "https://maharashtratimes.com/india-news/andhra-pradesh-shocker-couple-jumped-in-godvari-river-left-3-year-old-child-alone-on-scooter/articleshow/133616158.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "fd53e3d329e6",
-            "feed": "esakal",
-            "title": "Rahul Gandhi: ''काँग्रेसचा इतिहासच दलितविरोधी'', राहुल गांधींच्या आरोपांनंतर भाजपचा जोरदार पलटवार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-29T22:39:57",
-            "url": "https://www.esakal.com/desh/bjp-counters-rahul-gandhi-dalit-anti-caste-allegations-press-conference-sudhanshu-trivedi-guru-prakash-paswan-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-12/l3tbyyae/rahul-gandhi",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "982b90fffc42",
-            "feed": "esakal",
-            "title": "Nepal Flood Miracle Rescue: नेपाळच्या महापुरातून ९७ वर्षीय गुणा माया बोहरांची चमत्कारिक सुटका; ढिगाऱ्यांतून फुललेली जगण्याची उमेद",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-29T22:13:34",
-            "url": "https://www.esakal.com/desh/nepal-flood-97-year-old-guna-maya-bohra-rescued-alive-after-four-hours-under-debris-kathmandu-flood-disaster-survival-story-sakal-relief-fund-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-29/o1fpuhfq/Esakal-23.png",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "fd4e4f126c3d",
+            "feed": "esakal",
+            "title": "Nepal Flood : ‘तो’ आयुष्यातील शेवटचा धावण्याचा क्षण...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-29T23:50:32",
+            "url": "https://www.esakal.com/global/nepal-flood-final-running-moment-of-childrens-life-heartbreaking-end-to-a-journey-filled-with-hope-struggle-and-dreams-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/rgj1neea/Nepalese-soldiers-brought-an-infant-and-another-child-who-had-survived-the-floods-to-the-Trishuli-camp",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "647b6757c4d0",
+            "feed": "esakal",
+            "title": "Nepal Flood : नेपाळमध्ये जलप्रलय! मृतांची संख्या ६६९ वर; अद्याप २५०० हून अधिक जण बेपत्ता, मदतीला वेग",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-29T23:40:05",
+            "url": "https://www.esakal.com/global/devastating-floods-in-nepal-death-toll-rises-to-669-over-2500-still-missing-as-rescue-and-relief-efforts-intensify-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/e9yqewog/An-aerial-photograph-taken-on-Saturday-showing-houses-buried-in-mud-at-Devighat-in-Nuwakot-district-following-the-floods-in-Nepal",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "9caf52872bbf",
             "feed": "maharashtratimes",
@@ -212,38 +244,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/viral-house-in-flood-nepal_2026081773319.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "d90fbf0ad37a",
-            "feed": "maharashtratimes",
-            "title": "Nepal Flash Flood : मृतदेहांची मोजणी संपलेली नाही अन् लूट सुरू; कुणी तिजोऱ्या लुटतायेत तर कुणी मृतांवरचे सोने-चांदी!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-08-29T17:40:44",
-            "url": "https://maharashtratimes.com/international/international-news/nepal-flood-updates-theft-increased-of-rupees-and-gold-silver-instead-of-help/articleshow/133611034.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a8207a0b5769",
-            "feed": "maharashtratimes",
-            "title": "दैवी चमत्कार! महापुरात आजूबाजूचं सगळं वाहून गेलं, पण या घराला साधा तडाही गेला नाही, नेपाळचा VIDEO व्हायरल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-29T17:24:30",
-            "url": "https://maharashtratimes.com/viral/viral-news/nepal-flash-flood-green-house-stands-firm-amid-massive-destruction-video-goes-viral/articleshow/133611265.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
