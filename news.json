@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "29-08-2026 | 08:18 PM IST",
+    "lastUpdated": "29-08-2026 | 11:31 PM IST",
     "maharashtra": [
         {
-            "id": "eeb37f32bf13",
-            "feed": "maharashtratimes",
-            "title": "Nagpur Crime : तब्बल 23 कोटींचा गोल्ड लोन घोटाळा, डोकं चक्रावणारं प्रकरण, खोटं सोनं गहाण ठेवून नामांकीत बँकेकडून लोन घेतल्याचा आरोप",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-29T20:15:41",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-gold-loan-scam-fake-gold-pledged-at-banks-rupees-23-crore-fraud-unearthed/articleshow/133614074.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2faab1b5738f",
-            "feed": "lokmat",
-            "title": "आदिवासी विद्यार्थ्यांचा ‘लाँग मार्च’ अखेर स्थगित; १ सप्टेंबरला मुख्यमंत्र्यांसोबत बैठक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-29T20:01:05",
-            "url": "https://www.lokmat.com/amravati/tribal-students-suspend-long-march-protest-meeting-with-cm-devendra-fadnavis-scheduled-on-september-1-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tribal-students-suspend-long-march-protest_2026081773353.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "c989d1af9f72",
-            "feed": "lokmat",
-            "title": "गणेशोत्सवात प्रसादातील भेसळ रोखण्याचे एफडीएसमोर आव्हान",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-29T19:57:57",
-            "url": "https://www.lokmat.com/pune/ganeshotsav-fda-faces-challenge-to-prevent-adulteration-of-prasad-during-ganeshotsav-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fdaganeshotsav-0223_2026081773352.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9b08034440f5",
+            "id": "379074ac227b",
             "feed": "esakal",
-            "title": "Nepal Flood : पुण्यातील ८ नागरिक सुखरूप; तर एक जण बेपत्ता",
+            "title": "Sakal Relief Fund : नेपाळमधील पूरग्रस्तांसाठी सरसावले मदतीचे हात; श्री मुकुंद भवन ट्रस्टतर्फे पाच लाखांची देणगी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-08-29T19:56:09",
-            "url": "https://www.esakal.com/pune/nepal-flood-eight-pune-residents-safe-while-one-person-remains-missing-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-27/ip54cwb0/Latest-Marathi-Breaking-News-2026-08-27T230447.517.jpg",
+            "published": "2026-08-29T23:28:59",
+            "url": "https://www.esakal.com/pune/helping-hands-reach-flood-hit-nepal-shri-mukund-bhavan-trust-donates-rupees-5-lakh-for-sakal-relief-fund-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/xbj25dm4/Shri-Mukund-Bhavan-Trust-Donates-rupees-5-Lakh-for-sakal-Relief-fund",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1534bb1f106d",
-            "feed": "lokmat",
-            "title": "शेतात आढळली तोफगोळ्यासारखी वस्तू, धाराशिवमध्ये खळबळ, बॉम्बशोधक पथक पाचारण!",
+            "id": "a8b6e6a6ba06",
+            "feed": "esakal",
+            "title": "Satara News : जिल्‍हा बँकेच्‍या सभेत पुन्‍हा ‘अमरप्रेम’ कहाणी; रामराजे नाईक निंबाळकर अन् उदयनराजे भोसले व्‍यासपीठावर एकत्र, दोघांमध्ये दिलखुलास चर्चा",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
             },
-            "published": "2026-08-29T19:52:06",
-            "url": "https://www.lokmat.com/dharashiv/dharashiv-suspicious-artillery-shell-like-object-found-in-andur-farm-mumbai-bomb-squad-called-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tofgola-dharashiv-bomb-fea_2026081773350.jpg",
+            "published": "2026-08-29T23:05:42",
+            "url": "https://www.esakal.com/satara/amar-prem-story-replayed-at-satara-district-bank-meeting-ramraje-naik-nimbalkar-udayanraje-bhosale-share-light-hearted-conversation-on-stage-politics-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/yicgjpyi/Nitin-Patil-Ramraje-Naik-Nimbalkar-and-Udayanraje-Bhosale",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
+            "category_reason": "feed"
+        },
         {
-            "id": "7c0d8c8ee5e5",
-            "feed": "maharashtratimes",
-            "title": "Zeenat Aman : 'प्रेम आणि स्वतःला गमावणं यातील फरक समजला', मजहर खानसोबतच्या लग्नानंतर झीनत अमान यांना झालेला त्रास, अभिनेत्रीनं मांडली व्यथा",
+            "id": "9b842a5404e8",
+            "feed": "esakal",
+            "title": "Lonanad Accident : सालपे घाटात दुचाकीवरील दांपत्‍य ठार; अखेरच्‍या वळणावर ट्रकची मागून धडक",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-29T22:53:48",
+            "url": "https://www.esakal.com/satara/couple-on-two-wheeler-killed-at-salpe-ghat-truck-hits-them-from-behind-on-final-turn-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/jsv00o9u/Tanaji-Kharade-and-Rekha-Kharade",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0f531329007a",
+            "feed": "esakal",
+            "title": "Paithan-Sambhajinagar Highway Crash: पैठण-छत्रपती संभाजीनगर महामार्गावर भीषण अपघात; अर्धवट रस्त्याच्या कामामुळे दुचाकीस्वाराचा मृत्यू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-29T20:16:19",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/zeenat-aman-talks-about-marriage-with-mazhar-khan/articleshow/133613931.cms",
-            "image": "",
+            "published": "2026-08-29T22:50:44",
+            "url": "https://www.esakal.com/marathwada/paithan-chhatrapati-sambhajinagar-highway-accident-kaudgaon-car-bike-collision-two-wheeler-rider-bappasaheb-dinde-dies-road-work-safety-bidkin-police-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/qqzivgcp/Esakal-25.png",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "6b7f6955c22b",
+            "id": "68c5040c0df5",
+            "feed": "maharashtratimes",
+            "title": "Samruddhi Mahamarg : समृद्धी महामार्गाने प्रवास करणाऱ्यांसाठी महत्त्वाची बातमी! 31 ऑगस्ट ते 7 सप्टेंबर दरम्यान टप्याटप्याने वाहतूक ब्लॉक",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-08-29T22:47:05",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/traffic-block-on-samruddhi-mahamarg-from-august-31-to-september-7/articleshow/133616259.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "95eaf712a820",
             "feed": "lokmat",
-            "title": "“RSS समजायला ममदानींना १० हजार जन्म घ्यावे लागतील”; भागवतांच्या विरोधकांना भाजपाने सुनावले",
+            "title": "तरुण मतदारांना जोडण्यासाठी भाजपाचा ‘मेगा प्लॅन’; प्रत्येक राज्यात २-३ मोठ्या नेत्यांवर जबाबदारी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-08-29T20:08:05",
-            "url": "https://www.lokmat.com/national/bjp-leaders-slams-who-opposed-mohan-bhagwat-event-in-new-york-america-and-said-mayor-mamdani-will-have-to-take-10000-births-to-understand-rss-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rss-mohan-bhagwat-and-new-york-mayor-mamdani_2026081773359.jpg",
+            "published": "2026-08-29T23:05:05",
+            "url": "https://www.lokmat.com/national/bjp-mega-plan-to-connect-young-voters-responsibility-on-2-3-big-leaders-in-each-state-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nitin-nabin-bjp-k1_2026081773388.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "98d193aad9f2",
-            "feed": "maharashtratimes",
-            "title": "मोबाईल चोरीला गेल्यावर एक काम करा, चोरटे फोन फेकून पळतील",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-29T20:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/how-to-block-stolen-mobile-via-ceir-portal-a-shield-against-phone-theft/articleshow/133605839.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "92c7584bcf02",
+            "id": "343c1f31b317",
             "feed": "esakal",
-            "title": "samruddhi mahamarg news : समृद्धी महामार्गावर  प्रवाशांकडून लूट! टायर पंक्चर करून वाहन अडवलं, नेमकं काय घडलं?",
+            "title": "मुघलांच्या प्रत्येक बादशहाला 'हा' एक शौक होता 'कॉमन'",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-08-29T19:36:53",
-            "url": "https://www.esakal.com/videos/samruddhi-expressway-tyre-puncture-robbery",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-29/iveancow/maxresdefault-1.webp",
+            "published": "2026-08-29T23:02:09",
+            "url": "https://www.esakal.com/ampstories/web-story/mughal-emperors-common-hobby-hunting-from-babur-akbar-jahangir-shah-jahan-to-aurangzeb-royal-lifestyle-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/9is1d8je/11.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "7aecc212e648",
-            "feed": "lokmat",
-            "title": "मिळमिळीत जेवणाला खमंग चव आणणारं झणझणीत लिंबू- मिरची लोणचं, घ्या चटपटीत रेसिपी...",
+            "id": "5b6c5fe63473",
+            "feed": "maharashtratimes",
+            "title": "नाना नाना! अंधाऱ्या रात्री स्कूटरवर चिमुरडा एकटा, अश्रू थांबेनात; घटनाक्रम समजताच उपस्थित हादरले",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-08-29T19:36:37",
-            "url": "https://www.lokmat.com/sakhi/food/limbu-mirchi-loncha-recipe-how-to-make-limbu-mirchi-loncha-limbu-mirchi-pickle-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-29-at-15.57.02-2_2026081773331.jpeg",
+            "published": "2026-08-29T22:40:50",
+            "url": "https://maharashtratimes.com/india-news/andhra-pradesh-shocker-couple-jumped-in-godvari-river-left-3-year-old-child-alone-on-scooter/articleshow/133616158.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
+        },
+        {
+            "id": "fd53e3d329e6",
+            "feed": "esakal",
+            "title": "Rahul Gandhi: ''काँग्रेसचा इतिहासच दलितविरोधी'', राहुल गांधींच्या आरोपांनंतर भाजपचा जोरदार पलटवार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-29T22:39:57",
+            "url": "https://www.esakal.com/desh/bjp-counters-rahul-gandhi-dalit-anti-caste-allegations-press-conference-sudhanshu-trivedi-guru-prakash-paswan-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-12/l3tbyyae/rahul-gandhi",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "982b90fffc42",
+            "feed": "esakal",
+            "title": "Nepal Flood Miracle Rescue: नेपाळच्या महापुरातून ९७ वर्षीय गुणा माया बोहरांची चमत्कारिक सुटका; ढिगाऱ्यांतून फुललेली जगण्याची उमेद",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-29T22:13:34",
+            "url": "https://www.esakal.com/desh/nepal-flood-97-year-old-guna-maya-bohra-rescued-alive-after-four-hours-under-debris-kathmandu-flood-disaster-survival-story-sakal-relief-fund-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/o1fpuhfq/Esakal-23.png",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "9caf52872bbf",
+            "feed": "maharashtratimes",
+            "title": "शाळा जमीनदोस्त, आशा उद्ध्वस्त; पूर गिळायला आला, पोरानं धाडस दाखवलं, चमत्कारिकपणे मृत्यूला चकवलं",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-08-29T20:35:37",
+            "url": "https://maharashtratimes.com/international/international-news/nepal-flash-floods-8-year-boy-clung-to-tree-reunited-with-mother-in-hospital/articleshow/133614437.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c1c232931db1",
+            "feed": "maharashtratimes",
+            "title": "Nepal Flash Flood: महाप्रलय डोळ्यांसमोर, जीव वाचवण्यासाठी बसमधून उडी, शेकडो जण वाहून जाताना पाहिले, भारतीय वंशाच्या जोडप्याने सांगितला थरार",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-08-29T20:17:17",
+            "url": "https://maharashtratimes.com/international/international-news/nepal-flash-flood-indian-origin-american-san-francisco-bay-couple-saved-own-life/articleshow/133610632.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c1cf38d3bd77",
             "feed": "lokmat",
@@ -212,136 +244,104 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "2dedecb8d570",
-            "feed": "esakal",
-            "title": "Premium|Nepal Flood: सोशल मीडियावर  Fake AI रील्सचा पूर! खरं-खोटं कसं ओळखाल?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-29T17:01:36",
-            "url": "https://www.esakal.com/premium-article/how-to-detect-nepal-flood-fake-ai-generated-reels-photos-misinformation-ai-detection-tools-fact-check-skp29",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-29/w7k7v2y1/Nepal-Flood-1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5ac561a4d195",
-            "feed": "esakal",
-            "title": "Nepal Flood: माणुसकीही ओशाळली! नेपाळच्या पुरात वाहून आलेल्या तिजोरीतून ९२ लाखांची चोरी, २९ जणांना अटक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-29T16:20:11",
-            "url": "https://www.esakal.com/global/bank-vault-washed-in-nepal-flood-peoples-broke-it-and-stolen-rs-92-lakh-29-arrested-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-29/f1g4vrgh/Bank-Vault-washed-in-Nepal-flood.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "333bf5dd8fc1",
+            "id": "712cb2e5763d",
             "feed": "maharashtratimes",
-            "title": "Team India : क्रिकेट ग्राऊंडवरील तंबूत ड्रेसिंग रूम, BCCIचे अधिकारी जपानला जाणार, नेमके कशासाठी? जाणून घ्या कारण",
+            "title": "Imran Khan Pakistan : दाऊदचा व्याही कॅमेऱ्यासमोर ढसाढसा रडला! इम्रान खान यांची अवस्था पाहून अश्रू अनावर, पाकिस्तान सरकारकडे काय केली मागणी?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-29T19:56:21",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/bcci-unhappy-with-asian-games-facilities-in-japan-tent-dressing-rooms-toilets-500m-away/articleshow/133612962.cms",
+            "published": "2026-08-29T22:09:18",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/javed-miandad-emotional-for-imran-khan-jail-dawood-ibrahim-family-connection/articleshow/133615049.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "8ebf4c1696c7",
+            "id": "91688edc370d",
             "feed": "esakal",
-            "title": "Neeraj Chopra २०२६ वर्षात आता पुन्हा मैदानात दिसणार नाही, स्वत:च सांगितलं कारण; Asian Games आधी भारताला धक्का",
+            "title": "Vaibhav Sooryavanshi: 'इशान भैय्याला वाटलं माझ्याबाबतीत तो रिस्क घेतोय, पण मी...' वैभवने दोन विकेट्स घेण्याबाबत केला मोठा खुलासा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-08-29T19:39:45",
-            "url": "https://www.esakal.com/krida/cricket/neeraj-chopra-ruled-out-of-2026-season-due-to-ankle-ligament-tear-major-blow-for-india-before-asian-games-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-29/m0j6aq0b/Neeraj-Chopra.jpg",
+            "published": "2026-08-29T20:23:43",
+            "url": "https://www.esakal.com/krida/cricket/ishan-kishan-thought-taking-risk-but-vaibhav-sooryavanshi-took-two-wickets-in-duleep-trophy-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/kwpsc0r1/Vaibhav-Sooryavanshi-5.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "79647b8f44ce",
-            "feed": "lokmat",
-            "title": "क्रिकेटच्या देवाला तोड नाही! पण अश्विनने घेतला पक्षपाती निर्णय, विराटला केलं OUT अन् पुढे जे झालं ते...",
+            "id": "eac2605a29d4",
+            "feed": "maharashtratimes",
+            "title": "Robin Uthappa : एकविसाव्या वर्षीच 3.2 कोटी रुपये कमावले; पण त्यामुळेच 23व्या मजल्यावरुन उडी मारणार होता रॉबिन उथप्पा, नेमकं काय घडलेलं?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-08-29T19:37:09",
-            "url": "https://www.lokmat.com/cricket/news/r-ashwin-picks-jasprit-bumrah-over-virat-kohli-finally-names-sachin-tendulkar-greatest-indian-cricketer-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-ashwin-picks-jasprit-bumrah-over-virat-kohli-3-1_2026081773337.jpg",
+            "published": "2026-08-29T20:20:36",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/robin-uthappa-on-struggle-and-overcome-depression-after-3-2-cr-income-from-ipl-tried-to-kill-himself/articleshow/133612885.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "118d491706f1",
+            "id": "b35c7c8ecaf5",
             "feed": "lokmat",
-            "title": "Mahindra XUV 7XO: मार्केटमध्ये येताच महिंद्राच्या एसयूव्हीनं ग्राहकांना लावलं वेड; ७ महिन्यात ७०,००० गाड्या विकल्या!",
+            "title": "बाईकमध्ये कारसारखी पॉवर? कावासाकीनं बाजारात आणली जबरदस्त बाईक, भल्याभल्यांची उडाली झोप!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-29T19:56:47",
-            "url": "https://www.lokmat.com/photos/auto/mahindra-xuv-7xo-creates-buzz-in-the-market-crosses-70000-sales-in-just-7-months-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-29-at-7.38.13-pm_2026081773341.jpeg",
+            "published": "2026-08-29T22:29:12",
+            "url": "https://www.lokmat.com/auto/2027-kawasaki-versys-650-launched-in-india-know-price-and-specifications-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kawasaki-versys-650_2026081773386.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "d93f3db74948",
-            "feed": "esakal",
-            "title": "September Lucky Zodiac Signs: सप्टेंबर ठरणार 'या' 5 राशींसाठी लकी! 3 राजयोगांमुळे मिळणार पैसा, करिअर, व्यवसायात भरगोस यश",
+            "id": "8da252cec5ea",
+            "feed": "maharashtratimes",
+            "title": "सरकारकडून मिळणार 5 लाखांचे क्रेडिट कार्ड, दैनंदिन खर्च भागवण्यासाठी शासनाची उत्तम योजना",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
             },
-            "published": "2026-08-29T19:32:34",
-            "url": "https://www.esakal.com/culture-and-religion/september-2026-three-raj-yog-5-lucky-zodiac-signs-money-career-business-success-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-29/a4wrfigt/September-Lucky-Zodiac-Signs.jpg",
+            "published": "2026-08-29T21:55:35",
+            "url": "https://maharashtratimes.com/business/business-news/central-government-offer-credit-card-aka-me-card-upto-5-lakhs/articleshow/133615554.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "a03a632c9cee",
+            "id": "ea96e643ce45",
             "feed": "lokmat",
-            "title": "Maharashtra Rain : पुढील पाच दिवस राज्यात जिल्हानिहाय कुठे पाऊस, कुठे उघडीप, जाणून घ्या हवामान अंदाज",
+            "title": "आकर्षक कलर, ड्युअल कॅमेरा, पाण्यात पडला तरी टेन्शन नाही, किंमतही परवडणारी, वीवोचा नवा 5G स्मार्टफोन लॉन्च",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-08-29T19:30:02",
-            "url": "https://www.lokmat.com/agriculture/weather/maharashtra-rain-update-know-the-weather-forecast-for-the-next-five-days-district-wise-monsoon-rain-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jilha-paus_2026081773288.jpeg",
+            "published": "2026-08-29T21:40:31",
+            "url": "https://www.lokmat.com/tech/attractive-colors-dual-camera-no-tension-even-if-it-falls-into-water-affordable-price-vivo-new-5g-smartphone-vivo-y31-5g-launched-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vivo-y31-5g-1_2026081773382.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
