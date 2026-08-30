@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "30-08-2026 | 11:45 PM IST",
+    "lastUpdated": "31-08-2026 | 03:13 AM IST",
     "maharashtra": [
         {
             "id": "d1f79a0a3b82",
@@ -84,6 +84,70 @@
     ],
     "india": [
         {
+            "id": "6e3f88037ab6",
+            "feed": "maharashtratimes",
+            "title": "Vandana Gupte On Raj Thackeray Wedding : रुममध्ये मुद्दाम पापड ठेवले, जागोजागी अलार्म लपवून त्रास दिलेला! वंदना गुप्तेंनी सांगितली शर्मिला-राज ठाकरेंच्या लग्नातली धमाल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-31T00:28:05",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/vandana-gupte-recalled-sharmila-and-raj-thackeray-wedding-fun/articleshow/133635711.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8e6af9a58133",
+            "feed": "esakal",
+            "title": "घरच्या घरी बनवा या सोप्या पद्धतीने शुद्ध नारळाचे दूध!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-30T23:58:25",
+            "url": "https://www.esakal.com/ampstories/web-story/make-homemade-coconut-milk-with-just-2-ingredients-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-30/zawpjicn/Coconut-Lassi-Recipe-5.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "5120fa23472b",
+            "feed": "esakal",
+            "title": "फ्रिजमध्ये नेमका कोणता गॅस असतो?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-30T23:53:01",
+            "url": "https://www.esakal.com/ampstories/web-story/what-gas-is-actually-used-inside-a-refrigerator-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-30/8uvst9et/Keep-Salt-Bowl-In-Refrigerator-9.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6f78bb83bdd6",
+            "feed": "esakal",
+            "title": "शिलाजीतलाही मागे टाकेल? ‘ही’ हिरवी गोष्ट शरीरासाठी ठरू शकते फायदेशीर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-30T23:47:43",
+            "url": "https://www.esakal.com/ampstories/web-story/can-this-green-food-outshine-shilajit-know-its-benefits-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-30/lfcen8iz/हसू.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "96386b54e082",
             "feed": "esakal",
             "title": "बाइकस्वारांकडून टोल का घेतला जात नाही?",
@@ -98,70 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2025-06-29/j9cx6zq7/Bike-Trip-3.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "3a08a3955d78",
-            "feed": "lokmat",
-            "title": "स्काल्प तेलकट-केसही गळतात? १ चमचा मुलतानी माती लावा-जावेद हबीब सांगतात दाट केसांचं सिक्रेट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-08-30T23:33:15",
-            "url": "https://www.lokmat.com/sakhi/beauty/how-to-get-rid-of-hair-oiliness-in-monsoon-know-multani-mitti-remedy-by-hair-stylist-jawed-habib-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-08-30-at-10.59.55-am_2026081773481.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "74713639e5d2",
-            "feed": "maharashtratimes",
-            "title": "Twinkle Khanna On Tukaram Mundhe : तुकाराम मुंढेंमुळे वाढलं ट्विंकल खन्नाचं काम, आता घरीच बनवावं लागतंय पनीर, आईसोबतच्या मजेशीर भांडणाचा किस्सा शेअर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-30T23:30:29",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/twinkle-khanna-share-tukaram-mundhe-impact-at-home-also-share-funny-fight-with-mother-dimple-kapdia/articleshow/133634190.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "567f6baba9b3",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 31 August 2026: हेरंब संकष्ट चतुर्थी, श्रावणी सोमवार! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-30T23:25:03",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-31-august-2026-in-marathi-heramba-sankashti-chaturthi-shravani-somwar-and-shubha-muhurta/articleshow/133631734.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8870671018f3",
-            "feed": "maharashtratimes",
-            "title": "Sonam Wangchuk On Aamir Khan : त्याला शॉर्ट टाइम मेमरी लॉस झालाय! सोनम वांगचुक यांनी उडवली आमिर खानची खिल्ली, 3 इडियट्स सिनेमाबाबत पोलखोल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-30T22:47:04",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sonam-wangchuk-proved-aamir-khan-wrong-on-claim-of-not-knowing-him-during-3-idiots-shoot/articleshow/133633501.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
@@ -248,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "331c1148ab9a",
+            "feed": "maharashtratimes",
+            "title": "IND W vs THAI W : भारताचा 94 धावांनी दमदार विजय, थायलंडने मॅच फिरवलेली पण भारताची एकटी वाघिण पुरून उरली, कोण?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-08-31T01:16:48",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/womens-asia-cup-2026-india-womens-win-94-runs-against-thailand-women-shafali-verma-man-of-the-match/articleshow/133636170.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "19a1d2851f17",
+            "feed": "lokmat",
+            "title": "७ निर्धाव चेंडू, ३ विकेट्स अन् विश्वविक्रम! दीप्ती शर्मा बनली महिला T20I क्रिकेटमधील ‘नंबर वन’ बॉलर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-08-31T00:05:12",
+            "url": "https://www.lokmat.com/cricket/news/womens-asia-cup-2026-deepti-sharma-world-record-overtakes-thailands-putthawong-for-most-wickets-in-womens-t20is-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/deepti-sharma-world-record-most-wickets-in-womens-t20is-_2026081773851.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "b59dd38024f3",
             "feed": "esakal",
             "title": "Asia Cup 2026: दीप्ती शर्माचा वर्ल्ड रेकॉर्ड अन् भारतीय संघाची विजयी सुरुवात! प्रतिस्पर्ध्यांना ६५ धावांवर केलं ऑलआऊट",
@@ -260,38 +292,6 @@
             "published": "2026-08-30T23:23:08",
             "url": "https://www.esakal.com/krida/cricket/womens-asia-cup-2026-india-beat-thailand-by-94-runs-as-deepti-sharma-scripts-world-record-most-wickets-psk96",
             "image": "https://cf-images.assettype.com/esakal/2026-08-30/979q6blf/Deepti-Sharma-India-vs-Thiland-Womens-Asia-Cup-2026.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0da4cf470799",
-            "feed": "lokmat",
-            "title": "Women's Asia Cup 2026 : पॉवरप्लेमध्ये विक्रमी धावसंख्या; थायलंडला ६५ धावांत गुंडाळत टीम इंडियाची विजयी सलामी!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-08-30T23:10:26",
-            "url": "https://www.lokmat.com/cricket/news/womens-asia-cup-2026-india-women-won-by-94-runs-against-thailand-after-deepti-sharma-and-nandni-sharma-shine-with-bowl-after-shafali-verma-fifty-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-women-won-by-94-runs-against-thailand-in-womens-asia-cup-2026-_2026081773846.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5b83a8703940",
-            "feed": "maharashtratimes",
-            "title": "IND W vs THAI W : शेफाली वर्माच्या अर्धशतकानंतर भारताची घसरगुंडी, थायलंडला दिलं १६० धावांचं आव्हान",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-08-30T21:55:22",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-women-vs-thailand-women-159-runs-shafali-verma-half-century-asia-cup-2026/articleshow/133632612.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
