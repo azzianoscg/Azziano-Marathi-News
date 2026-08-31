@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "31-08-2026 | 03:13 AM IST",
+    "lastUpdated": "31-08-2026 | 05:32 AM IST",
     "maharashtra": [
+        {
+            "id": "76a07c1564f2",
+            "feed": "esakal",
+            "title": "Koyna Dam Water Storage 100 TMC : 'कृष्णा'काठी जलसंकट टळले! 'कोयने'त 100, तर 'चांदोली'त 34 टीएमसी साठा; शेतीसाठी पुरेसे पाणी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-08-31T05:23:11",
+            "url": "https://www.esakal.com/paschim-maharashtra/koyna-dam-100-tmc-chandoli-dam-34-tmc-krishna-river-water-storage-water-crisis-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-30/0zqb2pzk/Koyna-Dam-water-storage-100-TMC",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "d1f79a0a3b82",
             "feed": "lokmat",
@@ -64,25 +80,57 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-accident_2026081773840.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "2411402d8cdc",
-            "feed": "esakal",
-            "title": "Marathi News Updates : आज राज्यासह देशात कुठे काय घडलं? जाणून घ्या...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-30T21:43:24",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-30-august-2026-nepal-flood-alert-tribal-students-andolan-suspended-antarwali-sarati-manoj-jarange-agitation-begins-central-government-sugar-prices-increased-election-commission-sir-india-weather-update-imd-shravan-pm-narendra-modi-rahul-gandhi-fda-tukaram-mundhe-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-mvk02-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "c269def5f44a",
+            "feed": "lokmat",
+            "title": "विशेष लेख: चीनच्या ‘वॉटर बॉम्ब’चा सामना भारत कसा करणार?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-08-31T05:28:09",
+            "url": "https://www.lokmat.com/editorial/special-article-on-how-will-india-deal-with-china-creating-water-bomb-a-a284-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-flash-flood-3008m_2026081773853.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "cf11d75a4bb6",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 31 August 2026: मूलांक 1 लाभाची संधी, उधारी टाळा! मूलांक 5 जबाबदारी वाढणार, संयमाने वागा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-31T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-31-august-2026-surya-nakshatra-gochar-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133634566.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "90a10470c1d0",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 31 ऑगस्ट 2026 : कर्कचे फिटणार कर्ज तर कुंभला कामातील निष्काळजीपणा येणार अंगलट ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-08-31T04:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-31-august-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/133634196.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "6e3f88037ab6",
             "feed": "maharashtratimes",
@@ -112,54 +160,6 @@
             "published": "2026-08-30T23:58:25",
             "url": "https://www.esakal.com/ampstories/web-story/make-homemade-coconut-milk-with-just-2-ingredients-asb02",
             "image": "https://cf-images.assettype.com/esakal/2026-08-30/zawpjicn/Coconut-Lassi-Recipe-5.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5120fa23472b",
-            "feed": "esakal",
-            "title": "फ्रिजमध्ये नेमका कोणता गॅस असतो?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-30T23:53:01",
-            "url": "https://www.esakal.com/ampstories/web-story/what-gas-is-actually-used-inside-a-refrigerator-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-30/8uvst9et/Keep-Salt-Bowl-In-Refrigerator-9.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "6f78bb83bdd6",
-            "feed": "esakal",
-            "title": "शिलाजीतलाही मागे टाकेल? ‘ही’ हिरवी गोष्ट शरीरासाठी ठरू शकते फायदेशीर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-30T23:47:43",
-            "url": "https://www.esakal.com/ampstories/web-story/can-this-green-food-outshine-shilajit-know-its-benefits-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-30/lfcen8iz/हसू.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "96386b54e082",
-            "feed": "esakal",
-            "title": "बाइकस्वारांकडून टोल का घेतला जात नाही?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-30T23:41:52",
-            "url": "https://www.esakal.com/ampstories/web-story/why-are-motorcycles-not-charged-toll-on-many-highways-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2025-06-29/j9cx6zq7/Bike-Trip-3.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
