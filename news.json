@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "02-09-2026 | 12:30 AM IST",
+    "lastUpdated": "02-09-2026 | 03:08 AM IST",
     "maharashtra": [
         {
             "id": "4bb50806e061",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "405b00d6e0b7",
+            "feed": "lokmat",
+            "title": "सरकारचा मनोज जरांगेंना नवा प्रस्ताव, सकाळपर्यंत मसुद्यावर उत्तर द्या; जरांगे यांच्या भूमिकेकडे लक्ष",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-02T00:37:10",
+            "url": "https://www.lokmat.com/jalana/governments-new-proposal-to-manoj-jarange-patil-reply-to-the-draft-by-morning-attention-to-manoj-jarange-patils-role-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-jarange-maratha-reservation_2026091775239.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "417961662339",
             "feed": "esakal",
             "title": "कितीही कमवा, पैसा साठत नाही? चाणक्यांच्या मते ‘या’ 3 चुका कारणीभूत ठरू शकतात!",
@@ -146,22 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-01/714py88w/1.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "0f7f339a7422",
-            "feed": "maharashtratimes",
-            "title": "Sonu Sood : नेपाळमधील पूरग्रस्तांच्या मदतीला धावला सोनू सूद, गाठलं काठमांडू; म्हणाला, 'उद्ध्वस्त झालेली आयुष्य नव्यानं उभारण्याचा प्रयत्न करतोय'",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-01T22:04:37",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sonu-sood-helps-nepal-flood-relief/articleshow/133686806.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
