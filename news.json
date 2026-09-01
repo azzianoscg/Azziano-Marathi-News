@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "02-09-2026 | 03:08 AM IST",
+    "lastUpdated": "02-09-2026 | 05:11 AM IST",
     "maharashtra": [
         {
             "id": "4bb50806e061",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "d08244090a4d",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 2 September 2026: मूलांक 2 कामावर फोकस करा, रागाला आवर घाला! मूलांक 5 संधी मिळेल, वाद टाळा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-02T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-2-september-2026-malavya-rajyog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133685089.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "405b00d6e0b7",
             "feed": "lokmat",
             "title": "सरकारचा मनोज जरांगेंना नवा प्रस्ताव, सकाळपर्यंत मसुद्यावर उत्तर द्या; जरांगे यांच्या भूमिकेकडे लक्ष",
@@ -144,22 +160,6 @@
             "published": "2026-09-01T22:15:17",
             "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-2-september-2026-in-marathi-budh-pujan-malavya-rajyog-budhaditya-yog-and-shubha-muhurta/articleshow/133685364.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "4c8bf7bc97cb",
-            "feed": "esakal",
-            "title": "नॉर्वेमध्ये उन्हाळ्यात काही ठिकाणी रात्र का होत नाही?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-01T22:10:28",
-            "url": "https://www.esakal.com/ampstories/web-story/why-sun-does-not-set-in-norway-during-summer-midnight-sun-arctic-circle-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-01/714py88w/1.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
