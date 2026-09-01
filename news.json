@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "01-09-2026 | 01:58 AM IST",
+    "lastUpdated": "01-09-2026 | 05:42 AM IST",
     "maharashtra": [
+        {
+            "id": "e0efcb27baee",
+            "feed": "esakal",
+            "title": "श्रीराघवेंद्र स्वामी पुण्यतिथी महोत्सवात भक्तीचा उत्साह",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-01T00:24:32",
+            "url": "https://www.esakal.com/marathwada/aurangabad/shri-raghavendra-swami-punyatithi-festival-2023",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-31/qdptjv6j/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "aeb2ea3cd11e",
+            "feed": "esakal",
+            "title": "‘ओपन’चा कटऑफ ५३८; खासगीत ४८२",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-01T00:22:58",
+            "url": "https://www.esakal.com/marathwada/aurangabad/mbbs-bds-cut-off-analysis",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-31/0epoj0to/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "c90083e9c18d",
             "feed": "lokmat",
@@ -48,41 +80,73 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-31/jrqaxeiz/Maitreyi-Divekar",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "682f0133d941",
-            "feed": "esakal",
-            "title": "Rajgurunagar Crime : बहिणीशी न बोलल्याच्या रागातून पत्नीचा खून; मुलावरही चाकूने केला हल्ला, पती फरार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-31T23:26:42",
-            "url": "https://www.esakal.com/pune/wife-killed-anger-her-refusal-speak-to-sister-son-attacked-with-knife-husband-flees-crime-absconding-rajgurunagar-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-31/6u070p8q/Deepa-Daundkar",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a01f4ea14019",
-            "feed": "esakal",
-            "title": "Bike Tanker Accident : पालखी महामार्गावर उभा असलेला टॅंकर ठरला काळ! पिसुर्टीत दुचाकीची टॅंकरला जोरदार धडक; अपघातात गुळूंचे येथील तरुणाचा मृत्यू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-08-31T23:22:28",
-            "url": "https://www.esakal.com/pune/tanker-turns-fatal-on-palkhi-highway-motorcyclist-dies-after-crashing-into-stationary-tanker-in-pisurti-crime-valhe-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-31/z7ytbmio/Abhijit-Nigade",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "b5e0d28857fd",
+            "feed": "esakal",
+            "title": "स्पाइन सर्जरीनंतरची काळजी आणि पुनर्वसन",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-01T05:29:00",
+            "url": "https://www.esakal.com/health/post-spine-surgery-care-and-rehabilitation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-31/vjzm4mjx/Post-Spine-Surgery-Care-and-Rehabilitation",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "823e46ce6194",
+            "feed": "esakal",
+            "title": "तुमची क्षमता वाढवा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-01T05:07:00",
+            "url": "https://www.esakal.com/health/enhance-your-capabilities-sadguru-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2021-06/c0e063d5-3ab5-4011-a425-fb802fe25386/Sadguru.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a2f29e1dc3fc",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 1 September 2026: मूलांक 5 प्रगतीचे नवे मार्ग खुले होणार! मूलांक 8 समस्येवर तोडगा सापडेल! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-01T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-1-september-2026-kendra-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133652544.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ba051952449a",
+            "feed": "esakal",
+            "title": "मज्जासंस्थेचा गंभीर आजार : गुइलेन बॅरे सिंड्रोम",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-01T04:32:00",
+            "url": "https://www.esakal.com/health/serious-neurological-disorder-guillain-barre-syndrome-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-31/siz10y73/guillain-barre-syndrome",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "a17d72b48779",
             "feed": "esakal",
@@ -98,70 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-31/0o0borej/hands-and-feet-feel-numb-1.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "38c5cd8f8cd1",
-            "feed": "maharashtratimes",
-            "title": "Jayanti 2 : डोळ्यात उच्च शिक्षणाचं स्वप्न पण जातीमुळे पडली रॅगिंगला बळी! आगामी 'जयंती 2' चा अंगावर काटा आणणारा ट्रेलर समोर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-08-31T23:59:25",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/payal-jadhav-priyadarshani-indulkar-starar-jayanti-2-film-base-on-college-ragging-trailer-release/articleshow/133660652.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "9ce055683b54",
-            "feed": "esakal",
-            "title": "जेवणानंतर लगेच पाणी पिल्याने शरीरात काय होते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-31T23:51:43",
-            "url": "https://www.esakal.com/ampstories/web-story/what-happens-when-you-drink-water-right-after-a-meal-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-31/l38k0yn9/water-expiry-4.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2070cef180de",
-            "feed": "esakal",
-            "title": "एक्सरसाईज न करताही वजन कमी होईल? जाणून घ्या सत्य",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-08-31T23:48:14",
-            "url": "https://www.esakal.com/ampstories/web-story/can-you-lose-weight-without-exercise-know-the-truth-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-31/v47hn109/Japanese-weight-loss-trick-9.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2bd70285cd2f",
-            "feed": "lokmat",
-            "title": "सर्वसामान्यांना मोठा दिलासा! साखरेचे दर ४७ रुपये किलोवर आले, ग्राहकांना आणखी स्वस्त कधी मिळणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-08-31T23:40:13",
-            "url": "https://www.lokmat.com/national/big-relief-for-the-common-man-sugar-prices-have-come-down-to-rs-47-per-kg-when-will-consumers-get-cheaper-sugar-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sugar-rate-low_2026081774465.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "62e4ce8439f2",
+            "feed": "maharashtratimes",
+            "title": "boAt Success Story : 30 लाखांपासून केली सुरुवात, आज जवळपास 3 हजार कोटींचं साम्राज्य; तरुणाई ठरली महत्वाचा फॅक्टर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-09-01T02:46:55",
+            "url": "https://maharashtratimes.com/business/business-news/boat-success-story-of-aman-gupta-and-sameer-mehta-how-brand-was-started/articleshow/133662846.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "2589cce08b26",
             "feed": "esakal",
             "title": "१ सप्टेंबर २०२६ राशिभविष्य! पैसा, नोकरी, व्यवसाय आणि कुटुंबाबाबत संकेत",
@@ -328,22 +344,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-31/o9mbemh1/SEBI.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "20335eea770e",
-            "feed": "maharashtratimes",
-            "title": "पुरुषांसाठी 100 ग्रॅम, विवाहित महिलांसाठी 500 ग्रॅम सोन्याची मर्यादा! घरात जास्त सोनं ठेवणं पडेल महागात",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-08-31T21:36:56",
-            "url": "https://maharashtratimes.com/business/business-news/how-much-gold-can-be-kept-at-home-know-income-tax-rules/articleshow/133657345.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
