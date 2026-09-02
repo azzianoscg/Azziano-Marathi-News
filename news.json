@@ -1,347 +1,347 @@
 {
-    "lastUpdated": "02-09-2026 | 12:19 PM IST",
+    "lastUpdated": "02-09-2026 | 05:22 PM IST",
     "maharashtra": [
         {
-            "id": "da965ed8acc1",
-            "feed": "maharashtratimes",
-            "title": "Meheboob Shaikh On MPSC Paper Leak | सत्ताधारी पक्षाचे कोण सहभागी? मेहबूब शेख यांनी नाव घेतलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-02T12:13:03",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/meheboob-shaikh-on-mpsc-paper-leak/videoshow/133700986.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "14bc0f357045",
+            "id": "db3252175b39",
             "feed": "esakal",
-            "title": "Shiv Bhojan Thali Subsidy : पोट भरतेय, पण खिसा रिकामाच! रत्नागिरीत शिवभोजन थाळी चालकांचे ९५ लाख अडकले; ६ महिन्यांपासून अनुदानाची प्रतीक्षा",
+            "title": "Mumbai Rain Update: मुंबईचं हवामान अचानक बदललं, मुसळधार पावसाची सुरुवात; कसा असेल पुढील २ दिवसाचा अंदाज?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-02T17:15:47",
+            "url": "https://www.esakal.com/mumbai/indian-meteorological-department-warns-heavy-rain-alert-in-mumbai-for-next-few-hours-maharashtra-weather-update-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-02/fzvws36e/Mumbai-Rain-Update.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bf0e96f900ed",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : शिवसेना पक्षाच्या वादावर सुप्रीम कोर्टात शिंदे गटाचा युक्तिवाद नेमका काय ?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-02T17:10:48",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-02-september-2026-antarwali-sarati-manoj-jarange-hunger-strike-maratha-obc-reservation-supreme-court-hearing-on-shinde-faction-vidyanand-bapat-ganeshotsav-dj-controversy-election-commission-sir-india-weather-update-imd-pm-narendra-modi-rahul-gandhi-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-bam92-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d32e2dfe4df6",
+            "feed": "lokmat",
+            "title": "वेगाची हौस, हिरोगिरीची मानसिकता; लायसन्सची वयोमर्यादा २१ वर्षे करावी, राष्ट्रीय मराठी संघाची नितीन गडकरींकडे मागणी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-02T17:10:37",
+            "url": "https://www.lokmat.com/pune/lust-for-speed-heroism-mentality-the-age-limit-for-licenses-should-be-21-years-demands-the-rashtriya-marathi-sangh-to-nitin-gadkari-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-nitin-gadkari-bhet_2026091775764.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ce5f428ae46b",
+            "feed": "lokmat",
+            "title": "Sangli Politics: ईश्वरपूर पालिकेत बाकड्यावरील राजकारण पुन्हा रंगणार!, जुन्या आठवणींना मिळाला उजाळा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-02T12:10:50",
-            "url": "https://www.esakal.com/kokan/shiv-bhojan-thali-subsidy-pending-six-months-ratnagiri-rajapur-news-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-02/iuvlav17/Shiv-Bhojan-Thali-subsidy-pending-in-Ratnagiri",
+            "published": "2026-09-02T17:10:14",
+            "url": "https://www.lokmat.com/sangli/politics-on-the-bench-will-be-reborn-in-ishwarpur-municipality-old-memories-will-be-revived-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ishwarpur-ncp-ajit-pawar-gat-news_2026091775763.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "7adc9961b0ae",
+            "id": "6ef5176cf567",
             "feed": "lokmat",
-            "title": "Kolhapur Crime: बिनव्याजी कर्जाचे आमिष, निवृत्त ग्रामसेवकाला ४२ लाखांचा गंडा",
+            "title": "मजुरांना पाणी देण्यासाठी टाकीवर चढला… आणि तोल गेला; १७ वर्षीय मुलाचा दुर्दैवी अंत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-09-02T12:07:44",
-            "url": "https://www.lokmat.com/kolhapur/retired-village-servant-duped-of-rs-42-lakhs-under-the-lure-of-interest-free-loan-in-kolhapur-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fraud-news-garmsevak_2026091775375.jpg",
+            "published": "2026-09-02T17:10:00",
+            "url": "https://www.lokmat.com/bhandara/climbed-onto-a-tank-to-provide-water-to-laborers-and-lost-his-balance-17-year-old-boy-meets-tragic-end-a-a522-c1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-02-at-5.00.30-pm-1_2026091775755.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c29f12fa738a",
-            "feed": "lokmat",
-            "title": "Rajendra Rupanvar: रुपनवर यांचा मृतदेह ३६ तास रुग्णालयातच, फलटण रुग्णालयात नातेवाईकांचा ठिय्या",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-02T12:04:20",
-            "url": "https://www.lokmat.com/satara/dr-rajendra-rupanwars-body-at-phaltan-upazila-hospital-remained-in-the-hospital-for-36-hours-relatives-gather-at-phaltan-hospital-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rupnkar-boday-hospital-news-today_2026091775370.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4aa0e6ff56e9",
-            "feed": "maharashtratimes",
-            "title": "Thane News :  कळवा रुग्णालयात जेवणात सापडले झुरळ;अन्नाचे नमुने FDA कडे रवाना ,डेळ्यांच्या शस्त्रक्रियेसाठी दाखल असलेल्या रुग्णाच्या जेवणात आढळला हा प्रकार",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-02T12:00:42",
-            "url": "https://maharashtratimes.com/maharashtra/thane/thanes-kalwa-hospital-cockroaches-found-in-patients-meal-complaint-filed-with-fda/articleshow/133700191.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "e178005a6daf",
-            "feed": "esakal",
-            "title": "Balram Jayanti: कृष्णाच्या आधी भावाचा जन्मोत्सव! गुप्तकाळातही होती बलरामांची पूजा? १,७०० वर्षे जुन्या शिल्पातून समोर आला ऐतिहासिक पुरावा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-02T12:17:04",
-            "url": "https://www.esakal.com/desh/balram-jayanti-eran-sculpture-gupta-period-1700-years-history-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-02/ev5r97dt/eran-heritage-site-balram-jayanti.jpg.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "441d0339364d",
+            "id": "27321af98ec8",
             "feed": "maharashtratimes",
-            "title": "श्रीकृष्ण जन्माष्टमीला बालकृष्णाला नैवेद्य म्हणून द्या सुदामा लाडू, विस्मरणात गेलेला जन्माष्टमी स्पेशल झटपट नैवेद्य",
+            "title": "सगुण-निर्गुण: वृक्ष नेणे मान अपमान...",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-02T12:09:04",
-            "url": "https://maharashtratimes.com/lifestyle-news/home-decor-hacks/sudama-ladoo-pohe-laddu-govind-laddu-at-janmashtami-naivedya-recipe-shared-by-ashwini-annapurna-kitchen/articleshow/133700867.cms",
+            "published": "2026-09-02T17:17:41",
+            "url": "https://maharashtratimes.com/editorial/sagun-nirgun/sunil-shinde-sagun-nirgun-article-on-sant-namdev-santvani/articleshow/133708643.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "768fe140fa62",
+            "feed": "lokmat",
+            "title": "हिमोग्लोबिन वाढवण्याचा चवि‌ष्ट उपाय, १ चमचा 'ही' चटणी रोज खा- शरीर होईल पोलादी कणखर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-02T17:13:46",
+            "url": "https://www.lokmat.com/sakhi/food/chutney-for-increasing-hemoglobin-level-how-to-get-rid-of-iron-deficiency-naturally-superfood-to-increase-iron-and-hemoglobin-level-a-a602/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-02-at-14.23.33_2026091775769.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "0dde10d262c1",
+            "feed": "esakal",
+            "title": "सर्किटचा ‘डार्क’ अवतार! अर्शद वारसीच्या ‘महाराज’ भूमिकेने वाढवलं ‘घमासान’चं गूढ, खाकी वर्दीत प्रतीक गांधींचा दमदार अंदाज",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-02T17:11:12",
+            "url": "https://www.esakal.com/premier/arshad-warsi-pratik-gandhi-ghamasaan-movie-zee5-release-date-tigmanshu-dhulia-interview-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-02/bjwdflj2/ARSHAD-WARSI-AND-PRATIK-GANDHI",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "79bd7bd90b8d",
+            "feed": "maharashtratimes",
+            "title": "Jauhar Controversy:  राणी पद्मावतीनं चितेत उडी घेतली,'जौहर’ प्रथा म्हणजे काय? 'पद्मावत' सिनेमाच्या शूटिंग दरम्यानही झालेला वाद",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-02T17:08:01",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/swara-bhaskar-controversy-what-is-jauhar-jauhar-tradition-and-customs-explained/articleshow/133708506.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "37e390e6160f",
+            "feed": "maharashtratimes",
+            "title": "आर्थिक राशिभविष्य 3 सप्टेंबर 2026: वासी योगामुळे मेष, धनु, मीनसाठी कामाचा ताण, धावपळ! तूळ,वृश्चिकने सावध राहावे! तुमची राशी काय सांगते? पाहा, तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-02T17:06:01",
+            "url": "https://maharashtratimes.com/astro/financial-horoscope/financial-money-horoscope-3-september-vashi-yog-2026-arthik-rashi-astrology-bhavishya-marathi/articleshow/133709203.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "4ccceee1b808",
-            "feed": "esakal",
-            "title": "Agra Cancer Cases: आग्र्यात कॅन्सरच्या रुग्णांमध्ये वाढ; गुटखा, तंबाखू अन् सिगारेटच्या व्यसनापासून सावध राहण्याचा डॉक्टरांचा इशारा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-02T12:04:19",
-            "url": "https://www.esakal.com/desh/agra-cancer-cases-tobacco-gutkha-smoking-cancer-awareness-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-02/4bclb25g/agra-cancer-patient-increase.jpg.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "67c049392f30",
-            "feed": "esakal",
-            "title": "आजचे पंचांग २ सप्टेंबर २०२६! राहुकाळ, मुहूर्त, तिथी आणि नक्षत्र जाणून घ्या",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-02T12:02:50",
-            "url": "https://www.esakal.com/culture-and-religion/deshpande-panchang-september-2-2026-tithi-muhurat-rahu-kaal-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-02/xhbtngln/panchang.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ebc05b1ed812",
-            "feed": "esakal",
-            "title": "काय? सेलेब्रिटींसोबत दिसणारा ऑरी करतो लाखोंच्या घरात कमाई? एका रीलसाठी घेतले ७६ लाख; म्हणतो- गेल्याच महिन्यात...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-02T12:00:14",
-            "url": "https://www.esakal.com/premier/orry-reveals-his-massive-earnings-from-celebrity-events-and-social-media-brand-deals-charges-76-lakh-for-one-reel-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-02/ibc0i7tu/ORRY.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "4cf45144c412",
+            "id": "6d0aa46b8ef6",
             "feed": "lokmat",
-            "title": "नेपाळमध्ये महाप्रलय, पुराने वेढलेले हिरवे घर; ४० वर्षांपूर्वी बांधलेले, महापुरातही टिकले कसे?",
+            "title": "घरं मोडली, कुटुंब कोसळली! नेपाळमध्ये पोहोचला बॉलिवूड अभिनेता; महापुरामुळे उद्ध्वस्त झालेल्या नागरिकांना करणार मदत",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-02T11:41:16",
-            "url": "https://www.lokmat.com/international/nepal-viral-green-house-news-flood-in-nepal-green-house-surrounded-by-floodwaters-built-40-years-ago-how-did-it-survive-the-flood-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-viral-green-house-0209_2026091775359.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8099de992c8e",
-            "feed": "maharashtratimes",
-            "title": "सावधान, छातीत वेदना न होताच येतो हार्ट अटॅक? ‘ही’ 7 लक्षणं करू नका दुर्लक्ष नाहीतर द्याल मृत्यूला आमंत्रण, हार्ट अटॅक टाळतील WHO चे हे 8 उपाय",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-02T11:36:56",
-            "url": "https://maharashtratimes.com/lifestyle-news/health-news/silent-heart-attack-warning-signs-symptoms-without-chest-pain-risk-factors-and-remedies-prevention-tips-for-healthy-heart/articleshow/133700110.cms",
-            "image": "",
+            "published": "2026-09-02T16:53:39",
+            "url": "https://www.lokmat.com/filmy/bollywood/nepal-flood-bollywood-actor-sonu-sood-visit-affected-area-to-help-citizens-shared-post-a-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sonu-sood-nepal-flood-1_2026091775729.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "9b5864c9b1e8",
+            "id": "bf78fc06a149",
             "feed": "lokmat",
-            "title": "गर्भश्रीमंत टेक दिग्गज पिकवताहेत कांदे-बटाटे !",
+            "title": "महाप्रलय येताच पहिली मदत भारतातून आली...! नेपाळच्या पंतप्रधानांनी संसदेत मानले भारताचे आभार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-02T11:21:38",
-            "url": "https://www.lokmat.com/international/the-rich-tech-giants-are-growing-onions-and-potatoes-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/farmer-2803fgg_2026091775353.jpg",
+            "published": "2026-09-02T16:11:19",
+            "url": "https://www.lokmat.com/international/nepal-flood-balen-shah-thanks-india-china-as-soon-as-the-flood-hit-the-first-aid-came-from-india-nepals-prime-minister-thanked-india-in-parliament-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-balen-shah-er54_2026091775684.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "15689331c99f",
-            "feed": "maharashtratimes",
-            "title": "नेपाळमध्ये मृतांचा आकडा हजारावर, अनेकांची ओळख पटेना; सरकारनं तोडगा काढला, जंगलांमध्ये काय चाललंय?",
+            "id": "b98117ce31fd",
+            "feed": "lokmat",
+            "title": "भारतीयांच्या मदतीस नेपाळचा नकार; कोल्हापूरच्या व्हाईट आर्मीचे पथक परतले",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-01T23:22:33",
-            "url": "https://maharashtratimes.com/international/international-news/nepal-flood-administration-starts-mass-burial-of-unidentified-bodies-after-dna-identification/articleshow/133688793.cms",
-            "image": "",
+            "published": "2026-09-02T15:53:28",
+            "url": "https://www.lokmat.com/international/nepal-refuses-to-help-indians-kolhapur-white-army-team-returns-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kolhapur-white-army-nepalik_2026091775662.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3e608272dd6b",
-            "feed": "maharashtratimes",
-            "title": "5 हजार US सैनिक पोहोचण्याआधी रेड लाईट एरियावर धाडी; हत्तींच्या देशात लक्षवेधी घडामोडी",
+            "id": "88abd0bf5a4a",
+            "feed": "esakal",
+            "title": "Driverless Car Crash in Islamabad : पाकिस्तानी जुगाडाचा फज्जा! ड्रायव्हरलेस कारची टेस्टिंग महागात; थेट पोलीस व्हॅनला धडक अन्... VIDEO VIRAL",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-09-01T21:55:30",
-            "url": "https://maharashtratimes.com/international/international-news/raid-started-in-thailands-pattaya-as-uss-abraham-lincoln-set-to-dock-with-5000-sailors/articleshow/133686820.cms",
-            "image": "",
+            "published": "2026-09-02T15:51:07",
+            "url": "https://www.esakal.com/trending-news/pakistan-islamabad-driverless-car-crash-remote-controlled-car-police-van-internet-connection-failure-viral-video-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-02/o2msr04n/Pakistan-viral-Video-.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "90f04cec71b7",
+            "feed": "esakal",
+            "title": "IIT टॉपर ते २५व्या वर्षी IAS, कोण आहेत जरांगेंसोबत चर्चा करणाऱ्या आशिमा?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-02T15:48:45",
+            "url": "https://www.esakal.com/ampstories/web-story/who-is-ias-ashima-mittal-iit-topper-upsc-rank-12-holder-at-25-and-met-manoj-jarange-patil-during-protest-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-02/ob62b80z/IAS-Ashima-Mittal.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "a16a7187caa8",
+            "id": "877a757a2d9e",
             "feed": "maharashtratimes",
-            "title": "Mumbai Captain : एकच वादा सूर्या दादा! मुंबईच्या कॅप्टनपदाने सूर्यकुमार यादवचं कमबॅक फिक्स? श्रेयस असतानाही नेमकं कसं? जाणून घ्या",
+            "title": "BCCI Meeting : श्रीलंका दौरा संपताच बीसीसीआय आता अॅक्शनमोडमध्ये;  गंभीर, आगरकर आणि लक्ष्मण यांच्याशी होणार चर्चा, कोणाचा नंबर लागणार?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-09-02T12:02:50",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/suryakumar-yadav-likely-appointed-mumbai-captain-for-syed-mushtaq-ali-trophy-2026/articleshow/133700183.cms",
+            "published": "2026-09-02T16:44:16",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/gautam-gambhir-and-ajit-agarkar-summoned-for-review-meeting-before-afghanistan-t20-series-by-bcci/articleshow/133706410.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "022f3e9455ef",
-            "feed": "esakal",
-            "title": "फुल ड्रामा! तिसऱ्या अम्पायरने फलंदाजाला OUT दिले, सहकारी डग आऊडमध्ये 'आंदोलना'ला बसले; पुढे जे घडले त्याने सारेच चक्रावले",
+            "id": "358154e4156a",
+            "feed": "lokmat",
+            "title": "मॉडर्न क्रिकेटला मिळाला नवा 'जॉन्टी'; अविश्वसनीय झेल आणि क्विंटन डी कॉकचा खेळ खल्लास (VIDEO)",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-02T11:41:36",
-            "url": "https://www.esakal.com/krida/cricket/cpl-drama-third-umpire-gave-batter-johnson-charles-out-patriots-dugout-erupts-in-protest-second-review-changes-the-decision-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-02/pr1dku0c/CPL-controversial-umpiring-decision-Johnson-Charles",
+            "published": "2026-09-02T16:15:19",
+            "url": "https://www.lokmat.com/cricket/news/navin-bidaisee-takes-a-stunning-diving-catch-to-dismiss-quinton-de-kock-in-the-cpl-2026-clash-between-st-kitts-and-nevis-patriots-watch-viral-video-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/navin-bidaisee-takes-a-stunning-diving-catch-to-dismiss-quinton-de-kock-m-_2026091775675.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0dcb6f333c67",
+            "id": "0928552176b7",
             "feed": "esakal",
-            "title": "IND vs AFG: भारतीय संघ निवडताना BCCIने केलीय मोठी चूक; आयर्लंड, इंग्लंडपाठोपाठ अफगाणिस्तानही अय्यरच्या संघाला लोळवणार",
+            "title": "ENG vs PAK: निर्लज्ज कुठला! इंग्लंडकडून लाजीरवाणा पराभव अन् रिझवान दात काढत होता... नेटिझन्स खवळले; Viral Video",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-02T11:04:55",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-afg-bcci-made-a-big-mistake-in-team-selection-shreyas-iyer-india-face-another-defeat-after-ireland-england-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-02/f07qrvck/Shreyas-Iyer-India-team-selection-latest-news",
+            "published": "2026-09-02T15:28:57",
+            "url": "https://www.esakal.com/krida/cricket/pakistan-cricket-controversy-mohammad-rizwan-smiling-viral-video-after-lords-test-defeat-imam-ul-haq-pcb-fake-injury-probe-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-02/xs9ctmk5/Mohammad-Rizwan-Viral-Video.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "3eae44a52407",
-            "feed": "esakal",
-            "title": "Premium|Retirement Planning : पीएफ, एफडी असूनही निवृत्तीनंतर पैसा पुरेल का? असे करा आर्थिक नियोजन",
+            "id": "509f92bf8d8f",
+            "feed": "lokmat",
+            "title": "World Coconut Day : कोकणात नारळ उत्पादनाला मोठा फटका; 'या' ५ कारणांमुळे नारळ शेती संकटात",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-02T12:00:00",
-            "url": "https://www.esakal.com/premium-article/retirement-planning-pf-fd-insurance-inflation-healthcare-cost-retirement-corpus-financial-security-amp",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-01/4krjixa0/Abhi-2026-09-01T202904.408.jpg",
+            "published": "2026-09-02T17:06:12",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/world-coconut-day-coconut-production-in-konkan-suffers-a-major-blow-coconut-farming-is-in-crisis-due-to-these-5-reasons-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/world-coconut-day_2026091775700.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "83e5ead13c45",
+            "id": "81a60fcafec2",
             "feed": "lokmat",
-            "title": "तुमच्या लाडकीच्या भविष्याची चिंता मिटली! 'या' योजनेच्या माध्यमातून उभारा ७० लाखांचा फंड; जाणून घ्या संपूर्ण माहिती...",
+            "title": "'वंदे भारत' स्लीपर ट्रेनसाठी मिळाली मोठी ऑर्डर; मिनीरत्न कंपनीचा शेअर ₹२००० पार, तुमच्याकडे आहे का?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-09-02T11:53:59",
-            "url": "https://www.lokmat.com/business/savings-investments/sukanya-samriddhi-yojana-worries-about-your-beloveds-future-are-over-raise-a-fund-of-rs-70-lakhs-through-this-scheme-know-the-complete-details-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sukanya-yojana_2026091775363.jpg",
+            "published": "2026-09-02T16:48:06",
+            "url": "https://www.lokmat.com/business/stock-market/share-market-big-order-received-for-vande-bharat-sleeper-train-shares-of-this-miniratna-company-cross-rs2000-do-you-have-any-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vande-bharat-sleeper_2026091775721.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "18ce6e9afc19",
+            "id": "68a58c144729",
             "feed": "lokmat",
-            "title": "Mosambi Farming : मोसंबी उत्पादकांनो, संकट वाढलं! फळगळ सुरू; पाणीटंचाईने फळांचा आकार घटला, ३०-३५ हजारांचा दर हवा",
+            "title": "Kanda Market : यंदा जुन्या आणि नवीन कांद्याला 100 टक्के चांगला भाव मिळणार, फक्त हे' एक काम करा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-02T11:38:59",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-mosambi-farming-mosambi-growers-the-crisis-has-increased-fruit-rot-has-started-the-size-of-the-fruits-has-decreased-due-to-water-shortage-the-price-is-expected-to-be-30-35-thousand-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mosambi-farming-1_2026091775356.jpg",
+            "published": "2026-09-02T16:20:01",
+            "url": "https://www.lokmat.com/agriculture/market-yard/kanda-market-old-and-new-onions-will-get-100-percent-good-price-says-onion-farmers-association-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-bhav-3_2026091775501.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
