@@ -1,170 +1,234 @@
 {
-    "lastUpdated": "03-09-2026 | 08:18 PM IST",
+    "lastUpdated": "03-09-2026 | 11:44 PM IST",
     "maharashtra": [
         {
-            "id": "5ac1d4bd0267",
-            "feed": "lokmat",
-            "title": "नागपुरातील डीजेबंदीवरून भाजपमध्येच वेगवेगळे सूर, जोशींच्या भूमिकेला दटके-तिवारींचा छेद",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-03T20:13:34",
-            "url": "https://www.lokmat.com/nagpur/different-voices-within-bjp-over-dj-ban-in-nagpur-tiwari-slams-joshis-stance-a-a382-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-03-at-8.10.56-pm_2026091776656.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c92a0e3c6a31",
-            "feed": "lokmat",
-            "title": "डीजे बंदीचा फटका जनरेटर व्यावसायिकांनाही; उदरनिर्वाहाचा विचार करण्याची मागणी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-03T20:07:56",
-            "url": "https://www.lokmat.com/nagpur/dj-ban-also-affects-generator-businessmen-demand-to-think-about-livelihood-a-a873-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-03-at-8.06.52-pm-1_2026091776652.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c77b60bcae03",
-            "feed": "lokmat",
-            "title": "'आता आवाज कमी कर डीजे तुला...! ४ बेस, ४ टॉप’च्या पुढे परवानगी नाहीच, आयुक्तांची भूमिका स्पष्ट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-03T20:07:16",
-            "url": "https://www.lokmat.com/pune/now-lower-your-volume-dj-no-permission-beyond-4-bass-4-tops-commissioners-position-is-clear-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-police-ayukt-p_2026091776650.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d7e2cd9dc877",
+            "id": "0abf45e0db70",
             "feed": "esakal",
-            "title": "Pune News : महापालिका रुग्णालयांमधील एनआयसीयूची क्षमता वाढणार",
+            "title": "Sharad Pawar : राज्याची अर्थव्यवस्था अडचणीत; ज्येष्ठ नेते शरद पवार यांचा आरोप",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-03T20:05:44",
-            "url": "https://www.esakal.com/pune/nicu-capacity-in-pune-municipal-hospitals-to-increase-strengthening-critical-care-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-03/nphd7ipk/Parliament-2026-02-03T214644.842.jpg",
+            "published": "2026-09-03T23:39:14",
+            "url": "https://www.esakal.com/pune/sharad-pawar-alleges-state-and-national-economy-in-trouble-amid-rising-inflation-baramati-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2024-04/722a87c2-bcb9-40c1-a9fe-506bb38fd831/Sharad_Pawar_Politics.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9b4f71c9d5b4",
-            "feed": "lokmat",
-            "title": "‘बापट यांच्यावरील हल्ला म्हणजे समाजाच्या कानावर मारलेली झापड’, पुण्यातील सामाजिक संघटनांकडून तीव्र निषेध",
+            "id": "4a771d46b3a8",
+            "feed": "esakal",
+            "title": "Amravati Crime : अमरावतीत भररस्त्यावर मुलीचा खून; हल्लेखोराचा शोध सुरू: तपास पथकांची नियुक्ती",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-03T23:32:52",
+            "url": "https://www.esakal.com/vidarbha/minor-girl-killed-on-busy-road-in-amravati-search-on-for-attacker-special-teams-deployed-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-21/lka96mxx/Crime",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8cc987ffd440",
+            "feed": "esakal",
+            "title": "City Bus Service : बससेवा सुरू होण्याच्या आशेने सुखावले सातारकर; जुन्या आठवणी जाग्या; मिनी बसची अपेक्षा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-03T20:04:01",
-            "url": "https://www.lokmat.com/pune/attack-on-bapat-is-a-slap-in-the-face-of-society-strong-protest-from-social-organizations-in-pune-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bapat-vidyanand-4s_2026091776648.jpg",
+            "published": "2026-09-03T23:19:53",
+            "url": "https://www.esakal.com/satara/satara-residents-relieved-by-news-of-city-bus-service-revival-nostalgic-memories-spark-expectations-for-mini-buses-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-03/lfyu24nw/satara-city-bus",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "307f9992be46",
+            "feed": "esakal",
+            "title": "Manoj Jarange Patil: शिष्टमंडळासोबतची चर्चा निष्फळ! मनोज जरांगे उपोषणावर ठाम; लाड म्हणाले, ''...नाहीतर मी उपोषणाला बसेन''",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-03T23:16:38",
+            "url": "https://www.esakal.com/marathwada/manoj-jarange-patil-hunger-strike-talks-fail-government-delegation-vikhe-patil-uday-samant-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-03/ztk79qoy/Latest-Marathi-Breaking-News-2026-09-03T231602.520.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "4a7cfe30fd81",
+            "feed": "maharashtratimes",
+            "title": "Dharashiv News : कुस्तीपटू म्हणून नावलौकिक असलेल्या महिलेचा तीन चिमुकल्यांसह किल्ल्यावरुन टोकाचा निर्णय, धाराशिव सुन्न",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-03T23:11:19",
+            "url": "https://maharashtratimes.com/maharashtra/osmanabad/mother-jumped-from-naldurg-fort-with-three-child-in-dharashiv/articleshow/133743025.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "6307e65c7186",
+            "id": "558d2518b33b",
             "feed": "maharashtratimes",
-            "title": "AC कितीही चालवा, लाईट बिल येईल अगदी नाममात्र; फक्त 5 टेक्निकल चुका टाळा",
+            "title": "<b>पंचांग 4 September 2026: जन्माष्टमी, गुरू राजयोग, मालव्य राजयोग, बुधादित्य योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-03T20:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/smart-cooling-habits-5-essential-tech-tips-to-lower-your-ac-electricity-bill/articleshow/133734329.cms",
+            "published": "2026-09-03T22:45:48",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-4-september-in-marathi-janmashtami-2026-guru-rajyog-budhaditya-yog-and-shubha-muhurta/articleshow/133741126.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "dc47cd2894a9",
-            "feed": "esakal",
-            "title": "गणपती घरी आणताना 'या' चुका टाळा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-03T20:00:00",
-            "url": "https://www.esakal.com/ampstories/web-story/avoid-these-three-mistakes-when-bringing-ganpati-murti-at-home-by-shastra-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-03/j6nf0uh6/Ganpati-Sthapana-at-home.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "157a4b68862a",
-            "feed": "esakal",
-            "title": "Manoj Jarange Patil : जरांगे पाटील आंदोलनावर ठाम; पंकजा मुंडे स्पष्टच म्हणाल्या...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-03T19:49:54",
-            "url": "https://www.esakal.com/videos/manoj-jarange-patil-jarange-patil-andolanavar-tham-pankaja-munde-spashtach-mhanalya",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-03/f8z2h3yc/maxresdefault-7.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "7e26df11dc5c",
+            "id": "8e835e0942e1",
             "feed": "lokmat",
-            "title": "तोंडावर गोड बोलायचं आणि मागे जळायचं; १० लक्षणांवरून ओळखा लोक तुमच्यावर जळतात",
+            "title": "मोठी बातमी! नाते, रक्ताचे नाते अन् कुळ; कुणबी प्रमाणपत्र देण्यास सरकार अखेर तयार, मंत्र्यांची शिष्टाई यशस्वी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-03T19:44:26",
-            "url": "https://www.lokmat.com/sakhi/mind-soul/10-warning-signs-somebody-secretly-jealous-of-you-10-signs-of-jealous-people-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-03-at-5.59.20-pm_2026091776632.jpeg",
+            "published": "2026-09-03T22:33:03",
+            "url": "https://www.lokmat.com/jalana/manoj-jarange-patil-maratha-reservation-relationship-blood-relationship-and-clan-government-finally-ready-to-issue-kunbi-certificate-ministers-courtesy-successful-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jalana-manoj-jarange-patil-main-news_2026091776702.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "79a5c1553a7a",
+            "id": "7197e439b298",
+            "feed": "lokmat",
+            "title": "शिवरायांचे गोवा योगदान JNUच्या राष्ट्रीय व्यासपीठावर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-03T22:16:31",
+            "url": "https://www.lokmat.com/goa/shivajis-contribution-to-goa-on-jnus-national-platform-a-a1016/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/u-34-fb_2026091776700.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "0775aa4c7fea",
+            "feed": "lokmat",
+            "title": "लोणावळ्याच्या फेमस चॉकलेट वॉलनट फजची सोपी रेसिपी! मऊ-मऊ चॉकलेट अन् अक्रोडाचा क्रंच - करताच होईल फस्त...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-03T22:15:01",
+            "url": "https://www.lokmat.com/sakhi/food/lonavala-special-chocolate-walnut-fudge-recipe-lonavala-fudge-recipe-homemade-chocolate-walnut-fudge-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lonavala-special-chocolate-walnut-fudge-recipe_2026091776550.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "71014dc2ae73",
             "feed": "esakal",
-            "title": "Premium|Ethical Corporate Governance : कॉर्पोरेट प्रशासनात नैतिकता का महत्त्वाची आहे?",
+            "title": "कोण आहेत IAS आरसी मीणा? मुलगा, सून, जावई IAS, तर मुलगी IPS; चौघे एकाच केडरमध्ये",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-03T19:27:00",
-            "url": "https://www.esakal.com/premium-article/ethical-corporate-governance-india-company-act-sebi-transparency-accountability-board-directors-shareholders-business-ethics-corporate-responsibility-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-02/426y04uu/download-1.jpg",
+            "published": "2026-09-03T22:09:07",
+            "url": "https://www.esakal.com/ampstories/web-story/who-is-ias-rc-meena-son-daughter-in-law-and-son-in-law-are-ias-daughter-is-ips-four-in-gujarat-cadre-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-03/6fe64j80/IAS-IPS-Family.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
     ],
     "world": [
+        {
+            "id": "ffc6ea600e8b",
+            "feed": "lokmat",
+            "title": "नेपाळमध्ये महाप्रलयाचा हाहाकार! १,२५९ निष्पापांचा बळी, २० हजार घरे जमीनदोस्त; ७ सप्टेंबरला राष्ट्रीय शोक दिन जाहीर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-03T23:29:02",
+            "url": "https://www.lokmat.com/international/nepal-floods-1259-innocent-people-killed-20000-houses-destroyed-national-mourning-day-declared-on-september-7-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/other-nepal-floods-20000-homes-to-rebuild_2026091776712.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d017414384f3",
+            "feed": "lokmat",
+            "title": "१७ दिवसांनी आकाशात काय घडणार? भारताने NOTAM जारी करताच पाकिस्तानचा थरकाप; सीमेवर घबराट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-03T21:51:16",
+            "url": "https://www.lokmat.com/international/what-will-happen-in-the-sky-after-17-days-pakistan-trembles-as-india-issues-notam-panic-on-the-border-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-issues-17-day-notam-stir-in-pakistan-defense_2026091776698.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ce22ea23cd6c",
+            "feed": "lokmat",
+            "title": "'स्ट्रेट ऑफ होर्मुझ'ला अखेर पर्याय सापडला; सीरियानं बनवलेला 'मास्टरप्लॅन' पाहून ट्रम्पही खुश",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-03T20:48:16",
+            "url": "https://www.lokmat.com/international/us-iran-war-an-alternative-to-the-strait-of-hormuz-has-finally-been-found-donald-trump-is-also-happy-to-see-the-master-plan-made-by-syria-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hormuz-strain-1h191_2026091776675.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a1dfe5cdaa5b",
+            "feed": "maharashtratimes",
+            "title": "Nepal Flood news : आठ दिवसांनंतरही Plants च्या बोगद्यात शेकडो मजूर जीवंत? रेस्क्यू ऑपरेशनमध्ये अडचण",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-03T20:21:38",
+            "url": "https://maharashtratimes.com/video/mt-originals/nepal-flood-news/videoshow/133739586.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "3b1cdebe4cea",
             "feed": "esakal",
@@ -180,123 +244,75 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-03/vuzsfmfi/pratibha-63.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "3ff2c8a117fa",
+            "id": "a99c704bbd74",
             "feed": "lokmat",
-            "title": "US Iran conflict: मध्य पूर्वेतील संघर्ष टोकाला! इराणमध्ये लग्नसमारंभ सुरू असतानाच कोसळलं अमेरिकेचं मिसाइल; ४ जण ठार, ६८ जखमी",
+            "title": "Women's T20 Asia Cup 2026: स्मृती-दीप्तीचा विश्वविक्रमी धमाका; दणदणीत विजयासह टीम इंडियाची सेमीत धडक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "world"
+                "category": "sports"
             },
-            "published": "2026-09-03T20:11:32",
-            "url": "https://www.lokmat.com/international/iran-fires-on-its-gulf-neighbors-retaliating-for-us-strikes-after-a-wedding-was-hit-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-iran-conflict-2_2026091776654.jpg",
+            "published": "2026-09-03T23:25:16",
+            "url": "https://www.lokmat.com/cricket/news/womens-t20-asia-cup-2026-india-137-run-victory-over-hong-kong-china-and-qualify-for-semi-final-smriti-mandhana-and-deepti-sharma-both-shine-with-world-record-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/womens-asia-cup-2026-india-137-run-victory-over-hong-kong-china-m-_2026091776710.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c1cd08da19e9",
+            "id": "0468552d93f0",
             "feed": "maharashtratimes",
-            "title": "लहान देशाचं मोठं धाडस! महाराष्ट्राइतक्या देशाकडून रशियाचं 'प्रोफेसर मोल्चानोव' जप्त, पुतीन भडकले",
+            "title": "BCCI Meeting : BCCIच्या  बैठकीत काय ठरलं, रोहित शर्माला बाहेर बसवणार? आगरकरांना हटवणार का? सर्वकाही जाणून घ्या",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "world"
+                "category": "sports"
             },
-            "published": "2026-09-03T19:49:21",
-            "url": "https://maharashtratimes.com/international/international-news/norway-seizes-russian-ship-professor-molchanov-in-arctic-over-crimea-compensation-claim/articleshow/133738688.cms",
+            "published": "2026-09-03T23:06:33",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/bcci-secretary-devajit-saikia-talking-about-bcci-reveiw-meeting-press-conference/articleshow/133742571.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3b8e5a68e40b",
-            "feed": "lokmat",
-            "title": "US Attack on Iran: अमेरिकेचा इराणला तडाखा, लष्कराचे तीन पायलट ठार, लग्नाच्या मंडपावरही एअरस्ट्राईक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-03T19:44:42",
-            "url": "https://www.lokmat.com/international/us-attack-on-iran-america-strikes-iran-three-iranian-military-pilots-killed-airstrike-on-wedding-tent-also-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/three-iranian-pilots-killed-in-us-attacks_2026091776639.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1aed71847870",
+            "id": "e25334ca137f",
             "feed": "esakal",
-            "title": "Russia-Ukraine War: रशिया-युक्रेन युद्ध थांबवण्यासाठी भारताचा पुढाकार; एस. जयशंकर यांचं मोठं विधान",
+            "title": "माजी भारतीय कर्णधार तारक राऊळ काळाच्या पडद्याआड; कबड्डी जगतावर शोककळा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-03T18:55:46",
-            "url": "https://www.esakal.com/global/india-ready-to-help-end-russia-ukraine-war-s-jaishankar-kyiv-visit-peace-talks-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-03/pxruhjjp/Latest-Marathi-Breaking-News-2026-09-03T185338.544.jpg",
+            "published": "2026-09-03T21:39:55",
+            "url": "https://www.esakal.com/krida/former-indian-kabaddi-team-captain-shiv-chhatrapati-awardee-tarak-raul-passes-away-at-75-in-mumbai-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-03/sbvuo0ei/Legendary-Kabaddi-Captain-Tarak-Raul-Passes-Away.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
-    "sports": [
+    "business": [
         {
-            "id": "e2c4dc25071f",
+            "id": "d23873f7d925",
             "feed": "maharashtratimes",
-            "title": "Pakistan Team : जगभरात लाज गेली पण माज कायम! पाकिस्तान क्रिकेट बोर्डाच्या अध्यक्षांची भारताचं नाव घेत मुक्ताफळे, काय म्हणाले?",
+            "title": "Explained: नॉमिनल आणि रियल जीडीपीमधला फरक, बेस्ड ईअरचं महत्त्व; समजून घ्या सोप्या भाषेत",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "sports"
+                "category": "business"
             },
-            "published": "2026-09-03T20:05:35",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/pcb-chairman-mohsin-naqvi-talk-about-team-india-lost-against-ireland-t20-series/articleshow/133738865.cms",
+            "published": "2026-09-03T21:49:35",
+            "url": "https://maharashtratimes.com/business/business-news/nominal-gdp-or-real-gdp-and-based-year-meaning-with-simplified-explainer/articleshow/133740895.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
-        {
-            "id": "32c1fee00d7d",
-            "feed": "esakal",
-            "title": "Rohit Sharma : एकिकडे रोहितच्या भविष्याची चर्चा अन दुसरीकडे त्याच्या नव्या इनिंगची घोषणा! Video होतोय Viral",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-03T19:53:45",
-            "url": "https://www.esakal.com/krida/cricket/rohit-sharma-makes-television-debut-as-host-of-family-full-house-show-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-03/5s3vrmm0/Rohit-Sharma-Viral-Video-1.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e702ecfd0774",
-            "feed": "esakal",
-            "title": "रोहित शर्माचे भवितव्य ते अजित आगरकरांची गैरहजेरी... BCCI च्या Meeting मध्ये नेमकं काय घडलं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-03T19:18:50",
-            "url": "https://www.esakal.com/krida/cricket/rohit-sharma-future-and-ajit-agarkar-absence-discussed-in-bcci-review-meeting-secretary-devajit-saikia-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-03/h8at4ij4/Ajit-Agarkar-Rohit-Sharma.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "business": [
         {
             "id": "c9b4b56e7f72",
             "feed": "lokmat",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "2a58d963a9b4",
-            "feed": "lokmat",
-            "title": "राज्याच्या कोणत्या जिल्ह्यात कांद्याला किती मिळतोय दर; वाचा आजचे कांदा बाजारभाव",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-03T19:33:51",
-            "url": "https://www.lokmat.com/agriculture/market-yard/how-much-is-the-price-of-onion-in-which-district-of-the-state-read-todays-onion-market-price-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-34-kanda-market-rate_2026091776636.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
