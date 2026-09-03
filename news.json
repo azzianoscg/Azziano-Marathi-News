@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "03-09-2026 | 11:44 PM IST",
+    "lastUpdated": "04-09-2026 | 05:11 AM IST",
     "maharashtra": [
+        {
+            "id": "9f444e87ea78",
+            "feed": "lokmat",
+            "title": "छत्रपती संभाजीनगरच्या एशियन हॉस्पिटलच्या PICUला मध्यरात्री आग; ९ शिशूंची मृत्यूच्या दाढेतून सुटका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-04T04:51:02",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/asian-hospitals-picu-catches-fire-at-midnight-9-infants-rescued-from-deaths-grip-a-a611-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fire-private-hospital-0409_2026091776719.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "867bd0fa09f6",
+            "feed": "lokmat",
+            "title": "मकोकातील वॉन्टेड फिरत होता डिलिव्हरी बॉयच्या वेशात; शनिचरा मार्केट फायरिंग केस; कुख्यात जगदीश गोखलेला गणेशपेठ पोलिसांनी ठोकल्या बेड्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-04T00:19:40",
+            "url": "https://www.lokmat.com/nagpur/wanted-in-mcoca-was-roaming-around-disguised-as-a-delivery-boy-shanichara-market-firing-case-a-a877-c941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-police-arrested_2026091776716.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3c735be9f2f7",
+            "feed": "lokmat",
+            "title": "NCPA कामगारांना दरमहा ७,२५० रुपये वेतनवाढ अन् ५० हजार बोनस; रवींद्र चव्हाण यांच्या नेतृत्वाखाली वेतनकरार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-04T00:10:16",
+            "url": "https://www.lokmat.com/mumbai/ncpa-workers-to-get-rs-7250-salary-hike-and-rs-50000-bonus-per-month-wage-agreement-signed-under-the-leadership-of-ravindra-chavan-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/historic-wage-agreement-between-the-all-india-workers-and-employees-union-and-the-ncpa_2026091776714.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "0abf45e0db70",
             "feed": "esakal",
@@ -32,57 +80,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-08-21/lka96mxx/Crime",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "8cc987ffd440",
-            "feed": "esakal",
-            "title": "City Bus Service : बससेवा सुरू होण्याच्या आशेने सुखावले सातारकर; जुन्या आठवणी जाग्या; मिनी बसची अपेक्षा",
+            "id": "5fa74ef60ab0",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 4 September 2026: !! जय श्री कृष्ण !! मूलांक 2 आर्थिक दिलासा, संयमाने वागा! मूलांक 8 मेहनत, हुशारीचे कौतुक! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
             },
-            "published": "2026-09-03T23:19:53",
-            "url": "https://www.esakal.com/satara/satara-residents-relieved-by-news-of-city-bus-service-revival-nostalgic-memories-spark-expectations-for-mini-buses-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-03/lfyu24nw/satara-city-bus",
+            "published": "2026-09-04T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-4-september-janmashtami-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133732614.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         },
         {
-            "id": "307f9992be46",
+            "id": "dc9474a11a32",
             "feed": "esakal",
-            "title": "Manoj Jarange Patil: शिष्टमंडळासोबतची चर्चा निष्फळ! मनोज जरांगे उपोषणावर ठाम; लाड म्हणाले, ''...नाहीतर मी उपोषणाला बसेन''",
+            "title": "फुलांमध्ये प्रजननाची प्रक्रिया कशी घडते? विज्ञान समजून घ्या",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-03T23:16:38",
-            "url": "https://www.esakal.com/marathwada/manoj-jarange-patil-hunger-strike-talks-fail-government-delegation-vikhe-patil-uday-samant-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-03/ztk79qoy/Latest-Marathi-Breaking-News-2026-09-03T231602.520.jpg",
+            "published": "2026-09-04T01:43:55",
+            "url": "https://www.esakal.com/ampstories/web-story/how-reproduction-happens-in-flowers-through-pollination-and-fertilization-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-03/fltwqkkl/Reproduction-in-Flowering-Plants-6.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
-        {
-            "id": "4a7cfe30fd81",
-            "feed": "maharashtratimes",
-            "title": "Dharashiv News : कुस्तीपटू म्हणून नावलौकिक असलेल्या महिलेचा तीन चिमुकल्यांसह किल्ल्यावरुन टोकाचा निर्णय, धाराशिव सुन्न",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-03T23:11:19",
-            "url": "https://maharashtratimes.com/maharashtra/osmanabad/mother-jumped-from-naldurg-fort-with-three-child-in-dharashiv/articleshow/133743025.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
         {
             "id": "558d2518b33b",
             "feed": "maharashtratimes",
@@ -130,38 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/u-34-fb_2026091776700.png",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "0775aa4c7fea",
-            "feed": "lokmat",
-            "title": "लोणावळ्याच्या फेमस चॉकलेट वॉलनट फजची सोपी रेसिपी! मऊ-मऊ चॉकलेट अन् अक्रोडाचा क्रंच - करताच होईल फस्त...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-03T22:15:01",
-            "url": "https://www.lokmat.com/sakhi/food/lonavala-special-chocolate-walnut-fudge-recipe-lonavala-fudge-recipe-homemade-chocolate-walnut-fudge-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lonavala-special-chocolate-walnut-fudge-recipe_2026091776550.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "71014dc2ae73",
-            "feed": "esakal",
-            "title": "कोण आहेत IAS आरसी मीणा? मुलगा, सून, जावई IAS, तर मुलगी IPS; चौघे एकाच केडरमध्ये",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-03T22:09:07",
-            "url": "https://www.esakal.com/ampstories/web-story/who-is-ias-rc-meena-son-daughter-in-law-and-son-in-law-are-ias-daughter-is-ips-four-in-gujarat-cadre-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-03/6fe64j80/IAS-IPS-Family.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "world": [
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "4793a61525bb",
+            "feed": "maharashtratimes",
+            "title": "Smriti Mandhana Hundred : आशिया कपमध्ये भारताचा हाँगकाँग चायनावर सुपर विजय, स्मृती मानधनाने तुफानी शतक ठोकत रचला वर्ल्ड रेकॉर्ड",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-09-04T00:26:05",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/women-asia-cup-2026-india-women-won-137-runs-hong-kong-smriti-mandhana-hundred-breaks-mithali-raj-record/articleshow/133744706.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "a99c704bbd74",
             "feed": "lokmat",
             "title": "Women's T20 Asia Cup 2026: स्मृती-दीप्तीचा विश्वविक्रमी धमाका; दणदणीत विजयासह टीम इंडियाची सेमीत धडक",
@@ -278,22 +294,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "e25334ca137f",
-            "feed": "esakal",
-            "title": "माजी भारतीय कर्णधार तारक राऊळ काळाच्या पडद्याआड; कबड्डी जगतावर शोककळा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-03T21:39:55",
-            "url": "https://www.esakal.com/krida/former-indian-kabaddi-team-captain-shiv-chhatrapati-awardee-tarak-raul-passes-away-at-75-in-mumbai-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-03/sbvuo0ei/Legendary-Kabaddi-Captain-Tarak-Raul-Passes-Away.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "business": [
