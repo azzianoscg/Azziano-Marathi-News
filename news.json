@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "05-09-2026 | 03:26 AM IST",
+    "lastUpdated": "05-09-2026 | 05:07 AM IST",
     "maharashtra": [
         {
             "id": "c287b9f42184",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "6b388f132170",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 5 सप्टेंबर 2026 : दहीहंडीला चंद्र मंगल योगाचा या राशींना फायदा, धनलाभ योगाने येणार पैसा ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-05T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-5-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/133772224.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "9cd31e12edcf",
             "feed": "lokmat",
             "title": "Dahi Handi 2026 Wishes: दहीहंडी आणि कृष्ण जन्माष्टमीच्या हार्दिक शुभेच्छा, आपल्या बाळगोपाळ मित्रमंडळींना मराठी Messages, Whatsapp Status, Images शेअर करुन साजरा हा मंगलमय दिवस!",
@@ -144,22 +160,6 @@
             "published": "2026-09-04T22:33:37",
             "url": "https://www.esakal.com/ampstories/web-story/what-alcohol-did-mughal-emperors-drink-history-wine-arak-majun-jahangir-babur-snk89",
             "image": "https://cf-images.assettype.com/esakal/2026-09-04/ud4xbbrg/8.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d58446b0ae67",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 5 September 2026: गोपाळकाला, चंद्र-मंगळ योग, धन योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-04T22:24:09",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-5-september-in-marathi-gopalakala-2026-chandra-mangal-yog-and-shubha-muhurta/articleshow/133768441.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "69f02dcfd876",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 5 September 2026: मूलांक 4 तज्ज्ञांचा सल्ला, गुंतवणूक लाभदायक! मूलांक 7 व्यवसायात सकारात्मक घडामोडी! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-05T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-5-september-dahi-handi-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/133762593.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "d938b54c44bb",
             "feed": "maharashtratimes",
             "title": "पगारातून PF कापला जातोय, पण EPFO खात्यात जमा होतोय का? 2 मिनिटांत करा सोक्षमोक्ष",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/satbara-2_2026091777446.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "7094f68c32e9",
-            "feed": "maharashtratimes",
-            "title": "मुंबईकरांना नवीन घर, नको रे बाबा! ३ कारणांमुळे रिडेव्हलपमेंटच्या घरांना जास्त पसंती",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-09-04T19:50:31",
-            "url": "https://maharashtratimes.com/business/real-estate-news/why-redevelopment-properties-in-mumbai-are-more-in-demand-than-under-construction-know-3-reasons/articleshow/133762349.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
