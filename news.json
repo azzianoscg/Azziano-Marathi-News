@@ -1,183 +1,231 @@
 {
-    "lastUpdated": "04-09-2026 | 05:51 PM IST",
+    "lastUpdated": "04-09-2026 | 10:09 PM IST",
     "maharashtra": [
         {
-            "id": "17f10caa18ed",
+            "id": "05cf66f8b54f",
             "feed": "esakal",
-            "title": "Maratha Reservation : सकल मराठा समाजाच्या वतीने पुणे-हैदराबाद राष्ट्रीय महामार्गावर आष्टामोड येथे ‘रास्ता रोको’ आंदोलन",
+            "title": "Marathi News Updates : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-04T21:50:49",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-04-september-2026-antarwali-sarati-manoj-jarange-hunger-strike-maratha-reservation-vidyanand-bapat-assault-ganeshotsav-dj-controversy-santosh-pandit-police-custody-weather-update-imd-tukaram-mundhe-fda-actions-supreme-court-hearing-shinde-faction-election-commission-sir-india-pm-narendra-modi-rahul-gandhi-cm-devendra-fadnavis-gold-rate-mumbai-pune-traffic-update-bam92-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "06ba320c15ec",
+            "feed": "esakal",
+            "title": "Hingoli News : मनोज जरांगे पाटील यांची आमदार राजू नवघरे यांनी घेतली भेट; उपोषणस्थळी जाऊन तब्येतीची केली विचारपूस",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-04T17:48:23",
-            "url": "https://www.esakal.com/marathwada/sakal-maratha-samaj-stages-road-blockade-at-ashtamod-on-pune-hyderabad-national-highway-maratha-reservation-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-04/4jznk3h4/maratha-community-agitation-for-maratha-reservation",
+            "published": "2026-09-04T21:13:56",
+            "url": "https://www.esakal.com/marathwada/mla-raju-navghare-meets-manoj-jarange-patil-to-inquire-about-his-health-at-fasting-site-hingoli-maratha-reservation-support-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-04/eyp55fwx/Manoj-jarange-Patil-and-MLA-Raju-Navghare",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e9926db0c6f9",
-            "feed": "lokmat",
-            "title": "\"प्रामाणिकपणे कर्तव्य पार पाडणं हा आता आश्चर्याचा विषय\"; तुकाराम मुंढेंचा उल्लेख करत मनोज वाजपेयी काय म्हणाले?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-04T17:43:46",
-            "url": "https://www.lokmat.com/filmy/bollywood/manoj-bajpayee-lauds-maharashtra-fda-chief-tukaram-mundhe-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-bajpayee-lauds-maharashtra-fda-chief-tukaram-mundhe_2026091777207.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "1f30320981fe",
-            "feed": "lokmat",
-            "title": "Rain Update : महाराष्ट्रात पाऊस पुन्हा सक्रिय! कोकणात मुसळधार, मध्य महाराष्ट्र अन् मराठवाड्यात विजांचा कडकडाट; IMD चा इशारा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-04T17:43:17",
-            "url": "https://www.lokmat.com/photos/maharashtra/rain-update-rains-active-again-in-maharashtra-torrential-rains-in-konkan-lightning-in-madhya-maharashtra-and-marathwada-imd-warns-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rain-update-news-4-to-sept_2026091777312.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "50415419bfba",
-            "feed": "lokmat",
-            "title": "Kolhapur Crime: ठार मारण्याची धमकी, रविकिरण इंगवलेसह दहाजणांवर गुन्हा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-04T17:40:26",
-            "url": "https://www.lokmat.com/kolhapur/threat-to-kill-crime-against-ten-people-including-ravikiran-ingavale-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ravikiran-ingvle-crime-t_2026091777311.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1155caebbe47",
+            "id": "91fd6dfaf121",
             "feed": "esakal",
-            "title": "Ganeshotsav : पुणे जिल्ह्यात सहा दिवस रात्री बारापर्यंत ध्वनीक्षेपक व ध्वनीवर्धकास परवानगी",
+            "title": "Pune Fraud News : हेलो, मी प्रिन्सिका जोशी बोलतेय....; मुलीच्या नावाने ‘स्नॅपचॅट’वर मैत्री अन्‌ दीड लाखाच्‍या 'क्रिप्टोकरन्सी'ला गंडा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-04T17:37:43",
-            "url": "https://www.esakal.com/pune/ganeshotsav-loudspeakers-and-sound-amplifiers-permitted-until-midnight-for-six-days-in-pune-district-collector-jitendra-dudi-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-04/ulfn4wts/Pune-District-collector-jitendra-dudi",
+            "published": "2026-09-04T21:04:07",
+            "url": "https://www.esakal.com/pune/fake-girl-profile-princika-joshi-on-snapchat-defrauds-man-of-rupees-1-lakh-50-thousand-in-cryptocurrency-scam-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2024-12-20/yaxf2rfv/maharashtra-vidhansabha-election-53.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "010cfcd006a0",
+            "feed": "maharashtratimes",
+            "title": "Vidarbha Rain : विदर्भातील अतिवृष्टी टळली, कमी दाबाचा पट्टा उत्तरेकडे सरकला, हवामान विभागाकडून महत्त्वाची अपडेट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-04T21:01:12",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/weather-update-change-in-rain-situation-in-vidarbha-shift-from-orange-alert-to-yellow-alert/articleshow/133768507.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c71d63e60b8f",
+            "feed": "lokmat",
+            "title": "'विद्यानंद बापट तुम आगे बढो, हम तुम्हारे साथ है' म्हणत पुणेकरांनी मारहाणीचा केला निषेध",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-04T20:58:31",
+            "url": "https://www.lokmat.com/pune/pune-residents-protested-the-beating-by-saying-vidyanand-bapat-tum-age-badho-hum-tumhare-saath-hai-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-kalakar-katta-4_2026091777457.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "de2d60c9d1f5",
+            "id": "6730194d0691",
             "feed": "lokmat",
-            "title": "Mirzapur Movie Review: गजब का भौकाल है...; सत्ता, संघर्ष अन् वर्चस्वाचा खेळ! कसा आहे ‘मिर्झापूर’ सिनेमा, वाचा रिव्ह्यू",
+            "title": "धोरण निर्मितीत संशोधन, नवे उपक्रम आणि प्रभावी अंमलबजावणीवर भर द्या: मुख्यमंत्री पुष्कर सिंह धामी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-04T17:38:33",
-            "url": "https://www.lokmat.com/filmy/reviews/mirzapur-the-movie-review-starring-pankaj-tripathi-ali-fazal-ravi-kishan-and-divyendu-sharma-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mirzapur-cinema_2026091777264.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3b68345abd5a",
-            "feed": "maharashtratimes",
-            "title": "Singer Baljit Singh Death: पंजाबी संगीतसृष्टीत पुन्हा खळबळ; सुप्रसिद्ध गायक आणि गीतकार बलजीत सिंगचा लुधियानातील राहत्या घरी  गूढ मृत्यू",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-04T17:36:16",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/punjabi-singer-baljit-singh-35-was-found-dead-under-mysterious-circumstances-at-his-home-in-ludhiana/articleshow/133761723.cms",
-            "image": "",
+            "published": "2026-09-04T21:22:08",
+            "url": "https://www.lokmat.com/uttarakhand/emphasize-research-innovation-and-effective-implementation-in-policy-formulation-chief-minister-pushkar-singh-dhami-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/uttarakhand-government_2026091777459.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "6f9531e5816e",
-            "feed": "lokmat",
-            "title": "पाकिस्तानात बॅन असलेला युट्युबर 'बिग बॉस २०'मध्ये घेणार एन्ट्री? जाणून घ्या नक्की आहे तरी कोण?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-04T17:35:09",
-            "url": "https://www.lokmat.com/filmy/television/nitish-rajput-bigg-boss-20-contestant-rumors-youtuber-profile-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nitish-rajput-bigg-boss-20-contestant-rumors-youtuber-profile_2026091777138.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "dbb052179735",
+            "id": "6deb460c0019",
             "feed": "esakal",
-            "title": "ती कृष्णमूर्ती सध्या कुठे आहे?  जिला मीराबाईंनी आपलं पती मानलं होतं...",
+            "title": "अश्लीलतेचा उन्माद डीजे!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-04T17:32:54",
-            "url": "https://www.esakal.com/ampstories/web-story/janmashtami-special-where-is-that-krishnamurti-meerabai-regarded-as-her-husband-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-04/q5fw1e0h/Meerabai-Krishna-Idol.jpg",
+            "published": "2026-09-04T21:10:47",
+            "url": "https://www.esakal.com/blog/actor-prasad-oak-article-ban-dj-ganeshotsav-vulgar-songs-noise-pollution-vidyanand-bapat-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-04/o3ya1fwo/Latest-Marathi-Breaking-News-2026-09-04T212454.125.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "2df7f835cc0f",
+            "id": "7890507d94f4",
             "feed": "lokmat",
-            "title": "रोज सकाळी प्या 'Beauty Shot'! तुमच्याकडे पाहून वयाचा अंदाजच येणार नाही एवढ्या दिसाल तरुण",
+            "title": "श्रीमंत लोकांच्या १० सवयी, तुम्हालाही श्रीमंत व्हायचं असेल तर आजपासून 'या' गोष्टी बदला...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-04T17:29:23",
-            "url": "https://www.lokmat.com/sakhi/beauty/anti-aging-beauty-shot-how-to-get-young-glowing-skin-special-morning-drink-for-beautiful-skin-and-hair-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-04-at-14.29.45_2026091777092.jpeg",
+            "published": "2026-09-04T21:05:01",
+            "url": "https://www.lokmat.com/sakhi/photos/social-viral/smart-money-management-habits-habits-that-make-you-rich-money-saving-habits-how-to-become-rich-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/habits-that-make-you-rich_2026091777303.jpeg",
             "isBreaking": false,
             "category_reason": "default"
-        }
-    ],
-    "world": [
+        },
         {
-            "id": "6b95e307ebb0",
+            "id": "40c5e37d79ac",
             "feed": "lokmat",
-            "title": "Nepal Floods: ९ दिवस बोगद्यात अडकले, अन्न-पाण्याविना जगले; सुखरूप बाहेर आल्यानंतर कामगारानं जे सांगितलं...",
+            "title": "\"मुलींनो, पुढचे ३ महिने शाळेत स्कर्ट घालू नका!\" पश्चिम बंगालचे आरोग्यमंत्री असं का म्हणाले? जाणून घ्या कारण",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-09-04T20:50:50",
+            "url": "https://www.lokmat.com/national/west-bengal-health-minister-urges-schoolgirls-to-wear-salwar-instead-of-skirts-for-3-months-amid-rising-dengue-risk-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-04-at-8.44.30-pm_2026091777455.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e003ecc084c2",
+            "feed": "maharashtratimes",
+            "title": "Manoj Bajpayee on Tukaram Mundhe:तुकाराम मुंढेंच कौतुकच, पण प्रामाणिकपणे काम केलं तरी  सेलिब्रिटी बनतात; कर्तव्य बजावणं हा चर्चेचा  विषय का? मनोज बाजपेयीचं वक्तव्य चर्चेत",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-04T20:47:22",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/manoj-bajpayee-praises-fda-commissioner-tukaram-mundhe-questions-why-honest-work-is-now-big-deal/articleshow/133768050.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "world": [
+        {
+            "id": "f4869f4d217c",
+            "feed": "maharashtratimes",
+            "title": "तेल जहाजातून धाडसी चोरीचा प्रयत्न जीवावर बेतला; 37 जणांचा गुदमरून शेवट, अनेक जण बेपत्ता",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-09-04T17:20:02",
-            "url": "https://www.lokmat.com/international/nepal-floods-trapped-in-tunnel-for-9-days-lived-without-food-and-water-what-the-worker-said-after-coming-out-safely-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-04-at-5.16.34-pm-1_2026091777289.jpeg",
+            "published": "2026-09-04T21:04:59",
+            "url": "https://maharashtratimes.com/international/international-news/37-die-after-inhaling-fumes-while-trying-to-steal-crude-oil-in-nigeria/articleshow/133768545.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "caea53c61953",
+            "feed": "esakal",
+            "title": "US Diesel Price: अमेरिकेला महागाईच्या झळा! 'डिझेल'च्या दरांमध्ये ऐतिहासिक वाढ; दैनंदिन गरजेच्या वस्तू महागल्या",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-04T20:17:13",
+            "url": "https://www.esakal.com/global/us-diesel-price-all-time-high-record-inflation-brent-crude-daily-goods-expensive-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-04/j1qxo3xg/Latest-Marathi-Breaking-News-2026-09-04T201640.699.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "979f3000aacc",
+            "feed": "esakal",
+            "title": "Premium|Study Room : सौदी, तुर्किये अन् पाकिस्तान एकत्र; मक्का संरक्षण कराराने मध्यपूर्वेचे समीकरण बदलणार?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-04T19:34:09",
+            "url": "https://www.esakal.com/study-room/mecca-joint-defence-agreement-saudi-arabia-turkiye-pakistan-middle-east-security-alliance-geopolitics-baghdad-pact-cento-gcc-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-04/0ximifxc/download-2.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "434a75faf870",
+            "feed": "maharashtratimes",
+            "title": "Nepal Flash Flood: व्हॉट्सॲप ग्रुप नसता तर बोगद्यातील लोकांना वाचवता आले नसते! नेपाळच्या बचाव पथकाला कशी मदत पुरवली? येथे वाचा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-04T18:56:50",
+            "url": "https://maharashtratimes.com/international/international-news/nepal-flash-flood-whatsapp-group-helps-to-rescue-survivour-under-tunnel/articleshow/133763767.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -196,57 +244,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "9c5d9f868038",
+            "id": "8cb4e1cf5d91",
             "feed": "esakal",
-            "title": "Nepal flood: नेपाळ महापूर! नऊ दिवस फक्त 'हरे कृष्ण'चा जप अन् ऐन जन्माष्टमीच्या दिवशी बोगद्यातून जिवंत बाहेर काढलं",
+            "title": "'Smriti Mandhana ला भारतीय संघाची कॅप्टन करा, हरमन आता...' दिग्गज कर्णधाराची BCCI कडे थेट मागणी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-09-04T16:09:41",
-            "url": "https://www.esakal.com/global/nepal-trishuli-hydropower-tunnel-rescue-sanjay-sah-kabir-maharjan-janmashtami-miracle-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-04/ss9zgpu7/Latest-Marathi-Breaking-News-2026-09-04T160637.595.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "70c46b9853d1",
-            "feed": "maharashtratimes",
-            "title": "माझ्या मैत्रिणीचं अभिनंदन! मेलोनी यांच्याकडून 80 वर्षांचा विक्रम मोडीत; मोदींकडून खास शुभेच्छा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-04T16:03:33",
-            "url": "https://maharashtratimes.com/international/international-news/pm-modi-congratulates-giorgio-meloni-on-becoming-italys-longest-serving-postwar-pm/articleshow/133759434.cms",
-            "image": "",
+            "published": "2026-09-04T20:29:03",
+            "url": "https://www.esakal.com/krida/cricket/make-smriti-mandhana-india-captain-in-all-three-formats-diana-edulji-urges-bcci-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-04/yjckdb1d/Smriti-Mandhana-1.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "8fcd9fafad9d",
+            "id": "726796cc6ec7",
             "feed": "esakal",
-            "title": "इटलीच्या पंतप्रधान जॉर्जिया मेलोनी यांच्या नावावर मोठा विक्रम; पंतप्रधान मोदींनीही दिल्या शुभेच्छा, नेमकं काय म्हणाले?",
+            "title": "Vaibhav Sooryavanshi साठी BCCI चा मास्टरप्लान! सचिवांचा खुलासा, 'तो केवळ एका सीझनचा स्टार राहू नये...'",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-09-04T15:55:38",
-            "url": "https://www.esakal.com/global/taly-prime-minister-giorgia-meloni-1413-days-government-record-pm-narendra-modi-congratulations-president-election-2029-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-04/e828ctbk/Giorgia-Meloni-Sets-Record",
+            "published": "2026-09-04T19:49:04",
+            "url": "https://www.esakal.com/krida/cricket/bcci-devises-long-term-masterplan-for-15-year-old-prodigy-vaibhav-sooryavanshi-devajit-saikia-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-04/hyi155ol/Vaibhav-Sooryavanshi-7.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "sports": [
+            "category_reason": "feed"
+        },
         {
             "id": "acf4f5b8d392",
             "feed": "esakal",
@@ -262,88 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-04/cvai719b/India-T20I-Team-1.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "388b91d609b2",
-            "feed": "lokmat",
-            "title": "बॉलिवूडमध्ये नाही तर 'या' क्षेत्रात नाव कमवणार तैमूर! करीना कपूरने सांगितला मुलाचा 'फ्युचर प्लॅन'",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-04T17:31:34",
-            "url": "https://www.lokmat.com/filmy/bollywood/kareena-kapoor-khan-taimur-ali-khan-future-career-plan-cricket-football-mansoor-ali-khan-pataudi-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kareena-kapoor-khan-taimur-ali-khan-future-career-plan_2026091777067.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5ea126498382",
-            "feed": "lokmat",
-            "title": "IND W vs PAK W Asia Cup 2026 : टीम इंडियासमोर पाकिस्तानचा निभाव लागणं मुश्किल; आकडेवारी तरी हेच सांगते!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-04T17:30:26",
-            "url": "https://www.lokmat.com/cricket/news/india-vs-pakistan-asia-cup-2026-match-date-time-live-streaming-details-head-to-head-record-wins-and-titles-stats-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-pakistan-asia-cup-2026-match-e-live-streaming-details-head-to-head-record-m-_2026091777301.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "7c9dc84514bc",
+            "id": "5c0b4db735d2",
             "feed": "lokmat",
-            "title": "Agriculture Department Strike : कृषी अधिकाऱ्यांचे 'लेखणी बंद'; शेतकऱ्यांची कामे सुरू राहणार का?",
+            "title": "जुन्या सातबाऱ्यावर असलेली नोंद डिजिटल सातबाऱ्यावर येत नाही, अशावेळी कोणाकडे अर्ज करावा?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-04T17:49:24",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-agriculture-department-strike-agricultural-officers-desks-closed-will-farmers-work-continue-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/krushi-adhikari-1_2026091777299.jpg",
+            "published": "2026-09-04T20:30:07",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-satbara-nondi-entries-present-on-the-old-satbara-extract-do-not-appear-on-the-new-digital-satbara-extract-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/satbara-2_2026091777446.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "b987e18d7adb",
+            "id": "7094f68c32e9",
+            "feed": "maharashtratimes",
+            "title": "मुंबईकरांना नवीन घर, नको रे बाबा! ३ कारणांमुळे रिडेव्हलपमेंटच्या घरांना जास्त पसंती",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-09-04T19:50:31",
+            "url": "https://maharashtratimes.com/business/real-estate-news/why-redevelopment-properties-in-mumbai-are-more-in-demand-than-under-construction-know-3-reasons/articleshow/133762349.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0666c8eed08c",
             "feed": "lokmat",
-            "title": "असरानी यांचा शेवटचा सीन! अक्षय कुमार व्हिडीओ शेअर करत झाला भावुक, लिहितो- \"मी भाग्यवान...\"",
+            "title": "शेतीसाठी पाणी मिळणार, इच्छुक शेतकऱ्यांनी 'या' तालुक्यातील सिंचन कार्यालयात अर्ज करा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-04T17:43:39",
-            "url": "https://www.lokmat.com/filmy/bollywood/the-last-shot-of-asrani-akshay-kumar-gets-emotional-while-sharing-the-video-of-haiwaan-movie-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/the-last-shot-of-asrani-akshay-kumar-gets-emotional-while-sharing-the-video-of-haiwaan-movie_2026091777309.jpg",
+            "published": "2026-09-04T19:31:19",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/water-will-be-available-for-agriculture-interested-farmers-should-apply-at-the-irrigation-office-in-this-taluka-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ani-havay_2026091777431.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5c3ec536af35",
-            "feed": "lokmat",
-            "title": "डॉलरचे वर्चस्व कमी करण्याची तयारी; दिल्लीत आयोजित ब्रिक्समध्ये होऊ शकते UPI वर चर्चा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-09-04T17:36:07",
-            "url": "https://www.lokmat.com/business/news/preparations-to-reduce-dollar-dominance-upi-may-be-discussed-at-brics-to-be-held-in-delhi-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/brics-india_2026091777306.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
