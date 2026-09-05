@@ -1,88 +1,152 @@
 {
-    "lastUpdated": "05-09-2026 | 10:31 PM IST",
+    "lastUpdated": "06-09-2026 | 01:12 AM IST",
     "maharashtra": [
         {
-            "id": "91bd9f7c996a",
-            "feed": "esakal",
-            "title": "State Tax Inspector : राज्य करनिरीक्षकपदी नीलम गाढवे यांची निवड",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-05T22:28:40",
-            "url": "https://www.esakal.com/pune/neelam-gadhave-selected-for-the-post-of-state-tax-inspector-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-05/ghgr2oj1/Neelam-Gadhave",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "95c6908d5db2",
-            "feed": "esakal",
-            "title": "Accident : थेऊर फाटा येथे ट्रक अपघातात जखमी तरुणाचा मृत्यू; रक्षाबंधन उरकू‌न घरी जाताना झाला होता अपघात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-05T22:07:27",
-            "url": "https://www.esakal.com/pune/young-man-injured-in-truck-accident-at-theur-phata-dies-accident-occurred-while-returning-home-after-raksha-bandhan-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-14/bqp187id/accident-2.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4b600bb024ba",
+            "id": "a9db359ddc1c",
             "feed": "lokmat",
-            "title": "कान्होबा विसर्जन करताना तलावात बुडून सैनिकाचा मृत्यू, तिरोडा तालुक्यातील बेरडीपार येथील घटना",
+            "title": "ठाण्यात दहा थरांचा प्रयत्न असफल; नऊ थरांनी रंगला दहीहंडीचा थरार; सकाळपासून प्रतीक्षेत असलेल्या दहा थरांच्या विक्रमाने हुलकावणी दिली",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-06T00:15:08",
+            "url": "https://www.lokmat.com/thane/ten-layer-attempt-fails-in-thane-dahi-handi-thrills-with-nine-layers-ten-layer-record-awaited-since-morning-fails-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dahi-handi-thane_2026091778041.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fd29f361c865",
+            "feed": "lokmat",
+            "title": "पुणेकरांनी अनुभवला पुनीत बालन ग्रुपच्या संयुक्त डीजेमुक्त दहीहंडीचा थरार; ऐतिहासिक लाल महाल चौकात तरुणाईचा जनसागर उसळला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-05T23:50:07",
+            "url": "https://www.lokmat.com/pune/pune-residents-experienced-the-thrill-of-punit-balan-groups-joint-dj-free-dahi-handi-a-sea-of-youth-surged-in-the-historic-lal-mahal-chowk-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pune-dahi-handi-punit-balan_2026091778039.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5bb71c57b323",
+            "feed": "esakal",
+            "title": "Pune News : पुणे शहरात बंदी असूनही लेझर लाईटचा धुमाकूळ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-05T23:44:52",
+            "url": "https://www.esakal.com/pune/laser-lights-run-rampant-in-pune-city-despite-ban-dahihandi-festival-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-05/o8dk1dz7/pune-dahi-handi-laser-light",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "435d71bdb0ec",
+            "feed": "lokmat",
+            "title": "दहीहंडी उत्सवाला गालबोट; ऐरोलीत मानवी मनोरा कोसळून ३४ वर्षीय गोविंदाचा दुर्दैवी मृत्यू, घणसोली गावावर शोककळा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-05T21:44:37",
-            "url": "https://www.lokmat.com/gondia/soldier-dies-after-drowning-in-lake-while-performing-kanhoba-immersion-incident-at-berdipar-in-tiroda-taluka-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gondia-news_2026091778009.jpg",
+            "published": "2026-09-05T23:40:02",
+            "url": "https://www.lokmat.com/navi-mumbai/dahi-handi-festival-gets-a-bad-rap-34-year-old-govinda-dies-after-human-tower-collapses-in-airoli-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/navi-mumbai-dahi-handi_2026091778037.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e86942bc7a39",
+            "id": "a843265ab179",
             "feed": "esakal",
-            "title": "Pune Dahihandi : दहीहंडीत डीजेचा आवाज ९० डेसिबलपर्यंत; नियमांची मर्यादा ओलांडली",
+            "title": "Nagpur illegal steroid sale: नागपुरात परवाना नसताना टेस्टोस्टेरॉन औषधांची विक्री; १६.६५ लाखांचा साठा जप्त, दोघांविरुद्ध गुन्हा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-05T21:43:38",
-            "url": "https://www.esakal.com/pune/dahihandi-festival-dj-volume-reaches-90-decibels-exceeding-the-permissible-noise-limit-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-05/hw6lpbl2/Pune-Dahihandi-DJ-Sound-Dystem",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7661999699e1",
-            "feed": "lokmat",
-            "title": "बायोगॅस सिलिंडर गळती: टिपू सुलतान चौक परिसरात दहशत, अग्निशमन दलाच्या तत्परतेमुळे टळला मोठा अनर्थ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-05T21:41:14",
-            "url": "https://www.lokmat.com/nagpur/biogas-cylinder-leak-panic-in-tipu-sultan-chowk-area-major-disaster-averted-due-to-fire-brigades-prompt-action-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-gas_2026091778006.jpg",
+            "published": "2026-09-05T23:30:58",
+            "url": "https://www.esakal.com/vidarbha/nagpur/nagpur-testosterone-medicine-sale-without-license-all-medicines-dot-com-drug-inspector-action-16-65-lakh-drug-stock-seized-steroid-medicine-repacking-online-orders-testosterone-api-orforglipron-pratap-nagar-police-fda-action-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-22/7tnam292/sudhir-jadhav-satara-14.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "ec4fbf6af969",
+            "feed": "lokmat",
+            "title": "लिव्ह-इन पार्टनरला सर्वांसमोर बेदम मारहाण करून संपवलं! गुजरात पोलिसांनी त्याच जागी आणून आरोपीला दाखवला खाकीचा हिसका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-09-06T00:30:32",
+            "url": "https://www.lokmat.com/national/live-in-partner-brutally-beaten-to-death-in-front-of-everyone-gujarat-police-brought-him-to-the-same-spot-and-showed-him-the-khaki-shirt-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gujrat-police_2026091778036.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8bb8078083b2",
+            "feed": "maharashtratimes",
+            "title": "Swapnil Kale : 'हीच पाहिजे आपल्याला!', योगा क्लासमुळे ओळख वाढली अन् जुळल्या सात जन्माच्या गाठी, स्वप्नील आणि मृदुलाची फिल्मी लव्ह स्टोरी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-05T23:22:31",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/swapnil-kale-and-mrudula-deshmukh-love-story/articleshow/133810544.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "9b3a0f53a212",
+            "feed": "lokmat",
+            "title": "दुचाकीस्वाराचा बळी घेणाऱ्या विद्याधरकडून आई-वडिलांना मारहाण; तीन दिवसांपूर्वीच झालेली अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-05T23:07:03",
+            "url": "https://www.lokmat.com/goa/horrific-accident-in-sancoale-vasco-a-speeding-mercedes-hits-a-bike-parents-beaten-up-by-vidyadhar-who-killed-a-biker-a-a1016/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/goa-accident-vasco-vipul-prabhu_2026091778028.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "918bf1df4899",
+            "feed": "maharashtratimes",
+            "title": "मिर्झापूर द मूव्ही",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-05T22:35:36",
+            "url": "https://maharashtratimes.com/entertainment/movie-reviews/mirzapur-the-movie/moviereview/133809405.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "5e59d1dda0ef",
             "feed": "esakal",
@@ -98,73 +162,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-05/6k33j2ik/Latest-Marathi-Breaking-News-2026-09-05T222015.370.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "3ae354d63366",
-            "feed": "maharashtratimes",
-            "title": "Shah Rukh Khan : 'मी पठाण आहे, मी तुम्हाला घाबरत नाही', अंडरवर्ल्डकडून मिळालेल्या धमक्या, शाहरुखनं घेतलेली ठाम भूमिका, निर्मात्याचा खुलासा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-05T22:15:53",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/shah-rukh-khan-got-death-threat-from-underworld-reveals-producer-sanjay-gupta/articleshow/133807989.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "a307d764d177",
-            "feed": "lokmat",
-            "title": "\"भारताने सर्व 'संतप्त काकां'ना उत्तर दिलंय\"; Gen-Z शी संवाद साधताना पंतप्रधान मोदींचा विरोधकांना टोला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-09-05T22:10:22",
-            "url": "https://www.lokmat.com/national/india-has-answered-all-angry-uncles-pm-modi-takes-a-dig-at-opponents-while-interacting-with-gen-z-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pm-narendra-modi_2026091778011.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "45d6b8e17974",
-            "feed": "maharashtratimes",
-            "title": "ॲमेझॉनमध्ये 46 लाखांचं पॅकेज, एअरबसमध्ये निवड; सातवेळा फेल होऊनही तरुणानं सैन्याची वाट का धरली?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-05T21:59:45",
-            "url": "https://maharashtratimes.com/india-news/amazon-engineer-leaves-rs-46-lakh-job-to-join-indian-army-commissioned-as-officer/articleshow/133807963.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "2bd2f2e5e50c",
-            "feed": "esakal",
-            "title": "दिवसभरातील महत्त्वाच्या घडामोडी वाचा एका क्लिकवर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-05T21:56:18",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-9-september-2026-cm-devendra-fadnavis-ganeshotsav-and-dj-ban-maratha-reservation-manoj-jarange-patil-weather-dj-and-laser-ban-in-mumbai-traffic-bombay-high-court-arrest-of-santosh-pandit-nepal-srk94-snk89-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "fdcbca17cf59",
+            "feed": "maharashtratimes",
+            "title": "नेपाळमध्ये चमत्कार! कुटुंबानं अंत्यसंस्कार केले; 10 दिवसांनंतर महिला ढिगाऱ्यातून जिवंत बाहेर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-05T22:55:32",
+            "url": "https://maharashtratimes.com/international/international-news/nepali-woman-found-alive-10-days-after-fatal-flood/articleshow/133809813.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "e33ea42925da",
             "feed": "esakal",
@@ -228,72 +244,56 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/america-ukraine-russia-1h1_2026091777939.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "ba0c39515de2",
-            "feed": "maharashtratimes",
-            "title": "UN Adopts New World Map : नव्या नकाशामुळे Africa मोठा, Greenland छोटा, भारतावर काय परिणाम ?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-05T17:42:33",
-            "url": "https://maharashtratimes.com/video/mt-originals/un-adopts-new-world-map/videoshow/133800740.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "fd22cc89655f",
+            "id": "273e70a814c7",
             "feed": "maharashtratimes",
-            "title": "IND W vs PAK W : शाब्बास पोरींनो! आशिया कपमध्ये भारताच्या वाघिणींनी फोडली विजयाची हंडी; पाकिस्तानवर 7 विकेटने विजय",
+            "title": "Nilesh Kamalkar : ज्या शाळेने घडवलं, त्याच शाळेत शिक्षक बनून घडवले क्रीडापटू; कोण आहेत निलेश कमलकर?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-09-05T22:28:01",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/asia-cup-2026-ind-w-vs-pak-w-match-result-team-india-won-seven-wickets/articleshow/133808634.cms",
+            "published": "2026-09-05T23:16:17",
+            "url": "https://maharashtratimes.com/sports/teachers-day-special-story-on-sports-teacher-nikesh-kamalkar-bhingar-high-school-in-ahilyanagar/articleshow/133810201.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b1152df8a29e",
+            "id": "7acd029679a1",
             "feed": "esakal",
-            "title": "IND vs PAK Asia Cup:  भारताची विजयी हॅटट्रिक! ९ षटकांत जिंकली मॅच, पाकिस्तानची इतकी वाईट अवस्था कधी झालीच नव्हती",
+            "title": "Asia Cup 2026: पाकिस्तानला लोळवलं, पुढे कोण? भारतीय संघाचा उपांत्य फेरीचा सामना कधी व कुणाविरुद्ध? जाणून घ्या डिटेल्स",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-05T22:17:26",
-            "url": "https://www.esakal.com/krida/cricket/indw-vs-pakw-asia-cup-2026-india-complete-winning-hat-trick-crush-pakistan-sri-charani-prema-rawat-deepti-sharma-destroy-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-05/1uxqc5d7/India-beat-Pakistan-in-Asia-Cup-2026",
+            "published": "2026-09-05T23:14:17",
+            "url": "https://www.esakal.com/krida/cricket/asia-cup-2026-india-crush-pakistan-whats-next-when-and-against-whom-will-they-play-the-semifinal-know-details-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-05/tqifwqfx/India-Women-semifinal-schedule-Asia-Cup-2026",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4dad53d80f97",
-            "feed": "lokmat",
-            "title": "IND vs PAK : २८ धावांत ९ विकेट्स! टीम इंडियाच्या फिरकीसमोर पाकिस्तानची फजिती अन्...",
+            "id": "fe286907289e",
+            "feed": "esakal",
+            "title": "खेळाडूंना मुलीच का होतात? रिसर्च काय सांगतो?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-09-05T21:49:13",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-pak-womens-asia-cup-2026-shree-charani-prema-rawat-help-india-bundle-out-pakistan-for-just-55-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-w-vs-pak-w-m-ss1_2026091778007.jpg",
+            "published": "2026-09-05T22:59:17",
+            "url": "https://www.esakal.com/ampstories/web-story/why-elite-athletes-have-more-daughters-research-on-sports-training-stress-sex-ratio-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-05/uh1o6jrn/4.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         }
     ],
     "business": [
