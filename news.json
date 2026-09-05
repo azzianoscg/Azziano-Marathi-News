@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "06-09-2026 | 03:17 AM IST",
+    "lastUpdated": "06-09-2026 | 04:57 AM IST",
     "maharashtra": [
+        {
+            "id": "23e1c8cf05f8",
+            "feed": "esakal",
+            "title": "‘नमो दहिहंडी २०२६’चा जल्लोष",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-06T00:52:19",
+            "url": "https://www.esakal.com/marathwada/aurangabad/namo-dahihandi-2026",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-05/2sfsza55/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "a9db359ddc1c",
             "feed": "lokmat",
@@ -64,25 +80,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/navi-mumbai-dahi-handi_2026091778037.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "a843265ab179",
+            "id": "70355e96b05c",
             "feed": "esakal",
-            "title": "Nagpur illegal steroid sale: नागपुरात परवाना नसताना टेस्टोस्टेरॉन औषधांची विक्री; १६.६५ लाखांचा साठा जप्त, दोघांविरुद्ध गुन्हा",
+            "title": "Nainital Adventure Sports: नैनीझीलच्या लाटांवर रंगणार जलक्रीडेचा थरार; स्विमिंग-कयाकिंगसोबत विंड सर्फिंग अन् डायव्हिंग",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-09-05T23:30:58",
-            "url": "https://www.esakal.com/vidarbha/nagpur/nagpur-testosterone-medicine-sale-without-license-all-medicines-dot-com-drug-inspector-action-16-65-lakh-drug-stock-seized-steroid-medicine-repacking-online-orders-testosterone-api-orforglipron-pratap-nagar-police-fda-action-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-22/7tnam292/sudhir-jadhav-satara-14.jpg",
+            "published": "2026-09-06T04:08:00",
+            "url": "https://www.esakal.com/desh/nainital-water-sports-aquatic-meet-kayaking-swimming-wind-surfing-diving-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-05/pr4zm2zc/nainital-aquasports-competition.jpg.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
+            "category_reason": "url"
+        },
         {
             "id": "ec4fbf6af969",
             "feed": "lokmat",
@@ -144,22 +160,6 @@
             "published": "2026-09-05T22:35:36",
             "url": "https://maharashtratimes.com/entertainment/movie-reviews/mirzapur-the-movie/moviereview/133809405.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "5e59d1dda0ef",
-            "feed": "esakal",
-            "title": "Narendra Modi: मोदींचा राहुल गांधींवर हल्ला! म्हणाले,  त्यांचा एकच पेटंट डायलॉग असतो.. 'याची काय गरज होती?'",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-05T22:25:40",
-            "url": "https://www.esakal.com/desh/pm-narendra-modi-attacks-rahul-gandhi-srcc-speech-make-in-india-opposition-criticism-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-05/6k33j2ik/Latest-Marathi-Breaking-News-2026-09-05T222015.370.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
