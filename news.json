@@ -1,170 +1,234 @@
 {
-    "lastUpdated": "06-09-2026 | 08:07 PM IST",
+    "lastUpdated": "06-09-2026 | 10:55 PM IST",
     "maharashtra": [
         {
-            "id": "2b60620151d8",
+            "id": "bef1e470db74",
+            "feed": "maharashtratimes",
+            "title": "Satara News : आईशी अनैतिक संबंध असल्याचा संशय, आरोपीचा पुणे-बंगळुरू महामार्गाच्या सर्व्हिस रोडवर घातपात",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-06T22:42:51",
+            "url": "https://maharashtratimes.com/maharashtra/satara/accused-end-life-of-youth-over-alleged-immoral-relations-with-mother-in-karad/articleshow/133845024.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "08311975fe89",
             "feed": "esakal",
-            "title": "Ram Mandir Trust: राम मंदिर ट्रस्टचे महासचिव स्वामी गोविंद देवगिरीजींचा महाराष्ट्र दौरा संत ज्ञानेश्वर माऊलींच्या चरणी नतमस्तक होऊन सुरू",
+            "title": "Shirur Ganeshotsav : शिरूर पोलिसांचा इशारा : डीजे, लेझर लाईटला बंदी; पर्यावरणपूरक, सामाजिक बांधिलकीचा गणेशोत्सव साजरा करण्याचे आवाहन",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-06T20:05:27",
-            "url": "https://www.esakal.com/pune/ram-mandir-trust-general-secretary-swami-govind-dev-giriji-maharaj-alandi-sant-dnyaneshwar-mauli-darshan-ayodhya-shri-ram-janmabhoomi-teerth-kshetra-trust-appointment-maharashtra-tour-alandi-vilas-kate-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-06/gytj0w6p/Esakal-8.png",
+            "published": "2026-09-06T22:34:52",
+            "url": "https://www.esakal.com/pune/shirur-ganeshotsav-2026-police-meeting-vinod-patil-ganesh-mandal-guidelines-dj-laser-light-noise-pollution-rules-legal-action-environment-friendly-ganeshotsav-social-harmony-cctv-permission-immersion-procession-shirur-police-maharashtra-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-06/98yhfbgp/Esakal-12.png",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "cec0a5a926fc",
+            "id": "753296667607",
             "feed": "lokmat",
-            "title": "उल्हासनगर महापालिकेत स्वीकृत नगरसेवक पदासाठी सोमवारी इच्छुक अर्ज भरणार; भाजपचे ४ तर शिंदेसेनेचे ३ नगरसेवक होणार नियुक्त",
+            "title": "Bigg Boss 20: पुण्याचा मराठमोळा रॅपर Yung DSA, गेमर 'स्काऊट' आणि अभिनेत्री अरिश्फा खानची दमदार एन्ट्री",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-09-06T19:58:49",
-            "url": "https://www.lokmat.com/thane/interested-candidates-will-apply-for-the-post-of-approved-corporator-in-ulhasnagar-municipal-corporation-on-monday-4-corporators-from-bjp-and-3-from-shinde-sena-will-be-appointed-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ulhasnagar-mahapalika_2026091778385.jpg",
+            "published": "2026-09-06T22:30:57",
+            "url": "https://www.lokmat.com/filmy/bigg-boss-20-pune-marathi-rapper-yung-dsa-gamer-scout-tanmay-singh-actress-arishfa-khan-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bigg-boss-20-13_2026091778445.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
-            "id": "fd1ba4c05546",
+            "id": "ea8eb8cb276a",
             "feed": "maharashtratimes",
-            "title": "Satara News: साताऱ्यातील १९ वर्षीय तरुणीच्या मृत्यू प्रकरणाला गंभीर वळण; हॉस्टेलमध्ये नेमकं काय घडलेलं? वडिलांनी सांगितलं",
+            "title": "Crime News : दरोडेखोरांनी स्वप्नातही विचार केला नसेल तशा मुसक्या आवळल्या, समृद्धी महामार्गावर दरोडा टाकणाऱ्यांना सिनेस्टाईल बेड्या",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-06T19:56:59",
-            "url": "https://maharashtratimes.com/maharashtra/satara/case-filed-against-individuals-responsible-for-19-year-old-girls-death-case-in-satara-hostel/articleshow/133840473.cms",
+            "published": "2026-09-06T22:02:05",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/chhatrapati-sambhajinagar-police-arrest-five-robbers-involved-in-samruddhi-mahamarg-robberies/articleshow/133843661.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ebfc2093cf0a",
-            "feed": "maharashtratimes",
-            "title": "Mumbai News: मुंबईतील प्रवासी टॅक्सीत बसला, चालकाच्या संशयास्पद हालचाली; पोलिसांनी ताब्यात घेऊन चौकशी करताच धक्कादायक प्रकार उघड",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-06T19:30:13",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/taxi-drivers-in-dahisar-tampered-with-meters-to-cheat-passengers-five-arrested-by-police/articleshow/133839714.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bf4427743e80",
+            "id": "012d99435311",
             "feed": "esakal",
-            "title": "Alandi Spiritual Visit: आळंदीत चैतन्यमय वातावरण; संत ज्ञानेश्वर माऊलींच्या समाधीचे दर्शन घेत बिट्टा यांचे गौरवोद्गार",
+            "title": "Crime News: किनवटमध्ये लग्नाचे आमिष दाखवून २४ वर्षीय तरुणीला घेऊन गेल्याची तक्रार; युवकाविरुद्ध इस्लापूर पोलिसांत गुन्हा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-09-06T19:25:58",
-            "url": "https://www.esakal.com/pune/alandi-sant-dnyaneshwar-mauli-sanjeevan-samadhi-maninderjit-singh-bitta-visit-alandi-temple-ajan-vruksha-swarn-pipal-seven-pradakshina-anti-terrorism-front-president-punjab-dehugaon-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-06/85qfttjs/Esakal-7.png",
+            "published": "2026-09-06T21:44:26",
+            "url": "https://www.esakal.com/marathwada/kinwat-talhari-24-year-old-girl-taken-away-on-marriage-promise-istekhar-abdul-isalpur-police-case-maralapeli-adilabad-bharatiya-nyaya-sanhita-section-127-2-87-sc-st-act-3-2-va-nanded-crime-news-maharashtra-police-complaint-woman-missing-marriage-promise-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2024-04/8a31ab07-c4bb-45b7-933c-aa73ee82f02c/Capture.JPG",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "d81cdedc76ab",
-            "feed": "esakal",
-            "title": "दिल्ली इमारत दुर्घटनेत दोघांचा मृत्यू, पाच जणांची प्रकृती गंभीर; नेमकी कशी घडली घटना? कारण आलं समोर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-06T20:06:46",
-            "url": "https://www.esakal.com/desh/delhi-satya-niketan-hostel-building-collapse-two-dead-five-serious-injured-50-60-students-trapped-under-debris-rescue-operation-cause-details-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-06/1hu12fgv/Delhi-Satya-Niketan-Hostel-Building-Collapse",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e58444ed6143",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : अंतरवाली सराटीत OBC उपोषणासाठी स्टेजला पोलिसांचा नकार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-06T19:58:30",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-6-september-2026-imd-updates-maharashtra-weather-manoj-jarange-patil-politics-dj-controversy-vidyanand-bapat-brics-narendra-modi-devendra-fadnavis-eknath-shinde-sunetra-pawar-ssy93-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e4bc7a3deb48",
-            "feed": "maharashtratimes",
-            "title": "Ameesha Patel : हार्दिक पंड्यासोबत डेटिंगच्या चर्चा, अमीषा पटेलनं सोडलं मौन; काय म्हणाली अभिनेत्री?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-06T19:35:29",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/ameesha-patel-break-silence-on-affair-rumors-with-hardik-pandya/articleshow/133839680.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "6dee283535e5",
+            "id": "01ffa5cf5434",
             "feed": "lokmat",
-            "title": "पुरणपोळ्या शिळ्या झाल्या तरी काठही राहतील मऊ आणि पुरण लुसलुशीत, ८ गोष्टी करा-आठवडाभर पुरणपोळी खा मनसोक्त...",
+            "title": "केसांना धुरी देणं हा प्रकार काय आहे; केस धुपनामुळे केस वाढतात का? धुरी कशी द्यायची, पाहा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-06T19:35:09",
-            "url": "https://www.lokmat.com/sakhi/photos/food/tips-for-soft-and-fluffy-puran-poli-how-to-keep-puran-poli-fresh-and-soft-how-to-prevent-puran-poli-from-becoming-hard-soft-puran-poli-recipe-tips-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tips-for-soft-and-fluffy-puran-poli_2026091778013.jpeg",
+            "published": "2026-09-06T22:43:38",
+            "url": "https://www.lokmat.com/sakhi/beauty/how-to-do-kesh-dhoopan-at-home-benefits-of-kesh-dhoopan-for-hair-growth-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-06-at-3.09.23-pm-2_2026091778432.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "f568f4abb1f6",
+            "id": "fa594d598dbf",
             "feed": "lokmat",
-            "title": "Ganeshotsav 2026 : उकडीचे मोदक तासंतास राहतील कापसासारखे मऊ! पिठी कधी अन् कशी बनवावी? मोदक न फुटण्याची सिक्रेट पद्धत",
+            "title": "रिंकी या के पापा! मनोज तिवारींच्या लेकीची बिग बॉसमध्ये एन्ट्री, सलमानने रितीला दिला 'हा' सल्ला",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-06T19:34:22",
-            "url": "https://www.lokmat.com/sakhi/photos/food/ganeshotsav-2026-ukadiche-modak-pithi-soft-and-fluffy-ukadiche-modak-how-to-make-rice-flour-modak-recipe-how-to-prevent-modak-from-cracking-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/traditional-ukadiche-modak-recipe_2026091778383.jpeg",
+            "published": "2026-09-06T22:39:04",
+            "url": "https://www.lokmat.com/filmy/television/bigg-boss-20-bhojpuri-singer-manoj-tiwari-daughter-rhiti-tiwari-in-house-salman-khan-gave-advice-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rhiti-bb_2026091778450.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "b8153b181832",
+            "feed": "lokmat",
+            "title": "Bigg Boss 20: टीव्हीवरची 'करीना' अन् दोन चार्मिंग कलाकारांची 'बिग बॉस'मध्ये एन्ट्री",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-06T22:31:55",
+            "url": "https://www.lokmat.com/filmy/television/bigg-boss-20-uditi-singh-kushal-tanwar-and-aman-gandhi-entered-in-the-house-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/uditi-aman_2026091778447.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "9962d46f4079",
+            "feed": "lokmat",
+            "title": "पश्चिम बंगालमध्ये १५ वर्षांनंतर पुन्हा सुरू होणार 'अँटी-स्नेक व्हेनम'ची निर्मिती! ₹१५० कोटींचा प्रकल्प; बाहेरील औषधांवरची अवलंबित्व संपणार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-09-06T22:22:55",
+            "url": "https://www.lokmat.com/national/production-of-anti-snake-venom-to-resume-in-west-bengal-after-15-years-rs150-crore-project-dependence-on-external-drugs-will-end-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/snake-vial-west-bengal_2026091778443.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ca4556d57350",
+            "feed": "lokmat",
+            "title": "रिंगनंतर टेलिव्हिजनवर दाखवणार दणका! बॉक्सर मेरी कॉमची 'बिग बॉस २०'मध्ये धमाकेदार एन्ट्री",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-06T22:07:56",
+            "url": "https://www.lokmat.com/filmy/television/bigg-boss-20-boxer-mary-kom-entered-in-the-house-salman-khan-introduced-her-as-contestant-in-this-season-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/marry_2026091778441.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "6e3634fdecda",
+            "feed": "esakal",
+            "title": "जपानमध्ये लोक रात्री अंघोळ का करतात?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-06T22:36:14",
+            "url": "https://www.esakal.com/ampstories/web-story/why-do-people-in-japan-take-a-bath-at-night-japanese-bathing-culture-ofuro-hot-water-bath-before-sleep-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-06/amai48ba/Why-do-people-in-Japan-take-a-bath-at-night-4.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "cc2fd3514ee9",
+            "feed": "lokmat",
+            "title": "Bigg Boss 20: कमी मतं मिळाल्याने 'प्रोटेस्ट गर्ल' रिया अहिरला बाहेरचा रस्ता; लव गिलला मिळाली संधी, कोण आहे ती?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-06T22:04:40",
+            "url": "https://www.lokmat.com/filmy/television/bigg-boss-20-protest-girl-rhea-ahir-is-out-due-to-low-votes-love-gill-gets-a-chance-who-is-she-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bigg-boss-20-protest-girl-rhea-ahir-is-out-due-to-low-votes-love-gill-gets-a-chance-who-is-she_2026091778439.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "67c71e968b27",
+            "feed": "lokmat",
+            "title": "'मिर्झापूर' पाहायला आलेल्या प्रेक्षकांची दारु पिऊन हुल्लडबाजी; प्रसिद्ध रिल स्टारने व्हिडीओ शेअर करत सांगितला धक्कादायक अनुभव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-06T20:49:43",
+            "url": "https://www.lokmat.com/filmy/bollywood/audience-who-came-to-watch-mirzapur-rioted-after-drinking-alcohol-famous-reel-star-shares-shocking-experience-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/audience-who-came-to-watch-mirzapur-rioted-after-drinking-alcohol-famous-reel-star-shares-shocking-experience_2026091778420.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "b2cc309a87ad",
+            "feed": "lokmat",
+            "title": "Bigg Boss 20 ची सर्वात सुंदर स्पर्धक, इन्स्टाग्रामवर २९ मिलियन फॉलोअर्स; कोण आहे ही?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-06T20:44:58",
+            "url": "https://www.lokmat.com/filmy/photos/television/bigg-boss-20-premiere-who-is-arishfa-khan-most-beautiful-contestant-in-this-season-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arishfa-khan_2026091778419.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "ea075aa1102b",
             "feed": "lokmat",
@@ -180,73 +244,41 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rmargareta-hut-22_2026091778386.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "24e0178c38c3",
-            "feed": "maharashtratimes",
-            "title": "Iran US Conflict: अमेरिकेचा अनेक तेलवाहू जहाजांवर हल्ला, इराणकडून दुसऱ्याच दिवशी 'आणखी आक्रमक' प्रत्युत्तर देण्याची धमकी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-06T19:11:47",
-            "url": "https://maharashtratimes.com/international/international-news/iran-warns-us-of-more-painful-response/articleshow/133838820.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "aa3b6a6921c3",
-            "feed": "esakal",
-            "title": "Women Bath Only Once in Lifetime : आयुष्यात एकदाच अंघोळ करतात ‘या’ महिला, काय आहे अनोखी परंपरा?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-06T18:45:59",
-            "url": "https://www.esakal.com/ampstories/web-story/women-who-bathe-only-once-in-their-lifetime-know-the-unique-tradition-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2025-12-23/72wxabh1/Bath-History.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "9729782cc964",
+            "id": "e2145d539fa0",
             "feed": "lokmat",
-            "title": "तीनही मुलं शिक्षणासाठी अमेरिकेत रवाना! निरोप देताना फराह खान झाली भावुक; लिहिते- \"लक्षात ठेवा...\"",
+            "title": "ज्याला त्याला वैभव सूर्यवंशीला पहायचे होते...; जादाची स्टँड उघडावी लागली, तो बाद झाला तसे...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-09-06T18:32:59",
-            "url": "https://www.lokmat.com/filmy/bollywood/farah-khan-three-children-leave-for-america-for-education-farah-khan-gets-emotional-while-saying-goodbye-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/farah-khan-three-children-leave-for-america-for-education-farah-khan-gets-emotional-while-saying-goodbye_2026091778364.jpg",
+            "published": "2026-09-06T21:43:56",
+            "url": "https://www.lokmat.com/cricket/news/vaibhav-suryavanshi-duleep-trophy-2026-final-whoever-wanted-to-see-vaibhav-suryavanshi-had-to-open-the-extra-stand-as-he-was-dismissed-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vaibhav-suryavanshi-craze-3_2026091778429.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "9bc0694033f4",
+            "id": "fd402656ca24",
             "feed": "maharashtratimes",
-            "title": "US-Iran War Escalates: Kharg Island Attack, तेल जहाज आणि होर्मुझची सामुद्रधुनी धोक्यात, जगावर संकट",
+            "title": "ODI World Cup 2027 : टीम इंडियासाठी वनडे वर्ल्डकप खेळायला आवडेल का? स्विंगचा बादशहा अखेर मनातलं बोलला, काय म्हणाला?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-09-06T18:15:03",
-            "url": "https://maharashtratimes.com/video/mt-originals/us-iran-war-kharg-island-oil-tankers-strait-of-hormuz/videoshow/133837779.cms",
+            "published": "2026-09-06T21:35:11",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/odi-world-cup-2027-bhuvneshwar-kumar-big-statement-about-comback-in-select/articleshow/133843222.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "sports": [
+            "category_reason": "feed"
+        },
         {
             "id": "f644b6e2dd23",
             "feed": "maharashtratimes",
@@ -262,41 +294,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "business": [
         {
-            "id": "cff3ff442cda",
+            "id": "90cdb7fe8622",
             "feed": "lokmat",
-            "title": "चीनमध्ये सात्विक-चिरागने रचला इतिहास, चिनी खेळाडूंना नमवत पहिल्यांदाच जिंकली ही स्पर्धा",
+            "title": "कृषी विभागाचा नवा आकृतीबंध वादात; तांत्रिक विभागात अतांत्रिक पदांची वाढ, वाचा सविस्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-06T19:13:56",
-            "url": "https://www.lokmat.com/other-sports/satwik-chirag-create-history-in-china-win-china-masters-tournament-for-the-first-time-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/satwik-chirag-2_2026091778371.jpg",
+            "published": "2026-09-06T21:55:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-new-structure-of-agriculture-department-in-controversy-increase-in-technical-posts-in-technical-department-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/krushi-bandh_2026091778430.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "c6eeedc55d46",
-            "feed": "esakal",
-            "title": "Pakistan Cricket : भारताला २०२१ मध्ये पराभूत केले अन् पनवती लागली! पाकिस्तान क्रिकेटच्या 'अधोगती'मागचा अजब तर्क",
+            "id": "887aedd8b345",
+            "feed": "maharashtratimes",
+            "title": "8th Pay Commission : पेन्शनच्या सर्व मागण्या मंजूर झाल्यास पेन्शनर्सला किती फायदा होणार? गणित समजून घ्या",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
             },
-            "published": "2026-09-06T18:18:09",
-            "url": "https://www.esakal.com/krida/cricket/pakistan-cricket-downfall-began-after-2021-win-over-india-claims-mohammad-yousuf-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-06/fshr2oam/Pakistan-cricket-downfall-after-beating-India-in-2021-T20-World-Cup",
+            "published": "2026-09-06T21:38:02",
+            "url": "https://maharashtratimes.com/business/business-news/8th-pay-commission-calculation-for-67-pension-increment-minimum-pay-45000-and-family-pension-50/articleshow/133843221.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "business": [
+        },
         {
             "id": "b3975a430a21",
             "feed": "maharashtratimes",
@@ -310,38 +342,6 @@
             "published": "2026-09-06T19:55:37",
             "url": "https://maharashtratimes.com/business/business-news/savings-account-vs-fd-which-option-is-more-beneficial-know-the-details/articleshow/133840025.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "06f7f8c6b991",
-            "feed": "lokmat",
-            "title": "जर तुम्हाला एखाद्या पोटहिस्सा नकाशाबद्दल संशय असेल, तर...बनावट पोटहिस्सा नकाशा कसा ओळखावा?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-06T19:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-banavat-pothissa-nakasha-how-to-identify-a-fake-land-subdivision-map-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pot-hissa_2026091778340.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "11910cf725a7",
-            "feed": "lokmat",
-            "title": "Jio ची १०व्या वर्धापन दिनानिमित्त खास ऑफर! 'या' प्लॅनमध्ये १२० GB बोनस डेटासह अनेक फायदे",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-09-06T19:19:57",
-            "url": "https://www.lokmat.com/business/news/jios-10th-anniversary-special-offer-this-plan-has-many-benefits-including-120-gb-bonus-data-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jio-offer-sim_2026091778373.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
