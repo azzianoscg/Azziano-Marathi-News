@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "07-09-2026 | 11:59 PM IST",
+    "lastUpdated": "08-09-2026 | 03:20 AM IST",
     "maharashtra": [
+        {
+            "id": "de0ecdf215ec",
+            "feed": "maharashtratimes",
+            "title": "‘मुंबईकर असल्याचा आनंद आहे!’ आनंद महिंद्रांची गणेशोत्सवाची पोस्ट चर्चेत, व्हिडीओ झाला व्हायरल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-08T00:20:21",
+            "url": "https://maharashtratimes.com/viral/viral-news/anand-mahindra-showers-love-on-mumbai-during-ganeshotsav-his-post-goes-viral/articleshow/133894275.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "cb3c45920c0b",
             "feed": "esakal",
@@ -64,25 +80,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amravati-crime-news-34-1_2026091779190.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "ae00aa70a7b0",
-            "feed": "lokmat",
-            "title": "‘उत्सव साजरा करा; पण इतरांना त्रास होणार नाही याची काळजी घ्या’; एकनाथ शिंदे यांचे गणेशोत्सव मंडळांना आवाहन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-07T22:52:48",
-            "url": "https://www.lokmat.com/thane/celebrate-the-festival-but-be-careful-not-to-cause-trouble-to-others-eknath-shindes-appeal-to-ganeshotsav-mandals-a-a849-c607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eknath-shind-e4_2026091779185.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "932579da63a1",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 8 सप्टेंबर 2026 : आज भौम प्रदोष व्रताचा शुभ संयोग महादेव व हनुमानाची या राशींवर अपार कृपा ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-08T01:46:04",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-8-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/133874550.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "04cff74550f4",
             "feed": "maharashtratimes",
@@ -146,22 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mi-jinkun-sara_2026091779178.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "76f18b23f382",
-            "feed": "esakal",
-            "title": "मोदी सरकार देणार स्वस्त भाड्याची घरं; शहरात राहणाऱ्यांसाठी मोठी योजना",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-07T21:09:21",
-            "url": "https://www.esakal.com/desh/modi-government-affordable-rental-housing-arh-pm-awas-yojana-urban-2-0-cheap-rent-houses-for-urban-poor-migrants-workers-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-07/f17i74y5/Affordable-Rental-Housing-Scheme",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "b2d75fe397b6",
+            "feed": "maharashtratimes",
+            "title": "तीन बॉल, एकही फटका नाही! लांब केसांमुळे फलंदाजी करताना तरुणाची झाली फजिती, मजेशीर व्हिडीओ व्हायरल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-08T01:15:26",
+            "url": "https://maharashtratimes.com/viral/viral-news/man-with-knee-length-hair-plays-cricket-viral-video-leaves-internet-stunned/articleshow/133895614.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "a276ebb7c5bd",
             "feed": "esakal",
             "title": "द्विशतकवीर Ishan Kishan बाद होताच तिलक वर्माने धावत जाऊन मारली मिठी! प्रतिस्पर्धी कर्णधार असले तरी जिंकली मनं; Photo Viral",
@@ -278,25 +294,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/datuk-abdah-alif-marriage_2026091779183.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "business": [
         {
-            "id": "8147624dfb8b",
+            "id": "7263e0b4c4d4",
             "feed": "maharashtratimes",
-            "title": "Kranti Gaud : शेवटी लायकी दाखवलीच! महिला भारतीय खेळाडूला पाकड्यांच्या चाहत्यांनी Live मॅचमध्ये वापरले चुकीचे शब्द; Video पाहून तुम्हालाही येईल राग",
+            "title": "अडकलेला पीएफ ट्रान्सफर मिनिटांत मिळवा! आता जुन्या कंपनीलाही संपर्क साधण्याची गरज नाही",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "sports"
+                "category": "business"
             },
-            "published": "2026-09-07T21:34:43",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/asia-cup-ind-vs-pak-match-kranti-gaud-controversy-pakistan-fans-teased-viral-video/articleshow/133888189.cms",
+            "published": "2026-09-07T23:59:59",
+            "url": "https://maharashtratimes.com/business/business-news/pf-transfer-process-how-to-update-date-of-exit-through-uan-member-portal-online/articleshow/133893436.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "business": [
+        },
         {
             "id": "b8d5582b7931",
             "feed": "maharashtratimes",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/krushi-bandh-2_2026091779162.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "e54127d3489b",
-            "feed": "maharashtratimes",
-            "title": "8th Pay Commission : 5% ते 7% दरम्यान पगारवाढीचा दर ठरला तर काहीच वर्षात मिळेल लाखोंचा पगार",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-09-07T20:10:05",
-            "url": "https://maharashtratimes.com/business/business-news/8th-pay-commission-increment-rate-5-6-and-7-calculation/articleshow/133885305.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
