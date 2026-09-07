@@ -1,185 +1,217 @@
 {
-    "lastUpdated": "07-09-2026 | 06:38 PM IST",
+    "lastUpdated": "07-09-2026 | 11:59 PM IST",
     "maharashtra": [
         {
-            "id": "290e768796b6",
-            "feed": "lokmat",
-            "title": "Latest Marathi News Live: शिवसेना पालघर शहर प्रमुख राहुल घरत यांची हकालपट्टी; एकनाथ शिंदेंनी केली कारवाई",
+            "id": "cb3c45920c0b",
+            "feed": "esakal",
+            "title": "Snake Bite : भोरमध्ये सर्पदंशाच्या घटनांत वाढ; तीन महिन्यांत १३१ घटना, वेळेत उपचारामुळे मृत्यू टळले",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-07T18:19:08",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-7-september-2026-pm-narendra-modi-review-meeting-cm-devendra-fadnavis-dj-ban-during-ganesh-festival-vidyanand-bapat-us-iran-tensions-russia-ukraine-talks-donald-trump-manoj-jarange-patil-maratha-reservation-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
+            "published": "2026-09-07T23:45:10",
+            "url": "https://www.esakal.com/pune/rise-in-snakebite-cases-in-bhor-131-incidents-reported-in-three-months-timely-treatment-prevents-deaths-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2024-07/712df2c0-4e18-46df-9895-a2ad8b7b614f/Jalgaon%20News%20-%202024-07-10T144547.161.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f611aab177e5",
+            "id": "355828673999",
             "feed": "lokmat",
-            "title": "Sangli News: अजबच कारभार!, वारस नोंदीसाठी मयत व्यक्तीलाच पाठवले जातेय पत्र",
+            "title": "धडगाव तालुक्यात भीषण अपघात; २१ प्रवासी जखमी, ३ जणांची प्रकृती चिंताजनक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-07T18:14:48",
-            "url": "https://www.lokmat.com/sangli/the-land-records-office-actually-sent-a-notice-by-post-in-the-name-of-the-deceased-person-to-register-the-names-of-their-heirs-an-incident-from-sangli-district-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhumi-abhilekh-office-sangli_2026091779091.jpg",
+            "published": "2026-09-07T23:43:16",
+            "url": "https://www.lokmat.com/nandurbar/terrible-accident-in-dhadgaon-taluka-21-passengers-injured-3-in-critical-condition-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ambulancer45_2026091779189.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "8fa745c88787",
-            "feed": "esakal",
-            "title": "गणेशोत्सवासाठी गुरुजींच्या बुकिंगला मोठा प्रतिसाद\nआले गणराया",
+            "id": "b760cbf05fe9",
+            "feed": "lokmat",
+            "title": "लाच प्रकरणात दुय्यम निबंधकासह तिघांना दाेन वर्षांचा सश्रम कारावास",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-09-07T18:12:39",
-            "url": "https://www.esakal.com/pune/ganesh-chaturthi-online-booking",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-07/d1owkxta/Banner1.png",
+            "published": "2026-09-07T23:35:47",
+            "url": "https://www.lokmat.com/latur/three-including-a-deputy-registrar-sentenced-to-two-years-rigorous-imprisonment-in-bribery-case-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bribe-45_2026091779188.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "257d831d82db",
-            "feed": "maharashtratimes",
-            "title": "Mumbai Metro: मुंबईतील प्रवाशांसाठी आनंदाची बातमी; गणेशोत्सव काळात परतीच्या प्रवासाची चिंता कमी होणार, मेट्रोबाबत महत्त्वाचा निर्णय",
+            "id": "ec86b4bbf6ff",
+            "feed": "lokmat",
+            "title": "अमरावतीत रक्ताचा सडा; २४ तासांत दुसऱ्या २० वर्षीय तरुणाची निर्घृण हत्या, वर्षातील ३५ वी घटना",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-09-07T18:10:44",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-metro-service-extended-until-12-am-during-ganesh-festival-for-passengers/articleshow/133881106.cms",
-            "image": "",
+            "published": "2026-09-07T23:33:20",
+            "url": "https://www.lokmat.com/amravati/amravati-youth-murder-haiderpura-bloodbath-in-amravati-a-20-year-old-youth-was-brutally-murdered-by-stabbing-him-with-a-knife-and-sword-in-haiderpur-a-a783-c607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amravati-crime-news-34-1_2026091779190.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "5129b484c59f",
-            "feed": "esakal",
-            "title": "नवी मुंबई विमानतळ रस्त्यावर महिलेवर अतिप्रसंग",
+            "id": "ae00aa70a7b0",
+            "feed": "lokmat",
+            "title": "‘उत्सव साजरा करा; पण इतरांना त्रास होणार नाही याची काळजी घ्या’; एकनाथ शिंदे यांचे गणेशोत्सव मंडळांना आवाहन",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-07T18:10:43",
-            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i87909-txt-mumbai-20260906071043",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-06/f2bwei3v/mumbai_fallback_image.jpg",
+            "published": "2026-09-07T22:52:48",
+            "url": "https://www.lokmat.com/thane/celebrate-the-festival-but-be-careful-not-to-cause-trouble-to-others-eknath-shindes-appeal-to-ganeshotsav-mandals-a-a849-c607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eknath-shind-e4_2026091779185.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "451ed2740f7b",
-            "feed": "lokmat",
-            "title": "२० वर्षांनंतर शाहरुख खानसोबत पुन्हा दिसणार बॉलिवूडची ही प्रसिद्ध अभिनेत्री, 'किंग'मध्ये झाली एन्ट्री?",
+            "id": "04cff74550f4",
+            "feed": "maharashtratimes",
+            "title": "Delhi Building Collapse: ज्याला 9 महिने पोटात वाढवलं, त्याचं पार्थिव पाहावं लागतंय! तरणाबांड लेक गेला; आईवर आभाळ कोसळलं",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-07T18:35:41",
-            "url": "https://www.lokmat.com/filmy/bollywood/famous-bollywood-actress-rani-mukharjee-will-be-seen-again-with-shahrukh-khan-after-20-years-will-she-enter-king-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/srk-and-rani_2026091779103.jpg",
+            "published": "2026-09-07T23:01:13",
+            "url": "https://maharashtratimes.com/india-news/delhi-building-collapse-update-upsc-aspirant-akshat-yadav-death/articleshow/133891008.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "30a9527d72b4",
+            "id": "6f9ec9c228e4",
             "feed": "esakal",
-            "title": "Ketu Transit Lucky Zodiac Signs: ‘या’ ६ राशींच्या नशिबात येणार मोठा ट्विस्ट; केतूच्या गोचराने मिळणार धनलाभाची संधी, पाहा तुमची रास आहे का?",
+            "title": "बिबट्याला माणसाचा वास किती अंतरावरुन येतो?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-07T18:23:33",
-            "url": "https://www.esakal.com/culture-and-religion/ketu-gochar-2026-magha-nakshatra-transit-lucky-zodiac-signs-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-07/dtue49rq/Ketu-Transit-2026-Lucky-Zodiac-Signs.jpg",
+            "published": "2026-09-07T22:36:36",
+            "url": "https://www.esakal.com/ampstories/web-story/how-far-can-a-leopard-smell-a-human-distance-olfactory-senses-wildlife-facts-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-07/avvzlfb7/7.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "bd534e77cd9f",
+            "id": "e909549190de",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 8 September 2026: भौमप्रदोष, मंगळागौरी पूजन, गजकेसरी योग, अनफा योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-07T22:11:14",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-8-september-in-marathi-bhauma-pradosha-gajakesari-anapha-yog-and-shubha-muhurta/articleshow/133887376.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a8657fa1908e",
             "feed": "lokmat",
-            "title": "काचेची भांडी दिसतातही सुंदर आणि असतातही फायद्याची !! फक्त वापरताना करु नका 'या' चुका ...",
+            "title": "'मी जिंकून घेईन सारं' मालिकेत रंगणार राजगुरूंची पहिली मंगळागौर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-07T18:17:41",
-            "url": "https://www.lokmat.com/sakhi/social-viral/glass-utensils-looks-beautiful-and-are-also-useful-just-dont-make-these-mistakes-while-using-it-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/glass-utinsils_2026091779096.jpeg",
+            "published": "2026-09-07T21:28:19",
+            "url": "https://www.lokmat.com/filmy/television/rajgurus-first-mangala-gaur-will-be-seen-in-the-series-mee-jhinkun-gheein-sar-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mi-jinkun-sara_2026091779178.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "71e57acd3caf",
-            "feed": "lokmat",
-            "title": "\"अशोक सराफ यांच्यासोबत रोमँटिक सीन, समोर निवेदिता बसलेल्या...\", मराठी अभिनेत्रीने सांगितला किस्सा",
+            "id": "76f18b23f382",
+            "feed": "esakal",
+            "title": "मोदी सरकार देणार स्वस्त भाड्याची घरं; शहरात राहणाऱ्यांसाठी मोठी योजना",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-07T18:16:11",
-            "url": "https://www.lokmat.com/filmy/marathi-cinema/marathi-actress-megha-ghadge-shared-romantic-scene-experienced-with-ashok-saraf-in-serial-a-a971/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/megha-ghadge-ashok-saraf-1_2026091779099.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "bad4e8026d37",
-            "feed": "lokmat",
-            "title": "देशाच्या सुरक्षेत गोवा पोलिसांचेही मोठे योगदान, अमित शाह यांचे उद्गार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-07T18:15:02",
-            "url": "https://www.lokmat.com/goa/goa-police-also-makes-a-big-contribution-to-the-security-of-the-country-says-amit-shah-a-a804-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amit-shah-goa-1_2026091779093.jpg",
+            "published": "2026-09-07T21:09:21",
+            "url": "https://www.esakal.com/desh/modi-government-affordable-rental-housing-arh-pm-awas-yojana-urban-2-0-cheap-rent-houses-for-urban-poor-migrants-workers-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-07/f17i74y5/Affordable-Rental-Housing-Scheme",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "9e7205863353",
+            "id": "316dc3e9560f",
             "feed": "lokmat",
-            "title": "एका आफ्रिकेत अख्खा भारत, चीन अन् अमेरिकाही सामावेल; मग नकाशात इतका छोटा प्रदेश का दाखवला?",
+            "title": "इराण युद्धात मेजरचा मृत्यू झाला, कुटुंबाला पैसे देण्याची वेळ येताच अमेरिका म्हणते हे युद्धच नाहीय...; संतापाची लाट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-07T18:09:36",
-            "url": "https://www.lokmat.com/photos/international/one-africa-would-contain-all-of-india-china-and-america-so-why-is-such-a-small-region-shown-on-the-map-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/world-map-equal-earth-project_2026091779081.jpg",
+            "published": "2026-09-07T23:25:59",
+            "url": "https://www.lokmat.com/international/us-soldier-family-benefits-iran-conflict-major-dies-in-iran-war-when-it-comes-time-to-pay-family-america-says-its-not-a-war-wave-of-anger-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/america-iran-war-major-death-wife-3_2026091779186.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "80a7e67f458d",
+            "feed": "lokmat",
+            "title": "दुसऱ्या महायुद्धानंतर ८५ वर्षांनी जर्मनीच्या राजकारणात भूकंप; नाझीसारख्या कट्टर उजव्या विचारसरणीच्या पक्षाचा ऐतिहासिक विजय",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-07T21:59:01",
+            "url": "https://www.lokmat.com/international/afd-wins-germany-state-election-2026-earthquake-in-german-politics-85-years-after-world-war-ii-historic-victory-for-nazi-like-far-right-party-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/germany-243_2026091779182.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2c827f6939c0",
+            "feed": "maharashtratimes",
+            "title": "Donald Trump Claim On Moon : 'The Moon is ours, Venezuela, Greenland, Iran नंतर चंद्रावर दावा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-07T20:10:43",
+            "url": "https://maharashtratimes.com/video/mt-originals/exp-donald-trump/videoshow/133886021.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
         },
         {
             "id": "218c5010b74d",
@@ -198,22 +230,6 @@
             "category_reason": "feed"
         },
         {
-            "id": "f5ce016901b3",
-            "feed": "lokmat",
-            "title": "अंटार्क्टिकाचा खरा मालक कोण? बर्फाखाली दडलेला आहे अथांग खजिना, तरीही तेल काढण्यावर बंदी का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-07T17:50:19",
-            "url": "https://www.lokmat.com/photos/jarahatke/who-is-the-real-owner-of-antarctica-there-is-a-vast-treasure-hidden-under-the-ice-but-why-is-oil-extraction-still-banned-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/antarctica7_2026091779050.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
             "id": "6e79aed4909b",
             "feed": "maharashtratimes",
             "title": "Why are countries moving gold? Netherland चे 86 Ton सोनं US मधून London ला, US वरील विश्वास उडाला",
@@ -228,69 +244,53 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "c1336a52625c",
-            "feed": "lokmat",
-            "title": "युक्रेनचा खळबळजनक निर्णय; पॉर्न इंडस्ट्रीच्या जिवावर ड्रोन खरेदी करणार, त्यासाठी ॲडल्ट कंटेंट वैध करणार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-07T17:44:35",
-            "url": "https://www.lokmat.com/international/ukraine-legalise-adult-content-tax-ukraines-big-decision-to-cover-war-costs-preparations-to-legalize-and-tax-adult-content-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/adult-content-ukraine-war-10_2026091779034.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "feba405cf48e",
+            "id": "a276ebb7c5bd",
+            "feed": "esakal",
+            "title": "द्विशतकवीर Ishan Kishan बाद होताच तिलक वर्माने धावत जाऊन मारली मिठी! प्रतिस्पर्धी कर्णधार असले तरी जिंकली मनं; Photo Viral",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-07T23:17:22",
+            "url": "https://www.esakal.com/krida/cricket/tilak-varma-hugs-ishan-kishan-after-epic-270-runs-knock-in-duleep-trophy-final-east-zone-vs-south-zone-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-07/67lce7ur/Tilak-Varma’s-Heartwarming-Gesture-to-Ishan-Kishan-Duleep-Trophy-2026-East-Zone-vs-South-Zone.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "da125a0ab75d",
             "feed": "lokmat",
-            "title": "२८ वर्षांनंतर दुर्मीळ योगायोग जुळून येणार, टीम इंडिया एकाच दिवशी दोन सामने खेळणार",
+            "title": "जगाला पुन्हा ७२ वर्षांच्या प्रसिद्ध फुटबॉलपटूची आठवण झाली, २० वर्षांच्या तरुणीशी लग्न केले अन् हनिमूनलाही गेले...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-07T18:11:54",
-            "url": "https://www.lokmat.com/cricket/news/team-india-after-28-years-a-rare-coincidence-will-come-team-india-will-play-two-matches-on-the-same-day-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/team-india-news-2_2026091779088.jpg",
+            "published": "2026-09-07T22:38:53",
+            "url": "https://www.lokmat.com/football/malaysia-football-legend-abdah-alif-marriage-the-world-once-again-remembered-the-72-year-old-famous-footballer-who-married-a-20-year-old-girl-and-even-went-on-a-honeymoon-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/datuk-abdah-alif-marriage_2026091779183.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "21834e95d1ce",
-            "feed": "esakal",
-            "title": "जगातील अन् भारतातील सर्वात जुने क्रिकेट स्टेडियम्स कोणते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-07T18:05:48",
-            "url": "https://www.esakal.com/ampstories/web-story/world-and-india-oldest-cricket-stadiums-top-5-lords-to-eden-gardens-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-07/zma63eam/Oldest-Cricket-Grounds-6.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "1e79d71ac730",
+            "id": "8147624dfb8b",
             "feed": "maharashtratimes",
-            "title": "Mohammad Yousuf : 'भारताविरूद्ध मिळवलेला विजयच पाकिस्तानच्या बर्बादीचं कारण'; माजी खेळाडूचं विधान चर्चेत, कारणही सांगून टाकलं",
+            "title": "Kranti Gaud : शेवटी लायकी दाखवलीच! महिला भारतीय खेळाडूला पाकड्यांच्या चाहत्यांनी Live मॅचमध्ये वापरले चुकीचे शब्द; Video पाहून तुम्हालाही येईल राग",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-09-07T17:56:41",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/pakistan-former-player-mohammad-yousuf-said-victory-against-india-itself-became-the-reason-pakistans-downfall/articleshow/133880698.cms",
+            "published": "2026-09-07T21:34:43",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/asia-cup-ind-vs-pak-match-kranti-gaud-controversy-pakistan-fans-teased-viral-video/articleshow/133888189.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -298,50 +298,50 @@
     ],
     "business": [
         {
-            "id": "4a63a5ef203d",
+            "id": "b8d5582b7931",
+            "feed": "maharashtratimes",
+            "title": "आटणारं पाणी जगाला रडवणार! होर्मुझनंतर आणखी एक जलमार्ग संकटात; कृत्रिम 'गेटवे' धोक्यात",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-09-07T21:34:19",
+            "url": "https://maharashtratimes.com/business/business-news/panama-canal-water-shortage-shipping-impact-on-india-and-world-economy/articleshow/133888152.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d8407679d661",
             "feed": "lokmat",
-            "title": "Womens Farming : 12 महिलांची एकजूट; बचत गटाच्या माध्यमातून 15 एकरमध्ये साकारला सामूहिक शेतीचा प्रयोग",
+            "title": "नव्या आकृतीबंधानुसार मंडळ कृषी अधिकारी, उपविभागीय कृषी अधिकारी कार्यालये बंद होणार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-07T18:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-unity-of-12-women-experiment-of-collective-farming-implemented-on-15-acres-through-self-help-groups-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bachat-gat-2_2026091778935.jpeg",
+            "published": "2026-09-07T20:35:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-new-structure-offices-of-the-divisional-agriculture-officer-and-sub-divisional-agriculture-officer-will-be-closed-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/krushi-bandh-2_2026091779162.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e156a152fc71",
-            "feed": "lokmat",
-            "title": "₹१५,००० ची SIP की, ₹१५ लाखांची एकरकमी गुंतवणूक; कोणता पर्याय देईल सर्वाधिक परतावा?",
+            "id": "e54127d3489b",
+            "feed": "maharashtratimes",
+            "title": "8th Pay Commission : 5% ते 7% दरम्यान पगारवाढीचा दर ठरला तर काहीच वर्षात मिळेल लाखोंचा पगार",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-09-07T18:20:49",
-            "url": "https://www.lokmat.com/business/savings-investments/sip-of-rs15000-or-lump-sum-investment-of-rs15-lakh-which-option-will-give-the-highest-return-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sip-vs-lump-sum_2026091779102.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "92ce03acda3a",
-            "feed": "lokmat",
-            "title": "महिन्याच्या सुरुवातीला ॲपल, उबर, पेपलमध्ये कर्मचाऱ्यांवर कुऱ्हाड; १.२९ लाखांहून अधिक आयटी कर्मचाऱ्यांची नोकरी गेली",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-09-07T18:11:36",
-            "url": "https://www.lokmat.com/business/news/tech-layoffs-2026-marathi-apple-uber-paypal-layoffs-more-than-129-lakh-it-employees-lose-their-jobs-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/layoff-it-sector-3_2026091779087.jpg",
+            "published": "2026-09-07T20:10:05",
+            "url": "https://maharashtratimes.com/business/business-news/8th-pay-commission-increment-rate-5-6-and-7-calculation/articleshow/133885305.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
