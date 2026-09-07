@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "07-09-2026 | 07:23 AM IST",
+    "lastUpdated": "07-09-2026 | 12:17 PM IST",
     "maharashtra": [
         {
-            "id": "e2783e782ad3",
+            "id": "bcafe572737a",
+            "feed": "esakal",
+            "title": "Amravati Tiger Attack: सोनोरी शिवारात वाघाचा थरार; चाराकटाईसाठी गेलेल्या २२ वर्षीय तरुणीचा हल्ल्यात मृत्यू, ग्रामस्थ संतप्त",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-07T12:15:42",
+            "url": "https://www.esakal.com/vidarbha/tiger-attack-in-sonori-chandur-bazar-leaves-22-year-old-woman-dead-while-villagers-protest-forest-department-action-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-07/v4cgqj50/sudhir-jadhav-satara-17.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "a974249be7dc",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : सरकार जाणूनबुजून हलगर्जीपणा करत आहे : मनोज जरांगे पाटील",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-07T12:10:34",
+            "url": "https://www.esakal.com/maharashtra/satya-niketan-hostel-daze-delhi-building-collapse-pg-collapse-ndrf-rescue-mcd-illegal-construction-bigg-boss-20-entertainment-mpsc-dahi-handi-mumbai-dahi-handi-injuries-drug-free-maharashtra-manoj-jarange-patil-devendra-fadnavis-maharashtra-rain-mumbai-weather-marathwada-rain-shivsena-ymk86-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "290e768796b6",
             "feed": "lokmat",
-            "title": "राज्यभरात पावसाची ओढ : ‘सर्जा-राजा’चा उतरला थाट, बैलपोळा सणावरही आले सावट",
+            "title": "Top Marathi News Live: मुंबईतील वांद्रेचे लोकप्रिय गेटी गॅलेक्सी चित्रपटगृह बंद, लायसन्स रिन्यू न केल्याने फटका",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-07T06:59:29",
-            "url": "https://www.lokmat.com/ahilyanagar/monsoon-failure-impacts-cattle-markets-in-ahilyanagar-sharp-drop-in-livestock-prices-amid-fodder-and-water-scarcity-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ahilyanagar-drought_2026091778498.jpg",
+            "published": "2026-09-07T12:05:47",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-7-september-2026-pm-narendra-modi-review-meeting-cm-devendra-fadnavis-dj-ban-during-ganesh-festival-vidyanand-bapat-us-iran-tensions-russia-ukraine-talks-donald-trump-manoj-jarange-patil-maratha-reservation-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "64ea510cacd3",
+            "id": "d8978c2cb48f",
+            "feed": "esakal",
+            "title": "Tukaram Mundhe: उत्सवांवर निर्बंध नाहीत, पण अन्नात भेसळ नकोच! तुकाराम मुंढेंचं FDAच्या आदेशावर स्पष्टीकरण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-07T12:04:14",
+            "url": "https://www.esakal.com/maharashtra/ias-officer-fda-commissioner-tukaram-mundhe-clarification-on-order-for-festive-season-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-07/mp6etw21/Tukaram-Mundhe.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2026a56460c5",
             "feed": "maharashtratimes",
-            "title": "Pune News : ‘डीजे’विरोधात ध्वनिवर्धन! पुण्यातील मोर्चात बंदीची मागणी, राजकीय नेत्यांचाही समर्थनाचा सूर, पण मोर्चाला विद्यानंद बापट अनुपस्थित; कारण काय?",
+            "title": "Satara News: मॅरेथॉनमध्ये धावताना पुणेकर संजय कदम कोसळले; स्पर्धेतील डॉक्टरांकडून सीपीआर, पण काही तासांनी श्वास थांबला!",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-07T06:50:50",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/pune-dj-ban-morcha-vidyanand-bapat-absent-from-the-morcha-ashish-shelar-proceedings/articleshow/133858402.cms",
+            "published": "2026-09-07T12:03:36",
+            "url": "https://maharashtratimes.com/maharashtra/satara/sanjay-kadam-suffers-a-heart-attack-during-satara-hill-half-marathon-tragic-death-during-competition/articleshow/133867495.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9a49a253146f",
-            "feed": "lokmat",
-            "title": "मुंबई हायकोर्टाच्या मुख्य न्यायमूर्तीपदी एम. सी. त्रिपाठी यांची नियुक्ती",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-07T06:43:10",
-            "url": "https://www.lokmat.com/mumbai/m-c-tripathi-appointed-as-chief-justice-of-the-bombay-high-court-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/justice-mahesh-chandra-tripathi_2026091778496.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7f8842432efc",
-            "feed": "lokmat",
-            "title": "क्लस्टरला भाजपचा ब्रेक; शिंदे म्हणतात, ‘पुनर्विकास होणारच’, नाईकांच्या खेळीला उत्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-07T06:22:49",
-            "url": "https://www.lokmat.com/navi-mumbai/ghansoli-simplex-colony-redevelopment-dy-cm-eknath-shinde-counters-bjp-resolution-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eknath-shinde-counters-bjp-resolution_2026091778493.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7647fddf770f",
-            "feed": "lokmat",
-            "title": "गणेशोत्सवात कसले डीजे, डॉल्बी; सण पारंपरिक पद्धतीने का नाही? राज ठाकरेंचा डीजेच्या दणदणाटाला तीव्र विरोध",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-07T06:17:52",
-            "url": "https://www.lokmat.com/thane/raj-thackeray-slams-high-decibel-dj-sound-systems-during-festivals-questions-cultural-shift-in-maharashtra-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raj-thackeray-slams-dj_2026091778491.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "411f863ef4e8",
+            "id": "d21029d1743b",
             "feed": "lokmat",
-            "title": "Shravan Somvar 2026: श्रावण सोमवार, शिवअभिषेकाला वेळ नाही? 'अशी' करा मानसपूजा!",
+            "title": "अंघोळीच्या १० मिनिटं आधी चेहऱ्याला लावा 'ही' पेस्ट; कोरियन ग्लास स्किन मिळेल-चेहरा चमकू लागेल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-07T07:10:01",
-            "url": "https://www.lokmat.com/photos/bhakti/shravan-somvar-2026-shravan-somvar-no-time-for-shiva-abhishekam-do-manas-puja-like-this-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shravan-somvar-2026-manas-puja-shiva-mantra-3_2026091777858.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1979084b9b44",
-            "feed": "lokmat",
-            "title": "गजकेसरी महालक्ष्मी राजयोग: ७ राशींचे कल्याण, अकल्पनीय लाभ; उत्पन्न वाढ, अडकलेला पैसा मिळेल!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-07T07:07:07",
-            "url": "https://www.lokmat.com/photos/bhakti/gajakesari-mahalaxmi-rajyog-2026-these-7-zodiac-signs-get-timeless-prosperity-unimaginable-benefits-income-will-increase-stuck-money-get-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gajkesari-mahalakshmi-yog_2026091778480.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0d06fb45eb36",
-            "feed": "esakal",
-            "title": "Meetha Pudla: साजूक तूप, गूळ अन् वेलचीचा सुगंध; नाश्त्याला बनवा चवदार 'गोड पुडला'! \nस्पेशल गुजराती रेसिपी....",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-07T07:00:00",
-            "url": "https://www.esakal.com/food/meetha-pudla-sweet-cheela-wheat-flour-jaggery-pancake-recipe-marathi-low-oil-indian-sweet-sweet-gujarati-cardamom-breakfast-recipe-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-06/adtnny6p/Meetha-Pudla-Recipe-Easy-Wheat-Flour-Jaggery-Sweet-Pancake.png",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "9f0eb955e210",
-            "feed": "esakal",
-            "title": "आजचे राशिभविष्य - ०७ सप्टेंबर २०२६",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-07T07:00:00",
-            "url": "https://www.esakal.com/horoscope/on-this-day-today-rashi-bhavishya-horoscope-in-marathi-07-september-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-30/veemryit/esakal2025-11-039nzjhvy62horoscope.avif",
+            "published": "2026-09-07T12:14:51",
+            "url": "https://www.lokmat.com/sakhi/beauty/10-minutes-korean-glass-skin-home-remedy-how-to-make-besan-curd-face-pack-at-home-for-glowing-skin-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-06-at-7.48.45-pm_2026091778501.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "a65efbf29566",
+            "id": "044918aa99fb",
             "feed": "lokmat",
-            "title": "अंतरवाली सराटीत आता ओबीसींचेही प्रतिआंदोलन; मंगेश ससाणे यांच्या नेतृत्वाखाली उपोषणाला सुरुवात",
+            "title": "भौम प्रदोष २०२६: श्रावणात दारिद्र्य आणि कर्जमुक्तीची सुवर्णसंधी; ८ सप्टेंबरला पूजेत टाळा 'या' ४ चुका!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-07T06:47:31",
-            "url": "https://www.lokmat.com/jalana/counter-protest-by-obcs-now-underway-at-antarwali-sarati-hunger-strike-begins-under-the-leadership-of-mangesh-sasane-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/counter-protest-by-obc_2026091778497.jpg",
+            "published": "2026-09-07T12:13:25",
+            "url": "https://www.lokmat.com/bhakti/bhaum-pradosh-2026-golden-opportunity-to-get-rid-of-poverty-and-debt-in-shravan-avoid-these-4-mistakes-during-puja-on-september-8-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shravan-bhaum-pradosh-2026-puja-vidhi_2026091778600.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "5a8543e31b61",
+            "feed": "maharashtratimes",
+            "title": "Pithori Amavasya 2026 Date : पिठोरी अमावस्या केव्हा आहे? पहा शुभ मुहूर्त आणि पितरांसाठी ही अमावस्या महत्वाची का असते !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-07T12:12:07",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/pithori-amavasya-2026-date-tithi-shubha-muhurta-upay-importance-shravan-amavasya/articleshow/133867966.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "b39bbe7062a7",
+            "feed": "lokmat",
+            "title": "भीषण वास्तव! 'या' गावांमध्ये पाण्याचीच वाटतेय लोकांना भीती; दोघांचा मृत्यू, १०० हून अधिक आजारी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-09-07T12:09:44",
+            "url": "https://www.lokmat.com/national/nainital-jyolikot-fear-water-jaundice-diarrhea-100-illnesses-two-deaths-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nainital-water_2026091778597.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c77d1ebcb8fd",
+            "feed": "lokmat",
+            "title": "हृता दुर्गुळेपासून वनिता खरातपर्यंत; मुक्ता बर्वेला सध्याच्या पिढीतील हे कलाकार आवडतात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-07T12:02:00",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/from-hruta-durgule-to-vanita-kharat-mukta-barve-likes-these-artists-of-the-current-generation-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mukta-barve-on-celebs_2026091778584.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "6e3634fdecda",
+            "id": "6a156a5c0dd4",
+            "feed": "lokmat",
+            "title": "भयंकर! मेक्सिकोत 'बर्निंग बुल', फटाक्यांचा भीषण स्फोट; १० जणांचा मृत्यू, ६० जण जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-07T11:45:35",
+            "url": "https://www.lokmat.com/international/mexico-burning-bull-blast-10-dead-ravan-dahan-like-rituals-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/burning-bull_2026091778572.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a2861814260c",
+            "feed": "maharashtratimes",
+            "title": "​‘इतक्या वाईट पद्धतीनं कोणी मारतं का?’ पाकिस्तान ५५ वर ऑलआऊट, भारतीय फॅन्स मीम्समधून उडवताहेत खिल्ली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-07T11:45:32",
+            "url": "https://maharashtratimes.com/viral/viral-news/pakistan-all-out-for-55-indias-dominant-win-sparks-hilarious-memes-online/articleshow/133867160.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "38e02d91498b",
             "feed": "esakal",
-            "title": "जपानमध्ये लोक रात्री अंघोळ का करतात?",
+            "title": "लोकांना पॉर्न दाखवून युक्रेन लढणार युद्ध, २३६ कोटींच्या कमाईतून ३० हजार ड्रोन खरेदी करता येणार; झेलेन्स्की मोठ्या निर्णयाच्या तयारीत",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-06T22:36:14",
-            "url": "https://www.esakal.com/ampstories/web-story/why-do-people-in-japan-take-a-bath-at-night-japanese-bathing-culture-ofuro-hot-water-bath-before-sleep-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-06/amai48ba/Why-do-people-in-Japan-take-a-bath-at-night-4.jpg",
+            "published": "2026-09-07T11:03:13",
+            "url": "https://www.esakal.com/global/ukraine-war-funding-zelensky-plans-to-raise-money-through-adult-content-industry-could-buy-30000-drones-with-rs-236-crore-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-07/09giulf1/ukraine-adult-content.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "d655d29865e1",
+            "feed": "esakal",
+            "title": "Premium|Family Importance : तंत्रज्ञानाच्या युगातही कुटुंबाचे महत्त्व जगभर कायम का आहे?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-07T10:00:00",
+            "url": "https://www.esakal.com/saptarang/family-importance-global-values-world-values-survey-family-values-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-06/5suyjoy3/Abhi-2026-09-06T201959.580.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "cc2fd3514ee9",
-            "feed": "lokmat",
-            "title": "Bigg Boss 20: प्रोटेस्ट गर्ल रिया अहिर 'बिग बॉस'च्या घरात जाण्यापूर्वीच आउट, कारण...",
+            "id": "8ea9710c1f08",
+            "feed": "esakal",
+            "title": "Miami Airport Plane Crash : ॲमेझॉनचं विमान लँडिंग करताना धावपट्टीवरून घसरलं अ्न रस्त्यावर आलं, वाहनांना धडक; ५ जणांचा मृत्यू",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-06T22:04:40",
-            "url": "https://www.lokmat.com/filmy/television/bigg-boss-20-protest-girl-rhea-ahir-is-out-due-to-low-votes-love-gill-gets-a-chance-who-is-she-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bigg-boss-20-protest-girl-rhea-ahir-is-out-due-to-low-votes-love-gill-gets-a-chance-who-is-she_2026091778439.jpeg",
+            "published": "2026-09-07T09:30:08",
+            "url": "https://www.esakal.com/global/miami-international-airport-plane-crash-amazon-cargo-boeing-767-300-runway-accident-five-killed-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-07/2gws6f85/35.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "67c71e968b27",
-            "feed": "lokmat",
-            "title": "'मिर्झापूर' पाहायला आलेल्या प्रेक्षकांची दारु पिऊन हुल्लडबाजी; प्रसिद्ध रिल स्टारने व्हिडीओ शेअर करत सांगितला धक्कादायक अनुभव",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-06T20:49:43",
-            "url": "https://www.lokmat.com/filmy/bollywood/audience-who-came-to-watch-mirzapur-rioted-after-drinking-alcohol-famous-reel-star-shares-shocking-experience-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/audience-who-came-to-watch-mirzapur-rioted-after-drinking-alcohol-famous-reel-star-shares-shocking-experience_2026091778420.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "b2cc309a87ad",
-            "feed": "lokmat",
-            "title": "Bigg Boss 20 ची सर्वात सुंदर स्पर्धक, इन्स्टाग्रामवर २९ मिलियन फॉलोअर्स; कोण आहे ही?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-06T20:44:58",
-            "url": "https://www.lokmat.com/filmy/photos/television/bigg-boss-20-premiere-who-is-arishfa-khan-most-beautiful-contestant-in-this-season-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arishfa-khan_2026091778419.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "ea075aa1102b",
-            "feed": "lokmat",
-            "title": "रोम अन् रोमांचक...! १५,००० फूट उंचीवर वसलेलं जगातील सर्वात दुर्गम हॉटेल! रस्ता नाही की गाडी; कोण कसे जाणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-06T20:03:19",
-            "url": "https://www.lokmat.com/jarahatke/margherita-hut-italy-remote-hotel-rome-and-excitement-the-most-remote-hotel-in-the-world-located-at-an-altitude-of-15000-feet-no-road-or-car-how-will-anyone-get-there-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rmargareta-hut-22_2026091778386.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "d376c3f362a7",
-            "feed": "maharashtratimes",
-            "title": "China Masters Super 750 : भारताच्या वाघांनी चीनमध्ये घुसून फडकवला तिरंगा, चायना मास्टर्स बॅडमिंटन स्पर्धा जिंकणारे पहिले भारतीय",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-09-06T23:17:56",
-            "url": "https://maharashtratimes.com/sports/badminton/historic-victory-for-satwiksairaj-rankireddy-and-chirag-shetty-at-the-china-masters-super-750-tournament/articleshow/133846558.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bee6ad297dff",
-            "feed": "maharashtratimes",
-            "title": "Karate Championship : महाराष्ट्राच्या शिरपेचात मानाचा तुरा, आंतरराष्ट्रीय कराटे स्पर्धेत छ. संभाजीनगरच्या विद्यार्थांची बाजी 34 पदकांवर कोरलं नाव",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-09-06T22:56:26",
-            "url": "https://maharashtratimes.com/sports/other-sports/international-karate-championship-maharashtra-students-from-chhatrapati-sambhajinagar-win-34-medals/articleshow/133844828.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e2145d539fa0",
+            "id": "c5a1c8475714",
             "feed": "lokmat",
-            "title": "ज्याला त्याला वैभव सूर्यवंशीला पहायचे होते...; जादाची स्टँड उघडावी लागली, तो बाद झाला तसे...",
+            "title": "भारत-पाकिस्तान द्विपक्षीय मालिकेचा तिढा सुटेना! ICCचा हायव्होल्टेज गेम प्लॅन; तिरंगी मालिकेचा पर्याय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-06T21:43:56",
-            "url": "https://www.lokmat.com/cricket/news/vaibhav-suryavanshi-duleep-trophy-2026-final-whoever-wanted-to-see-vaibhav-suryavanshi-had-to-open-the-extra-stand-as-he-was-dismissed-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vaibhav-suryavanshi-craze-3_2026091778429.jpg",
+            "published": "2026-09-07T12:06:22",
+            "url": "https://www.lokmat.com/cricket/news/icc-exploring-new-ideas-tri-series-involving-india-vs-pakistan-reports-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/icc-exploring-new-ideas-tri-series-involving-india-vs-pakistan-m_2026091778580.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bcced3334ed0",
+            "feed": "lokmat",
+            "title": "दररोज केवळ १ रुपयात स्पर्धा परीक्षांची तयारी; युवा करिअर क्लबचा विद्यार्थ्यांसाठी नवा उपक्रम",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-07T11:58:46",
+            "url": "https://www.lokmat.com/career/prepare-for-competitive-exams-for-just-rs-1-per-day-yuva-career-clubs-new-initiative-for-students-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mpsc-career_2026091778582.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "e2c7dcb9728f",
+            "feed": "maharashtratimes",
+            "title": "Misbah-ul-Haq :  मिस्बाहने राजीनाम्यानंतर पाकिस्तान क्रिकेट बोर्डाचं पितळ  उघडं पाडलं; विराट-रोहितचंही घेतलं नाव",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-09-07T11:49:01",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/misbah-ul-haq-big-statement-on-pakistan-cricket-board-after-resignation/articleshow/133866745.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "3a4e81e452aa",
-            "feed": "esakal",
-            "title": "अर्थबोध : ‘जीडीपी’च्या आकडेवारीचे वास्तव काय?",
+            "id": "30645437e885",
+            "feed": "lokmat",
+            "title": "...म्हणून कंपन्या तुमचा पगार वाढवत नाहीत; मार्केट व्हॅल्यू ओळखा आणि करिअरमधील ही चूक वेळीच सुधारा",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
             },
-            "published": "2026-09-07T07:04:00",
-            "url": "https://www.esakal.com/sakal-money/gdp-growth-7-8-percent-or-2-6-percent-india-new-gdp-series-2022-23-base-year-subhash-chandra-garg-inflation-deflator-economic-growth-common-man-income-rural-economy-employment-mukund-abhyankar-ca-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-06/dps5mwdq/Sakal-Money.png",
+            "published": "2026-09-07T12:14:52",
+            "url": "https://www.lokmat.com/business/news/years-of-work-experience-vs-market-value-why-career-growth-stagnates-and-how-skills-matter-more-than-tenure-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/no-salary-hike_2026091778603.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "91d6c8a82a20",
-            "feed": "esakal",
-            "title": "म्युच्युअल फंड : लाइफ सायकल फंड : उद्दिष्टपूर्तीचे साधन",
+            "id": "885e97730d55",
+            "feed": "lokmat",
+            "title": "पैठणच्या बाजारात दररोज ८०० टनांपर्यंत होतेय मोसंबी आवक; वाचा किती मिळतोय प्रती टन दर",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-07T07:01:00",
-            "url": "https://www.esakal.com/sakal-money/mutual-fund-lifecycle-fund-goal-based-investment-equity-debt-glide-path-2031-2036-2041-icici-prudential-lifecycle-fund-child-education-retirement-home-purchase-investment-planning-amit-bhandari-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/2Business_0_0.jpg",
+            "published": "2026-09-07T11:58:52",
+            "url": "https://www.lokmat.com/agriculture/market-yard/up-to-800-tons-of-citrus-fruits-are-arriving-in-paithan-market-every-day-read-how-much-is-being-paid-per-ton-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-ur-u-mosambi-market_2026091778554.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "bd080e826781",
-            "feed": "esakal",
-            "title": "अर्थवेध : धावती गाडी पकडण्याची घाई नको!",
+            "id": "f94eb20edfeb",
+            "feed": "maharashtratimes",
+            "title": "Highest Interest Rate On FD: 555 दिवसांच्या FD वर छोट्या बँकांकडून मोठा परतावा, 1 लाख गुंतवल्यास तुम्हाला किती परतावा मिळेल? पाहा Calculation",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
             },
-            "published": "2026-09-07T06:57:00",
-            "url": "https://www.esakal.com/sakal-money/bitcoin-crypto-currency-rally-august-2026-25-percent-gain-bitcoin-etf-inflow-september-3-fed-interest-rate-us-jobs-report-162000-bitcoin-below-80000-meme-coins-crypto-investment-risk-fomo-priyanka-kulkarni-ca-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-06/6dmzz3j1/Sakal-Money-3.png",
+            "published": "2026-09-07T11:39:45",
+            "url": "https://maharashtratimes.com/business/business-news/highest-555-day-fd-interest-rates-which-banks-offering-up-to-7-25-on-special-fixed-deposit/articleshow/133865611.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         }
     ]
 }
