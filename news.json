@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "09-09-2026 | 01:09 AM IST",
+    "lastUpdated": "09-09-2026 | 03:40 AM IST",
     "maharashtra": [
         {
             "id": "e5314e9353c0",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "909b4688beab",
+            "feed": "esakal",
+            "title": "शुभमन गिलच्या नावावर असलेले हे विश्वविक्रम माहित आहेत का?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-09T01:14:52",
+            "url": "https://www.esakal.com/ampstories/web-story/india-test-odi-captain-shubman-gill-world-record-youngest-double-century-4000-ipl-runs-fastest-odi-runs-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/dikznzmi/Shubman-Gill-2.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "770fdbe59715",
             "feed": "esakal",
             "title": "फोडलेला नारळ किती दिवसात खराब होतो?",
@@ -146,22 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-08/wjpbcl4w/Ganesh-Utsav-2026-Across-India-State-Wise-Rituals-Traditions.png",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "05a25dca987e",
-            "feed": "maharashtratimes",
-            "title": "My Cute Wife अन् बाबू बच्चा, चॅटमधून गूढ उकललं; विवाहित मैत्रिणी फरार, पतींच्या मागणीनं ट्विस्ट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-08T21:57:15",
-            "url": "https://maharashtratimes.com/india-news/haryana-crime-two-female-friends-fled-away-with-jewellery-and-kids-husband-claims-they-married-each-other/articleshow/133932710.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
