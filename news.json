@@ -1,201 +1,201 @@
 {
-    "lastUpdated": "08-09-2026 | 05:53 PM IST",
+    "lastUpdated": "08-09-2026 | 10:25 PM IST",
     "maharashtra": [
         {
-            "id": "67363dda8c9f",
+            "id": "3e758788ab38",
             "feed": "esakal",
-            "title": "दोषसिद्ध आरोपीची फाशीची शिक्षा रद्द",
+            "title": "Bribe Case : कारवाई न करण्यासाठी दोन लाखांची लाच घेताना पोलीस कर्मचारी जाळ्यात",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-08T17:42:47",
-            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mbi26b37369-txt-mumbai-20260907064247",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-07/vvn26yp5/mumbai_fallback_image.jpg",
+            "published": "2026-09-08T22:17:31",
+            "url": "https://www.esakal.com/pune/police-employee-caught-accepting-rupees-2-lakh-bribe-to-avoid-taking-action-baramati-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-02/npizfro4/Bribe-Case",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9e4f418a0eb1",
-            "feed": "lokmat",
-            "title": "Latest Marathi News LIVE Updates: 'ज्यांनी न्याय दिला, त्यांच्यावरच टीका योग्य नाही', शिंदेंच्या मंत्र्याचे जरांगेंना उत्तर",
+            "id": "9a68cbf3bb44",
+            "feed": "maharashtratimes",
+            "title": "Special Train : एका युगाचं स्वप्न पूर्ण होतंय, पहिल्यांदाच मराठवाड्यातून कोकणसाठी रेल्वे, नांदेड-सावंतवाडी विशेष ट्रेनची घोषणा",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-08T17:34:32",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-8-september-2026-manoj-jarange-patil-health-maratha-reservation-cm-devendra-fadnavis-mpsc-exam-protest-caste-certificate-of-bmc-corporators-pm-narendra-modi-us-iran-tension-donald-trump-ganpati-festival-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-marathi-news-_2026021636877.jpg",
+            "published": "2026-09-08T22:10:54",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/nanded-sawantwadi-special-train-first-direct-rail-service-from-marathwada-to-konkan/articleshow/133933199.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "59964f1afc3b",
+            "feed": "esakal",
+            "title": "Pune Crime : 'कुराश' खेळांच्या बनावट प्रमाणपत्रांचे रॅकेट राज्यभर पसरलेले; एक हजाराहून अधिक बोगस प्रमाणपत्रे वाटली",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-08T22:04:50",
+            "url": "https://www.esakal.com/pune/fake-certificate-racket-in-kurash-sports-spreads-across-maharashtra-over-1000-bogus-certificates-distributed-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/g86ob74q/Kurash-Sports",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
             "id": "539ce4364c3b",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : मिरवणूक बंदीकडे चाललेली पावले थांबली नाहीत तर भविष्यात उत्सवच बंद होतील - साऊंड असोसिएशन",
+            "title": "Marathi News Updates : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-08T17:34:20",
+            "published": "2026-09-08T21:58:15",
             "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-8-september-2026-manoj-jarange-patil-maharashtra-politics-devendra-fadnavis-pm-modi-mumbai-weather-imd-rain-vidarbha-pune-dj-controversy-ssy93-spb94",
             "image": "https://cf-images.assettype.com/esakal/2024-12-13/nlfys5cr/live-update.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4d007e6a624e",
-            "feed": "maharashtratimes",
-            "title": "Pune RTO: पुणेकरांकडून एमएच १२ नंतर आता एमएच ६१ ला भरभरून प्रतिसाद; कोणत्या नंबरसाठी सर्वाधिक बोली?",
+            "id": "5191f2aff612",
+            "feed": "lokmat",
+            "title": "भारताचा फिनटेक प्रवास आर्थिक क्रांतीचा मोठा आधारस्तंभ; 'ग्लोबल फिनटेक फेस्टिव्हल २०२६' मध्ये पंतप्रधान नरेंद्र मोदींचे प्रतिपादन",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-08T17:33:13",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/mh-61-registration-number-receives-phenomenal-response-in-pune-record-bids-in-auction/articleshow/133924013.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "499cfb1edb1d",
-            "feed": "esakal",
-            "title": "Pune University Result Delay: पुणे विद्यापीठाच्या भाषा भवनातील निकाल १०० दिवसांनंतरही प्रलंबित; ३०० हून अधिक विद्यार्थ्यांचे शैक्षणिक नुकसान",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-08T17:32:35",
-            "url": "https://www.esakal.com/pune/pune-university-sppu-language-bhavan-result-delay-100-days-300-students-marathi-hindi-english-sanskrit-pali-first-year-second-semester-may-2026-result-karmaveer-bhaurao-patil-earn-and-learn-scholarship-admission-library-students-protest-examination-evaluation-department-45-days-rule-abhishek-shelke-srikant-kamble-sakshi-bansode-pune-maharashtra-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/y63l7lon/Esakal-50.png",
+            "published": "2026-09-08T21:57:28",
+            "url": "https://www.lokmat.com/mumbai/pm-modi-global-fintech-fest-2026-indias-fintech-journey-a-major-pillar-of-economic-revolution-pm-narendra-modi-asserts-at-global-fintech-festival-2026-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/narendra-modi-speec-h3_2026091779952.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "ed9d608a4df4",
-            "feed": "lokmat",
-            "title": "Palmistry: तुमच्या डाव्या तळहातावर तीळ आहे की उजव्या? जाणून घ्या शुभ अशुभ संकेत!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-08T17:43:12",
-            "url": "https://www.lokmat.com/bhakti/palmistry-is-there-a-mole-on-your-left-palm-or-right-know-the-auspicious-and-inauspicious-signs-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/palmistry-mole-position-lucky-or-unlucky_2026091779752.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "4d34198f48a1",
+            "id": "51ff14c0a6cf",
             "feed": "esakal",
-            "title": "Premium|Study Room : उझबेकिस्तान आणि किरगिझस्तानचा दौरा भारतासाठी इतका महत्त्वाचा का?",
+            "title": "मुघलांच्या राजदरबारात जेवण वाढण्याची पद्धत कशी होती?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-08T17:40:38",
-            "url": "https://www.esakal.com/study-room/india-central-asia-relations-modi-uzbekistan-kyrgyzstan-strategic-ties-trade-energy-digital-technology-connectivity-shanghai-cooperation-organisation-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/1uzbz1uc/Abhi-2026-09-08T173859.281.jpg",
+            "published": "2026-09-08T22:22:33",
+            "url": "https://www.esakal.com/ampstories/web-story/mughal-emperors-royal-court-food-serving-tradition-dining-customs-shahi-khana-darbar-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/74wo9822/11.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "e115aa983d35",
+            "feed": "esakal",
+            "title": "Ganesh Utsav 2026: महाराष्ट्रापासून मिझोरमपर्यंत! कशी साजरी होते गणेश चतुर्थी? जाणून घ्या वेगवेगळ्या राज्यांतील अनोख्या परंपरा!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-08T22:03:44",
+            "url": "https://www.esakal.com/culture-and-religion/ganesh-utsav-2026-unique-traditions-across-different-indian-states-marathi-news-ganapati-bappa-ganesh-chaturthi-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/wjpbcl4w/Ganesh-Utsav-2026-Across-India-State-Wise-Rituals-Traditions.png",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "a5920844d3fb",
+            "id": "05a25dca987e",
+            "feed": "maharashtratimes",
+            "title": "My Cute Wife अन् बाबू बच्चा, चॅटमधून गूढ उकललं; विवाहित मैत्रिणी फरार, पतींच्या मागणीनं ट्विस्ट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-08T21:57:15",
+            "url": "https://maharashtratimes.com/india-news/haryana-crime-two-female-friends-fled-away-with-jewellery-and-kids-husband-claims-they-married-each-other/articleshow/133932710.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "0a04992b662a",
             "feed": "esakal",
-            "title": "आजकाल लोक सेव्हिंग खात्याऐवजी डेट फंडात पैसे का ठेवत आहेत?",
+            "title": "बायकोचं शीर कापून फ्रीजमध्ये ठेवलं! जेलमधून सुटल्यानंतर पत्नीच्या 'शुगर डॅडी'ला ठार मारण्याची धमकी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-08T17:36:51",
-            "url": "https://www.esakal.com/ampstories/web-story/savings-account-vs-debt-fund-why-investors-are-choosing-debt-funds-for-surplus-money-liquid-fund-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/wlvs1nuk/12.jpg",
+            "published": "2026-09-08T21:52:18",
+            "url": "https://www.esakal.com/desh/guwahati-beheads-wife-stashes-head-fridge-confesses-murder-infidelity-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/nklb2hre/Latest-Marathi-Breaking-News-2026-09-08T214959.789.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "6b8ddd6d198a",
-            "feed": "maharashtratimes",
-            "title": "...अन् कुत्र्याचं शेपूट झालं सरळ, या मुलानं अशी कुठली जादू केली? व्हिडीओ पाहून डोळ्यांवर विश्वास बसणार नाही",
+            "id": "9d373d7bc822",
+            "feed": "esakal",
+            "title": "हवामानाचा अंदाज अन् पायलटनं फिरवला निर्णय; राहुल गांधींच्या विमानाला का करावं लागलं 'गो-अराउंड'? लँडिंगच्या १० मिनिटांपूर्वी काय घडलं?",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-08T17:34:16",
-            "url": "https://maharashtratimes.com/viral/viral-news/dogs-curved-tail-turns-straight-schoolboys-viral-video-leaves-netizens-shocked/articleshow/133924506.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8d7e8b84c9d6",
-            "feed": "maharashtratimes",
-            "title": "Nilesh Sabale : 'तुकाराम मुंढेंना पाहिलं की मला माझे बाबा आठवतात', निलेश साबळेचं वक्तव्य, सांगितला वडिलांचा किस्सा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-08T17:28:37",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/chala-hawa-yeu-dya-fame-nilesh-sabale-talks-about-his-father/articleshow/133923503.cms",
-            "image": "",
+            "published": "2026-09-08T21:21:31",
+            "url": "https://www.esakal.com/desh/rahul-gandhi-air-india-flight-go-around-lucknow-landing-ai-1717-delhi-lucknow-flight-weather-wind-pilot-safe-landing-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/0acrgma3/Rahul-Gandhi-flight-go-around",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "9adaa2815b86",
+            "id": "fa8bd0824e3a",
             "feed": "lokmat",
-            "title": "आता येमेन आणि सौदी अरेबियामध्ये युद्ध भडकले; अरामको ऑईल रिफायनरी व एअरबेसवर क्षेपणास्त्र आणि ड्रोनचा भीषण मारा",
+            "title": "'शेख हसीना बांगलादेशात परतल्या की थेट फाशीच, अपिलाची मुदत संपली'; भारतातून पकडून नेण्याची दर्पोक्ती",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-08T17:45:59",
-            "url": "https://www.lokmat.com/international/yemen-attack-on-saudi-aramco-now-war-has-broken-out-between-yemen-and-saudi-arabia-aramco-oil-refinery-and-airbase-hit-by-missiles-and-drones-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saudi-arabia-45_2026091779753.jpg",
+            "published": "2026-09-08T21:35:40",
+            "url": "https://www.lokmat.com/international/sheikh-hasina-death-penalty-claim-bangladesh-demands-sheikh-hasina-extradition-sheikh-hasina-will-be-hanged-as-soon-as-she-returns-to-bangladesh-the-deadline-for-appeal-has-expired-there-is-a-threat-of-arresting-her-from-india-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shaikh-hasina-34_2026091779951.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e18e89298b67",
+            "id": "dcb634099f37",
             "feed": "lokmat",
-            "title": "अमेरिकेत गृहयुद्ध ते जागतिक मंदी...; २०२७ मध्ये काय काय घडणार? 'चिनी नॉस्ट्रॅडॅमस'ची ५ धडकी भरवणारी भाकितं",
+            "title": "बिग बॉसच्या घरात जिंकली मनं, पण अकाली घेतला जगाचा निरोप; कोण आहेत हे स्पर्धक?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "world"
+                "category": null
             },
-            "published": "2026-09-08T17:24:10",
-            "url": "https://www.lokmat.com/international/from-us-civil-global-recession-what-will-happen-in-2027-chinas-nostradamus-jiang-xueqin-5-shocking-predictions-for-2027-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/china-nostradamus-jiang-xueqin_2026091779723.jpg",
+            "published": "2026-09-08T19:11:51",
+            "url": "https://www.lokmat.com/filmy/photos/television/bigg-boss-won-hearts-but-said-goodbye-to-the-world-prematurely-who-are-these-contestants-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bigg-boss-celebs_2026091779867.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
             "id": "8fc00822cf28",
@@ -230,118 +230,118 @@
             "category_reason": "feed"
         },
         {
-            "id": "83937bba9266",
-            "feed": "lokmat",
-            "title": "IPS Mohita Sharma : \"टोमणे नव्हे, अभिमानच वाटेल..!\" KBC मध्ये १ कोटी जिंकणाऱ्या IPS मोहिता शर्मांची यशोगाथा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-08T16:25:18",
-            "url": "https://www.lokmat.com/sakhi/photos/inspirational/success-story-of-ips-mohita-sharma-kbc-1-crore-winner-who-cleared-upsc-exam-on-5th-attempt-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ips-mohita-sharma_2026091779646.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "sports": [
-        {
-            "id": "6bf4e08ccc04",
-            "feed": "lokmat",
-            "title": "टीम इंडियाला मोठा दिलासा; 'त्या' चौघांपैकी एकजण खेळणार, बुमराहसह तिघांच्या खेळण्यावर सस्पेन्स कायम!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-08T17:44:40",
-            "url": "https://www.lokmat.com/cricket/photos/ind-vs-afg-t20-series-2026-washington-sundar-fit-jasprit-bumrah-fitness-test-nitish-kumar-reddy-harshit-rana-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-afg-t20-series-2026-10_2026091779746.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5adb5fbb1ebe",
-            "feed": "maharashtratimes",
-            "title": "Jason Gillespie : 'माझे हजारो डॉलर नाही दिले, एका माणसामुळे वाट लागली'; पाकिस्तान क्रिकेट बोर्डाला ऑस्ट्रेलियाच्या माजी प्रशिक्षकाने उघडं पाडलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-09-08T16:44:19",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/former-coach-jason-gillespie-big-statement-about-pakitan-cricket-board-and-aaqib-javed/articleshow/133920180.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ad44b2797e62",
-            "feed": "lokmat",
-            "title": "Sher-E-Punjab T20 League: १६ चौकार, १२ षटकार! MI स्टारची वादळी खेळी; फक्त ६४ चेंडूत कुटल्या १७३ धावा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-08T16:25:35",
-            "url": "https://www.lokmat.com/cricket/news/mi-star-naman-dhir-173-runs-in-64-balls-16-fours-and-12-sixes-in-sher-e-punjab-t20-league-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mi-star-naman-dhir-173-runs-in-64-balls-m_2026091779632.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "business": [
-        {
-            "id": "f49aac4e0795",
-            "feed": "lokmat",
-            "title": "E-Peek Pahani : ई-पीक पाहणीचा नवा नियम! ‘लाइव्ह फोटो’ऐवजी जुना फोटो टाकला तर कारवाई; AI ठेवणार नजर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-08T17:38:20",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-e-peek-pahani-new-rule-for-e-peek-survey-action-will-be-taken-if-an-old-photo-is-posted-instead-of-a-live-photo-ai-will-keep-an-eye-on-it-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/e-pik-ai-1_2026091779741.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "79eafc951b45",
+            "id": "d1aa6fa6a592",
             "feed": "esakal",
-            "title": "शनीचे महासंक्रमण! 'या' ५ राशींच्या आयुष्यात येणार सुवर्णकाळ; नोकरी आणि व्यवसायात प्रचंड यशाचा योग",
+            "title": "कोणत्या आहेत जगातील ८ सर्वात जास्त सुंदर अन् रंगीबेरंगी इमारती?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-08T17:31:21",
-            "url": "https://www.esakal.com/culture-and-religion/shani-gochar-2026-saturn-transit-revati-nakshatra-5-zodiac-signs-golden-period-job-business-success-money-luck-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/1wvzufy8/Saturn-Transit-2026",
+            "published": "2026-09-08T15:31:36",
+            "url": "https://www.esakal.com/ampstories/web-story/8-most-colorful-buildings-in-the-world-architectural-marvels-worlds-most-colorful-beautiful-buildings-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/4axcym5n/Worlds-Most-Colorful-Buildingspng",
             "isBreaking": false,
             "category_reason": "keyword"
+        }
+    ],
+    "sports": [
+        {
+            "id": "4bc49864153c",
+            "feed": "esakal",
+            "title": "Suresh Raina: 'प्रत्येक कर्णधाराची आवड असते...' रैना विराट कोहलीच्या नेतृत्वात संघातून बाहेर होण्यावर स्पष्टच बोलला",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-08T21:21:16",
+            "url": "https://www.esakal.com/krida/cricket/suresh-raina-on-team-india-exit-and-lack-of-answers-from-virat-kohli-and-anil-kumble-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/0iltlpyn/Suresh-Raina-Virat-Kohli.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         },
         {
-            "id": "a747a46b44c9",
+            "id": "15d1b73ecf45",
+            "feed": "maharashtratimes",
+            "title": "Sachin Tendulkar : सचिन तेंडुलकरची लोणावळ्यात जमीन खरेदी, 4 कोटींपेक्षा जास्त भरली फक्त स्टॅम्प ड्युटीच, एकूण संपत्तीची किंमत किती?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-09-08T21:11:05",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-former-player-sachin-tendulkar-has-purchased-a-property-in-lonavala/articleshow/133931235.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b2dc08584320",
             "feed": "lokmat",
-            "title": "जायकवाडीसाठी ६५ टीएमसी पाणी गेले; गोदावरी, मुळा, प्रवरा नदीवरील कोरडे बंधारे भरून मिळणार का?",
+            "title": "Asian Games 2026: टीम इंडियाच्या 'बी टीम'ची चर्चा ठरली अफवा; BCCI नं स्पष्ट केली भूमिका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-09-08T20:01:35",
+            "url": "https://www.lokmat.com/cricket/news/no-b-team-bcci-to-send-most-talented-players-to-japan-for-asian-games-2026-rajiv-shukla-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/no-b-team-bcci-to-send-asian-games-2026-mm_2026091779914.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "business": [
+        {
+            "id": "adddee9a424d",
+            "feed": "lokmat",
+            "title": "EV की CNG कार, कोणता पर्याय ठरेल सर्वात स्वस्त? चालवण्याच्या खर्चात किती आहे फरक?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-08T17:24:25",
-            "url": "https://www.lokmat.com/agriculture/weather/65-tmc-of-water-was-lost-for-jayakwadi-will-the-dry-dams-on-godavari-mula-and-pravara-rivers-be-filled-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bandhare-dry_2026091779663.jpeg",
+            "published": "2026-09-08T20:28:18",
+            "url": "https://www.lokmat.com/auto/ev-or-cng-car-which-option-would-be-the-cheapest-what-is-the-difference-in-running-costs-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cng-png-car-ev_2026091779925.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "31c3212f6c74",
+            "feed": "lokmat",
+            "title": "डॉलरचा साठा लागणार म्हणून एनआरआयसाठी 'स्वॅप' नीती आणली; RBI आपल्याच जाळ्यात अडकली...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-09-08T20:25:32",
+            "url": "https://www.lokmat.com/business/news/rbi-liquidity-surplus-issue-rbis-dollar-swap-policy-floods-banking-system-with-money-economists-warn-of-inflation-and-bad-loans-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rbi-bank-l_2026091779943.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "10380bd0688d",
+            "feed": "lokmat",
+            "title": "पिकांत फवारणी करतांना सुरक्षा साहित्याकडे दुर्लक्ष करणे भोवले; 'या' जिल्ह्यातील १५८ शेतकऱ्यांना विषबाधा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-08T19:56:41",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/ignoring-safety-equipment-while-spraying-crops-158-farmers-in-this-district-get-poisoned-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-u-34-u-farmer_2026091779901.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
