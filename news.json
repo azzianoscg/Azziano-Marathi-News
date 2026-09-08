@@ -1,88 +1,120 @@
 {
-    "lastUpdated": "08-09-2026 | 10:25 PM IST",
+    "lastUpdated": "09-09-2026 | 01:09 AM IST",
     "maharashtra": [
         {
-            "id": "3e758788ab38",
+            "id": "e5314e9353c0",
+            "feed": "maharashtratimes",
+            "title": "लोकं ओरडत राहिली पण ट्रेन थांबेना! मुंबई लोकलमध्ये घडला विचित्र प्रकार, पनवेलहून सुटलेली गाडी न थांबता गेली कुठे? प्रवाशांचा व्हिडीओ व्हायरल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-09T00:38:45",
+            "url": "https://maharashtratimes.com/viral/viral-news/panvel-csmt-ac-local-doesnt-stop-reaches-sanpada-car-shed-passengers-panic-video-viral/articleshow/133939331.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "c59470cea1e6",
             "feed": "esakal",
-            "title": "Bribe Case : कारवाई न करण्यासाठी दोन लाखांची लाच घेताना पोलीस कर्मचारी जाळ्यात",
+            "title": "Rayareshwar Temple : डागडुजीनंतरही रायरेश्वर मंदिरात गळती सुरूच! जीर्णोद्धारानंतर अवघ्या दीड वर्षातच दुरवस्था; शिवप्रेमी, भाविकांमध्ये नाराजी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-08T22:17:31",
-            "url": "https://www.esakal.com/pune/police-employee-caught-accepting-rupees-2-lakh-bribe-to-avoid-taking-action-baramati-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-02/npizfro4/Bribe-Case",
+            "published": "2026-09-08T23:36:23",
+            "url": "https://www.esakal.com/pune/rayareshwar-temple-still-leaking-despite-repairs-poor-condition-returns-just-18-months-after-renovation-angering-devotees-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/ib6ne6jg/rayareshwar-temple",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9a68cbf3bb44",
+            "id": "e0eb94bf571c",
+            "feed": "esakal",
+            "title": "Alephata News : ‘जीव देऊ, पण वडिलोपार्जित जमीन नाही’; कल्याण-लातूर महामार्गाला माळवाडी ग्रामस्थांचा विरोध, शासन-शेतकरी संघर्ष पेटण्याची चिन्हे",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-08T23:30:06",
+            "url": "https://www.esakal.com/pune/we-will-give-our-lives-but-not-ancestral-land-malwadi-villagers-oppose-kalyan-latur-highway-project-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/b1fyn1ne/Malwadi-Villagers-Oppose-Kalyan-Latur-Highway-Project",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1fde584f0477",
+            "feed": "esakal",
+            "title": "Pune Crime: ऑटोरिक्षातून ज्येष्ठ नागरिकांना लुटणारी आंतरजिल्हा टोळी गजाआड; १५ लाखांचे सोन्याचे दागिने जप्त",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-08T23:21:02",
+            "url": "https://www.esakal.com/pune/pune-samarth-police-inter-district-gang-targeting-senior-citizens-auto-rickshaw-gold-chain-theft-jalgaon-criminals-shakir-teli-mohsin-khan-ismail-raju-sheikh-ganesh-memory-15-lakh-gold-jewellery-singhagad-road-kalepadal-wanowrie-bundgarden-pimpri-chinchwad-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/1ga16tlw/Esakal-62.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "61659dd84beb",
             "feed": "maharashtratimes",
-            "title": "Special Train : एका युगाचं स्वप्न पूर्ण होतंय, पहिल्यांदाच मराठवाड्यातून कोकणसाठी रेल्वे, नांदेड-सावंतवाडी विशेष ट्रेनची घोषणा",
+            "title": "Kurla Ganesh Murti : बाप्पाच्या आगमनादरम्यान 15 फुटी गणेश मूर्ती कोसळली, कुर्ला येथील घटना, दोन जखमी",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-08T22:10:54",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/nanded-sawantwadi-special-train-first-direct-rail-service-from-marathwada-to-konkan/articleshow/133933199.cms",
+            "published": "2026-09-08T23:00:28",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/ganesh-idol-fall-in-kurla-while-being-taken-to-dharavi-two-injured/articleshow/133934225.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "59964f1afc3b",
-            "feed": "esakal",
-            "title": "Pune Crime : 'कुराश' खेळांच्या बनावट प्रमाणपत्रांचे रॅकेट राज्यभर पसरलेले; एक हजाराहून अधिक बोगस प्रमाणपत्रे वाटली",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-08T22:04:50",
-            "url": "https://www.esakal.com/pune/fake-certificate-racket-in-kurash-sports-spreads-across-maharashtra-over-1000-bogus-certificates-distributed-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/g86ob74q/Kurash-Sports",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "539ce4364c3b",
-            "feed": "esakal",
-            "title": "Marathi News Updates : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-08T21:58:15",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-8-september-2026-manoj-jarange-patil-maharashtra-politics-devendra-fadnavis-pm-modi-mumbai-weather-imd-rain-vidarbha-pune-dj-controversy-ssy93-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2024-12-13/nlfys5cr/live-update.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5191f2aff612",
-            "feed": "lokmat",
-            "title": "भारताचा फिनटेक प्रवास आर्थिक क्रांतीचा मोठा आधारस्तंभ; 'ग्लोबल फिनटेक फेस्टिव्हल २०२६' मध्ये पंतप्रधान नरेंद्र मोदींचे प्रतिपादन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-08T21:57:28",
-            "url": "https://www.lokmat.com/mumbai/pm-modi-global-fintech-fest-2026-indias-fintech-journey-a-major-pillar-of-economic-revolution-pm-narendra-modi-asserts-at-global-fintech-festival-2026-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/narendra-modi-speec-h3_2026091779952.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "770fdbe59715",
+            "feed": "esakal",
+            "title": "फोडलेला नारळ किती दिवसात खराब होतो?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-09T00:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/how-many-days-coconuts-fresh-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/u9mti9dy/coconut.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "5b8881aed816",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 9 September 2026: बुध पूजन, द्विग्रह योग, भद्र राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-08T23:39:16",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-9-september-in-marathi-dvigrah-yog-bhadra-rajyog-and-shubha-muhurta/articleshow/133934593.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "51ff14c0a6cf",
             "feed": "esakal",
@@ -130,41 +162,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "0a04992b662a",
-            "feed": "esakal",
-            "title": "बायकोचं शीर कापून फ्रीजमध्ये ठेवलं! जेलमधून सुटल्यानंतर पत्नीच्या 'शुगर डॅडी'ला ठार मारण्याची धमकी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-08T21:52:18",
-            "url": "https://www.esakal.com/desh/guwahati-beheads-wife-stashes-head-fridge-confesses-murder-infidelity-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/nklb2hre/Latest-Marathi-Breaking-News-2026-09-08T214959.789.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "9d373d7bc822",
-            "feed": "esakal",
-            "title": "हवामानाचा अंदाज अन् पायलटनं फिरवला निर्णय; राहुल गांधींच्या विमानाला का करावं लागलं 'गो-अराउंड'? लँडिंगच्या १० मिनिटांपूर्वी काय घडलं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-08T21:21:31",
-            "url": "https://www.esakal.com/desh/rahul-gandhi-air-india-flight-go-around-lucknow-landing-ai-1717-delhi-lucknow-flight-weather-wind-pilot-safe-landing-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/0acrgma3/Rahul-Gandhi-flight-go-around",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "9cfc28bd95ac",
+            "feed": "lokmat",
+            "title": "नेपाळमध्ये रात्र वैऱ्याची...! ५.३ रिश्टर स्केलचा तीव्र भूकंप; तिबेटच्या सीमाभागासह मुस्तांग परिसर हादरला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-08T23:47:00",
+            "url": "https://www.lokmat.com/international/nepal-earthquake-mustang-lomanthang-strong-earthquake-of-53-magnitude-hits-nepal-mustang-area-along-tibet-border-shakes-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-earthqukae-325_2026091779960.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "fa8bd0824e3a",
             "feed": "lokmat",
@@ -228,22 +244,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "d1aa6fa6a592",
-            "feed": "esakal",
-            "title": "कोणत्या आहेत जगातील ८ सर्वात जास्त सुंदर अन् रंगीबेरंगी इमारती?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-08T15:31:36",
-            "url": "https://www.esakal.com/ampstories/web-story/8-most-colorful-buildings-in-the-world-architectural-marvels-worlds-most-colorful-beautiful-buildings-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/4axcym5n/Worlds-Most-Colorful-Buildingspng",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
