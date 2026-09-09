@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "09-09-2026 | 11:40 PM IST",
+    "lastUpdated": "10-09-2026 | 02:52 AM IST",
     "maharashtra": [
         {
             "id": "9cab6706105a",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "a9e114511f11",
+            "feed": "esakal",
+            "title": "iphoneच्या इतिहासात पहिल्यांदाच! Appleने लॉन्च केला पहिला फोल्डेबल iPhone Duo; मिळणार iPadसारखा अनुभव",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-10T00:08:35",
+            "url": "https://www.esakal.com/sci-tech/apple-launches-first-ever-foldable-iphone-duo-with-ipad-like-experience-a20-pro-chip-under-display-camera-new-hinge-apple-event-trending-news-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-09/ojo8lvfj/iPhone-Duo.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "38c7b6416289",
+            "feed": "maharashtratimes",
+            "title": "ॲपलचा मोठा धमाका! iPhone 18 Pro आणि पहिला फोल्डेबल 'iPhone Ultra' लाँच",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-09T23:45:51",
+            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/apple-event-2026-iphone-18-pro-series-and-foldable-iphone-ultra-officially-launched/articleshow/133979988.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "c263977c28be",
             "feed": "esakal",
             "title": "iPhone 18 Pro अन् Pro Max मध्ये Apple ने केला मोठा धमाका! 2nm चिप, जबरदस्त कॅमेरा अन् AI फीचर्सने वेधलं लक्ष; किंमत किती?",
@@ -130,38 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kareena-kapoor-spot-at-bhansali_2026091780825.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "46158797a1f4",
-            "feed": "lokmat",
-            "title": "निष्काळजी अभियंते निलंबित होणार, कंत्राटदार काळ्या यादीत; मुंबई-गोवा महामार्गाच्या विलंबावर नितीन गडकरींचा संताप",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-09T22:47:18",
-            "url": "https://www.lokmat.com/goa/negligent-engineers-will-be-suspended-contractors-blacklisted-nitin-gadkaris-anger-over-delay-in-mumbai-goa-highway-a-a804-c607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nitin-gadkari-4-goa_2026091780818.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "08f66713e113",
-            "feed": "lokmat",
-            "title": "गोव्यात 'ब्लॅक स्पॉट' आणि प्रमुख जंक्शन्सचा होणार अभ्यास; अपघातांचे प्रमाण रोखण्यासाठी वर्षभरात त्रुटी दूर करणार: मुख्यमंत्री",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-09T22:41:12",
-            "url": "https://www.lokmat.com/goa/black-spots-and-major-junctions-to-be-studied-in-goa-errors-to-be-fixed-within-a-year-to-prevent-accidents-chief-minister-a-a804-c607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pramod-sawant5t5_2026091780815.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
@@ -298,6 +298,38 @@
     ],
     "business": [
         {
+            "id": "33fc6fc760a8",
+            "feed": "maharashtratimes",
+            "title": "नेत्यांनाही चढली रेट्रो लूकची क्रेझ, AI नं तयार केले डॅशिंग फोटो, पीयूष गोयल अन् किरेन रिजिजूंचा लूक व्हायरल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-10T01:24:44",
+            "url": "https://maharashtratimes.com/viral/viral-news/ai-takes-politicians-back-to-the-80s-piyush-goyal-kiren-rijiju-share-retro-looks/articleshow/133982990.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "4ecfb5c193ee",
+            "feed": "lokmat",
+            "title": "ॲपलचा पहिला फोल्डेबल फोन 'iPhone Duo' लाँच; किंमत पाहून भोवळ नाही आली म्हणजे मिळविले...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-09T23:51:20",
+            "url": "https://www.lokmat.com/tech/apple-event-2026-apples-first-foldable-phone-iphone-duo-launched-the-company-spent-10-years-on-this-one-thing-know-the-price-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/apple-event-iphone-18-pro-max-2026-iphone-duo-price_2026091780834.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
             "id": "ea1ac164966e",
             "feed": "lokmat",
             "title": "आता काय विकायचे? iPhone 18 Pro आणि Pro Max ची भारतातील किंमत जाहीर झाली; 2TB स्टोरेजसह मिळणार तगडे फीचर्स",
@@ -312,38 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/apple-event-iphone-18-pro-max-2026-price-india_2026091780833.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "3f5a1951d30c",
-            "feed": "lokmat",
-            "title": "iPhone 18 Pro मध्ये फास्ट चार्जिंग, १५ मिनिटांत...! फोल्डेबल आयफोन अन् चार नवे रंग...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-09T23:17:18",
-            "url": "https://www.lokmat.com/tech/iphone-18-pro-launch-apple-event-2026-fast-charging-in-iphone-18-pro-in-15-minutes-foldable-iphone-and-four-new-colors-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/apple-event-iphone-18-pro-max-2026_2026091780827.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1d5bc59368d2",
-            "feed": "maharashtratimes",
-            "title": "स्वतःच्या खिशावर अन्याय करू नका! क्रेडिट कार्डवर आकारण्यात येणाऱ्या शुल्काबाबत RBI चे नियम",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-09-09T22:54:25",
-            "url": "https://maharashtratimes.com/business/business-news/rbi-rules-about-credit-card-additional-charges-surcharge-mdr-and-convenience-fee/articleshow/133977940.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
