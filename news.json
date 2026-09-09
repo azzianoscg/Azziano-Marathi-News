@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "09-09-2026 | 03:53 PM IST",
+    "lastUpdated": "09-09-2026 | 08:24 PM IST",
     "maharashtra": [
         {
-            "id": "4bd45d8bee23",
-            "feed": "lokmat",
-            "title": "Maratha Reservation: सकल मराठा समाजाने रोखला महामार्ग, कोल्हापुरात उदगाव-अंकली टोल नाक्यावर आंदोलन",
+            "id": "2f7c1afe7c8b",
+            "feed": "esakal",
+            "title": "Nanded News : नवसंशोधनाला मिळणार नांदेडची प्रयोगभूमी; ग्रामीण टेक्निकल कॅम्पसकडे ‘आविष्कार २०२६’ची धुरा!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-09T15:47:52",
-            "url": "https://www.lokmat.com/kolhapur/the-entire-maratha-community-blocked-the-highway-protested-at-the-udgaon-ankali-toll-plaza-in-kolhapur-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sudgaon-ankali-maratha-samaraj_2026091780379.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "70de13756f17",
-            "feed": "maharashtratimes",
-            "title": "मुंबईतच नाही महाराष्ट्रात मराठी बोलायला हवे; श्रेयस तळपदे थेट बोलले, DJ बाबत रोखठोक मत",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-09T15:43:18",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/shreyas-talpade-on-marathi-language-compulsion/videoshow/133963906.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "db95e4490f70",
-            "feed": "lokmat",
-            "title": "'माझ्या भाषेचे निमित्त करून पळ काढू नका'; छ. संभाजीनगरच्या बैठकीत षड्यंत्र रचले, जरांगेंचा आरोप",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-09T15:38:08",
-            "url": "https://www.lokmat.com/jalana/dont-use-my-language-as-an-excuse-to-escape-jarange-alleges-conspiracy-in-sambhajinagar-meeting-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jarange-maratha-12th-agitaion-jalana_2026091780355.jpg",
+            "published": "2026-09-09T20:21:06",
+            "url": "https://www.esakal.com/nanded/nanded-to-become-a-hub-for-innovation-rural-technical-campus-to-lead-avishkar-2026-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-09/mzi8659q/Hosting-rights-for-Avishkar-2026-awarded-at-state-level-workshop",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "e9660fccccc8",
+            "id": "fefd56245ff1",
             "feed": "lokmat",
-            "title": "‘अश्लील नृत्याला परवानगी देऊ नका; मात्र कलावंतांची कला रोखू नका’",
+            "title": "जेवणासाठी हॉटेलवर थांबले अन् चोरट्यांनी कारची काच फोडून साडेआठ लाख लांबवले",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-09T15:37:28",
-            "url": "https://www.lokmat.com/pune/dont-allow-obscene-dance-but-dont-stop-the-artists-art-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dance-0001_2026091780358.jpg",
+            "published": "2026-09-09T20:16:56",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/chhatrapati-sambhajinagar-jalna-highway-theft-car-window-smashed-outside-hotel-rs-85-lakh-cash-siphoned-off-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/car-lack-jalana-abd-cruime_2026091780757.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "28222dc5f5b9",
+            "id": "983d940c65b3",
             "feed": "lokmat",
-            "title": "कोल्हापूर जिल्ह्यात ई-पीक नोंदीकडे दुर्लक्ष, फक्त सहा टक्के खातेदारांची नोंद",
+            "title": "गौरी-गणपतीसाठी छत्रपती संभाजीनगर जिल्ह्यातील ३०७ एसटी कोकणात; प्रवाशांची गैरसोय होणार!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-09T15:36:13",
-            "url": "https://www.lokmat.com/kolhapur/neglect-of-e-peak-registration-in-kolhapur-district-only-six-percent-of-account-holders-registered-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/e-pik-nond_2026091780354.jpg",
+            "published": "2026-09-09T20:11:16",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/307-sts-in-chhatrapati-sambhajinagar-division-in-konkan-for-gauri-ganpati-passengers-will-be-inconvenienced-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/st-bus-abd-new-4aa_202202766072.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "f628a548c06c",
+            "feed": "lokmat",
+            "title": "लोणी काळभोरच्या सहायक पोलीस निरीक्षक ५० हजारांची लाच घेताना रंगेहात अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-09T20:11:04",
+            "url": "https://www.lokmat.com/pune/pune-news-assistant-police-inspector-of-loni-kalbhor-arrested-red-handed-while-taking-a-bribe-of-rs-50000-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bribe000_2026091780755.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b71963f9b7e4",
+            "feed": "esakal",
+            "title": "Ambad News : तलावात खांदेमळणीला गाय, बैल धूण्यासाठी गेलेल्या 17 वर्षीय सौरभ नरोडेचा पाण्यात बुडून मृत्यू; धनगरपिंपरीसह परिसरात हळहळ व्यक्त",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-09T20:10:08",
+            "url": "https://www.esakal.com/marathwada/17-year-old-saurabh-narode-drowns-while-washing-cattle-in-pond-grief-grips-dhangarpimpri-and-nearby-areas-ambad-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-09/8o1gv2fn/Saurabh-narode",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "be1a15364a60",
+            "id": "5af171be6c58",
             "feed": "esakal",
-            "title": "Marathi News Live Updates :  देशातील गर्दीच्या ७ रेल्वे मार्गांचे चौपदरीकरण करण्यास मंजुरी",
+            "title": "'बोक्या सातबंडे' चित्रपटात पेपर विकणाऱ्या अभिनेत्याला ओळखलंत का? आज मराठीसोबतच बॉलिवूडही गाजवतोय, कोण आहे हा?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-09T15:47:34",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-09-september-2026-tukaram-mundhe-fda-action-ganeshotsav-maharashtra-maratha-reservation-antarwali-sarati-manoj-jarange-hunger-strike-maratha-obc-reservation-supreme-court-hearing-on-shinde-faction-vidyanand-bapat-ganeshotsav-dj-controversy-election-commission-sir-india-weather-update-imd-pm-narendra-modi-rahul-gandhi-cm-devendra-fadnavis-farm-loan-waiver-gold-rate-mumbai-pune-traffic-update-srs92-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-23/dfelx3z1/Latest-Marathi-News-Live-Update",
+            "published": "2026-09-09T20:17:10",
+            "url": "https://www.esakal.com/premier/bokya-satbande-marathi-movie-nagraj-manjule-old-scene-sairat-fame-director-then-and-now-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-09/l0z8jxtf/nagraj-manjule-old-scene-in-bokya-satbande-movie-.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "9f251899b1a3",
-            "feed": "lokmat",
-            "title": "२० व्या वर्षी सोडली DSP ची नोकरी, लोकांनी उडवली खिल्ली; जिद्दीच्या जोरावर झाला डेप्युटी कलेक्टर",
+            "id": "71f763284b28",
+            "feed": "esakal",
+            "title": "मुघल बादशहांना कोणते घाणेरडे छंद होते?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-09-09T15:44:37",
-            "url": "https://www.lokmat.com/photos/national/success-story-of-prashant-uikey-who-left-dsp-job-at-20-cracked-mppsc-and-became-deputy-collector-inspiring-journey-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/prashant-uikey11_2026091780371.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5ed06ae44502",
-            "feed": "lokmat",
-            "title": "फ्रिजमध्ये मळून ठेवलेलं पीठ नक्की कधी खराब होते? पीठ किती तास टिकते, पाहा पिठाचा रंग काळा पडण्यामागचे खरे कारण!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-09T15:43:41",
-            "url": "https://www.lokmat.com/sakhi/food/chapati-dough-refrigerator-storage-roti-dough-fridge-how-long-how-long-does-kneaded-dough-last-in-fridge-homemade-chapati-dough-storage-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-keep-atta-dough-fresh-in-fridge_2026091780367.jpeg",
+            "published": "2026-09-09T20:16:20",
+            "url": "https://www.esakal.com/ampstories/web-story/mughal-emperors-controversial-habits-strange-lifestyle-historical-facts-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-09/1b64jlnr/Tt-3.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "cfe95fc4e1b1",
-            "feed": "lokmat",
-            "title": "लोक घराच्या छतावर पाण्याची बॉटल का ठेवतात? २६ वर्ष जुना हा उपाय नेमका कशासाठी, पाहा",
+            "id": "a52b52c53f4e",
+            "feed": "esakal",
+            "title": "VHP Garba Ban : गरब्यात मुस्लिमांना बंदी घालण्याच्या विश्व हिंदू परिषदेच्या मागणीला केंद्रीय मंत्र्यांचा विरोध; संविधानाचा दिला दाखला",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-09T15:43:16",
-            "url": "https://www.lokmat.com/sakhi/social-viral/why-should-placing-a-plastic-bottle-of-water-on-the-roof-know-this-hack-that-used-in-more-than-30-countries-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-09-at-3.23.33-pm_2026091780348.jpeg",
+            "published": "2026-09-09T20:10:52",
+            "url": "https://www.esakal.com/desh/ramdas-athawale-opposes-vhp-garba-ban-muslim-participation-reservation-constitution-statement-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-09/taxpopdg/38.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "5d33ca6cc601",
+            "id": "0d9d3ac5e5d4",
             "feed": "maharashtratimes",
-            "title": "MPSC Paper Leak Case: संशयाच्या धुक्यातील ‘लोकसेवा’",
+            "title": "Riteish Deshmukh : 'लोक म्हणतात तुम्ही पापाराझींना पैसे देता, पण मला पापाराझींकडून पैसे मिळालेत', असं का म्हणाला रितेश देशमुख?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-09T15:39:51",
-            "url": "https://maharashtratimes.com/editorial/dhavte-jag/pune-mpsc-aspirants-protest-against-paper-leak-demand-chairman-resign/articleshow/133963457.cms",
+            "published": "2026-09-09T20:08:15",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/riteish-deshmukh-shares-incident-of-paparazzi/articleshow/133972967.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "203faefd20cd",
+            "feed": "lokmat",
+            "title": "एकदा फोडलेला नारळ खराब होण्याचं टेंन्शन विसरा! ६ ट्रिक्स - नारळाचे तुकडे असो किंवा किसलेलं खोबरं राहील ताजं!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-09T20:05:02",
+            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-store-cut-coconut-how-to-keep-cut-coconut-fresh-how-to-store-half-coconut-how-to-store-coconut-for-longer-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-keep-cut-coconut-fresh_2026091780539.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "ee59396dffaa",
+            "id": "1a61e8a98bcd",
+            "feed": "maharashtratimes",
+            "title": "How Far Right AfD Became Political Power in Germany | Hitler ComeBack ची चर्चा का होतेय?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-09T19:42:33",
+            "url": "https://maharashtratimes.com/video/mt-originals/expl_germany-_1/videoshow/133972552.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "f994daefba01",
             "feed": "lokmat",
-            "title": "तुर्की-पाकिस्ताननं फिरवली पाठ, सौदीला वाचवायला कुणीच आलं नाही; कागदी वाघ ठरला इस्लामिक NATO?",
+            "title": "सौदी अरेबियाचा हुथींवर मोठा हल्ला! २४ तासांत ३२ एअर स्ट्राईक; येमेनच्या ४ प्रांतांत भीषण बॉम्बवर्षाव",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-09T15:46:35",
-            "url": "https://www.lokmat.com/international/houthis-strike-saudi-arabian-cities-in-significant-expansion-of-middle-east-war-where-is-pakistan-and-turkey-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/turkey-pakistan-macca1_2026091780375.jpg",
+            "published": "2026-09-09T19:29:00",
+            "url": "https://www.lokmat.com/international/saudi-arabia-launches-major-attack-on-houthis-32-air-strikes-in-24-hours-heavy-bombardment-in-4-provinces-of-yemen-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saudi-arabia-strikes-back-yemen-houthis_2026091780703.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9857d25d18ef",
+            "id": "a1910a317e30",
             "feed": "lokmat",
-            "title": "आता थांबायचं नाय! शाळकरी मुलांचा तीन तांसाचा प्रवास आता ३० मिनिटांत; चीनची कमाल, डोंगरात 'लिफ्ट' बसवली",
+            "title": "चीनचा रणगाडा फुटला...! बांगलादेशला कळून चुकले असेल, सरावावेळी दोन सैनिकांचा मृत्यू, एक अधिकारी गंभीर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-09T15:13:39",
-            "url": "https://www.lokmat.com/photos/international/china-has-built-a-288-metre-high-outdoor-panoramic-lift-in-yunnan-to-make-school-travel-easier-for-children-living-in-a-difficult-mountainous-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/china-thumbnil-shd28_2026091780325.jpg",
+            "published": "2026-09-09T19:21:22",
+            "url": "https://www.lokmat.com/international/bangladesh-army-tank-explosion-chinese-tank-explodes-bangladesh-must-have-missed-the-mark-two-soldiers-die-during-exercise-one-officer-is-critical-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bangladesh-army-tank-explosion-34_2026091780711.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4179e7442ee3",
-            "feed": "lokmat",
-            "title": "Nepal Flash Flood : मृतदेहांचा खच अन् नातेवाईकांच्या परतीची आशा... नेपाळ महापुरातील मृतांचा आकडा १,३६५ वर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-09T14:50:29",
-            "url": "https://www.lokmat.com/international/nepal-flash-flood-nepal-tibet-flash-flood-death-toll-update-rescue-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-flood-image-16_2026081771357.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "feca1899654f",
-            "feed": "lokmat",
-            "title": "नकाशावादावर अफगाणिस्तानची माघार! 'तो' भारताचा नकाशा असलेला व्हिडिओ हटवला; आता नव्या प्रोमोत काय?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-09T14:09:46",
-            "url": "https://www.lokmat.com/international/afghanistan-backs-down-on-map-mongering-deletes-pok-map-video-big-change-in-new-promo-marathi-news-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/afghanistan-india_2026091780225.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4f7881350c10",
+            "id": "88e0612fff86",
             "feed": "esakal",
-            "title": "पाकिस्तानातील 100 वर्षांची हिंदू वास्तू! पाडण्याचा झाला प्रयत्न; मात्र आज...",
+            "title": "\"कोण हिंदू? कोण मुस्लिम?\" धर्माच्या भिंती ओलांडून 'बाप्पा' पाकिस्तानात! मूर्ती घडवतानाचा व्हिडिओ होतोय व्हायरल; Viral Video",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-09T13:03:59",
-            "url": "https://www.esakal.com/ampstories/web-story/pakistan-100-year-old-hindu-gymkhana-karachi-heritage-building-demolition-attempt-history-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-09/9nx5qkcl/Pintrest.jpg",
+            "published": "2026-09-09T18:41:44",
+            "url": "https://www.esakal.com/trending-news/pakistan-ganeshotsav-karachi-muslim-artist-paints-ganesh-idol-breaks-religious-barriers-viral-video-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-09/m9og71k7/Pakistan-Ganeshotsav.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "d783cdc3aa03",
+            "feed": "maharashtratimes",
+            "title": "१ २ की ३ क्लोन कोण आहे? चेहरा, कपडे, उंची सगळंच एकसारखं, चित्र नीट पाहा आणि या कोड्याचं उत्तर द्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-09T16:55:50",
+            "url": "https://maharashtratimes.com/viral/viral-news/who-is-the-clone-look-closely-at-these-three-men-to-solve-the-puzzle/articleshow/133966675.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "54deb733730f",
+            "id": "b0afe15ed0ab",
+            "feed": "lokmat",
+            "title": "Jordan Hermann World Record : २४ वर्षीय पोराची वादळी खेळी; वनडे पदार्पणातच विश्वविक्रमाची बरोबरी!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-09-09T19:57:20",
+            "url": "https://www.lokmat.com/cricket/news/jordan-hermann-equals-world-record-highest-score-odi-debut-150-runs-south-africa-vs-namibia-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jordan-hermann-equals-world-record-highest-score-odi-debut-m_2026091780733.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "94174aa5d2d5",
+            "feed": "esakal",
+            "title": "ENG vs PAK, Test: ७ खेळाडूंची हकालपट्टी तरी पाकिस्तानचा इंग्लंडने उडवला फज्जा! बाबर आझमही फ्लॉप, १३३ धावांत गुंडाळला संघ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-09T19:52:37",
+            "url": "https://www.esakal.com/krida/cricket/england-bowl-out-pakistan-for-133-in-third-test-1st-innings-despite-mass-sacking-of-seven-players-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-09/cfmy738w/Pakistan-All-Out-For-133.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "10104b3c9006",
             "feed": "maharashtratimes",
-            "title": "Team India Coach : 'टीम इंडियाचा कोच झाल्यावर माझी बायको मला घटस्फोट देईल'; माजी क्रिकेटर आशिष नेहरा असं का म्हणाला?",
+            "title": "Duleep Trophy Final 2026 : दुलीप ट्रॉफी फायनल मॅचचा उद्या शेवटचा दिवस, अनिर्णित राहूनही एक संघ होणार विजयी; 1 नियम ठरणार गेमचेंजर",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-09-09T15:20:13",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-former-player-ashish-nehra-talk-about-indian-cricket-head-coach/articleshow/133961652.cms",
+            "published": "2026-09-09T19:46:48",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/duleep-trophy-2026-if-final-match-draw-then-who-will-win-east-zone-or-south-zone/articleshow/133972334.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "84c28c724881",
-            "feed": "lokmat",
-            "title": "Duleep Trophy Final 2026 : चेपॉकवरील मॅच ड्रॉ झाली तर चॅम्पियन कोण? काय सांगतो BCCI चा नियम?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-09T15:15:54",
-            "url": "https://www.lokmat.com/cricket/news/if-duleep-trophy-final-2026-is-draw-who-will-win-and-lift-trophy-east-zone-or-south-zone-bcci-rules-explained-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/if-duleep-trophy-final-2026-is-draw-who-will-win-and-lift-trophy-east-zone-or-south-zone-m-1_2026091780324.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c305a2a76b83",
-            "feed": "lokmat",
-            "title": "निवृत्त झाला, काळ बदलला, पण सचिनची ब्रँड व्हॉल्यू कायम, विराटलाही देतोय टक्कर, आकडे वाचून विस्फारतील डोळे",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-09T14:48:53",
-            "url": "https://www.lokmat.com/cricket/news/retired-times-have-changed-but-sachins-brand-value-remains-he-is-also-giving-competition-to-virat-eyes-will-widen-after-reading-the-figures-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sachin-tendulkar-1_2026091780276.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "62918cc03e5f",
+            "id": "b8033bd4c3bd",
+            "feed": "maharashtratimes",
+            "title": "इजा बिजा तिजा! 3 महत्त्वाचे सागरी मार्ग संकटात; 40% व्यापारावर टांगती तलवार, धोका वाढला!",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-09-09T19:57:39",
+            "url": "https://maharashtratimes.com/business/business-news/hormuz-strait-bab-al-mandab-panama-canel-3-important-sea-routes-crisis/articleshow/133972426.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bc74c24a7196",
             "feed": "lokmat",
-            "title": "Pradhan Mantri Awas Yojana 2.0: या योजनेच्या लाभांसाठी कोण पात्र आहे आणि 'पीएम आवास योजना २०२६' ची यादी कशी तपासावी?",
+            "title": "Agriculture News : नवीन आकृतीबंध ठरला वादग्रस्त : बंद कार्यालये तालुका व जिल्हा कार्यालयांना जोडणार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-09-09T15:38:08",
-            "url": "https://www.lokmat.com/business/news/pradhan-mantri-awas-yojana-2-0-who-is-eligible-for-the-benefits-of-this-scheme-and-how-to-check-the-list-of-pm-awas-yojana-2026-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pm-awas-yojana-2-new_2026081765917.jpg",
+            "published": "2026-09-09T19:46:04",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/new-structure-turns-out-to-be-controversial-closed-offices-will-be-connected-to-taluka-and-district-offices-a-a932-c993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-09-at-7.41.13-pm_2026091780729.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "96861edec710",
-            "feed": "maharashtratimes",
-            "title": "L&T - Reliance Controversy: हातात येऊनही धीरूभाई अंबानींचे L&T काबीज करण्याचे स्वप्न अपूर्ण, जिंकणाऱ्या माणसाच्या पराभवाचा ऐतिहासिक किस्सा",
+            "id": "3d014875ed97",
+            "feed": "esakal",
+            "title": "Premium|Study Room : कॉर्पोरेट प्रशासनात नैतिकता का महत्त्वाची आहे?",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-09-09T15:23:56",
-            "url": "https://maharashtratimes.com/business/business-news/corporate-battle-story-dhirubhai-ambani-larsen-and-toubro-takeover-attempt-how-reliance-suffer-historic-defeat/articleshow/133962483.cms",
-            "image": "",
+            "published": "2026-09-09T19:29:20",
+            "url": "https://www.esakal.com/study-room/ethical-corporate-governance-transparency-accountability-business-management-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-09/05idsfbb/Abhi-2026-09-09T192711.058.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "57ad54159017",
-            "feed": "maharashtratimes",
-            "title": "कच्च्या तेलाच्या किंमती 100 डॉलरच्या पार! चीनची एक हरकत अन् भारतासाठी महागाईचा धोका वाढणार",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-09-09T15:22:41",
-            "url": "https://maharashtratimes.com/business/business-news/brent-crude-oil-price-reached-100-dollar-china-oil-demand-india-impact/articleshow/133960418.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         }
     ]
 }
