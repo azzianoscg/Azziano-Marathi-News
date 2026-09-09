@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "10-09-2026 | 02:52 AM IST",
+    "lastUpdated": "10-09-2026 | 05:10 AM IST",
     "maharashtra": [
         {
             "id": "9cab6706105a",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "757499b1c2c2",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 10 September 2026: मूलांक 4 व्यवसायात सावध राहा! मूलांक 9 हुशारीचे कौतुक, घरात आनंद! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-10T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-10-september-pithori-amavasya-durudhra-yog-ank-bhavishya-prediction-in-marathi/articleshow/133976077.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "a9e114511f11",
             "feed": "esakal",
             "title": "iphoneच्या इतिहासात पहिल्यांदाच! Appleने लॉन्च केला पहिला फोल्डेबल iPhone Duo; मिळणार iPadसारखा अनुभव",
@@ -144,22 +160,6 @@
             "published": "2026-09-09T23:16:45",
             "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-10-september-in-marathi-pithori-amavasya-2026-pola-durudhara-yog-and-shubha-muhurta/articleshow/133975132.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e375e691a3b4",
-            "feed": "lokmat",
-            "title": "संजय लीला भन्साळींच्या ऑफिसबाहेर स्पॉट झाली करीना कपूर; करणार एकत्र काम?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-09T23:08:48",
-            "url": "https://www.lokmat.com/filmy/bollywood/kareena-kapoor-spotted-outside-sanjay-leela-bhansalis-office-will-they-work-together-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kareena-kapoor-spot-at-bhansali_2026091780825.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
