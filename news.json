@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "09-09-2026 | 03:40 AM IST",
+    "lastUpdated": "09-09-2026 | 06:22 AM IST",
     "maharashtra": [
+        {
+            "id": "45479c752621",
+            "feed": "esakal",
+            "title": "पाच हजारांची लाच लाच घेताना \nपीएसआय, अंमलदार जाळ्यात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-09T01:15:31",
+            "url": "https://www.esakal.com/marathwada/aurangabad/police-bribery-mukundwadi",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/srrnbq78/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "e5314e9353c0",
             "feed": "maharashtratimes",
@@ -16,6 +32,22 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "3401ba4e414c",
+            "feed": "esakal",
+            "title": "धनंजय मुंडेंची मागणी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-09T00:16:47",
+            "url": "https://www.esakal.com/marathwada/aurangabad/urgent-cabinet-meeting-drought-chhatrapati-sambhajinagar",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/k6lkx8e0/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "url"
         },
         {
             "id": "c59470cea1e6",
@@ -48,123 +80,107 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-08/b1fyn1ne/Malwadi-Villagers-Oppose-Kalyan-Latur-Highway-Project",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "1fde584f0477",
-            "feed": "esakal",
-            "title": "Pune Crime: ऑटोरिक्षातून ज्येष्ठ नागरिकांना लुटणारी आंतरजिल्हा टोळी गजाआड; १५ लाखांचे सोन्याचे दागिने जप्त",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-08T23:21:02",
-            "url": "https://www.esakal.com/pune/pune-samarth-police-inter-district-gang-targeting-senior-citizens-auto-rickshaw-gold-chain-theft-jalgaon-criminals-shakir-teli-mohsin-khan-ismail-raju-sheikh-ganesh-memory-15-lakh-gold-jewellery-singhagad-road-kalepadal-wanowrie-bundgarden-pimpri-chinchwad-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/1ga16tlw/Esakal-62.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "61659dd84beb",
-            "feed": "maharashtratimes",
-            "title": "Kurla Ganesh Murti : बाप्पाच्या आगमनादरम्यान 15 फुटी गणेश मूर्ती कोसळली, कुर्ला येथील घटना, दोन जखमी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-08T23:00:28",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/ganesh-idol-fall-in-kurla-while-being-taken-to-dharavi-two-injured/articleshow/133934225.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "909b4688beab",
-            "feed": "esakal",
-            "title": "शुभमन गिलच्या नावावर असलेले हे विश्वविक्रम माहित आहेत का?",
+            "id": "93717c80004c",
+            "feed": "lokmat",
+            "title": "स्पर्धा परीक्षेच्या विद्यार्थ्यांना मोफत ऑनलाइन कोचिंग देण्याचा विचार : पंतप्रधान नरेंद्र मोदी",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
             },
-            "published": "2026-09-09T01:14:52",
-            "url": "https://www.esakal.com/ampstories/web-story/india-test-odi-captain-shubman-gill-world-record-youngest-double-century-4000-ipl-runs-fastest-odi-runs-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/dikznzmi/Shubman-Gill-2.jpg",
+            "published": "2026-09-09T06:06:42",
+            "url": "https://www.lokmat.com/national/pm-modi-announces-plans-for-free-online-coaching-to-lighten-financial-burden-on-competitive-exam-aspirants-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pm-modi-at-vadodara_2026091779963.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "770fdbe59715",
+            "id": "9cdd0f1f14b3",
+            "feed": "lokmat",
+            "title": "२१ राज्यांत वादळी वारे अन् मुसळधार पाऊस, भारतीय हवामान विभागाचा नवा अलर्ट जारी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-09-09T06:02:23",
+            "url": "https://www.lokmat.com/national/imd-weather-alert-heavy-rain-and-gusty-winds-forecast-across-21-states-from-sept-9-to-12-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bihar-flood-river_2026091779961.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a8b339decc3f",
             "feed": "esakal",
-            "title": "फोडलेला नारळ किती दिवसात खराब होतो?",
+            "title": "आजचे राशिभविष्य ९ सप्टेंबर २०२६! 'या' राशींना धनलाभाची शक्यता",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-09T00:00:00",
-            "url": "https://www.esakal.com/ampstories/web-story/how-many-days-coconuts-fresh-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/u9mti9dy/coconut.jpg",
+            "published": "2026-09-09T06:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/horoscope-today-september-9-2026-financial-gains-these-signs-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/e44k48hy/1.jpg.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "5b8881aed816",
+            "id": "07b86dd2eafc",
             "feed": "maharashtratimes",
-            "title": "<b>पंचांग 9 September 2026: बुध पूजन, द्विग्रह योग, भद्र राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "title": "बॅटरीचा महाब्लास्ट! 10,000mAh बॅटरीसह 15 सप्टेंबरला येतोय Redmi Note 17 Pro Max 5G",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-08T23:39:16",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-9-september-in-marathi-dvigrah-yog-bhadra-rajyog-and-shubha-muhurta/articleshow/133934593.cms",
+            "published": "2026-09-09T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/redmi-note-17-pro-max-5g-india-launch-confirmed-for-september-15-with-massive-10000mah-battery/articleshow/133921231.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "7d34161a902d",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 9 सप्टेंबर 2026 : चंद्र गोचर देणार या राशींना डबल धमाका,मालमत्ता वाढीचे बनणार योग ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-09T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-9-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/133925978.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "51ff14c0a6cf",
-            "feed": "esakal",
-            "title": "मुघलांच्या राजदरबारात जेवण वाढण्याची पद्धत कशी होती?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-08T22:22:33",
-            "url": "https://www.esakal.com/ampstories/web-story/mughal-emperors-royal-court-food-serving-tradition-dining-customs-shahi-khana-darbar-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/74wo9822/11.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e115aa983d35",
-            "feed": "esakal",
-            "title": "Ganesh Utsav 2026: महाराष्ट्रापासून मिझोरमपर्यंत! कशी साजरी होते गणेश चतुर्थी? जाणून घ्या वेगवेगळ्या राज्यांतील अनोख्या परंपरा!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-08T22:03:44",
-            "url": "https://www.esakal.com/culture-and-religion/ganesh-utsav-2026-unique-traditions-across-different-indian-states-marathi-news-ganapati-bappa-ganesh-chaturthi-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-08/wjpbcl4w/Ganesh-Utsav-2026-Across-India-State-Wise-Rituals-Traditions.png",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "world": [
+        {
+            "id": "1326f1645bfd",
+            "feed": "lokmat",
+            "title": "महिलांशी भेदभाव; हिंदू गटाच्या मागणीनंतर निषेध म्हणून आयफेल टॉवर बंद",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-09T06:13:08",
+            "url": "https://www.lokmat.com/international/discrimination-against-women-eiffel-tower-closed-in-protest-after-hindu-group-demands-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hindu-group-eiffel-tower-visit_2026091779965.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "9cfc28bd95ac",
             "feed": "lokmat",
@@ -228,22 +244,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "d1abd58b8faf",
-            "feed": "maharashtratimes",
-            "title": "12 हजार फुटांवरून उडी, पॅराशूट उघडलंच नाही; हवेत बेशुद्ध पडूनही महिला चमत्कारिकपणे वाचली",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-08T16:43:07",
-            "url": "https://maharashtratimes.com/international/international-news/skydiver-miraculously-survives-12000-ft-fall-after-being-knocked-unconscious-mid-air/articleshow/133921599.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "d41eb5158662",
+            "feed": "esakal",
+            "title": "9 September 2026 Numerology Prediction : 9 सप्टेंबरचा दुर्मिळ योग! सूर्य, मंगळ अन् बुधाच्या कृपेने 'या' 3 मूलांकांना मिळणार बंपर पैसा, नव्या संधींचे मार्ग होणार खुले?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-09T06:00:00",
+            "url": "https://www.esakal.com/horoscope/9-september-2026-numerology-prediction-lucky-numbers-birth-number-1-5-9-money-career-business-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-08/ob3slfxl/numerology-prediction-for-September-9-2026",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "adddee9a424d",
             "feed": "lokmat",
             "title": "EV की CNG कार, कोणता पर्याय ठरेल सर्वात स्वस्त? चालवण्याच्या खर्चात किती आहे फरक?",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rbi-bank-l_2026091779943.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "10380bd0688d",
-            "feed": "lokmat",
-            "title": "पिकांत फवारणी करतांना सुरक्षा साहित्याकडे दुर्लक्ष करणे भोवले; 'या' जिल्ह्यातील १५८ शेतकऱ्यांना विषबाधा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-08T19:56:41",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/ignoring-safety-equipment-while-spraying-crops-158-farmers-in-this-district-get-poisoned-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-u-34-u-farmer_2026091779901.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
