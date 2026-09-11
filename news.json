@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "11-09-2026 | 11:30 PM IST",
+    "lastUpdated": "12-09-2026 | 02:12 AM IST",
     "maharashtra": [
+        {
+            "id": "970c82c440fb",
+            "feed": "lokmat",
+            "title": "अंगावर खरकटे फेकल्याचा जाब विचारला: स्थानिक कुटुंबावर परप्रांतीयांचा शस्त्रास्त्रांनी हल्ला: १३ परप्रांतीयांना अटक : उरण पोलिसांची कारवाई",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-12T00:54:52",
+            "url": "https://www.lokmat.com/raigad/asked-for-an-answer-for-throwing-stones-at-people-migrants-attack-local-family-with-weapons-13-migrants-arrested-uran-police-take-action-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/uran-345_2026091782255.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "41e2dc861914",
             "feed": "maharashtratimes",
@@ -64,25 +80,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-11/g1n42v26/Agriculture-Employee-Strike",
             "isBreaking": false,
             "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "bd4b12da8394",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 12 सप्टेंबर 2026 : भाद्रपदची सुरुवात या राशींसाठी ठरणार भाग्यशाली दिवस असणार लकी ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-12T00:01:55",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-12-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134085167.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
         },
         {
-            "id": "2faf32558871",
+            "id": "8963d7ae4e3f",
             "feed": "esakal",
-            "title": "पुण्यातील हे मंदिर तब्बल २०० वर्षे जुनं! नावामागची कहाणी जाणून घ्या",
+            "title": "1980s चा ट्रेंड, पण तो काळ गाजवलेले वर्ल्ड चॅम्पियन्स क्रिकेटर्स कसे दिसायचे?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-11T22:34:32",
-            "url": "https://www.esakal.com/ampstories/web-story/this-pune-temple-is-nearly-200-years-old-the-fascinating-history-of-bhikardas-maruti-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-11/9fvuqq8v/aarti-badade-web-4.jpg",
+            "published": "2026-09-11T23:39:56",
+            "url": "https://www.esakal.com/ampstories/web-story/real-1980s-retro-look-kapil-dev-sunil-gavaskar-indian-champion-cricketers-1983-world-cup-victory-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-11/bfgfss5v/Vintage-Look-of-India’s-Legendary-1983-World-Champions-10.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        }
-    ],
-    "india": [
+        },
         {
             "id": "f7b157e6a06c",
             "feed": "esakal",
@@ -130,38 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-11/93vvmcnn/Srushti-Marathe-99.png",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "895957b751f8",
-            "feed": "esakal",
-            "title": "Latest Marathi News Update : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर....",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-11T22:03:07",
-            "url": "https://www.esakal.com/desh/maharashtra-marathi-live-news-11-sept-2026-mass-food-distribution-notification-form-weather-update-imd-rain-forecast-parliament-monsoon-session-nda-bjp-congress-pm-modi-jantar-mantar-protest-cjp-gold-silver-rate-share-market-devendra-fadnavis-eknath-shinde-sunetra-pawar-sports-entertainment-politics-finance-trending-viral-news-updates-srs92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ec6ef569c925",
-            "feed": "maharashtratimes",
-            "title": "Suvrat Joshi: 'प्रचंड मानसिक ताण होता,  नैराश्याच्या दरीत कोसळणार होतो, पण आयुष्य पालटले', सुव्रत जोशीची पोस्ट चर्चेत",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-11T22:01:11",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/suvrat-joshi-share-post-about-hard-times-and-dr-babasaheb-ambedkar-and-buddha-impact-on-life/articleshow/134078022.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
@@ -248,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "844e444b396f",
+            "feed": "maharashtratimes",
+            "title": "Asia Cup Final 2026 : आशिया कपच्या फायनलमध्ये श्रीलंकेची धडक, पाकिस्तानला धोबीपछाड; भारत वि. श्रीलंका पुन्हा आमने-सामने",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-09-12T00:01:24",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/sri-lanka-women-beat-pakistan-by-4-wickets-reach-asia-cup-final-2026/articleshow/134084705.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5eb05fd20078",
+            "feed": "lokmat",
+            "title": "IND vs SL Women's Asia Cup 2026 Final: ठरलं! पाकिस्तानचा खेळ खल्लास; श्रीलंका-भारत जेतेपदासाठी भिडणार!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-09-11T23:33:02",
+            "url": "https://www.lokmat.com/cricket/news/womens-asia-cup-2026-final-confirmed-defending-champions-sri-lanka-to-face-india-in-final-pakistan-out-of-title-race-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/womens-asia-cup-2026-ind-vs-sl-final-confirmed-m-1_2026091782254.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "1e9b401b6018",
             "feed": "maharashtratimes",
             "title": "Mohammed Siraj : 'मला जास्त आराम देऊ नका, माझा फॉर्म जातो'; मोहम्मद सिराज जाहीरपणे स्पष्टच बोलला",
@@ -260,38 +292,6 @@
             "published": "2026-09-11T23:03:33",
             "url": "https://maharashtratimes.com/sports/cricket/cricket-news/mohammed-siraj-big-statement-after-duleep-trophy-dont-rest-me-too-much-i-lose-my-form/articleshow/134081158.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e961b8240633",
-            "feed": "maharashtratimes",
-            "title": "Ajinkya Rahane : 'वैभव सूर्यवंशीला ड्रॉप करत मॅचविनर खेळाडूला प्लेइंग 11 मध्ये उतरवा'; अजिंक्य रहाणेने कोणाचं नाव घेतलं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-09-11T21:44:07",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ajinkya-rahane-advises-dropping-vaibhav-suryavanshi-to-bring-sanju-samson-into-playing-11/articleshow/134075574.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "23d6dede78ff",
-            "feed": "esakal",
-            "title": "काय राव, सगळ्या DRSचं क्रेडिट तू घेतलंस! ईशान किशन किशनने वैभवला चिडवलं; १५ वर्षांच्या पठ्ठ्यानेही लगेच दिलं भन्नाट उत्तर, नेमकं काय घडलं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-11T19:48:56",
-            "url": "https://www.esakal.com/krida/cricket/ishan-kishan-vaibhav-sooryavanshi-drs-duleep-trophy-funny-reply-15-year-old-leadership-future-india-captain-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-11/qoux8s8b/virat-kohli-yeknath-sinde-1.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
