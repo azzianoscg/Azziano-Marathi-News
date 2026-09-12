@@ -1,349 +1,317 @@
 {
-    "lastUpdated": "12-09-2026 | 10:45 AM IST",
+    "lastUpdated": "12-09-2026 | 03:17 PM IST",
     "maharashtra": [
         {
-            "id": "9528a9d88ddb",
+            "id": "5eadf619c6df",
             "feed": "esakal",
-            "title": "Chhatrapati Sambhajinagar News : शिक्षण संचालकांसह एसआयटीचा ‘पंचतारांकित’ पाहुणचार! शासकीय विश्रामगृहाला बगल देत हॉटेलमध्ये मुक्काम, नामांकित केटरर्सकडून शाहीभोज",
+            "title": "सर्वोदय शिक्षण संस्थेचे दप्तर गहाळ",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-09-12T10:42:58",
-            "url": "https://www.esakal.com/marathwada/aurangabad/five-star-hospitality-for-sit-team-including-education-director-hotel-stay-instead-of-government-guest-house-lavish-meals-from-renowned-caterers-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/8zlbnq7f/Five-Star-Hospitality-for-SIT-Team-Including-Education-Director-Hotel-Stay-Instead-of-Government-Guest-House",
+            "published": "2026-09-12T16:59:11",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/todays-latest-marathi-news-csg26b02152-txt-distjaltdy3-20260912055911",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/slia68ze/Sakal_Wesite_Banner_1200_x_675.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "faf2ff76eb0a",
+            "id": "5cb530f03388",
             "feed": "maharashtratimes",
-            "title": "Manoj Jarange Protest | 'मुंबईला येऊ देऊ नका',सरकारला मराठ्यांचा शेवटचा इशारा | Jalna",
+            "title": "Manoj Jarange | मुंबई मोर्चाचं ठरलं ! फडणवीस, शिंदेंना थेट आव्हान, 'आम्हाला अडवलं तर सरकार पडणार'",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-12T10:39:13",
-            "url": "https://maharashtratimes.com/maharashtra/jalna/maratha-on-manoj-jarange-patil-antarwali-protest/videoshow/134109828.cms",
+            "published": "2026-09-12T15:10:33",
+            "url": "https://maharashtratimes.com/maharashtra/jalna/manoj-jarange-on-mumbai-maratha-andolan/videoshow/134122251.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b80a509600af",
+            "id": "595d9698d76f",
+            "feed": "maharashtratimes",
+            "title": "Manoj Jarange Patil: मनोज जरांगे पाटील यांची मुंबईकडे कूच करण्याची तारीख जाहीर; राज्यभरातील मराठा बांधवांना महत्त्वाचं आवाहन",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-12T15:09:32",
+            "url": "https://maharashtratimes.com/maharashtra/jalna/manoj-jarange-patil-heads-towards-mumbai-hunger-strike-at-azad-maidan-from-september-19/articleshow/134121962.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "39aa91cf7e89",
             "feed": "esakal",
-            "title": "Caste Validity Certificate : जातवैधता प्रमाणपत्राचा आग्रह न धरता तात्पुरता प्रवेश द्या; उच्च न्यायालयाकडून अंतरिम दिलासा",
+            "title": "Girna Dam Water Storage : नाशिक अन् गुजरातच्या पावसाने गिरणा धरण फुल्ल! 21 हजार हेक्टर शेती फुलणार; काय आहे ताजी स्थिती?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-12T10:35:39",
-            "url": "https://www.esakal.com/marathwada/aurangabad/grant-provisional-admission-without-insisting-on-caste-validity-certificate-high-court-grants-interim-relief-tribal-student-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-11/wwig3w3s/mumbai-high-court",
+            "published": "2026-09-12T15:08:11",
+            "url": "https://www.esakal.com/jalgaon/girna-dam-water-storage-97-percent-jalgaon-nashik-rainfall-water-update-rabi-crops-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/wej3glmr/Girna-Dam-Water-Storage",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "54e8b96546d2",
+            "id": "7b27235050f8",
             "feed": "esakal",
-            "title": "Ganesh Chaturthi 2026 : यंदा गणराया 12 दिवसांसाठी मुक्कामी, नऊ वर्षांनी योग; हरितालिका-गणेश चतुर्थी एकाच दिवशी, उपवास कधी सोडायचा?",
+            "title": "Baramati News : बारामतीत संवेदनशील समुपदेशनातून मिसिंग तरुणी आई-वडिलांच्या कुशीत",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-12T10:35:06",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/ganesh-chaturthi-2026-hartalika-teej-same-day-puja-muhurat-tithi-timing-ganesh-sthapana-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/8275cg4e/Ganesh-Chaturthi-2026-Puja-Muhurat-and-Hartalika-Vrat",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3c4dcdcc233a",
-            "feed": "lokmat",
-            "title": "पत्नीला प्रसूतीसाठी माहेरी सोडून परतताना काळाचा घाला; मंचर बायपासवर इको दरीत कोसळून दोघांचा मृत्यू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-12T10:30:16",
-            "url": "https://www.lokmat.com/pune/while-returning-home-after-leaving-his-wife-for-delivery-a-blackout-occurred-two-died-after-falling-into-the-echo-valley-on-manchar-bypass-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-accident-manchar-4_2026091782308.jpg",
+            "published": "2026-09-12T15:06:52",
+            "url": "https://www.esakal.com/pune/missing-young-woman-reunited-with-parents-in-baramati-through-sensitive-counselling-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/dopqkok8/Young-Woman-Counselling",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "f2d9f7c4f204",
+            "id": "61bf44d467fc",
             "feed": "esakal",
-            "title": "बिग अलर्ट! या तारखेपासून सुरू होणार Flipkart Big Billion Days सेल; iPhone वर मोठ्या डिस्काउंटची शक्यता",
+            "title": "संतांच्या विचारांचा प्रसार करावा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-12T10:23:50",
-            "url": "https://www.esakal.com/sakal-money/flipkart-big-billion-days-sale-2026-date-iphone-discount-offers-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/axswljpo/Copy-of-Copy-of-banner-2026-09-12T101321.078.jpg",
+            "published": "2026-09-12T15:01:13",
+            "url": "https://www.esakal.com/pimpri-chinchwad/todays-latest-marathi-news-pne26w20040-txt-pc-today-20260912093113",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/53sl9o5n/Banner2.png",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "ada4ed9a5cf7",
+            "id": "fa1556838c05",
             "feed": "lokmat",
-            "title": "सिनेमातील कलाकारांचा एक 'क्लास' आहे, टीव्ही इंडस्ट्री 'डस्टबिन मीडियम'..., अभिनेत्याचं विधान चर्चेत",
+            "title": "१४ वर्षीय मुलीने शाळेच्या प्रोजेक्टसाठी खोदला खड्डा; ९ वर्षांनी तिथलं बदलेलं चित्र पाहून सगळे थक्क",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-12T10:16:30",
-            "url": "https://www.lokmat.com/filmy/bollywood/rohit-roy-mentions-tv-industry-as-dustbin-medium-makes-fun-of-tv-actors-and-praises-film-stars-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rohit-tv_2026091782302.jpg",
+            "published": "2026-09-12T15:00:10",
+            "url": "https://www.lokmat.com/jarahatke/a-14-year-old-virginia-girl-dug-a-backyard-pond-for-a-school-project-9-years-later-it-has-become-a-thriving-wildlife-ecosystem-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jarahatke-sh181z9_2026091782573.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "6d872a1c26c3",
+            "id": "05d887f95df1",
             "feed": "esakal",
-            "title": "बापरे! पूनम धिल्लो अन् पद्मिनी कोल्हापुरेंविरोधात अभिनेत्रीची पोलीस तक्रार; नेमकं काय घडलं?",
+            "title": "कडू दोडका रोज खाल्ला तर काय होईल?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-12T10:07:51",
-            "url": "https://www.esakal.com/premier/upasana-singh-alleges-poonam-dhillon-padmini-kolhapure-cintaa-documents-tempo-police-complaint-video-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/8miejwtl/CINTAA-DOCUMENTS-REMOVAL-CONTROVERSY-VIRAL-VIDEO",
+            "published": "2026-09-12T14:58:51",
+            "url": "https://www.esakal.com/ampstories/web-story/health-benefits-of-ridge-gourd-dodka-nutrition-tips-is-it-safe-to-eat-bitter-ridge-gourd-regularly-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/vf2ykdoh/Health-Benefits-of-Ridge-Gourd-Dodka.png",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "f26725623d78",
+            "id": "d63b3e6c33ea",
             "feed": "maharashtratimes",
-            "title": "Vivo X500 सीरिज नव्या कॅमेरा डिझाईनसह 21 सप्टेंबरला येणार, अधिकृत फोटो चर्चेत",
+            "title": "चोरीच्या भितीनं केलेला उपाय चिमुकल्याच्या जीवावर बेतला; शेजाऱ्याच्या दारात पाऊल ठेवताच तडफडून अंत",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-12T09:55:57",
-            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/vivo-x500-design-officially-revealed-bold-camera-module-and-stunning-colors-unveiled/articleshow/134107962.cms",
+            "published": "2026-09-12T14:53:55",
+            "url": "https://maharashtratimes.com/india-news/up-deoria-child-died-two-injured-due-to-electrocution-police-arrest-neighbour/articleshow/134120567.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "57fb8a552ed4",
+            "id": "d118e67b4aa3",
             "feed": "lokmat",
-            "title": "डेंग्यूचा डास चावण्याचा धोका 'यावेळी' सगळ्यात जास्त, बघा कधी घ्यायला हवी जास्त खबरदारी",
+            "title": "घरात झुरळांचा सुळसुळाट झालाय? चमचाभर हळदीचा १ कमाल उपाय, कायमची दूर होतील झुरळं",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-12T09:50:02",
-            "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/the-risk-of-dengue-mosquito-bites-is-highest-at-this-time-see-when-you-should-take-extra-precautions-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-11-at-13.53.13_2026091782168.jpeg",
+            "published": "2026-09-12T14:50:34",
+            "url": "https://www.lokmat.com/sakhi/social-viral/cockroach-problem-at-home-try-these-easy-turmeric-based-home-remedies-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-12-at-11.55.18-am_2026091782556.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "91bb99811c60",
+            "id": "5bf776c3813e",
             "feed": "lokmat",
-            "title": "हुती बंडखोरांच्या हल्ल्यानंतर सौदी अरेबियाचा मोठा निर्णय; होर्मुझनंतर सर्वात मोठी ऑइल एक्सपोर्ट करणारी 'लाइफलाइन' बंद!",
+            "title": "राफेल अन् F-35 पेक्षाही वेगवान! भारताच्या पक्‍क्या मित्रानं दिली जबरदस्त ऑफर, पाकिस्तानचं टेन्शन वाढणार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-12T10:13:10",
-            "url": "https://www.lokmat.com/international/saudi-arabias-big-decision-after-houthi-rebel-drone-attack-after-hormuz-shuts-down-east-west-oil-pipeline-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saudi-arabia-closes-east-west-pipeline_2026091782300.jpg",
+            "published": "2026-09-12T14:25:11",
+            "url": "https://www.lokmat.com/international/faster-than-rafale-and-f-35-russia-offers-177s-jet-engine-su57-fighter-jet-to-india-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/su57_2026091782546.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e4bbebb257ef",
+            "id": "f283444ee0f9",
             "feed": "lokmat",
-            "title": "“मी लंडनला आलोय हे कळताच विराट कोहली भेटायला आला”; काय बोलणे झाले? एकनाथ शिंदे म्हणाले...",
+            "title": "३००० किमी दूर संघर्षामुळे भारतावर आर्थिक संकटाचं सावट?; तेलाच्या किंमतीसह निर्यातीला बसणार फटका",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-12T08:08:32",
-            "url": "https://www.lokmat.com/international/indian-star-cricketer-virat-kohli-meets-maharashtra-deputy-cm-eknath-shinde-in-london-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eknath-shinde-meet-virat-kohli-in-london_2026091782269.jpg",
+            "published": "2026-09-12T14:12:15",
+            "url": "https://www.lokmat.com/photos/international/conflict-3000-km-away-threatens-india-with-economic-crisis-exports-will-be-hit-along-with-oil-prices-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/babal-strain-houthis-india-effecet_2026091782524.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c878ffdb8fbb",
-            "feed": "lokmat",
-            "title": "इस्रायलने हिजबुल्लाहच्या तळावर घडवला ‘भूकंप’; लेबनॉनमध्ये १,१०० टन स्फोटकांनी बोगदाच उडवला",
+            "id": "abfef6ff77c0",
+            "feed": "esakal",
+            "title": "Premium|Coffee Culture Around the World : जगभरातील कॉफीकथा; भावना आणि परंपरांची गोष्ट",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-09-12T05:50:59",
-            "url": "https://www.lokmat.com/international/israel-created-an-earthquake-at-hezbollah-base-blew-up-a-tunnel-with-1100-tons-of-explosives-in-lebanon-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/israel-attacks-lebanon_2026091782258.jpg",
+            "published": "2026-09-12T11:32:33",
+            "url": "https://www.esakal.com/premium-article/saptahik/coffee-culture-around-world-italy-ethiopia-turkey-japan-vietnam-india-traditions-friendship-hospitality-memories-emotions-coffee-stories-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-04/u6jz5mdd/Abhi-2026-09-04T204941.460.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d9637249ec9c",
-            "feed": "lokmat",
-            "title": "सौदीचा क्राऊन प्रिन्स हताश...! हुथी बंडखोरांविरोधात मदतीसाठी ट्रम्प यांना दोनदा फोन केला, नकार मिळाला...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-11T22:10:34",
-            "url": "https://www.lokmat.com/international/saudi-crown-prince-desperate-called-trump-twice-for-help-against-houthi-rebels-got-rejected-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saudi-arabia-houthi-attack-trump-help-denied_2026091782249.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "06bc7fcb503a",
-            "feed": "maharashtratimes",
-            "title": "काहींचा गुदमरून शेवट, काही चेंगराचेंगरीत दगावले; 2 शाळांना भीषण आग, 26 विद्यार्थ्यांचा करुण अंत",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-11T17:25:09",
-            "url": "https://maharashtratimes.com/international/international-news/congo-bukavu-school-fire-kills-26-students-as-narrow-exit-triggers-stampede/articleshow/134064320.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "f9e0d5efb1b0",
+            "id": "3a9ac77ad8cc",
             "feed": "esakal",
-            "title": "WOMEN'S ASIA CUP 2026 FINAL: पाकिस्तानचा पत्ता कट अन् भारतासमोर श्रीलंकेचं आव्हान! महिला एशिया कप फायनल कधी, कुठे आणि किती वाजता?",
+            "title": "IND vs AFG: वैभव संजू ईशान श्रेयस सगळे तयार, मग तिलक वर्माचं काय? AB डिव्हिलियर्सने टीम इंडियासमोर उभा केला मोठा पेच, ‘तो कुठे खेळणार?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-12T09:45:29",
-            "url": "https://www.esakal.com/krida/cricket/womens-asia-cup-2026-final-india-vs-sri-lanka-date-time-venue-live-streaming-telecast-where-to-watch-tv-channel-free-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/e861uzno/WOMENS-ASIA-CUP-2026-FINAL.jpg",
+            "published": "2026-09-12T14:41:23",
+            "url": "https://www.esakal.com/krida/cricket/ab-de-villiers-on-tilak-varma-batting-position-india-vs-afghanistan-t20-vaibhav-sooryavanshi-sanju-samson-ishan-kishan-shreyas-iyer-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/161vp4uz/ad-develears.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f1d4e2faa288",
+            "id": "660b1def58ab",
+            "feed": "lokmat",
+            "title": "भारताला दोन वर्ल्डकप जिंकून देणाऱ्या क्रिकेटपटूवर कोसळला दु:खाचा डोंगर, वडिलांचं झालं निधन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-09-12T14:21:05",
+            "url": "https://www.lokmat.com/cricket/news/former-indian-cricketer-s-sreesanths-father-passes-away-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/s-srishant-team-india-1_2026091782534.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f1c1713ca3f8",
             "feed": "esakal",
-            "title": "WOMEN'S ASIA CUP 2026: फायनलआधी टीम इंडियाची फिल्डिंग ठरतेय डोकेदुखी! ४ झेल सुटले, दीप्ती शर्माने सांगितलं ‘या’ सामन्यात चूक होणार नाही",
+            "title": "BABAR AZAM: शतक झालं नाही, तरी बाबर आझमने इतिहास रचला! ७६ धावांच्या खेळीने विराट-पाँटिंगच्या खास क्लबमध्ये एन्ट्री, नेमका कोणता विक्रम?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-12T08:54:41",
-            "url": "https://www.esakal.com/krida/cricket/womens-asia-cup-2026-india-reach-final-bangladesh-40-runs-deepti-sharma-fielding-dropped-catches-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/9z48bydr/depti-sharma.jpg",
+            "published": "2026-09-12T11:33:47",
+            "url": "https://www.esakal.com/krida/cricket/babar-azam-7000-runs-as-captain-joins-virat-kohli-ricky-ponting-elite-club-76-runs-england-test-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/j7ck3p9q/babar-aazam.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "business": [
         {
-            "id": "7349f58922c1",
+            "id": "ee639116a43f",
             "feed": "esakal",
-            "title": "US OPEN 2026 WOMEN'S FINAL: सबलेंकाचा ‘थ्री-पीट’ की रायबकीनाचा पहिला US Open मुकुट? फायनलमध्ये नंबर-१ विरुद्ध नंबर-२चा महामुकाबला",
+            "title": "Savings: 10 रुपयांची बचत करून पती-पत्नी वर्षभरात करतील 1 लाखांचा फंड! ना SIP, ना शेअर मार्केट; काय आहे हे चॅलेंज?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-12T08:46:35",
-            "url": "https://www.esakal.com/krida/us-open-2026-womens-final-arina-sabalenka-vs-elena-rybakina-title-serena-williams-record-hat-trick-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/bysmmblq/hockey.jpg",
+            "published": "2026-09-12T15:13:43",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/savings-challenge-10-rupees-saving-husband-wife-1-lakh-fund-one-year-no-sip-no-stock-market-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/yuavybxx/Copy-of-Copy-of-banner-2026-09-12T145513.543.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "afa04da1bc50",
+            "feed": "lokmat",
+            "title": "नाशिकच्या 'या' मार्केटमध्ये कांदा दरात शंभर रुपयांनी घसरण, दोन दिवस सरासरी काय दर मिळाले?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-12T14:50:02",
+            "url": "https://www.lokmat.com/agriculture/market-yard/kanda-market-onion-prices-drop-by-rs-100-in-nashik-lasalgoan-market-see-average-price-for-two-days-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-jsn_2026091782474.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        }
-    ],
-    "business": [
+        },
         {
-            "id": "b1df23065c1e",
+            "id": "081f04ba3e1a",
             "feed": "maharashtratimes",
-            "title": "Gold-Silver Rate Today: वीकेंडला सोने-चांदीचे दर पुन्हा कडाडले; सणासुदीत ग्राहकांचा हात आखडताच, तेल अन् महागाईने वाढवली गुंतवणूकदारांची चिंता",
+            "title": "Dhirubhai vs Nusli Wadia: जेव्हा भारतातले 2 सर्वात मोठे उद्योग सम्राट एकमेकांना भिडले; नुस्ली वाडियांनी वैर घेतलं अन् धीरूभाईंनी 3 दिवस शेअर बाजार बंद पाडला",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-09-12T10:15:54",
-            "url": "https://maharashtratimes.com/business/business-news/gold-and-silver-prices-surge-12-september-2026-on-mcx-rising-oil-prices-and-inflation-height-investors-concerns/articleshow/134107407.cms",
+            "published": "2026-09-12T14:40:53",
+            "url": "https://maharashtratimes.com/business/business-news/dhirubhai-ambani-and-nusli-wadia-intense-corporate-war-known-as-great-polyester-war-shook-bse/articleshow/134120600.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "f8ff73f1da24",
-            "feed": "lokmat",
-            "title": "१ लाख रुपयांचे झाले २ कोटींपेक्षा अधिक; विजय केडियांकडे आहेत कंपनीचे १३०००० शेअर्स, तुमच्याकडे आहेत?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-09-12T10:05:58",
-            "url": "https://www.lokmat.com/business/stock-market/neuland-laboratories-stock-price-rs-1-lakh-becomes-more-than-2-crores-investor-vijay-kedia-has-130000-stocks-do-you-have-any-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-hr_2026081765859.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0c509bb9a077",
-            "feed": "lokmat",
-            "title": "Crop Pest Attack : अमावस्या आली की पिकांवर कीड वाढते? शेतकऱ्यांनो, फवारणीपूर्वी चंद्र नव्हे तर हे ५ घटक तपासा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-12T09:54:11",
-            "url": "https://www.lokmat.com/agriculture/smart-farming/latest-news-crop-pest-attack-do-pests-increase-on-crops-when-the-new-moon-arrives-farmers-check-these-5-factors-not-the-moon-before-spraying-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crop-pest-1_2026091782293.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
