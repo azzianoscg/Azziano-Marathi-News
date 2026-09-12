@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "13-09-2026 | 12:22 AM IST",
+    "lastUpdated": "13-09-2026 | 02:36 AM IST",
     "maharashtra": [
         {
             "id": "a538ee1d747d",
@@ -102,7 +102,7 @@
         {
             "id": "263de12e53c3",
             "feed": "maharashtratimes",
-            "title": "Madhya Pradesh News: 20 वर्षांची साथ संपली, लाडक्या बैलाच्या निधनानंतर शेतकऱ्याने केला तेरावा, गावाला दिलं जेवण",
+            "title": "Madhya Pradesh News: 20 वर्षांची साथ संपली, लाडक्या बैलाच्या निधनानंतर शेतकऱ्याने केलं तेरावं, गावाला दिलं जेवण",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
@@ -166,6 +166,38 @@
     ],
     "world": [
         {
+            "id": "03977409fbc2",
+            "feed": "lokmat",
+            "title": "मोजतबा खामेनेई खरंच जिवंत आहेत का, इतकी गुप्तता का पाळली जातेय? इराणच्या राष्ट्रपतींनी भारत दौऱ्यात सोडले मौन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-13T01:25:53",
+            "url": "https://www.lokmat.com/photos/international/is-mojtaba-khamenei-really-alive-why-is-there-so-much-secrecy-iranian-president-breaks-silence-during-india-visit-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mojtaba-khamenei-is-alive-or-not_2026091782851.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bb9827cecbcf",
+            "feed": "lokmat",
+            "title": "'सगळं काही व्यवस्थित होईल', दिल्लीत ब्रिक्स परिषद सुरू असतानाच डोनाल्ड ट्रम्प यांचे इराण युद्धाबद्दल मोठे विधान",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-13T00:23:55",
+            "url": "https://www.lokmat.com/international/everything-will-be-fine-donald-trumps-big-statement-on-iran-war-as-brics-summit-begins-in-delhi-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-on-iran-war_2026091782843.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "7306f257da23",
             "feed": "maharashtratimes",
             "title": "भाडेकरूंचे जेवण फेकले आणि पोलीस थेट घरात, कॅनडात भारतीय वंशाच्या घरमालकिणीला पोलिसांनी ठोकल्या बेड्या",
@@ -209,38 +241,6 @@
             },
             "published": "2026-09-12T19:13:46",
             "url": "https://maharashtratimes.com/international/international-news/ilhan-omar-accused-of-marrying-her-brother-dhs-start-investigation/articleshow/134134395.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "28ec2eda2026",
-            "feed": "lokmat",
-            "title": "बांगलादेशमध्ये हिंदू पत्रकाराचा संशयास्पद मृत्यू, न्यूजरूममध्येच सापडला मृतदेह",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-12T18:49:22",
-            "url": "https://www.lokmat.com/international/suspicious-death-of-hindu-journalist-pulak-chatarjee-in-bangladesh-body-found-in-newsroom-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ben-sheltan-2_2026091782755.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9b1bd62af93b",
-            "feed": "maharashtratimes",
-            "title": "पाठलाग केला, घरात घुसला; एकतर्फी प्रेमातून भारतीय तरुणीचा अमेरिकेत शेवट; आरोपीचाही अंत",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-12T18:05:58",
-            "url": "https://maharashtratimes.com/international/international-news/indian-origin-woman-chased-and-shot-dead-by-stalker-in-california/articleshow/134130652.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
