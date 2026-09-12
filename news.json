@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "13-09-2026 | 02:36 AM IST",
+    "lastUpdated": "13-09-2026 | 05:04 AM IST",
     "maharashtra": [
         {
             "id": "a538ee1d747d",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "2400884fde60",
+            "feed": "maharashtratimes",
+            "title": "<b>Hartalika Shubhechcha: अक्षय राहो सौभाग्य द्यावा असा वर…! हरितालिकानिमित्त नातेवाईक, मित्र-मैत्रिणींना पाठवा शुभेच्छा संदेश!</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-13T02:50:28",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/hartalika-tritiya-2026-wishes-in-marathi-hardik-shubhechcha-messages-for-poojan/articleshow/134154547.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "0b7e3a8e89f8",
             "feed": "maharashtratimes",
             "title": "<b>पंचांग 13 September 2026: बुध-चंद्र नक्षत्र योग, सर्वार्थ सिद्धि योग, अमृत सिद्धि योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
@@ -146,22 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "c970c323acb5",
-            "feed": "esakal",
-            "title": "ताज हॉटेलच्या वेटरला किती पगार मिळतो?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-12T22:47:19",
-            "url": "https://www.esakal.com/ampstories/web-story/taj-hotel-waiter-salary-in-india-monthly-pay-experience-tips-benefits-server-job-salary-details-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/8rxx8p8o/6.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "world": [
