@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "12-09-2026 | 04:23 AM IST",
+    "lastUpdated": "12-09-2026 | 06:18 AM IST",
     "maharashtra": [
+        {
+            "id": "8673b04f4063",
+            "feed": "lokmat",
+            "title": "मनोज जरांगेंचा मुंबई मोर्चा रोखण्यास हायकोर्टाचा नकार; केवळ अंदाज, भीतीमुळे आंदोलन रोखणार कसे?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-12T06:02:30",
+            "url": "https://www.lokmat.com/mumbai/bombay-high-court-refuses-to-stop-manoj-jarange-proposed-mumbai-protest-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bombay-high-court-refuses-to-stop-manoj-jarange_2026091782261.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "713646304b8e",
+            "feed": "lokmat",
+            "title": "सीबीआयने नोंदवला दिशा सालियानच्या वडिलांचा जबाब; सायंकाळी साडेसहा वाजता जबाब नोंदवून बाहेर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-12T05:53:13",
+            "url": "https://www.lokmat.com/sindhudurga/cbi-records-statement-of-disha-salian-father-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2020-11-27-at-4.26.01-pm_202011523296.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "2c9beb346475",
+            "feed": "lokmat",
+            "title": "महाराष्ट्र सुखावणार... पावसाचा जोर वाढणार! १२ सप्टेंबरच्या रात्रीपासून आकाश ढगाळ, रविवार पावसाचा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-12T05:48:22",
+            "url": "https://www.lokmat.com/mumbai/heavy-rain-forecast-for-maharashtra-from-sept-12-to-14-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/heavy-rainfall_2026091782256.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "970c82c440fb",
             "feed": "lokmat",
@@ -32,139 +80,107 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "cd93cdd75745",
-            "feed": "esakal",
-            "title": "Dog Bite : पिसाळलेल्या कुत्र्याचा धुमाकूळ; आळे परिसरातील बारा जणांचा घेतला चावा; नऊ जण गंभीर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-11T23:04:53",
-            "url": "https://www.esakal.com/pune/rabid-dog-attacks-12-people-in-ale-area-nine-seriously-injured-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-06/81958p8z/Dog-Bite",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3525d0db7f3f",
-            "feed": "maharashtratimes",
-            "title": "MPSC अध्यक्षांवर कारवाई होत नाही, कारण ते फडणवीसांचे शाळेतील मित्र; रोहित पवारांचा गंभीर आरोप, पुढील दिशा केली स्पष्ट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-11T22:50:10",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/demand-for-action-against-mpsc-president-serious-allegations-by-rohit-pawar/articleshow/134080545.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bb5d67b82115",
-            "feed": "esakal",
-            "title": "Pune News : राज्यातील ऑनलाइन कामकाज ठप्प; कृषी कर्मचाऱ्यांनी लॅपटॉप जमा केले, आंदोलन तीव्र",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-11T22:44:15",
-            "url": "https://www.esakal.com/pune/statewide-online-work-comes-to-a-halt-agriculture-employees-hand-in-laptops-as-protest-intensifies-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-11/g1n42v26/Agriculture-Employee-Strike",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "bd4b12da8394",
+            "id": "dd3754e82a41",
             "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 12 सप्टेंबर 2026 : भाद्रपदची सुरुवात या राशींसाठी ठरणार भाग्यशाली दिवस असणार लकी ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "title": "वीकेंडला खरेदी करण्याचा प्लॅन करताय? AI ची मदत घ्या; वेळ वाचेल, पर्याय एकापेक्षा एक मिळेल",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-12T00:01:55",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-12-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134085167.cms",
+            "published": "2026-09-12T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/how-ai-assistants-can-save-your-time-and-find-the-best-deals-this-weekend-shopping/articleshow/134058651.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "8963d7ae4e3f",
+            "id": "5d90a4d836a5",
             "feed": "esakal",
-            "title": "1980s चा ट्रेंड, पण तो काळ गाजवलेले वर्ल्ड चॅम्पियन्स क्रिकेटर्स कसे दिसायचे?",
+            "title": "१२ सप्टेंबर 2026 राशिभविष्य! ‘या’ राशींना मिळणार मोठा फायदा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-11T23:39:56",
-            "url": "https://www.esakal.com/ampstories/web-story/real-1980s-retro-look-kapil-dev-sunil-gavaskar-indian-champion-cricketers-1983-world-cup-victory-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-11/bfgfss5v/Vintage-Look-of-India’s-Legendary-1983-World-Champions-10.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "f7b157e6a06c",
-            "feed": "esakal",
-            "title": "सर्वात शेवटच्या मुघल बादशहाचा अंत कसा झाला?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-11T23:06:19",
-            "url": "https://www.esakal.com/ampstories/web-story/death-of-last-mughal-emperor-bahadur-shah-zafar-1857-revolt-exile-rangoon-history-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-11/etl74rmi/bahadur-shah-japhar-3.jpg",
+            "published": "2026-09-12T06:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/horoscope-for-september-12-2026-these-zodiac-signs-may-see-major-gains-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-11/7n2i1eg0/1.jpg.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "f8adb2e23eb4",
-            "feed": "esakal",
-            "title": "जागतिक GDP मध्ये 40 टक्के वाटा ब्रिक्स देशांचा! रशियाचे राष्ट्राध्यक्ष पुतिन यांचा G7 देशांवर निशाणा",
+            "id": "84869ee7a790",
+            "feed": "lokmat",
+            "title": "भारत-रशियातील मैत्री वाढणार, व्यापार १०० अब्ज डॉलरवर नेणार",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
             },
-            "published": "2026-09-11T22:46:51",
-            "url": "https://www.esakal.com/desh/vladimir-putin-brics-40-percent-global-gdp-surpasses-g7-new-investment-platform-mahindra-praise-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-11/usy84r5g/Latest-Marathi-Breaking-News-2026-09-11T224347.754.jpg",
+            "published": "2026-09-12T05:58:16",
+            "url": "https://www.lokmat.com/national/india-and-russia-aim-to-boost-bilateral-trade-to-100-billion-dollar-by-2030-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/brics-modi-putin-gift_2026091782259.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "234199dffec9",
+            "id": "72813529b805",
             "feed": "esakal",
-            "title": "Vastu Tips: घरात क्रिस्टल पिरामिड ठेवल्यावर काय होते? वास्तुशास्त्रानुसार जाणून घ्या योग्य दिशा, फायदे अन् महत्त्वाचे नियम...",
+            "title": "हौस ऑफ बांबू : जीबीपीसी अॅकॅडमी ऑफ मराठी लँग्वेज लर्निंग..!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-11T22:26:33",
-            "url": "https://www.esakal.com/culture-and-religion/vastu-tips-crystal-pyramid-benefits-rules-vastu-shastra-direction-home-placement-guide-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-11/93vvmcnn/Srushti-Marathe-99.png",
+            "published": "2026-09-12T05:56:00",
+            "url": "https://www.esakal.com/sampadakiya/editorial-articles/house-of-bamboo-gbpc-academy-of-marathi-language-learning-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-11/8l3l0koc/hous-of-bamboo",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "d713880c3ec2",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 12 September 2026: मूलांक 2 वादविवाद वाढवू नका! मूलांक 5 ओळखी वाढणार, लाभाचा योग! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-12T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-12-september-dvigraha-yog-bhadrapada-start-ank-bhavishya-prediction-in-marathi/articleshow/134060005.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "c878ffdb8fbb",
+            "feed": "lokmat",
+            "title": "इस्रायलने हिजबुल्लाहच्या तळावर घडवला ‘भूकंप’; लेबनॉनमध्ये १,१०० टन स्फोटकांनी बोगदाच उडवला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-12T05:50:59",
+            "url": "https://www.lokmat.com/international/israel-created-an-earthquake-at-hezbollah-base-blew-up-a-tunnel-with-1100-tons-of-explosives-in-lebanon-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/israel-attacks-lebanon_2026091782258.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "d9637249ec9c",
             "feed": "lokmat",
@@ -226,22 +242,6 @@
             "published": "2026-09-11T16:17:23",
             "url": "https://www.esakal.com/web-story/sergeant-stubby-black-and-white-original-photos-100-years-old-world-war-1-hero-dog-1980s-latest-trend-vsd00",
             "image": "https://cf-images.assettype.com/esakal/2026-09-11/y6mdhlft/Pintrest.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "2df9b42112b7",
-            "feed": "maharashtratimes",
-            "title": "2030 पर्यंत AI मुळे मानवजातीचा विनाश होणार! आघाडीचे संशोधक जॅकोब कॉक्सन यांचा खळबळजनक दावा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-11T13:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/science-technology/ai-could-destroy-humanity-by-2030-tech-world-shaken-by-former-anthropic-researcher-jacob-coxon-warning/articleshow/134050375.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
         }
