@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "13-09-2026 | 05:04 AM IST",
+    "lastUpdated": "13-09-2026 | 07:34 AM IST",
     "maharashtra": [
         {
-            "id": "a538ee1d747d",
+            "id": "cf0e4580ec10",
+            "feed": "esakal",
+            "title": "Maharashtra Weather: पावसाने राज्याची चिंता वाढवली; पण पुढील वर्षासाठी गुड न्यूज! एल निनोबाबत ‘नोआ’नेमका काय वर्तवला अंदाज?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-13T07:26:59",
+            "url": "https://www.esakal.com/pune/maharashtra-rain-deficit-el-nino-impact-may-end-by-2027-noaa-forecast-brings-relief-for-farmers-and-monsoon-outlook-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/uogbc1x5/sudhir-jadhav-satara.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4d9c91685af5",
             "feed": "lokmat",
-            "title": "जगप्रसिद्ध बासरी वादक पद्मविभूषण पंडित हरिप्रसाद चौरसिया यांच्या हस्ते होणार श्रीमंत भाऊसाहेब रंगारी बाप्पाची प्राणप्रतिष्ठा",
+            "title": "आमदारांच्या बंगल्यांवरून भाजप आता कार्यालयात; आठवड्यातून काही दिवस पक्ष कार्यालयात जनतेची गाऱ्हाणी ऐकणार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-12T23:57:49",
-            "url": "https://www.lokmat.com/pune/world-renowned-flute-player-padma-vibhushan-pandit-hariprasad-chaurasia-will-perform-the-prana-pratishta-rites-of-shrimant-bhausaheb-rangari-bappa-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shrimant-bhausaheb-rangari-marathi-news_2026091782841.jpg",
+            "published": "2026-09-13T07:17:50",
+            "url": "https://www.lokmat.com/maharashtra/bjp-now-in-office-from-mla-bungalows-will-listen-to-public-grievances-at-party-office-for-a-few-days-a-week-a-a285-c653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bjp-sd_2026091782865.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "844cbe0b2497",
+            "id": "2fc367494771",
             "feed": "lokmat",
-            "title": "जगप्रसिद्ध बासरी वादक पद्मविभूषण पंडित हरिप्रसाद चौरसिया यांच्या हस्ते होणार श्रीमंत भाऊसाहेब रंगारी बाप्पाची प्राणप्रतिष्ठा",
+            "title": "विहिरीतल्या पाण्याला लागली आग, चक्क पाटातून उडाला ज्वाळांचा भडका",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-09-12T23:44:25",
-            "url": "https://www.lokmat.com/pune/world-renowned-flute-player-padma-vibhushan-pandit-hariprasad-chaurasia-will-perform-the-funeral-rites-of-shrimant-bhausaheb-rangari-bappa-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shrimant-bhausaheb-rangari-news_2026091782839.jpg",
+            "published": "2026-09-13T06:59:48",
+            "url": "https://www.lokmat.com/sangli/sangli-the-water-in-the-well-caught-fire-flames-shot-out-of-the-well-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sangli-thf_2026091782863.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "1702fa5e6519",
+            "id": "87a110506605",
             "feed": "maharashtratimes",
-            "title": "Crime News : गाडी चोरायचा अन् गॅरेजमध्ये सुट्टे भाग करून भंगारात विकायचा! पोलिसांकडून अट्टल चोरासह गॅरेज कामगार गजाआड",
+            "title": "Manoj Jarange Chalo Mumbai: मनोज जरांगेंचा पुन्हा मुंबईकडे मोर्चा; मराठा आरक्षणासाठी 19 सप्टेंबरपासून आंदोलन, कुठे-कुठे मुक्काम?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-12T23:11:14",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/car-theft-business-exposed-thieve-and-garage-worker-arrested-for-selling-parts-as-scrap/articleshow/134147418.cms",
+            "published": "2026-09-13T06:58:54",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/manoj-jarange-patil-will-stage-protest-at-mumbai-azad-maidan-starting-19-sept/articleshow/134169350.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "40c08fadc01d",
+            "id": "fbb92c537d05",
             "feed": "lokmat",
-            "title": "Mumbai Leopard: गोरेगावमध्ये एका आठवड्यापासून फिरतोय बिबट्या, अंधार पडताच लोक घरात; व्हिडीओ आला समोर",
+            "title": "अमित शाह दोन दिवस मुंबई दौऱ्यावर, एशियाटिक सोसायटीला भेट; वाशीत राजभाषा संमेलनाला प्रमुख उपस्थिती",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-12T22:59:39",
-            "url": "https://www.lokmat.com/mumbai/mumbai-leopard-leopard-has-been-roaming-in-goregaon-for-a-week-people-are-indoors-as-soon-as-it-gets-dark-video-surfaced-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/leopard-video-in-goregaon_2026091782828.jpg",
+            "published": "2026-09-13T06:53:31",
+            "url": "https://www.lokmat.com/maharashtra/amit-shah-on-two-day-mumbai-visit-meets-asiatic-society-chief-guest-at-rajbhasha-sammelan-in-vashi-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amit-shsh-tyf_2026091782861.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "e626eb5c25e8",
-            "feed": "esakal",
-            "title": "Machnur Siddheshwar Temple : माचणूरच्या सिद्धेश्वर मंदिरात प्रणिती शिंदेंकडून भाविकांची सेवा; ५ कोटी ४ लाखांच्या विकासकामांचा आढावा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-12T22:23:28",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/machnur-siddheshwar-temple-praniti-shinde-shravan-anushthan-ujani-tourism-development-5-crore-4-lakh-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/xjzzzdyc/Esakal-87.png",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "2400884fde60",
+            "id": "0aef0b7dd0e9",
             "feed": "maharashtratimes",
-            "title": "<b>Hartalika Shubhechcha: अक्षय राहो सौभाग्य द्यावा असा वर…! हरितालिकानिमित्त नातेवाईक, मित्र-मैत्रिणींना पाठवा शुभेच्छा संदेश!</b>",
+            "title": "Tharala Tar Mag : हेरगिरी आली कामी, महिपत कनेक्शन उलगडलं; हॉस्पिटलमध्ये चिमुकलीचा गैरफायदा घेणाऱ्यावर खवळली सायली, गुड टच-बॅड टचचे धडे",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-13T02:50:28",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/hartalika-tritiya-2026-wishes-in-marathi-hardik-shubhechcha-messages-for-poojan/articleshow/134154547.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "0b7e3a8e89f8",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 13 September 2026: बुध-चंद्र नक्षत्र योग, सर्वार्थ सिद्धि योग, अमृत सिद्धि योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-12T23:24:10",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-13-september-2026-in-marathi-budh-chandra-nakshatra-yog-sarvartha-siddhi-yog-and-shubha-muhurta/articleshow/134143855.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "263de12e53c3",
-            "feed": "maharashtratimes",
-            "title": "Madhya Pradesh News: 20 वर्षांची साथ संपली, लाडक्या बैलाच्या निधनानंतर शेतकऱ्याने केलं तेरावं, गावाला दिलं जेवण",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-12T23:02:49",
-            "url": "https://maharashtratimes.com/latest-news/india-news/madhya-pradesh-news-after-the-death-of-bull-a-farmer-performs-13-th-day-rituals/articleshow/134144582.cms",
+            "published": "2026-09-13T07:29:56",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/tharala-tar-mag-serial-13-september-2026-episode-sayali-teaches-good-touch-and-bad-touch/articleshow/134169839.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e827103631ea",
+            "id": "909371ff779f",
             "feed": "esakal",
-            "title": "मुघल बादशहांना झोपण्यासाठी कशी व्यवस्था केली जायची?",
+            "title": "आजचे राशिभविष्य - १३ सप्टेंबर २०२६",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-12T22:58:20",
-            "url": "https://www.esakal.com/ampstories/web-story/mughal-emperors-sleeping-arrangement-royal-bedroom-khwabgah-akbar-shah-jahan-mughal-palace-history-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/cnbh3e1x/9.jpg",
+            "published": "2026-09-13T07:00:00",
+            "url": "https://www.esakal.com/horoscope/on-this-day-today-rashi-bhavishya-horoscope-in-marathi-13-september-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-30/veemryit/esakal2025-11-039nzjhvy62horoscope.avif",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "58f8bd5bb7e5",
+            "id": "81452f624042",
+            "feed": "esakal",
+            "title": "Ukadiche Modak Recipe: केशराचा सुगंध, नारळ-गुळाची गोडी आणि 'हा' एक पदार्थ… बाप्पासाठी असे बनवा स्पेशल उकडीचे मोदक!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-13T07:00:00",
+            "url": "https://www.esakal.com/food/how-to-make-ukadiche-modak-coconut-jaggery-sabudana-flour-ganesh-chaturthi-special-recipe-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/2njnuhzi/Ukadiche-Modak-Recipe.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "7d4aa2908423",
+            "feed": "esakal",
+            "title": "Road Development : रस्ता बांधून पुन्हा खोदला तर बिल रोखणार; सरकारने ठेकेदारांना भरला दम, 'एक रुपयाही मिळणार नाही'",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-13T06:48:00",
+            "url": "https://www.esakal.com/desh/road-dug-up-again-contractors-bills-to-be-stopped-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/jttwvzdc/road-contruction-rules-by-mp-government.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "723d0d017a01",
             "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 13 सप्टेंबर 2026 : बाप्पाच्या कृपेने होणार मनोकामनापूर्ती,संकटांचा होणार नाश,आर्थिक स्थिती सुधारणार ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "title": "Sonu Nigam : सोनू निगमने 18 कोटींना विकली मुंबईतल्या प्राइम एरियातली प्रॉपर्टी, पण कैलाश खेरला याच ठिकाणी झालेला तोटा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-12T22:52:36",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-13-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134147226.cms",
+            "published": "2026-09-13T06:46:39",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sonu-nigam-sold-mumbai-property-for-18-crore-but-kailash-kher-had-loss-in-same-location/articleshow/134169107.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "d27d3c8eac09",
+            "feed": "lokmat",
+            "title": "इराणने वाचविले २१ भारतीय खलाशांचे प्राण; भारताशी संबंधित १० जहाजांचाही प्रश्न जटिल, सुरक्षेची मागणी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-13T06:35:05",
+            "url": "https://www.lokmat.com/international/iran-saves-the-lives-of-21-indian-sailors-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjrkfyukf_2026091782855.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3e4ab735cac0",
+            "feed": "lokmat",
+            "title": "\"ग्लोबल साउथ'ला समान वाटा द्याठ\"; जागतिक कारभारासाठी १० कलमी आराखड्याचा मोदींचा प्रस्ताव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-13T06:25:11",
+            "url": "https://www.lokmat.com/international/give-equal-share-to-the-global-south-modi-proposes-10-point-blueprint-for-global-governance-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/brics-2026_2026091782853.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "03977409fbc2",
             "feed": "lokmat",
@@ -212,41 +244,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "8cfe617e6031",
-            "feed": "lokmat",
-            "title": "देवाला न मानणाऱ्या सावळ्याच्या घरातच बाप्पा बसवणार स्वामी समर्थ; नेमकं काय आहे या लीलेमागचं गूढ?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-12T19:38:07",
-            "url": "https://www.lokmat.com/filmy/television/jay-jay-swami-samarth-swamis-stubborn-resolve-to-bring-bappa-home-to-a-man-who-doesnt-believe-in-god-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jai-jai-swami-samartha_2026091782800.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "f96ff6fd6402",
-            "feed": "maharashtratimes",
-            "title": "Ilhan Omar: पाकिस्तानी समर्थक इल्हान उमर अडचणीत, भावाशी लग्न केल्याचा आरोप, अमेरिकेत चौकशी सुरु",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-12T19:13:46",
-            "url": "https://maharashtratimes.com/international/international-news/ilhan-omar-accused-of-marrying-her-brother-dhs-start-investigation/articleshow/134134395.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "77bb4b9b648d",
+            "feed": "esakal",
+            "title": "Team India Live Streaming: सुपर संडे! भारताचे दोन मोठे सामने, Asia Cup Final अन् अफगाणिस्तानविरुद्ध रंगणार टी२०; कुठे पाहाणार?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-13T06:26:00",
+            "url": "https://www.esakal.com/krida/cricket/team-india-super-sunday-live-streaming-details-for-womens-asia-cup-final-and-afghanistan-t20-match-when-where-to-watch-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-12/3v96r3e3/Asia-Cup-Final-IND-vs-AFG-T20I.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "17ec03a517cb",
             "feed": "maharashtratimes",
@@ -278,25 +294,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "2792a64e5d66",
-            "feed": "esakal",
-            "title": "IND vs AFG: वैभव सूर्यवंशी की संजू सॅमसन, कोणाला मिळणार संधी? कर्णधार श्रेयस अय्यरने दिले उत्तर; ईशान किशनच्या दुखापतीवरही अपडेट",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-12T22:16:09",
-            "url": "https://www.esakal.com/krida/cricket/shreyas-iyer-on-opening-dilemma-between-sanju-samson-abhishek-sharma-vaibhav-sooryavanshi-ishan-kishan-injury-update-1st-t20i-india-against-afghanistan-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/tp5wb3q3/Abhishek-Sharma-Vaibhav-Sooryavanshi-Sanju-Samson-Shreyas-Iyer.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "e93e0e5650f2",
+            "feed": "maharashtratimes",
+            "title": "Success Story : ई कॉमर्स क्षेत्रातला 10 मिनिटांचा बादशहा, आधी बाजार समजून घेतलं अन् थेट अवकाश गाठलं",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-09-13T07:00:00",
+            "url": "https://maharashtratimes.com/business/business-news/zepto-success-story-e-commerce-platform-how-10-minutes-delivery-app-started/articleshow/134156509.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f9c30bb32ed9",
             "feed": "maharashtratimes",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "703ca7d9e85e",
-            "feed": "lokmat",
-            "title": "Kanda Farming : कांद्याला नत्राचा पहिला हफ्ता कधी आणि किती प्रमाणात द्यावा, जाणून घ्या सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-12T20:35:02",
-            "url": "https://www.lokmat.com/agriculture/smart-farming/latest-news-kanda-farming-khat-niyojan-when-and-how-much-nitrogen-should-be-given-to-onions-crop-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-natr_2026091782816.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
