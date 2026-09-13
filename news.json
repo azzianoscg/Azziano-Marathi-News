@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "13-09-2026 | 06:26 PM IST",
+    "lastUpdated": "13-09-2026 | 10:16 PM IST",
     "maharashtra": [
         {
-            "id": "a4f80bb726b0",
+            "id": "7e906cc4455e",
             "feed": "esakal",
-            "title": "Rural Education Strengthening: ग्रामीण शिक्षण बळकटीसाठी शिक्षकांची भूमिका महत्त्वाची ; शिक्षण सहसंचालक डॉ. श्रीराम पानझाडे",
+            "title": "Mohol drought crisis: मोहोळ तालुका दुष्काळाच्या गडद छायेत; खरीप-रब्बी हंगाम उद्ध्वस्त, चारा टंचाईने शेतकरी आर्थिक कोंडीत",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-13T18:25:09",
-            "url": "https://www.esakal.com/ahmednagar/supe-rural-education-teachers-values-shriram-panzhade-chala-jauya-shalet-parner-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/lz62jcc2/Esakal-99.png",
+            "published": "2026-09-13T22:12:20",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/mohol-drought-rainfall-kharif-crops-farmers-administration-report-solapur-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/cq72y43x/Esakal-2026-09-13T220948.189.png",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "5b9c38490d91",
-            "feed": "esakal",
-            "title": "Konkan Railway: कोकणात जायचा प्रवास १० तासांचा, पण गाड्या ११ ते १२ तास लेट; गणपतीला जायचं कसं? प्रवाशांचा संताप",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-13T18:15:18",
-            "url": "https://www.esakal.com/maharashtra/konkan-railway-running-delayed-by-11-to-12-hours-passengers-furious-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/tuns53jg/Konkan-Railway-Delay.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a00f084cca8c",
+            "id": "8ab7efda7bcc",
             "feed": "maharashtratimes",
-            "title": "Amit Shah : 2029 आधी समान नागरी कायद्याची अंमलबजावणी करु, अमित शाह यांची घोषणा",
+            "title": "Management Admissions: 'एमबीए'च्या धर्तीवर आता ‘पीजीडीएम’ आणि ‘पीजीसीएम’साठीही सीईटी अनिवार्य; पुढील शैक्षणिक वर्षापासून  बदल",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-09-13T18:08:52",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/amit-shah-announced-uniform-civil-code-to-be-implemented-by-2029/articleshow/134200060.cms",
+            "published": "2026-09-13T22:06:56",
+            "url": "https://maharashtratimes.com/career/career-news/maharashtra-pgdm-pgcm-management-courses-under-cet-cell-fra-fee-regulating-authority/articleshow/134212143.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "eae617e6af2f",
-            "feed": "esakal",
-            "title": "मिठाई दुकानांची १५० ठिकाणी तपासणी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-13T18:07:32",
-            "url": "https://www.esakal.com/pune/fda-inspections-ganesh-festival",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/h8cv8e7i/Banner1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f6233e267477",
-            "feed": "esakal",
-            "title": "Mosambi Farmers Protest: मोसंबी उत्पादकांच्या प्रश्नांवर विधान भवनात स्वतंत्र बैठक; कृषिमंत्र्यांचे आश्वासन, शेतकऱ्यांच्या लढ्याला नवी दिशा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-13T18:07:25",
-            "url": "https://www.esakal.com/marathwada/mosambi-farmers-paithan-mosambi-price-agriculture-minister-dattatray-bharne-sunetra-pawar-mumbai-meeting-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/0r0lhql3/Esakal-98.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "dec670b7dcbc",
-            "feed": "esakal",
-            "title": "'गणपती बाप्पा मोरया...' शिल्पा-राजच्या घरी बाप्पा विराजमान; जल्लोषात स्वागत Viral Video",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-13T18:24:42",
-            "url": "https://www.esakal.com/premier/shilpa-shetty-raj-kundra-welcome-ganpati-bappa-home-ganesh-chaturthi-2026-viral-video-ganeshotsav-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/pgcomzjy/SHILPA-SHETTY-WELCOME-GANPATI-BAPPA-HOME",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "da299cce7aed",
-            "feed": "esakal",
-            "title": "Endometriosis चं कारण फक्त हार्मोन्स नाही! भारतीय महिलांमध्ये सापडले ‘हे’ महत्त्वाचे संकेत",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-13T18:09:55",
-            "url": "https://www.esakal.com/health/endometriosis-causes-and-risk-factors-in-indian-women-genetic-link-to-period-pain-and-infertility-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/9fahvhew/Endometriosis-Causes.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "fd87b8dbb290",
-            "feed": "maharashtratimes",
-            "title": "Subhash Ghai : 'प्रत्येक देशाचे राष्ट्राध्यक्ष आणि पंतप्रधान आपल्या नरेंद्र मोदींचा आदर करतात तेव्हा अभिमान वाटतो', सुभाष घई यांची पोस्ट चर्चेत",
+            "id": "e3c0c5d73ebd",
+            "feed": "esakal",
+            "title": "Water Pipeline Burst: फारोळा जलशुद्धीकरण केंद्राची १२०० मिमी जलवाहिनी फुटली; छत्रपती संभाजीनगरच्या पाणीपुरवठ्यावर परिणाम",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-13T18:07:25",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/brics-2026-summit-subhash-ghai-praises-pm-narendra-modi-shares-post/articleshow/134200002.cms",
-            "image": "",
+            "published": "2026-09-13T22:06:17",
+            "url": "https://www.esakal.com/marathwada/farola-water-treatment-plant-1200-mm-pipeline-burst-chhatrapati-sambhajinagar-water-supply-150-mld-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/b1223zmb/Esakal-2026-09-13T220419.869.png",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "5db66ba6b389",
+            "id": "9c727a1de440",
+            "feed": "lokmat",
+            "title": "'मनोज जरांगे पाटील यांची कोंडी केल्यास कोल्हापुरातून मुंबईकडे कूच करू, मुस्कटदाबी तात्काळ थांबवा'; सकल मराठा समाजाचा इशारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-13T22:04:28",
+            "url": "https://www.lokmat.com/kolhapur/if-manoj-jarange-patil-is-put-in-a-dilemma-we-will-march-from-kolhapur-to-mumbai-stop-the-pressure-immediately-warning-from-the-entire-maratha-community-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-jarange-mumbai-march-update_2026091783368.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "735e9e16dc73",
+            "feed": "esakal",
+            "title": "Amit Shah Eknath Shinde Meeting : अमित शहा-एकनाथ शिंदे यांच्यात अर्धा तास चर्चा; एकाच कारमधून प्रवास, राजकीय वर्तुळात चर्चांना उधाण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-13T21:39:15",
+            "url": "https://www.esakal.com/mumbai/amit-shah-eknath-shinde-meeting-mumbai-maharashtra-politics-cabinet-expansion-service-campaign",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/fydzyyr2/54.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "15e462da70b1",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : देश-विदेशात दिवसभरात काय घडलं जाणून घ्या एका क्लिकवर...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-13T22:00:28",
+            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-13-september-brics-summit-mumbai-pune-vidarbha-rain-ganeshotsav-preparations-maratha-reservation-manoj-jarange-patil-union-home-minister-amit-shah-srk94-ymk-86",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "435830bd2975",
             "feed": "maharashtratimes",
-            "title": "साप्ताहिक अंकशास्त्र, 14 To 20 September: गजानन श्री गणराया आधी वंदू तुझा मोरया! मूलांक 2, 3, 4 साठी नवीन संधीसह आर्थिक लाभ! अंकशास्त्रानुसार जाणून घ्या, तुमचे राशीभविष्य",
+            "title": "आजचे राशिभविष्य 14 सप्टेंबर 2026 : अनंत चतुर्दशीच्या शुभ दिनी बाप्पा देणार या राशींना सुख समृद्धी, शुभवार्ता मिळणार ! पहा तुमचे राशिभविष्य काय सांगते ?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-13T18:03:36",
-            "url": "https://maharashtratimes.com/astro/numerology/weekly-numerology-prediction-14-to-20-september-ganesh-festival-2026-anka-jyotish-in-marathi/articleshow/134200644.cms",
+            "published": "2026-09-13T21:55:43",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-14-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134212133.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "28582eb4bd10",
+            "id": "b7588062e20b",
+            "feed": "lokmat",
+            "title": "Gauri Ganpati 2026 : गौरी-गणपतीच्या पूजेसाठी घ्या खास कलांजली पैठणी; १० रंग, आरी वर्कच्या ब्लाऊजनं खुलेल लूक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-13T21:41:25",
+            "url": "https://www.lokmat.com/sakhi/photos/shopping/gauri-ganpati-special-kalanjali-paithni-with-aari-work-blouse-in-10-colours-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-13-at-5.43.03-pm_2026091783363.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "982c7dffeaca",
+            "feed": "maharashtratimes",
+            "title": "Shilpa Shetty : शिल्पा शेट्टीच्या घरी गणपती बाप्पाचं आगमन, पती राज कुंद्रासोबत केलं गणरायचं स्वागत; Video व्हायरल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-13T21:34:03",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/shilpa-shetty-karan-kundra-welcomes-ganpati-bappa-video-viral/articleshow/134210307.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "4277ecc648de",
             "feed": "esakal",
-            "title": "Marathi theare : काफ्कापासून गांधी-टागोरांपर्यंत : पत्ररूपी नाटक आणि असहमतीतून उभा राहणारा संवाद",
+            "title": "गणपतीचेच विसर्जन का होते? इतर देवांच्या मूर्तींचे का नाही? जाणून घ्या धार्मिक रहस्य",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-13T18:00:00",
-            "url": "https://www.esakal.com/premium-article/from-kafka-to-gandhi-tagore-epistolary-theatre-and-dialogue-in-dissent-sk88",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-12/9ew25bmc/Abhi-2026-09-13T000854.669.jpg",
+            "published": "2026-09-13T21:03:11",
+            "url": "https://www.esakal.com/ampstories/web-story/ganpati-visarjan-why-ganesh-idol-immersion-meaning-religious-spiritual-environmental-significance-other-gods-idol-visarjan-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/o66ktjfn/1.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "c78464db9f2c",
+            "feed": "maharashtratimes",
+            "title": "Strait Of Hormuz: इराण आणि ओमानचा मोठा डाव! दोन देशात करार, भारताची लागली लॉटरी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-13T21:52:05",
+            "url": "https://maharashtratimes.com/international/international-news/strait-of-hormuz-agreement-signed-between-iran-and-oman/articleshow/134211058.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "17b52b765e98",
+            "feed": "esakal",
+            "title": "युनायटेड किंगडममध्ये फूट पडणार? स्कॉटलंड, वेल्स अन् नॉर्दर्न आयर्लंडचे नेते करणार मोठी घोषणा?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-13T20:41:02",
+            "url": "https://www.esakal.com/global/uk-united-kingdom-breakup-scotland-wales-northern-ireland-leaders-big-announcement-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/mp5yhrdp/UK-breakup",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "25f8c9de086a",
             "feed": "lokmat",
@@ -212,136 +244,104 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-13/lfc0gg79/49.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "d264d54f1d48",
-            "feed": "esakal",
-            "title": "Premium|Artificial Food: झाडांचं अद्भुत जग आणि माणसाची कृत्रिम अन्नक्रांती : कोणावर उभा आहे भविष्यातला संसार?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-13T14:08:31",
-            "url": "https://www.esakal.com/premium-article/future-of-world-standing-on-trees-or-artificial-food-marathi-article-sk88",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/ac83p514/tree-comminication",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "718f06e146f4",
-            "feed": "esakal",
-            "title": "पाठलाग करत गोळीबार, खाली पडल्यावर डोक्यात झाडली गोळी; १६ वर्षे लहान प्रियकराने शालिनीची केली हत्या, स्वत:लाही संपवलं",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-13T12:18:56",
-            "url": "https://www.esakal.com/global/indian-origin-woman-shalini-killed-in-us-22-year-old-boyfriend-allegedly-shoots-38-year-old-woman-before-killing-himself-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/4faxjdm6/shalini-thakur.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "5b398d33a52e",
+            "id": "14d61905a784",
+            "feed": "maharashtratimes",
+            "title": "IND W vs SL W Final : आशिया कप फायनलमध्ये भारताचे श्रीलंकेला 184 धावांचे लक्ष्य; शेफालीची तुफानी खेळी, रचला ऐतिहासिक विक्रम",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-09-13T21:56:06",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-w-vs-sl-w-final-india-set-184-run-target-in-asia-cup-final-shafali-verma-half-century-creates-history/articleshow/134211713.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "828d3957a9a7",
+            "feed": "lokmat",
+            "title": "Shafali Verma Fastest Fifty : फायनलमध्ये शफालीचं वादळी अर्धशतक; स्मृतीच्या डोळ्यादेखत मोडला तिचा विक्रम",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-09-13T21:33:27",
+            "url": "https://www.lokmat.com/cricket/news/shafali-verma-breaks-smriti-mandhana-fastest-fifty-record-in-womens-t20-asia-cup-2026-india-women-vs-sri-lanka-women-match-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shafali-verma-fastest-fifty-m_2026091783365.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0b971abb4935",
             "feed": "esakal",
-            "title": "IND vs WI: ऋतुराज गायकवाड, रिषभ पंत, जडेजाचे पुनरागमन होणार? वेस्ट इंडिजविरुद्धच्या ODI मालिकेसाठी का होणार संघात बदल",
+            "title": "IND vs AFG 1st T20I: बुमराह, अर्शदीप आणि चक्रवर्तीची भेदक गोलंदाजी; पण ओमरझाईच्या अर्धशतकाने अफगाणिस्तान दीडशे पार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-13T17:45:13",
-            "url": "https://www.esakal.com/krida/cricket/rishabh-pant-yashasvi-jaiswal-ruturaj-gaikwad-mohammed-siraj-set-for-odi-squad-recall-in-west-indies-series-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/lip2kldc/Ruturaj-Gaikwad-Rishabh-Pant.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a1120bec87aa",
-            "feed": "lokmat",
-            "title": "Asia Cup Trophy Controversy: आशिया कप स्पर्धा, भारत-पाक तणाव अन् ट्रॉफीचा वाद; पुन्हा तेच घडणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-13T17:19:03",
-            "url": "https://www.lokmat.com/cricket/news/will-mohsin-naqvi-attend-india-vs-sri-lanka-womens-asia-cup-2026-final-explaining-potential-for-another-trophy-controversy-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/asia-cup-trophy-controversy-m_2026091783277.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ccdb3dee8364",
-            "feed": "lokmat",
-            "title": "वय नाही तर या कारणामुळे मोहम्मद शमीला संघाबाहेर ठेवलंय, माजी क्रिकेटपटूचा गौप्यस्फोट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-13T16:51:54",
-            "url": "https://www.lokmat.com/cricket/news/mohammed-shami-is-being-kept-out-of-the-team-not-because-of-his-age-but-because-of-this-reason-reveals-former-cricketer-akash-chopra-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/m-shami-team-india-1_2026091783257.jpg",
+            "published": "2026-09-13T21:24:47",
+            "url": "https://www.esakal.com/krida/cricket/indian-bowlers-restrict-afghanistan-to-156-as-azmatullah-omarzai-64-sets-157-target-in-first-t20i-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/z4e09sw7/India-vs-Afghanistan-1st-T20I-1.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "7b56c4c02209",
-            "feed": "maharashtratimes",
-            "title": "SIP, NSP, PPF की RD : बचतीचा कोणता पर्याय जास्त फायद्याचा? समजून घ्या सोप्या गणितातून",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-09-13T18:19:36",
-            "url": "https://maharashtratimes.com/business/business-news/sip-nsp-ppf-rd-1000-rupees-per-month-for-15-years-calculation/articleshow/134200788.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "43c2b6f06865",
+            "id": "6126d66b9b9d",
             "feed": "lokmat",
-            "title": "मुकेश अंबानींची कंपनी अमेरिकन बँकेकडून घेणार ₹१८,२६८ कोटी; निधीचा वापर कुठे केला जाईल?",
+            "title": "सौदीची महत्त्वाची तेल पाइपलाइन बंद; जागतिक तेल पुरवठ्यावर मोठा परिणाम होण्याची शक्यता",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-09-13T18:07:47",
-            "url": "https://www.lokmat.com/business/savings-investments/jio-credit-investment-mukesh-ambanis-company-will-borrow-rs18268-crore-from-an-american-bank-where-will-the-funds-be-used-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mukesh-ambani-usa-bank_2026091783314.jpg",
+            "published": "2026-09-13T21:54:11",
+            "url": "https://www.lokmat.com/business/news/saudi-arabias-key-oil-pipeline-shuts-down-global-oil-supply-likely-to-be-hit-hard-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crude-oil-saudi_2026091783367.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1f9456d67600",
+            "id": "cabba3f5a7f5",
+            "feed": "esakal",
+            "title": "पेट्रोल-डिझेल आणखी महागणार? सौदीची पाइपलाइन बंद, फक्त ५ ते ७ दिवसांचा तेलसाठा शिल्लक",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-13T21:06:59",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/saudi-oil-pipeline-shutdown-global-oil-supply-crisis-5-7-days-stock-price-rise-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/momubbow/Saudi-Oil-Pipeline-Shutdown",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "453215c39a84",
             "feed": "lokmat",
-            "title": "Amravati Drought : अमरावतीत दुष्काळाचे सावट! २३ मंडळांत ५० टक्क्यांपेक्षा कमी पाऊस; सोयाबीन करपले",
+            "title": "20 गुंठ्यांतील डाळिंबाचा निम्मा प्लॉट चोरीला गेला, शेतकऱ्यांचं दीड ते दोन लाख रुपयांचं नुकसान",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-13T17:37:28",
-            "url": "https://www.lokmat.com/agriculture/weather/latest-news-amravati-drought-drought-looms-in-amravati-less-than-50-percent-rainfall-in-23-mandals-soybean-cultivation-halted-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amrawati-rain-1_2026091783305.jpg",
+            "published": "2026-09-13T20:30:03",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-pomegranates-worth-15-to-2-lakh-stolen-from-siddha-pimpri-in-nashik-district-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dalimb-2_2026091783342.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
