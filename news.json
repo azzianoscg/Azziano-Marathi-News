@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "14-09-2026 | 12:36 AM IST",
+    "lastUpdated": "14-09-2026 | 03:26 AM IST",
     "maharashtra": [
         {
             "id": "d107c2cda8c9",
@@ -84,20 +84,20 @@
     ],
     "india": [
         {
-            "id": "9d7d4a4bf21c",
-            "feed": "esakal",
-            "title": "ना DJ, ना भपकेबाजपणा! कसा होता 1993 सालचा सार्वजनिक गणेशोत्सव?",
+            "id": "f641794a4fa7",
+            "feed": "lokmat",
+            "title": "PM मोदींची ८१ वर्षीय वर्गमित्राने घेतली भेट, मीरा भाईंदरच्या असगरअली व्होरा यांची जमीन कोणी बळकावली? थेट सीबीआय चौकशीची केली मागणी",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
             },
-            "published": "2026-09-13T23:59:46",
-            "url": "https://www.esakal.com/ampstories/web-story/no-djs-what-was-the-1993-public-ganesh-festival-like-relive-the-nostalgic-memories-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-03/usgqn6m0/Ganesh-idol-Design-.jpg",
+            "published": "2026-09-14T00:38:45",
+            "url": "https://www.lokmat.com/national/pm-modis-81-year-old-classmate-meets-him-who-grabbed-the-land-of-asgar-ali-vora-of-mira-bhayandar-demands-direct-cbi-inquiry-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pm-modi-asgarali-vohra-news_2026091783412.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         },
         {
             "id": "4ce2028e0996",
@@ -109,11 +109,27 @@
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-13T23:55:44",
+            "published": "2026-09-14T00:38:32",
             "url": "https://www.lokmat.com/photos/bhakti/happy-ganesh-chaturthi-2026-wishes-in-marathi-share-ganesh-chaturthi-chya-shubhechha-messages-whatsapp-status-quotes-hd-photos-ganpati-bappa-morya-a-a679/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganesh-chaturthi-2026-wishes-in-marathi-3_2026091782706.jpeg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "9d7d4a4bf21c",
+            "feed": "esakal",
+            "title": "ना DJ, ना भपकेबाजपणा! कसा होता 1993 सालचा सार्वजनिक गणेशोत्सव?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-13T23:59:46",
+            "url": "https://www.esakal.com/ampstories/web-story/no-djs-what-was-the-1993-public-ganesh-festival-like-relive-the-nostalgic-memories-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/jds7u3p9/1993-Ganesh-festival-8.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         },
         {
             "id": "62a837a95521",
@@ -146,22 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-13/jm8erzb4/Modak.png",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "7f8af900734d",
-            "feed": "esakal",
-            "title": "Pune Navale Bridge : पुण्यातील नवले पुलाजवळ अभिनेत्रीसोबत धक्कादायक प्रकार; आधी गाडीला धडक अन् मग हात ओढून पळवून नेण्याचा प्रयत्न",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-13T22:49:32",
-            "url": "https://www.esakal.com/premier/kalyani-nandkishor-actress-incident-pune-navale-bridge-car-blocked-money-extortion-attempt-police-complaint-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/z6sq7viv/55.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
@@ -248,50 +248,50 @@
     ],
     "sports": [
         {
-            "id": "16c39812d050",
-            "feed": "maharashtratimes",
-            "title": "IND W vs SL W Final : भारताच्या वाघिणींनी बदला घेतलाच! श्रीलंकेला लोळवत आशिया कपवर आठव्यांदा कोरलं नाव; एकटीनेच फिरवली मॅच",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-09-13T23:38:48",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-w-vs-sl-w-final-india-women-avenge-defeat-beat-sri-lanka-win-asia-cup-for-eighth-time/articleshow/134216387.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "51e8248c0c5f",
-            "feed": "lokmat",
-            "title": "IND vs SL Women's Asia Cup 2026 Final : भारताच्या 'रन'रागणींनी दुबईत फडकवला तिरंगा; आठव्यांदा पटकावले जेतेपद",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-13T23:32:04",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-womens-asia-cup-2026-final-harmanpreet-kaur-lead-indian-team-crushes-sri-lanka-to-lift-the-asia-cup-trophy-for-a-record-eighth-time-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-womens-asia-cup-2026-final-m_2026091783382.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9f9f594aa721",
+            "id": "23e1b1139014",
             "feed": "esakal",
-            "title": "Asia Cup 2026 Final: भारतीय संघ आठव्यांदा चॅम्पियन! फायनलमध्ये श्रीलंकेला पराभूत करत जिंकले विजतेपद",
+            "title": "IND vs AFG: अभिषेक शर्माचं शतक हुकलं, पण 'असा' पराक्रम करणारा पहिलाच भारतीय ठरला! आंद्रे रसेलला टाकलं मागं",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-13T23:30:51",
-            "url": "https://www.esakal.com/krida/cricket/india-defeat-sri-lanka-to-win-eighth-womens-asia-cup-2026-title-in-dubai-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/9s0obxwm/India-Won-Womens-Asia-Cup-2026.jpg",
+            "published": "2026-09-14T02:09:22",
+            "url": "https://www.esakal.com/krida/cricket/abhishek-sharma-second-fastest-batter-reach-6000-t20-runs-taking-3420-balls-in-first-t20i-against-afghanistan-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/4xyz8mvt/Abhishek-Sharma-India-vs-Afghanistan-1st-T20I.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9825677a1105",
+            "feed": "maharashtratimes",
+            "title": "Women's Asia Cup Final : आम्हाला भारताची खेळाडू एकटी पुरून उरली, आशिया कपमधील पराभवानंतर श्रीलंकेची कॅप्टन काय म्हणाली?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-09-14T01:15:22",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/womens-asia-cup-2026-indw-vs-slw-sri-lanka-captain-chamari-athapaththu-big-statement-about-match/articleshow/134221875.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c3126da3d7f9",
+            "feed": "lokmat",
+            "title": "भारताच्या लेकींनी फायनल जिंकली, Asia Cup ट्रॉफीचं काय? नक्वींचा आडमुठेपणा अन् पुन्हा तेच घडलं!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-09-14T00:57:48",
+            "url": "https://www.lokmat.com/cricket/news/india-refuse-to-accept-womens-asia-cup-trophy-from-mohsin-naqvi-chaos-reigns-supreme-as-last-years-drama-repeated-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-refuse-to-accept-womens-asia-cup-trophy-2026-m_2026091783415.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
