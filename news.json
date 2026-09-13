@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "14-09-2026 | 03:26 AM IST",
+    "lastUpdated": "14-09-2026 | 05:18 AM IST",
     "maharashtra": [
         {
             "id": "d107c2cda8c9",
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "eb1f7acf929b",
+            "feed": "lokmat",
+            "title": "Asia Cup Trophy Controversy : टीम इंडियाचा नक्वींना पुन्हा ठेंगा? कोच अमोल मुझुमदार म्हणाले, ‘आम्ही चॅम्पियन आहोत...\"",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-09-14T03:49:20",
+            "url": "https://www.lokmat.com/cricket/news/indian-coach-amol-mazumdar-on-refusing-to-take-asia-cup-trophy-from-mohsin-naqvi-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-coach-amol-mazumdar-on-refusing-to-take-asia-cup-trophy-from-mohsin-naqvi-m_2026091783419.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "23e1b1139014",
             "feed": "esakal",
             "title": "IND vs AFG: अभिषेक शर्माचं शतक हुकलं, पण 'असा' पराक्रम करणारा पहिलाच भारतीय ठरला! आंद्रे रसेलला टाकलं मागं",
@@ -276,22 +292,6 @@
             "published": "2026-09-14T01:15:22",
             "url": "https://maharashtratimes.com/sports/cricket/cricket-news/womens-asia-cup-2026-indw-vs-slw-sri-lanka-captain-chamari-athapaththu-big-statement-about-match/articleshow/134221875.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c3126da3d7f9",
-            "feed": "lokmat",
-            "title": "भारताच्या लेकींनी फायनल जिंकली, Asia Cup ट्रॉफीचं काय? नक्वींचा आडमुठेपणा अन् पुन्हा तेच घडलं!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-14T00:57:48",
-            "url": "https://www.lokmat.com/cricket/news/india-refuse-to-accept-womens-asia-cup-trophy-from-mohsin-naqvi-chaos-reigns-supreme-as-last-years-drama-repeated-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-refuse-to-accept-womens-asia-cup-trophy-2026-m_2026091783415.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
