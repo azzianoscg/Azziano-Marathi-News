@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "13-09-2026 | 10:16 PM IST",
+    "lastUpdated": "14-09-2026 | 12:36 AM IST",
     "maharashtra": [
+        {
+            "id": "d107c2cda8c9",
+            "feed": "maharashtratimes",
+            "title": "Crime News : व्यावसायिकाला आंतरराष्ट्रीय कॉलमधून धमकी, मुंबईच्या गुन्हे शाखेने एकाला उचललं, पोलिसांना पाकिस्तान कनेक्शनचा संशय",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-13T23:59:26",
+            "url": "https://maharashtratimes.com/maharashtra/satara/mumbai-crime-branch-arrests-accused-in-international-threat-to-businessman-case-with-pakistan-connection/articleshow/134218179.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c3ea8ded7a36",
+            "feed": "lokmat",
+            "title": "आता ‘मिसिंग’ नाहीच, प्रत्येक तक्रारीत ‘किडनॅपिंग’चा एफआयआर; सर्वोच्च न्यायालयाचे आदेश",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-13T23:19:23",
+            "url": "https://www.lokmat.com/amravati/now-there-is-no-more-missing-fir-of-kidnapping-in-every-complaint-supreme-court-orders-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supreme-court-missing-person-case_2026091783378.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "314f62fed8b9",
+            "feed": "lokmat",
+            "title": "Manoj Jarange: \"आम्हाला बाजू मांडण्याची संधी द्या\", मनोज जरांगेंचा मुंबई पोलिसांकडे परवानगीसाठी दुसरा अर्ज",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-13T22:56:25",
+            "url": "https://www.lokmat.com/mumbai/manoj-jarange-mumbai-protest-give-us-a-chance-to-present-our-case-manoj-jaranges-second-application-to-mumbai-police-for-permission-to-protest-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-jarange-patil-mumbai-march-latest-update_2026091783372.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "161a22d713c5",
+            "feed": "esakal",
+            "title": "Railway Accident: रेल्वे गेट ९६ जवळ स्विफ्ट गाडी २० फूट खड्ड्यात कोसळली; तीन पलट्यांनंतरही एअरबॅगमुळे पाच जणांचे प्राण वाचले",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-13T22:25:41",
+            "url": "https://www.esakal.com/satara/phaltan-kolhapur-swift-car-railway-gate-96-accident-koparde-five-safe-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/7a3kbhmd/Esakal-2026-09-13T222510.486.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "7e906cc4455e",
             "feed": "esakal",
@@ -16,155 +80,107 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-13/cq72y43x/Esakal-2026-09-13T220948.189.png",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "8ab7efda7bcc",
-            "feed": "maharashtratimes",
-            "title": "Management Admissions: 'एमबीए'च्या धर्तीवर आता ‘पीजीडीएम’ आणि ‘पीजीसीएम’साठीही सीईटी अनिवार्य; पुढील शैक्षणिक वर्षापासून  बदल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-13T22:06:56",
-            "url": "https://maharashtratimes.com/career/career-news/maharashtra-pgdm-pgcm-management-courses-under-cet-cell-fra-fee-regulating-authority/articleshow/134212143.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "e3c0c5d73ebd",
-            "feed": "esakal",
-            "title": "Water Pipeline Burst: फारोळा जलशुद्धीकरण केंद्राची १२०० मिमी जलवाहिनी फुटली; छत्रपती संभाजीनगरच्या पाणीपुरवठ्यावर परिणाम",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-13T22:06:17",
-            "url": "https://www.esakal.com/marathwada/farola-water-treatment-plant-1200-mm-pipeline-burst-chhatrapati-sambhajinagar-water-supply-150-mld-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/b1223zmb/Esakal-2026-09-13T220419.869.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "9c727a1de440",
-            "feed": "lokmat",
-            "title": "'मनोज जरांगे पाटील यांची कोंडी केल्यास कोल्हापुरातून मुंबईकडे कूच करू, मुस्कटदाबी तात्काळ थांबवा'; सकल मराठा समाजाचा इशारा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-13T22:04:28",
-            "url": "https://www.lokmat.com/kolhapur/if-manoj-jarange-patil-is-put-in-a-dilemma-we-will-march-from-kolhapur-to-mumbai-stop-the-pressure-immediately-warning-from-the-entire-maratha-community-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-jarange-mumbai-march-update_2026091783368.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "735e9e16dc73",
-            "feed": "esakal",
-            "title": "Amit Shah Eknath Shinde Meeting : अमित शहा-एकनाथ शिंदे यांच्यात अर्धा तास चर्चा; एकाच कारमधून प्रवास, राजकीय वर्तुळात चर्चांना उधाण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-13T21:39:15",
-            "url": "https://www.esakal.com/mumbai/amit-shah-eknath-shinde-meeting-mumbai-maharashtra-politics-cabinet-expansion-service-campaign",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/fydzyyr2/54.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "15e462da70b1",
+            "id": "9d7d4a4bf21c",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : देश-विदेशात दिवसभरात काय घडलं जाणून घ्या एका क्लिकवर...",
+            "title": "ना DJ, ना भपकेबाजपणा! कसा होता 1993 सालचा सार्वजनिक गणेशोत्सव?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-13T22:00:28",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-13-september-brics-summit-mumbai-pune-vidarbha-rain-ganeshotsav-preparations-maratha-reservation-manoj-jarange-patil-union-home-minister-amit-shah-srk94-ymk-86",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "435830bd2975",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 14 सप्टेंबर 2026 : अनंत चतुर्दशीच्या शुभ दिनी बाप्पा देणार या राशींना सुख समृद्धी, शुभवार्ता मिळणार ! पहा तुमचे राशिभविष्य काय सांगते ?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-13T21:55:43",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-14-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134212133.cms",
-            "image": "",
+            "published": "2026-09-13T23:59:46",
+            "url": "https://www.esakal.com/ampstories/web-story/no-djs-what-was-the-1993-public-ganesh-festival-like-relive-the-nostalgic-memories-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-03/usgqn6m0/Ganesh-idol-Design-.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "b7588062e20b",
+            "id": "4ce2028e0996",
             "feed": "lokmat",
-            "title": "Gauri Ganpati 2026 : गौरी-गणपतीच्या पूजेसाठी घ्या खास कलांजली पैठणी; १० रंग, आरी वर्कच्या ब्लाऊजनं खुलेल लूक",
+            "title": "Ganesh Chaturthi 2026 Wishes: गणेश चतुर्थीच्या हार्दिक शुभेच्छा, मराठी Messages, WhatsApp Status, Quotes शेअर करत स्वागत करा गणपती बाप्पाचं!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-13T21:41:25",
-            "url": "https://www.lokmat.com/sakhi/photos/shopping/gauri-ganpati-special-kalanjali-paithni-with-aari-work-blouse-in-10-colours-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-13-at-5.43.03-pm_2026091783363.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "982c7dffeaca",
-            "feed": "maharashtratimes",
-            "title": "Shilpa Shetty : शिल्पा शेट्टीच्या घरी गणपती बाप्पाचं आगमन, पती राज कुंद्रासोबत केलं गणरायचं स्वागत; Video व्हायरल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-13T21:34:03",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/shilpa-shetty-karan-kundra-welcomes-ganpati-bappa-video-viral/articleshow/134210307.cms",
-            "image": "",
+            "published": "2026-09-13T23:55:44",
+            "url": "https://www.lokmat.com/photos/bhakti/happy-ganesh-chaturthi-2026-wishes-in-marathi-share-ganesh-chaturthi-chya-shubhechha-messages-whatsapp-status-quotes-hd-photos-ganpati-bappa-morya-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganesh-chaturthi-2026-wishes-in-marathi-3_2026091782706.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "4277ecc648de",
+            "id": "62a837a95521",
             "feed": "esakal",
-            "title": "गणपतीचेच विसर्जन का होते? इतर देवांच्या मूर्तींचे का नाही? जाणून घ्या धार्मिक रहस्य",
+            "title": "सतत तहान आणि घसा कोरडा पडतोय? शरीर देतंय ‘हा’ संकेत!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-13T21:03:11",
-            "url": "https://www.esakal.com/ampstories/web-story/ganpati-visarjan-why-ganesh-idol-immersion-meaning-religious-spiritual-environmental-significance-other-gods-idol-visarjan-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/o66ktjfn/1.jpg",
+            "published": "2026-09-13T23:52:59",
+            "url": "https://www.esakal.com/ampstories/web-story/still-thirsty-after-drinking-water-dont-ignore-this-sign-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/n7tbj5fc/water-expiry-3.jpg",
             "isBreaking": false,
             "category_reason": "default"
+        },
+        {
+            "id": "a894e05a9384",
+            "feed": "esakal",
+            "title": "मोदकाचा आकार असाच का? बाप्पाच्या आवडत्या नैवेद्यामागे आहे खास अर्थ!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-13T23:47:26",
+            "url": "https://www.esakal.com/ampstories/web-story/why-does-modak-have-this-unique-shape-know-the-spiritual-meaning-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/jm8erzb4/Modak.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "7f8af900734d",
+            "feed": "esakal",
+            "title": "Pune Navale Bridge : पुण्यातील नवले पुलाजवळ अभिनेत्रीसोबत धक्कादायक प्रकार; आधी गाडीला धडक अन् मग हात ओढून पळवून नेण्याचा प्रयत्न",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-13T22:49:32",
+            "url": "https://www.esakal.com/premier/kalyani-nandkishor-actress-incident-pune-navale-bridge-car-blocked-money-extortion-attempt-police-complaint-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/z6sq7viv/55.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "0585a7e7ed9a",
+            "feed": "maharashtratimes",
+            "title": "Indonesia Ship Missing: जावा समुद्रात इंडोनेशियाचं २४३ प्रवाशी घेऊन जाणारं जहाज बेपत्ता, सहा जणांचा मृत्यू, सर्च ऑपरेशन सुरु",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-13T22:46:23",
+            "url": "https://maharashtratimes.com/international/international-news/indonesia-ship-lost-in-java-sea-carrying-243-passengers/articleshow/134212934.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c78464db9f2c",
             "feed": "maharashtratimes",
@@ -228,70 +244,54 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "947f366ae1a8",
-            "feed": "esakal",
-            "title": "Balochistan Blast : बलुचिस्तानात पाकिस्तानी सुरक्षा दलाच्या ताफ्यावर मोठा हल्ला; २३ जवानांचा मृत्यू , BLAचा हात असल्याचा संशय",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-13T16:02:52",
-            "url": "https://www.esakal.com/global/balochistan-blast-lasbela-n25-national-highway-security-convoy-attack-bla-pakistan-latest-news-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/lfc0gg79/49.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "14d61905a784",
+            "id": "16c39812d050",
             "feed": "maharashtratimes",
-            "title": "IND W vs SL W Final : आशिया कप फायनलमध्ये भारताचे श्रीलंकेला 184 धावांचे लक्ष्य; शेफालीची तुफानी खेळी, रचला ऐतिहासिक विक्रम",
+            "title": "IND W vs SL W Final : भारताच्या वाघिणींनी बदला घेतलाच! श्रीलंकेला लोळवत आशिया कपवर आठव्यांदा कोरलं नाव; एकटीनेच फिरवली मॅच",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-09-13T21:56:06",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-w-vs-sl-w-final-india-set-184-run-target-in-asia-cup-final-shafali-verma-half-century-creates-history/articleshow/134211713.cms",
+            "published": "2026-09-13T23:38:48",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-w-vs-sl-w-final-india-women-avenge-defeat-beat-sri-lanka-win-asia-cup-for-eighth-time/articleshow/134216387.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "828d3957a9a7",
+            "id": "51e8248c0c5f",
             "feed": "lokmat",
-            "title": "Shafali Verma Fastest Fifty : फायनलमध्ये शफालीचं वादळी अर्धशतक; स्मृतीच्या डोळ्यादेखत मोडला तिचा विक्रम",
+            "title": "IND vs SL Women's Asia Cup 2026 Final : भारताच्या 'रन'रागणींनी दुबईत फडकवला तिरंगा; आठव्यांदा पटकावले जेतेपद",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-13T21:33:27",
-            "url": "https://www.lokmat.com/cricket/news/shafali-verma-breaks-smriti-mandhana-fastest-fifty-record-in-womens-t20-asia-cup-2026-india-women-vs-sri-lanka-women-match-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shafali-verma-fastest-fifty-m_2026091783365.jpg",
+            "published": "2026-09-13T23:32:04",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-sl-womens-asia-cup-2026-final-harmanpreet-kaur-lead-indian-team-crushes-sri-lanka-to-lift-the-asia-cup-trophy-for-a-record-eighth-time-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-sl-womens-asia-cup-2026-final-m_2026091783382.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0b971abb4935",
+            "id": "9f9f594aa721",
             "feed": "esakal",
-            "title": "IND vs AFG 1st T20I: बुमराह, अर्शदीप आणि चक्रवर्तीची भेदक गोलंदाजी; पण ओमरझाईच्या अर्धशतकाने अफगाणिस्तान दीडशे पार",
+            "title": "Asia Cup 2026 Final: भारतीय संघ आठव्यांदा चॅम्पियन! फायनलमध्ये श्रीलंकेला पराभूत करत जिंकले विजतेपद",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-13T21:24:47",
-            "url": "https://www.esakal.com/krida/cricket/indian-bowlers-restrict-afghanistan-to-156-as-azmatullah-omarzai-64-sets-157-target-in-first-t20i-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-13/z4e09sw7/India-vs-Afghanistan-1st-T20I-1.jpg",
+            "published": "2026-09-13T23:30:51",
+            "url": "https://www.esakal.com/krida/cricket/india-defeat-sri-lanka-to-win-eighth-womens-asia-cup-2026-title-in-dubai-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/9s0obxwm/India-Won-Womens-Asia-Cup-2026.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
