@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "15-09-2026 | 01:32 AM IST",
+    "lastUpdated": "15-09-2026 | 05:05 AM IST",
     "maharashtra": [
         {
             "id": "89caeedd3427",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "91a153682d4a",
+            "feed": "lokmat",
+            "title": "Bhagyashree Controversy: भाग्यश्री यांनी 'त्या' मंदिरात केली आरती, कुटुंबात पेटला वाद; वडील विजयसिंहराजे भडकले, म्हणाले, 'तिला अधिकार नाही'",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-15T01:48:50",
+            "url": "https://www.lokmat.com/filmy/photos/bhagyashree-controversy-bhagyashree-performed-aarti-in-that-temple-dispute-in-the-family-father-vijaysinhraje-got-angry-she-has-no-right-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhagyashree-patwardhan-controversy_2026091783933.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "a343498d74c0",
             "feed": "maharashtratimes",
             "title": "आजचे राशिभविष्य 15 सप्टेंबर 2026 : महादेवाची कृपा आणि गणेशाची साथ या राशींसाठी ठरणार भाग्य चमकवणारी,धनलाभ होणार ! पहा तुमचे राशिभविष्य काय सांगते ?",
@@ -144,22 +160,6 @@
             "published": "2026-09-14T22:04:44",
             "url": "https://www.esakal.com/desh/hanau-germany-ganeshotsav-indian-community-namaste-langen-hessen-womens-association-anil-pandita-maximilian-bieri-dj-free-celebration-vsw03",
             "image": "https://cf-images.assettype.com/esakal/2026-09-14/nx2amzrv/Esakal-2026-09-14T220227.716.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "488c4020e32c",
-            "feed": "esakal",
-            "title": "बागबान २.०! चार मुलांनी केली आई-वडिलांची वाटणी; आता ८० वर्षीय पत्नीनं मागितला घटस्फोट",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-14T21:33:23",
-            "url": "https://www.esakal.com/desh/baghban-2-four-sons-divide-parents-80-year-old-wife-seeks-divorce-bulandshahr-up-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-14/8oxfiiuv/Four-Sons-Divide-Parents",
             "isBreaking": false,
             "category_reason": "url"
         }
