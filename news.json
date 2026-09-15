@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "15-09-2026 | 11:26 PM IST",
+    "lastUpdated": "16-09-2026 | 02:15 AM IST",
     "maharashtra": [
+        {
+            "id": "33c659d8786e",
+            "feed": "lokmat",
+            "title": "नागपुरातील १३६ गणेश मंडळांचा ‘डीजेबंदी’ला पाठिंबा, मुख्यमंत्र्यांच्या मतदारसंघातील बहुतांश मंडळांचा समावेश",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-16T01:07:36",
+            "url": "https://www.lokmat.com/nagpur/136-ganesh-mandals-in-nagpur-support-dj-ban-most-of-the-mandals-are-from-the-chief-ministers-constituency-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dj-ban-in-nagpur_2026091784398.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "45b2532a9567",
             "feed": "maharashtratimes",
@@ -64,102 +80,86 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sanjeev-sonawane-suicide-news_2026091784366.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "43011ba9e229",
-            "feed": "esakal",
-            "title": "Latest Marathi News Update : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-15T21:56:15",
-            "url": "https://www.esakal.com/maharashtra/maharashtra-marathi-live-news-15-sept-2026-maharashtra-chhatrpati-sambhajinagar-latest-news-mass-food-distribution-notification-form-weather-update-imd-rain-forecast-parliament-monsoon-session-nda-bjp-congress-pm-modi-jantar-mantar-protest-cjp-gold-silver-rate-share-market-devendra-fadnavis-eknath-shinde-sunetra-pawar-sports-entertainment-politics-finance-trending-viral-news-updates-srs92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "d5cd61cb084c",
-            "feed": "esakal",
-            "title": "गूळ-खोबरे एकत्र खाता? आधी 'हे' वाचा!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-15T23:19:07",
-            "url": "https://www.esakal.com/ampstories/web-story/read-this-before-eating-jaggery-and-coconut-together-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-15/cl0hih5t/cocont.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d2ddb2959060",
-            "feed": "esakal",
-            "title": "\"मॅडम, तुम्ही कम्प्लीट वुमन आहात.. सरकार येऊ द्या, तुम्हाला सीएम कोट्यातून IAS करतो'' बड्या नेत्याचे व्हॉट्सअ‍ॅप चॅट व्हायरल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-15T22:36:35",
-            "url": "https://www.esakal.com/desh/mathura-samajwadi-party-leader-rajan-rizwi-viral-whatsapp-chat-ias-promise-controversy-rld-attack-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-15/e1a6db8c/Latest-Marathi-Breaking-News-2026-09-15T223411.182.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "2f14626be5bd",
-            "feed": "esakal",
-            "title": "इंजिनियर असलेले ७ भारतीय क्रिकेटपटू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-15T22:36:33",
-            "url": "https://www.esakal.com/ampstories/web-story/indian-cricketers-who-are-qualified-engineers-r-ashwin-anil-kumble-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-15/km9wav8t/Cricketers-With-Engineering-Degrees-11.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "21417e64e471",
+            "id": "a95cc3c66645",
             "feed": "maharashtratimes",
-            "title": "EV लॉक होऊन चालकाशिवाय धावली; आरडाओरडा करत कार मालकाची पळापळ; झाडाला धडकताच वेग वाढला",
+            "title": "<b>पंचांग 16 September 2026: कलानिधी योग, नीचभंग राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-15T22:20:26",
-            "url": "https://maharashtratimes.com/india-news/driverless-mg-windsor-ev-moves-uncontrollably-in-ludhiana-accelerates-post-crash/articleshow/134269070.cms",
+            "published": "2026-09-16T00:39:55",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-16-september-in-marathi-ganeshotsav-2026-kalanidhi-yog-neechbhanga-rajyog-and-shubha-muhurta/articleshow/134271159.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "0dccd07af097",
+            "feed": "maharashtratimes",
+            "title": "Vijayraj Kumari: मेवाडच्या राजमाता विजयराज कुमारी यांच निधन, आता राजघराण्याच्या संपत्तीचे वारसदार कोण?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-16T00:07:54",
+            "url": "https://maharashtratimes.com/india-news/vijayraj-kumari-queen-of-mewar-died-now-who-is-the-heir/articleshow/134270556.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "ee831c96f74b",
+            "id": "7458cd6ff8c0",
             "feed": "esakal",
-            "title": "लैंगिक क्षमता वाढवण्यासाठी मुघल चक्क सोनं खायचे!",
+            "title": "फिश ऑईल कॅप्सूल घेतल्याने काय होते? तज्ज्ञ काय सांगतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-15T21:56:44",
-            "url": "https://www.esakal.com/ampstories/web-story/mughal-emperors-gold-consumption-swarna-bhasma-sexual-power-royal-lifestyle-history-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-15/fy86unm7/6.jpg",
+            "published": "2026-09-15T23:49:27",
+            "url": "https://www.esakal.com/ampstories/web-story/what-happens-when-you-take-fish-oil-capsules-benefits-and-side-effects-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-15/mwe2y9je/Fish-Oil-Capsules-Benefits-Side-Effects-8.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "73778399d71e",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 16 सप्टेंबर 2026 : ग्रह परिवर्तनाचा 4 राशींना लाभ बनणार दुर्मिळ योग,भाग्य देणार साथ ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-15T23:44:39",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-16-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134261938.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ae49a27d922f",
+            "feed": "esakal",
+            "title": "केसगळती? मग हा आजी स्पेशल काढा नक्की ट्राय करा!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-15T23:37:54",
+            "url": "https://www.esakal.com/ampstories/web-story/hair-fall-try-this-traditional-grandma-style-herbal-drink-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-15/pdtamxey/Best-hair-oil-for-hair-growth.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "380a82e556d5",
+            "feed": "maharashtratimes",
+            "title": "IND vs AFG : भारताचा अफगाणिस्तानवर 7 विकेटने विजय, संजू सॅमसनची वादळी खेळी पण सामनावीर ठरला भलताच प्लेयर, कोण?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-09-15T23:30:53",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-afg-2nd-t20-match-result-india-beat-afghanistan-by-seven-wickets-in-the-second-t20i/articleshow/134269857.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "88d9d4762cc3",
             "feed": "lokmat",
             "title": "संजू-अभिषेकची फटकेबाजी! ईशानचा फिनिशिंग टच; टीम इंडियाने दिमाखात जिंकली अफगाणिस्तानविरुद्धची मालिका",
@@ -278,25 +294,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-15/b9tob6js/IND-vs-AFG-2nd-T20I-Sanju-Samson-performance",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "1c59defb2026",
-            "feed": "maharashtratimes",
-            "title": "IND vs AFG 2nd T20 : वाघ शेवटी वाघच असतो! अफगाणिस्तानविरूद्ध पहिलीच ओव्हर अन् वर्ल्ड रेकॉर्डची नोंद, जगातील एकमेव बॉलर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-09-15T22:22:51",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-afg-2nd-t20-jasprit-bumrah-creates-history-in-t20-becomes-the-bowler-with-the-most-maidens/articleshow/134269147.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "94a3c1c40a76",
+            "feed": "lokmat",
+            "title": "UPI Charges: रेल्वे, इंधन, विमा आणि..., या UPI पेमेंटवर लागणार ५ रुपयांचे शुल्क; समजून घ्या सविस्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-09-16T01:00:04",
+            "url": "https://www.lokmat.com/photos/business/upi-charges-railways-fuel-insurance-and-others-a-charge-of-rs-5-will-be-charged-on-these-upi-payments-understand-in-detail-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/upi-charges-on-petrol-railway-ticket-and-insurance-explained-marathi_2026091784386.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "53f2a00d0c4d",
             "feed": "lokmat",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "8288e3994c6e",
-            "feed": "lokmat",
-            "title": "थकीत एफआरपी, गाळप हंगाम पूर्वतयारीसाठी 'या' साखर कारखान्यांना मिळणार निधी, 'हे' कारखाने होतील अपात्र",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-15T21:00:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/funds-will-be-available-for-preparation-of-frp-crushing-season-important-decision-for-sugar-factories-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/15-frp_2026091784356.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
