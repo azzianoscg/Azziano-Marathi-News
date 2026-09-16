@@ -1,347 +1,347 @@
 {
-    "lastUpdated": "16-09-2026 | 01:33 PM IST",
+    "lastUpdated": "16-09-2026 | 07:22 PM IST",
     "maharashtra": [
         {
-            "id": "a3fee893ceec",
+            "id": "4f980066669c",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : संतोष पंडित यांना जामीन मंजूर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-16T19:18:17",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-16-september-maratha-reservation-manoj-jarange-patil-mumbai-ganeshotsav-pune-vidarbha-rain-weather-updates-share-market-gold-silve-price-petrol-diesel-rate-ssy93-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1f8882cc56dc",
             "feed": "lokmat",
-            "title": "पाटोद्यात मनोज जरांगेंची प्रकृती खालावली; शरीरातील पाणी घटले, डॉक्टरांकडून तातडीने उपचार",
+            "title": "महसूल कोट्यवधींचा, देखभाल तोकडी; सिंचन, पाणीपुरवठा, वीजनिर्मितीला आधार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-16T19:16:57",
+            "url": "https://www.lokmat.com/nagpur/revenue-in-crores-maintenance-team-support-for-irrigation-water-supply-power-generation-a-a1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-2026-09-16t191536.078_2026091784970.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "41b71f9e80c3",
+            "feed": "lokmat",
+            "title": "Sangli: फाळकेवाडीत दोन मंडळांत धुमश्चक्री, माजी सरपंचांसह ३० जणांवर गुन्हा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-16T13:24:32",
-            "url": "https://www.lokmat.com/beed/unable-to-move-from-bed-manoj-jaranges-health-deteriorates-en-route-to-mumbai-at-patoda-stay-doctors-issue-urgent-warning-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-jarange-maratha-agitation-patoda_2026091784580.jpg",
+            "published": "2026-09-16T19:15:29",
+            "url": "https://www.lokmat.com/sangli/clashes-between-two-mandals-in-phalkewadi-sangli-30-people-including-former-sarpanch-booked-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/palakewadi-news_2026091784968.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "02492fd04645",
+            "id": "8f90cefad558",
             "feed": "lokmat",
-            "title": "Satara News: बाप्पांच्या आगमनावेळी जुना वाद उफाळला; पालमध्ये दोन मंडळांमध्ये तुफान हाणामारी, सात जण जखमी",
+            "title": "महाड-वरंधा घाटातून एसटी धावली; मग भोर-महाड सेवा कधी सुरू होणार?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-16T13:22:40",
-            "url": "https://www.lokmat.com/satara/seven-people-were-injured-in-a-violent-clash-between-activists-from-two-groups-stemming-from-an-old-dispute-during-the-arrival-of-the-ganpati-idol-at-pal-in-satara-district-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/paal-mandal-hanmari_2026091784578.jpg",
+            "published": "2026-09-16T19:15:27",
+            "url": "https://www.lokmat.com/pune/st-runs-from-mahad-varandha-ghat-so-when-will-bhor-mahad-service-start-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/st-bus-000144image0_2026091784969.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "5ad11ca8c442",
-            "feed": "lokmat",
-            "title": "विकासकामांना विलंब, निविदांनाही ‘शॉर्टकट’; ई-निविदेचा कालावधी घटवण्याची वेळ",
+            "id": "8543a7bf9d9a",
+            "feed": "esakal",
+            "title": "MPSC Exam : एक दोन गुणाने यश हुलकावणी देत होते; अखेर योगेशने महाराष्ट्र लोकसेवा आयोगाच्या परीक्षेत मिळविले यश",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-16T13:17:38",
-            "url": "https://www.lokmat.com/maharashtra/delays-in-development-works-shortcuts-in-tenders-time-to-reduce-the-period-of-e-tendering-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mantralay-25sd-sd_2026091784567.jpg",
+            "published": "2026-09-16T19:12:51",
+            "url": "https://www.esakal.com/pune/success-eluded-yogesh-tulekar-by-just-one-or-two-marks-he-finally-clears-revenue-assistant-post-mpsc-exam-motivation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-16/awm22chq/Yogesh-Tulekar",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "183ad3c7f013",
-            "feed": "lokmat",
-            "title": "Top Marathi News Live: “पवारांनी आरक्षण दिलं नाही, फडणवीसांनी प्रयत्न केले”; चंद्रकांत पाटील",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-16T13:15:23",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-16-september-2026-manoj-jarange-patil-maratha-reservation-cm-devendra-fadnavis-eknath-shinde-ganesh-festival-amit-shah-pm-narendra-modi-us-iran-tensions-brics-2026-ind-vs-afg-drought-in-maharashtra-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5995628ae7ff",
-            "feed": "lokmat",
-            "title": "Sangli: अल्पवयीन मुलीवर अत्याचार करून खून, आरोपीला फाशी; विटा येथील न्यायालयाचा निकाल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-16T13:14:25",
-            "url": "https://www.lokmat.com/sangli/the-vita-court-sentenced-the-accused-to-death-for-the-rape-and-murder-of-a-minor-girl-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vita-murder-girl-court_2026091784564.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "e7627db199ed",
-            "feed": "esakal",
-            "title": "जगातली सर्वात महागडी हॉटेल रूम, १ दिवसाच्या भाड्यात बंगला-गाडी विकत घ्याल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-16T13:30:58",
-            "url": "https://www.esakal.com/ampstories/web-story/worlds-most-expensive-hotel-room-costs-rs-86-lakh-per-night-at-atlantis-the-royal-in-dubai-here-s-what-makes-it-special-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-16/76jw5f5u/worlds-expensive-hotel-2.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "77252940bd66",
-            "feed": "esakal",
-            "title": "Premium|Modak Recipes : गणपती बाप्पासाठी बनवा चार हटके मोदक; उकडीपासून चॉकलेटपर्यंत सोप्या रेसिपी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-16T13:29:39",
-            "url": "https://www.esakal.com/premium-article/saptahik/modak-recipes-ukadiche-chocolate-mango-paan-modak-ganesh-chaturthi-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-16/yjpw7d6y/Abhi-2026-09-16T132850.128.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5a1e55ebec4d",
-            "feed": "maharashtratimes",
-            "title": "Tejaswini Lonari Birthday: 'तुझ्या चेहऱ्यावरचे हासू नेहमी टिकवून ठेवेन', तेजस्विनी लोणारीच्या बर्थडेनिमित्त पती  समाधान सरवणकर यांची खास पोस्ट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-16T13:28:03",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/tejaswini-lonari-birthday-husband-samadhan-sarvankar-share-special-post/articleshow/134281403.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b390cb18445a",
-            "feed": "esakal",
-            "title": "CM Birthday : दिव्यांग मुलांसोबत मुख्यमंत्र्यांचा वाढदिवस; केक कापताना मुलांचे प्रेम पाहून झाले भावुक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-16T13:25:09",
-            "url": "https://www.esakal.com/desh/pushkar-singh-dhami-birthday-divyang-children-niepvd-dehradun-celebration-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-16/267w3vw5/Advait-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "79c2f81df2b0",
+            "id": "a924bf2aa476",
             "feed": "lokmat",
-            "title": "Samudrik Shastra: ज्यांचे कान बाप्पासारखे मोठे आणि डोळे छोटे असतात, त्यांच्याबद्दल समुद्रशास्त्र काय सांगते?",
+            "title": "ज्येष्ठ अभिनेते अनंत नाग यांचा दादासाहेब फाळके पुरस्काराने गौरव, पंतप्रधानांनी केलं अभिनंदन",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-16T13:23:20",
-            "url": "https://www.lokmat.com/bhakti/samudrik-shastra-what-does-oceanography-say-about-those-who-have-big-ears-and-small-eyes-like-bappa-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/samudrik-shastra-about-ear-and-eye-like-lord-ganesha_2026091784579.jpg",
+            "published": "2026-09-16T19:17:05",
+            "url": "https://www.lokmat.com/filmy/south-movies/anant-nag-dadasaheb-phalke-award-2024-announcement-pm-modi-congratulates-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/anant-nag-dadasaheb-phalke-award-2024-announcement-pm-modi-congratulates_2026091784934.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8fd63a37dba4",
+            "feed": "lokmat",
+            "title": "मेथी दाणे आरोग्यासाठी फायदेशीर पण 'या' लोकांनी खाऊ नये; जाणून घ्या कोणासाठी ठरू शकते घातक!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-16T19:12:16",
+            "url": "https://www.lokmat.com/photos/health/fenugreek-seeds-are-beneficial-for-health-but-these-people-should-not-eat-them-know-for-whom-it-can-be-harmful-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/methi-dana9_2026091784964.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "f387f1933e9e",
+            "feed": "maharashtratimes",
+            "title": "Hindustani Bhau : 'तुमची लढाई सरकारसोबत आहे, कायद्याने न्याय मिळवा, सामान्यांना त्रास देऊ नका', मराठा आंदोलनावर हिंदुस्थानी भाऊची प्रतिक्रिया",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-16T19:06:53",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/hindustani-bhau-reacted-on-manoj-jarange-patil-maratha-agitation/articleshow/134289108.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "261431f0e41d",
+            "feed": "maharashtratimes",
+            "title": "UPI charges from October 15 : 0.4% MDR on payments above Rs 2,000, किती चार्जेस, कोणाला मिळाली सूट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-16T19:02:48",
+            "url": "https://maharashtratimes.com/video/mt-originals/upi-charges-from-october-15/videoshow/134289343.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "cf182b28c76b",
+            "feed": "maharashtratimes",
+            "title": "7,000mAh च्या बॅटरीसह अवघ्या 15,999 मध्ये ओप्पोचा नवा फोन बाजारात, AI फीचर्ससह बरंच काही खास",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-16T19:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/how-to-buy-oppo-k14-lite-with-special-offers-check-price-7000mah-battery-and-120hz-display-specifications/articleshow/134286148.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "ed6fa47e9f48",
+            "id": "99570d56f79d",
             "feed": "lokmat",
-            "title": "शी जिनपिंग यांच्या प्रकृतीबाबत खळबळजनक दावा; भारत दौऱ्याहून परतताच थेट रुग्णालयात दाखल?",
+            "title": "सुट्टीच्या दिवशी घरातच बसून राहणारे लोक कसे असतात? अशा लोकांबद्दल मानसशास्त्र काय सांगते, पाहा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-16T13:15:54",
-            "url": "https://www.lokmat.com/international/sensational-claim-about-xi-jinpings-health-directly-admitted-to-hospital-after-returning-from-india-tour-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jinping-health_2026091784566.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "411ada9e5830",
-            "feed": "maharashtratimes",
-            "title": "Malaika Chitre : अमेरिकेतील ट्रेन अपघातात भारतीय वंशाच्या तरुणीचा मृत्यू, कोण होती मलायका चित्रे? मित्राला वाचवण्याच्या नादात जीव गेल्याची चर्चा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-16T11:28:40",
-            "url": "https://maharashtratimes.com/international/international-news/who-were-indian-origin-malaika-chitre-and-her-friend-navam-kaul-rutgers-students-killed-in-nyc-subway-tragedy/articleshow/134279202.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0fdde9a2f0c6",
-            "feed": "esakal",
-            "title": "Helicopter Crash : भीषण अपघात! हेलिकॉप्टर पार्किंगमध्ये कोसळलं, ३ जणांचा जागीच मृत्यू, पाहा VIDEO",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-16T10:31:58",
-            "url": "https://www.esakal.com/global/los-angeles-helicopter-crash-parking-lot-three-dead-fatal-accident-latest-news-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-16/jjbxnwvr/Helicopter-Crash",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "2e1c847a3d92",
-            "feed": "esakal",
-            "title": "Ozone Layer Recovery : ओझोन थरात सुधारणा, छिद्र झाले लहान सीएफसीवरील निर्बंधांचा परिणाम ; २०६६ पर्यंत पूर्ण दिलासा मिळण्याची शक्यता",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-16T10:30:11",
-            "url": "https://www.esakal.com/global/ozone-layer-recovery-cfc-restrictions-antarctica-ozone-hole-2066-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-16/9tcnas73/Advait.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "bf3fdd9eab29",
-            "feed": "maharashtratimes",
-            "title": "चीनने चंद्राच्या 'अंधाऱ्या' भागातील रहस्यमयी खजिना UN कडे सुपूर्द केला, ‘शशी’च्या उत्क्रांतीचे रहस्य उलगडणार!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-16T09:35:13",
-            "url": "https://maharashtratimes.com/gadget-news/science-technology/china-donates-rare-chang-e-6-lunar-far-side-soil-sample-to-united-nations/articleshow/134277544.cms",
-            "image": "",
+            "published": "2026-09-16T18:02:29",
+            "url": "https://www.lokmat.com/sakhi/social-viral/people-who-spend-holiday-in-room-personality-psychology-personality-traits-and-holiday-spending-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-16-at-4.48.05-pm-1_2026091784786.jpeg",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "9d2132d49a21",
+            "feed": "maharashtratimes",
+            "title": "सोन्याची खाण कोसळून भीषण दुर्घटना; 67 जणांचा दुर्दैवी शेवट, अनेक जण ढिगाऱ्याखाली अडकले",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-16T17:57:58",
+            "url": "https://maharashtratimes.com/international/international-news/sudan-gold-mine-collapsed-kills-67-many-still-missing-under-rubble/articleshow/134287687.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "16eb90bdfb99",
+            "feed": "esakal",
+            "title": "Saudi Arabia Drone Attack : मुस्लिमांसाठी पवित्र मक्कावर ड्रोन हल्ल्याचा प्रयत्न ; सौदीने हवेतच केले नष्ट, भारताने व्यक्त केली चिंता",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-16T17:19:22",
+            "url": "https://www.esakal.com/global/saudi-arabia-drone-attack-near-mecca-india-condemns-houthi-attacks-west-asia-tensions-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-16/89ktz23s/Saudi-Arabia-Drone-Attack.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "2d26da15bc50",
+            "feed": "maharashtratimes",
+            "title": "पाकिस्तान भीषण संकटात, स्मार्ट लॉकडाऊनची तयारी सुरू; परिस्थिती हाताबाहेर, जनता मेटाकुटीला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-16T16:03:59",
+            "url": "https://maharashtratimes.com/international/international-news/pakistan-considers-smart-lockdown-to-cut-fuel-use-amid-spiraling-west-asia-tensions/articleshow/134284474.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "501b2c3e6da3",
+            "feed": "esakal",
+            "title": "India Pakistan Navy Collision : अरबी समुद्रात भारत-पाक नौदलाच्या जहाजांची धडक; भारताचा पाकिस्तानला तीव्र इशारा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-16T15:05:10",
+            "url": "https://www.esakal.com/global/india-pakistan-navy-ship-collision-arabian-sea-international-waters-india-diplomatic-protest-1991-agreement-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-16/zyxxkses/61.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "87a71848a365",
-            "feed": "esakal",
-            "title": "IND vs AFG : मॅच विनिंग खेळीनंतरही संजू सॅमसनला बाकावर बसवणार? श्रेयस अय्यरने दिले संकेत; कशी असेल टीम इंडियाची Playing XI?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-16T13:05:01",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-afg-3rd-t20i-sanju-samson-could-make-way-for-vaibhav-sooryavanshi-indias-likely-playing-xi-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-13/fub7qha7/Vaibhav-Sooryavanshi",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2e12acaf1da7",
+            "id": "c7fc13208eff",
             "feed": "lokmat",
-            "title": "Most T20I Runs Record : बटलरचा मोठा पराक्रम! हिटमॅन रोहितचा विक्रम मोडला; बाबरचा विश्वविक्रम धोक्यात",
+            "title": "WPL 2027 : महिला IPLच्या नव्या पर्वाची घोषणा! स्पर्धेच्या तारखांसह लिलाव अन् खेळाडू रिटेनपर्यंतची A टू Z माहिती",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-16T12:55:46",
-            "url": "https://www.lokmat.com/cricket/news/eng-vs-sl-1st-t20i-jos-buttler-surpassed-rohit-sharma-in-most-t20i-runs-now-eyes-on-babar-azam-world-record-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jos-buttler-surpassed-rohit-sharma-in-most-t20i-runs-m_2026091784542.jpg",
+            "published": "2026-09-16T18:54:59",
+            "url": "https://www.lokmat.com/cricket/news/wpl-2027-dates-announced-5th-edition-of-womens-premier-league-to-begin-on-january-14-auction-on-october-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wpl-2027-m_2026091784928.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "98ab04de0fe1",
+            "id": "430adad4505d",
             "feed": "esakal",
-            "title": "पहिल्या दोन सामन्यांत संधी नाही, पण आता वैभव सूर्यवंशीची बारी? श्रेयस अय्यरच्या वक्तव्याने समीकरण बदललं; तिसऱ्या T20 मध्ये खेळणार?",
+            "title": "Harry Brook Record: इंग्लंडच्या कर्णधार हॅरी ब्रूकने रचला इतिहास, T20 वर्ल्ड कप विजेत्या कर्णधार रोहित शर्मालाही हे जमलं नाही",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-16T12:42:08",
-            "url": "https://www.esakal.com/krida/cricket/vaibhav-sooryavanshi-shreyas-iyer-india-vs-afghanistan-third-t20-playing-xi-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-16/g5098xi9/jasprit-bumraha-3.jpg",
+            "published": "2026-09-16T18:09:43",
+            "url": "https://www.esakal.com/krida/cricket/harry-brook-creates-history-becomes-first-full-member-captain-to-score-multiple-t20i-centuries-in-a-year-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-16/1btq35ml/England-captain-Harry-Brook-creates-history-in-T20I-cricket",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "08e891b7e3aa",
+            "feed": "lokmat",
+            "title": "ICC T20I Rankings: अफगाणिस्तानची धुलाई करत अभिषेकनं पाक खेळाडूला दिला धक्का! आता ईशानला टक्कर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-09-16T18:05:09",
+            "url": "https://www.lokmat.com/cricket/news/abhishek-sharma-overtakes-pakistan-sahibzada-farhan-closes-in-on-ishan-kishan-for-no1-spot-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/icc-t20i-rankings-m_2026091784841.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "0c46ba3d1c68",
-            "feed": "lokmat",
-            "title": "स्वाभिमानी शेतकरी संघटनेच्या रौप्यमहोत्सवी ऊस परिषदेची तारीख जाहीर; वाचा काय आहेत प्रमुख मागण्या?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-16T13:05:19",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/date-of-the-silver-jubilee-sugarcane-conference-of-the-swabhimani-shetkari-sanghatana-announced-read-what-are-the-main-demands-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/swabhimani-us-parishad_2026091784508.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "c2c332102c6d",
+            "id": "ffdc116574c3",
             "feed": "esakal",
-            "title": "UPI New Rule: UPI आता खरंच महागणार? ₹2,000 नंतर काय बदलणार; सामान्य माणसाला काय फटका, काय फायदा?",
+            "title": "Gold Hallmarking Charges : दसरा-दिवाळीपूर्वी सोनं-चांदी महागणार? BIS या निर्णयामुळे खरेदीदारांच्या खिशाला बसणार कात्री",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-16T13:03:45",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/upi-new-rule-2026-mdr-charges-above-2000-upi-payment-charges-consumers-benefits-impact-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-16/dcow5303/Copy-of-Copy-of-banner-2026-09-16T125649.580.jpg",
+            "published": "2026-09-16T19:16:35",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/bis-gold-silver-hallmarking-charges-increase-2026-new-gold-jewellery-hallmarking-fee-festive-season-price-impact-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-16/pn36obag/63.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "7e6c8a969b26",
+            "id": "134dc2d1c3ce",
             "feed": "lokmat",
-            "title": "मराठवाडा कृषी विद्यापीठाच्या रब्बी मेळाव्यात होणार बियाणे विक्री; वाचा कोणत्या बियाण्याचा काय दर?",
+            "title": "अहिल्यानगर, नाशिक, सोलापूर : वाचा राज्यात आज कांद्याला कुठे मिळतोय किती दर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-16T12:42:37",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/seeds-will-be-sold-at-the-rabi-fair-of-marathwada-agricultural-university-read-what-is-the-price-of-which-seeds-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vnmkv-parbhani-rabi-biyane_2026091784462.jpeg",
+            "published": "2026-09-16T19:13:07",
+            "url": "https://www.lokmat.com/agriculture/market-yard/ahilyanagar-nashik-solapur-read-where-and-how-much-onion-is-being-sold-in-the-state-today-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-34-u-kanda-market-rate-today_2026091784966.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "9b1fe38baf8b",
+            "feed": "lokmat",
+            "title": "नाशिक जिल्हा सहकारी दूध संघाचे अस्तित्व संपुष्टात; माळेगावचा प्लांट खासगी उद्योगाकडे हस्तांतरित",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-16T19:06:27",
+            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/nashik-district-cooperative-milk-union-ceases-to-exist-malegaon-plant-transferred-to-private-industry-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nashik-milk-dairy-34-u-34-_2026091784901.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
