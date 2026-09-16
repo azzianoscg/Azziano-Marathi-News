@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "16-09-2026 | 04:49 AM IST",
+    "lastUpdated": "16-09-2026 | 07:51 AM IST",
     "maharashtra": [
         {
-            "id": "33c659d8786e",
+            "id": "2f086ca2c040",
+            "feed": "maharashtratimes",
+            "title": "Sunetra Pawar : आपल्या वहिनी आहेत ना... प्लॅन ठरला! सुनेत्रा पवारांचं राजकीय रिलाँचिंग; तटकरे-पटेलांबाबत मात्र संदिग्ध भूमिका",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-16T07:48:13",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/sunetra-pawar-political-relaunching-plan-by-prashant-kishor-sunil-tatkare-praful-patel-on-waiting/articleshow/134276216.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "183ad3c7f013",
             "feed": "lokmat",
-            "title": "नागपुरातील १३६ गणेश मंडळांचा ‘डीजेबंदी’ला पाठिंबा, मुख्यमंत्र्यांच्या मतदारसंघातील बहुतांश मंडळांचा समावेश",
+            "title": "Top Marathi News Live: महाराष्ट्रासह देश-विदेशातील महत्त्वाच्या घडामोडी...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-16T01:07:36",
-            "url": "https://www.lokmat.com/nagpur/136-ganesh-mandals-in-nagpur-support-dj-ban-most-of-the-mandals-are-from-the-chief-ministers-constituency-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dj-ban-in-nagpur_2026091784398.jpg",
+            "published": "2026-09-16T07:43:32",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-16-september-2026-manoj-jarange-patil-maratha-reservation-cm-devendra-fadnavis-eknath-shinde-ganesh-festival-amit-shah-pm-narendra-modi-us-iran-tensions-brics-2026-ind-vs-afg-drought-in-maharashtra-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "45b2532a9567",
+            "id": "9b225d50b6c9",
+            "feed": "esakal",
+            "title": "Rainfall Forecast Maharashtra : महाराष्ट्रातून पाऊस गायब होणार? हवामान विभागाचा पुढील अंदाज चिंताजनक",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-16T07:36:08",
+            "url": "https://www.esakal.com/maharashtra/rain-disappear-imd-next-weather-forecast-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-16/8h1fmpnq/sandeep-shirguppe-2026-09-16T073517.681.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "14750fe245df",
             "feed": "maharashtratimes",
-            "title": "Chhatrapati Sambhajinagar : कुणाचेही फोन आले तरी हातगाड्यांवरील कारवाई थांबवू नका, महापालिका आयुक्तांचे आदेश",
+            "title": "Maharashtra Live News 16th September 2026 : महाराष्ट्रातील ताज्या घडामोडींचे आणि पावसाचे लाईव्ह अपडेट्स",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-15T23:04:45",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/chhatrapati-sambhajinagar-municipal-commissioner-amol-yedge-strict-order-over-street-vendors-enforcement/articleshow/134269817.cms",
+            "published": "2026-09-16T07:21:00",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/maharashtra-live-news-16th-september-2026-maharashtra-mumbai-rain-update-manoj-jarange-patil-azad-maidan-hunger-strike-political-news-ganeshotsav-chief-minister-devendra-fadnavis-upi-transaction-charges-ganeshotsav/liveblog/134276142.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f51aca521c79",
-            "feed": "maharashtratimes",
-            "title": "Sangli News : आटपाडी प्रकरणी वृद्ध नराधमास फाशीची शिक्षा, अन्य दोन गुन्ह्यात मरेपर्यंत जन्मठेप",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-15T22:27:04",
-            "url": "https://maharashtratimes.com/maharashtra/sangli/death-penalty-to-accused-in-atpadi-case-life-imprisonment-for-other-crimes/articleshow/134269207.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dee2a221fa60",
-            "feed": "maharashtratimes",
-            "title": "MPSC Clerk Typist Posting: एमपीएससी 'लिपिक-टंकलेखक' पदाच्या नियुक्तीचे नियम स्पष्ट; संपूर्ण महाराष्ट्रातील रिक्त जागांवर मिळणार संधी!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-15T22:16:27",
-            "url": "https://maharashtratimes.com/career/career-news/mpsc-group-c-clerk-typist-2025-statewide-posting-marathi-news-maharashtra-lokseva-aayog/articleshow/134269161.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "0a7907c5037f",
+            "id": "ab04d6439b83",
             "feed": "lokmat",
-            "title": "'यासाठी कोणालाही जबाबदार धरू नका, चौकशीही करू नका', शिक्षण संस्थाचालक संजीव सोनवणेंनी मृत्यूपूर्वी काय लिहिले, 'त्या' चिठ्ठीत काय?",
+            "title": "बलात्कार पीडितेला इच्छेविरुद्ध मातृत्व लादणे हे सन्मानाने जगण्याच्या हक्कावर गदा आणणारे",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-15T22:05:36",
-            "url": "https://www.lokmat.com/latur/dont-hold-anyone-responsible-for-my-death-dont-even-investigate-what-did-sanjeev-sonawane-write-before-his-death-what-was-in-that-note-a-a463-c571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sanjeev-sonawane-suicide-news_2026091784366.jpeg",
+            "published": "2026-09-16T07:14:37",
+            "url": "https://www.lokmat.com/navi-mumbai/forcing-a-rape-victim-to-become-a-mother-against-her-will-is-a-violation-of-her-right-to-live-with-dignity-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjfkyfds_2026091784410.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "a95cc3c66645",
-            "feed": "maharashtratimes",
-            "title": "<b>पंचांग 16 September 2026: कलानिधी योग, नीचभंग राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "id": "593dfe1c1438",
+            "feed": "lokmat",
+            "title": "राजस्थानातील पालिकांत भाजपने घेतली आघाडी; शहरांत काँग्रेसच्या स्थितीत सुधारणा, अपक्षांत वाढ",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-16T00:39:55",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-16-september-in-marathi-ganeshotsav-2026-kalanidhi-yog-neechbhanga-rajyog-and-shubha-muhurta/articleshow/134271159.cms",
-            "image": "",
+            "published": "2026-09-16T07:36:39",
+            "url": "https://www.lokmat.com/rajasthan/bjp-takes-lead-in-rajasthan-municipalities-congresss-position-improves-in-cities-independents-increase-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hasrf_2026091784416.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "0dccd07af097",
+            "id": "0a5ca05fa9bb",
+            "feed": "lokmat",
+            "title": "महिला बायकरला धडक देणाऱ्यास राजस्थानात अटक; हत्येच्या प्रयत्नाचा गुन्हा दाखल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-16T07:31:44",
+            "url": "https://www.lokmat.com/crime/man-arrested-in-rajasthan-for-hitting-female-biker-case-of-attempt-to-murder-registered-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/djhc_2026091784415.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "041fe729fcdf",
+            "feed": "lokmat",
+            "title": "श्रीराम मंदिराच्या बांधकामातील कंपन्यांना बँक हमी बंधनकारक; भविष्यात गुणवत्तेची हमी राहण्यासाठी उचलले पाऊल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-16T07:27:01",
+            "url": "https://www.lokmat.com/uttar-pradesh/bank-guarantee-mandatory-for-companies-involved-in-the-construction-of-shri-ram-temple-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ayodhya-ram-mandir_2026091784413.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "980009210ebb",
             "feed": "maharashtratimes",
-            "title": "Vijayraj Kumari: मेवाडच्या राजमाता विजयराज कुमारी यांच निधन, आता राजघराण्याच्या संपत्तीचे वारसदार कोण?",
+            "title": "Tharala Tar Mag : मायाळू सासू अचानक झाली खाष्ट, श्वेतानेच सायलीविरोधात भरले सुभेदारांचे कान, महिपतचा पॉडकास्ट रिलीज",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-16T00:07:54",
-            "url": "https://maharashtratimes.com/india-news/vijayraj-kumari-queen-of-mewar-died-now-who-is-the-heir/articleshow/134270556.cms",
+            "published": "2026-09-16T07:23:43",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/tharala-tar-mag-serial-16-september-2026-episode-sayali-faces-anger-from-family-for-taking-risk/articleshow/134275975.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "7458cd6ff8c0",
-            "feed": "esakal",
-            "title": "फिश ऑईल कॅप्सूल घेतल्याने काय होते? तज्ज्ञ काय सांगतात?",
+            "id": "334ab7b98ce7",
+            "feed": "lokmat",
+            "title": "‘एनडीए’च्या ५ राज्यांचा यूसीसीला विरोध; बिहारमध्ये अंमलबजावणीस संयुक्त जनता दलाची हरकत",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
             },
-            "published": "2026-09-15T23:49:27",
-            "url": "https://www.esakal.com/ampstories/web-story/what-happens-when-you-take-fish-oil-capsules-benefits-and-side-effects-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-15/mwe2y9je/Fish-Oil-Capsules-Benefits-Side-Effects-8.jpg",
+            "published": "2026-09-16T07:22:07",
+            "url": "https://www.lokmat.com/national/5-nda-states-oppose-ucc-janata-dal-united-objects-to-implementation-in-bihar-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ucc-ew_2026091784411.jpg",
             "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "73778399d71e",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 16 सप्टेंबर 2026 : ग्रह परिवर्तनाचा 4 राशींना लाभ बनणार दुर्मिळ योग,भाग्य देणार साथ ! पहा तुमचे राशिभविष्य काय सांगते ?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-15T23:44:39",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-16-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134261938.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ae49a27d922f",
-            "feed": "esakal",
-            "title": "केसगळती? मग हा आजी स्पेशल काढा नक्की ट्राय करा!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-15T23:37:54",
-            "url": "https://www.esakal.com/ampstories/web-story/hair-fall-try-this-traditional-grandma-style-herbal-drink-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-15/pdtamxey/Best-hair-oil-for-hair-growth.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "116c3555d6f1",
+            "feed": "lokmat",
+            "title": "ट्रम्प यांच्या व्हिसा नियमाला न्यायालयाने दिली स्थगिती; भारतीय विद्यार्थी, संशोधकांच्या अमेरिकेतील मुक्काम मर्यादेला दिलासा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-16T07:02:13",
+            "url": "https://www.lokmat.com/international/court-stays-trumps-visa-rule-eases-stay-limit-for-indian-students-researchers-in-us-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-court-visa_2026091784408.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "77f1ec1a5c0f",
             "feed": "maharashtratimes",
@@ -228,25 +244,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-15/eteuk1up/Latest-Marathi-Breaking-News-2026-09-15T184202.248.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "7d5f20e2bee9",
-            "feed": "lokmat",
-            "title": "जमिनीवर नाही, चक्क हवेत धावते ट्रेन! चीनची ‘स्काय ट्रेन’ पाहून व्हाल थक्क",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-15T18:38:39",
-            "url": "https://www.lokmat.com/social-viral/sky-train-china-sky-train-magnetic-track-33-feet-above-ground-a-a583/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sky-train1_2026091784305.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "1ef8cac30000",
+            "feed": "esakal",
+            "title": "गणेश चतुर्थीला ओव्हलच्या मैदानात झालेली हत्तीची एंट्री अन् मग भारताने मिळवलेला ऐतिहासिक विजय; जाणून घ्या खास किस्सा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-16T07:00:00",
+            "url": "https://www.esakal.com/krida/cricket/bella-the-elephant-and-indias-historic-test-victory-at-the-oval-in-1971-vs-england-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-15/u4bx022l/Suryakumar-Yadav-Unseen-College-Photos-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "380a82e556d5",
             "feed": "maharashtratimes",
@@ -278,70 +294,54 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-beat-afghanistan-by-7-wickets-and-win-series-2-0-in-new-delhi-m_2026091784370.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "14149bed92fc",
-            "feed": "esakal",
-            "title": "IND vs AFG 2nd T20I: संजू सॅमसनने सर्वांची बोलती बंद केली, भारताच्या विजयात महत्त्वाची भूमिका बजावली!  मालिका जिंकली",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-15T22:24:07",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-afg-2nd-t20i-sanju-samson-silences-critics-as-india-beat-afghanistan-to-seal-series-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-15/b9tob6js/IND-vs-AFG-2nd-T20I-Sanju-Samson-performance",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "94a3c1c40a76",
+            "id": "1930b2360c85",
             "feed": "lokmat",
-            "title": "UPI Charges: रेल्वे, इंधन, विमा आणि..., या UPI पेमेंटवर लागणार ५ रुपयांचे शुल्क; समजून घ्या सविस्तर",
+            "title": "आजचे राशीभविष्य: १६ सप्टेंबर २०२६: फायदेशीर गुंतवणूक कराल, दुपार नंतर मानसिकता बदलेल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-09-16T01:00:04",
-            "url": "https://www.lokmat.com/photos/business/upi-charges-railways-fuel-insurance-and-others-a-charge-of-rs-5-will-be-charged-on-these-upi-payments-understand-in-detail-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/upi-charges-on-petrol-railway-ticket-and-insurance-explained-marathi_2026091784386.jpg",
+            "published": "2026-09-16T07:27:37",
+            "url": "https://www.lokmat.com/astro/articles/today-daily-horoscope-16-september-2026-astrology-zodiac-sign-marathi-rashi-bhavishya-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhavishya-wednesday_202208865234.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
-            "id": "53f2a00d0c4d",
-            "feed": "lokmat",
-            "title": "UPI MDR: यूपीआय आता पूर्णपणे मोफत का राहणार नाही? NPCI ने सांगितली शुल्क आकारणीची कारणे; हे पैसे कुठे वापरले जाणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-09-15T23:12:12",
-            "url": "https://www.lokmat.com/business/news/upi-mdr-why-wont-upi-be-completely-free-now-npci-gave-reasons-for-charging-fees-where-will-this-money-be-used-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/upi-new-charges-rules-explained_2026091784372.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f8be078e425d",
+            "id": "3e39ac5c4a47",
             "feed": "maharashtratimes",
-            "title": "आता UPI मोफत राहिले नाही! व्यवहारावर जास्तीत जास्त 300 रुपये आकरणार चार्जेस",
+            "title": "Success Story: अशी कमाल TATA च करू शकतात! ना कोणती जाहिरात, ना डिस्काउंट; एका आयडियाने Zudio ने कॉम्पिटिशन संपवलं",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-09-15T21:15:23",
-            "url": "https://maharashtratimes.com/business/business-news/upi-mdr-charges-above-2000-payments-will-be-applied-from-15-october-2026-know-about-it-in-details/articleshow/134267927.cms",
+            "published": "2026-09-16T07:14:00",
+            "url": "https://maharashtratimes.com/business/business-news/success-story-of-zudio-from-affordable-to-fast-growing-tata-group-fashion-retail-brand/articleshow/134256547.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2719ce932f8c",
+            "feed": "lokmat",
+            "title": "२ हजारांवरील यूपीआय व्यवहारावर ०.४% शुल्क, नवे नियम १५ ऑक्टोबर २०२६ पासून लागू; तुमच्या खिशावर काय परिणाम होणार?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-09-16T06:22:01",
+            "url": "https://www.lokmat.com/business/news/04-fee-on-upi-transactions-above-rs-2000-new-rules-effective-from-october-15-2026-what-will-be-the-impact-on-your-pocket-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/upi-as_2026091784400.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
