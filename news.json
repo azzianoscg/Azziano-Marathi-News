@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "16-09-2026 | 11:21 PM IST",
+    "lastUpdated": "17-09-2026 | 02:08 AM IST",
     "maharashtra": [
+        {
+            "id": "4d82f0e613ba",
+            "feed": "lokmat",
+            "title": "मुला-मुलींच्या अश्लीलतेचा बाजार मांडणाऱ्यांवर सायबर पोलिसांची करडी नजर, ‘आय४सी’चा अलर्ट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-16T23:31:33",
+            "url": "https://www.lokmat.com/nagpur/cyber-police-keep-a-close-eye-on-those-marketing-pornography-of-children-and-girls-i4c-alerts-a-a877-c571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/social-media-sexaul-crime_2026091785027.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "126feae600fe",
+            "feed": "lokmat",
+            "title": "केडीएमसीची मोक्याच्या जागेवरील इमारत कमी दराने दहा वर्षाकरीता भाड्यावर, हे असे कसे? मनसे नगरसेवकांचा संतप्त सवाल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-16T23:16:02",
+            "url": "https://www.lokmat.com/thane/kdmcs-building-at-a-strategic-location-is-on-rent-for-ten-years-at-a-low-rate-how-is-this-possible-angry-question-from-mns-corporators-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ulhasnagar-news_2026091785025.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "183ad3c7f013",
             "feed": "lokmat",
@@ -48,118 +80,86 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-jarange-patil-maharashtra-govt-news_2026091785023.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "4f980066669c",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : देश-विदेशात दिवसभरात काय घडलं? वाचा एका क्लिकवर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-16T22:01:19",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-16-september-maratha-reservation-manoj-jarange-patil-mumbai-ganeshotsav-pune-vidarbha-rain-weather-updates-share-market-gold-silve-price-petrol-diesel-rate-ssy93-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7bd27bfce7a2",
-            "feed": "lokmat",
-            "title": "Sangli Accident: पत्नीला घ्यायला शाळेत गेले, येताना चिमुकल्या हर्षितासह वडिलांचा मृत्यू; तासगाव-मणेराजुरी रस्त्यावर भीषण अपघात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-16T21:45:42",
-            "url": "https://www.lokmat.com/sangli/sangli-accident-went-to-school-to-pick-up-his-wife-father-died-along-with-little-harshita-while-returning-terrible-accident-on-tasgaon-manerajuri-road-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/father-daughter-killed-in-accident-sangli_2026091785020.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "58094245acbe",
+            "id": "417e2c59e720",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 17 September 2026: ज्येष्ठा गौरी आवाहन, विश्वकर्मा दिन, सूर्यषष्ठी, बुधादित्य योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-17T01:10:00",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-17-september-in-marathi-ganeshotsav-2026-gauri-avahan-vishwakarma-din-and-shubha-muhurta/articleshow/134293763.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "df9591769c85",
+            "feed": "lokmat",
+            "title": "Crime: लेक बापाला वाचवायला गेली, ग्रामपंचायत कार्यालयात दोघांचीही हत्या; माजी सैनिक हत्या प्रकरण काय आहे?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-17T00:28:07",
+            "url": "https://www.lokmat.com/crime/crime-daughter-went-to-save-father-both-murdered-in-gram-panchayat-office-what-is-the-ex-soldier-murder-case-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/daughter-father-killed-news_2026091785029.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "7382e59123c0",
             "feed": "esakal",
-            "title": "Censor Board: केंद्राकडून सेन्सॉर बोर्डाची फेररचना! १८ सदस्यांची निवड; निशिगंधा वाड, वामन केंद्रे, मनोज जोशींचा समावेश",
+            "title": "LDL वाढलंय की नॉर्मल? 100, 130, 160 की 190… जाणून घ्या रेंज",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-16T22:55:39",
-            "url": "https://www.esakal.com/premier/cbfc-censor-board-reconstituted-preity-zinta-suniel-shetty-18-new-members-appointed-cinematograph-act-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-16/du3dbdcd/Latest-Marathi-Breaking-News-2026-09-16T225312.923.jpg",
+            "published": "2026-09-16T23:58:55",
+            "url": "https://www.esakal.com/ampstories/web-story/ldl-cholesterol100-130-160-or-190-understand-what-your-number-means-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-16/apx31ull/vegetables-to-control-cholesterol-3.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "93aa6332e86f",
-            "feed": "lokmat",
-            "title": "LIVE : Shrimant Bhausaheb Rangari Ganpati Bappa Darshan",
+            "id": "084c0bd57487",
+            "feed": "esakal",
+            "title": "पिस्ता भिजवून खावा की नाही?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-16T22:00:53",
-            "url": "https://www.lokmat.com/videos/bhakti/live-shrimant-bhausaheb-rangari-ganpati-bappa-darshan-darshan-of-shrimant-bhausaheb-rangari-ganapati-a-a750/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jz2tmszxvps-sd_2026091785022.jpg",
+            "published": "2026-09-16T23:55:49",
+            "url": "https://www.esakal.com/ampstories/web-story/should-you-soak-pistachios-before-eating-know-the-facts-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-16/neh5bgk5/Benefits-of-eating-pistachios-at-night-1.png",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "2511b53d1190",
-            "feed": "maharashtratimes",
-            "title": "Bhagysharee Patwardhan Controversy : 'भाग्यश्रीला पुन्हा पूजा करण्याचा अधिकार कोणी दिला? तिचं वागणं उन्मत्तपणाचं आहे', विजयसिंह राजे पटवर्धन यांनी सुनावले खडेबोल",
+            "id": "3880c075570d",
+            "feed": "esakal",
+            "title": "चिमूटभर मीठ जिभेवर ठेवल्याने शरीरात काय बदल होतात?",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-16T21:55:28",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/vijaysinh-raje-patwardhan-on-bhagyashree-patwardhan-sangli-ganpati-sansthan-controversy/articleshow/134291676.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d2d118e9eaac",
-            "feed": "maharashtratimes",
-            "title": "वडिलांवर हल्ला, लेक बचावाला धावली; हल्लेखोरांनी दोघांना संपवलं, भाऊबंदकीतून ग्राम पंचायतीत थरार",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-16T21:38:48",
-            "url": "https://maharashtratimes.com/india-news/karnataka-shocker-father-daughter-hacked-to-death-at-gram-panchayat-in-belgaavi-over-property-dispute/articleshow/134291906.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "5085ce3c0381",
-            "feed": "lokmat",
-            "title": "दादरमध्ये दडलंय बाप्पाच्या ज्वेलरीचं स्वस्त दुकान! फक्त ₹70 पासून Ganpati Special Jewellery",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-16T21:37:51",
-            "url": "https://www.lokmat.com/sakhi/videos/beauty/a-cheap-bappas-jewellery-shop-hidden-in-dadar-ganpati-special-jewellery-from-just-rs70-a-a750/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ibdyahqlnly-sd_2026091785019.jpg",
+            "published": "2026-09-16T23:52:49",
+            "url": "https://www.esakal.com/ampstories/web-story/what-happens-to-your-body-when-you-put-a-pinch-of-salt-on-your-tongue-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-16/bc0kcyzn/Keep-Salt-Bowl-In-Refrigerator-3.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
