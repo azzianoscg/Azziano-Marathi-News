@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "17-09-2026 | 02:08 AM IST",
+    "lastUpdated": "17-09-2026 | 04:54 AM IST",
     "maharashtra": [
+        {
+            "id": "742ea4c367f1",
+            "feed": "maharashtratimes",
+            "title": "Marathwada Mukti Sangram: भारताच्या स्वातंत्र्यानंतरही १३ महिने लढा! १७ सप्टेंबरला निजामाची सत्ता उखडून मराठवाड्याने मिळवले स्वातंत्र्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-17T03:05:23",
+            "url": "https://maharashtratimes.com/career/career-news/marathwada-mukti-sangram-history-september-17-operation-polo-swami-ramanand-tirth-sardar-vallabhbhai-patel/articleshow/134296548.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "4d82f0e613ba",
             "feed": "lokmat",
@@ -62,22 +78,6 @@
             "published": "2026-09-16T23:09:20",
             "url": "https://maharashtratimes.com/maharashtra/nandurbar/credit-war-between-hina-gravite-and-chandrakant-raghuvanshi-over-udhna-pune-amrut-bharat-express/articleshow/134293483.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e66817162545",
-            "feed": "lokmat",
-            "title": "मनोज जरांगे मुंबईत आंदोलन करण्यावर ठाम, सरकारचे शिष्टमंडळ तातडीने घेणार भेट; मुसदा देणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-16T22:18:39",
-            "url": "https://www.lokmat.com/mumbai/manoj-jarange-is-adamant-on-protesting-in-mumbai-government-delegation-will-meet-immediately-will-they-give-a-draft-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manoj-jarange-patil-maharashtra-govt-news_2026091785023.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         }
