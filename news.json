@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "17-09-2026 | 07:26 PM IST",
+    "lastUpdated": "17-09-2026 | 11:22 PM IST",
     "maharashtra": [
         {
-            "id": "ebf1516559e9",
-            "feed": "esakal",
-            "title": "Paithan Crime News: गुप्तधनाच्या आमिषाने सराफाला वडजी शिवारात नेऊन दहा लाखांची लूट; पाच जणांसह दोन अनोळखी इसमांविरुद्ध गुन्हा",
+            "id": "a87872a99dde",
+            "feed": "maharashtratimes",
+            "title": "हॉटेलमध्ये तपासणी करत असताना धक्कादायक प्रकार उघडकीस; FDA च्या तपासणीत फुटले बनवेगिरीचे बिंग",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
             },
-            "published": "2026-09-17T19:21:09",
-            "url": "https://www.esakal.com/marathwada/paithan-pachod-wadji-gupthadhan-gold-fraud-saraf-merchant-10-lakh-robbery-prakash-chavan-police-case-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2024-05/65f4a443-5382-407a-8092-49c47d65a28f/Untitled_design__30_.jpg",
+            "published": "2026-09-17T23:16:00",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/action-against-hotel-owner-for-producing-fake-food-license-scam-exposed/articleshow/134318532.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "d0214f360a65",
+            "id": "8eaba3ad447f",
             "feed": "esakal",
-            "title": "Latest Marathi News Update : नागपूरच्या अजनी चौकात ‘आशीर्वाद का दीया’ अभियान; दीपोत्सवाला मुख्यमंत्री फडणवीस यांची उपस्थिती",
+            "title": "Maharashtra drought-like situation: परतीचा पाऊस जोरदार पडून बळीराजाला दिलासा मिळू दे; महसूलमंत्री चंद्रकांत बावनकुळे यांचे गणरायाला साकडे",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-17T19:20:54",
-            "url": "https://www.esakal.com/maharashtra/maharashtra-marathi-live-news-17-sept-2026-gokul-milk-politics-election-news-kolhapur-satej-patil-hasan-mushrif-dhananjay-mahadik-mass-food-distribution-notification-form-weather-update-imd-rain-forecast-parliament-monsoon-session-nda-bjp-congress-pm-modi-jantar-mantar-protest-cjp-gold-silver-rate-share-market-devendra-fadnavis-eknath-shinde-sunetra-pawar-sports-entertainment-politics-finance-trending-viral-news-updates-srs92-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2024-03/d400462f-6713-4b33-8ed6-d973316daa07/latest_Marathi_News___2024_02_08T091255_317__1_.jpg",
+            "published": "2026-09-17T23:15:33",
+            "url": "https://www.esakal.com/pune/chandrakant-bawankule-pune-ganpati-darshan-drought-review-seva-sankalp-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-17/lygqmmo4/Esakal-2026-09-17T231513.283.png",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7dcc876628a7",
+            "id": "6c71731ce439",
             "feed": "lokmat",
-            "title": "मेळघाटात सरकारी नोकरीच्या बनावट ऑर्डर देऊन तरूणांना फसविणारी टोळी!",
+            "title": "Shrimant Bhausaheb Rangari Ganpati: पुण्यात बारा हजारांहून अधिक विद्यार्थ्यांनी गणेशस्तोत्र गायनातून रचला जागतिक रेकॉर्ड",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-09-17T19:19:59",
-            "url": "https://www.lokmat.com/amravati/gang-defrauding-youth-by-giving-fake-government-job-orders-in-melghat-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-2026-09-17t191834.238_2026091785618.jpg",
+            "published": "2026-09-17T23:11:45",
+            "url": "https://www.lokmat.com/pune/shrimant-bhausaheb-rangari-ganpati-more-than-twelve-thousand-students-in-pune-set-a-world-record-by-singing-ganesh-stotra-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shrimant-bhausaheb-rangari-ganpati_2026091785690.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "ffc6075b0c45",
-            "feed": "lokmat",
-            "title": "Sangli: नेत्यांमध्ये पडलेली ठिणगी पडली.. शासन दरबारी पडेल का?; तासगाव तालुक्याची आमदार, माजी खासदारांकडून अपेक्षा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-17T19:18:17",
-            "url": "https://www.lokmat.com/sangli/exchange-of-allegations-between-mla-rohit-patil-and-former-mp-sanjay-patil-on-the-day-of-the-tasgaon-chariot-festival-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tasgoan-mla-former-mp-news_2026091785617.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "8741cc136b1b",
+            "id": "777f33ed056c",
             "feed": "esakal",
-            "title": "Pishor Three Women Dead : पिशोरमध्ये वाघूळखेडा शिवारात वीज कोसळून तीन महिलांचा मृत्यू, शेतात काम करताना काळाचा घाला; दोन महिला, एक पुरुष गंभीर जखमी",
+            "title": "Maharashtra eco-friendly Ganesh idols: राजभवन ते वर्षा निवासापर्यंत उरुळी कांचनच्या पर्यावरणपूरक ‘वृक्ष गजानना’चा डंका; मंदार आर्टसच्या गणेशमूर्तींना राज्यभर मानाचे स्थान",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-09-17T19:17:52",
-            "url": "https://www.esakal.com/marathwada/aurangabad/kannad-pishor-waghulkheda-lightning-strike-three-women-labourers-death-chhatrapati-sambhajinagar-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-17/ais224dy/Three-Women-Agricultural-Labourers-Killed",
+            "published": "2026-09-17T22:53:44",
+            "url": "https://www.esakal.com/pune/uruli-kanchan-mandar-arts-eco-friendly-ganesh-murti-rajbhavan-varsha-2026-vsw03-2",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-17/47a3puai/Esakal-2026-09-17T225152.772.png",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
+        },
+        {
+            "id": "4b43dacc0fbd",
+            "feed": "esakal",
+            "title": "Junnar water dispute case: सामाईक विहिरीच्या पाण्याच्या वादातून मारहाण; जुन्नर न्यायालयाकडून दोघांना एक वर्षांची शिक्षा व दंड",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-17T22:50:38",
+            "url": "https://www.esakal.com/pune/junner-alefata-water-dispute-court-verdict-one-year-imprisonment-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-10/el3up5fg/sudhir-jadhav-satara-20.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "5bc66a7233c2",
-            "feed": "esakal",
-            "title": "लघवी वारंवार लागतेय आणि जळजळही होतेय? शरीर देतंय ‘हे’ संकेत!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-17T19:21:22",
-            "url": "https://www.esakal.com/ampstories/web-story/burning-urination-frequent-urination-uti-symptoms-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-17/1nu3ndw4/UTI-symptoms-in-women-8.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "f2b334e6890e",
-            "feed": "esakal",
-            "title": "Premium|Konark Sun Temple : कोणार्क मंदिरामागची अदृश्य व्यवस्था; बया चकादातून उलगडते हजारो हातांची कहाणी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-17T19:13:37",
-            "url": "https://www.esakal.com/premium-article/saptahik/konark-sun-temple-baya-chakada-medieval-india-temple-management-narasimhadeva-workers-artisans-administration-hierarchy-records-construction-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-17/7372oype/download-6.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "a94ba692aba3",
+            "id": "bed691f74c1c",
             "feed": "lokmat",
-            "title": "पुऱ्या तळल्या की त्यातून तेल टपकतं? ८ ट्रिक्स, पुऱ्या फुगतील टम्म-एक थेंब तेल गळणार नाही इतक्या होतील मस्त",
+            "title": "रात्री झोपण्याआधी मिठाच्या पाण्यात पाय का बुडवावेत? ८ कारणं, मिठाच्या पाण्यानं काय होतं, पाहा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-17T19:11:37",
-            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-make-puri-oil-free-tricks-to-make-puri-oil-free-no-need-tissue-to-absorb-extra-oil-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-17-at-4.59.47-pm-1_2026091785603.jpeg",
+            "published": "2026-09-17T23:14:04",
+            "url": "https://www.lokmat.com/sakhi/photos/social-viral/8-benefits-of-epsom-salt-baths-pain-stress-skin-and-more-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-17-at-5.41.40-pm_2026091785689.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "837508753b75",
+            "id": "274972b80d93",
             "feed": "esakal",
-            "title": "काही तासात ‘या’ राशींच्या करिअर-आर्थिक स्थितीत होऊ शकतो मोठा बदल!",
+            "title": "वाघ माणसावर हल्ला करण्यापूर्वी कोणते संकेत देतो?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-17T19:11:21",
-            "url": "https://www.esakal.com/ampstories/web-story/mars-transit-cancer-september-18-2026-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-17/6dhfqz86/Vrishabh-Rashi-bhavishy-2026-3.jpg",
+            "published": "2026-09-17T23:10:37",
+            "url": "https://www.esakal.com/ampstories/web-story/tiger-warning-signs-before-attacking-humans-behavior-safety-signals-how-to-stay-safe-in-wild-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-17/hzmxuuv2/13.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "e1dba9bdbebe",
+            "id": "f15a02b1ddd3",
+            "feed": "esakal",
+            "title": "ताजमहाल बांधणाऱ्या शहाजहानचा 'या' वास्तू झाल्या गायब",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-17T22:33:51",
+            "url": "https://www.esakal.com/ampstories/web-story/shah-jahan-mughal-architecture-lost-palaces-demolished-structures-agra-fort-red-fort-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-17/wsdtyybv/3.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a09a2ed849cc",
+            "feed": "esakal",
+            "title": "TMC Symbol Row : निवडणूक आयोगाने 'तृणमूल'चे चिन्ह गोठवले ! ममता आणि रितब्रता गटांकडून मागवले नवे चिन्ह अन् नाव",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-17T22:31:53",
+            "url": "https://www.esakal.com/desh/west-bengal-tmc-symbol-row-mamata-banerjee-ritabrata-banerjee-twin-flowers-symbol-nandigram-rejinagar-bypolls-election-commission-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-17/0xrkzozc/TMC-Symbol-Row.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "08ef567467fd",
             "feed": "lokmat",
-            "title": "\"तुमच्या बोलण्यानं मला फरक पडत नाही, फालतू लोकांकडे...\" जान्हवी ट्रोलर्सवर भडकली; कमेंट सेक्शन केलं बंद",
+            "title": "TMC Symbol: ममता बॅनर्जी आणि ऋतूब्रत गटाला निवडणूक आयोगाचा झटका! पक्षाचे नाव आणि चिन्ह गोठवले, तीन पर्याय मागितले",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "india"
             },
-            "published": "2026-09-17T19:10:20",
-            "url": "https://www.lokmat.com/filmy/television/janhavi-killekar-trolling-ganpati-reel-comment-section-off-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/janhavi-killekar-trolling-ganpati-reel-comment-section-off-1_2026091785613.jpg",
+            "published": "2026-09-17T22:29:32",
+            "url": "https://www.lokmat.com/national/tmc-symbol-election-commission-gives-blow-to-mamata-banerjee-and-ritubrat-group-party-name-and-symbol-frozen-asked-for-three-alternatives-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tmc-symbol-case-election-commission-news_2026091785673.jpeg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "2635a7282c27",
+            "feed": "maharashtratimes",
+            "title": "भारतीय इंजिनीअरचा अमेरिकेत गूढ अंत; लग्नानंतर 17 दिवसांनी मृत्यू; कुटुंबाचं केंद्र सरकारला पत्र",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-17T19:55:59",
+            "url": "https://maharashtratimes.com/international/international-news/newly-wed-hyderabad-engineer-dies-mysteriously-in-us-family-writes-to-jaishankar/articleshow/134314291.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0923d096b99c",
+            "feed": "esakal",
+            "title": "Social Media Ban : मुलांचं मानसिक आरोग्य धोक्यात? 13 वर्षांखालील मुलांना सोशल मीडियावर बंदी; किशोरवयीनांसाठीही कडक नियम, EU Kids Act मध्ये काय आहे?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-17T19:47:00",
+            "url": "https://www.esakal.com/global/eu-kids-act-social-media-ban-under-13-children-teenagers-online-safety-rules-european-union-2026-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-17/rzqhfq9w/social-media-ban-under-13",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "dea8e0f88f7f",
             "feed": "maharashtratimes",
@@ -180,22 +212,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "2d8decbbed09",
-            "feed": "lokmat",
-            "title": "त्वचेला लिंबू चोळणं खरंच फायदेशीर असतं का? पाहा कोणी लिंबू लावला तर चालतो, कुणी टाळलेलाच बरा...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-17T17:02:55",
-            "url": "https://www.lokmat.com/sakhi/beauty/is-rubbing-lemon-on-your-skin-really-beneficial-find-out-who-should-avoid-applying-lemon-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lemon-on-face-tipps_2026091785295.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         },
         {
             "id": "9bc21bfdf078",
@@ -232,102 +248,102 @@
     ],
     "sports": [
         {
-            "id": "398797c36227",
+            "id": "75a72a0f388e",
             "feed": "esakal",
-            "title": "IND vs AFG 3rd T2OI: वैभव सूर्यवंशीला संधी नाहीच... श्रेयस अय्यरने Playing XI मध्ये केलाय एक बदल; जाणून घ्या संघ",
+            "title": "Team India Schedule : अफगाणिस्तानला लोळवलं, आता भारत पुढे कोणाकोणाचा कार्यक्रम करणार? Asian Games ते ऑस्ट्रेलियाचा भारत दौरा, जाणून घ्या संपूर्ण वेळापत्रक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-17T19:10:42",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-afg-3rd-t20i-no-vaibhav-suryavanshi-yet-again-india-make-one-change-to-playing-xi-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-13/fub7qha7/Vaibhav-Sooryavanshi",
+            "published": "2026-09-17T23:11:05",
+            "url": "https://www.esakal.com/krida/cricket/team-india-schedule-after-afghanistan-who-is-next-from-asian-games-to-australia-test-series-full-fixture-list-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-17/0epymbtp/Team-India-schedule-2026-Asian-Games-Australia-Test-series",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "06e6780e82a6",
+            "id": "a43943e8efba",
             "feed": "lokmat",
-            "title": "टीम इंडियाला दमवणाऱ्या पठ्ठ्याला ICC चा पुरस्कार; महिला क्रिकेटमध्ये १९ वर्षांच्या पोरीनं मारली बाजी",
+            "title": "IND vs AFG : टीम इंडियाचा १२७ धावांनी विक्रमी विजय! अफगाणिस्तानला शंभरीच्या आत गारद करत मालिकेत दिला व्हाइट वॉश",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-17T18:47:07",
-            "url": "https://www.lokmat.com/cricket/news/sonal-dinusha-wins-icc-mens-player-of-the-month-august-2026-india-test-series-isle-of-man-19-years-all-rounder-lucy-barnett-wins-womens-cricket-player-of-award-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sonal-dinusha-wins-icc-mens-player-of-the-month-august-m-1_2026091785579.jpg",
+            "published": "2026-09-17T22:46:06",
+            "url": "https://www.lokmat.com/cricket/news/india-big-win-127-runs-3rd-t20i-and-clean-sweep-afghanistan-abhishek-sharma-and-sanju-samson-shine-nitish-kumar-stars-with-the-ball-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sanju-samson-completes-9000-t20-runs-m-1_2026091785675.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e92281f2877a",
+            "id": "84b27c95be67",
             "feed": "esakal",
-            "title": "आमचे मार्ग आता जुळत नाहीत! Prithvi Shaw अन् आकृती अगरवाल यांचा वेगळा होण्याचा निर्णय; क्रिकेटपटूच्या पोस्टची चर्चा...",
+            "title": "IND vs AFG 3rd T20I: अभिषेक शर्माचा विश्वविक्रम अन् भारताचा मालिका विजय! जसप्रीत, नितीशचे खतरनाक यॉर्कर Video",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-17T17:10:32",
-            "url": "https://www.esakal.com/krida/cricket/prithvi-shaw-and-akriti-agarwal-part-ways-after-six-months-of-engagement-cricketer-deletes-instagram-posts-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-17/xo6i64ai/Prithvi-Shaw-and-Akriti-Agarwal-engagement-called-off",
+            "published": "2026-09-17T22:37:11",
+            "url": "https://www.esakal.com/krida/cricket/afg-vs-ind-3rd-t20i-abhishek-sharma-powers-india-to-series-sweep-jasprit-bumrah-deliver-deadly-yorkers-video-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-17/0unlnynz/India-whitewash-Afghanistan-in-T20I-series",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "0eec75cdd99e",
+            "id": "db97d2032492",
             "feed": "maharashtratimes",
-            "title": "Chris Wood Outlook: सोन्यात दरवाढीचा स्फोट होणार? Gold Rate सगळे रेकॉर्ड मोडणार, 3 लाख तोळा होईल, जेफरीजच्या एक्सपर्टचा अंदाज",
+            "title": "खात्यात फक्त 75000 रुपये अन् मुंबईत घर घेण्याचं स्वप्न! केलं असं काही बनले हजारो कोटींचे मालक",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-09-17T19:20:00",
-            "url": "https://maharashtratimes.com/business/business-news/gold-price-outlook-jefferies-chris-wood-predict-yellow-metal-at-10000-dollars-explains-why/articleshow/134307478.cms",
+            "published": "2026-09-17T21:38:58",
+            "url": "https://maharashtratimes.com/business/business-news/anil-agarwal-first-home-in-mumbai-peddar-road-333-square-feet-success-story/articleshow/134316281.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "45c701c46b7e",
-            "feed": "maharashtratimes",
-            "title": "Fed व्याजदर वाढीमुळे, RBI समोर अडचणी! भारतीय रिझर्व्ह बँकेची पुढची पाऊले नेमकी काय असतील?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-09-17T19:04:11",
-            "url": "https://maharashtratimes.com/business/business-news/fed-interest-rate-hike-now-what-steps-rbi-will-take-repo-rate-liquidity-selling-dollar/articleshow/134313279.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1dcda2711f1e",
+            "id": "519d1a0bb087",
             "feed": "lokmat",
-            "title": "तोट्याच्या शेतीला दुग्ध व्यवसायाची जोड, आता बंदिस्त मेंढीपालनातूनही भरारी; भार्डीच्या देविदास मार्कंड यांचा यशस्वी प्रयोग",
+            "title": "भारतात 'मेटा वन' सबस्क्रिप्शन लॉन्च; सुरुवातीची किंमत अवघी ७९ रुपये; मार्क झुकरबर्गची मोठी घोषणा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-17T18:19:20",
-            "url": "https://www.lokmat.com/agriculture/success-story/dairy-farming-is-being-added-to-loss-making-agriculture-now-even-confined-sheep-farming-is-booming-successful-experiment-by-devidas-markand-of-bhardi-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-34-34-34-u-sheep-farming-suuccess-story_2026091785529.jpeg",
+            "published": "2026-09-17T21:03:30",
+            "url": "https://www.lokmat.com/tech/meta-one-subscription-launched-in-india-starting-price-is-just-rs-79-mark-zuckerbergs-big-announcement-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/meta-one_2026091785641.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "7cba14f1ce93",
+            "feed": "lokmat",
+            "title": "N Chandrasekaran: मोठा वाद उफाळला! चंद्रशेखरन यांची अध्यक्षपदी फेरनिवड टाटा ट्रस्टने ठरवली 'बेकायदेशीर'",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-09-17T20:50:36",
+            "url": "https://www.lokmat.com/business/news/n-chandrasekaran-a-big-controversy-erupted-in-tata-group-tata-trusts-declared-n-chandrasekarans-reappointment-as-chairman-illegal-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/n-chandrasekaran-reappointment-stalled_2026091785650.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ]
 }
