@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "18-09-2026 | 05:59 PM IST",
+    "lastUpdated": "18-09-2026 | 10:18 PM IST",
     "maharashtra": [
         {
-            "id": "dc815c7b20b4",
-            "feed": "lokmat",
-            "title": "Ganeshotsav: पर्यावरणपूरक गणेशोत्सवाची मुहूर्तमेढ ३६ वर्षांपूर्वी कोल्हापुरात, राज्यभर बनली व्यापक चळवळ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-18T17:55:19",
-            "url": "https://www.lokmat.com/kolhapur/the-beginning-of-eco-friendly-ganeshotsav-was-celebrated-36-years-ago-in-kolhapur-a-a292-c746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganeshustav-news-photo-eco_2026091786086.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5983fed538dd",
-            "feed": "lokmat",
-            "title": "महिला बचत गटांच्या उत्पादनांना बाजारपेठ मिळणार, कोल्हापूरला २० कोटींचा उमेद मॉल मंजूर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-18T17:41:26",
-            "url": "https://www.lokmat.com/kolhapur/a-umed-mall-worth-20-crore-has-been-sanctioned-for-kolhapur-to-provide-a-market-for-products-made-by-womens-self-help-groups-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kol-zp-sumed-mall_2026091786085.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "98f8d991e50f",
-            "feed": "lokmat",
-            "title": "कोल्हापूर महापालिकेत नगरसेवकांची दादागिरी, अधिकारी झाले त्रस्त; किती जणांनी दिले राजीनामे, स्वेच्छानिवृत्ती..वाचा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-18T17:36:20",
-            "url": "https://www.lokmat.com/kolhapur/officials-at-the-kolhapur-municipal-corporation-are-fed-up-with-the-high-handed-behavior-of-corporators-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/palika-adhikari-news-rajinama_2026091786084.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "cc11f14ad774",
-            "feed": "lokmat",
-            "title": "कोल्हापूर जिल्ह्यातील शिक्षकांच्या निधीतून उभे राहणार मोतीबिंदू शस्त्रक्रिया केंद्र, महापालिकेचा प्रस्ताव",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-18T17:30:54",
-            "url": "https://www.lokmat.com/kolhapur/cataract-surgery-center-to-be-set-up-from-teachers-funds-in-kolhapur-district-proposal-of-municipal-corporation-a-a819-c746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/17092026-kol-motibindu_2026091786076.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5fa0d5e12b29",
+            "id": "8bda583beb50",
             "feed": "esakal",
-            "title": "Eknath Shinde Dare Village :  गावी आलो किंवा लंडनला गेलो तरी पोटदुखी, “ विरोधकांना कामातून उत्तर देईन”,एकनाथ शिंदेंनी दरेतून साधला निशाणा",
+            "title": "Ambad Mobile Shop Heist: अंबडमध्ये अमित मोबाईल शॉपी फोडून 30-35 लाखांच्या महागड्या मोबाईलची चोरी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-18T22:17:19",
+            "url": "https://www.esakal.com/marathwada/ambad-jalna-amit-mobile-shoppe-burglary-gas-cutter-used-lakhs-of-rupees-theft-baba-saheb-gonte-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/lph7fye8/Esakal-11.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "cc513d4e5667",
+            "feed": "esakal",
+            "title": "Konkan Folk Revival: नाडसूरमध्ये शक्ती-तुऱ्याचे जंगी सामने, बाल्या व जाखडी नृत्याने कोकणच्या लोककलेला नवी संजीवनी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-18T22:12:37",
+            "url": "https://www.esakal.com/kokan/shakti-tura-and-balya-dance-folk-art-festival-in-sudhagad-raigad-organized-by-sandesh-shewale-amit-gawale-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/u3nwrm3e/Esakal-10.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "809da7f2b292",
+            "feed": "maharashtratimes",
+            "title": "Satara News : सह्याद्री कारखान्याच्या सभेतील इनसाईड स्टोरी, नेमका राडा काय झाला? A टू Z माहिती समोर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-18T22:06:46",
+            "url": "https://maharashtratimes.com/maharashtra/satara/dispute-between-balasaheb-patil-and-bjp-mla-manoj-ghorpade-and-dhairyashil-kadam-during-sahyadri-sugar-factory-meeting/articleshow/134338981.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8baea02d2bd9",
+            "feed": "esakal",
+            "title": "Pune Festival 2026: उपराष्ट्रपतींच्या हस्ते पुणे फेस्टिव्हलच्या ३८ व्या पर्वाचे उद्घाटन; पुणे ‘उत्सव आणि सांस्कृतिक वैविध्याची नगरी’ म्हणून गौरवित",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-18T17:25:27",
-            "url": "https://www.esakal.com/maharashtra/eknath-shinde-dare-village-bamboo-plantation-world-bamboo-day-farming-experiments-drought-maharashtra-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-18/e2x3c7pg/Eknath-Shinde-.jpg",
+            "published": "2026-09-18T22:04:52",
+            "url": "https://www.esakal.com/pune/pune-festival-38th-edition-inaugurated-by-vice-president-cp-radhakrishnan-actor-mohan-joshi-honored-with-lifetime-achievement-award-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/mvpzdrs3/Esakal-9.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f51a18b22cd0",
+            "feed": "esakal",
+            "title": "Kasba Ganpati in Texas: अमेरिकेत दुमदुमला कसबा गणपतीचा जयघोष ; ह्यूस्टन महाराष्ट्र मंडळाकडून पुण्याच्या ग्रामदैवताची प्रतिष्ठापना",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-18T21:56:26",
+            "url": "https://www.esakal.com/pune/houston-maharashtra-mandal-golden-j-jubilee-celebrations-installation-of-pune-gram-daivat-kasba-ganpati-replica-in-texas-usa-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/5umuey5t/Esakal-8.png",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "420f59f812e5",
-            "feed": "lokmat",
-            "title": "Maharashtrian traditional food : कोकणी पद्धतीचं झणझणीत वालाचं बिरडं! नैवेद्यासाठी खास रेसिपी - चव अशी की वाढताच होईल फस्त...",
+            "id": "e4ba42407390",
+            "feed": "maharashtratimes",
+            "title": "\"मी शिक्षिका बनून माझ्या मुलांना सुरक्षित शिक्षण देईन!\"; गडचिरोलीत दुरवस्थेच्या झळा सोसणाऱ्या चिमुकलीचा भावनिक संकल्प",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-18T17:51:53",
-            "url": "https://www.lokmat.com/sakhi/food/konkani-wal-birda-how-to-make-wal-birda-konkani-valache-birde-recipe-kokani-wal-birda-recipe-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kokani-walache-birda-recipe_2026091785985.jpeg",
+            "published": "2026-09-18T22:03:10",
+            "url": "https://maharashtratimes.com/career/career-news/gadchiroli-tribal-school-girl-teacher-dream-kohka-ashram-shala-marathi-inspirational-aspiration-in-hard-condition/articleshow/134339425.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "4442fbb130ca",
-            "feed": "lokmat",
-            "title": "मायग्रेनच्या वेदनेने जीव नकोसा झाला? रोज खा 'हा' आयुर्वेदिक लाडू, मायग्रेन-डोकेदुखी होईल कमी",
+            "id": "77073b5e6cf9",
+            "feed": "esakal",
+            "title": "Flipkart BBD Saleमध्ये मिळणार बंपर ऑफर, कधी होणार सुरू? अर्ली एक्सेस अन् कॅशबॅक",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-18T17:50:32",
-            "url": "https://www.lokmat.com/sakhi/food/migraine-headache-home-remedies-ayurvedic-ladoo-recipe-for-migraine-how-to-relief-headache-natural-treatment-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/healthy-ladoo-for-migraine_2026091785832.jpeg",
+            "published": "2026-09-18T21:55:34",
+            "url": "https://www.esakal.com/ampstories/web-story/flipkart-big-billion-days-sale-2026-check-sale-date-early-access-cashback-offers-and-biggest-deals-across-categories-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/houp6dml/flipkart.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "86f72ed459b5",
-            "feed": "lokmat",
-            "title": "Maharashtrian traditional food: लाडक्या गौराईसाठी पारंपारिक भोपळ्याची भाजी, नैवेद्यासाठी खास कोकणी बेत- पाहा रेसिपी",
+            "id": "963a0a2c9e68",
+            "feed": "esakal",
+            "title": "गणेशगल्लीच्या राजाच्या हातावर कावळा का आहे?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-18T17:50:04",
-            "url": "https://www.lokmat.com/sakhi/food/gauri-ganpati-2026-naivedya-recipe-gauri-puja-naivedya-konkani-style-lal-bhopla-bhaji-pumpkin-bhaji-for-gauri-naivedya-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pumpkin-sabzi-maharashtrian-style_2026091785873.jpeg",
+            "published": "2026-09-18T21:46:27",
+            "url": "https://www.esakal.com/ampstories/web-story/ganesh-galli-raja-crow-symbol-meaning-2026-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/i9309ril/Ganeshgalli-cha-Raja-crow-symbol-meaning-5.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "2d5b37e16b51",
+            "id": "138c9793a8f5",
             "feed": "lokmat",
-            "title": "Mamat Banerjee TMC: 'भाजपाने माझ्या पक्षाला हायजॅक केले, लोकशाहीसाठी काळा दिवस'; निवडणूक आयोगाच्या निर्णयावर ममता बॅनर्जींची टीका",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-09-18T17:49:56",
-            "url": "https://www.lokmat.com/national/mamat-banerjee-tmc-bjp-hijacked-my-party-black-day-for-democracy-mamata-banerjee-criticizes-election-commissions-decision-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tmc-mamata-banerjee_2026091786073.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "70163423ccc7",
-            "feed": "lokmat",
-            "title": "कुकरला भात लावताना पाणी किती घालायचं? मऊ-मोकळ्या भाताचं सिक्रेट, भात गचका होणार नाही",
+            "title": "प्रेशर कुकरमध्ये डाळ झटपट शिजवण्यासाठी ५ मिनिटांची सिक्रेट टिप, तुरीच्या डाळीचं वरण शिजेल झटपट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-18T17:48:29",
-            "url": "https://www.lokmat.com/sakhi/food/how-to-cook-perfect-rice-in-a-cooker-every-single-time-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-18-at-1.09.45-pm_2026091786012.jpeg",
+            "published": "2026-09-18T21:30:01",
+            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-cook-toor-dal-quickly-in-pressure-cooker-5-minute-secret-tip-to-cook-lentils-quickly-the-turi-dal-recipe-in-pressure-cooker-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-cook-toor-dal-faster_2026091786047.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "d879339936ce",
+            "feed": "lokmat",
+            "title": "‘जय जय स्वामी समर्थ’मध्ये मोठा ट्विस्ट; इराच्या आयुष्यात येणार संकट, सावळ्याच्या नात्याचीही होणार परीक्षा!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-18T21:22:05",
+            "url": "https://www.lokmat.com/filmy/television/big-twist-in-jai-jai-swami-samarth-crisis-will-come-in-iras-life-savalas-relationship-will-also-be-tested-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jay-jay-swami-samarth_2026091786174.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "ba33ae914c84",
+            "feed": "esakal",
+            "title": "Viral Video : विमान हवेत असताना दोन प्रवाशांमध्ये तुफान हाणामारी; व्हिडिओ सोशल मीडियावर व्हायरल",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-18T21:42:24",
+            "url": "https://www.esakal.com/trending-news/biman-bangladesh-airlines-london-dhaka-flight-passenger-fight-viral-video-cabin-crew-intervention-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/vljxsnqk/72.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "295faa319bdf",
             "feed": "lokmat",
@@ -178,22 +194,6 @@
             "published": "2026-09-18T17:32:20",
             "url": "https://www.lokmat.com/international/pakistan-blast-car-with-bomb-hits-police-station-16-people-including-five-policemen-injured-pakistan-shaken-a-a571/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bomb-blast-in-pakistan_2026091786075.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9484ebe9c61a",
-            "feed": "lokmat",
-            "title": "पाकिस्तानच्या केपी प्रांतात हाहाकार; कोहाट जिल्ह्यातील मशिदीवर झालेल्या दहशतवादी हल्ल्यात १५ नागरिकांचा मृत्यू!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-18T17:02:23",
-            "url": "https://www.lokmat.com/international/terrorist-attack-in-pakistans-kp-province-15-civilians-killed-in-attack-on-mosque-in-kohat-district-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/blast-in-pakistan_2026091786070.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -230,120 +230,120 @@
             "category_reason": "url"
         },
         {
-            "id": "b4f54d5a40d4",
-            "feed": "esakal",
-            "title": "Premium|Eiffel Tower Controversy : आयफेल टॉवरवचा वाद आणि फ्रान्सचे \nराजकारण",
+            "id": "c86ed88944f6",
+            "feed": "maharashtratimes",
+            "title": "Australia Car Crash : प्रेम आणि मायेला एकाच क्षणी मुकलो; ऑस्ट्रेलियात भारतीय सासू-सुनेचा अपघाती मृत्यू, मुलगा सुन्न, बाळाच्या पहिल्या बर्थडेनंतर आक्रित",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
             },
-            "published": "2026-09-18T14:05:09",
-            "url": "https://www.esakal.com/premium-article/eiffel-tower-religious-delegation-gender-discrimination-france-democracy-debate-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-18/42r08945/Abhi-2026-09-18T140426.481.jpg",
+            "published": "2026-09-18T13:50:05",
+            "url": "https://maharashtratimes.com/international/international-news/andhra-pradesh-woman-visiting-son-dies-in-australia-car-crash-with-daughter-in-law/articleshow/134329669.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "6b987c11c39d",
-            "feed": "esakal",
-            "title": "रोहित शर्माचा Mumbai Indians मधील 'सहकारी' Ajit Agarkar ची जागा घेणार; आता हिटमॅन २०२७ चा वर्ल्ड कप खेळणारच...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-18T17:21:34",
-            "url": "https://www.esakal.com/krida/cricket/rohit-sharma-mumbai-indians-teammate-parthiv-patel-to-replace-ajit-agarkar-big-update-on-2027-world-cup-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-18/m8e6koyf/Parthiv-Patel-to-replace-Ajit-Agarkar-as-chief-selector",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4d764c268b64",
+            "id": "a0a17e3fc132",
             "feed": "lokmat",
-            "title": "Abhishek Sharma Records: अभिषेक शर्माचा मोठा पराक्रम! ३४ चेंडूंच्या खेळीत 'या' ५ मोठ्या विक्रमांना लावला सुरुंग",
+            "title": "बीसीसीआयच्या वार्षिक बैठकीत १० मोठे निर्णय; आयपीएल गव्हर्निंग कौन्सिलमध्ये 'या' दोन नव्या चेहऱ्यांना संधी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-18T16:25:44",
-            "url": "https://www.lokmat.com/cricket/photos/ind-vs-afg-t20i-five-records-abhishek-sharma-broke-during-his-record-breking-108-run-knock-against-afghanistan-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/5-records-abhishek-sharma-broke-during-his-108-run-knock-m-7_2026091786043.jpg",
+            "published": "2026-09-18T19:57:37",
+            "url": "https://www.lokmat.com/cricket/news/10-big-decisions-in-bcci-annual-meeting-these-two-new-faces-get-a-chance-in-ipl-governing-council-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bcci-board_2026091786126.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3e2711bb65d3",
+            "id": "297f898c292c",
             "feed": "esakal",
-            "title": "Jos Buttler: जॉस बटलरचा वर्ल्ड रेकॉर्ड! ट्वेंटी-२० क्रिकेटमध्ये १५,००० धावा करणारा फलंदाज; विराट कोहली, रोहित शर्मा  टॉप ५ मध्येही नाहीत",
+            "title": "३६ दिवस जेलमध्ये घालवल्यानंतर दिल्ली कॅपिटल्सचा खेळाडूला जामीन; महिलेकडून झालेत गंभीर आरोप",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-18T16:03:44",
-            "url": "https://www.esakal.com/krida/cricket/jos-buttler-becomes-first-batter-to-score-15000-t20-runs-kieron-pollard-left-behind-virat-kohli-and-rohit-sharma-outside-top-5-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-18/k11nnzgh/Jos-Buttler-becomes-first-batter-to-score-15000-T20-runs",
+            "published": "2026-09-18T19:25:45",
+            "url": "https://www.esakal.com/krida/cricket/abishek-porel-delhi-capitals-cricketer-granted-bail-released-from-jail-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/o8kbbj82/Abhishek-Porel.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3106cafa18e6",
+            "feed": "maharashtratimes",
+            "title": "Yuvraj Singh on Abhishek Sharma : गुरू असावा तर असा! अभिषेकच्या वेगवान शतकानंतर युवराज सिंगची खास पोस्ट ; दिला असा सल्ला तुम्हालाही वाटेल अभिमान",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-09-18T19:22:31",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/yuvraj-singh-special-post-after-abhishek-sharma-fastest-century-against-afganistan/articleshow/134334995.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "840ea4890f3d",
-            "feed": "lokmat",
-            "title": "राखीव चाऱ्यावर जनावरांचा आधार; वाढत्या चारा खर्चामुळे दुग्धव्यवसायावरही परिणाम",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-18T17:34:40",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/time-to-feed-cattle-with-fodder-stored-for-summer-in-the-current-situation-crisis-in-managing-animals-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-u-34-34-34-34-34-u-dairy_2026091786080.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "99fac033a385",
-            "feed": "lokmat",
-            "title": "Koyna Dam : महाराष्ट्राची भाग्यलक्ष्मी कोयना धरणाचा इतिहास; ६३ वर्षांत धरण नेमके किती वेळा भरले?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-18T17:03:00",
-            "url": "https://www.lokmat.com/agriculture/weather/koyna-dam-history-of-koyna-dam-the-lucky-one-of-maharashtra-how-many-times-has-the-dam-been-filled-in-63-years-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/koyna-dam-63-year-history_2026091786061.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "9b1f26669597",
+            "id": "49d7b5442341",
             "feed": "maharashtratimes",
-            "title": "Moody's Ratings : युद्ध, टॅरिफ अन् महागाईची चिंता सोडा! भारताचा विकास दर 6 नव्हे 7% राहणार असल्याचा अंदाज",
+            "title": "केंद्र सरकारी कर्मचाऱ्यांच्या आरोग्य योजनेत बदल! जुनी बंधने हटवून लावले नवे निर्बंध, CGHS चे नियम",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-09-18T16:34:16",
-            "url": "https://maharashtratimes.com/business/business-news/moodys-ratings-indias-gdp-growth-rate-forecast-7-percent-for-calendar-year-2027/articleshow/134331184.cms",
+            "published": "2026-09-18T21:30:43",
+            "url": "https://maharashtratimes.com/business/business-news/cghs-new-rules-about-5-km-for-central-government-employees-health-scheme/articleshow/134338858.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "98d2db05e28e",
+            "feed": "lokmat",
+            "title": "राज्यात पावसाची सरासरी 17 टक्के तूट, मराठवाडा, सोलापूरमध्ये सर्वात कमी पाऊस, या जिल्ह्यांत मात्र....",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-18T20:53:29",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/average-rainfall-deficit-in-maharashtra-17-percent-marathwada-solapur-has-the-least-rainfall-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rain-52_2026091786157.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "eef6b7bfe05d",
+            "feed": "lokmat",
+            "title": "Grape Cane Maturity : द्राक्ष बागेत काडी परिपक्वतेची समस्या असल्यास पाणी करायचं की नाही, वाचा सविस्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-18T20:35:02",
+            "url": "https://www.lokmat.com/agriculture/smart-farming/whether-to-water-or-not-if-there-problem-with-cane-maturity-in-grape-farm-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/draksh-kadi-5_2026091786137.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
