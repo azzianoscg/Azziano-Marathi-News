@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "19-09-2026 | 12:48 AM IST",
+    "lastUpdated": "19-09-2026 | 03:34 AM IST",
     "maharashtra": [
+        {
+            "id": "3a0ffc6544f4",
+            "feed": "lokmat",
+            "title": "Maharashtra Rain Alert: सोसाट्याचा वारा, विजांचा कडकडाट; महाराष्ट्रातील 'या' जिल्ह्यांना पावसाचा इशारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-19T01:13:05",
+            "url": "https://www.lokmat.com/photos/maharashtra/maharashtra-rain-alert-gusty-winds-thunder-rain-warning-for-these-districts-of-maharashtra-including-pune-thane-nashik-chhatrapati-sambhaji-nagar-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/imd-rain-alert-maharashtra_2026091786188.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "3ae47962ed62",
             "feed": "lokmat",
@@ -64,25 +80,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "d041d9e0b40d",
-            "feed": "esakal",
-            "title": "Pune Police : कोंढवा बुद्रूक पोलिसांची कौतुकास्पद कामगिरी; व्यापाऱ्याची अडीच लाखांची रोकड व धनादेश अवघ्या दोन दिवसांत परत",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-18T22:47:55",
-            "url": "https://www.esakal.com/pune/kondhwa-budruk-yeewalewadi-police-trace-and-return-lost-cash-and-cheque-worth-five-lakhs-to-trader-pune-news-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-18/3gsievhm/Esakal-16.png",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "239412ec55c9",
+            "feed": "maharashtratimes",
+            "title": "IIT Bombay Student Death: चॅटजीपीटीचा वापर अन् परीक्षेत कॉपी केल्याचा आरोप! IIT Bombay मध्ये विद्यार्थ्याचा मृत्यू; मुख्य प्रवेशद्वारावर विद्यार्थ्यांचे तीव्र आंदोलन!",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-19T01:37:49",
+            "url": "https://maharashtratimes.com/career/career-news/iit-bombay-student-death-cheating-allegation-protest-energy-science-department-student-death-chatgpt-controversy/articleshow/134343634.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "cdfbac2f3022",
+            "feed": "maharashtratimes",
+            "title": "<b>पंचांग 19 September 2026: ज्येष्ठा गौरी विसर्जन, दधिची जयंती, चंद्र- गुरु राशी परिवर्तन योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ</b>",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-19T01:04:34",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-19-september-in-marathi-ganeshotsav-2026-jyeshtha-gauri-visarjan-and-shubha-muhurta/articleshow/134342628.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "9ec095af21a7",
             "feed": "maharashtratimes",
@@ -130,38 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "6e08f7133a58",
-            "feed": "lokmat",
-            "title": "घरात डास शिरतात? ५ रुपयांचा 'हा' दिवा लावा, खिडक्या-दारं उघडी ठेवली तरी डास येणार नाही",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-18T23:31:38",
-            "url": "https://www.lokmat.com/sakhi/social-viral/lemon-peel-diya-remedy-to-get-rid-of-mosquitoes-and-flies-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-18-at-11.40.16-am_2026091786180.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "142588ae00e8",
-            "feed": "lokmat",
-            "title": "Milan Pradhan: 'भाजपाला निवडणूक लढवायचीच नाही, तर...\", काँग्रेस उमेदवाराला अटक होताच राहुल गांधी भडकले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-09-18T23:03:51",
-            "url": "https://www.lokmat.com/national/milan-pradhan-bjp-doesnt-want-to-contest-elections-so-rahul-gandhi-gets-angry-as-congress-candidate-is-arrested-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahul-gandhi-attacks-on-bjp_2026091786178.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
