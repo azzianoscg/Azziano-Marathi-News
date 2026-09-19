@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "20-09-2026 | 12:34 AM IST",
+    "lastUpdated": "20-09-2026 | 03:26 AM IST",
     "maharashtra": [
+        {
+            "id": "7894f7b5d2cc",
+            "feed": "lokmat",
+            "title": "Nila Vikhe Patil: महाराष्ट्राच्या नीला विखे पाटील स्वीडनमध्ये बनल्या खासदार, स्टॉकहोम शहर मतदारसंघातून विजयी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-20T01:06:40",
+            "url": "https://www.lokmat.com/ahilyanagar/nila-vikhe-patil-maharashtras-nila-vikhe-patil-becomes-mp-in-sweden-wins-from-stockholm-city-constituency-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nila-vikhe-patil-news_2026091786605.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "96ca6891e043",
             "feed": "lokmat",
@@ -64,25 +80,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-19/9b92bqsc/sudhir-jadhav-satara-23.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "da2f045931d5",
-            "feed": "maharashtratimes",
-            "title": "Pune News : पुणे-सोलापूर महामार्गावर पोलिसाला धडक देवून वाहनचालक फरार, सहाय्यक फौजदार गणेश दाभाडे यांचा मृत्यू",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-19T22:29:28",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/police-officer-dies-after-being-hit-by-vehicle-on-pune-solapur-highway-and-driver-escapes/articleshow/134357261.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "68f424dc2cdc",
+            "feed": "lokmat",
+            "title": "Super El Nino: भारतात येत्या काही महिन्यांत महाप्रलयासारखे होणार हवामान, 180 वैज्ञानिकांनी दिला इशारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-09-20T02:20:42",
+            "url": "https://www.lokmat.com/photos/national/super-el-nino-india-will-experience-a-deluge-like-weather-in-the-coming-months-180-scientists-warn-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/el-nino-effect-in-india-explained_2026091786607.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "d55339e48876",
             "feed": "maharashtratimes",
@@ -146,22 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "5b4978c7db9a",
-            "feed": "lokmat",
-            "title": "'व्यवस्थेला विद्यार्थी नकोय, अंधभक्त हवेत', राहुल गांधी यांचा तरुणांशी संवाद, 'छात्रों की गूंज'मधून सरकारवर टीका",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-09-19T22:28:37",
-            "url": "https://www.lokmat.com/national/the-system-does-not-want-students-it-wants-blind-devotees-rahul-gandhis-interaction-with-the-youth-criticism-of-the-government-through-chhatron-ki-goonj-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahul-gandhi-attacks-on-modi-government_2026091786601.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
