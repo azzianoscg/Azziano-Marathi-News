@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "19-09-2026 | 07:08 PM IST",
+    "lastUpdated": "19-09-2026 | 10:24 PM IST",
     "maharashtra": [
         {
-            "id": "755034e20bda",
+            "id": "5027f4272f32",
             "feed": "esakal",
-            "title": "Paithan Farmer: खरीप पिके करपली, कर्जाचा ताण वाढला; पैठण तालुक्यात ५२ वर्षीय शेतकऱ्याने संपवलं जीवन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-19T19:02:32",
-            "url": "https://www.esakal.com/marathwada/paithan-farmer-endlife-kharif-crop-loss-and-debt-stress-lead-to-death-of-52-year-old-farmer-in-khadgaon-village-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/q4gxp0tk/sudhir-jadhav-satara-11.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1ddaea2ff659",
-            "feed": "esakal",
-            "title": "Latest Marathi News Update : नागपुरातील इंदोरा-दिघोरी उड्डाणपुलाला डॉ. हेडगेवारांचं नाव",
+            "title": "Pune Water Supply: बाणेरमध्ये भूमिगत कामादरम्यान जलवाहिनी फुटली; सात बार दाबाचे पाणी रस्त्यावर, मोहन्नगरला १४ तासांनी पुरवठा सुरू",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-19T19:00:13",
+            "published": "2026-09-19T22:13:18",
+            "url": "https://www.esakal.com/pune/baner-pune-water-pipeline-bursts-during-underground-gas-work-seven-bar-pressure-causes-major-water-leakage-and-supply-delay-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/rp2603oz/sudhir-jadhav-satara-21.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1ddaea2ff659",
+            "feed": "esakal",
+            "title": "Latest Marathi News Update : राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-19T22:12:29",
             "url": "https://www.esakal.com/maharashtra/maharashtra-marathi-live-news-19-sept-2026-maharashtra-rain-news-weather-update-gokul-milk-politics-election-news-kolhapur-satej-patil-hasan-mushrif-dhananjay-mahadik-mass-food-distribution-notification-form-weather-update-imd-rain-forecast-parliament-monsoon-session-nda-bjp-congress-pm-modi-jantar-mantar-protest-cjp-gold-silver-rate-share-market-devendra-fadnavis-eknath-shinde-sunetra-pawar-sports-entertainment-politics-finance-trending-viral-news-updates-srs92-spb94",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c104ab73aa12",
+            "id": "db8b576f464b",
+            "feed": "maharashtratimes",
+            "title": "Ketan Agrawal Case : क्राईम थ्रिलर सिनेमा, चॅट जीपीटी अन् माही नावाचं फेक अकाउंट, केतन अग्रवाल हत्या प्रकरणात 5 हजार पानांच्या चार्जशीटमधून धक्कादायक खुलासे",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-19T21:57:57",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/major-revelations-in-ketan-agarwal-case-as-pune-police-file-five-thousand-page-chargesheet/articleshow/134356929.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "52d25bfa0460",
             "feed": "lokmat",
-            "title": "'आम्ही जगायचं कसं?' बांधावर शेतकरी गहीवरले; कृषी मंत्री दत्ता भरणे यांनी दिले मोठे आश्वासन",
+            "title": "Abhijeet Dipke: \"एमपीएससी अध्यक्षांचा राजीनामा घ्या, अन्यथा मुख्यमंत्र्यांचा राजीनामा मागू\"; अभिजीत दीपके याचा इशारा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-19T18:54:43",
-            "url": "https://www.lokmat.com/hingoli/govt-strongly-stands-with-farmers-in-drought-assures-agri-minister-dattatray-bharne-during-crop-inspection-at-vasmat-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bharane-farmer-drought-wasmat-pahani-fea_2026091786529.jpg",
+            "published": "2026-09-19T21:55:47",
+            "url": "https://www.lokmat.com/amravati/abhijeet-dipke-resign-mpsc-chairman-otherwise-we-will-ask-for-the-resignation-of-the-chief-minister-abhijeet-dipkes-warning-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abhijeet-dipke-warning-devendra-fadnavis_2026091786600.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "fc3492f3b97b",
+            "id": "877d9e8949f4",
             "feed": "esakal",
-            "title": "Pune District News: वसतिगृहातून तीन अल्पवयीन विद्यार्थी गायब; १८ दिवस उलटूनही ठावठिकाणा नाही, जुन्नर पोलिसांकडून शोध सुरू",
+            "title": "Pune FDA Action: सहा तास पाठलाग, मार्गही बदलला; अखेर चाकणमध्ये गुटख्याचा ट्रक पकडला, १.१३ कोटींचा मुद्देमाल जप्त",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-19T18:41:21",
-            "url": "https://www.esakal.com/pune/junnar-hostel-missing-students-three-minors-missing-for-18-days-police-search-underway-in-pune-district-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/kv6vphb8/sudhir-jadhav-satara-10.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b12ba3d16c30",
-            "feed": "lokmat",
-            "title": "Ganeshotsav 2026: कागदी लगद्याची १३६ वर्षांची इको-फ्रेंडली ‘चंद्राकांत’ गणेशमूर्ती",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-19T18:36:09",
-            "url": "https://www.lokmat.com/kolhapur/136-year-old-eco-friendly-paper-pulp-chandrakant-ganesh-idol-in-kolhapur-a-a292-c746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chandrakant-ganeshmurti_2026091786526.jpg",
+            "published": "2026-09-19T21:54:28",
+            "url": "https://www.esakal.com/pune/gutkha-truck-chakan-pune-six-hour-chase-leads-to-seizure-of-banned-gutkha-pan-masala-worth-113-crore-including-truck-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/w7zmpmhf/sudhir-jadhav-satara-20.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "f919cd2e41da",
+            "id": "c35501e6aeab",
             "feed": "maharashtratimes",
-            "title": "मुंबईत सापडला ११ फुटांचा अजगर, मांजरीची शिकार करताना रंगेहात पकडलं, रेस्क्यू ऑपरेशनचा व्हिडीओ व्हायरल",
+            "title": "आमची गौरी सापडत नाही हो! चिंताग्रस्त कुटुंब पोलिसात; तिथे थेट लेकीच्या मृत्यूची बातमी समजली",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-19T19:03:39",
-            "url": "https://maharashtratimes.com/viral/viral-news/11-foot-python-found-in-mumbais-bandra-rescued-after-strangling-cat-video-goes-viral/articleshow/134355149.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "6a8de222f3a9",
-            "feed": "maharashtratimes",
-            "title": "Ketaki Thatte : नाटकाच्या प्रयोगादरम्यान प्रेक्षकाला हृदयविकाराचा झटका, केतकी थत्तेनं सांगितला प्रसंग; म्हणाली, 'दुर्दैवाने ती व्यक्ती गेली'",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-19T18:35:32",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/marathi-actress-ketaki-thatte-shares-incident-of-marathi-natak/articleshow/134354549.cms",
+            "published": "2026-09-19T21:56:32",
+            "url": "https://maharashtratimes.com/india-news/gujarat-bcom-student-found-dead-after-exam-family-finds-out-while-filing-missing-complaint-at-police-station/articleshow/134356889.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "ed40ddeba9cc",
-            "feed": "lokmat",
-            "title": "अनिल कपूरच्या ‘इंडिया के टॉप १%’ला मिळाली पहिली विजेती; मुंबईच्या बिजल शाहने रचला इतिहास",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-19T18:34:02",
-            "url": "https://www.lokmat.com/filmy/television/anil-kapoors-indias-top-1-gets-its-first-winner-mumbais-bijal-shah-creates-history-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-ka-top-1_2026091786524.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "7a7019048391",
-            "feed": "lokmat",
-            "title": "खोबरेल तेलात व्हिटॅमिन ‘ई’ कॅप्सूल मिसळून केसांना करा मालिश! मऊ, चमकदार, शायनी केसांचे सिक्रेट...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-19T18:26:50",
-            "url": "https://www.lokmat.com/sakhi/beauty/coconut-oil-and-vitamin-e-benefits-for-hair-growth-coconut-oil-and-vitamin-e-for-hair-how-to-use-vitamin-e-capsule-for-hair-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/coconut-oil-vitamin-e-capsul-for-hair-growth_2026091786519.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "cc87c1f93d1c",
+            "id": "2a576e39a0c2",
             "feed": "esakal",
-            "title": "रविवारी गुरुचा अश्लेषा नक्षत्रात प्रवेश; 'या' ७ राशींच्या आयुष्यात येणार सुख-समृद्धी",
+            "title": "iPhone लंगर! चक्क 'इतक्या' लोकांना मोफत मिळणार आयफोन; फक्त ‘ही’ अट पूर्ण करावी लागणार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-19T18:21:06",
-            "url": "https://www.esakal.com/culture-and-religion/guru-ashlesha-nakshatra-gochar-7-zodiac-signs-lucky-rashifal-sunday-money-benefit-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/vkjw87tc/Guru-Ashlesha-Nakshatra-Gochar",
+            "published": "2026-09-19T21:32:40",
+            "url": "https://www.esakal.com/sci-tech/iphone-langar-chandigarh-free-iphone-17-win-jai-mata-di-condition-september-22-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/2u93ljeg/iPhone-Langar",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "0de21a6e7a48",
+            "feed": "esakal",
+            "title": "तुळशीचं रोप दक्षिण दिशेला का ठेवू नये? वास्तुशास्त्रानुसार काय आहे नियम?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-19T20:51:33",
+            "url": "https://www.esakal.com/ampstories/web-story/tulsi-plant-vastu-direction-home-tulsi-plant-benefits-religious-beliefs-south-direction-north-east-direction-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/l6ckckkq/2.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "2f95046e2f96",
+            "feed": "maharashtratimes",
+            "title": "महिलेला शेतात निर्घृणपणे संपवलं, दीड वर्षांची लेक आईच्या छातीला घट्ट बिलगलेली; गावकरी सुन्न",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-19T20:49:25",
+            "url": "https://maharashtratimes.com/india-news/karnataka-woman-found-dead-in-field-child-crying-husband-lover-arrested/articleshow/134356034.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "44c7f2ef9e82",
+            "feed": "lokmat",
+            "title": "स्वयंपाकघराले १ पान झुरळांना करते सळो की पळो! झुरळं होतील गायब - फुकटात घरगुती उपाय...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-19T20:46:04",
+            "url": "https://www.lokmat.com/sakhi/social-viral/how-to-get-rid-of-cockroaches-from-home-bay-leaves-for-cockroaches-bay-leaves-to-get-rid-of-cockroaches-how-to-use-bay-leaves-for-cockroaches-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-use-bay-leaves-for-cockroaches_2026091785847.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "b70a5fdf956c",
+            "feed": "maharashtratimes",
+            "title": "पाकिस्तानात मुलींना ना कामाची परवानगी, ना जन्म घेण्याची! लिंग गुणोत्तरात जगातील सर्वात वाइट देश",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-19T19:34:16",
+            "url": "https://maharashtratimes.com/international/international-news/pakistan-has-reportedly-worst-gender-ratio-in-the-world/articleshow/134354300.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "ce86d6cd0f56",
             "feed": "maharashtratimes",
@@ -228,122 +244,106 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "0f38f5e75327",
-            "feed": "lokmat",
-            "title": "संवेदनशील गुप्त माहिती इस्रायला दिली, इराणने हेराला फाशी सुनावली; मोसादला देत होता लोकेशन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-19T16:19:44",
-            "url": "https://www.lokmat.com/international/iran-sentences-spy-to-death-for-giving-sensitive-secret-information-to-israel-location-was-being-given-to-mossad-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/israel-and-iran-flag_2026091786460.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "cd7f4f3a48a2",
+            "id": "e8b37822ee7b",
             "feed": "lokmat",
-            "title": "CPL मध्ये हेटमायरचा धमाकेदार शो; IPL सहकारी वैभव सूर्यवंशीचा 'तो' विक्रम मोडला",
+            "title": "CPL 2026 : इम्रान ताहिरचा कहर! वयाच्या ४७व्या वर्षी सुनील नरेनचा महारेकॉर्ड मोडला",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-19T19:03:25",
-            "url": "https://www.lokmat.com/cricket/news/shimron-hetmyer-surpassed-vaibhav-suryavanshi-hitting-most-t20-sixes-in-2026-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shimron-hetmyer-surpassed-vaibhav-suryavanshi-m_2026091786534.jpg",
+            "published": "2026-09-19T20:41:52",
+            "url": "https://www.lokmat.com/cricket/news/cpl-2026-imran-tahir-is-the-all-time-leading-wicket-taker-in-caribbean-premier-league-breaks-record-of-sunil-narine-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/imran-tahir-is-the-all-time-leading-wicket-taker-m_2026091786585.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bbbbdc091628",
+            "id": "dd40377076c9",
             "feed": "lokmat",
-            "title": "'या' खेळाडूसाठी गंभीर-लक्ष्मण यांच्यात रस्सीखेच! BCCI नं असा काढला तोडगा; पडद्यामागं काय घडलं?",
+            "title": "\"अजून १५ दिवस बाकी! वेळ आल्यावर...\" अजित आगरकरांच्या कार्यकाळाबाबत BCCI सचिवांचं मोठं वक्तव्य",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-19T18:12:37",
-            "url": "https://www.lokmat.com/cricket/news/gautam-gambhir-vs-vvs-laxman-washington-sundar-nitish-kumar-reddy-and-the-selection-dilemma-explained-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gautam-gambhir-vs-vvs-laxman-washington-sundar-m_2026091786514.jpg",
+            "published": "2026-09-19T20:05:53",
+            "url": "https://www.lokmat.com/cricket/news/ajit-agarkar-will-not-get-a-contract-extension-devajit-saikia-makes-a-major-statement-regarding-the-chief-selectors-future-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ajit-agarkar-will-not-get-a-contract-extension-devajit-saikia-makes-a-major-statement-regardingm_2026091786567.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b2b67ad1a531",
-            "feed": "lokmat",
-            "title": "तरूणीवर अत्याचार प्रकरणात दिल्ली कॅपिटल्सच्या अभिषेक पोरेलला अखेर ३६ दिवसांनंतर जामीन",
+            "id": "91b21789fc0a",
+            "feed": "esakal",
+            "title": "मोहसिन नक्वींच्या हातून नाकारलेले Asia Cup मुंबईच्या वानखेडे स्टेडियमवर येणारच, पण...; BCCI सचिवांनी स्पष्टच सांगितलं",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-19T18:00:13",
-            "url": "https://www.lokmat.com/cricket/news/delhi-capitals-abhishek-porel-finally-gets-bail-after-36-days-in-physical-assault-fraud-case-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abhishek-porel-1909_2026091786508.jpg",
+            "published": "2026-09-19T19:08:51",
+            "url": "https://www.esakal.com/krida/cricket/bcci-confident-asia-cup-trophies-will-land-in-mumbai-after-standoff-with-mohsin-naqvi-devajit-saikia-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/3zwqgnyc/BCCI-Assures-Asia-Cup-Trophies-Will-Reach-India.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "41d14a0aecc3",
+            "id": "2aa15b5a4521",
             "feed": "lokmat",
-            "title": "Cotton Market : राज्यातील 'या' तीन मार्केटमध्ये कापूस खरेदीला प्रारंभ, पहा सरासरी भाव काय मिळाला?",
+            "title": "LPG BAA: घरगुती एलपीजी सिलेंडर बुकिंगसाठी नवा नियम, आधार बायोमेट्रिक ऑथेंटिकेशन सक्तीचे; केंद्राने काय म्हटलेय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "business"
             },
-            "published": "2026-09-19T18:40:02",
-            "url": "https://www.lokmat.com/agriculture/market-yard/cotton-procurement-has-started-in-these-three-markets-see-average-market-prices-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kapus-hs-3_2026091786501.jpeg",
+            "published": "2026-09-19T20:55:27",
+            "url": "https://www.lokmat.com/business/news/lpg-baa-new-rules-for-domestic-lpg-cylinder-booking-aadhaar-biometric-authentication-mandatory-what-has-the-center-said-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/biometric-aadhaar-authentication-is-mandatory-for-subsidised-domestic-lpg_2026091786588.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "7be49cbeef3f",
+            "id": "8782ca267559",
             "feed": "maharashtratimes",
-            "title": "Vostok Oil Project : जागतिक तेल पुरवठा दबावात असताना रशियाकडून नवा आधार; 700 कोटी टन साठा, भारताचाही खास संबंध",
+            "title": "EPFO ची वेतन मर्यादा वाढली, आता पेन्शन वाढण्याची शक्यता! महिन्याला 5000 चा फायदा, समजून घ्या गणित",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-09-19T18:06:17",
-            "url": "https://maharashtratimes.com/business/business-news/vostok-oil-project-of-russia-and-its-connection-with-india-700-crore-tonnes-crude-oil-production/articleshow/134350944.cms",
+            "published": "2026-09-19T20:46:18",
+            "url": "https://maharashtratimes.com/business/business-news/epfo-eps-scheme-monthly-pension-calculation-for-25000-basic-pay/articleshow/134356183.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "aa17b93aa333",
-            "feed": "esakal",
-            "title": "Premium|Portfolio Risk Management : शेअर बाजारातील जोखीम कमी करण्यासाठी पोर्टफोलिओ कसा सांभाळाल?",
+            "id": "0f8739407092",
+            "feed": "lokmat",
+            "title": "दुष्काळी परिस्थितीचा सरकार घेणार आढावा; जिल्हाधिकाऱ्यांकडून अहवाल मागवणार, कधीपर्यंत निर्णय होईल?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-19T17:49:00",
-            "url": "https://www.esakal.com/premium-article/portfolio-risk-management-stock-market-beta-index-put-future-derivatives-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/k739q2dj/Abhi.jpg",
+            "published": "2026-09-19T20:35:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/maharashtra-drought-government-will-review-the-drought-situation-will-seek-report-from-district-collector-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dushkal-19_2026091786563.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         }
     ]
 }
