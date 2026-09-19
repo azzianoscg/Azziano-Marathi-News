@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "19-09-2026 | 03:34 AM IST",
+    "lastUpdated": "19-09-2026 | 06:17 AM IST",
     "maharashtra": [
         {
             "id": "3a0ffc6544f4",
@@ -34,55 +34,71 @@
             "category_reason": "url"
         },
         {
-            "id": "a497a303428f",
-            "feed": "maharashtratimes",
-            "title": "Crime News: दिल्लीत मित्राचा खून अन् महाराष्ट्रात पळून आला; २० वर्षीय आरोपीला गुन्हे शाखेकडून अटक, कसा अडकला जाळ्यात?",
+            "id": "fdb2fe01d258",
+            "feed": "esakal",
+            "title": "मातीचा गणपती बसवून आरती; एरंडाच्या बिया प्रसाद म्हणून खाल्ल्याने १३ चिमुकल्यांना विषबाधा",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-18T23:55:16",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/murder-of-a-friend-in-delhi-20-year-old-accused-arrested-by-crime-branch-in-chhatrapati-sambhajinagar/articleshow/134342257.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7d635ca9d9e9",
-            "feed": "lokmat",
-            "title": "IIT Bombay Student Death: आयआयटी मुंबईमध्ये विद्यार्थ्याचा मृतदेह सापडला; मृत्यूचे कारण आले समोर, विद्यार्थ्यांचे कॅम्पसमध्ये आंदोलन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-18T23:42:45",
-            "url": "https://www.lokmat.com/mumbai/iit-bombay-student-death-students-body-found-in-iit-mumbai-cause-of-death-revealed-students-protest-on-campus-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iit-bombay-student-death_2026091786183.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "16f27e346abb",
-            "feed": "maharashtratimes",
-            "title": "Beed Drought 2026: बीडमध्ये ४५ दिवसांचा Rain Break, पिकं वाळली; Drought Declaration ची मागणी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-18T23:36:58",
-            "url": "https://maharashtratimes.com/video/mt-originals/beed-drought-2026-45-days-rain-break-maharashtra-farmer-crisis/videoshow/134341980.cms",
-            "image": "",
+            "published": "2026-09-19T00:18:09",
+            "url": "https://www.esakal.com/marathwada/aurangabad/kapus-wadgaon-poisoning-incident",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/0nd8vm06/Sakal20Wesite20Banner20_20Ch20Sambhaji20Nagar.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
+        },
+        {
+            "id": "4bf54d4423d7",
+            "feed": "esakal",
+            "title": "जिल्हाध्यक्षाची खुर्ची अन् आमदारकीची संधी..! मराठवाड्यातले भाजपचे पाच जिल्हाध्यक्ष आमदार; भाजपचा ‘पॅटर्न’ चर्चेत",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-19T00:18:09",
+            "url": "https://www.esakal.com/marathwada/aurangabad/district-chairmanship-mlas",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/lgx1nr42/Sakal20Wesite20Banner20_20Ch20Sambhaji20Nagar.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "28ac5a5067b8",
+            "feed": "esakal",
+            "title": "लिंबाच्या झाडाखाली सुरू असलेल्या जुगार अड्ड्यावर पोलिसांचा छापा.",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-19T00:17:51",
+            "url": "https://www.esakal.com/marathwada/aurangabad/todays-latest-marathi-news-gng26b04485-txt-abdcitytdypan6-20260918184751",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/8xs7051s/Sakal20Wesite20Banner20_20Ch20Sambhaji20Nagar.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "india": [
+        {
+            "id": "da8719442ca5",
+            "feed": "esakal",
+            "title": "19 सप्टेंबर 2026 राशिभविष्य! कोणत्या राशींची रखडलेली कामे मार्गी लागणार?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-19T06:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/september-19-2026-horoscope-what-does-today-hold-for-aries-to-pisces-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-18/cmr0xh1s/1.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "239412ec55c9",
             "feed": "maharashtratimes",
@@ -144,22 +160,6 @@
             "published": "2026-09-18T23:41:58",
             "url": "https://www.esakal.com/ampstories/web-story/honey-and-cinnamon-benefits-together-miracle-cure-health-benefits-scientific-evidence-truth-side-effects-aht00",
             "image": "https://cf-images.assettype.com/esakal/2026-03-26/92yftn8p/Honey-Cinnamon-Face-Mask-for-Acne-Prone-Skin-2.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "da26a71467d8",
-            "feed": "maharashtratimes",
-            "title": "Why Noel Tata Is Opposing N Chandrasekaran? TATA समुहात पेटलं Corporate war",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-18T23:36:58",
-            "url": "https://maharashtratimes.com/video/mt-originals/why-is-noel-tata-opposing-n-chandrasekaran-a-corporate-war-has-erupted-within-the-tata-group-/videoshow/134341981.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -266,6 +266,22 @@
     ],
     "business": [
         {
+            "id": "002a3d90eafc",
+            "feed": "maharashtratimes",
+            "title": "दुसऱ्याचे चार्जर मोबाईलला लावताय? सावधान! बॅटरी खराब होण्यासोबतच बँक खातेही होईल रिकामे",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-19T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/why-you-should-never-use-someone-else-mobile-charger-tech-and-cyber-risks/articleshow/134320963.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "5e5034becb34",
             "feed": "maharashtratimes",
             "title": "Saudi Aramco ने भारताला तेल पुरवठा थांबवला! पर्यायी मार्ग तुलनेने महाग, पेट्रोल-डिझेलच्या किंमती धोक्यात",
@@ -296,22 +312,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "98d2db05e28e",
-            "feed": "lokmat",
-            "title": "राज्यात पावसाची सरासरी 17 टक्के तूट, मराठवाडा, सोलापूरमध्ये सर्वात कमी पाऊस, या जिल्ह्यांत मात्र....",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-18T20:53:29",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/average-rainfall-deficit-in-maharashtra-17-percent-marathwada-solapur-has-the-least-rainfall-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rain-52_2026091786157.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
