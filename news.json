@@ -1,170 +1,218 @@
 {
-    "lastUpdated": "19-09-2026 | 10:47 AM IST",
+    "lastUpdated": "19-09-2026 | 03:26 PM IST",
     "maharashtra": [
         {
-            "id": "4049ebf32ac3",
+            "id": "1ddaea2ff659",
             "feed": "esakal",
-            "title": "Raigad Dam: रायगड जिल्ह्यातील २१ धरणं तुडुंब! उपयुक्त जलसाठा ९०.६१ टक्क्यांवर, पाणीटंचाईच्या झळा दूर",
+            "title": "Latest Marathi News Update : एकनाथ शिंदेंनी पत्नीसह केली गणरायाची आरती; घरच्या गणेशमूर्तीचे विसर्जन",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-19T10:39:41",
-            "url": "https://www.esakal.com/maharashtra/raigad-twenty-one-dams-water-levels-full-water-storage-has-reached-90-point-61-percent-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/rgkghil9/Raigad-Dam-Water-Level.jpg",
+            "published": "2026-09-19T15:18:15",
+            "url": "https://www.esakal.com/maharashtra/maharashtra-marathi-live-news-19-sept-2026-maharashtra-rain-news-weather-update-gokul-milk-politics-election-news-kolhapur-satej-patil-hasan-mushrif-dhananjay-mahadik-mass-food-distribution-notification-form-weather-update-imd-rain-forecast-parliament-monsoon-session-nda-bjp-congress-pm-modi-jantar-mantar-protest-cjp-gold-silver-rate-share-market-devendra-fadnavis-eknath-shinde-sunetra-pawar-sports-entertainment-politics-finance-trending-viral-news-updates-srs92-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "230050253c46",
-            "feed": "esakal",
-            "title": "Eknath Shinde : दुष्काळसदृश परिस्थितीवर मोठी बातमी! 5 ऑक्टोबरपासून पीक नुकसानीचे पंचनामे करण्याचे आदेश; उपमुख्यमंत्री एकनाथ शिंदेंची घोषणा",
+            "id": "345b368468e5",
+            "feed": "maharashtratimes",
+            "title": "Nanded News : शेतकऱ्यांना 'जीवघेण्या' दुष्काळझळा, इकडे नेत्यांचा काजू बदामावर ताव; बळीराजाची क्रूर थट्टा!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-19T10:31:03",
-            "url": "https://www.esakal.com/satara/maharashtra-drought-like-situation-low-rainfall-crop-damage-panchnama-october-5-eknath-shinde-farmer-compensation-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/znski3nk/Eknath-Shinde-Announces-Crop-Damage-Panchanamas-From-October-5",
+            "published": "2026-09-19T15:17:53",
+            "url": "https://maharashtratimes.com/maharashtra/nanded/nanded-agriculture-minister-dattatray-bharne-drought-review-meeting-leaders-eat-dryfruits/articleshow/134351455.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9509de98b240",
+            "id": "ea5ea49da7de",
             "feed": "lokmat",
-            "title": "ST बस NCMC कार्ड नोंदणी प्रक्रियेत मोठा बदल; प्रवाशांना महत्त्वाची सूचना, आता नवीन नियम काय?",
+            "title": "गौरी गणपती झाले, कोकणातून मुंबईत येण्यासाठी ४ अतिरिक्त विशेष ट्रेन; पाहा, सगळे वेळापत्रक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-19T10:29:13",
-            "url": "https://www.lokmat.com/maharashtra/big-change-in-msrtc-ncmc-card-registration-process-important-updates-to-st-bus-passengers-know-what-are-the-new-rules-now-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/st-jijau-bus-ncmc-card_2026091786248.jpg",
+            "published": "2026-09-19T15:11:37",
+            "url": "https://www.lokmat.com/mumbai/konkan-railway-running-of-additional-special-trains-between-csmt-to-sawantwadi-road-during-ganpati-festival-2026-know-all-details-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/konkan-railway-ganpati-special-train-1_2026091774605.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "87c3def04ae3",
-            "feed": "maharashtratimes",
-            "title": "Mumbai-Goa Highway : 17 वर्षांपासून काम अपूर्णच, आता खर्च 5500 कोटींनी वाढला; याच हायवेच्या उद्घाटनाला जाणार नाहीत गडकरी!",
+            "id": "198b20ccd5b6",
+            "feed": "esakal",
+            "title": "३३ महिला- पुरुषांनी घेतला आरोग्य लाभ",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-09-19T10:25:46",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-goa-highway-cost-increased-by-48-percent-work-incomplete-after-10-years/articleshow/134347922.cms",
-            "image": "",
+            "published": "2026-09-19T15:05:30",
+            "url": "https://www.esakal.com/marathwada/aurangabad/free-health-camp-indiranagar",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/bnzrkq8b/Sakal20Wesite20Banner20_20Ch20Sambhaji20Nagar.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "1cfad3e284c5",
-            "feed": "maharashtratimes",
-            "title": "Satana Accident: गणपती विसर्जनावेळी मोठा अनर्थ; सटाण्यात दोन शाळकरी मुलांचा पाण्यात बुडून अंत, गावावर शोककळा",
+            "id": "cf870699fc54",
+            "feed": "esakal",
+            "title": "मोहपाडा ग्रामपंचायत हद्दीतील वाद तात्काळ थांबवावा- जिल्हाधिकारी प्रसाद",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-19T10:25:13",
-            "url": "https://maharashtratimes.com/maharashtra/nashik/nashik-satana-private-coaching-class-2-students-drowned-after-going-to-weir-for-ganpati-idol-immersion/articleshow/134347628.cms",
-            "image": "",
+            "published": "2026-09-19T15:03:18",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/todays-latest-marathi-news-mln26b41451-txt-mlgtdy2-20260919093318",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/3pywlpkz/Sakal_Wesite_Banner_1200_x_675.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "3bddbeca82e6",
-            "feed": "maharashtratimes",
-            "title": "Tirupati Laddu : तिरुपती लाडू प्रसादाच्या तुपात भेसळ, 'सुकृती फूड्स'च्या कैलासचंद मंगलांना ईडीची अटक, गायीच्या तुपाच्या नावे पामतेल वापरल्याचा आरोप",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-19T10:42:52",
-            "url": "https://maharashtratimes.com/india-news/tirupati-laddu-ghee-adulteration-case-ed-arrests-sukriti-foods-promoter/articleshow/134348040.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0b35ef29bc0a",
+            "id": "f81bce580ede",
             "feed": "esakal",
-            "title": "Numerology: मूलांक १ असलेल्या लोकांवर का असते श्री गणेशांची कृपा?गणपती बाप्पा अन् अंक १ चा काय आहे संबंध?",
+            "title": "Unsold Ganpati Idols : विक्री न झालेल्या गणपतीच्या मूर्तींचे कुंभार काय करतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-19T10:41:19",
-            "url": "https://www.esakal.com/culture-and-religion/lord-ganesha-and-number-1-connection-mulank-1-ruler-numerology-mulank-1-var-shri-ganeshanchi-krupa-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-17/pabyz0de/Lord-Ganesha-Number-1-Connection-Why-He-Rules-Mulank-1png",
+            "published": "2026-09-19T15:24:58",
+            "url": "https://www.esakal.com/ampstories/web-story/unsold-ganpati-idols-potters-what-happens-to-leftover-ganesh-idols-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2025-09-06/1h55qoa0/Ganpati-Visarjan",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "10ec9a083c67",
+            "id": "fae39620cc3f",
             "feed": "esakal",
-            "title": "Yamuna Development Projects Inaugurated: २,१०० दिव्यांच्या रोषणाईने उजळला यमुना तीर; CM धामींच्या हस्ते हरिघाट अन् भव्य मूर्तीचे लोकार्पण",
+            "title": "Hydrogen Train India : पहिल्या हायड्रोजन रेल्वेची 170 किमी फेरी रिकामीच; २६०० क्षमता पण दैनंदिन प्रवासी फक्त ६०; दिल्लीपर्यंत विस्ताराची वेळ",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-19T10:36:44",
-            "url": "https://www.esakal.com/desh/haripur-kalsi-yamuna-development-pushkar-singh-dhami-yamuna-temple-harighat-2100-diyas-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/xbc0bldo/Pushkar-Singh-Dhami-participates-in-the-Yamuna-Aarti-amid-2100-diyas-at-Haripur-Kalsi.-4.png",
+            "published": "2026-09-19T15:23:51",
+            "url": "https://www.esakal.com/desh/hydrogen-train-india-jind-sonipat-low-passenger-demand-delhi-azadpur-extension-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/hqnzgb5g/Advait.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "a7c390433964",
+            "id": "caa809c5c7b7",
             "feed": "maharashtratimes",
-            "title": "6000mAh बॅटरीसह itel A300C भारतात लॉन्च; 100 दिवसांची फ्री स्क्रीन रिप्लेसमेंट ऑफर",
+            "title": "भाविकांची कार नाल्यात वाहून गेली; 3 चिमुकल्यांसह 8 जणांचा शेवट; बॉडी कित्येक तास आत अडकलेल्या",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-19T10:29:29",
-            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/itel-a300c-launched-in-india-with-6000mah-battery-and-100-days-free-screen-replacement-offer/articleshow/134348022.cms",
+            "published": "2026-09-19T15:23:46",
+            "url": "https://maharashtratimes.com/india-news/8-dies-as-car-falls-into-swollen-drain-in-madhya-pradesh-agar-malwa/articleshow/134351305.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "cf57f0e61deb",
+            "id": "c8c1f6d824d2",
+            "feed": "lokmat",
+            "title": "Video : IT कंपनीबाहेर आला भलामोठा अजगर! हातात गुंडाळून फिरू लागला तरुण, व्हिडिओ व्हायरल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-19T15:16:30",
+            "url": "https://www.lokmat.com/social-viral/viral-video-giant-python-spotted-outside-it-office-man-casually-wraps-it-around-his-arm-a-a583/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/python-viral-video1_2026091786422.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "304b1caa4470",
+            "feed": "lokmat",
+            "title": "\"डोक्याला दुखापत, ५ दिवस कोमात होतो...\", अजिंक्य देव यांनी सांगितला अपघाताचा थराराक प्रसंग, काय घडलेलं?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-19T15:11:10",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/marathi-actor-ajinkya-deo-recounts-the-shocking-accident-in-versova-know-about-what-exactly-happened-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ajinkya-deo_2026091786418.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        }
+    ],
+    "world": [
+        {
+            "id": "0fb5727f1a5b",
+            "feed": "lokmat",
+            "title": "एआयचा वाढता वापर, डेटा केंद्रांवर दबाव; वीज-पाण्याच्या बचतीवर भविष्य अवलंबून",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-19T14:41:34",
+            "url": "https://www.lokmat.com/international/increasing-use-of-ai-pressure-on-data-centers-future-depends-on-saving-electricity-and-water-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjruyrf_2026091786412.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d74d69c18053",
             "feed": "esakal",
-            "title": "iPhoneचा भंडारा! Apple फोनचे मोफत वाटप, २२ सप्टेंबरला आयोजन; कुठे आणि कोण देणार? पाहा VIDEO",
+            "title": "Iran Execution : इराणने मोसादच्या गुप्तहेराला दिली फाशी, इस्त्रायलला संवेदनशील लष्करी माहिती पुरवल्याचा आरोप",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-19T10:16:42",
-            "url": "https://www.esakal.com/desh/free-iphone-giveaway-viral-video-claims-apple-iphone-17-and-above-models-will-be-distributed-for-free-on-september-22-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/5l25vqxy/iphone-raja-d-king.jpg",
+            "published": "2026-09-19T14:37:28",
+            "url": "https://www.esakal.com/global/iran-executes-hossein-padran-for-alleged-mossad-espionage-sharing-sensitive-military-information-israel-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/hmz6jbzj/74.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        }
-    ],
-    "world": [
+        },
+        {
+            "id": "c641f70c072f",
+            "feed": "maharashtratimes",
+            "title": "'AI जगाचा अंत करणार नाही'; एनव्हिडियाचे CEO जेन्सेन हुआंग यांनी फेटाळला दावा, पण दिला मोठा इशारा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-19T14:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/science-technology/nvidia-ceo-jensen-huang-rejects-ai-will-end-the-world-claim-urges-safe-but-rapid-development/articleshow/134350174.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "8cdb47e215a0",
             "feed": "esakal",
@@ -178,38 +226,6 @@
             "published": "2026-09-19T09:01:00",
             "url": "https://www.esakal.com/premium-article/who-am-i-beyond-work-identity-and-self-worth-explain-in-marathi-sk88",
             "image": "https://cf-images.assettype.com/esakal/2026-09-18/pkxrk2n3/self-identity",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "1146c650e1ce",
-            "feed": "lokmat",
-            "title": "रशियाकडून तेल खरेदी भारत-चीनला पडणार महाग; ट्रम्प यांच्या नव्या कायद्याने टॅरिफची टांगती तलवार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-19T08:09:12",
-            "url": "https://www.lokmat.com/international/donald-trump-signs-new-sanctions-act-india-faces-100-percent-tariff-threat-over-russian-oil-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-sanctioning-russia-and-iran-act_2026091786216.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dcbc99a32e62",
-            "feed": "lokmat",
-            "title": "मानगूट अमेरिकेच्या हातात...; भारताच्या निर्यातीवर १०० टक्के टॅरिफचा वरवंटा...!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-19T07:50:39",
-            "url": "https://www.lokmat.com/editorial/neck-in-the-hands-of-america-100-percent-tariff-on-indias-exports-lokmat-editorial-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-rfe-d_2026091786211.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
@@ -228,120 +244,104 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-18/vljxsnqk/72.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "820aa6184912",
-            "feed": "maharashtratimes",
-            "title": "पाकिस्तान हादरला! मशिदीत नमाज सुरू असताना आत्मघाती स्फोट; 15 ठार, 50 हून अधिक जखमी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-18T16:08:16",
-            "url": "https://maharashtratimes.com/international/international-news/15-died-50-injured-in-blast-at-pakistan-mosque-during-friday-namaz/articleshow/134332316.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "c260afe24c2e",
-            "feed": "esakal",
-            "title": "विचित्रच! जाहिरातीचं शूटींग अन् खांदा निखळला; स्टार खेळाडू  IND vs NZ ट्वेंटी-२० मालिकेला मुकणार, वाढली डोकेदुखी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-19T10:34:52",
-            "url": "https://www.esakal.com/krida/cricket/rachin-ravindra-dislocates-shoulder-during-promotional-shoot-set-to-miss-t20i-series-against-india-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/6ca9ikny/Rachin-Ravindra-right-shoulder-dislocation-injury",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "039254beeed0",
+            "id": "5ddec5b60369",
             "feed": "lokmat",
-            "title": "अजित आगरकरचे 'पॅक-अप'? CSK, MI कडून ट्रॉफी जिंकलेल्या स्टार क्रिकेटरच्या नावाची जोरदार चर्चा",
+            "title": "Asian Games 2026: टीम इंडियातील खेळाडूंच्या जर्सीचा घोळ! जपान टेकऑफची वेळ बदलणार? असं घडलं तरी काय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-19T09:50:39",
-            "url": "https://www.lokmat.com/cricket/photos/parthiv-patel-may-replace-ajit-agarkar-as-chief-selector-of-team-india-as-bcci-meeting-scenario-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/parthiv-patel-ajit-agarkar-1909_2026091786245.jpg",
+            "published": "2026-09-19T14:23:13",
+            "url": "https://www.lokmat.com/cricket/news/asian-games-2026-indias-mens-cricket-team-faces-kit-delays-before-nagoya-trip-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indias-mens-cricket-team-faces-kit-delays-before-nagoya-trip-m_2026091786396.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "dc2cdad74dfa",
+            "id": "76de97dd1992",
             "feed": "esakal",
-            "title": "Asian Games 2026 : भारत पदकांचे शतक यंदाही पार करणार? नेमबाजी, हॉकी, बॅटमिंटनमध्ये मोठ्या अपेक्षा",
+            "title": "Asian Games 2026: श्रेयस अय्यरच्या संघाला जपानला जाण्यापूर्वी धक्का; BCCI, IOA ची पळापळ, नेमकं काय घडलं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-19T14:10:17",
+            "url": "https://www.esakal.com/krida/cricket/asian-games-2026-shreyas-iyer-led-india-hit-by-kit-sizing-issue-before-japan-departure-bcci-steps-in-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/xotnq7f2/Shreyas-Iyer-led-Indian-mens-cricket-team-faces-a-last-minute-kit-sizing-issue",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "973c180c84c4",
+            "feed": "esakal",
+            "title": "Asian Games: जपानमध्ये भारतीय नेमबाजांचे मोठे हाल! राही सरनोबतच्या हॉटेल बुकिंगबाबत घडला विचित्र प्रकार उघड",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-19T09:34:15",
-            "url": "https://www.esakal.com/krida/asian-games-2026-can-india-cross-the-100-medal-mark-again-big-hopes-from-shooting-hockey-and-badminton-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/z7ewe1w2/India-Asian-Games-2026-contingent-and-medal-expectations",
+            "published": "2026-09-19T13:12:34",
+            "url": "https://www.esakal.com/krida/rahi-sarnobat-asian-games-nagoya-hotel-room-booking-issue-indian-shooting-contingent-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-19/46b9n30y/Rahi-Sarnobat-Facing-Hotel-Chaos-Asian-Games-2026.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "business": [
         {
-            "id": "36ffed1269e1",
-            "feed": "maharashtratimes",
-            "title": "NSE IPO कडे गुंतवणूकदारांचा ओढा, दुसऱ्याच दिवशी पूर्णपणे बुक; ग्रे मार्केटमध्ये दर घसरला, धाकधूक वाढली",
+            "id": "cba850e78853",
+            "feed": "lokmat",
+            "title": "मत्स्यबीज खरेदी करताना 'या' माशाचे बीज खरेदी करू नका अथवा संवर्धनही करू नका, वाचा सविस्तर",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-09-19T10:19:58",
-            "url": "https://maharashtratimes.com/business/share-bazaar/nse-ipo-gmp-today-issue-fully-subscribed-in-second-day-grey-market-premium-down-9-percent/articleshow/134347601.cms",
-            "image": "",
+            "published": "2026-09-19T15:08:58",
+            "url": "https://www.lokmat.com/agriculture/agri-business/fisheries/when-buying-fish-seeds-do-not-buy-or-cultivate-the-seeds-of-thai-mangur-fish-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thai-mangur_2026091786420.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "a8bcdfb74a58",
+            "id": "bc221c947968",
             "feed": "lokmat",
-            "title": "NSE IPO दुसऱ्याच दिवशी १००% सब्सक्राईब, रिटेल कोटा संपूर्ण भरला, GMP १०५ रुपयांच्या खाली आला",
+            "title": "\"प्रश्न चार पैशाचा किंवा चाळीस रूपयांचा नाही...\"; UPIच्या नव्या नियमावरून राज ठाकरे स्पष्टच बोलले!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-09-19T10:16:18",
-            "url": "https://www.lokmat.com/business/stock-market/nse-ipo-100-percent-subscribed-on-the-second-day-retail-quota-fully-filled-gmp-falls-below-rs-105-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nse-ipo-_2026091781682.jpg",
+            "published": "2026-09-19T15:06:11",
+            "url": "https://www.lokmat.com/business/news/raj-thackeray-slammed-new-upi-rules-condemns-central-government-finance-ministry-nirmala-sitharaman-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raj-thackeray-1909_2026091786417.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "448d32028e60",
+            "id": "414df0a55dd5",
             "feed": "lokmat",
-            "title": "जग संकटात, भारताची अर्थव्यवस्था सुसाट; जीडीपी वृद्धीदर ७ टक्के राहणार, मूडीजचा नवा अंदाज",
+            "title": "Gold Silver Price Today: सोन्या-चांदीच्या दरात मोठी तेजी, २२ कॅरट सोनंही १.४४ लाखांच्या पार, २४ कॅरेटचा दर काय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-09-19T09:47:44",
-            "url": "https://www.lokmat.com/business/news/the-world-is-in-crisis-indias-economy-is-doing-well-gdp-growth-rate-will-remain-at-7-percent-moodys-new-forecast-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hdtjct_2026091786243.jpg",
+            "published": "2026-09-19T14:55:10",
+            "url": "https://www.lokmat.com/business/savings-investments/gold-silver-price-today-19-september-2026-big-rise-in-gold-and-silver-prices-22-carat-gold-also-crosses-rs-1-44-lakh-what-is-the-price-of-24-carat-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gold-india-import_2025021393854.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
