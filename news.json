@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "20-09-2026 | 10:37 PM IST",
+    "lastUpdated": "21-09-2026 | 01:28 AM IST",
     "maharashtra": [
+        {
+            "id": "efef03d4141b",
+            "feed": "lokmat",
+            "title": "लातुरात जि.प. अध्यक्षांचे घर फाेडले; दागिने, १२ लाखांची रोकड पळवली!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-21T00:20:52",
+            "url": "https://www.lokmat.com/latur/in-latur-the-house-of-the-zp-chairman-was-broken-into-jewellery-and-cash-worth-rs-12-lakhs-were-stolen-a-a463-c1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/robbery-latur_2026091786945.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8a5877dc3f54",
+            "feed": "maharashtratimes",
+            "title": "Ratnagiri News : संगमेश्वरच्या चार एक्सप्रेससाठी ‘उंदीरमामा’ मैदानात; अनोख्या आंदोलनाची चर्चा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-20T23:58:34",
+            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/unique-protest-to-secure-stops-for-four-express-trains-at-sangameshwar-road-station/articleshow/134373686.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7ca920462674",
+            "feed": "lokmat",
+            "title": "आयआयटी मुंबई विद्यार्थी मृत्यू प्रकरण: प्रोफेसरविरुद्ध गुन्हा दाखल, वडिलांनी केला गंभीर आरोप",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-20T23:28:10",
+            "url": "https://www.lokmat.com/crime/iit-bombay-student-death-case-case-registered-against-professor-father-makes-serious-allegations-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sahil-vakode-case_2026091786941.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "baad1acf3794",
+            "feed": "maharashtratimes",
+            "title": "Central Railway : मध्य रेल्वेच्या सर्व रेल्वे स्थानकांवर प्रवाशांना सुरक्षित पिण्यायोग्य मिळणार, प्रशासनाने कंबर कसली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-20T22:56:10",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/central-railway-significant-measures-to-improve-drinking-water-quality-for-passengers/articleshow/134371628.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "8c1003c0338a",
             "feed": "esakal",
@@ -16,73 +80,57 @@
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "f8ab7eac8276",
+            "id": "ea72d7a66da9",
             "feed": "esakal",
-            "title": "Pune Ahilyanagar Road: वाघोली गणेश विसर्जन २०२६; पुणे-अहिल्यानगर रोडवरील वाहतूक बदल, पर्यायी मार्ग आणि बाजार बंदची माहिती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-20T21:57:47",
-            "url": "https://www.esakal.com/pune/wagholi-ganesh-visarjan-2026-pune-ahilyanagar-road-traffic-changes-alternative-routes-and-market-closure-details-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-20/h92x4d94/sudhir-jadhav-satara-22.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c79597937dff",
-            "feed": "esakal",
-            "title": "Kini Toll Plaza Traffic : ‘फास्टॅग’ स्कॅनिंगला विलंब, किणी टोलनाक्यावर पाच किलोमीटर वाहनांच्या रांगा; पुणे बंगळुरू महामार्गावर वाहतूक कोंडी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-20T21:43:08",
-            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kini-toll-plaza-traffic-jam-5-km-queue-due-to-fastag-scanning-delay-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-20/6biokpax/sandeep-shirguppe-2026-09-20T214232.445.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bc213073d772",
-            "feed": "maharashtratimes",
-            "title": "Satara News : आमदाराची गाडी असल्याचा बनाव, गाडीवर VIP स्टीकर, पोलिसांनी खाक्या दाखवला अन् सत्याचा उलगडा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-20T21:19:45",
-            "url": "https://maharashtratimes.com/maharashtra/satara/police-strict-action-against-youth-over-mla-and-vip-sticker-on-his-car/articleshow/134370840.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4b369a8e5ffc",
-            "feed": "esakal",
-            "title": "TET Paper Leak: टीईटी पेपरफुटी प्रकरणाचे बीड कनेक्शन; शिरूरच्या प्रकाश मिसाळला अटक, आरोपींची संख्या १८ वर",
+            "title": "Spinach Oats Tikki: हेल्दी नाश्त्यासाठी उत्तम पर्याय! १० मिनिटांत बनवा हेल्दी अन् कुरकुरीत पालक-ओट्सची टिक्की",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-20T21:07:54",
-            "url": "https://www.esakal.com/marathwada/tet-paper-leak-case-beed-connection-emerges-prakash-misal-arrested-from-shirur-as-total-accused-count-reaches-18-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-22/d6wn48w5/Exam-Paper-Leak",
+            "published": "2026-09-21T00:58:26",
+            "url": "https://www.esakal.com/food/spinach-oats-tikki-recipe-healthy-crispy-breakfast-in-10-minutes-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-20/mx3zluo7/Spinach-Oats-Tikki.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "564644b8c05d",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 21 September 2026: धनयोग, शोभन योग, रवि योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-20T23:44:31",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-21-september-in-marathi-ganeshotsav-2026-dhanyog-ravi-yoga-and-shubha-muhurta/articleshow/134372301.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "cf26b9dc1f4a",
+            "feed": "maharashtratimes",
+            "title": "केरळमध्ये मुसळधार पावसापासून बचावासाठी शेडमध्ये गेले, अन् अचानक डोंगराचा भाग कोसळला; दोघांचा मृत्यू",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-20T23:36:00",
+            "url": "https://maharashtratimes.com/india-news/kerala-landslide-hit-on-shed-amid-heavy-rainfall-2-people-died/articleshow/134372466.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        }
-    ],
-    "india": [
+        },
         {
             "id": "eab3901f89de",
             "feed": "lokmat",
@@ -114,57 +162,57 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-20/8e2nekwx/sudhir-jadhav-satara-23.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "004f4712b0ea",
-            "feed": "esakal",
-            "title": "Realme Smartphone: हॅरी पॉटर चाहत्यांसाठी खूशखबर! Realme 16 Proचे लिमिटेड एडिशन Flipkartवर होणार लाँच; पाहा फीचर्स!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-20T22:06:10",
-            "url": "https://www.esakal.com/sci-tech/realme-16-pro-harry-potter-limited-edition-flipkart-launch-realme-16-pro-harry-potter-smartphone-hogwarts-themed-limited-box-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-20/zzqa0x7v/Srushti-Marathe-2026-09-20T181807.100.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d5afd0afa8dd",
-            "feed": "esakal",
-            "title": "S Jaishankar SIR Notice : परराष्ट्रमंत्री जयशंकर, सीबीआय संचालक, माजी लष्करप्रमुखांच्या कुटुंबीयांना SIR नोटीस; नेमकं प्रकरण काय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-20T21:59:06",
-            "url": "https://www.esakal.com/desh/s-jaishankar-sir-notice-unmapped-voter-list-delhi-sir-election-commission-voter-verification-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-20/gw5jubxe/79.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "9ac31a06a1ef",
-            "feed": "esakal",
-            "title": "तीन रस्त्यांच्या मधोमध नारळ का फोडतात?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-20T21:55:49",
-            "url": "https://www.esakal.com/ampstories/web-story/why-do-people-break-coconuts-at-a-three-way-junction-tiththya-var-naral-ka-phodtat-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-20/r0w8u27c/People-Break-Coconuts-at-a-Three-Way-road-5.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "67dc4ee888fe",
+            "feed": "lokmat",
+            "title": "\"मी संपूर्ण देश उद्ध्वस्त करू शकतो!\" डोनाल्ड ट्रम्प यांची इराणला अत्यंत आक्रमक आणि थेट धमकी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-21T00:14:43",
+            "url": "https://www.lokmat.com/international/i-can-destroy-the-entire-country-donald-trumps-extremely-aggressive-and-direct-threat-to-iran-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-iran-11-2_2026091786943.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c8feb0914ee5",
+            "feed": "lokmat",
+            "title": "फ्रान्स आणि बेल्जियमनंतर इटलीतही बुरखा अन् नकाबवर बंदी; खुद्द पंतप्रधान मेलोनींची घोषणा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-21T00:02:37",
+            "url": "https://www.lokmat.com/international/after-france-and-belgium-burqa-and-niqab-are-banned-in-italy-too-prime-minister-meloni-himself-announced-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/giorgia-meloni_2026091786942.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c93d34612942",
+            "feed": "esakal",
+            "title": "Iran US Conflict : अमेरिकेला इराणचे थेट आव्हान; ‘युद्धाची खरंच तयारी असेल तर जमिनीवर सैन्य उतरवा’",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-20T22:41:29",
+            "url": "https://www.esakal.com/global/iran-us-conflict-mohsen-rezaei-us-ground-troops-iran-war-qatar-talks-iran-america-military-tensions-negotiation-conditions-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-20/g1nlu3bk/80.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "849d5cdecd3f",
             "feed": "lokmat",
@@ -196,57 +244,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/america-donald-trump-iran-war_2026091786911.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "4f94eb1a3565",
-            "feed": "lokmat",
-            "title": "वडिलांनी जमीन विकून पूर्ण केलं लेकीचं स्वप्न; आशियाई स्पर्धेत झेप घेणारी नेमबाज सोनम मस्कर झाली भावुक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-20T18:08:51",
-            "url": "https://www.lokmat.com/other-sports/father-fulfills-daughters-dream-by-selling-land-shooter-sonam-maskar-who-won-in-asian-games-gets-emotional-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sonam-maskar_2026091786937.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "ce4c4c4b733e",
-            "feed": "lokmat",
-            "title": "इम्रान खान यांच्या सुटकेसाठी आंदोलन पडले महागात; बहीण अलीमा खान यांना पोलिसांनी केली अटक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-20T16:52:26",
-            "url": "https://www.lokmat.com/international/protest-for-imran-khans-release-ends-in-tragedy-police-arrest-sister-aleema-khan-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/imran-khan-sister-1_2026091786857.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a17f63797744",
-            "feed": "lokmat",
-            "title": "अमेरिकेने मध्य पूर्वेतील दूतावासांना पाठवला अलर्ट; ९ देशातील US नागरिकांना सावधगिरीचा इशारा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-20T16:15:25",
-            "url": "https://www.lokmat.com/international/us-iran-war-update-us-sends-alert-to-embassies-in-middle-east-us-citizens-in-9-countries-warned-of-caution-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-amebdasy1_2026091786815.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "516d0271a5db",
+            "feed": "maharashtratimes",
+            "title": "Sonam Maskar : महाराष्ट्राच्या शिरपेचात मानाचा तुरा, कोल्हापूरच्या सोनमने भारताला मिळवून दिले रौप्यपदक, वडिलांच्या संघर्षालाही सलाम!",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-09-21T00:47:12",
+            "url": "https://maharashtratimes.com/sports/other-sports/sonam-maskar-from-kolhapur-winning-silver-medal-in-asian-games-2026/articleshow/134374513.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "55501fdf806a",
             "feed": "esakal",
@@ -276,22 +292,6 @@
             "published": "2026-09-20T21:11:56",
             "url": "https://www.esakal.com/krida/cricket/india-vs-new-zealand-2026-shreyas-iyer-likely-captain-final-odis-shubman-gill-gautam-gambhir-early-test-prep-psk96",
             "image": "https://cf-images.assettype.com/esakal/2026-09-20/sqzoufa0/Shreyas-Iyer-Likely-to-Captain-India-in-Final-ODIs-vs-New-Zealand.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "adc3aa61ee56",
-            "feed": "esakal",
-            "title": "Asian Games: ९ षटकार अन् शतक... Shafali Verma ने विश्वविक्रमासह मोडले ६ मोठे विक्रम; स्मृती मानधनालाही टाकलंय मागे",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-20T19:25:30",
-            "url": "https://www.esakal.com/krida/cricket/asian-games-2026-shafali-verma-century-9-sixes-breaks-6-records-india-vs-bangladesh-most-runs-sixes-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-20/j8bjdone/Shafali-Verma-Asian-Games-Century-Records.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
