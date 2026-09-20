@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "20-09-2026 | 07:52 AM IST",
+    "lastUpdated": "20-09-2026 | 01:33 PM IST",
     "maharashtra": [
         {
-            "id": "367caab0b35b",
-            "feed": "lokmat",
-            "title": "विदर्भ, मराठवाड्यात चार दिवस मोठ्या सरी बरसणार",
+            "id": "e4a90755d438",
+            "feed": "esakal",
+            "title": "Jalna Lakkadkot Crime : जालना शहरात पतीकडून पत्नीचा गळा चिरून खून",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-09-20T07:49:03",
-            "url": "https://www.lokmat.com/maharashtra/vidarbha-marathwada-to-receive-heavy-rains-for-four-days-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rainnnn_202209881694.png",
+            "published": "2026-09-20T13:32:16",
+            "url": "https://www.esakal.com/marathwada/jalna-lakkadkot-crime-incident-sadar-bazar-police-investigation-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-20/t5kjxluv/Advait.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "2a2aad01d46a",
+            "id": "8c1003c0338a",
             "feed": "esakal",
-            "title": "झुरळ, अस्‍वच्‍छता अन्‌ शिळे अन्न, ‘एफडीए’ची पुण्यासह विभागात कारवाई; चार हॉटेलांचे परवाने निलंबित",
+            "title": "Marathi News Live Updates : आशियाई क्रीडा स्पर्धेत एलावेनिल वलारिवानने जिंकलं रौप्य पदक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-20T07:40:10",
-            "url": "https://www.esakal.com/pune/fda-action-in-pune-and-satara-licences-of-four-hotels-suspended-over-cockroaches-poor-hygiene-and-stale-food-violations-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-19/wswq8p7x/Abhi.jpg",
+            "published": "2026-09-20T13:28:16",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-20-september-2026-ganeshotsav-ganesh-visarjan-lalbaugcha-raja-dagdusheth-ganpati-mumbai-pune-konkan-weather-update-imd-supreme-court-hearing-on-shiv-sena-shinde-faction-tukaram-mundhe-fda-actions-election-commission-india-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-bam92-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "87800880aa08",
-            "feed": "maharashtratimes",
-            "title": "Pankaja Munde: तिकडे कोणी काजू, बदाम खाण्यासाठी गेले नव्हते; पंकजा मुंडेंनी विरोधकांना फटकारलं",
+            "id": "20f05c71672b",
+            "feed": "esakal",
+            "title": "Morgaon Ganpati : मयुरेश्‍वराच्या मूर्तीवरील शेंदूर लेपाचे कवच आपोआप कधी टाकले गेले? 1788 च्या 'त्या' दुर्मीळ ताम्रपटातून मोठा उलगडा, 7 संस्कृत श्लोकांमध्ये काय आहे?",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-20T07:07:07",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/nanded-drought-meet-was-for-farmers-not-kaju-badam-pankaja-mundhe-slams-critics/articleshow/134362627.cms",
-            "image": "",
+            "published": "2026-09-20T13:23:55",
+            "url": "https://www.esakal.com/pune/morgaon-mayureshwar-ashtavinayak-1788-copper-plate-shendur-coating-idol-history-karanje-baramati-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-20/t16edbkr/1788-Morgaon-Mayureshwar-copper-plate",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "562dc2b1399e",
+            "id": "0b80a44b7e35",
             "feed": "lokmat",
-            "title": "केतन अग्रवाल हत्या प्रकरणी मोठी अपडेट, पुणे ग्रामीण पोलिसांनी दाखल केले ५,०५३ पानांचे दोषारोपपत्र",
+            "title": "हॉस्पिटलचे बिल पेमेंट आता रोख भरूनच?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-20T06:14:57",
-            "url": "https://www.lokmat.com/pune/big-update-in-ketan-agarwal-murder-case-pune-rural-police-files-5053-page-chargesheet-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ketan-agrawal-murder-case-siya-brother-statement-to-police-3_2026061731056.jpg",
+            "published": "2026-09-20T13:23:12",
+            "url": "https://www.lokmat.com/mumbai/should-hospital-bills-be-paid-in-cash-now-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/payment-main_2023091081655.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "2bbf26accb6f",
+            "id": "9b947a1ecca5",
             "feed": "lokmat",
-            "title": "प्रकृती बिघडल्याने अमित शाह यांचा कोल्हापूर दौरा रद्द",
+            "title": "आठ हजारांसाठी प्रश्नपत्रिकेची चक्क बुटात लपवून चोरी, ‘टीईटी’ पेपर फूटीप्रकरणी दोषारोपपत्रातील आरोप",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-20T06:01:37",
-            "url": "https://www.lokmat.com/kolhapur/amit-shahs-kolhapur-visit-cancelled-due-to-deteriorating-health-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amit-shah-on-jammu-kashmir-ladakh_2025011368599.jpeg",
+            "published": "2026-09-20T13:17:34",
+            "url": "https://www.lokmat.com/maharashtra/question-paper-stolen-for-rs-8000-hidden-in-shoe-allegation-in-chargesheet-in-tet-paper-fraud-case-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/paper-leak-abd-crime-abc_202112742264.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "ab305f89c0c3",
+            "id": "fb49614b75d1",
+            "feed": "lokmat",
+            "title": "Bsc मध्ये शिकणाऱ्या तरूणीचा जीव धोक्यात; एकाच सापाने ४५ दिवसांत ७ वेळा दिला दंश, कुटुंब दहशतीत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-09-20T13:26:55",
+            "url": "https://www.lokmat.com/national/life-of-a-young-girl-studying-bsc-in-danger-same-snake-bit-her-7-times-in-45-days-family-in-panic-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/snake-bite-anita-1_2026091786712.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "634a0d6b14cf",
             "feed": "esakal",
-            "title": "Premium |1980s AI Trend : ऐंशीच्या दशकात परतणे सोपंय का?",
+            "title": "लिंबाला टाचण्या का मारतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-20T07:40:00",
-            "url": "https://www.esakal.com/premium-article/1980s-ai-trend-nostalgia-social-media-photos-past-reality-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/kdee6w9k/Abhi-4.jpg",
+            "published": "2026-09-20T13:18:55",
+            "url": "https://www.esakal.com/ampstories/web-story/limbala-tachnya-ka-martat-lemon-pins-superstition-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-20/tb1gxpen/Lemon-Totka-pins-superstition-4.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "a4e337e8f591",
+            "id": "b7ab22fa81e2",
             "feed": "lokmat",
-            "title": "Asian Games: जपानमधील गोंधळ हा भारतासाठी महत्त्वाचा धडा",
+            "title": "\"पुरुषांनाही मासिक पाळी यावी\" श्रुती हासनचंं वक्तव्य, म्हणाली \"तसे झाल्यास पीरियड लीव्ह...\"",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-20T07:23:48",
-            "url": "https://www.lokmat.com/other-sports/asian-games-the-turmoil-in-japan-is-an-important-lesson-for-india-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/asian-games-news-122322_2026091786624.jpg",
+            "published": "2026-09-20T13:10:10",
+            "url": "https://www.lokmat.com/filmy/south-movies/shruti-haasan-periods-pcos-statement-soha-ali-khan-podcast-viral-a-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shruti-haasan-periods-pcos-statement-soha-ali-khan-podcast-viral_2026091786695.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
         },
         {
-            "id": "a4727e9ad02d",
+            "id": "8d0ce112451e",
+            "feed": "lokmat",
+            "title": "जिम लावण्यापूर्वी हृदयाची तपासणी आवश्यक; ३० ते ५० वयोगटातील ‘फिटनेस’चा भ्रम घातक!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-20T13:02:50",
+            "url": "https://www.lokmat.com/health/heart-checkup-is-necessary-before-joining-a-gym-the-illusion-of-fitness-in-the-age-group-of-30-to-50-is-dangerous-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gym-440088_202010509905.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "f931c4017824",
             "feed": "maharashtratimes",
-            "title": "Salman Khan On Katrina Kaif : जेव्हा ती पुन्हा काम सुरू करेल तेव्हा बघाच! कतरिना कैफ प्रेग्नंसी लुक ट्रोलिंगवर भडकला सलमान खान, बिग बॉस 20 च्या सेटवर ट्रोलर्सची खरडपट्टी!",
+            "title": "Wi-Fi चे नेटवर्क गेले? डोके खाजवू नका, इंटरनेट पुन्हा सुरू करण्यासाठी तपासा 10 सोप्या गोष्टी",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-20T07:09:31",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/salman-khan-angery-on-trollers-for-trolled-katrina-kaif-post-pregnancy-look/articleshow/134362574.cms",
+            "published": "2026-09-20T13:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/wifi-disconnected-10-easy-troubleshooting-steps-to-fix-your-internet-connection-at-home/articleshow/134351431.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1f7e213f540e",
-            "feed": "esakal",
-            "title": "Premium|India Strategic Autonomy : सामरिक स्वायत्ततेच्या दिशेने...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-20T07:00:00",
-            "url": "https://www.esakal.com/saptarang/brics-summit-2026-modi-xi-jinping-putin-india-strategic-autonomy-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/efyy7dpl/Abhi-3.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "f866d1714166",
-            "feed": "esakal",
-            "title": "Shahi Tukda Recipe: सणासुदीला बनवा लज्जतदार स्वीट डिश; कुरकुरीत ब्रेड अन् केशर-रबडीयुक्त शाही तुकडा!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-20T07:00:00",
-            "url": "https://www.esakal.com/food/shahi-tukda-recipe-step-by-step-mughlai-dessert-marathi-festive-saffron-rabdi-crispy-bread-ganeshotsav-special-royal-sweet-dish-breakfast-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/9c54ycn8/Rich-Creamy-Shahi-Tukda-Perfect-Mughlai-Sweet-Dish-for-Special-Occasions.png",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "ac13f284ffb7",
-            "feed": "maharashtratimes",
-            "title": "रियाद विमानतळाजवळ स्फोटांचे आवाज, आगीच्या ज्वाळा आणि काळा धूर, अनेक फ्लाईट्स रद्द",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-19T22:22:31",
-            "url": "https://maharashtratimes.com/international/international-news/saudi-arabia-capital-riyadh-airport-explosion-several-flights-cancelled/articleshow/134356797.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b70a5fdf956c",
-            "feed": "maharashtratimes",
-            "title": "पाकिस्तानात मुलींना ना कामाची परवानगी, ना जन्म घेण्याची! लिंग गुणोत्तरात जगातील सर्वात वाइट देश",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-19T19:34:16",
-            "url": "https://maharashtratimes.com/international/international-news/pakistan-has-reportedly-worst-gender-ratio-in-the-world/articleshow/134354300.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ce86d6cd0f56",
-            "feed": "maharashtratimes",
-            "title": "अमेरिकेचा दुटप्पीपणा उघड, रशियन तेलावर १००% टेरिफची धमकी, पण स्वतःसाठी रशियन यूरेनियमची खरेदी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-19T18:54:08",
-            "url": "https://maharashtratimes.com/video/mt-originals/america-double-standerd/videoshow/134355077.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "9a19af374d3e",
+            "id": "cf3baa5b055f",
             "feed": "esakal",
-            "title": "Premium|AI War: एआयचा 'तो' एक चुकीचा शब्द आणि अमेरिका-चीनमध्ये पडली असती युद्धाची ठिणगी!",
+            "title": "Numerology: 'या' मूलांकाच्या मुली सासरी घेऊन येतात अखंड समृद्धी! पाहा कोणत्या मूलांकाची मुलगी सासरसाठी ठरते लक्ष्मी?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-19T17:51:33",
-            "url": "https://www.esakal.com/premium-article/ai-war-false-intelligence-report-us-military-china-explained-in-marathi-skp29",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/folr81f1/Warrr.jpg",
+            "published": "2026-09-20T12:37:42",
+            "url": "https://www.esakal.com/culture-and-religion/numerology-birth-date-mulank-1-to-9-female-traits-luck-marriage-marathi-girls-who-bring-prosperity-to-inlaws-daughters-in-law-who-bring-endless-fortune-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-20/byfnmydt/Numerology-Birth-Date-Traits-of-Women-Who-Bring-Fortune-to-In-Laws.png",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "c5016cbea7ac",
+            "id": "625e12169c1b",
+            "feed": "lokmat",
+            "title": "पाकिस्तानच्या गळ्याचा फास बनला मक्का करार; हुथी बंडखोरांनी दिली थेट हल्ल्याची धमकी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-20T12:24:21",
+            "url": "https://www.lokmat.com/international/pakistan-difficulties-have-mounted-further-following-the-mecca-agreement-houthi-rebels-have-threatened-an-attack-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hothu-vs-pakistan1_2026091786672.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a8b2f9518e54",
+            "feed": "lokmat",
+            "title": "ग्रीनलँडच्या सार्वभौमत्वाला मान्यता; सैन्य अमेरिकेचे, ताबा डेन्मार्ककडेच, ट्रम्प-डेन्मार्कमध्ये करार, रशिया-चीनला लष्करी तळ उभारण्यास मज्जाव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-20T12:07:33",
+            "url": "https://www.lokmat.com/international/greenlands-sovereignty-recognized-us-military-denmark-in-control-trump-denmark-agreement-russia-china-barred-from-setting-up-military-bases-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/international-news-1_2026091786671.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "60d1b7521bce",
+            "feed": "lokmat",
+            "title": "नुसती पळापळ... इराणच्या धमकीने डोनाल्ड ट्रम्प सुट्टी सोडून व्हाईट हाऊसवर; 'हाय सिक्युरिटी' अलर्ट जारी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-20T09:25:48",
+            "url": "https://www.lokmat.com/international/us-iran-war-updates-donald-trump-comes-back-to-white-house-after-iran-threat-of-final-warning-high-security-alert-issued-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-2009_2026091786636.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5c584d295680",
             "feed": "esakal",
-            "title": "थायलंड ते जपान! परदेशात कशी होते बाप्पाची पूजा?",
+            "title": "Russian Oil Tarif : ट्रम्प यांचा दुहेरी धक्का! रशियन तेलखरेदीवर १०० टक्के शुल्काची टांगती तलवार, ‘एच-१ बी’साठी एक लाख डॉलरची अट वर्षभर कायम",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-19T17:07:29",
-            "url": "https://www.esakal.com/ampstories/web-story/how-ganesh-chaturthi-is-celebrated-outside-india-8-countries-ganesha-around-world-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/zj9ffcae/Ganesha-Around-The-World.png",
+            "published": "2026-09-20T09:05:22",
+            "url": "https://www.esakal.com/global/trump-india-russian-oil-tariff-h1b-visa-100000-rule-us-india-impact-asi01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-20/w3pt1sy8/Advait-2.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "f1f091c3c5dd",
+            "id": "4be29bff5529",
             "feed": "lokmat",
-            "title": "एक हृदय, एक स्पंदनाची साद, नागोयात ‘वन आशिया’चा नाद, आशियाई क्रीडा महाकुंभाचा दिमाखदार श्रीगणेशा",
+            "title": "Smriti Mandhana: कोई भी नही टक्कर में... आंतरराष्ट्रीय टी-२० क्रिकेटमध्ये स्मृती मानधनाचा मोठा पराक्रम!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-09-20T07:17:23",
-            "url": "https://www.lokmat.com/other-sports/asian-games-2026-one-heart-one-throbbing-sound-the-sound-of-one-asia-in-nagoya-sri-ganesha-the-luminary-of-the-asian-sports-mahakumbha-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/asian-games-news-1_2026091786622.jpg",
+            "published": "2026-09-20T13:21:13",
+            "url": "https://www.lokmat.com/cricket/photos/most-runs-in-womens-t20i-smriti-mandhana-suzie-bates-harmanpreet-kaur-chamari-athapaththu-sophie-devine-beth-mooney-danielle-wyatt-stafanie-taylor-esha-oza-meg-lanning-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/most-runs-in-womens-t20i-2_2026091786710.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "c39a23f6b1a8",
-            "feed": "lokmat",
-            "title": "आशियाई क्रीडा स्पर्धा : भारताच्या मोहिमेला आजपासून सुरुवात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-20T07:04:46",
-            "url": "https://www.lokmat.com/other-sports/asian-games-indias-campaign-begins-today-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/asian-games-1_2026091786621.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "4517535f7e3f",
+            "id": "1985cc327656",
             "feed": "esakal",
-            "title": "Asian Games, Cricket: भारत-बांगलादेश सेमीफायनलमध्ये आमनेसामने! गोल्ड मेडलच्या लढतीत मिळवणार साथ? कुठे पाहाणार सामना?",
+            "title": "SHEFALI VERMA: सेमीफायनलमध्ये शफाली वर्माचा शतकी धमाका! भारताने बांगलादेशसमोर ठेवलं विशाल लक्ष्य",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-20T06:43:00",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-bangladesh-asian-games-2026-womens-cricket-semi-final-live-streaming-and-telecast-details-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/j8of0xhs/India-Women-Cricket-Team.jpg",
+            "published": "2026-09-20T12:47:51",
+            "url": "https://www.esakal.com/krida/cricket/shefali-verma-century-india-vs-bangladesh-asian-games-2026-womens-t20-semi-final-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-20/cbxsmvla/शेफाली-वर्मा.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c9ba1baad1d4",
+            "feed": "lokmat",
+            "title": "शेफाली वर्माचं तुफानी शतक, स्मृती मानधनाची रेकॉर्ड ब्रेक इनिंग; भारताचं बांगलादेशसमोर १९६ धावांचं लक्ष्य",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-09-20T12:29:32",
+            "url": "https://www.lokmat.com/cricket/news/shafali-verma-hundred-smriti-mandhana-record-break-innings-bangladesh-need-196-runs-to-win-against-india-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shafali-verma-smriti-mandhana-_2026091786682.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "9f185088fc5e",
-            "feed": "maharashtratimes",
-            "title": "कुणासाठी 10% तर कुणासाठी 25%, मिल भाव घसरूनही ग्राहकांना लाभ मिळेना! सरकारचे पुढचे नियोजन काय?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-09-19T23:38:33",
-            "url": "https://maharashtratimes.com/business/business-news/sugar-price-fall-25-for-mill-government-appeal-traders-to-change-down-retail-price/articleshow/134358768.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2aa15b5a4521",
+            "id": "47742aaf0ecd",
             "feed": "lokmat",
-            "title": "LPG BAA: घरगुती एलपीजी सिलेंडर बुकिंगसाठी नवा नियम, आधार बायोमेट्रिक ऑथेंटिकेशन सक्तीचे; केंद्राने काय म्हटलेय?",
+            "title": "कमी खर्चात 'लाखांचे' उत्पन्न; तळ्याचीवाडीच्या सिताफळांनी दुष्काळातही फुलवला शिवार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-09-19T20:55:27",
-            "url": "https://www.lokmat.com/business/news/lpg-baa-new-rules-for-domestic-lpg-cylinder-booking-aadhaar-biometric-authentication-mandatory-what-has-the-center-said-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/biometric-aadhaar-authentication-is-mandatory-for-subsidised-domestic-lpg_2026091786588.jpeg",
+            "published": "2026-09-20T13:25:26",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/income-worth-lakhs-at-low-cost-talachiwadis-custard-apple-trees-flourished-even-during-drought-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-34-u-34-34-34-34-34-u-34-34-farmer_2026091786661.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "8782ca267559",
+            "id": "3c138e2bc962",
             "feed": "maharashtratimes",
-            "title": "EPFO ची वेतन मर्यादा वाढली, आता पेन्शन वाढण्याची शक्यता! महिन्याला 5000 चा फायदा, समजून घ्या गणित",
+            "title": "सरकारचे नवे नियम, 1 ऑक्टोबरपासून मिळणार नाही LPG सबसिडी! चालू बाजारभावात घ्यावे लागेल सिलेंडर",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-09-19T20:46:18",
-            "url": "https://maharashtratimes.com/business/business-news/epfo-eps-scheme-monthly-pension-calculation-for-25000-basic-pay/articleshow/134356183.cms",
+            "published": "2026-09-20T13:22:19",
+            "url": "https://maharashtratimes.com/business/business-news/lpg-subsidy-biometric-aadhar-authentication-compulsory-for-all-customers-from-1st-october-2026/articleshow/134364794.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "bd74c00db7c2",
+            "feed": "lokmat",
+            "title": "दीड महिन्यापासून पावसाची दडी; भूगर्भातील पाणी पातळीतही घट, लाल कांद्याची लागवड खोळंबली",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-20T12:23:32",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/lal-kanda-lagvad-no-rain-for-month-red-onion-cultivation-delayed-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lal-kanda-lagvad_2026091786676.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
