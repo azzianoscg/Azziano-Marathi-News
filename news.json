@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "21-09-2026 | 03:41 AM IST",
+    "lastUpdated": "21-09-2026 | 06:09 AM IST",
     "maharashtra": [
+        {
+            "id": "468cc9b13282",
+            "feed": "lokmat",
+            "title": "मायनिंग-ट्रान्सपोर्टच्या आमिषाने गंडा; दिल्लीहून महिलेला अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-21T05:50:19",
+            "url": "https://www.lokmat.com/navi-mumbai/woman-arrested-from-delhi-for-cheating-on-the-pretext-of-mining-transport-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fraud-new-1_2026091786946.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b5966b1e7a97",
+            "feed": "lokmat",
+            "title": "‘वेळ नाही, तुम्हीच उरकून घ्या...’, मुलाकडून पित्याच्याच अंत्यविधीला नकार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-21T05:45:42",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/there-is-no-time-you-finish-it-yourself-refusal-to-attend-fathers-funeral-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/antyasanskar-death-farmer-beed-a_2024101327657.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "efef03d4141b",
             "feed": "lokmat",
@@ -48,41 +80,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sahil-vakode-case_2026091786941.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "baad1acf3794",
+            "id": "698dd4175bcb",
             "feed": "maharashtratimes",
-            "title": "Central Railway : मध्य रेल्वेच्या सर्व रेल्वे स्थानकांवर प्रवाशांना सुरक्षित पिण्यायोग्य मिळणार, प्रशासनाने कंबर कसली",
+            "title": "फोन वारंवार डिस्चार्ज होतोय का? चिंता सोडा! बॅटरी बॅकअप वाढवण्यासाठी फॉलो करा 5 सोप्या गोष्टी",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-09-20T22:56:10",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/central-railway-significant-measures-to-improve-drinking-water-quality-for-passengers/articleshow/134371628.cms",
+            "published": "2026-09-21T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/phone-battery-draining-fast-5-proven-ways-to-maximize-your-smartphone-battery-life-instantly/articleshow/134352039.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         },
-        {
-            "id": "8c1003c0338a",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates : देश-विदेशात दिवसभरात काय घडलं जाणून घ्या एका क्लिकवर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-20T22:00:00",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-20-september-2026-ganeshotsav-ganesh-visarjan-lalbaugcha-raja-dagdusheth-ganpati-mumbai-pune-konkan-weather-update-imd-supreme-court-hearing-on-shiv-sena-shinde-faction-tukaram-mundhe-fda-actions-election-commission-india-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-bam92-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
         {
             "id": "ea72d7a66da9",
             "feed": "esakal",
@@ -144,22 +160,6 @@
             "published": "2026-09-20T22:35:46",
             "url": "https://www.lokmat.com/pimpri-chinchwad/shocking-it-engineer-jumps-from-gallery-after-killing-wife-dehugaon-incident-a-a898-c1013/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pimpri-crime-news-1_2026091786939.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "c0561740093d",
-            "feed": "esakal",
-            "title": "Neighboring Countries: शेजारील देशांना एकाच पारड्यात तोलू नका",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-20T22:14:35",
-            "url": "https://www.esakal.com/sampadakiya/editorial-articles/neighboring-countries-should-not-be-compared-alike-as-each-has-different-political-economic-and-social-conditions-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-20/8e2nekwx/sudhir-jadhav-satara-23.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "0dfe7b2d2b38",
+            "feed": "lokmat",
+            "title": "भारतीय महिला, पुरुष हॉकी संघांचा विजयी धडाका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-21T05:59:30",
+            "url": "https://www.lokmat.com/hockey/indian-womens-and-mens-hockey-teams-triumph-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hockey-india-1_2026091786947.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
             "id": "516d0271a5db",
             "feed": "maharashtratimes",
             "title": "Sonam Maskar : महाराष्ट्राच्या शिरपेचात मानाचा तुरा, कोल्हापूरच्या सोनमने भारताला मिळवून दिले रौप्यपदक, वडिलांच्या संघर्षालाही सलाम!",
@@ -276,22 +292,6 @@
             "published": "2026-09-20T21:58:46",
             "url": "https://www.esakal.com/krida/cricket/lakshmipathy-balaji-appointed-india-a-head-coach-australia-a-series-ruturaj-gaikwad-devdutt-padikkal-psk96",
             "image": "https://cf-images.assettype.com/esakal/2026-09-20/yp8qlhye/Lakshmipathy-Balaji-Named-India-A-Head-Coach.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9a1512991b53",
-            "feed": "esakal",
-            "title": "IND vs NZ: न्यूझीलंडविरुद्ध शेवटच्या दोन वनडेत श्रेयस अय्यर कर्णधार; शुभमन गिल-गौतम गंभीर का नसणार संघात?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-20T21:11:56",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-new-zealand-2026-shreyas-iyer-likely-captain-final-odis-shubman-gill-gautam-gambhir-early-test-prep-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-20/sqzoufa0/Shreyas-Iyer-Likely-to-Captain-India-in-Final-ODIs-vs-New-Zealand.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
