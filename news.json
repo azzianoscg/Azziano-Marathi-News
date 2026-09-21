@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "21-09-2026 | 10:55 PM IST",
+    "lastUpdated": "22-09-2026 | 02:54 AM IST",
     "maharashtra": [
         {
-            "id": "363a72619d7f",
-            "feed": "esakal",
-            "title": "Solapur Pune Highway Accident : ओव्हरटेक करताना कंटेनरला धडक, स्कॉर्पिओचा चुराडा; २२ वर्षीय तरुणाचा मृत्यू, दोघे गंभीर",
+            "id": "57347b0a85fb",
+            "feed": "lokmat",
+            "title": "जामखेडमधील रॅगिंगप्रकरणी ६ विद्यार्थी एक वर्षांसाठी निलंबित; वसतिगृहातून कायमची हकालपट्टी",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
             },
-            "published": "2026-09-21T22:32:35",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/scorpio-crushed-in-collision-with-container-truck-while-overtaking-22-year-old-killed-two-critically-injured-tembhurni-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-21/6cd0mde0/Scorpio-Crushed-in-Collision-with-Container-Truck",
+            "published": "2026-09-21T23:44:12",
+            "url": "https://www.lokmat.com/ahilyanagar/6-students-suspended-for-one-year-in-jamkhed-ragging-case-permanent-expulsion-from-hostel-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ragging_2026091787524.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "44eea08d43a7",
+            "id": "11b8ac3b0c26",
             "feed": "esakal",
-            "title": "IIT Bombay Hostel: विद्यार्थ्याने गळफास घेतल्यानंतर 'आयआयटी'कडून मोठं पाऊल; छतावील पंख्यांऐवजी भिंतीवरील पंखे मागवले",
+            "title": "Railway : हडपसर-हरंगूळ, नांदेड एक्स्प्रेसचे तीन डबे वाढणार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-21T22:27:42",
-            "url": "https://www.esakal.com/mumbai/iit-bombay-replaces-hostel-ceiling-fans-wall-mounted-units-student-death-controversy-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-21/yxrnpewu/Latest-Marathi-Breaking-News-2026-09-21T222437.992.jpg",
+            "published": "2026-09-21T23:33:55",
+            "url": "https://www.esakal.com/pune/hadapsar-harangul-and-nanded-express-trains-to-get-three-additional-coaches-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-21/w10zmpxf/railway",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6e5e5d09576b",
+            "id": "0d0e7760c897",
+            "feed": "esakal",
+            "title": "Auto Rickshaws : पुणे, पिंपरीत ११ हजार रिक्षांचे प्रमाणीकरण; आजपासून कामकाज सुरू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-21T23:28:16",
+            "url": "https://www.esakal.com/pune/certification-of-11000-autorickshaws-in-pune-and-pimpri-work-commences-today-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-21/jtga7xmd/Standardization-of-auto-rickshaws",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "616f34495ce6",
             "feed": "maharashtratimes",
-            "title": "Satara Politics : 'सह्याद्रीचे वाघ मुक्तपणे फिरतात, कोणी अंगावर येईल तेव्हा बघून घेऊ'; शरद पवारांच्या शिलेदाराचे भाजप आमदारांना थेट आव्हान",
+            "title": "Raigad Fort : किल्ले रायगडावर जाणारी रोप वे सेवा 15 नोव्हेंबरपर्यंत बंद राहणार, नेमकं कारण काय?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-21T22:20:23",
-            "url": "https://maharashtratimes.com/maharashtra/satara/balasaheb-patil-slams-bjp-mla-manoj-ghorpade-and-dhairyashil-kadam-over-sahyadri-factory-meeting/articleshow/134393962.cms",
+            "published": "2026-09-21T23:11:15",
+            "url": "https://maharashtratimes.com/maharashtra/raigad/raigad-forts-ropeway-service-suspended-until-november-15/articleshow/134395118.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ef344113cf1e",
+            "id": "9705e188c062",
             "feed": "esakal",
-            "title": "Kaygaon News : शेतकरी पुत्राची गरुड भरारी, धनगरपट्टीच्या शुभम खैरेची नगरपरिषद अधिकारीपदी निवड",
+            "title": "CNG PNG Supply : सीएनजी-पीएनजी पुरवठ्याला गती; पुणे, पिंपरीमधील गॅस वितरण व्यवस्था अधिक सक्षम",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-09-21T22:19:01",
-            "url": "https://www.esakal.com/marathwada/farmers-son-shubham-khaire-from-dhangarpatti-appointed-as-municipal-council-officer-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-21/s2jvben2/shubham-khaire",
+            "published": "2026-09-21T23:08:12",
+            "url": "https://www.esakal.com/pune/cng-png-supply-gains-momentum-gas-distribution-network-strengthened-in-pune-and-pimpri-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-13/hjkaz92n/sudhir-jadhav-satara-12.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0129886ebc66",
-            "feed": "esakal",
-            "title": "भाजप कार्यकर्त्याची जेवणासाठी हाणामारी, आमदारांनी घेतलेल्या बैठकीनंतर एकमेकांच्या अंगावर गेले धावून; VIDEO VIRAL",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-21T22:14:51",
-            "url": "https://www.esakal.com/vidarbha/bhandara-bjp-workers-clash-over-food-after-parinay-phuke-meeting-video-of-fight-goes-viral-on-social-media-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-21/rzh4bndf/bhandara-bjp-viral-video.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "89ffdbe603cb",
+            "id": "d243a36fffc2",
             "feed": "lokmat",
-            "title": "घटस्फोटापूर्वीच बायकोचा गेम ओव्हर! डोक्यात गोळी झाडून पतीने केली पत्नीची हत्या; देहरादून हादरले!",
+            "title": "मऊमऊ घडीची चपाती करण्याच्या १० खास टिप्स-करा अगदी आजी करायची तशी चपाती",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-21T22:13:00",
-            "url": "https://www.lokmat.com/crime/wifes-game-over-even-before-divorce-husband-kills-wife-by-shooting-her-in-the-head-dehradun-shocked-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kajal-crime_2026091787519.jpg",
+            "published": "2026-09-22T00:16:59",
+            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-make-soft-ghadichi-chapati-at-home-ghadichi-chapati-making-tips-soft-chapati-making-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-20-at-4.07.07-pm_2026091786897.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "87b1a1fb0540",
+            "id": "3601edbe157c",
+            "feed": "lokmat",
+            "title": "विकत मिळतात तसे कुरकुरीत मसाला शेंगदाणे करण्याची सोपी रेसिपी; झटपट तयार करा स्नॅक्स",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-22T00:14:46",
+            "url": "https://www.lokmat.com/sakhi/food/how-to-make-haldiram-style-masala-shendana-tasty-and-crispy-masala-shengdana-recipe-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-21-at-11.44.42-pm_2026091787527.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "5c46361de9eb",
+            "feed": "lokmat",
+            "title": "दिल्ली हादरली! ७ वर्षांच्या चिमुकलीवर अत्याचार; संतप्त नागरिकांचा पोलीस चौकीवर राडा, आरोपी गजाआड",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-21T23:58:02",
+            "url": "https://www.lokmat.com/crime/delhi-minor-girl-assaulted-accused-handed-over-to-police-by-angry-locals-protests-erupt-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/minor-crime1_2026091787525.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "6b6ae2833930",
+            "feed": "esakal",
+            "title": "Rain Update : हिंजवडी, वाकडमध्ये रस्ते जलमय",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-21T23:47:19",
+            "url": "https://www.esakal.com/pimpri-chinchwad/heavy-rain-roads-waterlogged-in-hinjawadi-and-wakad-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-21/868mtuo8/hinjewadi-maan-road-rain-water-storage",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "38bfdbb7fb27",
             "feed": "maharashtratimes",
-            "title": "मंदिरात बॉडी पुरल्या, वर टाईल्स लावल्या; पुजारी भिकाऱ्याच्या वेशात लपून बसला, पुरामुळे सापडला",
+            "title": "Actress Radha 46 crore cheque  case: घरच्यांनीच केला विश्वासघात, लोकप्रिय अभिनेत्रीकडून सख्ख्या बहिणभावाविरोधात तक्रार दाखल, तब्बल ४६ कोटींची फसवणूक केल्याचा आरोप, काय घडलंय नेमकं?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-21T21:27:04",
-            "url": "https://maharashtratimes.com/india-news/up-baghpat-police-arrest-priest-after-two-friends-found-dead-in-temple-premises/articleshow/134393006.cms",
+            "published": "2026-09-21T23:25:02",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/actress-radha-files-rs-46-crore-cheque-fraud-complaint-against-sister-ambika-and-brother/articleshow/134395113.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "c7f1e45b7d35",
-            "feed": "lokmat",
-            "title": "'जाऊदे, लहान आहे तो', मुलांना हट्टी बनवतात आई-वडिलांच्या २ सवयी; मुलं गुणी कशी होतात, पाहा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-21T21:26:19",
-            "url": "https://www.lokmat.com/sakhi/parenting/psychologist-shares-2-parenting-mistakes-that-can-make-your-child-stubborn-know-here-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-21-at-5.31.13-pm_2026091787512.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "238670f3b02d",
-            "feed": "lokmat",
-            "title": "संतापजनक! गणपतीच्या मूर्तीजवळ ठेवला पॉर्न ग्रुपचा क्यूआर कोड, पैसे कमावण्यासाठी वाशीममध्ये तरुणांचे घाणेरडे कृत्ये; त्यांची नावे काय?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-21T21:13:02",
-            "url": "https://www.lokmat.com/vashim/porn-telegram-group-qr-code-found-near-ganesh-idol-at-jai-bhawani-ganesh-utsav-mandal-pandal-in-maharashtras-washim-3-arrested-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/qr-code-scanner-linked-to-pornographic-videos-ganesh-idol_2026091787510.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3f98235f59c8",
-            "feed": "lokmat",
-            "title": "Short Mangalsutra Designs : १ ते दीड ग्रॅम सोन्यात नाजूक, ट्रेंडी छोटे मंगळसूत्र; १० नवीन डिझाईन्स, एलिगंट-सुंदर दिसाल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-21T20:55:35",
-            "url": "https://www.lokmat.com/sakhi/photos/shopping/1-to-15-gram-gold-short-mangalsutra-designs-10-short-mangalsutra-designs-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-21-at-1.15.42-pm_2026091787498.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "091e5403a47b",
+            "feed": "lokmat",
+            "title": "पाकिस्तानचा अफगाणिस्तानवर एअरस्ट्राइक! पक्तिका, कुनार आणि नंगरहारमध्ये बॉम्बवर्षाव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-21T23:16:04",
+            "url": "https://www.lokmat.com/international/pakistan-conducts-airstrikes-on-afghanistan-paktika-kunar-and-nangarhar-targeted-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-attack-on-afghanistan_2026091787522.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a882c427b385",
+            "feed": "maharashtratimes",
+            "title": "Russia Ukraine War: रशियाच्या तेल रिफायनरीजवर युक्रेनचे ड्रोन हल्ले, ट्रम्प म्हणाले ‘झेलेन्स्की, हल्ले थांबवा’",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-21T23:03:39",
+            "url": "https://maharashtratimes.com/international/international-news/russia-ukraine-war-trump-calls-zelenskyyto-stop-attack-on-oil-refineries/articleshow/134394611.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "cff886e55de9",
             "feed": "lokmat",
@@ -212,38 +244,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bangladesh-mp-elder-wife-death_2026091787460.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "5f58c37955b1",
-            "feed": "esakal",
-            "title": "स्मृती मानधनाचा T20I मध्ये वर्ल्ड कप; रोहित-विराटलाही टाकलं मागे",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-21T19:22:28",
-            "url": "https://www.esakal.com/ampstories/web-story/smriti-mandhana-highest-run-scorer-in-t20i-international-cricket-record-surpassed-virat-kohli-rohit-sharma-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-21/poxm0axi/Most-T20I-Run-Scorer-In-Mens-Womens-History-3.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "362c00d20a34",
-            "feed": "esakal",
-            "title": "'या' देशामध्ये एकही मशीद नाही, कारण काय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-21T18:22:15",
-            "url": "https://www.esakal.com/ampstories/web-story/bhutan-no-official-mosque-muslim-community-prayer-room-religious-freedom-buddhist-heritage-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-21/b5a13k88/1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
