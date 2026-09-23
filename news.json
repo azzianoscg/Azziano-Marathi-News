@@ -1,170 +1,234 @@
 {
-    "lastUpdated": "23-09-2026 | 12:28 PM IST",
+    "lastUpdated": "23-09-2026 | 06:03 PM IST",
     "maharashtra": [
         {
-            "id": "f2ebe405dd6d",
+            "id": "083d83814979",
             "feed": "esakal",
-            "title": "साताऱ्याचा अजिंक्यतारा किल्ला किती जुना आहे?",
+            "title": "Marathi News Live Updates : कोल्हापुरातील गणेश विसर्जन मिरवणुकीत यंदा ‘अँटी ड्रोन सिस्टीम’चा वापर; विनाकारण ड्रोन उडविणाऱ्यांवर होणार पोलिसांची कारवाई",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-23T12:25:22",
-            "url": "https://www.esakal.com/ampstories/web-story/ajinkyatara-fort-kiti-varsh-juna-satara-history-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/xx60urth/Ajinkyatara-Fort-History-age-3.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "b8cbc203b37e",
-            "feed": "lokmat",
-            "title": "Earthquake: सातारा परिसरात रात्रीत भूकंपाचे पाच सौम्य धक्के; कोयनेची भूकंपमापक यंत्रणा दोन महिन्यांपासून बंद",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-23T12:24:00",
-            "url": "https://www.lokmat.com/satara/five-mild-earthquake-tremors-felt-in-satara-area-overnight-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/earth-news-satara_2026091788368.jpg",
+            "published": "2026-09-23T18:00:15",
+            "url": "https://www.esakal.com/maharashtra/jamui-harassment-case-iit-bombay-student-ganeshotsav-cricket-sports-entertainment-weather-rain-monsoon-drought-pune-mumbai-maharashtra-news-maratha-reservation-manoj-jarange-ymk86-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1e5f46d4ba91",
+            "id": "284a9840f9f6",
             "feed": "lokmat",
-            "title": "Sangli: मिरज शासकीय रुग्णालयाची कमान कोसळल्याप्रकरणी ठेकेदारासह अज्ञातावर गुन्हा",
+            "title": "सोलापुरात ६५ वर्षीय वृद्ध प्रेयसीनं केली ७० वर्षीय प्रियकराची हत्या; DNA चाचणीतून गूढ उकळलं",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-23T12:20:05",
-            "url": "https://www.lokmat.com/sangli/case-filed-against-unknown-persons-including-contractor-in-miraj-government-hospital-arch-collapse-case-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/miraj-kaman-news-crime_2026091788363.jpg",
+            "published": "2026-09-23T17:58:34",
+            "url": "https://www.lokmat.com/crime/65-year-old-girlfriend-kills-70-year-old-boyfriend-in-solapur-dna-test-reveals-the-mystery-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/solapur-murdersh1_2026091788804.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "d6f92656ee8f",
+            "id": "c476711eda1b",
             "feed": "esakal",
-            "title": "Shrivardhan Fishermen Crisis : खराब हवामानाचा मच्छीमारांना फटका श्रीवर्धन तालुक्यातील वल्हावरच्या लहान होड्या अद्यापही किनाऱ्यावर",
+            "title": "Koyna Earthquake : कोयना परिसरात भूकंपाचे धक्के जाणवले, पण नोंद झालीच नाही! नेमके काय घडलेय कोयना मापन केंद्रात? एकाच रात्रीत भूकंपाचे पाच धक्के",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-23T12:17:49",
-            "url": "https://www.esakal.com/kokan/shrivardhan-fishermen-crisis-bad-weather-fishing-business-financial-relief-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/g2stx0z5/Advait-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1fc14d1d3b0b",
-            "feed": "maharashtratimes",
-            "title": "Dharashiv  | मुख्यमंत्र्यांचा दुष्काळी पाहणी दौरा, मागील वर्षी तोंडाला पानं पुसली,शेतकऱ्यांचा आक्रोश",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-23T12:16:34",
-            "url": "https://maharashtratimes.com/maharashtra/osmanabad/-new/videoshow/134427981.cms",
-            "image": "",
+            "published": "2026-09-23T17:57:10",
+            "url": "https://www.esakal.com/satara/koyna-earthquake-five-mild-tremors-seismic-monitoring-system-closed-two-months-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-23/193197ah/Koyna-Dam-Earthquake-Update",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ab7e587823cb",
+            "feed": "esakal",
+            "title": "ZP School : झेडपी शाळांमध्ये आता पाच परकीय भाषांचे धडे; २१८ शिक्षकांच्या माध्यमातून विद्यार्थ्यांपर्यंत पोहोचणार उपक्रम",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-23T17:55:58",
+            "url": "https://www.esakal.com/pune/zp-rural-schools-foreign-language-initiative-pune-education-student-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-05/vm16q7lg/zp-school",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "cb745af0e9a1",
+            "feed": "lokmat",
+            "title": "मराठवाड्यात दुष्काळाचे सावट! पावसाची ३५ टक्के तूट; धरणांमधील पाणी फक्त पिण्यासाठी राखीव ठेवण्याचा प्रशासनाचा मोठा निर्णय",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-23T17:55:39",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/drought-looms-in-marathwada-35-percent-rainfall-deficit-administrations-big-decision-to-reserve-water-in-dams-only-for-drinking-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/g-shrikant-drought_2026091788801.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "7d99eb4d2ff7",
+            "id": "9626d87958d8",
+            "feed": "esakal",
+            "title": "आणखी एक पक्ष फुटला! 'ऑपरेशन कमळ', १२ पैकी ८ आमदारांचा भाजप प्रवेश; विधानसभेतली ताकद चारपट वाढली",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-23T17:47:58",
+            "url": "https://www.esakal.com/desh/bjp-strength-jumps-from-2-to-10-after-8-udp-mlas-join-party-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-23/wzp8zg23/meghalaya-bjp-1.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b6852fd7f82a",
             "feed": "lokmat",
-            "title": "गृहआधार योजनेचे मानधन वाढणार; मुख्यमंत्री प्रमोद सावंत यांची घोषणा",
+            "title": "कुठे गायब झाली 'दे धक्का' मधली सायली? आता कशी दिसते बघा, फोटो पाहून ओळखूच शकणार नाही",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-23T12:24:49",
-            "url": "https://www.lokmat.com/goa/money-of-griha-aadhar-scheme-will-increase-said-cm-pramod-sawant-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cm-pramod-sawant-bjp-event_2026091788367.jpg",
+            "published": "2026-09-23T17:44:35",
+            "url": "https://www.lokmat.com/filmy/photos/marathi-cinema/de-dhakka-movie-fame-actress-gauri-vaidya-current-work-life-where-she-is-now-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gauri-vidya-pics_2026091788792.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "1a42612b6934",
+            "id": "e7f8aed4659b",
+            "feed": "lokmat",
+            "title": "पतीच्या प्रेयसीचे तुकडे करून सूटकेसमध्ये भरले; ५ वर्षांनंतर उघडकीस आले थरारक हत्याकांड",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-23T17:42:14",
+            "url": "https://www.lokmat.com/crime/husbands-lover-was-dismembered-and-stuffed-into-a-suitcase-thrilling-murder-case-revealed-after-5-years-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/syuitcase-murder-tamilnadu_2026091788788.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "cef8a7be8938",
+            "feed": "lokmat",
+            "title": "९.५ लाखांच्या लक्झरी हँडबॅगवर शेकडो वर्षे जुनी भारतीय हस्तकला, पण दिलंच नाही श्रेय",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-23T17:40:50",
+            "url": "https://www.lokmat.com/sakhi/social-viral/a-rs-9-lakh-fendi-bag-a-ralph-lauren-gown-and-the-indian-craft-debate-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fendi-bag_2026091788784.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "ee5e4d46a389",
             "feed": "maharashtratimes",
-            "title": "Guru Pradosh Vrat 2026 : उद्या गुरु प्रदोष व्रत,करा फक्त हा एकच उपाय महादेवासोबत मिळेल गुरुचे पाठबळ होईल बरकत !",
+            "title": "Sunita Ahuja:'माणसांवर जितकंही प्रेम करा काही फायदा नाही, ते नेहमी दगाच देतात', गोविंदा आणि कोमल राणी स्वर्णकार यांच्या लालबागच्या राजाच्या दर्शननावर सुनिता स्पष्टच बोलल्या",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-23T12:19:33",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/guru-pradosh-vrat-2026-date-tithi-vidhi-upay-vrat-labh-all-ritual/articleshow/134427973.cms",
+            "published": "2026-09-23T17:33:06",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sunita-ahuja-reaction-on-govinda-lalbaugcha-raja-visit-with-komal-rani-swarnkar/articleshow/134435300.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "dff8444970a2",
-            "feed": "esakal",
-            "title": "माझ्यासाठी सुंदर दिसणं महत्वाचं नाही... प्रेग्नन्सीनंतर वजनावरून ट्रोल करणाऱ्यांना कतरीना कैफचं सडेतोड उत्तर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-23T12:15:29",
-            "url": "https://www.esakal.com/premier/katrina-kaif-gives-a-strong-response-to-post-pregnancy-weight-trolling-and-speaks-about-beauty-body-shaming-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/g5uktk2v/katrina-kaif-.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "28be495a6898",
-            "feed": "lokmat",
-            "title": "आरररर... मर्सिडीजचा वर्कशॉप पेटला; ८ आलिशान कार भस्मसात, ५० गाड्या आत होत्या, त्यांनाही...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-09-23T12:09:35",
-            "url": "https://www.lokmat.com/national/mercedes-workshop-fire-jaipur-massive-fire-breaks-out-at-mercedes-workshop-8-luxury-cars-gutted-50-cars-were-inside-they-too-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mercedise-benz-workshop-fire-3_2026091788347.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "af0d39b9e7bc",
-            "feed": "esakal",
-            "title": "लालबागच्या राजाच्या चरणांचं कुंकू पत्नीच्या भांगेत भरलं अन्...; संजय दत्तचा Viral Video, नेटकरी म्हणाले...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-23T12:08:25",
-            "url": "https://www.esakal.com/premier/sanjay-dutt-manyata-dutt-lalbaugcha-raja-darshan-viral-video-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/2ojh5yv9/sanjay-dutta-viral-video",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "6032794a4e9c",
+            "feed": "maharashtratimes",
+            "title": "UN च्या भाषणात Donald Trump ची Iran ला संपवण्याची भाषा, ट्रम्पसह Netanyahu ला जगभरातून विरोध",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-23T17:25:09",
+            "url": "https://maharashtratimes.com/video/mt-originals/donald-trump-un-speech/videoshow/134436139.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "6abcf34ebe1e",
+            "feed": "lokmat",
+            "title": "फ्रान्स पाकिस्तानलाही राफेल देणार? असीम मुनीर यांनी घेतली फ्रान्सच्या संरक्षण अधिकाऱ्यांची भेट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-23T16:59:40",
+            "url": "https://www.lokmat.com/international/france-pakistan-defence-india-rafale-deal-will-france-give-rafale-to-pakistan-too-asim-munir-meets-french-defense-officials-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/france-pakistan-army-chief-meet_2026091788714.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6fb9c5afdca8",
+            "feed": "lokmat",
+            "title": "कोण आहे ही महिला? जिच्या पतीला चीनच्या तुरुंगातून सोडवण्यासाठी जिनपिंग यांच्याशी डील करणार ट्रम्प!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-23T16:53:43",
+            "url": "https://www.lokmat.com/international/who-is-this-woman-trump-will-make-a-deal-with-jinping-to-release-her-husband-from-a-chinese-prison-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-jinping-3_2026091788702.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c2d94ff129cd",
+            "feed": "maharashtratimes",
+            "title": "होर्मुझला पर्यायी मार्गासाठी भारताने दिलेल्या प्रस्तावाला ट्रम्प यांचा पाठिंबा, आता सौदी अरेबियाच्या भूमिकेवर लक्ष",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-23T14:38:22",
+            "url": "https://maharashtratimes.com/international/international-news/imec-gets-donald-trump-support-now-eyes-on-saudi-arabia-stance/articleshow/134429966.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "66c7d9548656",
             "feed": "maharashtratimes",
@@ -180,168 +244,104 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "fb16197819cd",
-            "feed": "esakal",
-            "title": "Thailand Ganeshotsav : ढोल-ताशांचा गजर, भक्तिगीते अन् गणेश विसर्जन मिरवणूक; बँकॉकमध्ये रंगला गणेशोत्सव",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-23T12:02:09",
-            "url": "https://www.esakal.com/global/thailand-ganeshotsav-bangkok-vhp-thailand-5000-devotees-ganesh-visarjan-asi01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/9peac7d8/bangkok-ganeshotsav-2026.jpg.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "4a7efd984a97",
-            "feed": "lokmat",
-            "title": "खळबळजनक! \"तुझ्यामुळे भावाचा जीव गेला अन् तू नाटक करतेस\"; हत्येआधी का संतापला नवरा?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-23T11:39:07",
-            "url": "https://www.lokmat.com/crime/azamgarh-murder-case-arvind-singh-why-so-angry-who-killed-his-wife-son-and-two-pandits-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arvind-murder_2026091788318.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "d037ed34ba6e",
-            "feed": "maharashtratimes",
-            "title": "इराणच्या आकाशात रहस्यमय वस्तू, UFO की अमेरिकेचं ‘Black Manta’ विमान?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-22T23:05:50",
-            "url": "https://maharashtratimes.com/international/international-news/mystery-object-spoted-over-iran-ufo-or-america-black-manta-spy-jet/articleshow/134416927.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "359d798dbd4a",
-            "feed": "maharashtratimes",
-            "title": "शी जिनपिंग अमेरिका दौऱ्यावर, स्टेट डिनरची यादी चर्चेत, एलन मस्क, जेफ बेजोस यांना निमंत्रण, ट्रम्प यांनी कुणाला नाही बोलावलं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-09-22T22:09:20",
-            "url": "https://maharashtratimes.com/international/international-news/xi-jinping-us-visit-trump-whom-not-invited-for-state-dinner/articleshow/134416240.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "169fda81eb75",
-            "feed": "esakal",
-            "title": "Asian Games: भारतीय पुरुष बॅडमिंटन संघाचे पदक पक्के, यजमान जपानवर मात; मात्र महिला संघाचे आव्हान संपुष्टात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-23T12:11:21",
-            "url": "https://www.esakal.com/krida/indian-mens-badminton-team-beats-japan-assures-medal-asian-games-2026-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/ubypxnqq/India-Badminton-Team.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "c537f3d3e6bd",
+            "id": "217fe96d58f0",
             "feed": "lokmat",
-            "title": "Asian Games 2026 Mirabai Chanu Win Silver: 'सुवर्ण' संधी हुकली! पण रौप्यसह मीराबाई चानूनं जपानमध्ये रचला इतिहास; २८ वर्षांनी असं घडलं!",
+            "title": "प्रशिक्षकांची साथ सुटली अन्...! आठवणीने मनू भाकर भावुक; आशियाई क्रीडा स्पर्धेत पदक हुकल्यानंतर डोळे पाणावले",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-23T11:54:52",
-            "url": "https://www.lokmat.com/other-sports/mirabai-chanu-win-silver-her-first-asian-games-medal-in-the-womens-49kg-category-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mirabai-chanu-win-silver-her-first-asian-games-medal-m_2026091788327.jpg",
+            "published": "2026-09-23T17:52:04",
+            "url": "https://www.lokmat.com/other-sports/manu-bhaker-asian-games-coaches-left-and-manu-bhaker-gets-emotional-with-memories-tears-in-her-eyes-after-missing-out-on-a-medal-at-the-asian-games-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manu-bhaker-crying_2026091788797.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "9f9081262703",
+            "id": "3f243bfd56aa",
             "feed": "esakal",
-            "title": "Asian Games 2026: मीराबाई चानूची स्वप्नपूर्ती! आशियाई क्रीडा स्पर्धेत जिंकले पहिले पदक; २८ वर्षांचा भारताचा दुष्काळ संपवला...",
+            "title": "IND vs AUS, U19 ODI: कर्णधाराचं शतक, सेहवागची फटकेबाजी; द्रविडला विश्रांती अन् युवा भारताचा ऑस्ट्रेलियाला व्हाईटवॉश",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-09-23T11:41:57",
-            "url": "https://www.esakal.com/krida/asian-games-2026-mirabai-chanu-wins-her-first-asian-games-medal-fulfills-her-dream-with-historic-silver-medal-india-rises-in-tally-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/9a161k6p/MIRABAI-CHANU-Silver-Medal-AT-ASIAN-GAMES-2026",
+            "published": "2026-09-23T17:25:43",
+            "url": "https://www.esakal.com/krida/cricket/india-u19-sweeps-odi-series-3-0-against-australia-lakshya-raichandani-century-aryavir-sehwag-anvay-dravid-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-23/qbek0fb5/India-U19-To-3-0-Series-Whitewash-Over-Australia-1.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "business": [
+            "category_reason": "feed"
+        },
         {
-            "id": "cfd6154485dc",
+            "id": "773eba8f1dde",
             "feed": "lokmat",
-            "title": "Soyabean Market : 'या' दोन मार्केटला नवीन मका, सोयाबीनची आवक, सरासरी क्विंटलमागे काय भाव मिळाला?",
+            "title": "IND vs WI: रोहित शर्मा वेस्ट इंडिजला झोडपणार; सचिन तेंडुलकर, ख्रिस गेलचे 'हे' मोठे विक्रम मोडण्याची संधी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-09-23T12:25:02",
-            "url": "https://www.lokmat.com/agriculture/market-yard/maka-soyabean-market-average-price-per-quintal-of-new-maize-and-soybeans-arriving-in-nashik-markets-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/makas-oay_2026091788333.jpeg",
+            "published": "2026-09-23T17:19:14",
+            "url": "https://www.lokmat.com/cricket/photos/ind-vs-wi-odi-rohit-sharma-will-crush-west-indies-will-break-8-big-records-of-sachin-tendulkar-chris-gayle-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rohit-sharma-records_2026091788753.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        },
+            "category_reason": "feed"
+        }
+    ],
+    "business": [
         {
-            "id": "51f401707452",
+            "id": "57a1710f5ac0",
             "feed": "lokmat",
-            "title": "मार्क जुकरबर्ग यांची दमदार कामगिरी; संपत्तीत एकाच दिवसात तब्बल २.२ लाख कोटींची विक्रमी वाढ",
+            "title": "हिरे खरेदीदारांसाठी मोठी बातमी! हिऱ्यांचे भाव २० वर्षांतील नीचांकी पातळीवर; जाणून घ्या कारण...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-09-23T12:18:29",
-            "url": "https://www.lokmat.com/business/stock-market/mark-zuckerbergs-strong-performance-record-increase-in-wealth-of-rs-22-lakh-crore-in-a-single-day-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mark-zu-shares_2026091788360.jpg",
+            "published": "2026-09-23T17:51:56",
+            "url": "https://www.lokmat.com/business/savings-investments/big-news-for-diamond-buyers-diamond-prices-at-20-year-low-know-reason-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/diamond-price_2026091788798.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4ce72f4f79af",
+            "id": "e3a7020f77af",
             "feed": "lokmat",
-            "title": "नागवडे साखर कारखान्याचा दिवाळीत साखरेबरोबर उर्वरित हप्ता; वाचा टनाला किती रुपये देणार?",
+            "title": "Water Shortage : परतीच्या पावसावर रब्बीची भिस्त; जालना जिल्ह्यात पेरणीचे क्षेत्र निम्म्यावर येण्याची शक्यता",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-23T12:06:38",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/nagwade-sugar-factorys-remaining-installment-along-with-sugar-for-diwali-read-how-much-rupees-will-be-paid-per-ton-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagwade-sugar-diwali-us-bill_2026091788344.jpeg",
+            "published": "2026-09-23T17:48:03",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-water-shortage-rabi-crop-relies-on-the-return-of-rains-sowing-area-in-jalna-district-likely-to-be-halved-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rabi-season-1_2026091788752.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "27fd4381b539",
+            "feed": "lokmat",
+            "title": "Jamin Hisse Vatani : वडिलोपार्जित जमिनीची खातेफोड कशी करावी, हिस्सेवाटणीची नेमकी प्रक्रिया काय असते?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-23T17:45:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/jamin-hisse-vatani-how-to-deed-ancestral-land-what-is-the-exact-process-of-division-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amin-vatni_2026091788791.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
