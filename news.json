@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "23-09-2026 | 11:04 PM IST",
+    "lastUpdated": "24-09-2026 | 02:21 AM IST",
     "maharashtra": [
+        {
+            "id": "c496daa34f9f",
+            "feed": "lokmat",
+            "title": "मुंद्रा बंदरातील बेमुदत आंदोलनामुळे जेएनपीए बंदरातील कंटेनर मालाच्या वाहतूकीत ३० टक्क्यांनी वाढ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-24T00:04:46",
+            "url": "https://www.lokmat.com/navi-mumbai/container-cargo-traffic-at-jnpa-port-increases-by-30-percent-due-to-indefinite-strike-at-mundra-port-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vahtuk-kondi_2026091788938.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "3397041d2468",
+            "feed": "lokmat",
+            "title": "Video : आयआयटी मुंबई विद्यार्थी मृत्यू प्रकरण; साहिलच्या शेवटच्या २० मिनिटांचे सीसीटीव्ही फुटेज समोर!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-23T23:53:26",
+            "url": "https://www.lokmat.com/mumbai/iit-bombay-student-death-case-cctv-footage-of-sahils-last-20-minutes-revealed-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sahil-video-2_2026091788934.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5fd1bc8ca2f9",
+            "feed": "esakal",
+            "title": "Badnapur News : दुष्काळाच्या व्यथांनी दानवेंसमोर शेतकऱ्यांचे डोळे पाणावले",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-23T23:27:08",
+            "url": "https://www.esakal.com/marathwada/badnapur-drought-farmers-plea-to-government-danve-visit-raosaheb-danve-rain-agriculture-loss-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-23/3wa93xip/raosaheb-danve",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "e307ed06eb0f",
             "feed": "esakal",
@@ -32,57 +80,73 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "73e40cd99924",
-            "feed": "esakal",
-            "title": "Mohol News : मोहोळ तालुक्यातील मंदिरातील वाढत्या चोऱ्या संदर्भात पोलीस सतर्क; व्यवस्थापक पुजारी व ट्रस्टी यांच्या तातडीच्या बैठकीचे आयोजन, अकरा सूचनांचे पालन करण्याची सूचना",
+            "id": "f18f4b364ee3",
+            "feed": "maharashtratimes",
+            "title": "Devendra Chougule: लेखक, दिग्दर्शक, निर्माता आणि अभिनेता; एकाच सिनेमात चार जबाबदाऱ्या सांभाळतोय देवेंद्र चौगुले, भूमिकेबद्दल केला खुलासा",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-23T22:45:49",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/mohol-temple-theft-police-security-guidelines-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/npdeehmd/mohol-police-pujari-trusti-meeting",
+            "published": "2026-09-23T23:36:38",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/devendra-chougule-talks-about-psycho-ranga-movie-cast-and-story/articleshow/134443789.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "8fc309737b89",
-            "feed": "esakal",
-            "title": "साहिल मोबाईल वापरून करत होता कॉपी, परीक्षेवेळचा CCTV VIDEO आला समोर",
+            "id": "1480e5d331d4",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 24 September 2026: प्रदोष, हंस राजयोग,चंद्राधियोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
             },
-            "published": "2026-09-23T22:41:16",
-            "url": "https://www.esakal.com/mumbai/iit-powai-student-sahil-wakode-seen-using-mobile-during-exam-cctv-video-surfaces-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/op8na88k/sahil-wakode.jpg",
+            "published": "2026-09-23T23:21:01",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-24-september-in-marathi-ganeshotsav-2026-guru-pradosh-hans-rajyog-and-shubha-muhurta/articleshow/134442591.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         },
         {
-            "id": "34742857111c",
-            "feed": "lokmat",
-            "title": "'अनुष्का… थांब!' म्हणत मैत्रिणी धावत राहिल्या; धनबाद एक्स्प्रेसच्या धडकेत युवतीचा दुर्दैवी अंत",
+            "id": "c872966a58f5",
+            "feed": "maharashtratimes",
+            "title": "KBC 18 : रोजंदारीवर काम करणारं कुटुंब, SSC परीक्षेची तयारी करणाऱ्या पूनमनं 'कौन बनेगा करोडपती १८'च्या मंचावर जिंकले तब्बल इतके लाख",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
             },
-            "published": "2026-09-23T22:28:34",
-            "url": "https://www.lokmat.com/kolhapur/friends-kept-running-saying-anushka-stop-young-woman-dies-in-dhanbad-express-collision-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/anushka-pawar_2026091788914.jpg",
+            "published": "2026-09-23T23:17:09",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/kbc-18-daily-wage-worker-daughter-punam-saroj-wins-rs-25-lakh/articleshow/134443523.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
+            "category_reason": "url"
+        },
+        {
+            "id": "f30e033b1705",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 24 सप्टेंबर 2026 : ग्रहण योग व हंस राजयोगाचा काही राशींना लाभ तर काहींसाठी कठीण काळ ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-23T23:05:08",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-24-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction-lord-ganesha-bless-these-zodiac-signs/articleshow/134440007.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "1587158646d1",
             "feed": "esakal",
@@ -98,70 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-23/lgysbtdv/1.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "109cf5d1a1a9",
-            "feed": "esakal",
-            "title": "CSK चे फ्लेमिंगच्या आधीही पहिले 'हेड कोच' कोण होते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-23T22:15:13",
-            "url": "https://www.esakal.com/ampstories/web-story/zaheer-khan-first-indian-head-coach-chennai-super-kings-replacing-stephen-fleming-csk-1st-mentor-kepler-wessels-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/lxe2lxrk/CSKs-All-Head-Coaches-11.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5e7ed3fb7474",
-            "feed": "maharashtratimes",
-            "title": "आज आयुष्याचा शेवटचा दिवस, माझी बायको कपटी! पतीनं यादीच वाचली, FB Live करत चिठ्ठीसह तरुणाची उडी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-23T22:10:20",
-            "url": "https://maharashtratimes.com/india-news/wife-leaves-with-child-after-fight-man-jumps-into-ganga-river-after-fb-live/articleshow/134442469.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "934118ac11a7",
-            "feed": "lokmat",
-            "title": "मातीत रोवा इवलुशी बी अन् मिळतील भरपूर शेवग्याच्या शेंगा! 'या' पद्धतीने लावा बाल्कनीत झाड- ५ महिन्यांत शेंगांनी वाकेल रोप",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-23T22:00:02",
-            "url": "https://www.lokmat.com/sakhi/gardening/how-to-grow-moringa-from-seeds-at-home-drumstick-plant-on-balcony-how-to-grow-moringa-tree-in-a-small-space-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/drumstick-tree-growing-tips-at-home_2026091788648.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "036abf91b5c4",
-            "feed": "lokmat",
-            "title": "होर्मुझ समुद्रात जहाजावर क्षेपणास्त्र हल्ला; भारतीय खलाशाचा मृत्यू, सागरी सुरक्षेवर प्रश्नचिन्ह",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-09-23T21:39:01",
-            "url": "https://www.lokmat.com/national/missile-attack-on-ship-in-the-strait-of-hormuz-indian-sailor-dies-question-mark-over-maritime-security-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hormu-attack_2026091788903.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
