@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "24-09-2026 | 11:33 PM IST",
+    "lastUpdated": "25-09-2026 | 03:24 AM IST",
     "maharashtra": [
+        {
+            "id": "0e91354992c9",
+            "feed": "lokmat",
+            "title": "जेएनपीए बंदरात तीन कोटी किमतीचे १० टन प्रतिबंधित फटाके जप्त: डीआरआयची कारवाई",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-24T23:40:46",
+            "url": "https://www.lokmat.com/navi-mumbai/10-tonnes-of-banned-crackers-worth-rs-3-crore-seized-at-jnpa-port-dri-action-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/uran-jnpa_2026091789698.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "ba715c2e3af3",
             "feed": "maharashtratimes",
@@ -64,25 +80,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-24/w5euyc7x/gas-leak-blast",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "6f2e1bb047f5",
-            "feed": "lokmat",
-            "title": "स्वातंत्र्य संग्रामातील चिरनेर जंगल सत्याग्रहाचा २५ सप्टेंबर रोजी ९६ वा. हुतात्मा स्मृतिदिन : २१ बंदुकीच्या फैरी झाडून हुतात्मांना शासकीय आंदरांजली",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-24T22:55:49",
-            "url": "https://www.lokmat.com/navi-mumbai/96th-martyrs-memorial-day-of-chirner-jungle-satyagraha-in-the-freedom-struggle-on-september-25-government-pays-tribute-to-the-martyrs-by-firing-21-gun-salutes-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chirner_2026091789695.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
+        {
+            "id": "22328895131a",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 25 September 2026: अनंत चतुर्दशी, नवम पंचम योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-25T01:01:04",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-25-september-in-marathi-ganpati-visarjan-2026-ananta-chaturdashi-and-shubha-muhurta/articleshow/134467662.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "7c06e1d04ac5",
+            "feed": "maharashtratimes",
+            "title": "आर्थिक राशिभविष्य 25 सप्टेंबर 2026: मालव्यसह लक्ष्मी नारायण राजयोगाचा प्रभाव! वृषभसाठी प्रतिष्ठेत वाढ, तुळला सासरकडून लाभ! तुमची राशी काय सांगते? पाहा, तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-25T00:08:45",
+            "url": "https://maharashtratimes.com/astro/financial-horoscope/financial-money-horoscope-25-september-ganpati-visarjan-2026-arthik-rashi-astrology-bhavishya-marathi/articleshow/134468787.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "293d23378f78",
             "feed": "esakal",
@@ -128,38 +160,6 @@
             "published": "2026-09-24T23:00:01",
             "url": "https://www.esakal.com/desh/kerala-tourism-domestic-tourists-record-foreign-visitors-still-lagging-pjp78",
             "image": "https://cf-images.assettype.com/esakal/2026-09-24/d86qh6bf/kerala-tourism",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "88313735672c",
-            "feed": "maharashtratimes",
-            "title": "Sooraj Pancholi:'सुशांतच्या घराबाहेर मी नव्हे सिद्धार्थ होता',  आरोप करणाऱ्या कमेंटवर सूरज पांचोलीची प्रतिक्रिया, चर्चेला उधाण",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-24T22:32:56",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sooraj-pancholi-responds-to-comment-says-it-was-siddharth-gupta-not-me-outside-sushant-singh-rajput-house/articleshow/134466917.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "994033b546d2",
-            "feed": "esakal",
-            "title": "ज्ञानेश कुमार यांच्या IAS मुलीला सुप्रीम कोर्टाने दिलासा देताच वकिलांची असोसिएशन आक्रमक, थेट सरन्यायाधीशांना खुलं पत्र",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-24T22:32:20",
-            "url": "https://www.esakal.com/desh/gyanesh-kumar-s-daughter-medha-roopam-gets-supreme-court-relief-lawyers-write-open-letter-to-cji-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-24/mobm7b42/gyanesh-kumar-ias-medha-roopam.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "5d5cbffb1571",
+            "feed": "maharashtratimes",
+            "title": "परदेशी व्यक्तीकडून प्रॉपर्टी खरेदी करणे आता आणखीन सोपे! आयकर विभागाच्या TDS संबंधित नियमांमध्ये बदल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-09-24T23:37:36",
+            "url": "https://maharashtratimes.com/business/real-estate-news/income-tax-changed-nri-property-tds-tan-rules-know-about-it-in-details/articleshow/134468166.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "fb4292a47506",
             "feed": "lokmat",
             "title": "पपईच्या बागेत घेतली मिरची, वांगी, टोमॅटोसह झेंडूची आंतरपीके; दीड लाखांची भक्कम कमाई",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "228fcdbc0ebd",
-            "feed": "lokmat",
-            "title": "स्मार्टफोन टेबलवर कसा ठेवावा? स्क्रीन वर ठेवायची की खाली? एका चुकीमुळे डिव्हाइस होऊ शकते खराब",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-24T19:52:13",
-            "url": "https://www.lokmat.com/tech/how-to-place-a-smartphone-on-a-table-should-you-place-the-screen-up-or-down-one-mistake-can-damage-the-device-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mobile-keep1_2026091789656.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
