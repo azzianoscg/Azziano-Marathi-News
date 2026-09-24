@@ -1,252 +1,284 @@
 {
-    "lastUpdated": "24-09-2026 | 06:36 PM IST",
+    "lastUpdated": "24-09-2026 | 11:33 PM IST",
     "maharashtra": [
         {
-            "id": "ccf17757beec",
-            "feed": "esakal",
-            "title": "Satana News : मुस्लिम दाम्पत्याच्या हस्ते गणरायाची महाआरती; सटाण्यात सर्वेश्वरी महिला सामाजिक मंडळाकडून सामाजिक सलोख्याचा संदेश",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-24T18:34:22",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/satana-muslim-couple-ganesh-aarti-social-harmony-initiative-ganeshotsav-humanity-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-24/vbwpyc3p/fazal-shaikh-and-gajala-shaikh",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "284294b39c6f",
-            "feed": "esakal",
-            "title": "५ वर्षीय चिमुकला कॅन्सरशी झुंजला, दुर्मिळ आणि गुंतागुंतीची सर्जरीला यश; नवी मुंबईच्या रुग्णालयात डॉक्टरांची मोठी कामगिरी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-24T18:30:07",
-            "url": "https://www.esakal.com/mumbai/navi-mumbai-kokilaben-dhirubhai-ambani-hospital-successfully-perform-rare-and-complex-surgery-on-5-year-old-boy-with-cancer-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-20/d9grtbfp/Doctor-treatment",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "602c0bd8eb0e",
+            "id": "ba715c2e3af3",
             "feed": "maharashtratimes",
-            "title": "Pune Crime: पिंपरी- चिंचवडमध्ये पोक्सो खटल्यात अवघ्या दोन महिन्यांत निकाल; आरोपीला २० वर्षांची सक्तमजुरी",
+            "title": "Chhatrapati Sambhajinagar News : लहान मुले, तरुणी अन् विवाहिता अचानक गायब! टीव्ही सेंटर, बजाजनगर अन् मुकुंदवाडीतून अपहरण, गुन्हे दाखल",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-24T18:29:25",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/pimpri-chinchwad-special-child-court-issues-20-year-sentence-swift-hearing-in-assault-case-on-minor/articleshow/134463052.cms",
+            "published": "2026-09-24T23:29:25",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/three-women-and-childers-missing-in-chhatrapati-sambhajinagar-police-investigation-underway/articleshow/134467839.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "74d71108d1b0",
+            "id": "47abc18854ff",
+            "feed": "maharashtratimes",
+            "title": "1972 Maharashtra Drought vs 2026: 54 वर्षांनंतर महाराष्ट्रात पुन्हा दुष्काळ? त्या काळात काय घडलं?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-24T23:26:58",
+            "url": "https://maharashtratimes.com/video/mt-originals/maharashtra-drought-1972-vs-2026-history-crisis/videoshow/134468122.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "933d5a963af3",
+            "feed": "maharashtratimes",
+            "title": "Tree Cutting: प्रसिद्ध नवी मुंबईच्या एपीएमसी मार्केटमध्ये होर्गिंसाठी झाडांची कत्तल केल्याचा आरोप, मध्यरात्रीच्या वेळी वृक्षतोड केल्याचा दावा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-24T23:15:55",
+            "url": "https://maharashtratimes.com/maharashtra/navi-mumbai/allegations-of-tress-cut-in-navi-mumbai-apmc-for-digital-hoarding/articleshow/134467651.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "dd348aa96f6b",
             "feed": "esakal",
-            "title": "Yavatmal News : दुष्काळ पाहणीला गेलेल्या मंत्र्यांचा ताफा शेतकर्‍यांनी अडविला! घारफळ येथे संतापाचा उद्रेक",
+            "title": "Hotel Gas Leakage : हॉटेलच्या किचनमध्ये गॅस गळती; सिलेंडरने घेतला पेट, कोंढवा बुद्रुकमधील घटनेत दोन कामगार जखमी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-09-24T18:28:50",
-            "url": "https://www.esakal.com/vidarbha/yavatmal-farmers-block-ministers-convoy-over-drought-power-woes-rain-agriculture-loss-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-24/5uklwf3m/Farmers-blocked-the-convoy-of-ministers-visiting-to-assess-drought-conditions.",
+            "published": "2026-09-24T23:15:40",
+            "url": "https://www.esakal.com/pune/kondhwa-budruk-hotel-gas-leak-cylinder-fire-two-workers-injured-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/w5euyc7x/gas-leak-blast",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "f4727e66bad7",
+            "id": "6f2e1bb047f5",
             "feed": "lokmat",
-            "title": "ग्रामीण जनतेला मोठा दिलासा! नागपूरमध्ये ९ नवीन अपर तहसीलदार कार्यालये, स्वतंत्र अपर जिल्हाधिकारी कार्यालयालाही मंजुरी",
+            "title": "स्वातंत्र्य संग्रामातील चिरनेर जंगल सत्याग्रहाचा २५ सप्टेंबर रोजी ९६ वा. हुतात्मा स्मृतिदिन : २१ बंदुकीच्या फैरी झाडून हुतात्मांना शासकीय आंदरांजली",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-09-24T18:24:17",
-            "url": "https://www.lokmat.com/nagpur/big-relief-for-rural-people-9-new-additional-tehsildar-offices-in-nagpur-separate-additional-district-collector-office-also-approved-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-22_2026091789620.png",
+            "published": "2026-09-24T22:55:49",
+            "url": "https://www.lokmat.com/navi-mumbai/96th-martyrs-memorial-day-of-chirner-jungle-satyagraha-in-the-freedom-struggle-on-september-25-government-pays-tribute-to-the-martyrs-by-firing-21-gun-salutes-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chirner_2026091789695.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "52922c935610",
+            "id": "293d23378f78",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : मतचोरी करून खासदार झालेले कायदा बनवतायत : राहुल गांधी",
+            "title": "राजस्थानी रोटी एवढी जाड का असते? हे आहे त्यामागचं लॉजिक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-24T18:33:35",
-            "url": "https://www.esakal.com/desh/maharashtra-marathi-live-news-24-sep-2026-edible-oil-import-duty-cut-india-cooking-oil-prices-weather-update-imd-rain-forecast-parliament-monsoon-session-nda-bjp-congress-pm-modi-jantar-mantar-protest-cjp-gold-silver-rate-share-market-devendra-fadnavis-eknath-shinde-sunetra-pawar-sports-entertainment-politics-finance-trending-viral-news-updates-srs92-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "437ef94d271a",
-            "feed": "lokmat",
-            "title": "पैसा वाढवण्यासाठी सुधा मूर्ती सांगतात ५ गोष्टी करा; बचत होईल मोठी-वाढेल कमाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-24T18:27:13",
-            "url": "https://www.lokmat.com/sakhi/social-viral/sudha-murthy-shares-5-simple-tips-to-stop-unnecessary-spending-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-24-at-5.25.31-pm_2026091789610.jpeg",
+            "published": "2026-09-24T23:10:40",
+            "url": "https://www.esakal.com/ampstories/web-story/why-are-rajasthani-rotis-so-thick-know-traditional-reason-food-culture-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/gzykvyx4/Why-Rajasthani-Rotis-are-So-Thick-1.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "96934f68473b",
-            "feed": "lokmat",
-            "title": "'शिवसेना प्रकरणात आम्ही हे पाहिलं आहे, तोडगा निघायलाच हवा'; सर्वोच्च न्यायालयाने निवडणूक आयोगाला सुनावले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-09-24T18:23:56",
-            "url": "https://www.lokmat.com/national/we-have-seen-this-in-the-shiv-sena-case-a-solution-must-be-found-supreme-court-tells-election-commission-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tmc-symbol-supreme-court-shiv-sena_2026091789617.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "76d8a8889d36",
+            "id": "01413ce7dc95",
             "feed": "esakal",
-            "title": "Election Commission Controversy : 'ज्ञानेश कुमारांनी लोकसभेसह यापूर्वीच्या अनेक विधानसभा निवडणुकांत हेराफेरी केली'; राहुल गांधींचा गंभीर आरोप, मोदी-शाहांवरही निशाणा",
+            "title": "YouTube चा धमाका! Amazon अन् Meesho सह दिग्गज ई-कॉमर्स कंपन्यांसोबत करार; क्रिएटर्ससाठी कमाईचे नवे मार्ग खुले!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-24T18:23:51",
-            "url": "https://www.esakal.com/desh/rahul-gandhi-gyanesh-kumar-election-commission-vote-theft-election-irregularities-lok-sabha-assembly-elections-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-24/pp1n2wc3/Rahul-Gandhi-allegations-against-Gyanesh-Kumar",
+            "published": "2026-09-24T23:07:27",
+            "url": "https://www.esakal.com/sci-tech/youtube-shopping-affiliate-program-expansion-amazon-meesho-india-marathi-youtube-ecommerce-partners-expand-creator-revenue-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/thx9i3ia/YouTube-Expands-Shopping-Affiliate-Program-in-India-with-Amazon-Meesho-Ajiopng",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "b3fb9751fbb4",
+            "feed": "esakal",
+            "title": "Keral Tourism : देशी पर्यटकांचा विक्रम; विदेशी पर्यटक मात्र दूरच, २.५ कोटी देशी पर्यटकांची नोंद",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-24T23:00:01",
+            "url": "https://www.esakal.com/desh/kerala-tourism-domestic-tourists-record-foreign-visitors-still-lagging-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/d86qh6bf/kerala-tourism",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "5a30f4cd410d",
+            "id": "88313735672c",
             "feed": "maharashtratimes",
-            "title": "​अफगाण प्रवासी गुपचूप नेत होता ११ डबे, तपास यंत्रणेला आला संशय; डबे उघडताच सापडली धक्कादायक गोष्ट, दिल्ली एअरपोर्टवरील फोटो व्हायरल",
+            "title": "Sooraj Pancholi:'सुशांतच्या घराबाहेर मी नव्हे सिद्धार्थ होता',  आरोप करणाऱ्या कमेंटवर सूरज पांचोलीची प्रतिक्रिया, चर्चेला उधाण",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-24T18:22:05",
-            "url": "https://maharashtratimes.com/viral/viral-news/afghan-passenger-caught-at-delhi-airport-with-11-containers-of-sandalwood-cisf-takes-action/articleshow/134463000.cms",
+            "published": "2026-09-24T22:32:56",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sooraj-pancholi-responds-to-comment-says-it-was-siddharth-gupta-not-me-outside-sushant-singh-rajput-house/articleshow/134466917.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
+        },
+        {
+            "id": "994033b546d2",
+            "feed": "esakal",
+            "title": "ज्ञानेश कुमार यांच्या IAS मुलीला सुप्रीम कोर्टाने दिलासा देताच वकिलांची असोसिएशन आक्रमक, थेट सरन्यायाधीशांना खुलं पत्र",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-24T22:32:20",
+            "url": "https://www.esakal.com/desh/gyanesh-kumar-s-daughter-medha-roopam-gets-supreme-court-relief-lawyers-write-open-letter-to-cji-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/mobm7b42/gyanesh-kumar-ias-medha-roopam.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "cbb08a808be8",
+            "id": "b530d43ad9d0",
             "feed": "lokmat",
-            "title": "'आता गप्प बसणार नाही...'; पाकिस्तानने हवाई हल्ल्यात शाळा उडवली, अफगाणिस्तानचा बदला घेण्याचा इशारा",
+            "title": "‘अमेरिका-चीनमध्ये रेस व्हावी, रेसलिंग नाही...’; व्हाईट हाऊसमध्ये शी जिनपिंग काय म्हणाले?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-24T18:15:20",
-            "url": "https://www.lokmat.com/international/i-will-not-remain-silent-anymore-pakistan-blows-up-school-in-airstrike-warns-of-revenge-against-afghanistan-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/afghanistan-school1_2026091789614.jpg",
+            "published": "2026-09-24T23:29:19",
+            "url": "https://www.lokmat.com/international/america-china-should-be-a-race-not-a-wrestling-what-did-xi-jinping-say-at-the-white-house-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jinping-in-white-house-1_2026091789696.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "5a5f00aca9f7",
+            "id": "ed905afdebf4",
             "feed": "maharashtratimes",
-            "title": "मुस्लिमांच्या सर्वात पवित्र शहरावर हल्ल्याची भीती; सिव्हिल डिफेन्सकडून हाय अलर्ट जारी",
+            "title": "लग्नानंतर काही तासांनी भीषण अपघात; नवरदेवाचा अंत, नवरी त्याच्याच निष्प्राण देहाखाली 6 तास अडकली",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-09-24T18:14:09",
-            "url": "https://maharashtratimes.com/international/international-news/saudi-arabia-issues-potential-danger-warning-for-mecca-2nd-time-in-10-days/articleshow/134462291.cms",
+            "published": "2026-09-24T21:39:49",
+            "url": "https://maharashtratimes.com/international/international-news/widow-of-indian-origin-pilot-filed-lawsuit-after-wedding-helicopter-crash-killed-her-husband/articleshow/134466228.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1fc494b1132a",
+            "id": "f597e88ed63d",
             "feed": "lokmat",
-            "title": "मक्का, मदिनासह प्रमुख शहरे हाय अलर्टवर; सौदी अरेबियाने नागरिकांना दिला सतर्कतेचा इशारा",
+            "title": "इम्रान खान यांच्या समर्थकांना रोखण्यासाठी शाहबाज सरकारचा मोठा डाव; इस्लामाबादमध्ये 'स्पायडर गन'चा वापर होणार?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-24T17:50:25",
-            "url": "https://www.lokmat.com/international/major-cities-of-saudi-arabia-including-mecca-madina-on-high-alert-defense-department-issues-major-instructions-to-citizens-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mecca-madina-saudi_2026091789599.jpg",
+            "published": "2026-09-24T21:07:35",
+            "url": "https://www.lokmat.com/international/shahbaz-governments-big-plan-to-stop-imran-khans-supporters-will-spider-guns-be-used-in-islamabad-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/imran-khan-supoorter_2026091789687.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f6c3c8a4cef1",
+            "id": "761df9436c89",
             "feed": "lokmat",
-            "title": "सौदी अरेबियानं भारत-चीनसाठी उघडला खजिना; १० कोटी बॅरल तेल थेट दारात पोहचवणार",
+            "title": "अवकाशातून हेरगिरी, जे कुणी ऐकू शकत नाही ते चीन ऐकणार! तीन रेडिओ ट्रॅकिंग सॅटेलाईट केले लॉन्च, मिशन काय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-09-24T17:41:30",
-            "url": "https://www.lokmat.com/international/us-iran-war-saudi-arabia-opens-its-treasury-for-india-china-100-million-barrels-of-oil-will-be-delivered-directly-to-the-doorstep-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saudi-arabia-india-119_2026091789588.jpg",
+            "published": "2026-09-24T20:59:20",
+            "url": "https://www.lokmat.com/photos/international/spying-from-space-china-will-listen-to-what-no-one-else-can-hear-three-radio-tracking-satellites-launched-what-is-the-mission-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/what-is-china-radio-tracking-satellite_2026091789678.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "461e16e63131",
-            "feed": "lokmat",
-            "title": "Asian games 2026 : देशासाठी मेडल जिंकायचं म्हणून तिनं ‘पुरुष’ बनून चालवली सायकल! पण मरु दिलं नाही डोळ्यांतलं स्वप्न..",
+            "id": "a351053df676",
+            "feed": "esakal",
+            "title": "Premium|Tere Ghar Ke Samne : ‘तेरे घर के सामने’मधून खुलले देव आनंद-नूतनच्या प्रेमाचं सुंदर जग",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-24T17:29:33",
-            "url": "https://www.lokmat.com/sakhi/photos/inspirational/fariba-hashimi-afghanistan-cyclist-story-womens-road-race-disguised-as-man2026-asian-games-silver-medal-inspiring-journey-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fariba-hashimi-inspiring-story_2026091789378.jpeg",
+            "published": "2026-09-24T20:58:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/tere-ghar-ke-samne-dev-anand-nutan-vijay-anand-sd-burman-hasrat-jaipuri-1963-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-20/mb8onrpu/Abhi-30.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "8bfa8b2e8658",
+            "feed": "esakal",
+            "title": "IND vs WI, Live Streaming: भारत-वेस्ट इंडिज संघात ३ वनडे अन् ५ टी२० सामन्यांचा रोमांच! कधी, कुठे अन् किती वाजता पाहाणार मॅच?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-24T19:31:45",
+            "url": "https://www.esakal.com/krida/cricket/india-vs-west-indies-2026-schedule-dates-venues-match-timings-squads-live-streaming-and-telecast-details-where-to-watch-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/3agyo8d5/India-vs-West-Indies.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a269412388e2",
+            "feed": "esakal",
+            "title": "IND A vs AUS A, 1st Test: शेवटच्या दिवशी विजयासाठी थरार! भारतीय गोलंदाज ऑस्ट्रेलियाला रोखणार? जाणून घ्या समीकरण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-24T18:51:46",
+            "url": "https://www.esakal.com/krida/cricket/india-a-need-8-wickets-as-australia-a-target-363-runs-on-day-4-of-puducherry-1st-test-match-devdutt-padikkal-fifty-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/e30utb9w/Devdutt-Padikkal-India-A-vs-Australia-A-Test.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "007f25799fbe",
             "feed": "esakal",
@@ -262,88 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-24/8qt5tutp/T20-World-Cup-2007-India-prize-money.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "2282da42776a",
-            "feed": "lokmat",
-            "title": "पाकिस्तान क्रिकेटमधला गोंधळ संपता संपेना... आधी ७ खेळाडू, २ कोच बदलले; आता कर्णधारावर टांगती तलवार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-24T17:27:05",
-            "url": "https://www.lokmat.com/cricket/news/pakistan-cricket-t20-captain-may-change-head-coach-mike-hesson-says-sahibzada-farhan-salman-agha-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-cricket-captain-2409_2026091789575.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d19e911f8881",
-            "feed": "maharashtratimes",
-            "title": "Gautam Gambhir : 'कोच असावा तर असा! 17 वर्ष नाही 17 महिन्यात सलग दुसरा वर्ल्ड कप जिंकलाय, श्रेयस नि:स्वार्थी कॅप्टन'; गौतम गंभीरचे टीकाकारांना उत्तर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-09-24T15:54:44",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/coach-gautam-gambhir-reply-to-criticizing-the-indian-team/articleshow/134458129.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "66bac27bf8c3",
+            "id": "fb4292a47506",
             "feed": "lokmat",
-            "title": "दिना प्रकल्पाच्या जलसाठ्यात घट; चिचडोहमधून विसर्ग सुरु, नदीकाठच्या गावांना सतर्कतेचा इशारा",
+            "title": "पपईच्या बागेत घेतली मिरची, वांगी, टोमॅटोसह झेंडूची आंतरपीके; दीड लाखांची भक्कम कमाई",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-24T18:32:15",
-            "url": "https://www.lokmat.com/agriculture/weather/water-storage-of-dina-project-decreases-discharge-from-chichdoh-begins-alert-issued-to-villages-along-the-river-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gadchiroli-water-update_2026091789526.jpeg",
+            "published": "2026-09-24T21:46:31",
+            "url": "https://www.lokmat.com/agriculture/success-story/intercropping-of-marigold-with-chilli-brinjal-tomato-in-papaya-garden-earned-a-solid-income-of-rs-15-lakh-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/success-story-34-34-34-34-34-r-34-_2026091789690.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "640be56e5d3e",
-            "feed": "lokmat",
-            "title": "Pashudhan Yojana : दुधाळ जनावरांचे वाटप की कागदोपत्रीच हिशेब? टॅगिंगपासून पाठपुराव्यापर्यंत प्रश्न अनुत्तरित",
+            "id": "874b686af4e5",
+            "feed": "maharashtratimes",
+            "title": "दहावीत शिकणाऱ्या मुलीचा पोर्टफोलिओ जवळपास 14 लाखांचा! GDP फॉर्म्युलाने वयाच्या पंधराव्या वर्षी बनवले लखपती",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
             },
-            "published": "2026-09-24T17:54:32",
-            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/latest-news-pashudhan-yojana-distribution-of-milch-animals-or-accounting-through-documents-questions-unanswered-from-tagging-to-follow-up-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pasudhan-yojana-1_2026091789596.jpg",
+            "published": "2026-09-24T21:11:12",
+            "url": "https://maharashtratimes.com/business/business-news/sinchana-santosh-13-9-lakh-rupees-investment-portfolio-at-age-of-15-success-story/articleshow/134465743.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "63636047e3e8",
+            "id": "228fcdbc0ebd",
             "feed": "lokmat",
-            "title": "ट्रायल पिरिएड संपला! प्रसिद्ध अभिनेत्याचा लग्नानंतर मोठा निर्णय, सोशल मीडियावर फोटो शेअर करत केली घोषणा",
+            "title": "स्मार्टफोन टेबलवर कसा ठेवावा? स्क्रीन वर ठेवायची की खाली? एका चुकीमुळे डिव्हाइस होऊ शकते खराब",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-24T17:43:26",
-            "url": "https://www.lokmat.com/filmy/bollywood/famous-actor-adar-jain-alekha-advani-takes-big-decision-doing-register-marriage-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/famous-actor-adar-jain-alekha-advani-takes-big-decision-doing-register-marriage_2026091789587.jpg",
+            "published": "2026-09-24T19:52:13",
+            "url": "https://www.lokmat.com/tech/how-to-place-a-smartphone-on-a-table-should-you-place-the-screen-up-or-down-one-mistake-can-damage-the-device-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mobile-keep1_2026091789656.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         }
     ]
 }
