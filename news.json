@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "24-09-2026 | 07:43 AM IST",
+    "lastUpdated": "24-09-2026 | 01:27 PM IST",
     "maharashtra": [
         {
-            "id": "6d95c3ef6c7a",
+            "id": "f3f0e1c7a617",
             "feed": "esakal",
-            "title": "Marathwada Rain: ५० दिवसांच्या खंडानंतर मराठवाड्यात पाऊस; हिंगोली, जालना, नांदेडसह धाराशिवमध्ये सरी",
+            "title": "Gokul Election 2026 : 'गोकुळ निवडणूक बिनविरोधसाठी प्रस्ताव नाही, आम्ही सर्व जागा लढवणार'; सतेज पाटलांची मोठी घोषणा, 'महायुती'वरही साधला निशाणा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-24T13:25:51",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-satej-patil-zilla-parishad-fund-gokul-election-pune-graduate-teacher-constituency-mahavikas-aghadi-2026-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/hknuuuqn/Satej-Patil-statement-on-Gokul-election",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d824e56c464f",
+            "feed": "lokmat",
+            "title": "जन्मदाता बनला मुलाचा काळ ; धारदार शस्त्राने हत्या, फरार आरोपीला पाच तासांत शिताफीने केली अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-24T07:38:04",
-            "url": "https://www.esakal.com/marathwada/maharashtra-rain-after-50-days-marathwada-sees-showers-in-hingoli-jalna-nanded-and-dharashiv-bringing-relief-from-heat-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-24/p36m4tpe/sudhir-jadhav-satara-2.jpg",
+            "published": "2026-09-24T13:22:42",
+            "url": "https://www.lokmat.com/raigad/the-time-of-the-childs-birth-became-the-time-of-the-child-murder-with-a-sharp-weapon-the-absconding-accused-was-arrested-by-shitafi-in-five-hours-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-new-11_2026041685181.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "49bd726bd892",
+            "id": "03aeed856446",
+            "feed": "lokmat",
+            "title": "Crackers Ban: जर बंदीच घालायची होती, तर आधी लायसन्स का दिले? ऐन सणासुदीच्या तोंडावर फटाका व्यापारी व विक्रेते चिंतेत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-24T13:20:29",
+            "url": "https://www.lokmat.com/pune/if-there-was-a-ban-why-were-licenses-given-in-the-first-place-cracker-traders-and-sellers-worried-ahead-of-the-festive-season-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crackers-4-nm_2026091789215.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "993ef8d4e688",
             "feed": "maharashtratimes",
-            "title": "Devendra Fadnavis: सरकार शेतकऱ्यांना एकटे सोडणार नाही, दुष्काळी दौऱ्यात मुख्यमंत्र्यांचा शब्द; बळीराजाला हुंदका अनावर",
+            "title": "एक स्विच बदलण्यासाठी घेतले ४५ हजार रुपये, पुणेरी महिलेचा व्हिडीओ व्हायरल; म्हणे, पुण्यात कपभर चहावर काम केलं असतं",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-24T07:32:49",
-            "url": "https://maharashtratimes.com/maharashtra/latur/maharashtra-drought-state-govt-in-action-mode-devendra-fadnavis-assured-farmers/articleshow/134449133.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4c9b50f5df7c",
-            "feed": "esakal",
-            "title": "Maharashtra Rain Alert : कमी दाबाच्या पट्ट्याचा प्रभाव; यवतमाळ, नागपूर, चंद्रपूर, गडचिरोलीत मुसळधार पावसाची शक्यता",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-24T07:29:32",
-            "url": "https://www.esakal.com/maharashtra/vidarbha-heavy-rain-yavatmal-nagpur-chandrapur-gadchiroli-low-pressure-area-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-24/bipnd014/sandeep-shirguppe-2026-09-24T072844.971.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dcc2313db599",
-            "feed": "esakal",
-            "title": "Maharashtra Farmers: पंचनामे कागदावर नको, थेट बांधावर करा; महसूलमंत्री बावनकुळे यांचे निर्देश; ग्रामसेवक, कृषी साहाय्यक, तलाठींची उपस्थिती बंधनकारक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-24T07:18:24",
-            "url": "https://www.esakal.com/mumbai/crop-damage-survey-must-be-done-on-field-revenue-minister-chandrashekhar-bawankule-issues-strict-instructions-to-officials-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-24/jzbwz737/sudhir-jadhav-satara.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f84a59f1abb8",
-            "feed": "esakal",
-            "title": "Ahilyanagar Ganesh Visarjan : अहिल्यानगरमध्ये गणेश विसर्जन मिरवणुकीत लाठीचार्ज; तरुणाचा मृत्यू, आमदार संग्राम जगताप यांचे ठिय्या आंदोलन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-24T07:08:57",
-            "url": "https://www.esakal.com/ahmednagar/ahilyanagar-bhingar-ganesh-visarjan-procession-police-lathi-charge-deepak-wagskar-death-ahilyanagar-news-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-24/f0k4z1rn/Deepak-Wagskar-Death.jpg",
+            "published": "2026-09-24T13:14:56",
+            "url": "https://maharashtratimes.com/viral/viral-news/pune-woman-in-america-charged-450-dollars-to-replace-one-switch-viral-video-sparks-debate/articleshow/134455455.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "d19d9cc96276",
+            "feed": "esakal",
+            "title": "Pune MLC Election 2026 : महाविकास आघाडीचे ठरले! पदवीधरची जागा राष्ट्रवादी शरद पवार पक्षाला, तर शिक्षक मतदारसंघ पुन्हा काँग्रेसकडेच..; कोणाला मिळणार संधी?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-24T13:12:20",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/pune-mlc-election-2026-mva-seat-sharing-graduate-teacher-constituency-harshada-jadhav-deshmukh-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/fwk0d4ks/Pune-MLC-Election-2026-MVA-seat",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "699793002ceb",
-            "feed": "esakal",
-            "title": "Global Warming: ‘सुपर एल निनो’मुळे १५ हजार मृत्यूचा धोका; शिकागो विद्यापीठाचा इशारा, जमीन आणखी तापणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-24T07:29:40",
-            "url": "https://www.esakal.com/desh/super-el-nino-could-cause-15000-deaths-chicago-university-warns-of-extreme-heat-and-rising-global-temperatures-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-24/ngh14sd0/sudhir-jadhav-satara-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "01f6d49f81a7",
+            "id": "c6f6bcb9b27e",
             "feed": "lokmat",
-            "title": "मुख्य निवडणूक आयुक्तांना हटवा, अटक करा; पुन्हा निवडणुका घ्या, विरोधक आक्रमक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-09-24T07:12:04",
-            "url": "https://www.lokmat.com/national/cec-gyanesh-kumar-row-remove-arrest-the-chief-election-commissioner-hold-fresh-elections-opposition-aggressive-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eci-sir-1_2026091788957.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b12a1f12e4c4",
-            "feed": "lokmat",
-            "title": "अनंत चतुर्दशी २०२६: पांडवांना राज्य परत मिळवून देणारे अनंत व्रत: वाचा संपूर्ण पौराणिक कथा!",
+            "title": "आरशात वेगळा आणि फोटोत वेगळा का दिसतो चेहरा? जाणून घ्या नेमकं कुठे काय चुकतंय...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-24T07:10:02",
-            "url": "https://www.lokmat.com/bhakti/anant-chaturdashi-2026-anant-vrat-that-brought-back-the-kingdom-to-the-pandavas-read-the-complete-mythological-story-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/anant-chaturdashi-vrat-2026-by-pandava_2026091788750.jpg",
+            "published": "2026-09-24T13:22:40",
+            "url": "https://www.lokmat.com/jarahatke/why-face-looks-different-in-mirror-and-camera-photo-know-the-interesting-facts-a-a583/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mirror-photo-difference1_2026091789218.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "2952ba61f0d2",
+            "id": "6b64bdc7cc24",
             "feed": "maharashtratimes",
-            "title": "Raveena Tandon On Karisma Kapoor : रवीना टंडन अन् करिश्मा कपूर यांच्यातली दुश्मनी संपवण्यासाठी सिनेमाच्या टीमनेच केलेला प्रँक, 2 तासांत झालेली मैत्री",
+            "title": "आयआयटी कानपूरचा विद्यार्थी ते 5G-6G चे जनक! भारताला ब्रॉडबँड देणाऱ्या मराठी शास्त्रज्ञाची यशोगाथा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-24T07:04:12",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/raveena-tandon-recalled-how-rivalry-with-karisma-kapoor-ended-and-turned-into-friendship/articleshow/134448975.cms",
+            "published": "2026-09-24T13:21:40",
+            "url": "https://maharashtratimes.com/career/career-news/prof-abhay-karandikar-from-iit-kanpur-revolutionizing-5g-6g-and-ambitions-for-broadband-expansion-in-india/articleshow/134455241.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "d0225ee342df",
+            "id": "c615a8875999",
             "feed": "esakal",
-            "title": "आजचे पंचांग 24 सप्टेंबर 2026! प्रदोषामुळे खास दिवस; वाचा शुभ मुहूर्त आणि राहुकाळ",
+            "title": "Ayush Arogyam Dham: आयुष वेलनेस सेंटर्स' आता ओळखली जाणार 'आयुष आरोग्यम धाम'; पर्यटन आणि आरोग्याची अनोखी सांगड!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-24T07:00:00",
-            "url": "https://www.esakal.com/culture-and-religion/24-september-2026-panchang-marathi-today-shubh-muhurat-rahu-kaal-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-23/blke8ndj/45-1.jpg.jpeg",
+            "published": "2026-09-24T13:20:24",
+            "url": "https://www.esakal.com/desh/madhya-pradesh-ayush-185-50-crore-25-projects-dindori-ayurveda-college-mohan-yadav-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/1ssi3pyh/ayush-arogyam-dham-medical-tourism-madhya-pradesh.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1141d15c2352",
+            "feed": "esakal",
+            "title": "'धाकट्या सुनबाई' मध्ये दिसणार लोकप्रिय इन्फ्लुएन्सर; कोण आहे ती? 'अशी' आहे झी मराठीच्या नव्या मालिकेची कथा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-24T13:19:54",
+            "url": "https://www.esakal.com/premier/dhaktya-sunbai-zee-marathi-new-serial-features-a-popular-influencer-neha-kulkarni-and-reveals-an-interesting-story-about-family-relationships-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/x0r3uem1/new-entry-in-dhaktya-sunbai-.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "3a075478c6a1",
+            "feed": "lokmat",
+            "title": "अजय देवगणनंतर पुन्हा अनूप सोनीची ‘क्राइम पेट्रोल’मध्ये वापसी? अभिनेत्याच्या वक्तव्याने चर्चांना उधाण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-24T13:18:06",
+            "url": "https://www.lokmat.com/filmy/television/after-ajay-devgn-will-anup-soni-return-to-crime-patrol-the-actors-statement-sparks-discussions-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/anup-soni-on-crime-petrol_2026091789208.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "78ae03f00451",
+            "feed": "maharashtratimes",
+            "title": "Alwin Udupi Sharjah Case : वहिनी भारतात आली असेल तर... शारजाहमध्ये दादाचे 9 तुकडे सापडले, भावाने मौन सोडलं, CCTV मध्ये दोन पुरुषांसोबत महिला दिसली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-24T12:38:31",
+            "url": "https://maharashtratimes.com/international/international-news/karnataka-mangaluru-man-murder-in-sharjah-body-into-9-pieces-wife-son-missing-cctv-revealed/articleshow/134454028.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "b67591f46f5a",
             "feed": "maharashtratimes",
@@ -178,38 +194,6 @@
             "published": "2026-09-23T22:53:59",
             "url": "https://maharashtratimes.com/international/international-news/jaishankar-meet-marco-rubio-on-russia-oil-purchase-and-100-percent-tarrif/articleshow/134442965.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2d8ac9c8634f",
-            "feed": "lokmat",
-            "title": "३०० वर्षे ब्रिटिशांनी गुलामासारखे राबवले; आता 'या' देशाला मिळणार तब्बल ९,५००,०००,०००,००० डॉलर्सचा महामोबदला!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-23T21:08:30",
-            "url": "https://www.lokmat.com/international/the-british-ruled-like-slaves-for-300-years-now-this-country-will-get-a-huge-compensation-of-9500000000000-dollars-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jamaica_2026091788899.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "529894194657",
-            "feed": "lokmat",
-            "title": "\"डोनाल्ड ट्रम्प आम्हाला दहशतवादी म्हणतात, पण आम्ही तर त्याचे बळी आहोत\", इराणच्या राष्ट्राध्यक्षांनी सुनावले, UNGA मध्ये फोटो दाखवले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-23T20:58:31",
-            "url": "https://www.lokmat.com/international/donald-trump-calls-us-terrorists-country-but-we-are-victims-iranian-president-hits-out-at-us-at-unga-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-president-masoud-pezeshkian-speech_2026091788897.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -248,100 +232,100 @@
     ],
     "sports": [
         {
-            "id": "5173f34aa8a8",
-            "feed": "lokmat",
-            "title": "मीराबाई चानूने संपवला ‘दुष्काळ’, ४९ किलो वजन गटात मिळवले रौप्य : आशियाई क्रीडा स्पर्धेमध्ये २८ वर्षांनी भारोत्तोलनात पदक",
+            "id": "33c5b79c29bb",
+            "feed": "esakal",
+            "title": "Asian Games: कधी दिल्लीत चालवायचा उबर, आज जिंकलंय भारतासाठी मेडल; 'हा' सलमान खान नक्की कोण?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-24T06:57:42",
-            "url": "https://www.lokmat.com/other-sports/asian-games-mirabai-chanu-ends-drought-wins-silver-in-49-kg-weight-category-weightlifting-medal-after-28-years-at-asian-games-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mirabai-chanu-1_2026091788956.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "c8365772b87a",
-            "feed": "lokmat",
-            "title": "जय मीणाने सॉफ्ट टेनिसमध्ये जिंकले ऐतिहासिक कांस्य पदक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-24T06:36:27",
-            "url": "https://www.lokmat.com/other-sports/jai-meena-wins-historic-bronze-medal-in-soft-tennis-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jay-meena-1_2026091788952.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "a0da30423d38",
-            "feed": "lokmat",
-            "title": "गोव्यात डिसेंबरमध्ये रंगणार आयपीएलचा मिनी लिलाव; तीन वर्षांनी भारतात आयोजन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-24T06:25:00",
-            "url": "https://www.lokmat.com/cricket/news/ipl-mini-auction-to-be-held-in-goa-in-december-to-be-held-in-india-after-three-years-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ipl-auciton20213_202101553200.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "business": [
-        {
-            "id": "959219290a9d",
-            "feed": "maharashtratimes",
-            "title": "Success Story: 10000 कर्ज घेऊन सुरु केला व्यवसाय; Pepe, Levis ला टक्कर देत उभी आज करतोय 400 कोटींची उलाढाल; कमल खुशलानींचा यशस्वी प्रवास",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-09-24T07:11:00",
-            "url": "https://maharashtratimes.com/business/business-news/success-story-of-kamal-khushlani-from-financial-hardship-to-building-400-crore-mufti-fashion-empire/articleshow/134430758.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e2200fd8bd66",
-            "feed": "lokmat",
-            "title": "पिकांना पाण्याची गरज, लाईटीचा पत्ता नाही, वीजपुरवठ्याचे वेळापत्रक विस्कळीत, शेतकरी चिंतेत",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-23T20:34:54",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/agriculture-news-crops-need-water-no-electricity-power-supply-schedule-disrupted-farmers-worried-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saur-uraja_2026091788894.jpeg",
+            "published": "2026-09-24T12:45:51",
+            "url": "https://www.esakal.com/krida/who-is-salman-khan-ex-uber-driver-wins-historic-rowing-bronze-medal-for-india-at-asian-games-2026-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/2onjg4fd/Salman-Khan-Satnam-Singh-Asian-Games.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "b755452c2210",
+            "id": "f6d4db3a09c1",
+            "feed": "esakal",
+            "title": "CSK पाठोपाठ मुंबई इंडियन्स फ्रँचायझीने केली नव्या प्रशिक्षकाची घोषणा! RCB चा कोच फोडला, कोण आहे तो?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-24T12:26:08",
+            "url": "https://www.esakal.com/krida/cricket/mumbai-indians-appoint-luke-williams-as-wpl-head-coach-ahead-of-2027-season-replaces-lisa-keightley-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/cu5pw0mw/Luke-Williams-appointed-Mumbai-Indians-WPL-head-coach-2027",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fcfe58e52042",
+            "feed": "esakal",
+            "title": "Asian Games 2026: चीनने शतक झळकावले!  भारत पदकतालिकेत रेंगाळतोय; जपान, कोरिया, कझाकस्तानही पुढे; आपण कुठे आहोत?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-24T12:09:20",
+            "url": "https://www.esakal.com/krida/china-completes-100-medals-at-asian-games-2026-where-does-india-stand-japan-korea-ahead-in-medal-standing-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/3zyahab5/Asian-Games-2026-medal-tally-India-latest-update",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "business": [
+        {
+            "id": "2a0dda06dce0",
             "feed": "lokmat",
-            "title": "एका चार्जिंगवर किती वेळ चालला पाहिजे तुमचा लॅपटॉप? जाणून घ्या बॅकअपचे अचूक गणित",
+            "title": "IRDAI चा विमा कंपन्यांना दणका; ICICI प्रुडेन्शियल आणि HDFC लाइफच्या शेअर्समध्ये मोठी घसरण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-09-24T13:17:32",
+            "url": "https://www.lokmat.com/business/stock-market/irdais-blow-to-insurance-companies-icici-prudential-and-hdfc-life-shares-fall-sharply-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-insurance-stocks_2026091789212.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "93b165c67e4a",
+            "feed": "lokmat",
+            "title": "आर्थिक अडचणीत असलेल्या आदिनाथ साखर कारखान्याची अखेर विक्री; आता कारखाना कुणाच्या ताब्यात?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-23T19:46:46",
-            "url": "https://www.lokmat.com/tech/how-long-should-your-laptop-last-on-a-single-charge-learn-the-exact-math-of-backup-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/laptop-battery-life_2026091788863.jpg",
+            "published": "2026-09-24T13:09:44",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/financially-distressed-adinath-sugar-factory-finally-sold-who-is-in-control-of-the-factory-now-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/adinath-sugar_2026091789184.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b159be614200",
+            "feed": "lokmat",
+            "title": "Dragon Fruit Farming : दुष्काळातही शेती फुलवली; अर्ध्या एकरातील ड्रॅगन फ्रूटमधून २ लाखांचे उत्पन्न, जाणून घ्या यशाचं गणित",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-24T12:46:00",
+            "url": "https://www.lokmat.com/agriculture/success-story/latest-news-dragon-fruit-farming-agriculture-flourished-even-during-drought-income-of-rs-2-lakh-from-half-an-acre-of-dragon-fruit-know-the-math-of-success-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dragon-fruit-1_2026091789111.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
