@@ -1,165 +1,165 @@
 {
-    "lastUpdated": "26-09-2026 | 09:09 PM IST",
+    "lastUpdated": "27-09-2026 | 12:20 AM IST",
     "maharashtra": [
         {
-            "id": "b5bd0ec01936",
+            "id": "a750e4d6974b",
+            "feed": "maharashtratimes",
+            "title": "Vidarbha Drought: विदर्भातील ९५ तालुक्यांमध्ये दुष्काळ जाहीर; सर्वत्र ‘ट्रिगर-१’ लागू, पंचनाम्याची प्रक्रिया तातडीने सुरू होणार",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-26T23:52:27",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/drought-declared-in-95-talukas-of-vidarbha-immediate-relief-process-for-farmers-to-start/articleshow/134509043.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5e7d9e441fd2",
             "feed": "esakal",
-            "title": "Dharashiv News : आदित्य ठाकरे, अंबादास दानवे यांनी धाराशिव जिल्ह्यातील दुष्काळी परिस्थितीचा केला पाहणी दौरा; शेतकऱ्यांनी अत्यंत पोटतिडकीने आपल्या व्यथा मांडल्या",
+            "title": "Pune University : पुणे विद्यापीठाचा विद्यार्थ्यांना मोठा दिलासा! भोजनगृहाची दरवाढ रद्द, दुष्काळग्रस्त विद्यार्थ्यांना परीक्षा शुल्क माफी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-09-26T21:05:12",
-            "url": "https://www.esakal.com/marathwada/dharashiv-drought-aditya-thackeray-ambadas-danve-farmers-visit-agriculture-loss-rain-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/urbtil8t/Aditya-Thackeray-and-Ambadas-Danave-Visit-to-drought-area-in-dharashiv-district",
+            "published": "2026-09-26T23:40:35",
+            "url": "https://www.esakal.com/pune/pune-university-cancels-mess-fee-hike-and-waives-exam-fees-for-drought-hit-students-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-06-07/yhcn8dci/sudhir-jadhav-satara-15.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "6d5c710c2317",
+            "id": "d7106418d5e8",
             "feed": "lokmat",
-            "title": "Thane Crime: 'तुम्ही पहलगाम हल्ल्यात सहभागी आहात', उल्हासनगरमधील व्यक्तीकडून १९ लाख रुपये उकळले",
+            "title": "\"माझा मुलगा तर गेला, पण सत्य बाहेर आले पाहिजे...\"; विद्यार्थ्यांच्या आंदोलनात आता साहिलचे आई-वडीलही सामील",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-26T21:01:39",
-            "url": "https://www.lokmat.com/thane/thane-crime-you-are-involved-in-pahalgam-attack-rs-19-lakh-extorted-from-a-person-in-ulhasnagar-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pahalgam-attack-thane-digital-arrest_2026091790611.jpg",
+            "published": "2026-09-26T23:37:48",
+            "url": "https://www.lokmat.com/mumbai/my-son-is-gone-but-the-truth-must-come-out-sahils-parents-now-join-the-students-protest-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sahil-wakode-family_2026091790618.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "653132e6a841",
-            "feed": "esakal",
-            "title": "Police Commissioner Amitesh Kumar : ध्वनी मर्यादेचे उल्लंघन करणाऱ्यांवर कठोर कारवाई; वेळेपेक्षा भाविकांच्या सुरक्षेला प्राधान्य",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-26T20:56:54",
-            "url": "https://www.esakal.com/pune/pune-ganesh-immersion-police-crackdown-on-noise-violations-police-commissioner-amitesh-kumar-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/p55r7f8x/Police-COmmissioner-Amitesh-Kumar",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c943caad0a66",
-            "feed": "esakal",
-            "title": "Karad Ganpati Visarjan : कऱ्हाडच्या मिरवणुकीत दिसली बदलाची चाहूल; डीजेच्या दणदणाटापेक्षा वाद्यांचा गजर, गुलालएेवजी खुलला भक्तीचा रंग",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-26T20:50:50",
-            "url": "https://www.esakal.com/satara/karad-ganpati-visarjan-traditional-music-over-dj-discipline-devotion-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/w28o2npl/karad-ganpati-visarjan",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "082dd335ed5d",
+            "id": "776024fbbc23",
             "feed": "lokmat",
-            "title": "उल्हासनगरात फटाके फोडणाऱ्या, वाहतूक कोंडी करणऱ्यांवर गणेश मंडळांवर गुन्हे, एका ठिकाणी हाणामारी",
+            "title": "उपराजधानीत तीन अल्पवयीन मुलींवर बलात्कार; दोघी गर्भवती, विद्यार्थिनीचे अपहरण करून अत्याचार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-26T20:34:55",
-            "url": "https://www.lokmat.com/thane/crimes-against-ganesh-mandals-crackers-traffic-jams-in-ulhasnagar-clashes-at-one-place-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dj-fir-thane_2026091790605.jpg",
+            "published": "2026-09-26T23:27:17",
+            "url": "https://www.lokmat.com/nagpur/three-minor-girls-raped-in-the-sub-capital-two-pregnant-student-kidnapped-and-tortured-a-a877-c1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-case_2026091790617.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "47e9a94ace65",
+            "feed": "maharashtratimes",
+            "title": "Samruddhi Highway : आई-वडिलांना सरप्राईज द्यायला निघाले अन् काळाने वाटेतच गाठले, पुण्यातील पती-पत्नीसह चिमुकल्याचा जागीच मृत्यू",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-26T22:46:26",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/horrific-accident-on-samruddhi-highway-family-from-pune-dies-on-the-spot-father-accuses-administration/articleshow/134507946.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "165e57d1ab21",
-            "feed": "esakal",
-            "title": "गोल की चौकोन... बांधकामासाठी कोणत्या प्रकारचे खांब अधिक मजबूत?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-26T21:00:00",
-            "url": "https://www.esakal.com/ampstories/web-story/round-or-square-which-type-of-pole-is-stronger-for-construction-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/26wz5559/Round-and-Square-columns-used-in-construction.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "810bcfe49a5b",
+            "id": "1ec37c84f5a8",
             "feed": "maharashtratimes",
-            "title": "अरे राजा, तू फक्त 18 वर्षांचा आहेस, 3 वर्ष थांब! पोलीस बापाची विनवणी; मुलगा ऐकेना, जीव घेतला",
+            "title": "पंचांग 27 September 2026: प्रतिपदा, नवम पंचम योग, हंस राजयोग, लक्ष्मी नारायण योग, मालव्य राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-26T20:51:38",
-            "url": "https://maharashtratimes.com/india-news/chandigarh-cop-shot-dead-by-teen-son-for-telling-him-to-wait-till-21-to-marry-girlfriend/articleshow/134506847.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "019a1e2268ef",
-            "feed": "maharashtratimes",
-            "title": "Sarva Pitru Amavasya 2026 Date : पितृपक्षातील सर्वात मोठी सर्वपितृ अमावस्या केव्हा आहे जाणून घ्या तिथी व तारीख",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-26T20:51:17",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/sarva-pitru-amavasya-2026-date-tithi-pitru-paksha/articleshow/134506941.cms",
+            "published": "2026-09-27T00:10:15",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-27-september-in-marathi-pratipada-navam-pancham-yog-hansa-rajyog-and-shubha-muhurta/articleshow/134508082.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "e4817d0d9783",
-            "feed": "esakal",
-            "title": "ज्ञानेश कुमारांना हटवणं सोपं नाही, नोटीस ते राष्ट्रपतींच्या आदेशापर्यंत अनेक टप्पे; कशी असते प्रक्रिया?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-26T20:47:36",
-            "url": "https://www.esakal.com/desh/gyanesh-kumar-removal-how-does-the-cec-impeachment-process-work-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/m8ewo19v/cec-gyanesh-kumar.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "dac9d4fed86e",
+            "id": "0fb98903e04f",
             "feed": "lokmat",
-            "title": "सामूहिक अत्याचारप्रकरणी आरोपींना अटक, तीन दिवसांची पोलिस कोठडी",
+            "title": "\"दहशतवादाला पाठीशी घालणाऱ्यांची खैर नाही!\", परराष्ट्र मंत्री एस. जयशंकर यांनी UNGAमध्ये पाकिस्तानला फटकारले",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-09-26T23:57:47",
+            "url": "https://www.lokmat.com/national/those-who-support-terrorism-will-not-be-spared-external-affairs-minister-s-jaishankar-slams-pakistan-at-unga-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/s-jaishankar-2_2026091790619.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "263c8804099d",
+            "feed": "esakal",
+            "title": "पेशव्यांच्या मुलीला इंग्रजांनी का जाळले? पाहा १४ वर्षांच्या मैनावतीची थरारक कहाणी!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-26T20:39:12",
-            "url": "https://www.lokmat.com/vardha/accused-arrested-in-gang-rape-case-remanded-in-three-day-police-custody-a-a793-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-47_2026091790608.png",
+            "published": "2026-09-26T23:25:56",
+            "url": "https://www.esakal.com/ampstories/web-story/mainavati-peshwa-1857-revolt-martyr-story-teenage-burned-by-british-history-why-british-burned-peshwa-daughter-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-26/gu7xejqu/.Tragic-Sacrifice-The-Story-of-Mainavati-Peshwa-and-the-1857-Revoltpng",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "932b593fd6d0",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 27 सप्टेंबर 2026 : मालव्य राजयोगचा तूळ सहित 4 राशींना लाभ,प्रॉपर्टी खरेदीचे बनणार योग ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-26T23:19:56",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-27-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134508541.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "0fa0a49732f3",
+            "feed": "esakal",
+            "title": "मुघल मटणामध्ये सोनं मिसळून का खायचे?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-26T23:03:21",
+            "url": "https://www.esakal.com/ampstories/web-story/why-mughals-used-gold-in-mutton-food-royal-kitchens-gold-varq-mughlai-cuisine-history-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-26/n4ng6mss/3.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -298,52 +298,52 @@
     ],
     "business": [
         {
-            "id": "11f2249b6d79",
+            "id": "631bf7c31a06",
             "feed": "maharashtratimes",
-            "title": "Gold Outlook : येत्या वर्षात सोने महागणार! गुंतवणूकदारांची बल्ले-बल्ले, ICICI बँकेचा रिसर्च अहवाल",
+            "title": "भारताच्या GDP वाढीसाठी निर्मला सीतारामन यांचा मास्टरप्लॅन तयार! थेट 10 टक्क्यांपेक्षा जास्त वेग गाठण्याचा दावा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-09-26T20:42:01",
-            "url": "https://maharashtratimes.com/business/business-news/icici-bank-research-report-about-gold-price-hike-in-h1-2027/articleshow/134505647.cms",
+            "published": "2026-09-26T23:45:54",
+            "url": "https://maharashtratimes.com/business/business-news/nirmala-sitharaman-about-indian-economy-gdp-growth-rate-more-than-10-percent/articleshow/134508912.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "88b54d783835",
+            "id": "59c6bdd2cfb4",
             "feed": "lokmat",
-            "title": "खाद्यतेलांवरील आयात शुल्कात कपात, आता कच्च्या सूर्यफूल, सोयाबीन, पाम तेलावर सीमा शुल्क किती लागेल?",
+            "title": "चॅटजीपीटीवर चुकूनही करू नका 'ही' ५ कामे; प्रायव्हसी आणि सुरक्षेला येऊ शकतो मोठा धोका!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-26T20:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/import-duty-on-edible-oils-reduced-now-how-much-customs-duty-will-be-charged-on-raw-sunflower-soybean-palm-oil-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pam-tel_2026091790585.jpeg",
+            "published": "2026-09-26T22:24:23",
+            "url": "https://www.lokmat.com/tech/dont-do-these-5-things-on-chatgpt-by-mistake-privacy-and-security-can-be-at-great-risk-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ai-q_2026091790616.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "a6ff6d242174",
-            "feed": "lokmat",
-            "title": "अ‍ॅपलच्या ३ लाखांच्या 'आयफोन ड्यूओ'ला थेट टक्कर; 'हे' आहेत ४ स्वस्त आणि मस्त फोल्डेबल फोन्स!",
+            "id": "ec8abd7ac9bd",
+            "feed": "maharashtratimes",
+            "title": "अमेरिका, चीनचं मेतकूट, महासत्तांनी टॅरिफ वॉर मिटवलं; पण भारताचं टेन्शन वाढलं",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
             },
-            "published": "2026-09-26T20:27:52",
-            "url": "https://www.lokmat.com/photos/tech/direct-competition-to-apples-3-lakh-iphone-duo-these-are-4-cheap-and-cool-foldable-phones-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/apple-duo2_2026091790601.jpg",
+            "published": "2026-09-26T21:42:06",
+            "url": "https://maharashtratimes.com/business/business-news/usa-and-china-tariff-cut-trade-deal-can-be-impact-india-know-in-details/articleshow/134507326.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ]
 }
