@@ -1,82 +1,82 @@
 {
-    "lastUpdated": "26-09-2026 | 12:21 PM IST",
+    "lastUpdated": "26-09-2026 | 05:27 PM IST",
     "maharashtra": [
         {
-            "id": "68765d6c1d9a",
+            "id": "e6b169677692",
+            "feed": "esakal",
+            "title": "Ambulance : ‘रुग्‍णवाहिका हवीये, दीड तास वाट पाहा’! डायल १०८ रुग्‍णवाहिकेच्‍या हेल्पलाईनचे अजब उत्‍तर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-26T17:22:00",
+            "url": "https://www.esakal.com/pune/pune-dial-108-ambulance-delay-ganesh-procession-helpline-controversy",
+            "image": "https://cf-images.assettype.com/esakal/2021-04/2d26b7b0-d14f-4773-87c8-5486fe0e6450/Ambulance_1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f871f089e12f",
+            "feed": "lokmat",
+            "title": "पान खाऊन थुंकला, रस्त्यावर कचरा फेकला; कारवर भाजपाचा स्टिकर, संतापजनक Video व्हायरल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-26T17:15:10",
+            "url": "https://www.lokmat.com/social-viral/video-man-spits-paan-throws-bottle-from-suv-with-bjp-sticker-on-mumbai-road-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-vdo_2026091790513.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "e8c4533a0c14",
+            "feed": "esakal",
+            "title": "Ganesh Mandal Donation: डिंगोरे गावात गणेशोत्सवातून ज्ञानमंदिराला हातभार; पुष्पावती विद्यालयाला एक लाख रुपयांची मदत",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-26T17:10:43",
+            "url": "https://www.esakal.com/pune/dingore-ganesh-mandal-donation-pushpawati-vidyalaya-school-building-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-26/9kidstd9/1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0f254739ebd0",
+            "feed": "lokmat",
+            "title": "वचन दिलं, कोर्ट मॅरेज केलं… लग्नानंतर धर्मांतरासाठी दबाव; आर्किटेक्ट तरुणीची पोलिसांत धाव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-26T17:09:14",
+            "url": "https://www.lokmat.com/nagpur/promise-made-court-marriage-done-pressure-to-convert-after-marriage-young-architect-goes-to-police-a-a1000/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-37_2026091790507.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "30c81dcec0e5",
             "feed": "maharashtratimes",
-            "title": "दुष्काळानं सगळंच हिरावलं, शेतकऱ्यांना अश्रू अनावर; सुनेत्रा पवारांनी बळीराजाला धीर दिला",
+            "title": "पंढरपुरात Supriya Sule यांच्या भाषणातच शेतकऱ्याचा आक्रोश, सुळे काय म्हणाल्यात पाहुया?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-26T12:17:13",
-            "url": "https://maharashtratimes.com/maharashtra/nanded/drought-hit-farmers-break-down-in-tears-sunetra-pawar-consoles-them/videoshow/134499209.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e051191dcc28",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update : लालबागच्या राजाचं 24 तासांनंतर विसर्जन, भाविकांचे पाणावले डोळे; समुद्रकिनारी मोठी गर्दी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-26T12:15:59",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-26-september-2026-ganeshotsav-lalbaugcha-raja-ganpati-visarjan-cjp-demand-resignation-chief-election-commissioner-gyanesh-kumar-weather-update-imd-kolhapur-gokul-election-tukaram-mundhe-fda-actions-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-bam92-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c9a819823316",
-            "feed": "esakal",
-            "title": "Maharashtra Drought Trigger 1 : ट्रिगर-१ म्हणजे काय? शेतकऱ्यांना कोणत्या सवलती मिळणार?; विविध सवलतींचा मार्ग मोकळा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-26T12:07:18",
-            "url": "https://www.esakal.com/maharashtra/what-is-trigger-1-in-maharashtra-drought-know-the-concessions-available-to-farmers-including-crop-loan-restructuring-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/c3ld7f2c/sandeep-shirguppe-2026-09-26T120638.226.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2e92f36894c1",
-            "feed": "esakal",
-            "title": "Indapur News :शेटफळ तलावामध्ये पाणी सोडण्याचा निर्णय; हर्षवर्धन पाटील ;शनिवारपासून तलावात पाणी येणार.",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-26T12:07:13",
-            "url": "https://www.esakal.com/pune/shetphal-lake-nira-left-canal-water-release-harshvardhan-patil-indapur-pune-irrigation-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/6na5bl0o/Sakal-Money-47.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0966a5ec440f",
-            "feed": "maharashtratimes",
-            "title": "Maharashtra Drought: शेतकऱ्यांसाठी मोठा दिलासा; २६५ तालुक्यांत सरकारकडून दुष्काळ जाहीर, कोणत्या भागांचा समावेश, काय सवलती मिळणार? जाणून घ्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-26T12:05:50",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/drought-declared-in-265-talukas-of-maharashtra-farmers-to-receive-various-incentives/articleshow/134498952.cms",
+            "published": "2026-09-26T17:08:28",
+            "url": "https://maharashtratimes.com/maharashtra/solapur/a-farmer-voiced-his-anguish-right-during-supriya-sules-speech-in-pandharpur-lets-see-what-she-had-to-say-/videoshow/134503650.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -84,266 +84,266 @@
     ],
     "india": [
         {
-            "id": "95592359c08a",
-            "feed": "esakal",
-            "title": "वानर थेट वाइन शॉपमध्ये घुसला; दारू प्यायली अन् पुढे जे घडलं ते पाहून लोकंही थक्क",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-26T11:54:19",
-            "url": "https://www.esakal.com/trending-news/monkey-enters-wine-shop-drinks-alcohol-and-falls-asleep-in-ranchi-jharkhand-news-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/19ze65vo/Monkey-Enters-Wine-Shop-in-Ranchi",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "3b8d4431471d",
+            "id": "41d908f68394",
             "feed": "lokmat",
-            "title": "आजचा अग्रलेख: छोट्या राज्याची मोठी निवडणूक, गोव्यावर राष्ट्रीय नेत्यांचे लक्ष",
+            "title": "मुश्ताक खान यांच्या अंत्यसंस्काराला बॉलिवूडच्या बड्या स्टार्सची गैरहजेरी, रझा मुराद म्हणाले- \"उद्योगपतीच्या मुलाचे लग्न असेल, तर...\"",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-26T11:53:32",
-            "url": "https://www.lokmat.com/editorial/todays-editorial-big-election-for-a-small-state-national-leaders-focus-on-goa-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/goa-vidhansabha_2023121146413.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5021e58d5d91",
-            "feed": "esakal",
-            "title": "तो क्षण आला... ! लालबागच्या राजाचा भावूक निरोप, पाहा विसर्जनाचे खास क्षण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-26T11:53:04",
-            "url": "https://www.esakal.com/ampstories/web-story/lalbaugcha-raja-visarjan-sohala-2026-completed-ganesh-murti-last-darshan-see-photo-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/b9v2psr3/Lalbaugcha-Raja-Visarjan-Photos.jpg",
+            "published": "2026-09-26T17:23:00",
+            "url": "https://www.lokmat.com/filmy/bollywoods-big-stars-not-attend-mushtaq-khans-funeral-raza-murad-angry-and-upset-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bollywoods-big-stars-not-attend-mushtaq-khans-funeral-raza-murad-angry-and-upset_2026091790521.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "7122a15d5fbd",
+            "id": "ab9e1a61f1f0",
+            "feed": "lokmat",
+            "title": "रात्रीच्या अंधारात मुलींच्या वसतिगृहातून कसले विचित्र आवाज? विद्यार्थिनींचा गोंधळ; नेमकं प्रकरण काय?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-09-26T17:15:26",
+            "url": "https://www.lokmat.com/national/what-strange-noises-are-coming-from-the-girls-hostel-in-the-dark-of-night-the-students-are-in-a-state-of-confusion-what-is-the-real-issue-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/girls-hostel-news_2026091790503.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "83412f769f1b",
             "feed": "esakal",
-            "title": "‘इन्स्पेक्टर मंजू’मध्ये लग्नाची धामधूम; सत्या-मंजूच्या लग्नाला मिळणार ज्येष्ठांचे आशीर्वाद; अंतरपाटावर उमटलं चाहत्यांचं प्रेम",
+            "title": "Leg Cramps: रात्री पायात तीव्र कळ; \nस्नायू आखडतात अन् झोप उडते! जाणून घ्या शरीरातील पाण्याची कमतरता की गंभीर आजार?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-26T11:52:39",
-            "url": "https://www.esakal.com/premier/inspector-manju-serial-satya-manju-wedding-celebration-brings-senior-blessings-and-fans-love-during-the-much-awaited-marriage-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/ida05htr/INSPECTOR-MANJU.png",
+            "published": "2026-09-26T17:13:22",
+            "url": "https://www.esakal.com/lifestyle/leg-cramps-at-night-causes-symptoms-remedies-marathi-dehydration-or-disease-severe-pain-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-26/zhfzx891/Why-Do-Leg-Cramps-Happen-at-Night-Causes-Warning-Signs-and-Relief-Tips.png",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "9e50f16784fa",
-            "feed": "maharashtratimes",
-            "title": "Dev Anand  Interesting Facts: बॉलिवूडच्या सुपरस्टारला परदेशी नागरिकानं समजलं होतं 'टॅक्सी ड्रायव्हर', काय घडेललं नेमकं?",
+            "id": "8a91bef9afe2",
+            "feed": "lokmat",
+            "title": "‘‘शूटिंगनंतर बॅक टू नॉर्मल व्हायला वेळ लागायचा”; श्रेया बुगडेने सांगितलं कलाकारांचं न दिसणारं वास्तव",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-26T11:51:02",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/dev-anand-birth-anniversary-interesting-facts-about-taxi-driver-actor/articleshow/134498713.cms",
-            "image": "",
+            "published": "2026-09-26T17:12:56",
+            "url": "https://www.lokmat.com/filmy/television/it-took-time-to-get-back-to-normal-after-shooting-shreya-bugade-opens-up-about-the-untold-reality-of-actors-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shreya-bugde-on-mental-health_2026091790511.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "39cd7020dafa",
+            "feed": "lokmat",
+            "title": "आयत्यावेळी डाळ झाली पाण्यासारखी पातळ, लागते बेचव? ७ ट्रिक्स - डाळ होईल मिनिटभरात हॉटेलसारखीच घट्ट, दाटसर...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-26T17:05:02",
+            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-thicken-watery-dal-watery-dal-thickening-tips-how-to-make-dal-thicker-easy-ways-to-thicken-dal-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-thicken-watery-dal_2026091788949.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "8cb24ba7ee18",
-            "feed": "lokmat",
-            "title": "\"लादेनला आश्रय, फॉर्म ४७ सरकार अन्...!\"; UN मध्ये भारतानं पाकिस्तानचा बुरखा टराटरा फाडला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-26T11:13:38",
-            "url": "https://www.lokmat.com/international/housing-bin-laden-form-47-government-and-pok-india-petal-gahlot-tore-pakistans-veil-at-un-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hejdtindia-pakistan-htd_2026091790294.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9b6257e7fd04",
-            "feed": "lokmat",
-            "title": "आम्ही ३ अटींसह ७ दिवसांत होर्मुझ उघडण्यास  तयार, आता निर्णय अमेरिकेने घ्यावा, इराणची ऑफर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-26T06:47:48",
-            "url": "https://www.lokmat.com/international/we-are-ready-to-open-hormuz-in-7-days-with-3-conditions-america-should-take-the-decision-now-irans-offer-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hormuz-iran-usa-2_2026091790245.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0536e273e028",
-            "feed": "lokmat",
-            "title": "काळा चष्मा, राकट अंदाज आणि UNGAमधील भाषण; नेपाळच्या पंतप्रधानांचा हा हटके लूक का चर्चेत?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-25T23:52:24",
-            "url": "https://www.lokmat.com/international/dark-glasses-a-sharp-look-and-a-speech-at-the-unga-why-is-this-unusual-look-of-the-nepali-prime-minister-in-the-news-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/balen-shah-look1_2026091790240.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "cff58dc96772",
+            "id": "e90bc2ea1711",
             "feed": "maharashtratimes",
-            "title": "फक्त 25 माशे उरले, अटलांटिक सॅल्मनला वाचवण्यासाठी 60 वर्षं जुनं धरण तोडलं, अमेरिकेचा अनोखा प्रयोग",
+            "title": "इराणसोबत शांततेचा प्रस्ताव ट्रम्प यांनी धुडकावला, होर्मुझचे नामकरण करून सांगितलं युद्ध पुन्हा कधी सुरू होणार!",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-09-25T23:29:12",
-            "url": "https://maharashtratimes.com/international/international-news/a-60-year-old-dam-demolished-to-save-atlantic-salmon/articleshow/134490210.cms",
+            "published": "2026-09-26T16:01:30",
+            "url": "https://maharashtratimes.com/international/international-news/donald-trump-rejected-peace-proposal-from-iran-and-gave-new-name-trump-strait/articleshow/134500591.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "2ae6b08efec3",
-            "feed": "esakal",
-            "title": "नेपाळ देशात चिमुकल्या मुलींची 'कुमारी पूजा' का केली जाते?",
+            "id": "83bf4fb07348",
+            "feed": "lokmat",
+            "title": "'प्रहार'मध्ये उज्वल निकम यांच्या भूमिकेत दिसणार राजकुमार राव, म्हणाला, \"ऑफर आली तेव्हा...\"",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-25T22:38:53",
-            "url": "https://www.esakal.com/ampstories/web-story/nepal-country-history-kathmandu-kumari-puja-tradition-indra-jatra-hanuman-dhoka-girl-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-25/4btmcuma/Sacred-Girl-Worship-Ritual-in-Nepalpng",
+            "published": "2026-09-26T15:25:00",
+            "url": "https://www.lokmat.com/filmy/bollywood/rajkummar-rao-who-will-be-seen-playing-the-role-of-ujjwal-nikam-in-prahaar-said-i-was-nervous-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rajkumar-kbc_2026091790459.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "21a19e6e99de",
+            "feed": "lokmat",
+            "title": "इराणच्या त्या मिसाईलचं भय, अमेरिकन नौदलात पळापळ, बलाढ्य युद्धनौका समुद्रातून १२०० किमीपर्यंत हटल्या मागे",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-26T14:54:49",
+            "url": "https://www.lokmat.com/international/fear-of-irans-missile-us-navy-flees-powerful-warships-retreat-1200-km-from-sea-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-army-news-1121_2026091790413.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "87e3263065ee",
+            "feed": "maharashtratimes",
+            "title": "मुलीला शिडीवरून कोणी पाडलं खाली? A B की C, चित्र नीट पाहा आणि हे व्हायरल कोडं सोडवून दाखवा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-26T13:15:49",
+            "url": "https://maharashtratimes.com/viral/viral-news/only-sharp-minds-can-solve-this-observation-puzzle-who-is-responsible-for-the-girls-fall/articleshow/134500098.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "77634c21d6c3",
+            "feed": "maharashtratimes",
+            "title": "इराणनंतर सौदी अरेबिया अमेरिका, इस्रायलच्या निशाण्यावर? आधी हूतींविरोधात मदत करण्यास माघार, आता कथित अणुबॉम्बचा रिपोर्ट सार्वजनिक",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-26T12:58:16",
+            "url": "https://maharashtratimes.com/international/international-news/us-assessment-warns-that-saudis-arabia-has-not-ruled-out-developing-nuclear-weapons/articleshow/134499412.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "4173af1ddfd6",
+            "id": "298bdc81e45f",
+            "feed": "lokmat",
+            "title": "धोनी की गांगुली? सर्वोत्तम कर्णधार कोण? १९८३ च्या विश्वविजेत्या खेळाडूचं मोठं विधान!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-09-26T17:16:52",
+            "url": "https://www.lokmat.com/cricket/news/ms-dhoni-vs-sourav-ganguly-who-is-the-best-captain-big-statement-from-the-1983-world-cup-winner-sandeep-patil-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dhoni-ganguli_2026091790515.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "303d9a831023",
+            "feed": "esakal",
+            "title": "Asian Games, Cricket: भारताच्या सुवर्णपदकाच्या शर्यतीला होणार सुरुवात! 'या' संघाविरुद्ध क्वार्टर-फायनलचा सामना, पाहा Schedule",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-26T17:03:50",
+            "url": "https://www.esakal.com/krida/cricket/india-face-afghanistan-asian-games-2026-cricket-quarter-final-on-september-28-schedule-venue-time-how-to-watch-live-streaming-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-26/m7yw3wfa/Team-India-Asian-Games-2026.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "17b08fcfbfa0",
+            "feed": "esakal",
+            "title": "IND vs WI: विराट कोहली इतिहास घडवणार? सचिन तेंडुलकरला मागे टाकत ३ वर्ल्ड रेकॉर्ड करण्याची संधी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-26T16:14:46",
+            "url": "https://www.esakal.com/krida/cricket/virat-kohli-eyes-historic-15-thousand-odi-runs-and-major-records-in-india-vs-west-indies-series-can-surpass-sachin-tendulkar-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-26/5dasin32/Virat-Kohli-India-vs-West-Indies.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "business": [
+        {
+            "id": "9c140a62f4b0",
+            "feed": "lokmat",
+            "title": "Raj Kesar Mango : केशरला नवा पर्याय! 'राज केशर' आंब्याला मान्यता; १० दिवस आधी बाजारात, गोडवाही अधिक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-26T17:09:20",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-raj-kesar-mango-new-alternative-to-saffron-raj-kesar-mango-approved-10-days-ahead-in-the-market-sweeter-too-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raj-kesar-mango-1_2026091790508.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "cf8f8782f82a",
             "feed": "maharashtratimes",
-            "title": "Kabaadi Gold : भारतीय महिला कबड्डी संघाला सुवर्णपदक, श्वास रोखणारा थरार; 27-26 च्या अटीतटीच्या वळणावर कसा खेचून आणला 'सुवर्ण' विजय",
+            "title": "भारतासाह इतर 11 देशांत UPI व्यवस्था, तिथल्या व्यापाऱ्यांचं काय? MDR बाबत सरकारचे आंतरराष्ट्रीय धोरण",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "sports"
+                "category": "business"
             },
-            "published": "2026-09-26T11:53:01",
-            "url": "https://maharashtratimes.com/sports/other-sports/india-won-the-2026-asian-games-womens-kabaddi-gold-medal-defeating-iran/articleshow/134498739.cms",
+            "published": "2026-09-26T16:56:58",
+            "url": "https://maharashtratimes.com/business/business-news/mdr-will-be-charge-in-11-countries-know-about-upi-global-rules/articleshow/134502963.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b50fdb065e99",
+            "id": "dbdf35b30ced",
             "feed": "esakal",
-            "title": "Hardik Pandya : हार्दिक पांड्याला १०-१५ दिवस कोणतीही शारीरिक हालचाल करण्यास मनाई; नेमकं असं काय झालंय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-09-26T11:28:07",
-            "url": "https://www.esakal.com/krida/cricket/hardik-pandya-set-to-miss-australia-a-series-after-fresh-shin-injury-new-zealand-t20is-in-doubt-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2025-01-03/imco54qi/Hardik-Pandya-.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0a3e733ceb61",
-            "feed": "esakal",
-            "title": "Barityatu Hockey School : खेडेगावातली शाळा बनली भारतीय महिला हॉकीची 'नर्सरी'; ऑलिम्पिकपटूंपासून कर्णधारांपर्यंत देशाची सेवा",
+            "title": "8th Pay Commission: सरकारी कर्मचाऱ्यांना तब्बल 18 लाख एरियर? काय आहे चर्चेतील गणित? जाणून घ्या संपूर्ण हिशोब",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-26T11:24:07",
-            "url": "https://www.esakal.com/krida/barityatu-ranchi-women-hockey-school-nikki-pradhan-jharkhand-olympic-players-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/bct3ejh6/bariyatu-school-hockey.jpg.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "business": [
-        {
-            "id": "0d71f739539b",
-            "feed": "lokmat",
-            "title": "Maharashtra Drought : राज्यातील 265 तालुक्यांमध्ये दुष्काळ जाहीर, वाचा जिल्हानिहाय संपूर्ण दुष्काळी तालुक्यांची यादी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-26T12:00:54",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/drought-declared-in-265-talukas-of-maharashtra-read-the-complete-list-of-talukas-district-wise-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dushkal-jahir_2026091790308.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "62b3ddd07be1",
-            "feed": "esakal",
-            "title": "Premium|Gold Price 2026 : सोन्याची तेजी पुढेही कायम राहणार का? भावावर परिणाम करणारे घटक कोणते",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-26T12:00:00",
-            "url": "https://www.esakal.com/premium-article/gold-price-2026-outlook-factors-gold-rally-investment-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/vrihcmyq/Abhi-2026-09-26T114439.150.jpg",
+            "published": "2026-09-26T16:56:14",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/8th-pay-commission-18-lakh-arrears-government-employees-fitment-factor-salary-calculation-level-6-7-8-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-26/fb24b6v8/Copy-of-Copy-of-banner-2026-09-26T164601.180.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "ecc3d65b0971",
-            "feed": "lokmat",
-            "title": "खरीप हातातून निसटला;आता तूर-हळदीला पावसाची प्रतीक्षा वाचा सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-26T11:44:42",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-kharif-season-has-slipped-out-of-hand-now-tur-turmeric-is-waiting-for-rains-read-in-detail-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tur-halad-1._2026091790302.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
