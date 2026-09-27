@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "28-09-2026 | 01:25 AM IST",
+    "lastUpdated": "28-09-2026 | 04:11 AM IST",
     "maharashtra": [
         {
             "id": "a9a2d519aa95",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "e86b5367520d",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 28 सप्टेंबर 2026 : सोमवारचा दिवस या राशींसाठी ठरणार भाग्याचा आठवड्याची सुरुवात धमाक्यात  ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-28T01:14:46",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-28-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction-l/articleshow/134525910.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "ddd76f3be34c",
             "feed": "esakal",
             "title": "‘हे’ ठिकाण वेलचीसाठी नाही, तर वेलचीच्या सुगंधासाठी आहे प्रसिद्ध!",
@@ -146,22 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "d4e3c290794b",
-            "feed": "esakal",
-            "title": "Divya Shinde Arrest : बिग बॉस मराठी फेम अभिनेत्रीची पोलीस कोठडीत रवानगी, डॉक्टरसोबत का झालेला वाद?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-27T22:45:00",
-            "url": "https://www.esakal.com/premier/divya-shinde-arrest-big-boss-marathi-actress-pune-retired-medical-officer-assault-five-lakh-demand-police-custody-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-27/p5do9mjq/-2026-09-27T221545.486.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
