@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "27-09-2026 | 03:13 AM IST",
+    "lastUpdated": "27-09-2026 | 05:33 AM IST",
     "maharashtra": [
         {
             "id": "a750e4d6974b",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "31228721fe3f",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 27 September 2026: मूलांक 3 कामाचा प्रभाव, कौतुकाचा योग! मूलांक 9 घाईगडबड, अती विचार कमी करा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-27T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-surya-nakshatra-gochar-27-september-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134508778.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "1ec37c84f5a8",
             "feed": "maharashtratimes",
             "title": "पंचांग 27 September 2026: प्रतिपदा, नवम पंचम योग, हंस राजयोग, लक्ष्मी नारायण योग, मालव्य राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
@@ -144,22 +160,6 @@
             "published": "2026-09-26T23:19:56",
             "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-27-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134508541.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "0fa0a49732f3",
-            "feed": "esakal",
-            "title": "मुघल मटणामध्ये सोनं मिसळून का खायचे?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-26T23:03:21",
-            "url": "https://www.esakal.com/ampstories/web-story/why-mughals-used-gold-in-mutton-food-royal-kitchens-gold-varq-mughlai-cuisine-history-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/n4ng6mss/3.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
