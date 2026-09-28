@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "28-09-2026 | 09:54 PM IST",
+    "lastUpdated": "29-09-2026 | 03:51 AM IST",
     "maharashtra": [
         {
-            "id": "ee9a41ec05ea",
-            "feed": "maharashtratimes",
-            "title": "Narendra Pawar : दोन्ही बाजूंनी जोरदार युक्तिवाद, अखेर न्यायालयाचा नरेंद्र पवारांना दणका, अटकपूर्व जामीन फेटाळला, कोर्टात काय-काय घडलं?",
+            "id": "05e0d2c447f7",
+            "feed": "lokmat",
+            "title": "राऊत यांना एमआयडीसी, तर राजपूतांकडे जरीपटका ठाण्याची जबाबदारी",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-28T21:42:48",
-            "url": "https://maharashtratimes.com/maharashtra/thane/bhiwandi-court-rejected-anticipatory-bail-to-narendra-pawar/articleshow/134546748.cms",
-            "image": "",
+            "published": "2026-09-28T23:45:02",
+            "url": "https://www.lokmat.com/nagpur/raut-gets-midc-while-rajput-gets-jaripatka-police-station-responsibility-a-a877-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-police-transfer4_2026061728747.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "288dfec43380",
+            "id": "ecf8e32fc734",
             "feed": "esakal",
-            "title": "Dharashiv Kirtankar Fight : 'माझी सुपारी का घेतली?'; धाराशिवमध्ये दोन महाराज आपापसात भिडले, थेट हाणामारीनंतर बाल वारकऱ्यांना घेऊन महामार्गावर केलं आंदोलन",
+            "title": "Pune News : ९० कोटीच्या निविदेसाठी आयुक्तांना धमकी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-28T23:39:59",
+            "url": "https://www.esakal.com/pune/pune-mla-threatens-municipal-commissioner-over-90-crore-road-tender-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-22/gsbah2pz/Abhi-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3137c338c27b",
+            "feed": "esakal",
+            "title": "Gutkha Seized : चारोटी टोलनाक्यावर ५० लाखांचा प्रतिबंधित गुटखा जप्त; पाठलाग करून आयशर पकडला",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-28T23:28:49",
+            "url": "https://www.esakal.com/mumbai/palghar-charoti-toll-naka-50-lakh-banned-gutkha-seized-eicher-truck-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-28/1n36v0nk/Gutkha-Seized",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0cf636ef924c",
+            "feed": "esakal",
+            "title": "Murud Accident : मुरूडमध्ये तिहेरी अपघातात एक ठार, दोन जखमी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-28T21:42:01",
-            "url": "https://www.esakal.com/marathwada/aurangabad/dharashiv-kirtankar-fight-kirtan-supari-dispute-child-warkari-highway-protest-traffic-jam-news-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-28/rioaq0cy/Kirtan-Booking-Dispute-Between-Two-Maharajs-Turns-Violent-in-Dharashiv",
+            "published": "2026-09-28T23:13:19",
+            "url": "https://www.esakal.com/marathwada/murud-triple-accident-one-dead-two-injured-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-28/zyjf5go9/Sanjay-Deshmukh",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "c1ee611d74c7",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update: पुणे जिल्हा दूध संघाकडून शेतकऱ्यांना १ रुपयाचा दूधदर फरक",
+            "id": "99be3fd954fe",
+            "feed": "lokmat",
+            "title": "MPSCचा मोठा निर्णय! राज्यसेवा मुख्य परीक्षा पुढे ढकलली; ३ ऑक्टोबरला होता पेपर, नवी तारीख काय?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-28T21:35:43",
-            "url": "https://www.esakal.com/maharashtra/challenge-by-sant-rampalji-lata-mangeshkar-bhagatsingh-inter-miami-bank-strike-maharashtra-drought-relief-ganeshotsav-aftermath-mumbai-incidents-dharavi-redevelopment-iit-bombay-protest-bhamragad-gadchiroli-flood-ymk86-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "281d6b217dcb",
-            "feed": "maharashtratimes",
-            "title": "Marine Drive : मुंबईच्या संवेदनशील आणि हायप्रोफाईल परिसरात चोरांचा सुळसुळाट, मरीन ड्राईव्ह अन् वरळी कोस्टल रोड परिसरात थेट सीसीटीव्हीच्या वायर लंपास",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-28T21:27:54",
-            "url": "https://maharashtratimes.com/maharashtra/navi-mumbai/theft-of-cctv-cameras-cables-along-marine-driveworli-coastal-road/articleshow/134546277.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "53b5382a836d",
-            "feed": "esakal",
-            "title": "Pune Misconduct : बनावट डिजिटल स्वाक्षरीद्वारे कोट्यवधींचा गैरव्यवहार! कंपनीच्या खात्यातून ४ कोटी ३७ लाख रुपये वळविल्याचा आरोप; शिक्षिकेसह व्यावसायिकाचा अटकपूर्व जामीन फेटाळला",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-28T21:18:31",
-            "url": "https://www.esakal.com/pune/pune-digital-signature-fraud-anticipatory-bail-rejected-teacher-misconduct-company-account-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
+            "published": "2026-09-28T23:07:44",
+            "url": "https://www.lokmat.com/maharashtra/mpsc-big-decision-state-service-mains-exam-2026-postponed-the-paper-was-scheduled-for-3-october-before-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-10-at-9.08.29-am_2026091780852.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "6be7d82a543d",
+            "id": "3c0587af2b84",
             "feed": "maharashtratimes",
-            "title": "MPSC Exam Postponed: एमपीएससीचा मोठा निर्णय! तीन मुख्य परीक्षा पुढे ढकलल्या; आयोगाची अधिकृत प्रतिक्रिया",
+            "title": "आजचे राशिभविष्य 29 सप्टेंबर 2026 : चंद्र व मंगळात राशी परिवर्तन योग,या राशींचे होणार सर्वकाही मंगल कमाई वाढणार ! पहा तुमचे राशिभविष्य काय सांगते ?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-28T21:40:57",
-            "url": "https://maharashtratimes.com/career/career-news/mpsc-rajyaseva-mains-group-b-mains-civil-engineering-mains-2026-exam-postponed-2025-paper-re-evaluation/articleshow/134546483.cms",
+            "published": "2026-09-29T00:25:34",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-29-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134549455.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "513ca78696fe",
+            "id": "ec9a7ad1e060",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 29 September 2026: अंगारकी संकष्ट चतुर्थी, भरणी श्राद्ध, गजकेसरी योग, समसप्तक योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-28T23:59:31",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-29-september-in-marathi-angaraki-sankashti-chaturthi-2026-bharni-shraddha-and-shubha-muhurta/articleshow/134548247.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3e4d4cadb465",
             "feed": "esakal",
-            "title": "Traffic Challan Recovery: थकबाकी असलेला ट्रॅफिक दंड आता वीज बिलातून वसूल होणार? सर्वोच्च न्यायालयाची सरकारांना महत्त्वाची सूचना",
+            "title": "दात पिवळे का होतात? जाणून घ्या ६ महत्त्वाची कारणे",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-28T21:26:22",
-            "url": "https://www.esakal.com/desh/supreme-court-suggests-linking-pending-traffic-challans-to-electricity-bills-recovery-measures-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-28/n1jhi0ky/Latest-Marathi-Breaking-News-2026-09-28T212406.683.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e6f7f09da406",
-            "feed": "maharashtratimes",
-            "title": "Ajit Pawar Plane Crash: ‘Muffler Mystery’ चा 10 ऑक्टोबरला खुलासा, VSR Connection ‘मफलर’ रहस्य काय?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-28T21:18:58",
-            "url": "https://maharashtratimes.com/video/mt-originals/ajit-pawar-plane-crash-rohit-pawar-muffler-mystery-vsr-october-10-reveal/videoshow/134546562.cms",
-            "image": "",
+            "published": "2026-09-28T23:59:03",
+            "url": "https://www.esakal.com/ampstories/web-story/why-teeth-turn-yellow-6-common-causes-and-how-to-prevent-tooth-discoloration-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2025-08-05/4soq063j/teeth-damaging-foods-9.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "60d8848b8baa",
+            "id": "a4926d96ddf6",
             "feed": "esakal",
-            "title": "IMD Weather Alert : हवामान खात्याचा मोठा इशारा! 28 राज्यांत जोरदार पावसाची शक्यता; ताशी 60 ते 70 किमी वेगाने वाहणार वारे, महाराष्ट्रात स्थिती काय?",
+            "title": "नळाची तोटी गोलच का असते?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-28T21:11:48",
-            "url": "https://www.esakal.com/desh/maharashtra-india-imd-weather-rain-alert-29-september-28-states-heavy-rain-strong-winds-weather-update-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-28/ckvy7eki/IMD-weather-forecast-29-September-2026-rain-alert",
+            "published": "2026-09-28T23:32:35",
+            "url": "https://www.esakal.com/ampstories/web-story/why-are-water-taps-and-pipes-round-in-shape-science-and-engineering-explained-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-28/q7z61rk8/Why-Are-Water-Taps-and-Pipes-Always-Round-2.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "0c35edc0cb00",
-            "feed": "maharashtratimes",
-            "title": "सोनू कानातून ब्लूटूथ काढूच द्यायचा नाही! यूट्यूबरनं मरण जवळ केलं; आईचे इंजिनीअरवर गंभीर आरोप",
+            "id": "150c81a43f95",
+            "feed": "lokmat",
+            "title": "रोज सफाई करूनही बेडखाली धूळ-घाण साचते? १ ट्रिक, धूळ-कचरा होईल स्वच्छ",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-28T21:09:12",
-            "url": "https://maharashtratimes.com/india-news/nidhi-tiwaris-boyfriend-sonu-singh-kept-her-under-surveillance-claims-her-mother/articleshow/134546267.cms",
-            "image": "",
+            "published": "2026-09-28T23:07:44",
+            "url": "https://www.lokmat.com/sakhi/social-viral/how-to-clean-dust-and-dirt-under-bed-easy-tricks-to-clean-dust-and-dirt-under-bed-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-27-at-5.14.20-pm-1_2026091791675.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "ac1d03909346",
+            "feed": "maharashtratimes",
+            "title": "Nepal Landslide: नेपाळमध्ये मुसळधार पावसाचा तडाखा, काही सेकंदात डोंगर कोसळला, २४ जणांचा मृत्यू",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-28T23:08:08",
+            "url": "https://maharashtratimes.com/international/international-news/nepal-landslide-mountain-vanished-in-second-24-people-dead/articleshow/134547929.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "5e378b70cdea",
             "feed": "maharashtratimes",
@@ -228,22 +244,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-1_2026091791624.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "873091e9a507",
-            "feed": "maharashtratimes",
-            "title": "World Drought Crisis 2026: 41देश अन्नसंकटात, El Ninoमुळे 22 देशांना मोठा धोका, महासंकटात आशियाही!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-28T18:29:13",
-            "url": "https://maharashtratimes.com/video/mt-originals/world-drought-crisis-2026-el-nino-41-countries-food-crisis-22-high-risk/videoshow/134543537.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
