@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "28-09-2026 | 04:11 AM IST",
+    "lastUpdated": "28-09-2026 | 06:48 AM IST",
     "maharashtra": [
+        {
+            "id": "6b4965b23c17",
+            "feed": "lokmat",
+            "title": "आजचे अग्रलेख: दुष्काळ जाहीर; मदतीचे काय? आता सरकारची खरी कसोटी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-28T06:24:04",
+            "url": "https://www.lokmat.com/editorial/maharashtra-declares-drought-in-265-talukas-farmers-await-immediate-cash-relief-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-drought-artical-1_2026091791019.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "a9a2d519aa95",
             "feed": "esakal",
@@ -64,107 +80,107 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/palghar-crime-news_2026091791018.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
+        }
+    ],
+    "india": [
+        {
+            "id": "b0de58a5b76e",
+            "feed": "lokmat",
+            "title": "लेख: डिजिटल तंत्रज्ञानाद्वारे महाराष्ट्रातील पर्यटनाला नवी दिशा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-28T06:42:00",
+            "url": "https://www.lokmat.com/editorial/embraces-ai-and-digital-technology-to-transform-tourist-experiences-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-tourism_2026091791023.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         },
         {
-            "id": "e30ca1cf2f40",
+            "id": "fa866a4af6c1",
             "feed": "esakal",
-            "title": "Kalyan Kale: ‘राहुल गांधींवर टीका करण्याची फडणवीसांची उंची नाही’; खासदार कल्याण काळेंचा मुख्यमंत्र्यांना पलटवार",
+            "title": "आजचे पंचांग आणि दिनविशेष - २८ सप्टेंबर २०२६",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-27T22:27:44",
-            "url": "https://www.esakal.com/marathwada/kalyan-kale-hits-back-at-devendra-fadnavis-over-rahul-gandhi-remarks-amid-vote-theft-political-row-in-maharashtra-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-27/3gkl3xa4/sudhir-jadhav-satara-22.jpg",
+            "published": "2026-09-28T06:30:00",
+            "url": "https://www.esakal.com/culture-and-religion/on-this-day-happened-today-panchang-history-in-marathi-28-september-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-02/xhbtngln/panchang.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
+            "category_reason": "default"
+        },
         {
-            "id": "e86b5367520d",
+            "id": "7ae42790a26c",
+            "feed": "esakal",
+            "title": "२८ सप्टेंब 2026 राशिभविष्य! कोणाच्या जुन्या येणी वसूल होणार? जाणून घ्या",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-28T06:01:00",
+            "url": "https://www.esakal.com/ampstories/web-story/28-september-2026-rashibhavishya-today-horoscope-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-27/gko3wnh0/1.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c493f65e8729",
             "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 28 सप्टेंबर 2026 : सोमवारचा दिवस या राशींसाठी ठरणार भाग्याचा आठवड्याची सुरुवात धमाक्यात  ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "title": "नवा फोन कशाला? मोबाईल चार्जिंगचा एक सुवर्ण नियम पाळा; दुप्पट होईल जुन्या फोनची बॅटरी लाईफ",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-28T01:14:46",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-28-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction-l/articleshow/134525910.cms",
+            "published": "2026-09-28T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/maximize-smartphone-battery-life-with-20-80-rule-stop-charging-up-to-100-percent-to-save-your-old-phone/articleshow/134502932.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "ddd76f3be34c",
-            "feed": "esakal",
-            "title": "‘हे’ ठिकाण वेलचीसाठी नाही, तर वेलचीच्या सुगंधासाठी आहे प्रसिद्ध!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-27T23:56:30",
-            "url": "https://www.esakal.com/ampstories/web-story/why-haveri-karnataka-is-called-the-land-of-cardamom-fragrance-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-16/5kxt5ech/Grow-Cardamom-at-Home-Easy-Tips-8.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "18180a570793",
-            "feed": "lokmat",
-            "title": "मोठा दिलासा मिळाला! बँक कर्मचाऱ्यांचा ३ दिवसीय संप पुढे ढकलला; IBA-UFBU बैठकीनंतर निर्णय",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-09-27T23:37:43",
-            "url": "https://www.lokmat.com/national/big-relief-bank-strike-deferred-after-the-meeting-between-the-indian-banks-association-iba-and-the-united-forum-of-bank-unions-ufbu-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-strike-r6_2026091790040.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0b2f46a5f0ee",
-            "feed": "esakal",
-            "title": "चिकन-मटण खाणाऱ्यांनी हे वाचाच! हार्ट ॲटॅकचा धोका किती?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-27T23:36:19",
-            "url": "https://www.esakal.com/ampstories/web-story/nonveg-heart-attack-risk-meat-heart-health-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-27/e65u9ybj/heart.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e2a3c03d2fb5",
+            "id": "bcc28818f9a8",
             "feed": "maharashtratimes",
-            "title": "पंचांग 28 September 2026: द्वितीया तिथी श्राद्ध, समसप्तक योग, राशीपरिवर्तन योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "title": "अंक भविष्य, 28 September 2026: मूलांक 5 संवाद साधा, समस्या कमी होणार! मूलांक 6 आर्थिक व्यवहारात सावध राहा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-27T23:21:21",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-28-september-in-marathi-dwitiya-tithi-shraddha-samasaptak-yog-and-shubha-muhurta/articleshow/134523258.cms",
+            "published": "2026-09-28T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-rashi-parivartan-yog-28-september-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134526084.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "03e463e03d23",
+            "feed": "lokmat",
+            "title": "लेख: हा चीनचा सन्मान की सन्मानाचे फक्त राजकारण?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-28T06:33:04",
+            "url": "https://www.lokmat.com/editorial/donald-trump-xi-jinping-welcome-raises-questions-over-us-china-trade-diplomacy-and-global-power-a-a284-c1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/xi-jinping-donald-trump-3_2026091791021.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "323d3cd89e4a",
             "feed": "esakal",
@@ -228,22 +244,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-27/yu7gr4js/Police-and-emergency-medical-teams-at-the-scene-of-a-deadly-bar-shooting-in-Gauteng-South-Africa-where-17-people-were-killed-and-15-injured.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "ae2128d818e1",
-            "feed": "esakal",
-            "title": "Premium|Russia Parliamentary Election 2026 : रशियाच्या निवडणुकीत पुतीनसमर्थक पक्षाचे बहुमत; विरोधकांवर प्रश्नचिन्ह का?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-27T12:00:00",
-            "url": "https://www.esakal.com/saptarang/russia-parliamentary-election-2026-united-russia-putin-ukraine-war-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-26/5koq8thn/Abhi-38.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "339f45d5fa4c",
+            "feed": "esakal",
+            "title": "अर्थवेध : ‘एफआयआय’चा पैसा कुठे जातोय?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-28T06:42:00",
+            "url": "https://www.esakal.com/sakal-money/fii-investment-pattern-secondary-vs-primary-market-ipo-qip-gaurav-borah-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-27/o4y8q32z/Sakal-Money-51.png",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "126302508bea",
             "feed": "esakal",
             "title": "बँकांचा ३ दिवसांचा संप मागे! बैठकीनंतर रात्री उशिरा निर्णय; काय झाली चर्चा?",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "6ff144485913",
-            "feed": "lokmat",
-            "title": "मोबाईल युजर्सना मोठा दिलासा! आता मिळणार पूर्ण ३० दिवसांचा रिचार्ज प्लॅन, TRAI चे कंपन्यांना निर्देश",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-27T20:45:40",
-            "url": "https://www.lokmat.com/tech/big-relief-for-mobile-users-now-you-will-get-a-full-30-day-recharge-plan-trais-instructions-to-companies-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trai-rules_2026091791004.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
