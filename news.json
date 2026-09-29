@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "29-09-2026 | 03:51 AM IST",
+    "lastUpdated": "29-09-2026 | 07:54 AM IST",
     "maharashtra": [
         {
-            "id": "05e0d2c447f7",
+            "id": "bcb2c60aa697",
+            "feed": "maharashtratimes",
+            "title": "दुष्काळी मदतीसाठी कर्ज, सरकारची तयारी, मदत आणि पुनर्वसन विभागाला सर्वेक्षण अहवालाची प्रतीक्षा; किती कोटींची गरज?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-29T07:40:47",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/government-will-take-out-a-loan-to-help-farmers-due-to-drought-funds-1-lakh-20-crore-are-needed/articleshow/134553955.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c6b2b7092124",
+            "feed": "maharashtratimes",
+            "title": "Goregaon Gas Leak : वाढदिवसाच्या तोंडावर काळाचा घाला, गोरेगावकर तरुणाच्या मृत्यूने कुटुंबावर शोककळा, रासायनिक कारखान्यावर कारवाई न झाल्याने संताप",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-29T07:35:12",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/goregaon-gas-leak-prabhakar-dhiwar-dies-ahead-of-birthday-inside-public-toilet/articleshow/134553793.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "65ac8c779012",
             "feed": "lokmat",
-            "title": "राऊत यांना एमआयडीसी, तर राजपूतांकडे जरीपटका ठाण्याची जबाबदारी",
+            "title": "Navi Mumbai: नशेसाठी ‘प्रेगाबालिन’चा धंदा; २,२२० कॅप्सूल जप्त, कळंबोलीत पोलिस-एफडीएचा छापा; डॉक्टरांच्या चिठ्ठीशिवाय विक्री",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-28T23:45:02",
-            "url": "https://www.lokmat.com/nagpur/raut-gets-midc-while-rajput-gets-jaripatka-police-station-responsibility-a-a877-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-police-transfer4_2026061728747.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ecf8e32fc734",
-            "feed": "esakal",
-            "title": "Pune News : ९० कोटीच्या निविदेसाठी आयुक्तांना धमकी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-28T23:39:59",
-            "url": "https://www.esakal.com/pune/pune-mla-threatens-municipal-commissioner-over-90-crore-road-tender-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-22/gsbah2pz/Abhi-1.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3137c338c27b",
-            "feed": "esakal",
-            "title": "Gutkha Seized : चारोटी टोलनाक्यावर ५० लाखांचा प्रतिबंधित गुटखा जप्त; पाठलाग करून आयशर पकडला",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-28T23:28:49",
-            "url": "https://www.esakal.com/mumbai/palghar-charoti-toll-naka-50-lakh-banned-gutkha-seized-eicher-truck-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-28/1n36v0nk/Gutkha-Seized",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0cf636ef924c",
-            "feed": "esakal",
-            "title": "Murud Accident : मुरूडमध्ये तिहेरी अपघातात एक ठार, दोन जखमी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-28T23:13:19",
-            "url": "https://www.esakal.com/marathwada/murud-triple-accident-one-dead-two-injured-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-28/zyjf5go9/Sanjay-Deshmukh",
+            "published": "2026-09-29T07:31:11",
+            "url": "https://www.lokmat.com/navi-mumbai/navi-mumbai-2220-pregabalin-capsules-seized-from-kalamboli-medical-store-three-booked-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/capsule-1_2026091791702.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "99be3fd954fe",
+            "id": "beeab934f176",
             "feed": "lokmat",
-            "title": "MPSCचा मोठा निर्णय! राज्यसेवा मुख्य परीक्षा पुढे ढकलली; ३ ऑक्टोबरला होता पेपर, नवी तारीख काय?",
+            "title": "बुलेट ट्रेनसाठी महाराष्ट्रातील पहिला स्टील पूल तयार; नाशिक महामार्गावर उभारला १०० मीटर लांबीचा पूल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-28T23:07:44",
-            "url": "https://www.lokmat.com/maharashtra/mpsc-big-decision-state-service-mains-exam-2026-postponed-the-paper-was-scheduled-for-3-october-before-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-10-at-9.08.29-am_2026091780852.jpeg",
+            "published": "2026-09-29T07:24:38",
+            "url": "https://www.lokmat.com/mumbai/mumbai-ahmedabad-bullet-train-maharashtra-first-1405-tonne-steel-bridge-erected-in-bhiwandi-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-ahmedabad-bullet-train_2026091791700.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "90745a4d7f62",
+            "feed": "esakal",
+            "title": "Maharashtra Weather : पावसाची पुन्हा एन्ट्री! राज्यातील ८ जिल्ह्यांना येलो अलर्ट; तुमच्या भागात कसे असेल हवामान ?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-29T07:19:57",
+            "url": "https://www.esakal.com/maharashtra/maharashtra-weather-rain-forecast-yellow-alert-konkan-madhya-maharashtra-marathwada-thunderstorm-september-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-29/suk2ja4h/-2026-09-29T071739.394.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "3c0587af2b84",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 29 सप्टेंबर 2026 : चंद्र व मंगळात राशी परिवर्तन योग,या राशींचे होणार सर्वकाही मंगल कमाई वाढणार ! पहा तुमचे राशिभविष्य काय सांगते ?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-29T00:25:34",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-29-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134549455.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ec9a7ad1e060",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 29 September 2026: अंगारकी संकष्ट चतुर्थी, भरणी श्राद्ध, गजकेसरी योग, समसप्तक योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-28T23:59:31",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-29-september-in-marathi-angaraki-sankashti-chaturthi-2026-bharni-shraddha-and-shubha-muhurta/articleshow/134548247.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3e4d4cadb465",
+            "id": "e5351bf2c019",
             "feed": "esakal",
-            "title": "दात पिवळे का होतात? जाणून घ्या ६ महत्त्वाची कारणे",
+            "title": "TMC Leaders Join Congress : ममता बॅनर्जींना मोठा धक्का! १०० हून अधिक नेते-कार्यकर्त्यांनी पक्ष सोडला; यावेळी भाजप नाही तर कॉंग्रेसमध्ये प्रवेश",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-28T23:59:03",
-            "url": "https://www.esakal.com/ampstories/web-story/why-teeth-turn-yellow-6-common-causes-and-how-to-prevent-tooth-discoloration-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2025-08-05/4soq063j/teeth-damaging-foods-9.jpg",
+            "published": "2026-09-29T07:45:09",
+            "url": "https://www.esakal.com/desh/west-bengal-politics-tmc-leaders-workers-join-congress-malda-mahish-bathani-assembly-bypolls-tmc-name-symbol-dispute-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-29/h9rkwtzm/-2026-09-29T073453.806.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "a4926d96ddf6",
-            "feed": "esakal",
-            "title": "नळाची तोटी गोलच का असते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-28T23:32:35",
-            "url": "https://www.esakal.com/ampstories/web-story/why-are-water-taps-and-pipes-round-in-shape-science-and-engineering-explained-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-28/q7z61rk8/Why-Are-Water-Taps-and-Pipes-Always-Round-2.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "150c81a43f95",
+            "id": "bfdcf74b9f7a",
             "feed": "lokmat",
-            "title": "रोज सफाई करूनही बेडखाली धूळ-घाण साचते? १ ट्रिक, धूळ-कचरा होईल स्वच्छ",
+            "title": "लेख: ज्ञानेश कुमार, तत्काळ खुर्ची खाली करा!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-28T23:07:44",
-            "url": "https://www.lokmat.com/sakhi/social-viral/how-to-clean-dust-and-dirt-under-bed-easy-tricks-to-clean-dust-and-dirt-under-bed-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-27-at-5.14.20-pm-1_2026091791675.jpeg",
+            "published": "2026-09-29T07:44:23",
+            "url": "https://www.lokmat.com/editorial/election-commission-row-questions-over-cecs-powers-ecinet-and-voter-roll-revision-trigger-accountability-debate-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cec-gyanesh-kumar_2026091791706.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "aa912e1179b0",
+            "feed": "lokmat",
+            "title": "आजचे अग्रलेख: मणिपूरची आग विझणार कधी?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-29T07:39:01",
+            "url": "https://www.lokmat.com/editorial/manipur-violence-three-years-of-conflict-afspa-extension-and-the-unresolved-crisis-of-peace-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/manipur-violence-1_2026091791704.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "5e69941e0d86",
+            "feed": "maharashtratimes",
+            "title": "Tharala Tar Mag : अ‍ॅडव्होकेट शेंडेंनी लगेचच रचला सापळा, पोस्कोमध्ये पुन्हा अडकणार सायली, प्रियाला तुरुंगातच हर्षवायू",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-29T07:26:44",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/tharala-tar-mag-serial-29-september-2026-episode-priya-dreaming-about-sayali-will-come-to-jail/articleshow/134553631.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "a8c6200de315",
+            "feed": "esakal",
+            "title": "आरोग्य‘चेतना’ : स्पायनल ट्युमरची अत्याधुनिक शस्त्रक्रिया",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-29T07:25:00",
+            "url": "https://www.esakal.com/health/spinal-tumor-advanced-neurosurgery-dr-jaydev-panchvagh-health-achetna-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-28/jb7turzk/Esakal-25.png",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "e03474a25553",
+            "feed": "esakal",
+            "title": "US-China Trade Deal : अमेरिका-चीन ट्रेड वॉरला ब्रेक! ६० अब्ज डॉलरच्या व्यापारावर मोठा निर्णय, भारताची चिंता वाढली ?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-29T06:59:08",
+            "url": "https://www.esakal.com/global/us-china-trade-deal-trump-xi-jinping-tariff-reduction-60-billion-goods-india-exports-china-plus-one-global-trade-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-29/07hwbeg0/-2026-09-29T065244.576.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "6036991eee50",
+            "feed": "lokmat",
+            "title": "Anant Ambani: ब्रिटनच्या विद्यापीठात शिकवणार अनंत अंबानी; न्यूकॅसल विद्यापीठात ‘प्रॅक्टिस प्रोफेसर’ म्हणून नियुक्ती",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-29T06:18:48",
+            "url": "https://www.lokmat.com/international/anant-ambani-anant-ambani-to-teach-at-a-british-university-appointed-as-practice-professor-at-newcastle-university-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/anant-ambani-practice-professor_2026091791684.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "ac1d03909346",
             "feed": "maharashtratimes",
@@ -212,38 +244,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-09-28/37elh28r/Most-ODI-Runs-Scored-in-a-Single-Country-18.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "26f2b849c8bc",
-            "feed": "lokmat",
-            "title": "युक्रेन-रशिया युद्धाचा भयंकर परिणाम; अक्षरशः गवत खाऊन जगत आहेत लोक, एक अंड्यासाठी मोजावे लागतात १५० रुपये!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-28T18:58:44",
-            "url": "https://www.lokmat.com/photos/international/the-terrible-consequences-of-the-ukraine-russia-war-people-are-literally-living-on-grass-having-to-pay-150-rupees-for-an-egg-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ukrain-food-crisis7_2026091791620.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8b1d21351cf1",
-            "feed": "lokmat",
-            "title": "नेपाळमध्ये पुन्हा आपत्ती, बघता बघता कोसळला पर्वताचा भाग, देशात २४ जणांचा मृत्यू, अनेक बेपत्ता",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-28T18:57:02",
-            "url": "https://www.lokmat.com/international/disaster-strikes-again-in-nepal-mountain-part-collapses-suddenly-24-people-die-in-the-country-many-missing-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-1_2026091791624.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
@@ -298,6 +298,38 @@
     ],
     "business": [
         {
+            "id": "1e5d5efc0b58",
+            "feed": "lokmat",
+            "title": "आजचे राशीभविष्य - २९ सप्टेंबर २०२६, व्यवसायाच्या दृष्टीने लाभदायक दिवस, धन, संपत्ति, मान-सन्मानाची प्राप्ती होईल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-29T07:32:46",
+            "url": "https://www.lokmat.com/astro/articles/todays-horoscope-september-29-2026-a-profitable-day-for-business-you-will-gain-wealth-property-honor-and-respect-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhavishya-tuesday_202210900516.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "5a9a48479124",
+            "feed": "maharashtratimes",
+            "title": "सणासुदीच्या ऑनलाईन खरेदीत नवा 'फेक डिलिव्हरी स्कॅम'; एका क्लिकवर बँक खाते रिकामे",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-29T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/festive-sale-alert-cyber-criminals-target-online-shoppers-with-fake-delivery-scam/articleshow/134538933.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "57b43129802b",
             "feed": "lokmat",
             "title": "महाराष्ट्रातील दोन-तृतीयांश भूभाग दुष्काळाच्या छायेत; केंद्राचे पथक करणार पाहणी, वाचा सविस्तर",
@@ -310,38 +342,6 @@
             "published": "2026-09-28T20:35:02",
             "url": "https://www.lokmat.com/agriculture/farming-ideas/maharashtra-drought-central-government-team-to-conduct-survey-read-in-detail-a-a993/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dushkal-pahni_2026091791656.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d84e54e43131",
-            "feed": "lokmat",
-            "title": "देवस्थान इनाम जमिनींबाबतचे विश्वस्त-कुळ वाद प्रकरण, उच्चस्तरीय समितीला 30 नोव्हेंबरपर्यंत मुदतवाढ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-28T19:35:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/trustee-clan-dispute-case-regarding-temple-gift-lands-high-level-committee-gets-extension-till-november-30-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devsthan-jamin_2026091791549.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "729e7c5ff357",
-            "feed": "lokmat",
-            "title": "शेतात उत्खनन करताना तांब्याचे नाणं सापडलं अन् सातवाहनकालीन शहराच्या रहस्याचा उलगडा झाला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-28T18:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/copper-coins-found-during-excavation-unravel-the-mystery-of-satavahana-era-city-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tambe_2026091791545.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
