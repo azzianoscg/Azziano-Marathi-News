@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "29-09-2026 | 09:44 PM IST",
+    "lastUpdated": "30-09-2026 | 02:40 AM IST",
     "maharashtra": [
         {
-            "id": "0b99a1a515bb",
+            "id": "b849baff006f",
             "feed": "esakal",
-            "title": "Vani News : सासरी होणाऱ्या मानहानी अन् छळाला कंटाळून तरुणाने संपविले जीवन; स्टेटसवर व्हिडिओ ठेवत उघड केला प्रकार",
+            "title": "ठाणे हादरलं! ठाकरे गटाच्या नेत्यावर झाडल्या गोळ्या, उपचारावेळी मृत्यू",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-29T21:41:59",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-man-endlife-alleged-harassment-over-childlessness-whatsapp-video-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-29/2y2gpenr/Tukaram-Bagul",
+            "published": "2026-09-30T00:16:27",
+            "url": "https://www.esakal.com/mumbai/thane-shiv-sena-ubt-leader-pradeep-purnekar-shot-in-manpada-dies-during-medical-treatment-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-29/n6z3fr5o/pradip-purnekar.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9cbe0017dee4",
+            "id": "115021f8f053",
+            "feed": "esakal",
+            "title": "Nagpur Crime : जमावाच्या मारहाणीत चोराचा मृत्यू; दुसरा साथीदार फरार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-29T23:41:45",
+            "url": "https://www.esakal.com/vidarbha/nagpur/nagpur-crime-alleged-thief-dies-after-mob-attack-accomplice-absconding-killed-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "119987e8df9c",
             "feed": "lokmat",
-            "title": "Top Marathi News LIVE Updates: दुष्काळग्रस्त शेतकऱ्यांची व्यथा समजून घेऊन मदत झाली पाहिजे: ओमराजे निंबाळकर",
+            "title": "बेलतरोडी कांडाने उपराजधानीतील शहारे आणणाऱ्या घटनांच्या आठवणी ताज्या",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-29T21:37:18",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-29-september-2026-drought-in-maharashtra-ncp-sharad-pawar-cm-devendra-fadnavis-iit-mumbai-case-eci-gyanesh-kumar-pm-narendra-modi-us-iran-tension-donald-trump-uddhav-raj-thackeray-tata-trust-rahul-gandhi-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
+            "published": "2026-09-29T23:41:19",
+            "url": "https://www.lokmat.com/nagpur/the-beltarodi-incident-brings-back-memories-of-the-events-that-rocked-the-sub-capital-city-a-a877-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-4-n_202211905071.png",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "765b357f7aa6",
+            "id": "e29b97892eaf",
             "feed": "esakal",
-            "title": "Motorcycle Accident : मोटरसायकलची समोरासमोर धडक होऊन दोन जण ठार :एक जखमी",
+            "title": "Pune News : पुणे-ओकायामा मैत्रीचा नवा अध्याय",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-29T21:35:13",
-            "url": "https://www.esakal.com/pune/narayangaon-junnar-two-killed-one-injured-motorcycle-head-on-collision-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2024-12-19/9hdyev1m/accident1.jpg",
+            "published": "2026-09-29T23:25:04",
+            "url": "https://www.esakal.com/pune/pune-okayama-friendship-new-chapter-mayor-manjusha-nagpure-japan-ties-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-29/kqyjrksn/mayor-manjusha-nagpure-and-okayama-governor-ruyat-balaji",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0783f33a18d3",
-            "feed": "esakal",
-            "title": "Japanese Encephalitis Virus: आसाममध्ये डासांमध्ये जपानी मेंदूज्वराचा जी-१ विषाणू प्रथमच आढळला; ‘एनआयव्ही’ पुण्याचे संशोधन अमेरिकन जर्नलमध्ये प्रकाशित",
+            "id": "b2fa263a44a9",
+            "feed": "lokmat",
+            "title": "परतवाडा–धारणी मार्गावर धावत्या बसवर झाड कोसळले; चालकाच्या प्रसंगावधानाने मोठी दुर्घटना टळली",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-09-29T21:31:41",
-            "url": "https://www.esakal.com/pune/japanese-encephalitis-g1-genotype-mosquitoes-niv-pune-news-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2022-12/492b6d73-95e8-414b-8e44-fc02fa722f48/sakshi_text_photo___2022_12_05T130015_688.jpg",
+            "published": "2026-09-29T23:24:19",
+            "url": "https://www.lokmat.com/amravati/tree-fell-on-a-running-bus-on-the-paratwada-dharni-road-a-major-accident-was-averted-due-to-the-driver-caution-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tree-on-st-bus_2026091792557.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b80044b4f692",
-            "feed": "esakal",
-            "title": "Sinhagad Village Audit: घेरा सिंहगड ग्रामपंचायतीतील कथित आर्थिक गैरव्यवहारावर चौकशीची मागणी; सूर्यकांत सांबरे यांचा आमरण उपोषणाचा इशारा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-29T21:27:23",
-            "url": "https://www.esakal.com/pune/khedvasula-singhagad-grampanchayat-audit-demand-suryakant-sambre-news-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-29/ln45amms/Esakal-46.png",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "02cc8fb2faeb",
-            "feed": "esakal",
-            "title": "निवडणूक आयोगाच्या बैठकीत महागडं पाणी, एक लीटरची किंमत वाचून बसेल धक्का",
+            "id": "5d8e799bc906",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 30 सप्टेंबर 2026 : लक्ष्मी नारायण राजयोगाचा शुभ संयोग देणार या राशींना लाभ,नोकरीत होणार फायदा ! पहा तुमचे राशिभविष्य काय सांगते ?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-29T21:42:44",
-            "url": "https://www.esakal.com/ampstories/web-story/aava-water-costs-rs-500-per-litre-at-election-commission-meeting-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-29/v0w2644n/Ava-Water.jpg",
+            "published": "2026-09-30T00:12:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-30-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134570515.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "afb2550ce907",
+            "id": "8e4ec143c729",
             "feed": "maharashtratimes",
-            "title": "CISF Jawan Firing : जम्मू-काश्मीरच्या सीआयएसएफ कॅम्पमध्ये जवानाचा आपल्याच सहकाऱ्यांवर गोळीबार, चार सैनिकांचा मृत्यू",
+            "title": "पंचांग 30 September 2026: चतुर्थी, पंचमी श्राद्ध तिथी, लक्ष्मी नारायण योग, राशि परिवर्तन योग, गौरी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-09-29T21:41:05",
-            "url": "https://maharashtratimes.com/india-news/cisf-jawan-open-firing-on-colleagues-at-camp-in-jammu-and-kashmir-four-death/articleshow/134570166.cms",
+            "published": "2026-09-30T00:09:16",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-30-september-in-marathi-lakshmi-narayan-yog-rashi-parivartan-yog-and-shubha-muhurta/articleshow/134571023.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "6c9f22f0ee19",
+            "id": "92c4a27b5e42",
             "feed": "esakal",
-            "title": "मुघलांच्या प्रॉपर्टीचं इंग्रजांनी काय केलं?",
+            "title": "मुघलांशी लढणाऱ्या 'या' राणीला तिच्याच सैनिकांनी का मारले? पाहा थरारक कहाणी!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-29T21:39:37",
-            "url": "https://www.esakal.com/ampstories/web-story/mughal-property-after-british-took-control-of-delhi-red-fort-royal-family-1857-revolt-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-29/ahcbtqu0/bahadur-shah-japhar-2.jpg",
+            "published": "2026-09-29T23:32:43",
+            "url": "https://www.esakal.com/ampstories/web-story/chand-bibi-killed-by-her-own-soldiers-ahmednagar-history-warrior-queen-chand-bibi-die-story-mughals-betrayal-thrilling-death-army-fort-women-war-mughal-king-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-29/xq442jvn/Warrior-Queen-of-Ahmednagar-and-Bijapur.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "419851d82878",
+            "feed": "maharashtratimes",
+            "title": "झाशीत श्राद्धाच्या वेळी मोठी दुर्घटना, पिता-पुत्रासह एकाच कुटुंबातील 5 जणांचा मृत्यू",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-29T22:57:14",
+            "url": "https://maharashtratimes.com/india-news/uttarpradesh-river-accident-five-family-member-drowned-during-shraddha-rituals/articleshow/134570931.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "27381ea0296a",
+            "feed": "esakal",
+            "title": "नाक बंद केलं तर जिभेला चव का लागत नाही?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-29T22:56:32",
+            "url": "https://www.esakal.com/ampstories/web-story/why-does-food-taste-different-when-nose-is-blocked-how-smell-affects-taste-during-cold-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-29/jtdvii2u/12.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        }
+    ],
+    "world": [
+        {
+            "id": "6aba4ef8ac92",
+            "feed": "esakal",
+            "title": "कानपूरमधून B.Tech,अमेरिकेतून PhD; कॉम्प्युटर सायन्स सोडून करतोय मच्छराच्या मेंदूचा अभ्यास! वाचा IIT-JEE टॅापर प्राध्यापकाची गोष्ट...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-29T23:56:38",
+            "url": "https://www.esakal.com/education-jobs/iit-kanpur-prof-nitin-gupta-jee-topper-mosquito-brain-research-from-computer-science-to-mosquito-brain-inside-lab-education-job-career-phd-usa-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-29/32pye4v3/Meet-IIT-Kanpur-Prof-Nitin-Gupta-The-JEE-Topper-Studying-Mosquito-Brains.png",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "ee450a8f4944",
-            "feed": "maharashtratimes",
-            "title": "657 कोटींची लव्ह स्टोरी; GFला महिन्याला 10 लाख, कोटींचं घर; डान्सरच्या प्रेमात अधिकाऱ्यानं बँक बुडवली",
+            "id": "111344309625",
+            "feed": "lokmat",
+            "title": "“आम्ही कोणत्याही धमक्यांना घाबरत नाही, जशास तसे उत्तर देत राहणार”; इराणचा अमेरिकेला इशारा",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
             },
-            "published": "2026-09-29T21:32:48",
-            "url": "https://maharashtratimes.com/india-news/idfc-bank-657-crore-scam-branch-manager-spent-10-lakh-rupees-per-month-on-girlfriend-bought-house-worth-4-crore/articleshow/134570137.cms",
-            "image": "",
+            "published": "2026-09-29T22:57:11",
+            "url": "https://www.lokmat.com/international/we-are-not-afraid-of-any-threats-we-will-continue-to-respond-accordingly-iran-warns-to-america-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-america-war-donald-trump_2026081760433.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
-        {
-            "id": "0267b2ed5b14",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates: सिंहगड ग्रामपंचायतीच्या कामकाजाच्या चौकशीची मागणी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-29T21:30:48",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-29-september-2026-supreme-court-refuses-to-stay-mdr-on-upi-bank-strike-called-off-asian-games-2026-foreign-affairs-drought-declared-mumbai-ahmedabad-bullet-train-congress-protest-over-sir-issue-sharad-pawar-uddhav-thackeray-raj-thackeray-mns-mumbai-pune-ramesh-mhatre-srk94-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2024-12-13/nlfys5cr/live-update.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "world": [
         {
             "id": "ee5f0f9198c6",
             "feed": "maharashtratimes",
@@ -212,41 +244,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "964104e9878e",
-            "feed": "esakal",
-            "title": "‘या’ राशींचे लोक असतात खूप जास्त इमोशनल, भावनेच्या भरात घेतात निर्णय, नंतर होतो पश्चात्ताप; त्यांच्या या स्वभावाचा फायदा घेतात लोक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-29T13:59:29",
-            "url": "https://www.esakal.com/culture-and-religion/most-emotional-zodiac-signs-cancer-pisces-scorpio-emotional-zodiac-signs-people-who-take-emotional-decisions-and-regret-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-29/j0vm37r0/horoscope-38.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "a5878c715112",
-            "feed": "esakal",
-            "title": "World Heart Day 2026: कार्डिओफोबिया म्हणजे काय? लक्षणे, कारणे आणि उपचार याबद्दल संपूर्ण माहिती एकाच क्लिकवर!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-29T12:52:31",
-            "url": "https://www.esakal.com/health/world-heart-day-what-is-cardiophobia-causes-symptoms-treatment-early-signs-not-to-ignore-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-29/dxijexm5/Cardiophobia.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "45961faf467d",
+            "feed": "esakal",
+            "title": "CSK च्या कोचिंग स्टाफमध्ये बदलाचे वारे! झहीरपाठोपाठ माजी वेगवान गोलंदाजाचीही संघात एन्ट्री",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-09-29T22:33:09",
+            "url": "https://www.esakal.com/krida/cricket/mohit-sharma-appointed-chennai-super-kings-new-bowling-coach-replacing-eric-simons-ipl-2027-csk-zaheer-khan-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-29/tkl1thue/Mohit-Sharma-as-CSKs-New-Bowling-Coach.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "6eb2b1c2847b",
             "feed": "esakal",
@@ -278,25 +294,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "c6401613779e",
-            "feed": "lokmat",
-            "title": "विराटसोबत बॉन्डिंग एकदम स्ट्राँग, पण आता... हिटमॅन रोहितनं नेमकं काय म्हटलं?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-09-29T19:22:11",
-            "url": "https://www.lokmat.com/cricket/news/rohit-sharma-reveals-about-his-relationship-with-virat-kohli-says-we-respect-each-other-and-more-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rohit-sharma-on-virat-kohli-m_2026091792489.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "91162206f765",
+            "feed": "maharashtratimes",
+            "title": "कर्मचाऱ्यांचा आनंद गगनात मावेना! अखेर जुनी पेन्शन व्यवस्था OPS निवडण्याची मंजुरी मिळाली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-09-29T23:40:53",
+            "url": "https://maharashtratimes.com/business/business-news/jammu-kashmir-approved-demand-of-employees-to-shift-ops-from-nps-know-in-details/articleshow/134572152.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "d23407e847ce",
             "feed": "maharashtratimes",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aai-jamin_2026091792482.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "858cd3f59969",
-            "feed": "maharashtratimes",
-            "title": "US India Trade Deal : व्यापार करताना स्पर्धा नको! अमेरिका-भारत व्यापार करारात भारताची भूमिका स्पष्टच",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-09-29T19:53:05",
-            "url": "https://maharashtratimes.com/business/business-news/indias-major-demand-in-us-trade-deal-is-to-not-have-a-competitors-in-american-market/articleshow/134568895.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
