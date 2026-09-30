@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "30-09-2026 | 02:40 AM IST",
+    "lastUpdated": "30-09-2026 | 06:23 AM IST",
     "maharashtra": [
+        {
+            "id": "aa08552d0fa6",
+            "feed": "lokmat",
+            "title": "दादरमध्ये प्रवाशांची लूट करणाऱ्या टॅक्सी चालकांवर ‘आरटीओ’चा बडगा, दोन दिवसांत ७३ हजारांचा दंड वसूल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-30T06:12:59",
+            "url": "https://www.lokmat.com/mumbai/mumbai-news-rto-takes-action-against-16-taxi-drivers-at-dadar-station-fines-total-73500-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dadar-railway-station-1_2026091792562.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1a9c1a24dba8",
+            "feed": "lokmat",
+            "title": "वाहनाला कट मारल्याच्या कारणावरून वाद, तरुणावर कोयत्याने हल्ला, दोघेजण गंभीर जखमी; आरोपींना अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-30T05:59:22",
+            "url": "https://www.lokmat.com/latur/latur-crime-news-youth-attacked-with-machete-over-vehicle-cut-dispute-in-thackeray-chowk-four-detained-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/latur-crime-3_2026091792560.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "884a0947bc20",
+            "feed": "lokmat",
+            "title": "Latur Accident: भरधाव कार अन् दुचाकीमध्ये भीषण धडक; एक ठार, दोन जण गंभीर जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-30T05:51:32",
+            "url": "https://www.lokmat.com/latur/latur-road-accident-26-year-old-youth-dies-after-car-bike-collision-two-seriously-injured-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/latur-accident-news_2026091792558.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "b849baff006f",
             "feed": "esakal",
@@ -32,57 +80,57 @@
             "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "119987e8df9c",
-            "feed": "lokmat",
-            "title": "बेलतरोडी कांडाने उपराजधानीतील शहारे आणणाऱ्या घटनांच्या आठवणी ताज्या",
+            "id": "78e564c14d40",
+            "feed": "maharashtratimes",
+            "title": "एका App मधून PF ची 5 मोठी कामे घरी बसून करा, कुठेही जाण्याची गरज नाही",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
             },
-            "published": "2026-09-29T23:41:19",
-            "url": "https://www.lokmat.com/nagpur/the-beltarodi-incident-brings-back-memories-of-the-events-that-rocked-the-sub-capital-city-a-a877-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-4-n_202211905071.png",
+            "published": "2026-09-30T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/no-need-to-visit-epfo-office-manage-5-major-pf-tasks-from-home-via-umang-app/articleshow/134563907.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
         },
         {
-            "id": "e29b97892eaf",
+            "id": "6a25c1cb77fc",
             "feed": "esakal",
-            "title": "Pune News : पुणे-ओकायामा मैत्रीचा नवा अध्याय",
+            "title": "आजचे राशिभविष्य 30 सप्टेंबर 2026; जाणून घ्या 12 राशींचे भविष्य",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-29T23:25:04",
-            "url": "https://www.esakal.com/pune/pune-okayama-friendship-new-chapter-mayor-manjusha-nagpure-japan-ties-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-29/kqyjrksn/mayor-manjusha-nagpure-and-okayama-governor-ruyat-balaji",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b2fa263a44a9",
-            "feed": "lokmat",
-            "title": "परतवाडा–धारणी मार्गावर धावत्या बसवर झाड कोसळले; चालकाच्या प्रसंगावधानाने मोठी दुर्घटना टळली",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-29T23:24:19",
-            "url": "https://www.lokmat.com/amravati/tree-fell-on-a-running-bus-on-the-paratwada-dharni-road-a-major-accident-was-averted-due-to-the-driver-caution-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tree-on-st-bus_2026091792557.jpg",
+            "published": "2026-09-30T05:39:01",
+            "url": "https://www.esakal.com/ampstories/web-story/today-horoscope-30-september-2026-rashibhavishya-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-29/4cezj252/1.jpg.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
+            "category_reason": "default"
+        },
+        {
+            "id": "ec49181b6b20",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 30 September 2026: मूलांक 4 संधीचा लाभ घेणे फायद्याचे! मूलांक 6 हुशारीचे ऑफिसमध्ये कौतुक! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-30T05:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-chandra-gochar-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134570070.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "5d8e799bc906",
             "feed": "maharashtratimes",
@@ -112,54 +160,6 @@
             "published": "2026-09-30T00:09:16",
             "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-30-september-in-marathi-lakshmi-narayan-yog-rashi-parivartan-yog-and-shubha-muhurta/articleshow/134571023.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "92c4a27b5e42",
-            "feed": "esakal",
-            "title": "मुघलांशी लढणाऱ्या 'या' राणीला तिच्याच सैनिकांनी का मारले? पाहा थरारक कहाणी!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-29T23:32:43",
-            "url": "https://www.esakal.com/ampstories/web-story/chand-bibi-killed-by-her-own-soldiers-ahmednagar-history-warrior-queen-chand-bibi-die-story-mughals-betrayal-thrilling-death-army-fort-women-war-mughal-king-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-29/xq442jvn/Warrior-Queen-of-Ahmednagar-and-Bijapur.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "419851d82878",
-            "feed": "maharashtratimes",
-            "title": "झाशीत श्राद्धाच्या वेळी मोठी दुर्घटना, पिता-पुत्रासह एकाच कुटुंबातील 5 जणांचा मृत्यू",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-29T22:57:14",
-            "url": "https://maharashtratimes.com/india-news/uttarpradesh-river-accident-five-family-member-drowned-during-shraddha-rituals/articleshow/134570931.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "27381ea0296a",
-            "feed": "esakal",
-            "title": "नाक बंद केलं तर जिभेला चव का लागत नाही?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-09-29T22:56:32",
-            "url": "https://www.esakal.com/ampstories/web-story/why-does-food-taste-different-when-nose-is-blocked-how-smell-affects-taste-during-cold-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-29/jtdvii2u/12.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
