@@ -1,170 +1,218 @@
 {
-    "lastUpdated": "30-09-2026 | 06:40 PM IST",
+    "lastUpdated": "01-10-2026 | 12:12 AM IST",
     "maharashtra": [
         {
-            "id": "0fef18343ba3",
+            "id": "c9176f18d81d",
+            "feed": "maharashtratimes",
+            "title": "Ashok Kharat : खरातच्या वकिलांकडून पेनड्राईव्हची मागणी,  कोर्टात जोरदार युक्तिवाद, काय-काय घडलं?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-30T23:25:24",
+            "url": "https://maharashtratimes.com/maharashtra/thane/ashok-kharat-lawyer-demanding-pendrive-for-casestudy-in-court/articleshow/134600042.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f03f419f6b3d",
             "feed": "lokmat",
-            "title": "अशोक खरातचा जामीनासाठी अर्ज, कोर्टाच्या सुनावणीत काय घडले? विधिज्ञ उज्ज्वल निकम म्हणाले...",
+            "title": "पाऊस पडणार की उकाडा वाढणार, मुंबईत ऑक्टोबर महिन्यात ‘असे’ असेल वातावरण; नवा अंदाज काय?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-30T18:37:27",
-            "url": "https://www.lokmat.com/maharashtra/ashok-kharat-bail-application-senior-advocate-ujjwal-nikam-told-about-what-happened-in-the-court-hearing-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ujjwal-nikam-and-ashok-kharat_2026091793330.jpg",
+            "published": "2026-09-30T23:05:54",
+            "url": "https://www.lokmat.com/mumbai/will-it-rain-or-temperature-increases-what-the-weather-be-like-in-mumbai-in-october-2026-know-new-forecast-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-05-15-at-5.04.35-pm-1_2026051703282.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bbdd149b1985",
-            "feed": "lokmat",
-            "title": "शेळ्या चोरण्यासाठी थेट कार! गावकऱ्यांनी पाठलाग करताच फॉर्च्युनरला उडवले; एकाला पकडले!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-30T18:28:44",
-            "url": "https://www.lokmat.com/beed/swift-car-used-to-steal-goats-goat-thieves-swift-car-crashes-into-fortuner-during-chase-one-arrested-property-worth-rs-445-lakh-seized-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/car-goad-theft-gevarai-beed-fea_2026091793326.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "bf303955318b",
-            "feed": "lokmat",
-            "title": "४० हजारांची लाच घेताना WCLचा वरिष्ठ ओव्हरसीअर जाळ्यात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-30T18:13:50",
-            "url": "https://www.lokmat.com/nagpur/wcl-senior-overseer-caught-taking-bribe-of-rs-40000-a-a877-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-76_2026091793311.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "89e4214029cd",
-            "feed": "lokmat",
-            "title": "खल्लार येथील मुख्य बाजार चौकात ४२ वर्षीय इसमाची निर्घृण हत्या",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-30T18:07:47",
-            "url": "https://www.lokmat.com/amravati/42-year-old-man-brutally-murdered-at-the-main-market-square-in-khallar-a-a1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-75_2026091793304.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e385a8479c47",
-            "feed": "lokmat",
-            "title": "अल्पवयीन मुलीवरील अत्याचारप्रकरणी नराधमाला २० वर्षे सक्तमजुरी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-30T18:01:17",
-            "url": "https://www.lokmat.com/amravati/man-sentenced-to-20-years-in-prison-for-raping-minor-girl-a-a783-c1000/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-pic-template-74_2026091793292.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "c2ae2896ca12",
-            "feed": "lokmat",
-            "title": "\"माझ्या मृत्यूला पत्नीच जबाबदार...\"; लव्ह मॅरेजनंतर वर्षभरात तरुणाने Video बनवून संपवलं जीवन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-30T18:28:26",
-            "url": "https://www.lokmat.com/crime/greater-noida-bisrakh-youth-end-life-video-wife-harassment-allegation-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/untitled-design-11_2026091793327.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "1d90aef603d7",
-            "feed": "lokmat",
-            "title": "पोट साफ न होण्याची मुख्य ३ कारणं - आहारात करा 'असे' बदल, रोज पोट होईल एकदम रिकामं ..",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-30T18:15:43",
-            "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/make-these-changes-in-your-diet-your-stomach-will-be-completely-clean-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-09-27-at-4.10.14-pm_2026091791014.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "9ed9fab046c7",
-            "feed": "lokmat",
-            "title": "इरकलच्या पारंपरिक कापडाचा नवा मार्डन स्टायलिश लूक, ७ सुंदर ड्रेस ‘असे’ शिवा-Reinvent fashion",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-30T18:14:11",
-            "url": "https://www.lokmat.com/sakhi/photos/fashion/a-new-modern-stylish-look-of-irakles-traditional-saree-7-beautiful-dresses-reinvent-fashion-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/irkal-dresses-womens_2026091792309.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e9dcf254239b",
+            "id": "9174e8fca35a",
             "feed": "esakal",
-            "title": "Premium|AI Financial Planning Apps : एआयमुळे आर्थिक नियोजन झाले सोपे; खर्चावर अशी ठेवा नजर",
+            "title": "Shaktipeeth Highway : ‘शक्तिपीठ’ महामार्गाला वेग; १२९ गावांमध्ये संयुक्त मोजणी पूर्ण, सरकारची मोठी तयारी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-09-30T22:37:04",
+            "url": "https://www.esakal.com/maharashtra/shaktipeeth-highway-joint-measurement-completed-129-villages-maharashtra-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-30/vnne4026/sandeep-shirguppe-2026-09-30T223619.918.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "49c384e88dbe",
+            "feed": "esakal",
+            "title": "Chhatrapati Sambhajinagar News: कायगावात विष प्राशन केलेल्या विवाहितेचा मृत्यू; गंगापूर पोलिसांत आकस्मिक मृत्यूची नोंद",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-30T18:14:00",
-            "url": "https://www.esakal.com/premium-article/ai-financial-planning-apps-rocket-money-pocketguard-expense-tracking-budgeting-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-30/yl9369gz/Abhi-2026-09-30T181036.419.jpg",
+            "published": "2026-09-30T22:20:43",
+            "url": "https://www.esakal.com/marathwada/khaygaon-married-woman-dies-after-poison-intake-gangapur-police-register-accidental-death-case-in-chhatrapati-sambhajinagar-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-30/92pdlgoa/sudhir-jadhav-satara-18.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "5f9b183b09d8",
+            "feed": "esakal",
+            "title": "Jalna Accident: पितृपक्षासाठी गावी गेलेल्या तरुणाचा अपघाती मृत्यू; अंबड-घनसावंगी मार्गावर स्कुटीचा अपघात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-30T22:02:05",
+            "url": "https://www.esakal.com/marathwada/ambad-ghansawangi-road-accident-kills-27-year-old-man-returning-after-pitru-paksha-ceremony-in-jalna-district-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-30/9xqzv5fr/sudhir-jadhav-satara-17.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "india": [
+        {
+            "id": "55d7d8ef73d9",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 1 October 2026: षष्ठी श्राद्ध तिथी, सिद्धि योग, हंस राजयोग, गौरी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-09-30T23:04:23",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-1-october-in-marathi-shashthi-shraddha-tithi-siddhi-yog-gauri-yog-and-shubha-muhurta/articleshow/134598253.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "2003b7ca1993",
+            "id": "ede91e557905",
             "feed": "lokmat",
-            "title": "ताक पितानाची एक लहानशी चूक तुम्हाला पोहचवू शकते दवाखान्यात! ताक फुंकून नाही, कोणत्या भांड्यातून पिताय-तपासा..",
+            "title": "भोसरीत तीन ट्रॅव्हल्स बसला आग; एक बस पूर्णपणे खाक, दुरुस्तीचे काम होते सुरू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-09-30T18:13:21",
-            "url": "https://www.lokmat.com/sakhi/photos/health/dont-make-this-mistake-while-drinking-buttermilk-a-lifestyle-diseases-photo-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/buttermilkksss_2026091792483.jpeg",
+            "published": "2026-09-30T22:57:00",
+            "url": "https://www.lokmat.com/pimpri-chinchwad/3-travel-buses-caught-fire-in-bhosari-one-bus-completely-burnt-while-repair-work-underway-a-a898-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhosari-bus-fire_2026091793399.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "74db7960cd36",
+            "feed": "esakal",
+            "title": "Wheat Green Revolution: गव्हाची हरित क्रांती",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-30T22:49:53",
+            "url": "https://www.esakal.com/sampadakiya/editorial-articles/wheat-green-revolution-in-india-how-high-yield-wheat-varieties-transformed-indian-agriculture-and-food-production-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-30/og0z0x4x/sudhir-jadhav-satara-20.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "5e86d7ac12b5",
+            "feed": "esakal",
+            "title": "Buddhist Religion: बौद्ध धर्माचा संवाद - साहित्य विस्तार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-30T22:33:15",
+            "url": "https://www.esakal.com/sampadakiya/editorial-articles/buddhist-religion-dialogue-and-literature-expansion-exploring-buddhist-philosophy-culture-and-its-literary-traditions-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-30/36jxd9hi/sudhir-jadhav-satara-19.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "5f2592ca34ff",
+            "feed": "lokmat",
+            "title": "Friendship Breakup : दोस्त दोस्त ना रहा..! मैत्री तुटणं हे ब्रेकअपपेक्षाही वेदनादायी का? कारणंही अनेक - म्हणून होतो आपल्याला त्रास",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-30T22:30:03",
+            "url": "https://www.lokmat.com/sakhi/mind-soul/why-does-a-friendship-breakup-hurt-more-than-a-romantic-breakup-why-losing-a-best-friend-hurts-so-much-know-the-people-psychology-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/why-losing-a-friend-feels-like-a-breakup_2026091793258.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "1ea94d030514",
+            "feed": "maharashtratimes",
+            "title": "दुबईहून इस्रायल जाणाऱ्या विमानाचा पायलट भारतीय, जखमी होऊनही वाचवले १८० प्रवाशांचा जीव",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-09-30T23:43:39",
+            "url": "https://maharashtratimes.com/international/international-news/indian-pilot-smit-machchar-flight-from-dubai-to-israel-saved-180-passenger/articleshow/134596809.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fed013866a57",
+            "feed": "lokmat",
+            "title": "कोण आहेत भारतीय कॅप्टन स्मित मछार? FlyDubai विमान क्रॅश करण्याचा डाव पाडला हाणून, वाचले १८० जीव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-09-30T20:29:25",
+            "url": "https://www.lokmat.com/international/who-is-smit-machchhar-indian-origin-pilot-emerges-as-hero-of-flydubai-mid-air-emergency-former-spicejet-pilot-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/flydubai-smit-machchar-3009_2026091793368.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "da57d73af808",
+            "feed": "esakal",
+            "title": "Flight Incident: 180 प्रवाशांचा जीव... '9/11' सारख्या हल्ल्याचा धोका; फ्लायदुबईच्या भारतीय कॅप्टनमुळे टळला मोठा अपघात, नेमकं काय घडलं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-30T19:29:59",
+            "url": "https://www.esakal.com/global/flydubai-flight-incident-indian-captain-cockpit-attack-emergency-landing-saudi-arabia-tel-aviv-srk94",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-30/zt73r5ip/Flydubai-Boeing-737-MAX-8-aircraft-involved-in-the-reported-emergency-incident-during-a-flight-from-Dubai-to-Tel-Aviv.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "dc4aa1063eb0",
             "feed": "maharashtratimes",
@@ -182,168 +230,120 @@
             "category_reason": "keyword"
         },
         {
-            "id": "c6b7dbb92741",
-            "feed": "lokmat",
-            "title": "हवेत करतब दाखवणारी महिला अचानक खाली पडली, शो दरम्यान घडलेल्या घटनेचा खतरनाक व्हिडिओ व्हायरल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-30T17:59:53",
-            "url": "https://www.lokmat.com/social-viral/woman-falls-from-height-during-show-in-china-watch-viral-video-a-a583/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/woman-falls-china-1_2026091793288.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "892856ca27aa",
+            "id": "646a3327df1e",
             "feed": "maharashtratimes",
-            "title": "Kharge on EC : राहुल गांधी आतापर्यंत बोलत होते ते आता लोकांना कळतंय, सरकारचा खोटार्डेपणा उघड करणारच! खर्गेंनी सांगितली व्हूयरचना",
+            "title": "Nepal Flood After One Month: महापुरानंतर नेपाळमध्ये काय उरलं? रसुवा-नुवाकोटमध्ये अजूनही संकट",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "world"
+                "category": null
             },
-            "published": "2026-09-30T17:37:00",
-            "url": "https://maharashtratimes.com/international/international-news/india-bloc-march-to-election-commission-kharge-outlined-the-strategy/articleshow/134593212.cms",
+            "published": "2026-09-30T16:48:23",
+            "url": "https://maharashtratimes.com/video/mt-originals/nepal-flood-2026-after-one-month-rasuwa-nuwakot-missing-people-rehabilitation-crisis/videoshow/134592438.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        }
+    ],
+    "sports": [
+        {
+            "id": "fbf890786bb1",
+            "feed": "maharashtratimes",
+            "title": "Rohit Sharma : रोहित शर्माच्या जबरा सेलिब्रेशनमागचं खरं कारण समोर, मॅचनंतर 'हिटमॅन'नेच सांगून टाकलं; काय बोलला?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-09-30T23:35:35",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-wi-2nd-odi-rohit-sharma-big-statement-about-celebration-after-hundred/articleshow/134584154.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d157006dc2fe",
-            "feed": "lokmat",
-            "title": "बकिंघम पॅलेस, एंटीलियाही देशातील 'या' घरासमोर आहेत फेल, किंमत आणि खासियत वाचून येईल चक्कर...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-30T17:16:30",
-            "url": "https://www.lokmat.com/photos/jarahatke/laxmi-villas-palace-world-largest-house-know-some-interesting-facts-a-a583/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/worlds-largest-private-residence-main1_2026091793239.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "da24ce3195a6",
-            "feed": "lokmat",
-            "title": "महापौर ते थेट पंतप्रधान... महत्त्वाकांक्षी महिलेचा थक्क करणारा प्रवास, कोण आहेत Fatima Mansouri?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-09-30T17:02:43",
-            "url": "https://www.lokmat.com/photos/international/who-is-fatima-mansouri-who-became-pm-of-morocco-from-mayor-to-prime-minister-know-all-about-her-amazing-political-journey-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fatima-mansouri-3009-ft_2026091793226.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "sports": [
-        {
-            "id": "29654fea3f97",
+            "id": "79c2e86d6b61",
             "feed": "esakal",
-            "title": "IND vs WI 2nd ODI : वेस्ट इंडिजने विक्रमांचा पाऊस पाडला, पण आपला कुलदीप यादव कमी नाही पडला; नोंदवला जबरदस्त पराक्रम...",
+            "title": "तुझ्या सेलिब्रेशनचा अर्थ काय? Rohit Sharma याला जड्डूचा सवाल; हिटमॅनचं उत्तर ऐकून रवी शास्त्रींही हसू लागले, Video Viral",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-09-30T18:32:23",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-wi-2nd-odi-west-indies-hit-405-but-kuldeep-yadav-fastest-indian-spinner-to-200-odi-wickets-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-30/nsxgzkz3/Kuldeep-Yadav-fastest-Indian-spinner-to-200-ODI-wickets",
+            "published": "2026-09-30T23:02:39",
+            "url": "https://www.esakal.com/krida/cricket/what-did-rohit-sharma-century-celebration-mean-ravindra-jadeja-question-gets-a-hilarious-hitman-reply-wath-video-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-30/48603pqh/Ravindra-Jadeja-asks-Rohit-Sharma-about-century-celebration",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9e7fdbb6ca4e",
-            "feed": "maharashtratimes",
-            "title": "IND vs WI 2nd ODI :  भारताला तब्बल 406 धावांचे आव्हान, वेस्ट इंडिजच्या इतिहासात पहिल्यांदाच धावांचा डोंगर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-09-30T18:28:15",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-wi-2nd-odi-west-indies-set-india-massive-target-of-406-runs/articleshow/134594511.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1f03127baf9e",
+            "id": "62c7f4bcdee3",
             "feed": "lokmat",
-            "title": "IND vs WI 2nd ODI : वेस्ट इंडिजची कमाल! टीम इंडियासमोर उभारला विक्रमी ४०५ धावांचा डोंगर",
+            "title": "टीम इंडियानं ४०० पारची लढाई सहज जिंकली! वेस्ट इंडिजविरुद्धची मालिका खिशात! फक्त दुसऱ्यांदा असं घडलं",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-09-30T18:21:42",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-wi-2nd-odi-west-indies-record-their-highest-ever-total-in-odis-405-for-7-in-50-overs-john-campbell-shai-hope-amir-jangoo-century-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-wi-2nd-odi-m_2026091793313.jpg",
+            "published": "2026-09-30T22:33:24",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-wi-2nd-odi-india-make-mockery-of-406-run-chase-hunt-down-target-easily-with-shubman-gill-doube-ton-rohit-sharma-shine-with-century-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-wi-2nd-odi-india-make-mockery-of-406-run-chase-hunt-down-target-easily-s-_2026091793397.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "e949fd8421b9",
-            "feed": "lokmat",
-            "title": "सूर्या प्रकल्पग्रस्तांना 56 वर्षानंतर मिळणार न्याय, पालघरच्या शेतकऱ्यांना फेरवाटप करून सातबारा मिळणार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-30T18:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/surya-project-victims-will-get-justice-after-56-years-palghar-farmers-will-get-seven-fold-redistribution-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/urya-pro_2026091793089.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "826f7c6332b6",
-            "feed": "lokmat",
-            "title": "८व्या वेतन आयोगाच्या अहवालाला उशीर झाल्यास कर्मचाऱ्यांना बसणार मोठा आर्थिक फटका; 'या' कर्मचाऱ्यांचे किती नुकसान होईल? जाणून घ्या",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-09-30T18:30:08",
-            "url": "https://www.lokmat.com/business/savings-investments/8th-pay-commission-these-employees-may-face-a-loss-of-lakhs-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pay-com-emp_2026091793329.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "621c1df20fbb",
+            "id": "3a950c74acad",
             "feed": "maharashtratimes",
-            "title": "सप्टेंबर महिन्यात परदेशी गुंतवणूकदार मंडळी नाराज! जवळपास 17,100 कोटी रकमेचा FPI भारतातून बाहेर",
+            "title": "PPF, NSC तसेच पोस्ट RD चे व्याजदर जाहीर! छोट्या बचत योजनेत गुंतवणूक करणाऱ्यांना दिलासा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-09-30T18:27:50",
-            "url": "https://maharashtratimes.com/business/share-bazaar/fpi-outflow-in-india-september-2026-more-than-25000-cores-know-in-detail/articleshow/134594913.cms",
+            "published": "2026-09-30T23:42:55",
+            "url": "https://maharashtratimes.com/business/business-news/small-savings-schemes-new-interest-rate-for-quarter-of-october-to-december-2026/articleshow/134600486.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "d7207198693f",
+            "feed": "lokmat",
+            "title": "Rabbi Crops MSP : रब्बी पिकांच्या MSP ला केंद्रीय मंत्रिमंडळाची मंजुरी, वाचा पीकनिहाय यंदा किती दर राहतील?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-09-30T20:35:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/union-cabinet-approves-msp-for-rabi-crops-read-what-will-be-the-crop-wise-msp-rates-this-year-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rabbi-pike_2026091793356.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "e1c26d2b9cb0",
+            "feed": "esakal",
+            "title": "Interest Rate: PPF-Sukanya योजनेत पैसे गुंतवलेत? बचत करणाऱ्यांसाठी मोठी बातमी! PPFसह या योजनांचे व्याजदर कायम; पाहा कुठे मिळतं 8.2% व्याज",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-09-30T20:19:45",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/small-savings-schemes-interest-rates-october-december-2026-ppf-sukanya-samriddhi-nsc-post-office-savings-srk94",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-30/fo2xa03i/Sukanya-Samriddhi-Yojana-and-small-savings-schemes-continue-to-offer-attractive-interest-rates-with-Sukanya-Samriddhi-at-8.2.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ]
 }
