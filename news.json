@@ -1,167 +1,167 @@
 {
-    "lastUpdated": "01-10-2026 | 04:13 AM IST",
+    "lastUpdated": "01-10-2026 | 07:11 AM IST",
     "maharashtra": [
         {
-            "id": "4bc6f54bd6b9",
-            "feed": "esakal",
-            "title": "साताऱ्याच्या साहिल जाधवने Asian Games मध्ये जिंकले दोन गोल्ड मेडल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-01T00:27:00",
-            "url": "https://www.esakal.com/ampstories/web-story/satara-sahil-jadhav-asian-games-gold-medals-compound-archery-mix-and-mens-india-team-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-30/2841do9j/Sataras-Archer-Sahil-Jadhav-Gold-Medal.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "c9176f18d81d",
-            "feed": "maharashtratimes",
-            "title": "Ashok Kharat : खरातच्या वकिलांकडून पेनड्राईव्हची मागणी,  कोर्टात जोरदार युक्तिवाद, काय-काय घडलं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-09-30T23:25:24",
-            "url": "https://maharashtratimes.com/maharashtra/thane/ashok-kharat-lawyer-demanding-pendrive-for-casestudy-in-court/articleshow/134600042.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f03f419f6b3d",
+            "id": "3f5c0d6ef04a",
             "feed": "lokmat",
-            "title": "पाऊस पडणार की उकाडा वाढणार, मुंबईत ऑक्टोबर महिन्यात ‘असे’ असेल वातावरण; नवा अंदाज काय?",
+            "title": "Mumbai: कांजूरमार्ग मेट्रो कारशेडचा तिढा अखेर सुटला, गरोडियांची याचिका सुप्रीम कोर्टाने फेटाळली",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-30T23:05:54",
-            "url": "https://www.lokmat.com/mumbai/will-it-rain-or-temperature-increases-what-the-weather-be-like-in-mumbai-in-october-2026-know-new-forecast-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-05-15-at-5.04.35-pm-1_2026051703282.jpeg",
+            "published": "2026-10-01T06:57:57",
+            "url": "https://www.lokmat.com/mumbai/supreme-court-rejects-plea-over-kanjurmarg-land-legal-hurdle-cleared-for-metro-6-car-shed-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanjurmarg-metro-car-shed_2026101793410.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9174e8fca35a",
-            "feed": "esakal",
-            "title": "Shaktipeeth Highway : ‘शक्तिपीठ’ महामार्गाला वेग; १२९ गावांमध्ये संयुक्त मोजणी पूर्ण, सरकारची मोठी तयारी",
+            "id": "5c9ac6b2cb6f",
+            "feed": "lokmat",
+            "title": "Sachin Waze: वाझेच्या जामिनाला हायकोर्टाची अंतरिम स्थगिती; ७ ऑक्टोबरला पुढील सुनावणी",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-09-30T22:37:04",
-            "url": "https://www.esakal.com/maharashtra/shaktipeeth-highway-joint-measurement-completed-129-villages-maharashtra-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-30/vnne4026/sandeep-shirguppe-2026-09-30T223619.918.jpg",
+            "published": "2026-10-01T06:50:45",
+            "url": "https://www.lokmat.com/maharashtra/bombay-high-court-stays-sachin-wazes-bail-in-antilia-explosives-case-next-hearing-on-october-7-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sachin-waze-_2026101793408.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "49c384e88dbe",
-            "feed": "esakal",
-            "title": "Chhatrapati Sambhajinagar News: कायगावात विष प्राशन केलेल्या विवाहितेचा मृत्यू; गंगापूर पोलिसांत आकस्मिक मृत्यूची नोंद",
+            "id": "e9e2337affd3",
+            "feed": "lokmat",
+            "title": "टॅक्सीत फसवणूक; तीन जणांविरोधात अखेर गुन्हा दाखल , ‘लोकमत’च्या वृत्तानंतर रेल्वे पोलिसांची कारवाई",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
             },
-            "published": "2026-09-30T22:20:43",
-            "url": "https://www.esakal.com/marathwada/khaygaon-married-woman-dies-after-poison-intake-gangapur-police-register-accidental-death-case-in-chhatrapati-sambhajinagar-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-30/92pdlgoa/sudhir-jadhav-satara-18.jpg",
+            "published": "2026-10-01T06:44:17",
+            "url": "https://www.lokmat.com/mumbai/three-booked-for-cheating-21-year-old-engineering-student-in-cash-exchange-scam-outside-dadar-station-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dadar_2026101793406.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
+        },
+        {
+            "id": "51a5e23e5f4b",
+            "feed": "lokmat",
+            "title": "El Nino impact: एल निनोचा प्रभाव कायम राहणार, हिवाळा विसरा; यंदा उन्हाळा जीव काढणार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-01T06:38:48",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-may-face-intense-heat-until-summer-2027-water-scarcity-and-rising-power-demand-raise-concerns-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-weather-forecast_2026101793404.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8f3b026e0736",
+            "feed": "lokmat",
+            "title": "Baba Tiger: कुख्यात बाबा टायगर धावत्या ट्रेनमध्ये सिनेस्टाईल जेरबंद",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-01T06:31:41",
+            "url": "https://www.lokmat.com/maharashtra/gangster-baba-tiger-arrested-at-shegaon-railway-station-in-bhuru-don-contract-killing-case-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shegaon_2026101793402.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "395af23e38f3",
+            "id": "df41aecd53f5",
             "feed": "maharashtratimes",
-            "title": "अंक भविष्य, 1 October 2026: मूलांक 2 कामाची टाळाटाळ घातक! मूलांक 6 प्रयत्नांना यश मिळेल! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "title": "ECI Form 6 Big Decision: निवडणूक आयोगाची अखेर माघार; मतदार नोंदणी अर्ज 6मधील वादग्रस्त जादा घोषणापत्र मागे",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-01T04:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-chandra-gochar-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134600326.cms",
+            "published": "2026-10-01T07:01:51",
+            "url": "https://maharashtratimes.com/india-news/election-commission-removes-form-6-change-two-commissioners-had-called-illegal/articleshow/134605771.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "9a34a450ceb5",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 1 ऑक्टोबर 2026 : गौरी योगाचा शुभ संयोग, महिन्याची सुरुवात या 4 राशींसाठी जल्लोषात ! पहा तुमचे राशिभविष्य काय सांगते ?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-01T00:28:07",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-1-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134597245.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "55d7d8ef73d9",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 1 October 2026: षष्ठी श्राद्ध तिथी, सिद्धि योग, हंस राजयोग, गौरी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-09-30T23:04:23",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-1-october-in-marathi-shashthi-shraddha-tithi-siddhi-yog-gauri-yog-and-shubha-muhurta/articleshow/134598253.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ede91e557905",
-            "feed": "lokmat",
-            "title": "भोसरीत तीन ट्रॅव्हल्स बसला आग; एक बस पूर्णपणे खाक, दुरुस्तीचे काम होते सुरू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-09-30T22:57:00",
-            "url": "https://www.lokmat.com/pimpri-chinchwad/3-travel-buses-caught-fire-in-bhosari-one-bus-completely-burnt-while-repair-work-underway-a-a898-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhosari-bus-fire_2026091793399.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "74db7960cd36",
+            "id": "d5ff3f4f0b37",
             "feed": "esakal",
-            "title": "Wheat Green Revolution: गव्हाची हरित क्रांती",
+            "title": "आजचे राशिभविष्य - ०१ ऑक्टोबर २०२६",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-09-30T22:49:53",
-            "url": "https://www.esakal.com/sampadakiya/editorial-articles/wheat-green-revolution-in-india-how-high-yield-wheat-varieties-transformed-indian-agriculture-and-food-production-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-30/og0z0x4x/sudhir-jadhav-satara-20.jpg",
+            "published": "2026-10-01T07:00:00",
+            "url": "https://www.esakal.com/horoscope/on-this-day-today-rashi-bhavishya-horoscope-in-marathi-1-octomber-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/1Bhavishya_74.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "275ab1ae55b1",
+            "feed": "esakal",
+            "title": "Nuchinunde Recipe: इडली-वडा तर नेहमीच खाता; ट्राय करा कर्नाटकचं स्पेशल, प्रोटीनने भरपूर 'नुचिनुंडे'!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-01T07:00:00",
+            "url": "https://www.esakal.com/food/karnataka-special-nuchinunde-recipe-protein-rich-steamed-lentil-dumplings-for-healthy-breakfast-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-30/mmgsf9if/Nuchinunde-Recipe.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "25269df35a2e",
+            "feed": "esakal",
+            "title": "1 ऑक्टोबर 2026 राशिभविष्य! 'या' राशींची आर्थिक कामे मार्गी लागतील",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-01T06:35:58",
+            "url": "https://www.esakal.com/ampstories/web-story/today-horoscope-1-october-2026-rashibhavishya-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-01/c7mn1ntj/1.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "bdfa753fab45",
+            "feed": "esakal",
+            "title": "आजचे पंचांग आणि दिनविशेष - ०१ ऑक्टोबर २०२६",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-01T06:30:00",
+            "url": "https://www.esakal.com/culture-and-religion/today-panchang-and-on-this-day-history-in-marathi-1-octomber-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/4nbu1xl3/panchang.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
