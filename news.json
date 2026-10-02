@@ -1,252 +1,284 @@
 {
-    "lastUpdated": "02-10-2026 | 06:51 PM IST",
+    "lastUpdated": "03-10-2026 | 12:18 AM IST",
     "maharashtra": [
         {
-            "id": "d389c197020f",
+            "id": "c0d0f68c2804",
             "feed": "lokmat",
-            "title": "Drought situation: दुष्काळाच्या कचाट्यात सारं गेलं, आमच्या डोईवर कर्ज तेवढं उरलं!, सांगली जिल्ह्यातील शेतकऱ्यांची व्यथा",
+            "title": "दारूच्या नशेत फायरिंग, नशा उतरताच गुंडांची पळापळ; साजन, तुषार आणि गोलू फरार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-02T23:12:56",
+            "url": "https://www.lokmat.com/nagpur/fire-while-drunk-goons-run-away-after-coming-out-of-intoxication-a-a877-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-crime-abd-123_202209882617.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "18477a35a4b1",
+            "feed": "lokmat",
+            "title": "“काळ बदलला तरी ज्ञानेश्वरी काल, आज अन् उद्याही दिशादर्शक”: RSS सरसंघचालक मोहन भागवत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-02T23:05:09",
+            "url": "https://www.lokmat.com/mumbai/rss-chief-mohan-bhagwat-said-even-though-times-have-changed-but-dnyaneshwari-is-a-guide-for-yesterday-today-and-tomorrow-too-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2023-02-06-at-10.25.49-am_202302957977.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "df7c11aa9666",
+            "feed": "esakal",
+            "title": "Nagpur Crime : दारुड्या प्रवाशाचा हायव्होल्टेज ड्रामा! दारूच्या नशेत पकडली ठाण्यात पोलिसाची कॉलर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-02T23:02:41",
+            "url": "https://www.esakal.com/vidarbha/nagpur/nagpur-crime-drunken-passenger-high-voltage-drama-police-woman-dispute-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-01-30/ta20gkq3/crime",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "07c034c23b7b",
+            "feed": "esakal",
+            "title": "Degloor Crime : बनावट ग्राहकाच्या सापळ्यात मोटारसायकल चोर जेरबंद; १० चोरीच्या दुचाकींसह एक आरोपी ताब्यात, एक फरार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-02T18:44:20",
-            "url": "https://www.lokmat.com/sangli/everything-was-lost-in-the-drought-we-are-left-with-only-debt-the-suffering-of-farmers-in-sangli-district-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kavtemhakal-news-drou-farm_2026101794754.jpg",
+            "published": "2026-10-02T22:51:06",
+            "url": "https://www.esakal.com/marathwada/degloor-crime-motorcycle-thief-arrested-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-02/609z1fea/degloor-crime",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "ff950315792c",
-            "feed": "lokmat",
-            "title": "\"मागण्या पूर्ण होत असताना आंदोलनाचा फार्स कशासाठी?\"; एमपीएससी मुद्द्यावरून भाजप आमदार विक्रम पाचपुते यांचा रोहित पवारांना सवाल",
+            "id": "685b6f6e8d46",
+            "feed": "esakal",
+            "title": "Badnapur News : ‘साहेब, शेतकऱ्यांना भरीव मदत द्या, जनावरांसाठी चारा द्या’; वरुडीतील शेतकऱ्यांची महसूलमंत्री चंद्रशेखर बावनकुळे यांच्याकडे आर्जवी मागणी",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-02T18:40:51",
-            "url": "https://www.lokmat.com/maharashtra/why-the-farce-of-protest-when-demands-are-being-met-bjp-mla-vikram-pachpute-questions-rohit-pawar-on-mpsc-issue-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vikram-pachpute-rohit-pawar_2026101794752.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d1c0ea7e5a89",
-            "feed": "lokmat",
-            "title": "एफडीए अ‍ॅक्शन मोडवर; ५ दिवसांत १० ठिकाणी छापे, पुणे विभागातील हॉटेल, रेस्टॉरंट, डेअरी व दूध संकलन केंद्रांचे १७ परवाने निलंबित",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-02T18:39:03",
-            "url": "https://www.lokmat.com/pune/fda-on-action-mode-10-places-raided-in-5-days-17-licenses-of-hotels-restaurants-dairies-and-milk-collection-centers-in-pune-division-suspended-a-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fda-action-mode_2026101794750.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6a1035efcd3a",
-            "feed": "lokmat",
-            "title": "स्वीकृत नगरसेवक निवड, उल्हासनगर भाजपला स्थानिक नेत्यांचा 'ओव्हरकॉन्फिडन्स' नडला, शिंदेसेनेकडून भाजपची कोंडी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-02T18:37:46",
-            "url": "https://www.lokmat.com/thane/approved-corporator-election-ulhasnagar-bjp-faces-overconfidence-from-local-leaders-bjp-in-dilemma-from-shinde-sena-a-a562-c1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ulhas-mc-bldg_2026101794749.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "798894ea4f92",
-            "feed": "lokmat",
-            "title": "थेट न्यायाधीशांसमोरच आरोपीने खिशातून काढली पेट्रोलची बाटली अन् काडीपेटी! वकिलांच्या सतर्कतेने अनर्थ टळला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-02T18:33:49",
-            "url": "https://www.lokmat.com/beed/ambajogai-court-shock-accused-pours-petrol-on-himself-during-live-proceedings-lawyers-avert-tragedy-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/petrol-court-ambajogai-beed-crime_2026101794747.jpg",
+            "published": "2026-10-02T22:46:07",
+            "url": "https://www.esakal.com/marathwada/badnapur-drought-relief-farmers-demand-aid-chandrashekhar-bawankule-compensation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-02/8g6l6i6b/Chandrashekhar-Bawankule",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "585889541312",
-            "feed": "lokmat",
-            "title": "वाळूमाफियांची दादागिरी, तहसीलदारांच्या खासगी वाहनाची काच फोडली, तहसीलमधून ट्रॅक्टरचे टायर चोरून नेले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-02T18:39:18",
-            "url": "https://www.lokmat.com/jalana/jalana-crime-sand-mafias-brutality-glass-of-tehsildars-private-vehicle-broken-tractor-tires-stolen-from-tehsil-office-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tahasildar-car-glass-broken-sand-mafia_2026101794751.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "4bac7f863e29",
-            "feed": "lokmat",
-            "title": "5 Minute Recipes : भाजी- आमटी करायचा कंटाळा आला ? झटपट करा चविष्ट दही तडका ..",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-02T18:39:02",
-            "url": "https://www.lokmat.com/sakhi/food/5-minute-recipes-make-delicious-curd-tadka-in-no-time-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dahi-tadka-foods_2026091793114.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "9ed9fab046c7",
-            "feed": "lokmat",
-            "title": "इरकलच्या पारंपरिक कापडाचा नवा मार्डन स्टायलिश लूक, ७ सुंदर ड्रेस ‘असे’ शिवा-Reinvent fashion",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-02T18:38:08",
-            "url": "https://www.lokmat.com/sakhi/photos/fashion/a-new-modern-stylish-look-of-irakles-traditional-saree-7-beautiful-dresses-reinvent-fashion-a-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/irkal-dresses-womens_2026091792309.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ebc02c8fe679",
+            "id": "1e15b5720748",
             "feed": "maharashtratimes",
-            "title": "बायको आजारी, मला तुझ्यासोबत...; शाळा व्यवस्थापक अंगचटीला; शिक्षिकेकडे निर्लज्ज मागणी",
+            "title": "पहलगामचा बदला! हाशिम मुसा चकमकीत ठार; कधीकाळी पाकिस्तानी राष्ट्रपतींच्या VVIP सुरक्षेत होता कार्यरत",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-02T18:21:18",
-            "url": "https://maharashtratimes.com/india-news/up-school-operator-arrested-after-video-of-remarks-to-woman-teacher-goes-viral/articleshow/134639872.cms",
+            "published": "2026-10-02T23:56:11",
+            "url": "https://maharashtratimes.com/india-news/pahalgam-plotter-hasim-mussa-killed-encouter/articleshow/134644995.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "a2f1b1457e12",
+            "id": "b66bbae67745",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 3 October 2026: अष्टमी श्राद्ध तिथी, लक्ष्मी नारायण योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-02T23:50:21",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-3-october-in-marathi-ashtami-shraddha-tithi-lakshmi-narayan-yog-and-shubha-muhurta/articleshow/134643879.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "32204e8e7790",
+            "feed": "esakal",
+            "title": "Gujarat UCC: गुजरातमध्ये समान नागरी कायदा लागू करण्यास राष्ट्रपतींची मंजुरी; काय असेल नियमावली?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-02T23:05:35",
+            "url": "https://www.esakal.com/desh/president-droupadi-murmu-assent-gujarat-uniform-civil-code-bill-second-state-after-uttarakhand-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-02/xzr38hc5/Latest-Marathi-Breaking-News-2026-10-02T230238.866.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "f33e523dcb1d",
+            "feed": "maharashtratimes",
+            "title": "Dino Morea Arrested: मिठी नदी उपसा गाळ प्रकरणात दिनो मोरियामुळं BMC चं तब्बल इतक्या कोटींचं नुकसान, नेमका कसा अडकला बॉलिवूड अभिनेता?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-02T22:39:00",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/dino-morea-arrested-by-mumbai-police-in-alleged-rs-65-crore-mithi-river-desilting-scam/articleshow/134643993.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "96b20c3cb41a",
+            "feed": "maharashtratimes",
+            "title": "2009 India Drought: पाऊस कमी, शेती संकटात; Manmohan Singh सरकारने कसा वाचवला देश?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-02T22:19:53",
+            "url": "https://maharashtratimes.com/video/mt-originals/2009-drought-india-monsoon-crisis-manmohan-singh-government-response/videoshow/134643850.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        }
+    ],
+    "world": [
+        {
+            "id": "aec2b8a52b53",
+            "feed": "maharashtratimes",
+            "title": "कॅप्टन जखमी, प्लेन क्रॅशचा धोका; छोट्या नीनाच्या टॉयलेट ब्रेकनं अनर्थ टळला, 174 जणांना जीवदान",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-10-02T22:19:52",
+            "url": "https://maharashtratimes.com/international/international-news/flydubai-flight-6-year-old-girls-toilet-break-helped-save-pilot-smit-machchhar-and-passengers/articleshow/134643573.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a1fdecdffc25",
             "feed": "lokmat",
-            "title": "जया बच्चन सांगतात स्ट्रेस घालवण्याचा खास उपाय, आंघोळ करताना लावा 'हा' पांढरा पदार्थ-ताण जातो निघून",
+            "title": "ज्यांनी पायलटला पाठवले, त्यांना मोठी किंमत चुकवावी लागेल; फ्लायदुबई प्रकरणी इस्रायलचा इशारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-02T22:14:39",
+            "url": "https://www.lokmat.com/international/israel-benjamin-netanyahu-warns-whoever-sent-this-pilot-will-pay-a-very-heavy-price-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/israel-and-fly-dubai_2026101794808.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7570c15f0e55",
+            "feed": "maharashtratimes",
+            "title": "फ्लाईट हायजॅक प्रकरणाला नवं वळण; मुस्लिम देशाची ठाम भूमिका, कॅप्टन स्मित यांच्या धाडसाला सलाम",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-10-02T19:42:50",
+            "url": "https://maharashtratimes.com/international/international-news/uae-praises-indian-pilot-smit-machchhar-says-flydubai-attack-terrorist-act/articleshow/134641290.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ae78776365ca",
+            "feed": "esakal",
+            "title": "Cockpit attack: 'मोठी किंमत मोजावी लागेल', कॉकपिट घटनेवर इस्रायलचे पंतप्रधान बेंजामिन नेतन्याहू यांचा इशारा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-02T19:24:41",
+            "url": "https://www.esakal.com/global/netanyahu-heavy-price-warning-flydubai-cockpit-attack-islamic-radicalization-iran-probe-israel-uae-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-02/6jmi60tj/Latest-Marathi-Breaking-News-2026-10-02T192225.283.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "c920f69d867a",
+            "feed": "lokmat",
+            "title": "कोण आहे आफिया सैयद? 'प्रेम कीटाणु'मधून बॉलिवूडमध्ये केलं पदार्पण, सौंदर्यात देते प्रसिद्ध अभिनेत्रींना टक्कर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-02T18:20:34",
-            "url": "https://www.lokmat.com/sakhi/beauty/jaya-bachchan-says-remedies-to-reduce-stress-benefits-of-salt-bath-what-is-salt-bath-and-its-benefits-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-02-at-16.08.09_2026101794679.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        }
-    ],
-    "world": [
-        {
-            "id": "322c1c7979c5",
-            "feed": "maharashtratimes",
-            "title": "Who is the Omani co-pilot : Captain Smit Machchhar यांना जखमी करणाऱ्याचं नाव, ओळख का लपवली जातेय?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-02T17:00:53",
-            "url": "https://maharashtratimes.com/video/mt-originals/who-is-the-omani-co-pilot/videoshow/134638340.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5f7ca1848d44",
-            "feed": "maharashtratimes",
-            "title": "मागणी वाढणार! कॅप्टन स्मित यांच्या धाडसानंतर पाकिस्तानी तज्ज्ञ सावध; आखाती देशांना धोक्याचा इशारा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-02T15:24:47",
-            "url": "https://maharashtratimes.com/international/international-news/flydubai-flight-incident-pakistan-expert-predicts-high-demand-for-indian-pilots-after-captain-smit-machchhars-heroic-courage/articleshow/134636364.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5fbb4a01bcd4",
-            "feed": "maharashtratimes",
-            "title": "पुतिन म्हणाले- मोदी माझे चांगले मित्र असले तरी वारंवार युद्ध थांबवण्यास सांगतात, त्यांचे सल्ले चांगले आहेत! युद्धाला ब्रेक लागणार?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-02T14:34:33",
-            "url": "https://maharashtratimes.com/international/international-news/russia-ukraine-war-prime-minister-modi-get-praised-by-putin-for-peace-efforts/articleshow/134635376.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7642b7fa07a5",
-            "feed": "maharashtratimes",
-            "title": "Smit Machchhar : विमान उडवताना पाहून भीती वाटते, तू बिझनेसच सांभाळ, आईची होती इच्छा; 'हवाई हिरो' स्मित मच्छार यांना वडिलांनी दिलेलं बळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-02T11:14:02",
-            "url": "https://maharashtratimes.com/international/international-news/smit-machchhar-mother-wanted-him-to-do-textile-business-father-supported-flying-dream/articleshow/134632335.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e16ed54a8ead",
-            "feed": "maharashtratimes",
-            "title": "जगातील पहिलं हेल्थ वियरेबल 'टेंपल' 6 रंगात होणार लॉन्च; पुढील आठवड्यापासून प्री-ऑर्डर सुरू",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-02T10:18:38",
-            "url": "https://maharashtratimes.com/gadget-news/world-first-health-wearable-temple-to-launch-in-6-colors-pre-orders-live-next-week/articleshow/134632001.cms",
-            "image": "",
+            "published": "2026-10-02T19:02:35",
+            "url": "https://www.lokmat.com/filmy/bollywood/who-is-aafia-syed-she-made-her-bollywood-debut-with-prem-kitanu-rivals-famous-actresses-in-beauty-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/afiya-sayed_2026101794760.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "2960e1352353",
+            "feed": "esakal",
+            "title": "IND vs WI 3rd ODI: २-० ने मालिका जिंकली अन् आता टीम इंडियात होणार मोठा फेरबदल? तिसऱ्या वनडेत ‘या’ स्टार्सची एन्ट्री, कोण होणार OUT?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-02T19:31:00",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-wi-3rd-odi-team-india-playing-11-mohammed-siraj-ruturaj-gaikwad-kl-rahul-yashasvi-jaiswal-prasidh-krishna-out-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-02/6u08lo4q/washington-sundar.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "63eb540f074d",
+            "feed": "lokmat",
+            "title": "इम्फाळमध्ये ३८ व्या राष्ट्रीय योगासन स्पर्धेचे दिमाखदार उद्घाटन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-02T19:03:35",
+            "url": "https://www.lokmat.com/other-sports/38th-national-yoga-asana-competition-inaugurated-in-imphal-a-a1020/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/38th-national-yoga-asana-competition-inaugurated-in-imphal_2026101794755.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "6e65d6da4d8b",
             "feed": "esakal",
@@ -262,88 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-02/wpx0g4o1/washington-sundar.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "ed14ec4f2625",
-            "feed": "lokmat",
-            "title": "Asian Games 2026 : चक दे! इंडिया... भारताच्या लेकींनी जपानमध्ये रचला इतिहास; हॉकीत ४४ वर्षांनी पटकावलं सुवर्णपदक!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-02T18:02:30",
-            "url": "https://www.lokmat.com/hockey/asian-games-2026-indian-womens-hockey-team-make-history-beat-china-to-end-44-year-gold-medal-drought-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/asian-games-2026-indian-womens-hockey-team-gold-medal-m_2026101794728.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "f6022b91b5b0",
-            "feed": "esakal",
-            "title": "World Cup 2027: गांगुलीने निवडली टीम इंडियाची Playing XI; रोहित-कोहलीसह ‘या’ खेळाडूंना संधी, पण एका स्टारला थेट केलं OUT",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-02T17:46:15",
-            "url": "https://www.esakal.com/krida/cricket/sourav-ganguly-picks-india-playing-xi-world-cup-2027-virat-kohli-rohit-sharma-in-kuldeep-yadav-out-see-all-playing-11-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-02/xxc75z0e/washington-sundar.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "3daf95a4bef9",
+            "id": "f0ccaabec3cc",
             "feed": "maharashtratimes",
-            "title": "Kolapur DCC Bank Election : बिनविरोध नाही, आरपारची लढाई, महायुतीविरोधात सतेज पाटलांनी रणशिंग फुंकलं",
+            "title": "Gold Rate : लवकरच सामान्यांच्या बजेटमध्ये येईल सोने, मोठ्या घसरणीची शक्यता! तज्ञांचा अंदाज बदलला",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "business"
             },
-            "published": "2026-10-02T18:37:29",
-            "url": "https://maharashtratimes.com/video/mt-originals/satej-patil-on-electing-kdcc-bank-election-against-hasan-mushrif-and-mahayuti/videoshow/134640525.cms",
+            "published": "2026-10-02T23:21:22",
+            "url": "https://maharashtratimes.com/business/business-news/hsbc-changed-prediction-about-gold-prices-central-banks-will-be-game-changer/articleshow/134643146.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "b93ab34455aa",
+            "id": "41e01dedebe2",
             "feed": "lokmat",
-            "title": "Kanda Market : आज गांधी जयंतीच्या दिवशी उन्हाळ कांद्याला काय दर मिळाले, वाचा आजचे कांदा मार्केट",
+            "title": "Chara Tanchai : सोयाबीन व हरभरा कुटारावर युरिया-काकवी प्रक्रिया, चारा टंचाईवर मात करण्यासाठी उपाय",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-02T18:35:02",
-            "url": "https://www.lokmat.com/agriculture/market-yard/price-of-summer-onion-on-gandhi-jayanti-see-and-read-todays-onion-market-prices-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda2-oct_2026101794732.jpeg",
+            "published": "2026-10-02T20:35:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/maharashtra-drought-urea-slurry-treatment-on-soybean-and-gram-solution-to-overcome-fodder-shortage-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chara-tanchai-4_2026101794767.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e26bbbd22af4",
-            "feed": "lokmat",
-            "title": "Dushkal Panchnama : शेतकऱ्यांच्या करपलेल्या स्वप्नांचे काय; हेक्टरी १७,५०० रुपयांत वर्ष कसे काढायचे?",
+            "id": "2ff7cbc88c15",
+            "feed": "maharashtratimes",
+            "title": "1 लाखाचे करा 2 लाख! 10 लाखांचे करा 20 लाख! पैसे दुप्पट करणारी सरकारची विशेष योजना",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
             },
-            "published": "2026-10-02T18:25:22",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-dushkal-panchnama-what-about-the-shattered-dreams-of-farmers-how-to-make-a-year-of-it-at-rs-17500-per-hectare-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shtatat-soybean-nahi-1_2026101794739.jpg",
+            "published": "2026-10-02T19:55:53",
+            "url": "https://maharashtratimes.com/business/business-news/kisan-vikas-patra-kvp-investment-scheme-get-a-double-amount-after-maturity/articleshow/134641714.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ]
 }
