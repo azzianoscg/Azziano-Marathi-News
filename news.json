@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "03-10-2026 | 12:18 AM IST",
+    "lastUpdated": "03-10-2026 | 04:12 AM IST",
     "maharashtra": [
         {
             "id": "c0d0f68c2804",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "03233c8a7ed6",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 3 October 2026: मूलांक 3 भेटीमुळे फायदा! मूलांक 8  खुषखबर मिळणार! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-03T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-3-october-laxmi-narayan-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134646305.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "fbca2221fe28",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 3 ऑक्टोबर 2026 : शुक्र-बुधाची युती देणार या राशींना पैसा सुख समृद्धी तर या राशींवर शनीची छाया  ! पहा तुमचे राशिभविष्य !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-03T00:14:35",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-3-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134645561.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "1e15b5720748",
             "feed": "maharashtratimes",
             "title": "पहलगामचा बदला! हाशिम मुसा चकमकीत ठार; कधीकाळी पाकिस्तानी राष्ट्रपतींच्या VVIP सुरक्षेत होता कार्यरत",
@@ -130,38 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-02/xzr38hc5/Latest-Marathi-Breaking-News-2026-10-02T230238.866.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "f33e523dcb1d",
-            "feed": "maharashtratimes",
-            "title": "Dino Morea Arrested: मिठी नदी उपसा गाळ प्रकरणात दिनो मोरियामुळं BMC चं तब्बल इतक्या कोटींचं नुकसान, नेमका कसा अडकला बॉलिवूड अभिनेता?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-02T22:39:00",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/dino-morea-arrested-by-mumbai-police-in-alleged-rs-65-crore-mithi-river-desilting-scam/articleshow/134643993.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "96b20c3cb41a",
-            "feed": "maharashtratimes",
-            "title": "2009 India Drought: पाऊस कमी, शेती संकटात; Manmohan Singh सरकारने कसा वाचवला देश?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-02T22:19:53",
-            "url": "https://maharashtratimes.com/video/mt-originals/2009-drought-india-monsoon-crisis-manmohan-singh-government-response/videoshow/134643850.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "world": [
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "294065d99c88",
+            "feed": "maharashtratimes",
+            "title": "Team India : आज सुपर सॅटरडे! भारत-पाक महामुकाबल्यासह टीम इंडियाचे 3 मोठे सामने; संपूर्ण शेड्युल जाणून घ्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-10-03T00:20:33",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-today-three-matches-schedule-india-vs-pakistan-for-gols-withe-faces-west-indies-today-check-full-schedule/articleshow/134645231.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "2960e1352353",
             "feed": "esakal",
             "title": "IND vs WI 3rd ODI: २-० ने मालिका जिंकली अन् आता टीम इंडियात होणार मोठा फेरबदल? तिसऱ्या वनडेत ‘या’ स्टार्सची एन्ट्री, कोण होणार OUT?",
@@ -278,22 +294,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/38th-national-yoga-asana-competition-inaugurated-in-imphal_2026101794755.jpeg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "6e65d6da4d8b",
-            "feed": "esakal",
-            "title": "IND W Hockey: ४४ वर्षांची प्रतीक्षा अखेर संपली! चीनला फायनलमध्ये हरवत भारताचा गोल्डवर कब्जा; थेट ऑलिम्पिकचं तिकीटही मिळवलं",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-02T18:22:21",
-            "url": "https://www.esakal.com/krida/india-womens-hockey-gold-medal-asian-games-2026-china-final-44-years-la-2028-olympics-qualification-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-02/wpx0g4o1/washington-sundar.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "business": [
