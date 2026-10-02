@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "02-10-2026 | 02:11 AM IST",
+    "lastUpdated": "02-10-2026 | 05:50 AM IST",
     "maharashtra": [
         {
             "id": "33865f07f011",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "a2eca1bfce86",
+            "feed": "maharashtratimes",
+            "title": "अंक भविष्य, 2 October 2026: मूलांक 5 सल्ला लाभदायक! मूलांक 8 कामात फोकस करा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-02T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-2-october-navam-pancham-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134626511.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "a11a4999709b",
             "feed": "lokmat",
             "title": "बायणा उड्डाणपुलावर अपघाताचा थरार; फ्लायओव्हरवरून दोघे खाली कोसळले, 29 वर्षीय तरुणासह तरुणीचा मृत्यू",
@@ -146,22 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ajit-wadekar-lokmat_2026101794142.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "932957029bf5",
-            "feed": "esakal",
-            "title": "Sugar Prices: साखरेबाबत केंद्र सरकारचा मोठा निर्णय! साठेबाजीला बसणार आळा; विक्रेत्यांना किती साखर साठवता येईल?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-01T23:51:05",
-            "url": "https://www.esakal.com/desh/government-slashes-sugar-stock-limit-dealers-1000-quintals-festive-season-curb-hoarding-price-rise-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-01/xi00ypx1/Latest-Marathi-Breaking-News-2026-10-01T234901.629.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
