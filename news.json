@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "04-10-2026 | 01:06 AM IST",
+    "lastUpdated": "04-10-2026 | 04:02 AM IST",
     "maharashtra": [
         {
             "id": "0635adab8302",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "d7d4ebbb177f",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 4 October 2026: नवमी श्राद्ध तिथी, त्रिग्रहीसह गजकेसरी राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-04T01:54:51",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-4-october-in-marathi-navami-shraddha-tithi-gajakesari-rajayog-and-shubha-muhurta/articleshow/134664410.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "c8474c7b2dbf",
             "feed": "esakal",
             "title": "PM झालो तर काय करेन? संजय दत्तचं मुन्नाभाई स्टाईलने उत्तर, ट्रम्प यांना म्हणाला...'मामू, तुम भटक गए हो' पंतप्रधान मोदींवरही टोलेबाजी",
@@ -144,22 +160,6 @@
             "published": "2026-10-03T23:32:07",
             "url": "https://www.lokmat.com/crime/migrant-workers-attacked-threatened-with-death-in-latur-four-in-handcuffs-one-absconding-a-a463-c747/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/midc-police-0310_2026101795366.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2af0f6177452",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 4 ऑक्टोबर 2026 : ग्रहांची मजबूत स्थिती देणार या राशींना बंपर लाभ,भाग्य चमकणार  ! पहा तुमचे राशिभविष्य !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-03T23:31:53",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-4-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134664368.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
