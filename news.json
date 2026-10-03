@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "03-10-2026 | 10:22 PM IST",
+    "lastUpdated": "04-10-2026 | 01:06 AM IST",
     "maharashtra": [
         {
-            "id": "a0dcd6702c39",
-            "feed": "esakal",
-            "title": "Beed News : येत्या आठवड्यात कारागृह विशेष पोलीस महानिरीक्षक बीडच्या कारागृहात येणार; वादग्रस्त 'कॉल रेकॉर्डिंग' अन् अवैध कारभाराची स्वतः करणार झाडाझडती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-03T22:17:46",
-            "url": "https://www.esakal.com/marathwada/special-ig-yogesh-desai-of-prisons-to-visit-beed-jail-next-week-to-personally-investigate-controversial-call-recordings-and-alleged-illegal-activities-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-03/3346haxq/beed-district-jail",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "9f9fab572d54",
-            "feed": "esakal",
-            "title": "Nagpur News : विमानासाठी गेट उघडताना काळाचा घाला! लोखंडी गेट अंगावर कोसळून सुरक्षा रक्षकाचा मृत्यू; दुसरा गंभीर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-03T22:10:04",
-            "url": "https://www.esakal.com/vidarbha/nagpur/tragic-accident-while-opening-airport-gate-security-guard-killed-another-seriously-injured-as-heavy-iron-gate-collapses-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-06-08/7cvg79tm/death",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "062cec772b56",
-            "feed": "esakal",
-            "title": "Kaygaon News : जिल्हा परिषद प्राथमिक शाळा, अमळनेर येथे ‘आजी-आजोबा दिन’ उत्साहात साजरा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-03T22:00:39",
-            "url": "https://www.esakal.com/marathwada/grandparents-day-celebrated-with-enthusiasm-at-zilla-parishad-primary-school-in-amalner-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-03/4wwp76an/Grandparents-Day-Celebrated-With-Enthusiasm-at-Zilla-Parishad-Primary-School-in-Amalner",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d2baf7fea3ce",
-            "feed": "esakal",
-            "title": "Velhe News : गुंजवणी प्रकल्पाच्या सुधारित जलनियोजनाला शासनाची मान्यता; वाजेघर, वांगणी व शिवगंगा खोऱ्यातील सिंचनाला मिळणार गती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-03T21:54:08",
-            "url": "https://www.esakal.com/pune/government-approves-revised-water-distribution-plan-for-gunjawani-project-irrigation-to-gain-momentum-in-wajeghar-wangani-and-shivganga-valleys-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-03/3uy289z7/gunjawani-project",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "26b7d8ef7c52",
-            "feed": "esakal",
-            "title": "Rahul Gandhi MPSC Students Protest : एमपीएससी विद्यार्थ्यांच्या आंदोलनाला राहुल गांधींचा पाठिंबा; म्हणाले, ‘आश्वासने नकोत, ठोस कारवाई हवी’",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-03T21:43:54",
-            "url": "https://www.esakal.com/maharashtra/rahul-gandhi-backs-mpsc-students-protest-in-pune-calling-for-concrete-action-over-paper-leaks-recruitment-delays-and-concerns-over-exam-transparency-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-03/aam1giul/sandeep-shirguppe-2026-10-03T214304.229.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
-        {
-            "id": "99e3ad5d625f",
-            "feed": "esakal",
-            "title": "दिवसभरातील महत्त्वाच्या घडामोडी वाचा एका क्लिकवर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-03T21:32:11",
-            "url": "https://www.esakal.com/desh/cjp-protest-mpsc-student-protest-captain-weather-updates-rain-drought-marathwada-vidarbha-sir-gyanesh-kumar-cm-devendra-fadnavis-sports-manoranjan-share-market-gold-silver-ssy93-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-01/horghhhd/sandeep-shirguppe-2026-04-01T075916.984.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "9783dad326a0",
-            "feed": "esakal",
-            "title": "बुमराहची स्पेशल सेंच्युरी; 'हा' पराक्रम करणारा पहिला भारतीय वेगवान गोलंदाज",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-03T21:21:56",
-            "url": "https://www.esakal.com/ampstories/web-story/jasprit-bumrah-100-t20i-matches-first-indian-fast-bowler-overall-6th-cricketer-top-5-list-rohit-sharma-virat-kohli-suryakumar-yadav-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-03/7m9a2m4k/Most-T20I-Matches-for-India-10.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "b6f66727037e",
-            "feed": "maharashtratimes",
-            "title": "झालं गेलं विसर, घरी ये! चहाला बोलावून बेसावध क्षणी गाठलं; तरुणाला संपवलं, मग पोलिसांना कॉल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-03T21:14:24",
-            "url": "https://maharashtratimes.com/india-news/uttarakhand-youth-shot-dead-over-old-dispute-accused-dials-police-after-crime/articleshow/134662298.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "724738b526d3",
+            "id": "0635adab8302",
             "feed": "lokmat",
-            "title": "भाड्याच्या घरात पाऊल ठेवण्याआधी ७ गोष्टी नक्की तपासा! नंतर खिशाला बसेल मोठा फटका- निष्काळजीपणा पडेल महागात...",
+            "title": "ट्रेलरने दुचाकीवरील तिघांना चिरडले; अपघातात पती-पत्नीसह मुलाचा मृत्यू; दुसरा मुलगा गंभीर जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-03T23:47:06",
+            "url": "https://www.lokmat.com/nagpur/trailer-crushes-three-people-on-a-bike-husband-wife-and-son-die-in-accident-second-son-seriously-injured-a-a877-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/accident-0604f_2026101795369.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "597f6aa71e05",
+            "feed": "lokmat",
+            "title": "पनवेल तालुक्यात भूकंपाचे सौम्य धक्के; तीव्रता २.६ रिश्टर स्केल, सुदैवाने जीवितहानी नाही!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-03T20:05:02",
-            "url": "https://www.lokmat.com/sakhi/photos/social-viral/things-to-check-before-moving-into-a-rental-house-things-to-check-in-a-rented-what-to-check-before-renting-a-house-house-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/things-to-check-before-moving-into-a-rental-house_2026101795268.jpeg",
+            "published": "2026-10-03T23:40:30",
+            "url": "https://www.lokmat.com/raigad/mild-earthquake-tremors-felt-in-panvel-taluka-nanoshi-village-intensity-26-on-the-richter-scale-fortunately-no-loss-of-life-a-a846-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nanoshi-panvel_2026101795368.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "c0ffd6119268",
+            "id": "cad2ebd7c32b",
+            "feed": "lokmat",
+            "title": "भंडारवाडी येथील रेणा प्रकल्पात आढळला मृतदेह, लातूर जिल्ह्यातील धक्कादायक घटना",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-03T23:34:57",
+            "url": "https://www.lokmat.com/latur/body-found-in-rena-project-in-bhandarwadi-shocking-incident-in-latur-district-a-a463-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-scene-police-2905sfffcc_2026101795367.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "0fb11ed94ec1",
+            "feed": "maharashtratimes",
+            "title": "Satara Leopard Attack : गावात लाईट गेली, अंधाराचा फायदा घेत बिबट्याची चिमुकल्यावर झेप, सातारा हळहळलं!",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-03T23:31:36",
+            "url": "https://maharashtratimes.com/maharashtra/satara/two-year-old-child-death-in-leopard-attack-in-satara/articleshow/134664025.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "18e9bccf3e18",
             "feed": "esakal",
-            "title": "गोपूजा करणारा मुघल बादशहा कोण होता?",
+            "title": "नाशिककरांची आज ‘स्वास्थ्यम’कडे उत्साही वाटचाल!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-03T23:19:12",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-walk-for-swasthyam",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-03/oh351mbm/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "c8474c7b2dbf",
+            "feed": "esakal",
+            "title": "PM झालो तर काय करेन? संजय दत्तचं मुन्नाभाई स्टाईलने उत्तर, ट्रम्प यांना म्हणाला...'मामू, तुम भटक गए हो' पंतप्रधान मोदींवरही टोलेबाजी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-03T20:00:48",
-            "url": "https://www.esakal.com/ampstories/web-story/did-mughal-emperor-akbar-worship-cows-ain-i-akbari-historical-facts-cattle-slaughter-restrictions-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-03/r549jd6j/7.jpg",
+            "published": "2026-10-04T00:16:44",
+            "url": "https://www.esakal.com/premier/sanjay-dutt-munna-bhai-pm-modi-gandhi-jayanti-shekhar-tonight-trump-comment-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-03/fc4iefa7/sanjay-dutt",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "667bd153fe7c",
+            "feed": "maharashtratimes",
+            "title": "मोठी बातमी! CJP आंदोलनात चर्चेत आलेले 'Bitchat' ॲप App Store वरून हटवले; को-फाऊंडरकडून 'भारत सरकार'चा उल्लेख",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-04T00:09:49",
+            "url": "https://maharashtratimes.com/gadget-news/govt-removes-genz-favorite-bitchat-app-from-app-store-post-cjp-protests-co-founder-confirms/articleshow/134664739.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "c4891f73556e",
+            "feed": "lokmat",
+            "title": "घर पाडण्याची धमकी देत व्यापाऱ्याकडून खंडणी वसुली; भागचंदानीविरुद्ध आणखी एक गुन्हा दाखल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-04T00:08:00",
+            "url": "https://www.lokmat.com/crime/extortion-from-businessman-by-threatening-to-demolish-house-another-case-registered-against-bhagchandani-a-a877-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-station-0904c_2026101795371.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "27866705d0ac",
+            "feed": "lokmat",
+            "title": "लातूरमध्ये परप्रांतीय कामगारांवर हल्ला, जीवे मारण्याची धमकी; चौघांना बेड्या, एक फरार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-03T23:32:07",
+            "url": "https://www.lokmat.com/crime/migrant-workers-attacked-threatened-with-death-in-latur-four-in-handcuffs-one-absconding-a-a463-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/midc-police-0310_2026101795366.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "2af0f6177452",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 4 ऑक्टोबर 2026 : ग्रहांची मजबूत स्थिती देणार या राशींना बंपर लाभ,भाग्य चमकणार  ! पहा तुमचे राशिभविष्य !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-03T23:31:53",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-4-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134664368.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "cfbd11b9eefc",
+            "feed": "lokmat",
+            "title": "रशिया युक्रेनवर मोठा हल्ला करणार? परदेशी नागरिक, डिप्लोमॅट्स, अधिकाऱ्यांना देश सोडण्याचा इशारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-04T00:02:16",
+            "url": "https://www.lokmat.com/international/russia-to-launch-major-attack-on-ukraine-foreign-citizens-diplomats-officials-warned-to-leave-the-country-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-ukraine-0410_2026101795370.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "62a42c37ed39",
+            "feed": "esakal",
+            "title": "Flydubai Attack: 'त्या' पायलटला सोडण्यासाठी क्रू मेंबर्स झाले आक्रमक! इस्रायली प्रवाशांचा खळबळजनक दावा; विमानात नेमकं काय घडलं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-03T22:38:29",
+            "url": "https://www.esakal.com/global/flydubai-flight-israeli-passengers-claim-cabin-crew-demanded-omani-co-pilot-freed-captain-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-03/3fy3snwe/Latest-Marathi-Breaking-News-2026-10-03T223605.047.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "456bde8c8270",
             "feed": "maharashtratimes",
@@ -212,91 +244,75 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "7460e95ecc0c",
-            "feed": "maharashtratimes",
-            "title": "हा तर हेट क्राईम! अमेरिकेत हिंदू मंदिरावर विटांनी हल्ला; हिंदू अमेरिकन फाऊंडेशनकडून निषेध",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-03T17:27:37",
-            "url": "https://maharashtratimes.com/international/international-news/america-hindu-temple-swami-narayan-mandir-attacked-by-bricks/articleshow/134658414.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "138ddad6ad6a",
-            "feed": "esakal",
-            "title": "Iranian Boat Drug Seizure: तीन हजार कोटींच्या अमली पदार्थांची तस्करी करणारी इराणी नौका नारगोल किनाऱ्यावर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-03T15:59:15",
-            "url": "https://www.esakal.com/global/iranian-boat-drug-seizure-526-kg-narcotics-3000-crore-coast-guard-gujarat-ats-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-03/kkbvmwbz/png",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "f51fbf7df12d",
+            "id": "7d3db603aa74",
+            "feed": "esakal",
+            "title": "IND vs WI: भारताविरुद्ध शाय होपच्या नाबाद १६२ धावांनी मोडला ३७ वर्षांचा रेकॉर्ड; रोहित-डिव्हिलियर्सलाही टाकले मागे",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-04T00:33:12",
+            "url": "https://www.esakal.com/krida/cricket/shai-hope-breaks-37-year-old-record-with-unbeaten-162-as-west-indies-beat-india-in-3rd-odi-surpasses-rohit-sharma-ab-de-villiers-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-03/8qqgth7g/Shai-Hope-India-vs-West-Indies-3rd-ODI-1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "655bc0dce29d",
             "feed": "maharashtratimes",
-            "title": "Lhuan-dre Pretorius Record : ख्रिस गेलचा टी-20मधील नॉट आऊट 175 रेकॉर्ड 20 वर्षाच्या पोराने मोडला? कोण आहे तो 'जायंट किलर'?",
+            "title": "IND vs WI 3rd ODI : भारताचा तिसऱ्या वनडे सामन्यात पराभव, कॅप्टन शे होपची 162 धावांची मॅचविनिंग खेळी; टीम इंडियाची पडती बाजू समोर",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-10-03T20:44:36",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/south-african-batsman-lhuan-dre-pretorius-breaks-chris-gayles-t20-world-record/articleshow/134661833.cms",
+            "published": "2026-10-03T23:31:54",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/west-indies-defeat-india-by-5-wickets-in-the-3rd-odi-shai-hope-hundred/articleshow/134662646.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "915df2dc12b4",
+            "id": "285d6008788b",
             "feed": "lokmat",
-            "title": "IND vs WI: सिराज घाबरला; गुरनूर ब्रारचा थ्रो पाहून रोहित-विराट पोट धरून हसले; नेमकं काय घडलं? (VIDEO)",
+            "title": "IND vs WI 3rd ODI : टीम इंडियाने मालिका जिंकली; पण Shai Hopeच्या झुंजार खेळीच्या जोरावर कॅरेबियन संघानं इतिहास रचला!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-03T20:43:47",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-wi-3rd-odi-gurnoor-brars-throw-sends-mohammed-siraj-ducking-rohit-sharma-and-virat-kohli-burst-out-laughing-reaction-goes-viral-watch-video-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gurnoor-brar-mohammed-siraj-virat-kohli-and-rohit-sharma-reaction-m-_2026101795334.jpg",
+            "published": "2026-10-03T23:13:36",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-wi-3rd-odi-shai-hope-battles-cramps-as-west-indies-chase-down-352-to-beat-india-by-5-wickets-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-wi-3rd-odi-shai-hope-battles-cramps-1-m-_2026101795364.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "1e96506fa79c",
-            "feed": "esakal",
-            "title": "Asian Games: शेवटच्या दिवशी ५ GOLD! कुमकुम, अमन, प्रणवीपाठोपाठ हॉकी-क्रिकेट संघांची सुवर्ण कामगिरी; भारताच्या खात्यात ८५ मेडल्स",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-03T20:06:29",
-            "url": "https://www.esakal.com/krida/india-finish-asian-games-2026-with-85-medals-as-cricket-hockey-kumkum-mohod-aman-sehrawat-pranavi-urs-win-gold-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-03/iob12lo1/India-at-Asian-Games-2026-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "business": [
+        {
+            "id": "da5a9311556b",
+            "feed": "maharashtratimes",
+            "title": "US India Trade Deal : भारतासाठी अमेरिकेचा बाजार होणार स्पर्धामुक्त! करारात विशेष तरतूद करण्याचा प्रस्ताव",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-10-03T23:38:08",
+            "url": "https://maharashtratimes.com/business/business-news/forward-mfn-and-sunset-clause-special-provision-in-us-india-trade-deal/articleshow/134664339.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "765be7df01e6",
             "feed": "maharashtratimes",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/draksh-dalimb_2026101795298.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "0a9e95b16384",
-            "feed": "maharashtratimes",
-            "title": "संपत्तीमुळे कुटुंब तुटू देऊ नका! मालमत्तेची वाटणी करण्याची संपूर्ण पद्धत समजून घ्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-10-03T19:44:07",
-            "url": "https://maharashtratimes.com/business/real-estate-news/will-making-rules-in-india-how-to-make-it-and-what-will-be-registration-cost/articleshow/134660631.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
