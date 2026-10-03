@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "03-10-2026 | 04:12 AM IST",
+    "lastUpdated": "03-10-2026 | 07:03 AM IST",
     "maharashtra": [
+        {
+            "id": "fa8f27f7298f",
+            "feed": "maharashtratimes",
+            "title": "Chandrashekhar Bawankule: जमीन विक्री गैरव्यवहाराबाबत SIT नेमणार; खिदमतमाश, मदतमाशबाबत महसूलमंत्री बावनकुळे यांचे आश्वासन",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-03T06:40:06",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/chandrashekhar-bawankule-says-sit-will-be-appointed-to-investigate-chhatrapati-sambhajinagar-land-sale-scam/articleshow/134650296.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c0d0f68c2804",
             "feed": "lokmat",
@@ -64,104 +80,88 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-02/609z1fea/degloor-crime",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "685b6f6e8d46",
-            "feed": "esakal",
-            "title": "Badnapur News : ‘साहेब, शेतकऱ्यांना भरीव मदत द्या, जनावरांसाठी चारा द्या’; वरुडीतील शेतकऱ्यांची महसूलमंत्री चंद्रशेखर बावनकुळे यांच्याकडे आर्जवी मागणी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-02T22:46:07",
-            "url": "https://www.esakal.com/marathwada/badnapur-drought-relief-farmers-demand-aid-chandrashekhar-bawankule-compensation-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-02/8g6l6i6b/Chandrashekhar-Bawankule",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "03233c8a7ed6",
-            "feed": "maharashtratimes",
-            "title": "अंक भविष्य, 3 October 2026: मूलांक 3 भेटीमुळे फायदा! मूलांक 8  खुषखबर मिळणार! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-03T04:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-3-october-laxmi-narayan-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134646305.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "fbca2221fe28",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 3 ऑक्टोबर 2026 : शुक्र-बुधाची युती देणार या राशींना पैसा सुख समृद्धी तर या राशींवर शनीची छाया  ! पहा तुमचे राशिभविष्य !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-03T00:14:35",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-3-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134645561.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "1e15b5720748",
-            "feed": "maharashtratimes",
-            "title": "पहलगामचा बदला! हाशिम मुसा चकमकीत ठार; कधीकाळी पाकिस्तानी राष्ट्रपतींच्या VVIP सुरक्षेत होता कार्यरत",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-02T23:56:11",
-            "url": "https://maharashtratimes.com/india-news/pahalgam-plotter-hasim-mussa-killed-encouter/articleshow/134644995.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b66bbae67745",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 3 October 2026: अष्टमी श्राद्ध तिथी, लक्ष्मी नारायण योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-02T23:50:21",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-3-october-in-marathi-ashtami-shraddha-tithi-lakshmi-narayan-yog-and-shubha-muhurta/articleshow/134643879.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "32204e8e7790",
+            "id": "562858e98e53",
             "feed": "esakal",
-            "title": "Gujarat UCC: गुजरातमध्ये समान नागरी कायदा लागू करण्यास राष्ट्रपतींची मंजुरी; काय असेल नियमावली?",
+            "title": "आजचे राशिभविष्य - 03 ऑक्टोबर 2026",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-02T23:05:35",
-            "url": "https://www.esakal.com/desh/president-droupadi-murmu-assent-gujarat-uniform-civil-code-bill-second-state-after-uttarakhand-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-02/xzr38hc5/Latest-Marathi-Breaking-News-2026-10-02T230238.866.jpg",
+            "published": "2026-10-03T07:00:00",
+            "url": "https://www.esakal.com/horoscope/on-this-day-today-rashi-bhavishya-horoscope-in-marathi-03rd-october-2026-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-25/i2b4j4n6/esakal2025-11-039nzjhvy62horoscope.avif",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "0e17f627cc14",
+            "feed": "esakal",
+            "title": "Puttu Recipe: इडली पात्रात बनवा चविष्ट 'पुट्टू'! केरळच्या घराघरांत बनणारा पौष्टिक पदार्थ; पाहा सोपी रेसिपी...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-03T07:00:00",
+            "url": "https://www.esakal.com/culture-and-religion/kerala-puttu-recipe-step-by-step-healthy-breakfast-marathi-idli-patrat-banva-chavishta-puttu-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-02/s05hpaaw/Kerala-Puttu-and-Kadala-Kari-Healthy-Vegan-South-Indian-Breakfast.png",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "70529698ed2b",
+            "feed": "esakal",
+            "title": "EV बॅटरी संपली तर गाडी नेमकी किती किलोमीटर चालते? ‘0%’ दिसल्यावर लगेच गाडी बंद पडते का?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-03T07:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/ev-battery-runs-out-how-many-km-car-runs-after-0-percent-does-ev-shut-down-immediately-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-02/dwm5z4wp/GeminiGeneratedImage484lvf484lvf484l.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3d54c931e7a3",
+            "feed": "esakal",
+            "title": "शिवरायांच्या काळात कॉफी होती? इतिहास काय सांगतो?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-03T06:55:40",
+            "url": "https://www.esakal.com/ampstories/web-story/was-there-coffee-during-the-time-of-chhatrapati-shivaji-maharaj-srk94",
+            "image": "https://cf-images.assettype.com/esakal/2025-08-01/6n5shawf/17.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c24e5232a1d5",
+            "feed": "esakal",
+            "title": "आजचे पंचांग आणि दिनविशेष - 03 ऑक्टोबर 2026",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-03T06:30:00",
+            "url": "https://www.esakal.com/culture-and-religion/on-this-day-happened-today-panchang-history-in-marathi-03rd-october-2026-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2025-10-04/yxq4xbj0/download-5-1.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
