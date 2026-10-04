@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "04-10-2026 | 11:58 PM IST",
+    "lastUpdated": "05-10-2026 | 03:36 AM IST",
     "maharashtra": [
         {
             "id": "5c04a9d8e00a",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "0bf64aac81ad",
+            "feed": "esakal",
+            "title": "शरीरासाठी 'या' फळाचा प्रत्येक दाणा महत्त्वाचा! जाणून घ्या फायदे",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-05T00:00:13",
+            "url": "https://www.esakal.com/ampstories/web-story/health-benefits-of-fruit-seeds-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-04/79r4xmqw/Natural-Remedies-to-Boost-Immunity-3.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "d735629775ce",
             "feed": "esakal",
             "title": "ब्लड शुगर कंट्रोल करायची आहे?  जेवणानंतरची ‘ही’ चाल ठरू शकते फायदेशीर!",
@@ -102,7 +118,7 @@
         {
             "id": "2d067c51df0c",
             "feed": "maharashtratimes",
-            "title": "मतदानाचा अधिकार हिरावणे म्हणजे मनमानी, सर्वोच्च न्यायालयाचे न्यायमूर्तीं उज्जवल भुयान यांचे वक्तव्य",
+            "title": "Justice Ujjal Bhuyan: मतदानाचा अधिकार हिरावणे म्हणजे मनमानी, सर्वोच्च न्यायालयाचे न्यायमूर्तीं उज्जल भुयान यांचे वक्तव्य",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
@@ -144,22 +160,6 @@
             "published": "2026-10-04T23:22:19",
             "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-5-october-in-marathi-dashami-shraddha-tithi-shiva-yog-and-shubha-muhurta/articleshow/134677701.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "a6197707cecc",
-            "feed": "lokmat",
-            "title": "NCBची धाडसी कारवाई! आंतरराज्य तस्करी रॅकेटचा पर्दाफाश; तब्बल ४०० किलो गांजा पकडला!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-04T22:53:09",
-            "url": "https://www.lokmat.com/crime/ncbs-bold-action-inter-state-smuggling-racket-busted-400-kg-of-ganja-seized-a-a877-c747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganja-seized-0410_2026101795792.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -248,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "3cf975c63d9b",
+            "feed": "esakal",
+            "title": "Asian Games: अमरावतीच्या कुमकुमने जिंकले दोन गोल्ड, एक सिल्व्हर अन् ऑलिम्पिक कोटा!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-05T01:39:32",
+            "url": "https://www.esakal.com/ampstories/web-story/asian-games-2026-amravati-kumkum-mohod-bags-historic-recurve-archery-gold-medal-secure-la-olympic-2028-quota-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-04/utdtsmu1/Amravati-Kumkum-Mohod-Bags-Historic-Recurve-Archery-Gold-Medal-6.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "2f2c3153d4b6",
+            "feed": "lokmat",
+            "title": "हार्दिक पांड्याच्या जागी मराठमोळ्या खेळाडूला संधी; ऑस्ट्रेलिया विरूद्ध ६ ऑक्टोबरपासून ODI मालिका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-05T00:12:40",
+            "url": "https://www.lokmat.com/cricket/news/hardik-pandya-replacement-announced-mumbai-allrounder-suryansh-shedge-to-join-india-a-squad-for-australia-a-odis-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hardik-history-0510_2026101795794.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "de2c56b9a9a9",
             "feed": "esakal",
             "title": "IND vs WI, Schedule: वनडे मालिका संपली, आता ५ सामन्यांची T20I मालिका होणार सुरू; संपूर्ण वेळापत्रक जाणून घ्या",
@@ -260,38 +292,6 @@
             "published": "2026-10-04T21:57:14",
             "url": "https://www.esakal.com/krida/cricket/india-vs-west-indies-t20-series-2026-schedule-match-timings-venues-and-live-streaming-details-where-to-watch-psk96",
             "image": "https://cf-images.assettype.com/esakal/2026-10-04/0zj4r2mm/India-vs-West-Indies-T20I-Series.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c8f1b88e7c42",
-            "feed": "lokmat",
-            "title": "४२ वर्षांच्या एबी डिव्हिलियर्सचा धुमधडाका, गोलंदाजांची तुफान धुलाई करत केली षटकारांची बरसात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-10-04T20:03:38",
-            "url": "https://www.lokmat.com/cricket/news/ab-de-villiers-bashing-bowlers-at-the-age-of-42-year-old-scored-70-runs-of-39-balls-with-5-sixes-wcl-2026-sach-vs-wich-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abd-batting-0410_2026101795779.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e31b7d326e3d",
-            "feed": "esakal",
-            "title": "Vaibhav Sooryavanshi ला संधीची वाट का पाहावी लागतेय? श्रेयस अय्यरने खरं कारण सांगितलं; म्हणाला, 'वेळ आली की तो राज्य करेल'",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-04T20:03:14",
-            "url": "https://www.esakal.com/krida/cricket/shreyas-iyer-praises-vaibhav-sooryavanshi-says-he-will-dominate-indian-cricket-when-his-time-comes-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-04/asv7qdwg/Shreyas-Iyer-Praises-Vaibhav-Sooryavanshi.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
