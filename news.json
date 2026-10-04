@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "04-10-2026 | 08:07 PM IST",
+    "lastUpdated": "04-10-2026 | 11:58 PM IST",
     "maharashtra": [
         {
-            "id": "5292de716559",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update : इंडिया गेटवरील आंदोलनादरम्यान 'आप'चे नेते आणि कार्यकर्ते ताब्यात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-04T19:55:23",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-04-october-2026-uddhav-and-raj-thackeray-protest-shiv-sena-mns-against-chief-election-commissioner-gyanesh-kumar-mpsc-protest-weather-update-imd-kolhapur-gokul-election-tukaram-mundhe-fda-actions-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-bam92-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2852f2038bfb",
+            "id": "5c04a9d8e00a",
             "feed": "maharashtratimes",
-            "title": "Manoj Jarange Patil यांची भाजपवर सडकून टीका | Gyanesh Kumar News",
+            "title": "SIR विरोधावरून प्रदेशाध्यक्ष रविंद्र चव्हाण आक्रमक, ठाकरे बंधूंच्या 'गर्जना मोर्चा'वर जोरदार पलटवार",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-04T19:47:48",
-            "url": "https://maharashtratimes.com/maharashtra/jalna/manoj-jarange-criticizes-bjp-over-gyanesh-kumar/videoshow/134676559.cms",
+            "published": "2026-10-04T23:48:54",
+            "url": "https://maharashtratimes.com/maharashtra/thane/bjp-mla-ravindra-chavan-strong-response-to-thackeray-brothers-garjana-morcha/articleshow/134679233.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "a166a15ca5f2",
-            "feed": "esakal",
-            "title": "दुष्काळग्रस्तांसाठी जिल्हा बँकेची पाच लाखांची मदत",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-04T19:34:47",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/dhule-cooperative-bank-drought-relief",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-04/5e52jp2j/Sakal20Wesite20Banner20_20Nashik.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b4c0683a13d9",
-            "feed": "esakal",
-            "title": "भास्करराव पेरे पाटील",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-04T19:31:55",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/transform-your-community-bhaskar-rao-pere-patil",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-04/y91dw1dz/Sakal20Wesite20Banner20_20Nashik.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1f08d97e5c77",
-            "feed": "maharashtratimes",
-            "title": "Chandrashekhar Bawankule : एकाही शेतकऱ्याने आयुष्य संपवलं तर त्याला बँका जबाबदार राहतील, मंत्री चंद्रशेखर बावनकुळे यांचा इशारा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-04T19:28:03",
-            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/chandrashekhar-bawankule-serious-warning-to-banks-over-farmer-loan-recovery-and-maharashtra-drought-situation/articleshow/134676113.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
-        {
-            "id": "fdcfc28dec9d",
+            "id": "c065d5db5c4f",
             "feed": "lokmat",
-            "title": "प्रेशर कुकरमध्ये चुकूनही शिजवू नका 'या' ७ गोष्टी! नाहीतर पदार्थ तर बिघडेलच, पण कुकरचा स्फोट होऊन होईल मोठं नुकसान",
+            "title": "\"ज्ञानेश कुमार २०२५ला आले, निवडणुका २०२४ला होत्या\"; देवेंद्र फडणवीसांचे विरोधकांना उत्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-04T23:34:02",
+            "url": "https://www.lokmat.com/maharashtra/devendra-fadnavis-slams-raj-thackeray-uddhav-thackeray-over-gyanesh-kumar-election-commision-of-india-voting-pattern-sir-allegations-garjana-protest-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devendra-fadnavis-raj-uddhav-0410_2026101795793.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5620b0a57ddc",
+            "feed": "maharashtratimes",
+            "title": "Ravindra Chavhan : ’हनुमान अंश’प्रमाणे ‘नमो सेवा गाथा’ही रेकॉर्ड करेल, रविंद्र चव्हाण यांचा विश्वास",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-04T23:33:34",
+            "url": "https://maharashtratimes.com/maharashtra/thane/mla-ravindra-chavan-believes-that-namo-seva-gatha-will-also-be-recorded-like-hanuman-ansh/articleshow/134679043.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fa78d42d1d27",
+            "feed": "esakal",
+            "title": "Abhijeet Dipke MPSC : धर्म-जातीच्या नावावर मत मागता, पण शिक्षणाचं काय?’; पुण्यातील एमपीएससी आंदोलनात अभिजीत दिपकेंचा सवाल",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-04T22:59:04",
+            "url": "https://www.esakal.com/pune/pune-student-protest-abhijit-dipke-civic-awareness-voting-rights-education-students-future-maharashtra-politics-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-04/noylw23f/-2026-10-04T225440.892.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "335598f66be3",
+            "feed": "lokmat",
+            "title": "नागपूरमधील ढोमणे ज्वेलर्स लुटमार प्रकरणातील आरोपींच्या शोधासाठी पोलिसांची ९ पथके सज्ज",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-04T20:00:02",
-            "url": "https://www.lokmat.com/sakhi/photos/food/7-foods-you-should-never-cook-in-a-pressure-cooker-foods-that-are-unsafe-to-cook-in-a-pressure-cooker-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/common-pressure-cooker-safety-mistakes_2026101795704.jpeg",
+            "published": "2026-10-04T22:47:26",
+            "url": "https://www.lokmat.com/crime/9-police-teams-ready-to-search-for-accused-in-dhomane-jewellers-robbery-case-in-nagpur-a-a877-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-crime-scene-2607f_2026101795790.jpg",
             "isBreaking": false,
-            "category_reason": "default"
-        },
+            "category_reason": "keyword"
+        }
+    ],
+    "india": [
         {
-            "id": "951ff86a06d0",
+            "id": "d735629775ce",
             "feed": "esakal",
-            "title": "तुमच्या वयानुसार तुम्ही रोज किती प्रोटीन घेतलं पाहिजे?",
+            "title": "ब्लड शुगर कंट्रोल करायची आहे?  जेवणानंतरची ‘ही’ चाल ठरू शकते फायदेशीर!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-04T19:56:22",
-            "url": "https://www.esakal.com/ampstories/web-story/how-much-protein-should-you-eat-daily-according-to-your-age-and-weight-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-04/m5fs27hu/Protein-Intake-as-per-Age-and-Weight-1.jpg",
+            "published": "2026-10-04T23:54:12",
+            "url": "https://www.esakal.com/ampstories/web-story/how-long-to-walk-after-meal-for-blood-sugar-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-04/31wd00ln/bloodsugar-diabet.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "f4633831b369",
+            "id": "2d067c51df0c",
             "feed": "maharashtratimes",
-            "title": "कर्ज, नैराश्य आणि पत्नीशी घटस्फोट, 43 व्या मजल्यावरून सॉफ्टवेअर इंजिनिअरचं टोकाचं पाऊल, देशाची राजधानी सुन्न",
+            "title": "मतदानाचा अधिकार हिरावणे म्हणजे मनमानी, सर्वोच्च न्यायालयाचे न्यायमूर्तीं उज्जवल भुयान यांचे वक्तव्य",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-04T19:42:42",
-            "url": "https://maharashtratimes.com/india-news/software-engineer-takes-extreme-step-jumping-43-floor/articleshow/134676102.cms",
+            "published": "2026-10-04T23:43:19",
+            "url": "https://maharashtratimes.com/india-news/supreme-court-justice-ujjal-bhuyan-says-no-whataboutery-can-justify-voter-disenfranchisement/articleshow/134679024.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "8b33ae6fd948",
+            "id": "d1d212572754",
             "feed": "esakal",
-            "title": "दुधाची पाकिटे निळ्या, हिरव्या आणि नारंगी रंगाची का असतात? प्रत्येक रंगाचा अर्थ काय?",
+            "title": "दुकानदार काऊंटरवर काचेच्या ग्लासात लिंबू का ठेवतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-04T19:35:50",
-            "url": "https://www.esakal.com/ampstories/web-story/why-are-milk-packets-blue-green-and-orange-what-does-each-color-signify-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-04/zqsnz26p/Milk-Packet-Different-Color-.jpg",
+            "published": "2026-10-04T23:38:39",
+            "url": "https://www.esakal.com/ampstories/web-story/why-shopkeepers-keep-lemon-in-glass-on-counter-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-04/u80bki8k/lemon-water-significance-7.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "94c510b8b475",
+            "id": "b18e1d89dc22",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 5 October 2026: दशमी श्राद्ध तिथी, शिव योग, सर्वार्थ सिद्धि योग, लक्ष्मीनारायण योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-04T23:22:19",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-5-october-in-marathi-dashami-shraddha-tithi-shiva-yog-and-shubha-muhurta/articleshow/134677701.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a6197707cecc",
             "feed": "lokmat",
-            "title": "Men's Skin Care Tips : पुरुषांनाही मिळेल ग्लोइंग स्कीन! जाणून घ्या डॅशिंग लूकसाठी परफेक्ट 'स्किन केअर रूटीन'",
+            "title": "NCBची धाडसी कारवाई! आंतरराज्य तस्करी रॅकेटचा पर्दाफाश; तब्बल ४०० किलो गांजा पकडला!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-04T19:24:40",
-            "url": "https://www.lokmat.com/photos/beauty/mens-skin-care-tips-men-can-also-get-glowing-skin-know-the-perfect-skin-care-routine-for-a-dashing-look-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mens-skin-care-tips6_2026101795773.jpg",
+            "published": "2026-10-04T22:53:09",
+            "url": "https://www.lokmat.com/crime/ncbs-bold-action-inter-state-smuggling-racket-busted-400-kg-of-ganja-seized-a-a877-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganja-seized-0410_2026101795792.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "1919b66f06c2",
+            "feed": "maharashtratimes",
+            "title": "G7 to Release 100 Million Barrels Oil: US-Iran War मुळे होर्मूझ पेटलं! जगावर महागाई आणि आर्थिक मंदी?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-04T21:35:43",
+            "url": "https://maharashtratimes.com/video/mt-originals/us-iran-war-hormuz-oil-crisis-g7-100-million-barrels-global-recession-india/videoshow/134677744.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "16f51eab8046",
+            "feed": "esakal",
+            "title": "FlyDubai FZ1073 : अल कायदाचा फिदायीन होता फ्लायदुबईचा को-पायलट? कॅप्टन मच्छार यांना संपवून विमान इमारतीवर आदळवण्याचा होता कट, धक्कादायक खुलासा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-04T21:04:44",
+            "url": "https://www.esakal.com/global/flydubai-fz1073-hamam-al-hammami-smite-machhar-al-qaeda-cockpit-attack-israel-tel-aviv-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-04/3vql2k90/-2026-10-04T205732.981.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "eed470ebbf03",
             "feed": "esakal",
@@ -212,41 +244,41 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-us_2026101795759.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "3fc94437c2cd",
+            "id": "de2c56b9a9a9",
             "feed": "esakal",
-            "title": "France Student Protests : फ्रान्समधील विद्यार्थी आंदोलनाला हिंसक वळण; ४ हजार जणांना अटक, २०० जण जखमी",
+            "title": "IND vs WI, Schedule: वनडे मालिका संपली, आता ५ सामन्यांची T20I मालिका होणार सुरू; संपूर्ण वेळापत्रक जाणून घ्या",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-10-04T18:52:18",
-            "url": "https://www.esakal.com/global/france-student-protests-education-reforms-violent-clashes-arrests-school-university-disruption-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-04/18yd1lfw/-2026-10-04T184744.288.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "928c599efa7b",
-            "feed": "maharashtratimes",
-            "title": "Russia-Taliban: भारताचा मित्रराष्ट्र रशियाचा तालिबानसोबत युद्धाभ्यास, पाकिस्तानला धडकी भरली",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-04T17:03:46",
-            "url": "https://maharashtratimes.com/international/international-news/russia-holds-military-training-with-taliban/articleshow/134673348.cms",
-            "image": "",
+            "published": "2026-10-04T21:57:14",
+            "url": "https://www.esakal.com/krida/cricket/india-vs-west-indies-t20-series-2026-schedule-match-timings-venues-and-live-streaming-details-where-to-watch-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-04/0zj4r2mm/India-vs-West-Indies-T20I-Series.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "sports": [
+        },
+        {
+            "id": "c8f1b88e7c42",
+            "feed": "lokmat",
+            "title": "४२ वर्षांच्या एबी डिव्हिलियर्सचा धुमधडाका, गोलंदाजांची तुफान धुलाई करत केली षटकारांची बरसात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-04T20:03:38",
+            "url": "https://www.lokmat.com/cricket/news/ab-de-villiers-bashing-bowlers-at-the-age-of-42-year-old-scored-70-runs-of-39-balls-with-5-sixes-wcl-2026-sach-vs-wich-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abd-batting-0410_2026101795779.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "e31b7d326e3d",
             "feed": "esakal",
@@ -262,88 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-04/asv7qdwg/Shreyas-Iyer-Praises-Vaibhav-Sooryavanshi.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "5f4a4cb109ff",
-            "feed": "esakal",
-            "title": "IND vs NZ: प्रयोग थांबणार अन् न्यूझीलंडविरुद्धच दिसणार भारताची World Cup ची संभावित प्लेइंग-११? कर्णधार शुभमन गिलचे संकेत",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-04T19:31:12",
-            "url": "https://www.esakal.com/krida/cricket/shubman-gill-hints-probable-world-cup-playing-xi-for-new-zealand-odi-series-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-04/79tgjap2/Shubman-Gill-Hints-at-Playing-World-Cup-2027-Core-XI-in-New-Zealand-Series.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "12fa39217fd1",
-            "feed": "lokmat",
-            "title": "मुकेश कुमारचा बळींचा षटकार; जम्मू-काश्मीर इराणी कपमध्ये पराभूत; 'डोमेस्टिक डबल' हुकलं...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-10-04T19:27:02",
-            "url": "https://www.lokmat.com/cricket/news/mukesh-kumar-six-wicket-haul-shines-as-roi-rest-of-india-beat-jammu-kashmir-cricket-team-in-irani-cup-misses-domestic-double-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mukesh-kumar-irani-cup-0410_2026101795761.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "275bb0801c42",
+            "id": "7e11f677a297",
             "feed": "maharashtratimes",
-            "title": "EMI On Credit Card : अचानक क्रेडिट कार्ड बंद करण्यापूर्वी आधी नियम समजून घ्या! उरलेला EMI पडू शकतो महागात",
+            "title": "CPI Inflation : पाच महिन्यात महागाईचा आलेख सलग वरच्या दिशेने! वर्षाच्या अखेरपर्यंत गाठणार आभाळ",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-10-04T19:40:00",
-            "url": "https://maharashtratimes.com/business/business-news/credit-card-closed-while-having-active-emi-what-happens-know-in-detail/articleshow/134676182.cms",
+            "published": "2026-10-04T22:41:30",
+            "url": "https://maharashtratimes.com/business/business-news/sbi-research-about-cpi-inflation-in-india-will-be-more-than-6-percentage-in-october-november-2026/articleshow/134678214.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "a8597140632a",
+            "id": "ff55212f4639",
+            "feed": "esakal",
+            "title": "GST Council : GSTचे नियम बदलणार? 9 गुन्हे वगळण्याचा प्रस्ताव, अटक प्रक्रियेतही मोठी सुधारणा होण्याची शक्यता",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-04T22:05:56",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/gst-council-reforms-arrest-rules-criminal-prosecution-limit-5-crore-taxpayer-compliance-gst-offences-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-04/o4hnlpry/-2026-10-04T215815.037.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "b8bf45c61e0d",
             "feed": "lokmat",
-            "title": "ना मोठे जाळे, ना आधुनिक साधनं… केवळ दगड, सागाची पाने, सातपुड्यातील आदिवासी बांधवांची मासेमारीची भन्नाट पद्धत",
+            "title": "नाफेड, एनसीसीएफच्या कांदा खरेदी प्रक्रियेतील तक्रारी सादर करा, जिल्हाधिकारी कार्यालयात होणार सुनावणी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-04T19:37:16",
-            "url": "https://www.lokmat.com/agriculture/agri-business/fisheries/agriculture-news-unique-fishing-method-of-the-tribal-brothers-of-satpura-area-of-nandurbar-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/masemari-2_2026101795778.jpeg",
+            "published": "2026-10-04T20:35:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/nafed-kanda-kharedi-submit-complaints-regarding-onion-procurement-process-of-nafed-nccf-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/_2026101795780.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "a52df344cadf",
-            "feed": "lokmat",
-            "title": "बिझनेस लोनचा अर्ज रिजेक्ट होतोय? फक्त CIBIL स्कोअर पुरेसा नाही, 'या' चुका टाळा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-10-04T19:18:42",
-            "url": "https://www.lokmat.com/business/banking-loans/business-loan-rejection-is-your-business-loan-application-getting-rejected-cibil-score-alone-is-not-enough-avoid-making-these-mistakes-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-loan-rejected_2026101795765.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
