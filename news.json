@@ -1,167 +1,167 @@
 {
-    "lastUpdated": "06-10-2026 | 09:54 PM IST",
+    "lastUpdated": "07-10-2026 | 02:53 AM IST",
     "maharashtra": [
         {
-            "id": "c965837fe017",
-            "feed": "maharashtratimes",
-            "title": "मंत्री नितीन गडकरी यांच्याशी परळीचे सुपुत्र IAS किरण गित्ते यांची विशेष चर्चा, राष्ट्रीय महामार्ग परिषदेत भूमिकेचे कौतुक",
+            "id": "00e534285814",
+            "feed": "lokmat",
+            "title": "अमरावतीत काँग्रेसचे रास्तारोको, नागपूर राष्ट्रीय महामार्ग रोखला; कार्यकर्त्यांना पोलिसांनी घेतलं ताब्यात",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-06T23:53:49",
+            "url": "https://www.lokmat.com/amravati/youth-congress-workers-block-road-in-amravati-block-nagpur-national-highway-police-take-activists-into-custody-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/congress-amaravati-0610_2026101797262.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "ae09e9a11daf",
+            "feed": "lokmat",
+            "title": "नागपूर पदवीधरच्या रिंगणात वंचितची उडी, बसपाच्या नकारामुळे निवृत्त GST कमिशनर संजय थुल अपक्ष मैदानात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-06T21:46:48",
-            "url": "https://maharashtratimes.com/maharashtra/beed/beed-special-discussion-between-ias-kiran-gitte-minister-nitin-gadkari/articleshow/134745336.cms",
-            "image": "",
+            "published": "2026-10-06T23:06:36",
+            "url": "https://www.lokmat.com/nagpur/nagpur-graduates-vanchit-jumps-into-the-fray-retired-gst-commissioner-sanjay-thul-enters-the-independent-field-due-to-bsps-rejection-a-a382-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sanjay-thool-0610_2026101797255.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "59ccc33677ec",
-            "feed": "maharashtratimes",
-            "title": "Pradip Purnekar Case : पोलिसांची मोठी कारवाई, कर्नाळा अभयारण्याजवळून पिस्तूल आणि मोबाईल जप्त, टल्लीच्या शोधासाठी लूक आउट नोटीस जारी",
+            "id": "71e109e6ed55",
+            "feed": "lokmat",
+            "title": "धुळ्याच्या SRPF जवानाचा सर्पदंशाने मृत्यू; दीड महिन्यांपासून माओवादविरोधी मोहिमेवर होते तैनात",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-10-06T21:29:17",
-            "url": "https://maharashtratimes.com/maharashtra/thane/pradip-purnekar-case-update-thane-police-seized-pistol-and-mobile-near-karnala/articleshow/134744597.cms",
-            "image": "",
+            "published": "2026-10-06T22:59:43",
+            "url": "https://www.lokmat.com/gadchiroli/srpf-jawan-from-dhule-dies-of-snakebite-was-deployed-on-anti-maoist-mission-for-one-and-a-half-months-a-a797-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/srpf-jawan-0610_2026101797254.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "0d7695d7fa3e",
+            "id": "f975f696f457",
             "feed": "esakal",
-            "title": "संशोधनासह विद्यार्थ्यांच्या शैक्षणिक संधींना मिळणार चालना\nजैन इरिगेशन- कृषी विद्यापीठात करार",
+            "title": "MPSC Student Agitation : अध्यक्षांच्या राजीनाम्यावर आंदोलक ठाम; विद्यार्थ्यांच्या स्वप्नांची काढली प्रतीकात्मक अंत्ययात्रा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-06T21:24:16",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/mahatma-phule-agricultural-university-jain-irrigation-partnership",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-06/v357sys0/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "published": "2026-10-06T22:39:45",
+            "url": "https://www.esakal.com/pune/mpsc-student-agitation-protesters-firm-on-chairmans-resignation-symbolic-funeral-procession-of-students-dreams-taken-out-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-06/hmowbupm/aditya-thackeray-visit-to-mpsc-student-agitation",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "afe32c88850b",
+            "id": "ebb7ab5ad7dc",
             "feed": "esakal",
-            "title": "कुंभमेळ्यात भाविकांना अखंडीत वित्तीय सुविधा",
+            "title": "Electric Shock : भिलदरी येथे वीजेचा धक्का लागून झिरो वायरमनचा मृत्यू",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-10-06T21:23:25",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/kumbh-mela-banking-services",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-06/r6cb1qux/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "published": "2026-10-06T22:26:59",
+            "url": "https://www.esakal.com/marathwada/zero-wireman-dies-of-electrocution-in-bhildari-kannad-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-06/g566nir4/Krishna-Mokase",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "25a08d807eaa",
-            "feed": "esakal",
-            "title": "तीन तालुक्यांमध्ये पीक कापणी प्रयोग",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-06T21:19:01",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-drought-niphad-chandvad-trimbakeshwar",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-06/r6lhy0y3/Sakal20Wesite20Banner20_20Nashik.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "b2c340566f48",
-            "feed": "esakal",
-            "title": "Marathi News Live Updates: कसबा मंदिरातील दानपेटी फोडली",
+            "id": "1950003bf121",
+            "feed": "lokmat",
+            "title": "दिल्ली-NCR सह संपूर्ण उत्तर भारतात भूकंपाचे धक्के; उत्तराखंडमध्ये ४.९ रिश्टर स्केल तीव्रतेची नोंद",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
             },
-            "published": "2026-10-06T21:52:32",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-6-october-2026-supreme-court-form-6-dispute-nobel-prize-iran-tensions-indira-ekadashi-raj-thackeray-mpsc-student-agitation-pune-mumbai-gyanesh-kumar-election-commission-devendra-fadnavis-sharad-pawar-srk94-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2024-12-15/87gtoomj/live-update.jpg",
+            "published": "2026-10-06T23:34:49",
+            "url": "https://www.lokmat.com/national/delhi-earthquake-49-magnitude-earthquake-hits-uttarakhand-chamoli-tremors-felt-in-delhi-ncr-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/delhi-earthquke-0610e_2026101797259.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "330f30e21c8a",
+            "id": "142f46cca0ee",
             "feed": "esakal",
-            "title": "Indian Air Force : एअर मार्शल आशुतोष दीक्षित भारतीय हवाई दलाचे नवे प्रमुख; कारगिल युद्धातील अनुभवी वैमानिकाकडे सर्वोच्च पदाची धुरा",
+            "title": "साप बिळामध्ये नेमकं काय करत असतो?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-06T21:36:50",
-            "url": "https://www.esakal.com/desh/who-is-air-marshal-ashutosh-dixit-appointed-new-chief-of-indian-air-force-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-06/bvvi2sdp/Esakal-50.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b8841c38d49a",
-            "feed": "esakal",
-            "title": "Rice Chakli Benefits : तांदळाची चकली खाण्याचे ८ फायदे, मिळेल झटपट ऊर्जा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-06T21:29:53",
-            "url": "https://www.esakal.com/ampstories/web-story/rice-chakli-benefits-8-health-benefits-instant-energy-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-29/gonchzgj/9.jpg",
+            "published": "2026-10-06T23:07:52",
+            "url": "https://www.esakal.com/ampstories/web-story/what-do-snakes-actually-do-inside-their-burrows-resting-digestion-temperature-regulation-safe-shelter-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-06/cslcp9md/5.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "6fd548f5a856",
+            "id": "bddbd903b310",
             "feed": "maharashtratimes",
-            "title": "पंचांग 7 October 2026: द्वादशी महालय तिथी, लक्ष्मी नारायण योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "title": "आजचे राशिभविष्य 7 ऑक्टोबर 2026 : ग्रहांची स्थिती या राशींसाठी अनुकूल,आर्थिक लाभ व सुख समृद्धी मिळणार ! पहा तुमचे राशिभविष्य !",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-06T21:16:04",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-7-october-in-marathi-grahan-yog-lakshmi-narayan-yog-and-shubha-muhurta/articleshow/134743404.cms",
+            "published": "2026-10-06T23:00:38",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-7-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134727028.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "9c836edd6340",
-            "feed": "maharashtratimes",
-            "title": "ज्याला जॉनी समजले, तो जावेद निघाला! लग्नानंतर 6 महिन्यांपर्यंत ओळख लपवली; आधारनं बिंग फुटलं",
+            "id": "da187ae677b1",
+            "feed": "esakal",
+            "title": "Video: ''सगळं लक्षात ठेवणार!'', राहुल-प्रियंका यांच्यासोबत गैरवर्तन झाल्याचा काँग्रेसचा आरोप; व्हिडीओ केला पोस्ट",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-06T21:15:29",
-            "url": "https://maharashtratimes.com/india-news/haryana-shocker-instagram-love-story-hindu-wedding-then-finds-husband-was-muslim-already-married/articleshow/134744600.cms",
-            "image": "",
+            "published": "2026-10-06T22:40:42",
+            "url": "https://www.esakal.com/desh/rahul-gandhi-priyanka-gandhi-detained-delhi-police-election-commission-protest-akashvani-bhawan-congress-video-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-06/jqy6rwmc/Latest-Marathi-Breaking-News-2026-10-06T223859.185.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "49494a7136b4",
+            "feed": "lokmat",
+            "title": "कल्याण रेल्वे स्टेशन मास्तर मारहाण प्रकरणी मनसे कार्यकर्त्यांविरोधात गुन्हा दाखल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-06T22:40:37",
+            "url": "https://www.lokmat.com/kalyan-dombivli/case-registered-against-mns-workers-for-assaulting-kalyan-railway-station-master-a-a855-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/station-master-mns_2026101797253.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
@@ -214,22 +214,6 @@
             "category_reason": "feed"
         },
         {
-            "id": "c0a8bd1b497a",
-            "feed": "lokmat",
-            "title": "फिजिक्समधला नोबेल पुरस्कार फ्रान्सिस हॅल्जेन यांना जाहीर; 'या' विशेष शोधासाठी करण्यात येणार सन्मान",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-06T18:05:42",
-            "url": "https://www.lokmat.com/international/nobel-prize-in-physics-awarded-to-francis-halzen-for-groundbreaking-work-on-cosmic-neutrinos-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fransis-halzen-0610_2026101797150.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "2ad191185a47",
             "feed": "esakal",
             "title": "रशियातील लॅब टेक्निशियनच्या मृत्यूने खळबळ; न्यूमोनिक प्लेगची चर्चा, भारताची चिंता वाढली?",
@@ -244,59 +228,91 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-06/08e22caj/Russia-Lab-Technician-Death",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "622eae50bd46",
+            "feed": "maharashtratimes",
+            "title": "Vivekanand Patil :  भाषणं तुफान व्हायरल, MPSC आंदोलन गाजवणारा विवेकानंद पाटील नेमका कोण?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-06T15:37:08",
+            "url": "https://maharashtratimes.com/video/mt-originals/who-exactly-is-vivekanand-patil-who-made-waves-during-the-mpsc-protest/videoshow/134735954.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "991b73dc0834",
+            "id": "e7c2329f7a3a",
+            "feed": "esakal",
+            "title": "National Pickleball Championship 2026: महाराष्ट्राच्या खेळाडूंचे कोचीमध्ये वर्चस्व! सर्व श्रेणींमध्ये मिळवले संघ अजिंक्यपद!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-07T01:38:19",
+            "url": "https://www.esakal.com/krida/maharashtra-wins-overall-team-championship-at-10th-aipa-national-pickleball-championship-2026-in-kochi-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-06/ql58qvlt/Maharashtra-Dominates-10th-AIPA-National-Pickleball-Championship.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "bac0b80d1508",
+            "feed": "esakal",
+            "title": "IND A vs AUS A, 1st ODI: पाटीदार लढला, पण बाकी सारे ढेपाळले; भारताचा संघ १४९ वर ऑलआऊट, ऑस्ट्रेलियाचा मोठा विजय",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-07T00:27:40",
+            "url": "https://www.esakal.com/krida/cricket/ind-a-vs-aus-a-1st-odi-australia-a-defeat-india-a-by-125-runs-despite-rajat-patidar-fifty-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-06/njipfm3q/Rajat-Patidar-India-A-vs-Australia-A.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "685f407902e9",
             "feed": "maharashtratimes",
-            "title": "IND vs WI 1st T20 : वेस्ट इंडिज 171 धावांवर ऑल आऊट, डेब्यू करणाऱ्या नमन धीरने गाजवलं, पहिल्याच मॅचमध्ये रचला इतिहास",
+            "title": "IND A vs AUS A : भारत 149 वर ऑल आऊट, ऑस्ट्रेलियाविरूद्ध IPL स्टार्स फेल; पहिल्याच मॅचमध्ये दारूण पराभव",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-10-06T21:13:45",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-vs-west-indies-1st-t20-team-india-need-172-runs-against-wi-naman-dhir-taking-three-wicket/articleshow/134743269.cms",
+            "published": "2026-10-07T00:26:01",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-a-vs-aus-a-1st-unofficial-odi-australia-win-125-runs-all-ipl-star-player-failed/articleshow/134748790.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ddbc8e41e64f",
-            "feed": "esakal",
-            "title": "India T20  Squad : भुवनेश्वर कुमारचे ४ वर्षांनी पुनरागमन! न्यूझीलंड दौऱ्यासाठी टीम इंडियाची घोषणा, वैभव सूर्यवंशीचीही निवड",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-06T21:10:40",
-            "url": "https://www.esakal.com/krida/cricket/bhuvneshwar-kumar-returns-bcci-announces-india-t20i-and-india-a-squads-for-new-zealand-tour-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-06/5bmyqin1/Bhuvneshwar-Kumar-T20I-Comeback-India-T20I-Squad-Announced.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a82ee618434f",
-            "feed": "esakal",
-            "title": "IND vs WI, 1st T20I: शे होप पुन्हा नडला, पण पदार्पणवीर नमन धीरने दाखवला इंगा! रुदरफोर्डच्या आक्रमणाने विंडिज १७० धावा पार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-06T20:54:23",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-wi-1st-t20i-naman-dhir-shines-on-debut-shai-hope-sherfane-rutherford-fifty-west-indies-set-172-target-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-06/6pl5ts22/India-vs-West-Indies-T20I.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "2f8041bd3b97",
+            "feed": "maharashtratimes",
+            "title": "शिक्षण आणि आरोग्य क्षेत्रातील आर्थिक हालचालींच्या मोजमापणीसाठी UPI येणार कामी!  MoSPI चा प्रस्ताव",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-10-06T23:49:33",
+            "url": "https://maharashtratimes.com/business/business-news/upi-payment-will-be-used-to-count-financial-monthly-data-of-education-and-healthcare/articleshow/134748183.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "3b9f4ea87146",
             "feed": "maharashtratimes",
@@ -328,22 +344,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-06/il569i7t/MS-DHONI-ADVICE-TO-SHAI-HOPE-3.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "eb077e9498f0",
-            "feed": "lokmat",
-            "title": "PPF vs NPS: ₹५,००० च्या गुंतवणुकीवर कुठे जास्त परतावा मिळेल? पाहा संपूूर्ण कॅलक्युलेशन...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-10-06T20:41:12",
-            "url": "https://www.lokmat.com/business/savings-investments/ppf-vs-nps-which-one-will-give-you-higher-returns-on-an-investment-of-rs5000-see-the-complete-calculation-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ppfvsnpsscheme_2026101797215.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
