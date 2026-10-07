@@ -1,333 +1,349 @@
 {
-    "lastUpdated": "07-10-2026 | 01:25 PM IST",
+    "lastUpdated": "07-10-2026 | 08:24 PM IST",
     "maharashtra": [
         {
-            "id": "3c61932c268e",
-            "feed": "esakal",
-            "title": "MPSC protest Pune : पुण्यातील MPSC आंदोलनावर हायकोर्टाने सरकारला खडसावलं; 'विद्यार्थी समाजविघातक नाही...'",
+            "id": "299df2001688",
+            "feed": "maharashtratimes",
+            "title": "Tukaram Mundhe : तुकाराम मुंढे यांच्या कारवाईची टाच थेट सोनाई डेअरीपर्यंत, भेसळ दुधाचा पुरवठा होत असल्याचा ठपका",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-07T13:18:50",
-            "url": "https://www.esakal.com/maharashtra/pune-mpsc-protest-high-court-rebukes-govt-says-students-arent-anti-social-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/ces1zzpj/sandeep-shirguppe-2026-10-07T131740.306.jpg",
+            "published": "2026-10-07T20:20:44",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/maharashtra-fda-commissioner-tukaram-mundhe-strict-action-against-adulterated-milk-supply/articleshow/134768387.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c036ae952480",
+            "id": "073251759dd4",
             "feed": "lokmat",
-            "title": "Latest Marathi News Live:गडचिरोलीत पोलिसांची मोठी कारवाई; कोपरशीच्या जंगलातून रॉकेट लाँचर्स आणि स्फोटकांचा मोठा साठा जप्त",
+            "title": "‌Bhandara News : साकोलीच्या शासकीय धान्य गोदामातून गोरगरिबांच्या ३६१ पोते धान्याची चोरी, नेमकं काय घडलं?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-07T13:16:06",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-7-october-2026-eci-gyanesh-kumar-rahul-gandhi-protest-mpsc-students-protest-cm-devendra-fadnavis-pm-narendra-modi-drought-in-maharashtra-fly-dubai-plane-donald-trump-shiv-sena-eknath-shinde-nobel-p-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-marathi-news-_2026021636877.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9edc46afd991",
-            "feed": "lokmat",
-            "title": "आरोग्याशी खेळ! घातक रसायनात बुडवून विकली जाणार होती १,४०० किलो केळी; FDA ची धडक कारवाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-07T13:15:11",
-            "url": "https://www.lokmat.com/maharashtra/fda-crackdown-on-food-safety-violations-over-1400-kg-of-chemically-ripened-bananas-seized-and-licences-suspended-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ripened-bananas-fda_2026101797530.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1bdbe8282f6c",
-            "feed": "esakal",
-            "title": "सांगलीच्या गोकुळनगरमध्ये थरार! नेमकं काय घडलं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-07T13:15:05",
-            "url": "https://www.esakal.com/videos/sangli-gokulnagar-youth-koyta-attack-murder-gang-war-revenge-crime-news",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/elej5y04/zU9RPHjq0pw-HD.jpg",
+            "published": "2026-10-07T20:17:42",
+            "url": "https://www.lokmat.com/bhandara/bhandara-news-361-bags-of-grain-belonging-to-the-poor-were-stolen-from-the-government-grain-godown-in-sakoli-how-did-this-happen-pcr-police-a-a1020/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/govt-grain-godown_2026101797987.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "58ccd2a840c1",
+            "id": "5a4a96d675ed",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : मुंबई गोवा महामार्गावर इर्टीगा कारला अपघात, एक ठार, दोन गंभीर जखमी",
+            "title": "Latest Marathi News Live Update : पुणे शिक्षक विधान परिषद निवडणुकीसाठी ४८ उमेदवार रिंगणात; ९ ऑक्टोबरला माघारीची अंतिम मुदत",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-07T13:09:54",
-            "url": "https://www.esakal.com/maharashtra/rahul-gandhi-cec-gyanesh-kumar-delhi-police-earthquake-messi-harmanpreet-kaur-russian-plague-bubonic-plague-maharashtra-drought-water-cut-mpsc-protest-pune-manoj-jarange-devefadnavis-ymk86-vsw03",
+            "published": "2026-10-07T20:17:40",
+            "url": "https://www.esakal.com/maharashtra/rahul-gandhi-cec-gyanesh-kumar-delhi-police-earthquake-messi-harmanpreet-kaur-russian-plague-bubonic-plague-maharashtra-drought-water-cut-mpsc-protest-pune-manoj-jarange-devefadnavis-ymk86-bam92",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4a90c83636d9",
+            "feed": "lokmat",
+            "title": "शेतात पिकांना पाणी देताना सापाने घेतला चावला; बापाच्या डोळ्यांसमोर मुलाचा दुर्दैवी अंत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-07T19:56:01",
+            "url": "https://www.lokmat.com/solapur/young-farmer-dies-after-snake-bite-while-resting-under-tree-in-solapur-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/solapur-snake-bite_2026101797983.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "09704dcc6cb9",
+            "feed": "esakal",
+            "title": "Pune News : चारा टंचाईआधीच पशुसंवर्धन विभाग ‘अलर्ट’; पीक अवशेष जाळण्याऐवजी साठवणूक, प्रक्रिया आणि पोषणमूल्यवर्धनावर भर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-07T19:55:33",
+            "url": "https://www.esakal.com/pune/animal-husbandry-dept-on-high-alert-ahead-of-fodder-shortage-focus-on-crop-residue-processing-and-storage-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/66vo10ot/fodder-shortage",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "a84939a7a174",
+            "id": "a6bddb78b848",
             "feed": "lokmat",
-            "title": "परदेशी राहून देशाशी आणि संस्कृतीशी नाळ जोडून ठेवणाऱ्या पालकत्वाची गोष्ट, सीमांपलिकडच्या नात्याचे खास पूल",
+            "title": "एकदा 'या' पद्धतीनं चवळीची उसळ करा; आवडीनं खातील सगळे-चमचमीत, चवदार रेसिपी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-07T13:19:53",
-            "url": "https://www.lokmat.com/sakhi/parenting/indian-parenting-in-australia-to-preserve-cultural-values-ritvik-gawade-and-dr-roshni-sonawane-teaching-traditions-to-children-in-australia-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-teach-indian-culture-to-children-living-abroad_2026101797497.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "45cd203f48d4",
-            "feed": "lokmat",
-            "title": "Red-Lipped Batfish: लिपस्टिक लावल्यासारखे ओठ, पोहण्याऐवजी चालतो; 'हा' मासा पाहून शास्त्रज्ञही चक्रावले!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-07T13:10:15",
-            "url": "https://www.lokmat.com/photos/jarahatke/red-lipped-batfish-lips-like-lipstick-walks-instead-of-swimming-even-scientists-were-amazed-to-see-this-fish-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-07-at-1.06.24-pm_2026101797522.jpeg",
+            "published": "2026-10-07T20:19:10",
+            "url": "https://www.lokmat.com/sakhi/food/chawlichi-bhaji-recipe-chawlichi-usal-recipe-how-to-make-chawlichi-usal-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-07-at-5.44.36-pm_2026101797985.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "05ce6543d0ab",
+            "id": "db02983f8534",
             "feed": "esakal",
-            "title": "गरब्यासाठी अमृता फडणवीस यांचं नवं गाणं भेटीला ! 'मारी महिसागर'वर मिसेस मुख्यमंत्र्यांनी केल्या भन्नाट स्टेप्स",
+            "title": "Mithun Chakraborty: ज्येष्ठ अभिनेते मिथुन चक्रवर्ती पश्चिम बंगाल सरकारचे सल्लागार म्हणून नियुक्त; कॅबिनेट मंत्रिपदाचा दर्जा बहाल",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-07T13:05:01",
-            "url": "https://www.esakal.com/premier/amruta-fadnavis-new-garba-song-mari-mahisagar-features-her-energetic-dance-steps-for-navratri-celebration-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/ahc1cv2i/AMRUTA-FADNVIS-NEW-SONG-GOR-GARBA-1.png",
+            "published": "2026-10-07T20:15:43",
+            "url": "https://www.esakal.com/premier/mithun-chakraborty-appointed-west-bengal-government-advisor-cabinet-minister-rank-suvendu-adhikari-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/hy8m30as/Latest-Marathi-Breaking-News-2026-10-07T201232.251.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "7078e6cfaa0b",
-            "feed": "esakal",
-            "title": "शेकडो वर्षांपासून 'या' गावात लग्नाला बंदी! काय आहे रेणुकामातेची कथा?",
+            "id": "47cb2721bf11",
+            "feed": "lokmat",
+            "title": "हद्दच झाली राव..!! आधी iPhone चोरला, मग Whatsapp वर मागितला पासवर्ड; तरूणीने सांगितला विचित्र किस्सा",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-07T13:02:08",
-            "url": "https://www.esakal.com/ampstories/web-story/navratri-hivra-chondhala-renuka-mata-village-wedding-tradition-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/i3xyq00j/hivra-chondhala-renuka-mata-village-wedding-tradition-6.jpg",
+            "published": "2026-10-07T20:12:02",
+            "url": "https://www.lokmat.com/social-viral/dehradun-iphone-stolen-thief-sent-message-on-whatsapp-for-password-to-girl-kaushiki-dhyani-slams-uttarakhand-police-video-viral-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dehradun-iphone-chori-0710_2026101797984.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "79a2a39fd589",
+            "feed": "lokmat",
+            "title": "Early Periods : खेळण्या-बागडण्याच्या वयातच लेकीला पिरिएड्स आले? कमी वयात मुलींना पाळी येऊ नये म्हणून ९ गोष्टी लक्षात ठेवा...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-07T20:05:01",
+            "url": "https://www.lokmat.com/sakhi/health/menstrual-cycle/how-to-prevent-early-periods-in-girls-precocious-puberty-in-girls-causes-of-early-periods-in-girls-how-to-prevent-early-puberty-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-prevent-early-periods-in-girls_2026101797770.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "ddfaef8661a9",
-            "feed": "esakal",
-            "title": "बाइकवर आला, श्वानाला गोळी मारली अन्...; धक्कादायक घटना CCTV मध्ये कैद",
+            "id": "ccb7e9d90cdd",
+            "feed": "maharashtratimes",
+            "title": "55 लाखांच्या बाईक्स गिफ्ट, थायलंडची बायको भारतात; टाळाटाळ करणाऱ्या पतीचा कारनामा कळताच धक्का",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-07T13:00:48",
-            "url": "https://www.esakal.com/trending-news/lucknow-street-dog-shot-cctv-footage-bike-rider-police-investigation-case-news-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/h6g9w5fk/Lucknow-Street-Dog-Shot",
+            "published": "2026-10-07T20:02:35",
+            "url": "https://maharashtratimes.com/india-news/thai-wife-gifted-irfan-two-sports-bikes-worth-rs-55-lakh-to-kanpur-businessman/articleshow/134768314.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "38610550c374",
-            "feed": "lokmat",
-            "title": "‘मक्का पॅक्ट’ सक्रिय झाला...! सौदीच्या मदतीला पाकिस्तान सैन्य पाठविणार, तुर्की देखील राजी झाला...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-07T11:48:24",
-            "url": "https://www.lokmat.com/international/mecca-pact-pakistan-turkey-saudi-mecca-pact-activated-pakistan-will-send-troops-to-help-saudi-arabia-turkey-also-agreed-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/makkah-pact-activated-34_2026101797420.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6fba135ef531",
-            "feed": "lokmat",
-            "title": "थायलंडच्या तरुणीला ६० लाखांचा गंडा; ज्याच्याशी लग्न केलं तो निघाला ३ मुलांचा बाप, पोलिसांनी ठोकल्या बेड्या",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-07T11:48:01",
-            "url": "https://www.lokmat.com/photos/crime/kanpur-irfan-arrested-who-married-thailand-woman-and-fraud-60-lakh-rs-burka-islam-forced-conversion-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thai-women-6_2026101797418.jpeg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "6b84c8d7863f",
-            "feed": "lokmat",
-            "title": "Student Protest: फ्रान्समध्ये लाखो विद्यार्थ्यांसह, शिक्षक पालकही रस्त्यावर का उतरले, काय घडलेय की आंदोलनाचा भडका उडाला?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-07T11:35:07",
-            "url": "https://www.lokmat.com/international/student-protest-why-did-millions-of-students-teachers-and-parents-take-to-the-streets-in-france-what-happened-that-sparked-the-protest-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/student-protest-france_2026101797390.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9c8138baa208",
+            "id": "f828c18350c5",
             "feed": "maharashtratimes",
-            "title": "Mecca Pact Activate : Houthis शी लढणार Pakistan - Turkey, Saudi Arabia मुळे middle east मध्ये संघर्ष",
+            "title": "भारत-इस्रायलमध्ये दहशतवादाची नवी लाट येणार! इस्रायली राजदूताकडून गंभीर धोक्याचा इशारा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-10-07T19:59:26",
+            "url": "https://maharashtratimes.com/international/international-news/israeli-ambassador-reuven-azar-india-and-israel-will-hit-new-wave-of-terrorism/articleshow/134768405.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4a09255b21f1",
+            "feed": "maharashtratimes",
+            "title": "Success Story: गणितात भारताचा तिरंगा फडकला!  प्रा. महेश काकडे यांना आंतरराष्ट्रीय 'रामानुजन पुरस्कार' घोषित",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-06T19:39:48",
-            "url": "https://maharashtratimes.com/video/mt-originals/mecca-pact-activate/videoshow/134742922.cms",
+            "published": "2026-10-07T18:24:58",
+            "url": "https://maharashtratimes.com/career/career-news/success-story-iisc-prof-mahesh-kakade-ramanujan-prize-2026-algebraic-number-theory/articleshow/134764775.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "070a05b8951c",
+            "feed": "maharashtratimes",
+            "title": "How worried should we be about Russian plague outbreak? : अमेरिका आणि जगाची चिंता का वाढली ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-07T17:44:05",
+            "url": "https://maharashtratimes.com/video/mt-originals/how-worried-should-we-be-about-russian-plague-outbreak/videoshow/134765876.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "442a4255cc20",
+            "feed": "maharashtratimes",
+            "title": "कॅप्टन प्लीज झोपू नका! स्मितसाठी देवदूत ठरलेल्या डेंटिस्टनं सांगितला विमानातला बाका प्रसंग",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-10-07T17:40:49",
+            "url": "https://maharashtratimes.com/international/international-news/the-dentist-guardian-angel-smit-machchhar-told-how-he-save-life/articleshow/134765301.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "17ae7a940332",
+            "feed": "maharashtratimes",
+            "title": "मृत्युदंडासाठी देण्यात आले दोन दोन प्राणघातक इंजेक्शन, तरीही बचावली, शुद्धीत आल्यानंतर बोलायला लागली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-10-07T15:37:59",
+            "url": "https://maharashtratimes.com/international/international-news/american-death-row-convict-crista-pike-given-lethal-injection-still-survived/articleshow/134762045.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "0072bf4f6d89",
-            "feed": "maharashtratimes",
-            "title": "Harmanpreet Kaur : भारतीय महिला क्रिकेट संघात फूट, हरमनप्रीत-स्मृतीमध्ये एकमत नव्हतं, ड्रेसिंग रुमचं वातावरण गरम, कॅप्टन्सीच्या हँडओव्हरवेळी चर्चांना उधाण",
+            "id": "3981ce523de4",
+            "feed": "esakal",
+            "title": "Ishan Kishanने मोडला विराट कोहलीचा १० वर्षे जुना विक्रम; भारतीय खेळाडूंच्या 'या' लिस्टमध्ये अव्वल",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-07T13:15:10",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/harmanpreet-kaur-smriti-mandhana-rift-over-indian-women-cricket-team-captaincy/articleshow/134759169.cms",
-            "image": "",
+            "published": "2026-10-07T19:38:34",
+            "url": "https://www.esakal.com/krida/cricket/ishan-kishan-breaks-virat-kohli-10-year-record-top-list-most-t20-runs-in-calendar-year-ind-vs-wi-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/orhw1wlh/Ishan-Kishan-Shreyas-Iyer-India-vs-West-Indies-1st-T20I.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "44852fa1e9e9",
+            "id": "0a63a64465ab",
             "feed": "lokmat",
-            "title": "विराट-रोहितप्रमाणेच हरमनप्रीत-स्मृती यांच्यात मतभेद असल्याची चर्चा; जाणून घ्या त्यामागचं सत्य",
+            "title": "ICC T20I Rankings: शतकानंतर श्रेयस अय्यरची मोठी झेप; करामती खाननं पाकिस्तानी गोलंदाजाला दिली धोबीपछाड",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-07T12:58:46",
-            "url": "https://www.lokmat.com/cricket/news/difference-between-harmanpreet-and-smriti-similar-discussions-were-held-regarding-rohit-and-virat-earlier-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/smriti-mandhana-and-harmanpreet-kaur-fift-news-amid-captaincy-change-m-_2026101797503.jpg",
+            "published": "2026-10-07T19:35:13",
+            "url": "https://www.lokmat.com/cricket/news/icc-rankings-shreyas-iyer-storms-into-top-10-t20i-rankings-after-lucknow-century-heroics-afghanistan-wristspinner-rashid-khan-no-1-ranked-bowler-in-t20i-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/icc-t20i-rankings-m-_2026101797977.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "445d07acc449",
-            "feed": "maharashtratimes",
-            "title": "Virat Kohli : वृंदावनमधील प्रेमानंद महाराजांकडे जाण्यासाठी विराटने खरंच 5 कोटी घेतले का? किंग कोहलीकडून मोठा खुलासा, काय म्हणाला?",
+            "id": "77d0be8fdff6",
+            "feed": "esakal",
+            "title": "Bhuvneshwar Kumar: टी२० मध्ये तर कमबॅक झालं, आता भूवीची वर्ल्ड कप २०२७ च्या मिशनमध्येही होणार एन्ट्री?",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-07T12:56:37",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/virat-kohli-team-talk-about-premanand-maharaj-5-crore-controversy/articleshow/134758960.cms",
-            "image": "",
+            "published": "2026-10-07T19:03:17",
+            "url": "https://www.esakal.com/krida/cricket/bhuvneshwar-kumar-t20i-recall-could-open-doors-for-2027-odi-world-cup-audition-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/jtj4u9t5/Bhuvneshwar-Kumar.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "68bbefb0ffff",
+            "id": "20226e7c8fa8",
             "feed": "maharashtratimes",
-            "title": "Property Ownership Rights: मालमत्तेची मूळ कागदपत्रे बँकेकडे गहाण, मग मालकी कशी सिद्ध करायची? नोंदणीव्यतिरिक्त 6 पुरावे जपून ठेवा",
+            "title": "Pradip Kannan : मोठ्या कंपनीतली नोकरी सोडली अन् उभारला फालुदा व्यवसाय! दुबईमध्येही होतेय चर्चा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-10-07T13:03:53",
-            "url": "https://maharashtratimes.com/business/real-estate-news/original-documents-of-property-deposited-in-banks-how-to-prove-ownership-rights-6-documents-besides-registration/articleshow/134758475.cms",
+            "published": "2026-10-07T20:03:17",
+            "url": "https://maharashtratimes.com/business/business-news/oracle-job-to-falooda-shop-how-pradeep-kannan-started-9-crore-business/articleshow/134767744.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7db01fbccd45",
-            "feed": "esakal",
-            "title": "Kaydyacha Panchnama: IT Notice आली म्हणजे छापा पडणार का?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-07T12:55:40",
-            "url": "https://www.esakal.com/videos/income-tax-notice-rules-fake-notice-din-verification-tax-raid-lawyer-ashish-patil-guidance",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/uoi13ted/zoPwx6ODmdE-HD.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "2061ccda4916",
+            "id": "cf9032029b6d",
             "feed": "lokmat",
-            "title": "Kanda Market : लासलगाव, पिंपळगाव मार्केटमध्ये कांदा दर सरासरी किती रुपयांनी घसरले, वाचा सविस्तर",
+            "title": "Fal Pik Vima : फळ पीक विमा योजनेचा लाभ घ्यायचा असेल तर फार्मर आयडी अनिवार्य, वाचा सविस्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-07T12:30:02",
-            "url": "https://www.lokmat.com/agriculture/market-yard/onion-prices-in-lasalgaon-and-pimpalgaon-markets-have-fallen-by-an-average-of-rs-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-dr-ghat_2026101797433.jpeg",
+            "published": "2026-10-07T19:35:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/farmer-id-is-mandatory-to-avail-the-benefit-of-fruit-crop-insurance-scheme-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fakl-pik-sh_2026101797932.jpeg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "28b308ff8d7c",
+            "feed": "maharashtratimes",
+            "title": "Gold Rate Prediction: गोल्ड मार्केटमध्ये उलथापालथ अटळ, घसरत्या सोन्यावर लावावा का डाव? गुंतवणूकदार संभ्रमात, आंतरराष्ट्रीय बँकेचा अंदाज पाहा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-10-07T19:25:00",
+            "url": "https://maharashtratimes.com/business/business-news/gold-price-hsbc-outlook-2026-2027-fed-rate-hike-factor-to-watch-now-buy-or-wait-what-should-investors-do/articleshow/134763991.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ]
 }
