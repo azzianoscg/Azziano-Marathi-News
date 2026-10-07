@@ -1,167 +1,167 @@
 {
-    "lastUpdated": "07-10-2026 | 08:24 PM IST",
+    "lastUpdated": "08-10-2026 | 01:49 AM IST",
     "maharashtra": [
         {
-            "id": "299df2001688",
-            "feed": "maharashtratimes",
-            "title": "Tukaram Mundhe : तुकाराम मुंढे यांच्या कारवाईची टाच थेट सोनाई डेअरीपर्यंत, भेसळ दुधाचा पुरवठा होत असल्याचा ठपका",
+            "id": "db7626ea49ea",
+            "feed": "esakal",
+            "title": "Radhakrishna Vikhe Patil : पारनेर तालुक्यातील एकाही शेतकऱ्याच्या पिकाचा पंचनामा राहणार नाही, पाणीटंचाई भासणार नाही",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-07T20:20:44",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/maharashtra-fda-commissioner-tukaram-mundhe-strict-action-against-adulterated-milk-supply/articleshow/134768387.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "073251759dd4",
-            "feed": "lokmat",
-            "title": "‌Bhandara News : साकोलीच्या शासकीय धान्य गोदामातून गोरगरिबांच्या ३६१ पोते धान्याची चोरी, नेमकं काय घडलं?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-07T20:17:42",
-            "url": "https://www.lokmat.com/bhandara/bhandara-news-361-bags-of-grain-belonging-to-the-poor-were-stolen-from-the-government-grain-godown-in-sakoli-how-did-this-happen-pcr-police-a-a1020/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/govt-grain-godown_2026101797987.jpeg",
+            "published": "2026-10-07T23:06:01",
+            "url": "https://www.esakal.com/ahmednagar/every-farmer-in-parner-taluka-to-get-crop-damage-inspection-water-scarcity-will-be-tackled-agriculture-loss-rain-compensation-radhakrishna-vikhe-patil-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/1eyyrag2/radhakrishna-vikhe-patil",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "5a4a96d675ed",
+            "id": "c29ec555ed9d",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : पुणे शिक्षक विधान परिषद निवडणुकीसाठी ४८ उमेदवार रिंगणात; ९ ऑक्टोबरला माघारीची अंतिम मुदत",
+            "title": "Sukhapuri News : मासे काढण्यासाठी गेलेल्या शेतकऱ्याचा शेततळ्यात बुडून मृत्यू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-07T22:57:13",
+            "url": "https://www.esakal.com/marathwada/farmer-drowns-in-farm-pond-while-trying-to-catch-fish-sukhapuri-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/no9i97tr/ganesh-lahamaghe",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b994d004fa25",
+            "feed": "esakal",
+            "title": "Beed News : बीडच्या एलसीबी पथकाचा सन्मान! अंबाजोगाईतील घरफोडीचा छडा लावून ४५ तोळे सोने, १६०० ग्रॅम चांदी हस्तगत करण्यात धडाकेबाज कामगिरी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-07T22:41:00",
+            "url": "https://www.esakal.com/marathwada/beed-lcb-team-honored-for-solving-ambajogai-burglary-45-tolas-gold-and-16-kg-silver-recovered-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/swluvtsu/Beed-LCB-Team-Honored-for-Solving-Ambajogai-Burglary",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8fd710c9f133",
+            "feed": "esakal",
+            "title": "Vidyadhar Anaskar : आरबीआयच्या नव्या पतधोरणामुळे सर्वसामान्यांचे कर्ज महागण्याची शक्यता; समतोल राखण्याचे बँकिंग क्षेत्रासमोर आव्हान",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-07T20:17:40",
-            "url": "https://www.esakal.com/maharashtra/rahul-gandhi-cec-gyanesh-kumar-delhi-police-earthquake-messi-harmanpreet-kaur-russian-plague-bubonic-plague-maharashtra-drought-water-cut-mpsc-protest-pune-manoj-jarange-devefadnavis-ymk86-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-10-07T22:36:42",
+            "url": "https://www.esakal.com/pune/rbis-new-monetary-policy-likely-to-make-loans-costlier-banking-sector-faces-balancing-act-vidyadhar-anaskar-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/lb82p6lm/Vidyadhar-Anaskar",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4a90c83636d9",
+            "id": "c87cc8a8a417",
             "feed": "lokmat",
-            "title": "शेतात पिकांना पाणी देताना सापाने घेतला चावला; बापाच्या डोळ्यांसमोर मुलाचा दुर्दैवी अंत",
+            "title": "१२ लाखांचा प्रतिबंधित प्लास्टिक साठा जप्त; 'बीग बास्केट टाटा एंटरप्रायझेस'वर धडक कारवाई",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-07T19:56:01",
-            "url": "https://www.lokmat.com/solapur/young-farmer-dies-after-snake-bite-while-resting-under-tree-in-solapur-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/solapur-snake-bite_2026101797983.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "09704dcc6cb9",
-            "feed": "esakal",
-            "title": "Pune News : चारा टंचाईआधीच पशुसंवर्धन विभाग ‘अलर्ट’; पीक अवशेष जाळण्याऐवजी साठवणूक, प्रक्रिया आणि पोषणमूल्यवर्धनावर भर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-07T19:55:33",
-            "url": "https://www.esakal.com/pune/animal-husbandry-dept-on-high-alert-ahead-of-fodder-shortage-focus-on-crop-residue-processing-and-storage-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/66vo10ot/fodder-shortage",
+            "published": "2026-10-07T22:30:26",
+            "url": "https://www.lokmat.com/nagpur/nagpur-municipal-corporation-seized-banned-plastic-stock-worth-rs-12-lakh-from-big-basket-tata-enterprises-a-a875-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-mc_2026101797996.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "a6bddb78b848",
-            "feed": "lokmat",
-            "title": "एकदा 'या' पद्धतीनं चवळीची उसळ करा; आवडीनं खातील सगळे-चमचमीत, चवदार रेसिपी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-07T20:19:10",
-            "url": "https://www.lokmat.com/sakhi/food/chawlichi-bhaji-recipe-chawlichi-usal-recipe-how-to-make-chawlichi-usal-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-07-at-5.44.36-pm_2026101797985.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "db02983f8534",
-            "feed": "esakal",
-            "title": "Mithun Chakraborty: ज्येष्ठ अभिनेते मिथुन चक्रवर्ती पश्चिम बंगाल सरकारचे सल्लागार म्हणून नियुक्त; कॅबिनेट मंत्रिपदाचा दर्जा बहाल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-07T20:15:43",
-            "url": "https://www.esakal.com/premier/mithun-chakraborty-appointed-west-bengal-government-advisor-cabinet-minister-rank-suvendu-adhikari-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/hy8m30as/Latest-Marathi-Breaking-News-2026-10-07T201232.251.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "47cb2721bf11",
-            "feed": "lokmat",
-            "title": "हद्दच झाली राव..!! आधी iPhone चोरला, मग Whatsapp वर मागितला पासवर्ड; तरूणीने सांगितला विचित्र किस्सा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-07T20:12:02",
-            "url": "https://www.lokmat.com/social-viral/dehradun-iphone-stolen-thief-sent-message-on-whatsapp-for-password-to-girl-kaushiki-dhyani-slams-uttarakhand-police-video-viral-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dehradun-iphone-chori-0710_2026101797984.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "79a2a39fd589",
-            "feed": "lokmat",
-            "title": "Early Periods : खेळण्या-बागडण्याच्या वयातच लेकीला पिरिएड्स आले? कमी वयात मुलींना पाळी येऊ नये म्हणून ९ गोष्टी लक्षात ठेवा...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-07T20:05:01",
-            "url": "https://www.lokmat.com/sakhi/health/menstrual-cycle/how-to-prevent-early-periods-in-girls-precocious-puberty-in-girls-causes-of-early-periods-in-girls-how-to-prevent-early-puberty-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-prevent-early-periods-in-girls_2026101797770.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ccb7e9d90cdd",
+            "id": "48803fe49e5a",
             "feed": "maharashtratimes",
-            "title": "55 लाखांच्या बाईक्स गिफ्ट, थायलंडची बायको भारतात; टाळाटाळ करणाऱ्या पतीचा कारनामा कळताच धक्का",
+            "title": "आजचे राशिभविष्य 8 ऑक्टोबर 2026 : दत्तगुरूंची होणार कृपा, हंस राजयोगाचा मिळणार या राशींना लाभ ! पहा तुमचे राशिभविष्य !",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-07T20:02:35",
-            "url": "https://maharashtratimes.com/india-news/thai-wife-gifted-irfan-two-sports-bikes-worth-rs-55-lakh-to-kanpur-businessman/articleshow/134768314.cms",
+            "published": "2026-10-08T00:33:38",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-8-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134773842.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "0cc7a0314df6",
+            "feed": "lokmat",
+            "title": "ध्रुव राठी आला भारतात ! CJP सोबत झाली बैठक; गुरूवारी बंगळुरूच्या आंदोलनात होणार सहभागी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-08T00:19:55",
+            "url": "https://www.lokmat.com/national/dhruv-rathee-in-india-to-join-bengaluru-cjp-sir-protest-prakash-raj-abhijeet-dipke-freedom-park-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dhruv-rathee-0810_2026101797999.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6cb9eae659c8",
+            "feed": "lokmat",
+            "title": "इंडिगोच्या विमानावर हवेत असतानाच वीज कोसळली, पुढचा भाग चेपला; लखनौ विमानतळावर आपत्कालीन लँडिंग",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-07T23:30:56",
+            "url": "https://www.lokmat.com/national/lightning-strike-damages-patna-lucknow-indigo-flights-nose-mid-air-104-passengers-6-crew-escape-unhurt-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indigo-flight-0710c_2026101797998.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1eabf5de5e7f",
+            "feed": "esakal",
+            "title": "ब्रिटिशांची 'ही' वनस्पती ठरतेय भारताच्या निसर्गाची शत्रू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-07T23:14:13",
+            "url": "https://www.esakal.com/ampstories/web-story/how-british-introduced-vedi-babhul-vilayati-babul-became-india-environmental-enemy-prosopis-juliflora-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/r7bc4pea/Vedi-Babul-Is-Destroying-Indias-Environment-12.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "017085a29748",
+            "feed": "esakal",
+            "title": "बेसन खाण्याआधी 'हे' नक्की वाचा!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-07T23:02:56",
+            "url": "https://www.esakal.com/ampstories/web-story/besan-eating-benefits-side-effects-health-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/ymqgggl9/besan-benefits-10.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "c9452897c426",
+            "feed": "esakal",
+            "title": "पुणे ग्रँड टूरची UCI 2.1 श्रेणीत झेप; 26 जानेवारीपासून रंगणार ६ टप्प्यांची स्पर्धा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-07T23:32:00",
+            "url": "https://www.esakal.com/krida/pune-grand-tour-upgraded-uci-2-1-category-2027-edition-host-2032-uci-road-world-championship-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-07/xllm02th/Pune-Grand-Tour-Upgraded-to-UCI-2.1.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
             "id": "3981ce523de4",
             "feed": "esakal",
             "title": "Ishan Kishanने मोडला विराट कोहलीचा १० वर्षे जुना विक्रम; भारतीय खेळाडूंच्या 'या' लिस्टमध्ये अव्वल",
@@ -278,25 +294,41 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/icc-t20i-rankings-m-_2026101797977.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "77d0be8fdff6",
-            "feed": "esakal",
-            "title": "Bhuvneshwar Kumar: टी२० मध्ये तर कमबॅक झालं, आता भूवीची वर्ल्ड कप २०२७ च्या मिशनमध्येही होणार एन्ट्री?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-07T19:03:17",
-            "url": "https://www.esakal.com/krida/cricket/bhuvneshwar-kumar-t20i-recall-could-open-doors-for-2027-odi-world-cup-audition-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/jtj4u9t5/Bhuvneshwar-Kumar.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "a41faf92e2d2",
+            "feed": "lokmat",
+            "title": "मुख्यमंत्री ग्रामीण पशुधन योजनेबाबत पशुसंवर्धन विभागाकडून महत्वाचं आवाहन, वाचा सविस्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-07T20:35:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/important-appeal-from-animal-husbandry-department-regarding-chief-ministers-rural-livestock-scheme-read-in-detail-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pashudhan-ns_2026101797973.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "c8f059e05b14",
+            "feed": "lokmat",
+            "title": "RBIकडून रेपो दरवाढ, HDFC मात्र व्याजदरार केली कपात; EMI किती कमी होईल? पाहा...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-10-07T20:21:49",
+            "url": "https://www.lokmat.com/business/banking-loans/rbi-hikes-repo-rate-hdfc-cuts-interest-rate-how-much-will-emi-be-reduced-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hdfc-bank-loan_2026101797989.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "20226e7c8fa8",
             "feed": "maharashtratimes",
@@ -309,38 +341,6 @@
             },
             "published": "2026-10-07T20:03:17",
             "url": "https://maharashtratimes.com/business/business-news/oracle-job-to-falooda-shop-how-pradeep-kannan-started-9-crore-business/articleshow/134767744.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "cf9032029b6d",
-            "feed": "lokmat",
-            "title": "Fal Pik Vima : फळ पीक विमा योजनेचा लाभ घ्यायचा असेल तर फार्मर आयडी अनिवार्य, वाचा सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-07T19:35:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/farmer-id-is-mandatory-to-avail-the-benefit-of-fruit-crop-insurance-scheme-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fakl-pik-sh_2026101797932.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "28b308ff8d7c",
-            "feed": "maharashtratimes",
-            "title": "Gold Rate Prediction: गोल्ड मार्केटमध्ये उलथापालथ अटळ, घसरत्या सोन्यावर लावावा का डाव? गुंतवणूकदार संभ्रमात, आंतरराष्ट्रीय बँकेचा अंदाज पाहा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-10-07T19:25:00",
-            "url": "https://maharashtratimes.com/business/business-news/gold-price-hsbc-outlook-2026-2027-fed-rate-hike-factor-to-watch-now-buy-or-wait-what-should-investors-do/articleshow/134763991.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
