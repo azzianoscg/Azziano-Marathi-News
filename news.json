@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "08-10-2026 | 06:04 AM IST",
+    "lastUpdated": "08-10-2026 | 12:19 PM IST",
     "maharashtra": [
         {
-            "id": "957060ae4efb",
+            "id": "8e8c9b27280f",
+            "feed": "esakal",
+            "title": "Latest Marathi News Live Update : मुंडे साहेब उशिरा का आलात ते सांगा’; धनंजय मुंडेंकडून नाना पाटेकरांच्या आठवणींना उजाळा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-08T12:17:36",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-08-october-2026-nana-patekar-on-sharad-pawar-what-he-said-about-his-drought-work-mpsc-protest-pune-uddhav-raj-thackeray-protest-against-chief-election-commissioner-gyanesh-kumar-sharad-pawar-drought-tour-weather-update-imd-kolhapur-gokul-election-tukaram-mundhe-fda-actions-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-srs92-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "db8aa7b51ead",
             "feed": "lokmat",
-            "title": "२०४७ मध्ये विकसित भारताचे स्वप्न पूर्ण करण्याचा संकल्प - मुख्यमंत्री",
+            "title": "Kolhapur-Gokul Election: अनुसुचित जातीची जागा शिंदेसेनेकडे, ‘ओबीसी’सह महिला राष्ट्रवादीकडे; संभाव्य पॅनेल.. वाचा सविस्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-08T05:56:55",
-            "url": "https://www.lokmat.com/mumbai/resolve-to-fulfill-the-dream-of-a-developed-india-by-2047-chief-minister-devendra-fadnavis-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fadnavis-devendra-hs81_2026101798004.jpg",
+            "published": "2026-10-08T12:13:36",
+            "url": "https://www.lokmat.com/kolhapur/find-out-the-probable-panels-of-candidates-from-the-mahayuti-and-the-congress-led-samvichari-aghadi-like-minded-alliance-for-the-gokul-election-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gokul-milk-mahayuti-congress-jagavatp_2026101798182.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3b4d93b5b509",
-            "feed": "lokmat",
-            "title": "विविध प्रांतात पाठविली जातात नागपरातून बालमजूर; आठ महिन्यात हाती लागले ४५ बालके",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-08T05:41:08",
-            "url": "https://www.lokmat.com/crime/child-laborers-from-nagpur-are-sent-to-various-provinces-45-children-arrested-in-eight-months-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/laborers-on-mnregas-works-decreased_202104600379.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5f096255f1de",
-            "feed": "esakal",
-            "title": "पेट्रोल पंपांवरील सुविधां तपासणीचे \nजिल्हा पुरवठा अधिकाऱ्यांचे आदेश",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-08T01:08:23",
-            "url": "https://www.esakal.com/marathwada/aurangabad/fuel-station-inspection-maharashtra",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/glndol78/Sakal20Wesite20Banner20_20Ch20Sambhaji20Nagar.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "682de5cac35d",
-            "feed": "esakal",
-            "title": "मध्यरात्री रस्त्यावर फटाके फोडून \nवाढदिवस साजरा करणे भोवले",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-08T00:12:53",
-            "url": "https://www.esakal.com/marathwada/aurangabad/midnight-fireworks-birthday-arrests",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/5p23v8qv/Sakal20Wesite20Banner20_20Ch20Sambhaji20Nagar.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ab5e29e53fd3",
-            "feed": "esakal",
-            "title": "कर्मकांडापेक्षा संतविचारांचे आचरण महत्त्वाचे",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-08T00:03:02",
-            "url": "https://www.esakal.com/marathwada/aurangabad/sant-vichar-bhakti-path",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/v3145ov8/Sakal20Wesite20Banner20_20Ch20Sambhaji20Nagar.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "59c739ebd05c",
-            "feed": "esakal",
-            "title": "8 ऑक्टोबर 2026 राशिभविष्य! 'या' राशींची रखडलेली कामे मार्गी लागतील",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-08T06:00:00",
-            "url": "https://www.esakal.com/ampstories/web-story/today-rashibhavishya-08-october-2026-thursday-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/ne5k6yv5/1.jpg.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "fe6e74328bdc",
+            "id": "3c96753e92dd",
             "feed": "maharashtratimes",
-            "title": "फेसबुक युजर्ससाठी मोठा बदल! आता अ‍ॅप उघडताच 'होम फीड' ऐवजी दिसणार फुल-स्क्रीन व्हिडिओ",
+            "title": "VIDEO | शिवसेना नेत्या निलम गोऱ्हेंनी नाना पाटेकरांना श्रद्धांजली वाहिली",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-10-08T06:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/facebook-tests-reels-style-full-screen-experience-for-app-users/articleshow/134762063.cms",
+            "published": "2026-10-08T12:09:05",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/shiv-sena-leader-neelam-gorhe-paid-tribute-to-nana-patekar/videoshow/134782426.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e9f73d1e820a",
-            "feed": "lokmat",
-            "title": "खेळ, भीती, थरार! ‘नशेच्या इंजेक्शन’मागील सत्य समोर; ४८ तासांचा हायव्होल्टेज ड्रामा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-08T05:52:23",
-            "url": "https://www.lokmat.com/crime/games-fear-thrill-the-truth-behind-drug-injections-exposed-48-hour-high-voltage-drama-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/drugs-news_2026081774461.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "259b1b8f7715",
-            "feed": "lokmat",
-            "title": "वुई विल डू इट! पंतप्रधान मोदींचा विकसित भारतनिर्मितीसाठी नारा; \"समस्या सर्वांना भेडसावत असेल तर...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-08T05:46:54",
-            "url": "https://www.lokmat.com/national/we-will-do-it-prime-minister-modi-slogan-for-a-developed-india-if-the-problem-is-faced-by-everyone-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/modi-namo-sh_2026101798002.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f84e8ae84945",
+            "id": "a0415001bbea",
             "feed": "lokmat",
-            "title": "ज्ञानेश कुमारांविरोधात ‘इंडिया’ सलग दुसऱ्या दिवशीही रस्त्यावर; जंतर-मंतरवर ठिय्या आंदोलन",
+            "title": "Hingoli Crime: पेट्रोलपंप चालकाच्या मुलाने केली इंडियन ऑईलच्या अधिकाऱ्याची हत्या; रक्ताच्या थारोळ्यात महेश शेळकेचा गेला जीव, प्रकरण काय आहे?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": null
             },
-            "published": "2026-10-08T05:36:33",
-            "url": "https://www.lokmat.com/national/india-on-the-streets-for-the-second-consecutive-day-against-dnyanesh-kumar-protest-held-at-jantar-mantar-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gandhi-rahul-sh8ce_2026101798000.jpg",
+            "published": "2026-10-08T12:08:28",
+            "url": "https://www.lokmat.com/hingoli/hingoli-crime-petrol-pump-drivers-son-kills-indian-oil-official-mahesh-shelke-lost-his-life-in-a-bloodbath-what-is-the-case-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-oil-manager-stabbed-to-death-in-hingoli_2026101798178.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1afd05e07728",
+            "feed": "maharashtratimes",
+            "title": "VIDEO | नाना पाटेकरांच्या समाजकार्याची देवेंद्र फडणवीसांकडून आठवण",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-08T12:06:35",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/devendra-fadnavis-remembers-nana-patekars-social-work/videoshow/134782385.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
+    "india": [
+        {
+            "id": "9f46507173cc",
+            "feed": "esakal",
+            "title": "Project Cheetah: कूनो, गांधी सागरनंतर नौरादेही बनले चित्त्यांचे ३ रे घर; एकाच जंगलात एकत्र राहणार वाघ आणि चित्ता",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-08T12:13:56",
+            "url": "https://www.esakal.com/desh/nauradehi-becomes-indias-third-cheetah-home-after-kuno-and-gandhi-sagar-with-tigers-and-cheetahs-sharing-one-forest-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/itave3z1/cm-mohan-yadav-cheetah.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "0e06bea9e413",
+            "feed": "lokmat",
+            "title": "केस लवकर वाढण्यासाठी आठवड्यातून कितीदा धुवायचे? नेहमी शॅम्पूची गरज असते का, पाहा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-08T12:13:35",
+            "url": "https://www.lokmat.com/sakhi/beauty/how-often-should-you-wash-your-hair-for-faster-growth-how-often-to-wash-your-hairs-in-week-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-08-at-10.54.07-am-2_2026101798175.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "80fa33ad4ddb",
+            "feed": "esakal",
+            "title": "Nana Patekar Death: ८ दिवसांपूर्वीच भेट झाली, तेव्हा...; तुकाराम मुंढेंनी सांगितला नाना पाटेकर यांचा 'तो' किस्सा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-08T12:11:51",
+            "url": "https://www.esakal.com/premier/nana-patekar-met-tukaram-mundhe-eight-days-ago-they-shared-anecdote-about-nana-patekar-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/aikwtmfi/Tukaram-Mundhe-On-Nana-Patekar.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "c790d3d9dfda",
+            "feed": "lokmat",
+            "title": "राज ठाकरे यांनी नाना पाटेकर यांना  भावूक शब्दात वाहिली श्रद्धांजली, म्हणाले, त्यांच्या जाण्याने...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-08T12:11:50",
+            "url": "https://www.lokmat.com/filmy/marathi-cinema/raj-thackeray-paid-emotional-tribute-to-nana-patekar-said-his-passing-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/raj-thackeray-nana-patekar-1_2026101798180.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a4def824507d",
+            "feed": "esakal",
+            "title": "ज्ञानेशकुमारांच्या राजीन्यासाठी राहुल गांधी रस्त्यावर का? 300 खासदारांचा मोर्चा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-08T12:08:51",
+            "url": "https://www.esakal.com/videos/rahul-gandhi-priyanka-gandhi-india-alliance-protest-delhi-election-commission-gyanesh-kumar-resignation",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/mvbov4al/wObA0UEVGGo-HD.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        }
+    ],
     "world": [
+        {
+            "id": "37bb215adcdf",
+            "feed": "esakal",
+            "title": "Saudi Arabia Yemen Conflict : सौदी अरेबियातील दोन विमानतळांवर हल्ले; ३ जणांचा मृत्यू, ३६ जखमी, हुथींनी घेतली जबाबदारी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-08T09:33:45",
+            "url": "https://www.esakal.com/global/saudi-arabia-yemen-conflict-houthi-attacks-riyadh-abha-airports-missile-drone-strikes-casualties-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/4aufy9o7/Saudi-Arebia-.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "f828c18350c5",
             "feed": "maharashtratimes",
@@ -228,122 +244,106 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "17ae7a940332",
-            "feed": "maharashtratimes",
-            "title": "मृत्युदंडासाठी देण्यात आले दोन दोन प्राणघातक इंजेक्शन, तरीही बचावली, शुद्धीत आल्यानंतर बोलायला लागली",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-07T15:37:59",
-            "url": "https://maharashtratimes.com/international/international-news/american-death-row-convict-crista-pike-given-lethal-injection-still-survived/articleshow/134762045.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "c9452897c426",
-            "feed": "esakal",
-            "title": "पुणे ग्रँड टूरची UCI 2.1 श्रेणीत झेप; 26 जानेवारीपासून रंगणार ६ टप्प्यांची स्पर्धा",
+            "id": "b1f8094e2583",
+            "feed": "maharashtratimes",
+            "title": "Nana Patekar Death : नाना पाटेकरांनी सुनील गावसकर, संदीप पाटलांसोबत गाजवलंय शिवाजी पार्क; पण एका गोष्टीमुळे क्रिकेटला रामराम करत पकडलेली अभिनयाची वाट",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-07T23:32:00",
-            "url": "https://www.esakal.com/krida/pune-grand-tour-upgraded-uci-2-1-category-2027-edition-host-2032-uci-road-world-championship-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/xllm02th/Pune-Grand-Tour-Upgraded-to-UCI-2.1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "3981ce523de4",
-            "feed": "esakal",
-            "title": "Ishan Kishanने मोडला विराट कोहलीचा १० वर्षे जुना विक्रम; भारतीय खेळाडूंच्या 'या' लिस्टमध्ये अव्वल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-10-07T19:38:34",
-            "url": "https://www.esakal.com/krida/cricket/ishan-kishan-breaks-virat-kohli-10-year-record-top-list-most-t20-runs-in-calendar-year-ind-vs-wi-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-07/orhw1wlh/Ishan-Kishan-Shreyas-Iyer-India-vs-West-Indies-1st-T20I.jpg",
+            "published": "2026-10-08T12:01:26",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nana-patekar-played-cricket-shivaji-park-in-mumbai-but-gave-it-up-due-to-a-finger-injury/articleshow/134781725.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0a63a64465ab",
-            "feed": "lokmat",
-            "title": "ICC T20I Rankings: शतकानंतर श्रेयस अय्यरची मोठी झेप; करामती खाननं पाकिस्तानी गोलंदाजाला दिली धोबीपछाड",
+            "id": "7bc96cc44a27",
+            "feed": "esakal",
+            "title": "NANA PATEKAR: भारत-पाकिस्तान सामन्यावर नाना पाटेकरांचा ‘तो’ VIDEO पुन्हा व्हायरल; वर्षभरापूर्वी नेमकं काय म्हणाले होते?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-07T19:35:13",
-            "url": "https://www.lokmat.com/cricket/news/icc-rankings-shreyas-iyer-storms-into-top-10-t20i-rankings-after-lucknow-century-heroics-afghanistan-wristspinner-rashid-khan-no-1-ranked-bowler-in-t20i-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/icc-t20i-rankings-m-_2026101797977.jpg",
+            "published": "2026-10-08T11:45:46",
+            "url": "https://www.esakal.com/krida/cricket/nana-patekar-death-india-pakistan-match-old-video-viral-statement-asia-cup-cricket-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/feg61o5a/nana-patekar-ndia-vs-pakistahn.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "44d182c5a9c7",
+            "feed": "esakal",
+            "title": "WTC Standing: काय दिवस आलेत... बांगलादेश फायनलच्या शर्यतीत टीम इंडियाच्या पुढे, शुभमन गिलचा संघ कसा पोहोचेल अंतिम सामन्यात?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-08T11:41:09",
+            "url": "https://www.esakal.com/krida/cricket/bangladesh-ahead-of-team-india-in-wtc-final-race-here-how-shubman-gill-side-can-qualify-scenario-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/8mgqya0h/How-can-India-qualify-for-WTC-Final-2027",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "a41faf92e2d2",
-            "feed": "lokmat",
-            "title": "मुख्यमंत्री ग्रामीण पशुधन योजनेबाबत पशुसंवर्धन विभागाकडून महत्वाचं आवाहन, वाचा सविस्तर",
+            "id": "c1daad4a4bfe",
+            "feed": "esakal",
+            "title": "Property Rights: कन्यादान केलं म्हणून मुलीचा मालमत्तेवरील हक्क संपतो? वडिलांच्या संपत्तीत मुलीचा हक्क काय?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-07T20:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/important-appeal-from-animal-husbandry-department-regarding-chief-ministers-rural-livestock-scheme-read-in-detail-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pashudhan-ns_2026101797973.jpeg",
+            "published": "2026-10-08T12:08:32",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/property-rights-daughter-after-marriage-father-ancestral-property-hindu-succession-act-2005-vineeta-sharma-supreme-court-daughter-coparcenary-rights-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/45kwv5r2/Sakal-Money-51.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "c8f059e05b14",
-            "feed": "lokmat",
-            "title": "RBIकडून रेपो दरवाढ, HDFC मात्र व्याजदरार केली कपात; EMI किती कमी होईल? पाहा...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-10-07T20:21:49",
-            "url": "https://www.lokmat.com/business/banking-loans/rbi-hikes-repo-rate-hdfc-cuts-interest-rate-how-much-will-emi-be-reduced-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hdfc-bank-loan_2026101797989.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "20226e7c8fa8",
+            "id": "52cf231e6710",
             "feed": "maharashtratimes",
-            "title": "Pradip Kannan : मोठ्या कंपनीतली नोकरी सोडली अन् उभारला फालुदा व्यवसाय! दुबईमध्येही होतेय चर्चा",
+            "title": "Property Ownership Dispute : आई-वडिलांच्या मालमत्तेवर मुलगा-सुनेचा हक्क असतो का? पोटच्या पोराने जबरदस्ती ताबा घेतला पण, एका नियमाने रस्त्यावर आला",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-10-07T20:03:17",
-            "url": "https://maharashtratimes.com/business/business-news/oracle-job-to-falooda-shop-how-pradeep-kannan-started-9-crore-business/articleshow/134767744.cms",
+            "published": "2026-10-08T11:43:16",
+            "url": "https://maharashtratimes.com/business/real-estate-news/delhi-high-court-order-on-property-dispute-between-son-mother-house-over-ownership-claim/articleshow/134779343.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "551a34eece00",
+            "feed": "maharashtratimes",
+            "title": "डॉलर्समध्ये कमावणाऱ्या फ्रीलान्सर्स, यूट्यूबर्ससाठी RBI चा कडक नियम; बँक खात्यात पैसे हवे असल्यास एक फॉर्म भरावाच लागेल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-08T11:41:43",
+            "url": "https://maharashtratimes.com/gadget-news/rbi-new-edf-form-rules-for-freelancers-youtubers-foreign-income/articleshow/134781735.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ]
 }
