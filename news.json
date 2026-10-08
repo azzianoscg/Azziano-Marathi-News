@@ -1,252 +1,284 @@
 {
-    "lastUpdated": "08-10-2026 | 07:42 PM IST",
+    "lastUpdated": "09-10-2026 | 01:51 AM IST",
     "maharashtra": [
         {
-            "id": "8e8c9b27280f",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update: कचनेर तांड्यात गांजाची शेती उघडकीस; २४१ झाडे जप्त",
+            "id": "9a0a77e637dd",
+            "feed": "lokmat",
+            "title": "'नटसम्राट' काळाच्या पडद्याआड! अभिनेते नाना पाटेकर पंचत्वात विलीन; साश्रू नयनांनी अखेरचा निरोप",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-08T19:39:31",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-08-october-2026-nana-patekar-on-sharad-pawar-what-he-said-about-his-drought-work-mpsc-protest-pune-uddhav-raj-thackeray-protest-against-chief-election-commissioner-gyanesh-kumar-sharad-pawar-drought-tour-weather-update-imd-kolhapur-gokul-election-tukaram-mundhe-fda-actions-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-srs92-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-10-08T23:40:54",
+            "url": "https://www.lokmat.com/pune/nana-patekar-last-rites-performed-in-donje-village-pune-in-mournful-atmosphere-with-state-honours-tearful-eyes-as-his-family-bid-their-last-farewell-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nana-patekar-last-rites-0810_2026101798725.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c016bf1ab1d9",
-            "feed": "lokmat",
-            "title": "शक्तिपीठ महामार्गाविरोधात आंदोलन भडकणार! १३ जिल्ह्यांतील शेतकरी एकवटले, ९ ऑक्टोबर रोजी राज्यव्यापी लढा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-08T19:33:28",
-            "url": "https://www.lokmat.com/solapur/protest-against-shaktipeeth-highway-to-flare-up-farmers-from-13-districts-unite-statewide-protest-on-october-9-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shaktipeeth-mahamarg-protest_2026101798661.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "cbb1634d83cb",
-            "feed": "lokmat",
-            "title": "Sangli News: बँकेकडून ५० लाखांचे कर्ज; तारण गहाण जमीन परस्पर विकली, पती-पत्नीविरुद्ध गुन्हा दाखल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-08T19:33:26",
-            "url": "https://www.lokmat.com/sangli/loan-of-rs-50-lakhs-from-bank-land-sold-as-collateral-case-registered-against-husband-and-wife-in-sangli-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vita-police-bank-land_2026101798660.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "32beedd77789",
+            "id": "9f352bfbd693",
             "feed": "esakal",
-            "title": "Water Supply : परळी शहरास शनिवारपासून दर दहा दिवसातून एकदा पाणी येणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-08T19:33:13",
-            "url": "https://www.esakal.com/marathwada/parli-city-to-receive-tap-water-once-every-ten-days-starting-saturday-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-08/xfg9micc/Nagapur-Vahan-Project",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "3af650d6e4d4",
-            "feed": "esakal",
-            "title": "MPSC Student Agitation : पुण्यात एस. एम. जोशी पुलावरील एमपीएससी आंदोलनाला पोलिसांचा नकार; जागा तातडीने रिकामी करण्याचे आदेश",
+            "title": "MPSC Student Agitation : पेपरच फुटणार असतील तर आमच्या भविष्याचे काय? - एमपीएससी आंदोलनाचा आठवा दिवस",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-08T19:32:36",
-            "url": "https://www.esakal.com/pune/pune-mpsc-students-protest-sm-joshi-bridge-police-permission-denied-notices-news-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-08/56dbfo1r/mpsc",
+            "published": "2026-10-08T23:37:32",
+            "url": "https://www.esakal.com/pune/if-exam-papers-keep-leaking-what-about-our-future-mpsc-protest-enters-eighth-day-student-agitation-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/zzv8uzrc/MPSC-Student-Agitation",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "95becaeb21db",
+            "feed": "esakal",
+            "title": "Dr. Neelam Gorhe : १२ ऑक्टोबरपर्यंत दुष्काळग्रस्त गावांत चारा पोहोचवा; डॉ. नीलम गोऱ्हे यांच्या प्रशासनाला सूचना",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-08T23:29:40",
+            "url": "https://www.esakal.com/pune/deliver-fodder-to-drought-hit-villages-by-october-12-directs-dr-neelam-gorhe-marathwada-farmer-agriculture-loss-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2024-05/bcbbecbd-d336-457f-b62f-6de257e6555f/Esakal_Rushikesh__25_.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8da68dd89868",
+            "feed": "esakal",
+            "title": "FDA Crime : विद्यापीठातील मुलींच्या वसतिगृहातील भोजनगृह बंद; ‘एफडीए’ची धडक कारवाई",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-08T23:21:37",
+            "url": "https://www.esakal.com/pune/girls-hostel-dining-hall-shut-down-after-fda-action-at-pune-university-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/2s5i1uqo/Cockroach-in-pune-university-girls-hostel-dining-hall-food",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8e8c9b27280f",
+            "feed": "esakal",
+            "title": "दिवसभरातील महत्त्वाच्या घडामोडी वाचा एका क्लिकवर...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-08T22:44:55",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-08-october-2026-nana-patekar-on-sharad-pawar-what-he-said-about-his-drought-work-mpsc-protest-pune-uddhav-raj-thackeray-protest-against-chief-election-commissioner-gyanesh-kumar-sharad-pawar-drought-tour-weather-update-imd-kolhapur-gokul-election-tukaram-mundhe-fda-actions-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-srs92-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "6779d57f55a8",
-            "feed": "lokmat",
-            "title": "जालन्याच्या पोटातले पाणीच आटले! भूजलपातळी ३.६९ मीटरने खोल; ९३७ गावांवर जलसंकटाचे काळे ढग",
+            "id": "cc98460fc0d4",
+            "feed": "maharashtratimes",
+            "title": "ज्योतिरादित्य शिंदेंनी JioChat AI ला ‘मराठी गुगली’ टाकली, रिअल-टाइम उत्तर पाहून आकाश अंबानी कौतुकाने पाहतच राहिले",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-08T19:38:09",
-            "url": "https://www.lokmat.com/jalana/jalna-groundwater-level-depletes-by-369-metres-937-villages-face-severe-water-crisis-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jalana-water-level-drops-village_2026101798663.jpg",
+            "published": "2026-10-09T00:46:21",
+            "url": "https://maharashtratimes.com/gadget-news/jyotiraditya-scindia-tests-jiochat-ai-with-marathi-queries-gets-real-time-response-in-imc-2026/articleshow/134799647.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "ca2aba841f4f",
-            "feed": "lokmat",
-            "title": "Navratri 2026 : नवरात्रीसाठी बांधणीच्या १० सुंदर साड्या; देवीच्या पुजेला-गरब्याला जाताना नेसण्यासाठी परफेक्ट चॉइस",
+            "id": "8bc83585774b",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 9 ऑक्टोबर 2026 : शुक्र देणार या राशींना पैसा,संपत्ती आणि लक्झरी, मालव्य राजयोगाचा शुभ संयोग ! पहा तुमचे राशिभविष्य !",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-08T19:34:37",
-            "url": "https://www.lokmat.com/sakhi/photos/shopping/navratri-2026-bandhani-saree-for-navratri-special-collection-of-bandhani-saree-for-navratri-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-08-at-5.04.02-pm_2026101798602.jpeg",
+            "published": "2026-10-09T00:33:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-9-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134797510.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "e4dca8388b22",
+            "id": "35157e932964",
+            "feed": "maharashtratimes",
+            "title": "Nana Patekar : अलविदा नटसम्राट... नाना पाटेकर यांना साश्रूनयनांनी अखेरचा निरोप",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-08T23:40:31",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/veteran-actor-nana-patekar-last-rites-held-with-state-honours-in-donje-village-in-pune/articleshow/134795609.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8afa1a666390",
             "feed": "esakal",
-            "title": "नाना पाटेकरांच्या आठवणीत Eknath Shinde भावूक, काय म्हणाले ?",
+            "title": "Video: ‘नाना’ पर्वाचा अंत! ज्येष्ठ अभिनेते नाना पाटेकर अनंतात विलीन; साश्रू नयनांनी लाडक्या अभिनेत्याला अखेरचा निरोप",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-08T19:26:00",
-            "url": "https://www.esakal.com/videos/eknath-shinde-condolences-actor-nana-patekar-demise-tribute-marathi-cinema-loss",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-08/ef3r0o8j/fjycsQbXx0M-HD.jpg",
+            "published": "2026-10-08T23:35:05",
+            "url": "https://www.esakal.com/premier/nana-patekar-last-rites-performed-at-nanachi-wadi-farmhouse-pune-family-friends-and-fans-bid-emotional-final-farewell-to-legendary-actor-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/cx66mw3m/NANA-PATEKAR-1.png",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "bfce3794a747",
-            "feed": "esakal",
-            "title": "'नाना म्हणजे धाकटा भाऊच!'; ५० वर्षांच्या नाटकातील अन् चित्रपटातील मैत्रिपूर्ण आठवणींना उजाळा",
+            "id": "ada2a9e446ff",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 9 October 2026:  द्विद्वादश योग, मालव्य राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-08T19:20:04",
-            "url": "https://www.esakal.com/videos/amol-palekar-emotional-remembers-nana-patekar-phone-call-brotherly-bond-marathi-cinema",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-08/eu1y7ff2/ofIvEhG7RxE-HD.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "62a60af25607",
-            "feed": "lokmat",
-            "title": "नानांनी उद्योगनगरीत मुकादम म्हणून केले होते काम..! चाळीस वर्षांनी केला होता खुलासा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-08T19:16:57",
-            "url": "https://www.lokmat.com/pimpri-chinchwad/nana-had-worked-as-a-mukadam-in-the-industrial-city-he-revealed-it-after-forty-years-a-a897-c1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nana-patekar-01236_2026101798632.jpeg",
+            "published": "2026-10-08T22:59:34",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-9-october-2026-in-marathi-dwidwadash-yog-chaturdashi-shraddha-and-shubha-muhurta/articleshow/134795589.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "3fbf7cd51bec",
+            "id": "60b216403cf8",
             "feed": "lokmat",
-            "title": "\"माणूस मेल्यानंतर कोण जिवंत राहतं?\" नाना पाटेकरांचा मृत्यूबद्दलचा 'तो' जुना व्हिडीओ व्हायरल, चाहत्यांच्या डोळ्यात पाणी!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-08T19:18:20",
-            "url": "https://www.lokmat.com/filmy/bollywood/nana-patekar-passes-away-his-old-video-on-who-remains-alive-after-death-national-awards-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nana-patekar-passes-away-his-old-video-on-who-remains-alive-after-death-national-awards_2026101798287.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "0587320cc7cd",
-            "feed": "lokmat",
-            "title": "रशियाचा युक्रेनवर मोठा 'वार', युक्रेनच्या बालेकिल्ल्यातील बस स्टॉपवर केला बॉम्बहल्ला, ३३ लोक ठार",
+            "title": "अमेरिकेचा भारतीय IT कंपन्यांना दणका! TCS, Infosys सारख्या कंपन्या ग्रीन कार्ड प्रोग्राममधून निलंबित",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-10-08T19:07:54",
-            "url": "https://www.lokmat.com/international/russias-major-strike-on-ukraine-bomb-attack-on-bus-stop-in-ukrainian-citadel-33-people-killed-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russian-bomb-attack-in-ukrain_2026101798648.jpg",
+            "published": "2026-10-08T23:59:11",
+            "url": "https://www.lokmat.com/international/us-suspends-infosys-tcs-wipro-hcl-other-it-firms-from-green-card-programme-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-0604_2026101798729.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b9cb84d998fd",
+            "id": "559526b3018e",
+            "feed": "lokmat",
+            "title": "१२९ गुन्हे करणाऱ्या कुख्यात गुन्हेगार नरेश महिलांगे याला कारावासासह दंडाची शिक्षा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-08T22:35:36",
+            "url": "https://www.lokmat.com/crime/notorious-criminal-naresh-mahilange-who-committed-129-crimes-sentenced-to-imprisonment-along-with-fine-a-a877-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/law-making-order-0209_2026101798723.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "67fc20743780",
+            "feed": "esakal",
+            "title": "Viral Picture : डेल टेक्नॉलॉजीजच्या संस्थापकाच्या पत्नीला सोशल मीडियावर केले ट्रोल; संपत्ती वाचून डोळे पांढरे होतील..!?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-08T21:08:18",
+            "url": "https://www.esakal.com/global/donald-trump-event-susan-dell-trolled-net-worth-27-lakh-crores-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/lux5r0ni/Esakal-55.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "93dd35ffad2f",
+            "feed": "lokmat",
+            "title": "रशियन क्षेपणास्त्र हल्ल्याने हादरला युक्रेन; ४ लहान मुलांसह १३ नागरिकांचा मृत्यू, ५० हून अधिक जण गंभीर जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-08T20:16:42",
+            "url": "https://www.lokmat.com/international/ukraine-shaken-by-russian-missile-attack-13-civilians-including-4-children-killed-more-than-50-seriously-injured-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-ukraine-attack-1_2026101798692.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "dbe8169d19e0",
             "feed": "maharashtratimes",
-            "title": "बॉस असावी तर अशी! कर्मचाऱ्यांना नव्याकोऱ्या BMW गिफ्ट; लालेलाल चेहरा, कान पाहून बॉसचा निर्णय",
+            "title": "सौदी अरेबियात अनेक स्फोट, महत्त्वाचं विमानतळ बंद; एअर इंडियाच्या विमानाचा अचानक यू-टर्न",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-10-08T18:55:18",
-            "url": "https://maharashtratimes.com/international/international-news/chinese-boss-gifted-new-bmw-to-employees/articleshow/134791606.cms",
+            "published": "2026-10-08T20:05:38",
+            "url": "https://maharashtratimes.com/international/international-news/air-india-flight-makes-sudden-u-turn-from-saudi-arabia/articleshow/134793312.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "18f86cb0f403",
-            "feed": "maharashtratimes",
-            "title": "France Gen-Z protest : शाळा बंद, आंदोलक आक्रमक आणि मिसाईल टेस्ट, समृद्ध फ्रान्स अचानक कसा बदलला?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-08T15:27:30",
-            "url": "https://maharashtratimes.com/video/mt-originals/france-gen-z-protest/videoshow/134786600.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "ac8cdf8b1ef7",
-            "feed": "maharashtratimes",
-            "title": "शास्त्रज्ञांनी बनवले जगातील पहिले 'न्यूक्लियर क्लॉक'; अणूच्या केंद्रकावर चालणाऱ्या घड्याळामुळे विज्ञानात होणार मोठी क्रांती",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-08T15:07:33",
-            "url": "https://maharashtratimes.com/gadget-news/world-first-nuclear-clock-unveiled-why-thorium-229-technology-marks-a-new-era-in-physics/articleshow/134786136.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "4ee315526558",
+            "feed": "lokmat",
+            "title": "यशस्वी जैस्वाल बनला विकेटकीपर! टीम इंडियात जागा मिळण्यासाठी घ्यावा लागला निर्णय?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-08T20:14:06",
+            "url": "https://www.lokmat.com/cricket/news/yashasvi-jaiswal-became-wicketkeeper-for-mumbai-ranji-team-took-decision-to-get-place-in-team-india-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/yashasvi-jaiswal-wicket-keeper-0810_2026101798689.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2b2c74247e21",
+            "feed": "esakal",
+            "title": "Yashasvi Jaiswal आता होणार विकेटकिपर? नवा प्लॅन चर्चेत; कर्णधारानेही केलाय खुलासा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-08T19:53:49",
+            "url": "https://www.esakal.com/krida/cricket/yashasvi-jaiswal-working-wicketkeeping-skills-mumbai-team-india-reveals-siddhesh-lad-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/syvnkwi2/Yashasvi-Jaiswal-Practicing-Wicketkeeping.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "0fca3b663fb8",
             "feed": "esakal",
@@ -262,88 +294,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-08/tv4juo3d/India-A-vs-Australia-A-2nd-ODI.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "dfb306e4eaff",
-            "feed": "lokmat",
-            "title": "Under 19 Asia Cup 2026 Schedule : इथंही भारत-पाक एकाच गटात! कधी अन् कुठे रंगणार सामने? वाचा सविस्तर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-10-08T18:47:09",
-            "url": "https://www.lokmat.com/cricket/news/under-19-asia-cup-2026-schedule-annouced-india-vs-pakistan-match-on-8-november-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/under-19-asia-cup-2026-schedulem-_2026101798620.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "df890359dd75",
-            "feed": "esakal",
-            "title": "SA vs AUS Schedule: ८ वर्षांनंतर जुने हिशोब चुकते होणार?'सँडपेपरगेट' राड्यानंतर पुन्हा ऑस्ट्रेलिया दक्षिण आफ्रिकेत खेळणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-08T18:23:56",
-            "url": "https://www.esakal.com/krida/cricket/south-africa-vs-australia-test-series-eight-years-after-sandpapergate-schedule-live-streaming-details-and-match-timings-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-08/074lnq7j/Australia-vs-South-Africa-Test.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "83ddecea98f8",
-            "feed": "esakal",
-            "title": "UPI Charges: यूपीआय पेमेंटवर 15 ऑक्टोबरपासून चार्ज लागणार नाहीत?, अर्थमंत्री निर्मला सीतारामन यांनी कोणते संकेत दिले?",
+            "id": "05c996807c6c",
+            "feed": "maharashtratimes",
+            "title": "भारतात विमान प्रवास महागले! आता मोजावे लागतील अधिकचे पैसे, 9 ऑक्टोबरपासून नवे शुल्क लागू",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
             },
-            "published": "2026-10-08T19:38:04",
-            "url": "https://www.esakal.com/sakal-money/upi-mdr-charge-delayed-january-2027-nirmala-sitharaman-npci-gst-council-meeting-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-08/n3zjsp40/Latest-Marathi-Breaking-News-2026-10-08T193734.548.jpg",
+            "published": "2026-10-08T23:44:35",
+            "url": "https://maharashtratimes.com/business/business-news/flight-tickets-will-be-expensive-from-9th-october-due-to-fuel-surcharges/articleshow/134798360.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "0b14b3e9e06f",
+            "id": "751f9cf5e172",
+            "feed": "maharashtratimes",
+            "title": "Green Card : ट्रम्प पुन्हा नडले! अमेरिकेचा IT कंपन्यांना झटका; भारताच्या बड्या कंपन्यांना मोठा फटका",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-10-08T21:29:34",
+            "url": "https://maharashtratimes.com/business/business-news/us-suspended-green-card-perm-process-rights-of-microsoft-danger-for-infosys-wipro-tata/articleshow/134794644.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2546ffdded00",
             "feed": "lokmat",
-            "title": "छोट्या चुकांसाठी मोठी कारवाई नाही; अधिकाऱ्यांचे अटक करण्याचे अधिकार रद्द, GST परिषदेचा मोठा निर्णय",
+            "title": "विमान प्रवास महागणार! Air India ने वाढवला फ्यूल सरचार्ज; ९ ऑक्टोबरपासून लागू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-10-08T19:12:33",
-            "url": "https://www.lokmat.com/business/news/no-big-action-for-small-mistakes-power-to-arrest-officials-revoked-big-decision-of-gst-council-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gst-counciil_2026101798651.jpg",
+            "published": "2026-10-08T20:54:56",
+            "url": "https://www.lokmat.com/business/news/air-travel-will-become-more-expensive-air-india-increases-fuel-surcharge-effective-from-october-9-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/air-india-ticket-hike_2026101798709.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "685c90617ab6",
-            "feed": "lokmat",
-            "title": "कांदा आवकेचा होतोय का दरावर परिणाम? वाचा राज्यात कांद्याला कुठे मिळतोय किती दर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-08T19:00:53",
-            "url": "https://www.lokmat.com/agriculture/market-yard/is-the-arrival-of-onion-affecting-the-price-read-where-and-how-much-onion-is-getting-in-the-state-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-u-34-34-34-34-u-kanda-market-rate_2026101798634.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
