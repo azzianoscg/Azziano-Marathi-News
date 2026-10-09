@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "10-10-2026 | 01:24 AM IST",
+    "lastUpdated": "10-10-2026 | 05:12 AM IST",
     "maharashtra": [
         {
             "id": "232e6e7f1aa9",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "cb2da9e0c247",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 10 October 2026: मूलांक 2 आर्थिक चणचण! मूलांक 5 आत्मविश्वास वाढेल! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-10T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-10-october-2026-sarvapitri-amavasya-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134840067.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "9d5838ea40e7",
             "feed": "maharashtratimes",
             "title": "आजचे राशिभविष्य 10 ऑक्टोबर 2026 : शनी अमावस्येला ग्रहांची मिळणार या राशींना साथ,शनिदेव करणार कृपा ! पहा तुमचे राशिभविष्य !",
@@ -146,22 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-09/nkngxzzm/Latest-Marathi-Breaking-News-2026-10-09T225754.310.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "a9b1d224eb82",
-            "feed": "lokmat",
-            "title": "अनंतनगरात मध्यरात्री सशस्त्र लूट; लाकडी दांडक्याने हल्ला; चार बुरखाधारी आरोपी दागिने घेऊन पसार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-09T22:53:31",
-            "url": "https://www.lokmat.com/crime/armed-robbery-in-anantnagar-at-midnight-attack-with-wooden-stick-four-burqa-clad-accused-flee-with-jewellery-a-a877-c747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/robbery-mumbai-0309f_2026101799478.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
