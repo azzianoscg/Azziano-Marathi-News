@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "09-10-2026 | 01:51 AM IST",
+    "lastUpdated": "09-10-2026 | 06:19 AM IST",
     "maharashtra": [
+        {
+            "id": "323f1c1e804f",
+            "feed": "lokmat",
+            "title": "दाणे भरतानाच पावसाचा दगा, पिके वाचविण्यासाठी आटापिटा; परतीच्या पावसाची दांडी, मदत देण्याची मागणी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-09T06:04:59",
+            "url": "https://www.lokmat.com/thane/rainfall-during-the-filling-of-the-grains-struggle-to-save-the-crops-hope-for-the-return-of-rain-demand-for-help-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/palghar-farmers-water_2026101798731.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4df44ff98c9a",
+            "feed": "lokmat",
+            "title": "डहाणूच्या कलावंतांकडून कोलकाता, कालीघाटच्या दुर्गापूजेला वारली कलेचा साज",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-09T06:00:15",
+            "url": "https://www.lokmat.com/thane/artists-from-dahanu-bring-warli-art-to-durga-puja-in-kolkata-kalighat-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/warli-painiting_2026101798730.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "9a0a77e637dd",
             "feed": "lokmat",
@@ -34,55 +66,87 @@
             "category_reason": "feed"
         },
         {
-            "id": "95becaeb21db",
+            "id": "4c21c8404a88",
             "feed": "esakal",
-            "title": "Dr. Neelam Gorhe : १२ ऑक्टोबरपर्यंत दुष्काळग्रस्त गावांत चारा पोहोचवा; डॉ. नीलम गोऱ्हे यांच्या प्रशासनाला सूचना",
+            "title": "सौदीतील तणावाचा विमानसेवेला फटका",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-08T23:29:40",
-            "url": "https://www.esakal.com/pune/deliver-fodder-to-drought-hit-villages-by-october-12-directs-dr-neelam-gorhe-marathwada-farmer-agriculture-loss-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2024-05/bcbbecbd-d336-457f-b62f-6de257e6555f/Esakal_Rushikesh__25_.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8da68dd89868",
-            "feed": "esakal",
-            "title": "FDA Crime : विद्यापीठातील मुलींच्या वसतिगृहातील भोजनगृह बंद; ‘एफडीए’ची धडक कारवाई",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-08T23:21:37",
-            "url": "https://www.esakal.com/pune/girls-hostel-dining-hall-shut-down-after-fda-action-at-pune-university-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-08/2s5i1uqo/Cockroach-in-pune-university-girls-hostel-dining-hall-food",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8e8c9b27280f",
-            "feed": "esakal",
-            "title": "दिवसभरातील महत्त्वाच्या घडामोडी वाचा एका क्लिकवर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-08T22:44:55",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-08-october-2026-nana-patekar-on-sharad-pawar-what-he-said-about-his-drought-work-mpsc-protest-pune-uddhav-raj-thackeray-protest-against-chief-election-commissioner-gyanesh-kumar-sharad-pawar-drought-tour-weather-update-imd-kolhapur-gokul-election-tukaram-mundhe-fda-actions-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-srs92-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-10-08T23:33:15",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/flights-cancelled-riyadh-saudi-tensions",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/iomueve8/Sakal20Wesite20Banner20_20Nashik.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "49315d8aab1c",
+            "feed": "lokmat",
+            "title": "अपहरण करून खंडणी उकळणारे दोघे जेरबंद; ४० लाख ७५ हजार रुपयांचा मुद्देमाल हस्तगत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-09T06:10:07",
+            "url": "https://www.lokmat.com/crime/two-arrested-for-kidnapping-and-extorting-money-property-worth-rs-40-lakh-75-thousand-seized-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-branch-nalasopara-case-1_2026101798733.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "5079222b8f76",
+            "feed": "esakal",
+            "title": "9 ऑक्टोबर 2026 राशिभविष्य! 'या' राशींना मिळेल मानसन्मान; जाणून घ्या आजचे भविष्य",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-09T06:01:00",
+            "url": "https://www.esakal.com/ampstories/web-story/today-rashibhavishya-09-october-2026-friday-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-08/dbxgu0dq/1.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a53007e1aebe",
+            "feed": "lokmat",
+            "title": "...तर हृदय बंद पडण्याचा धोका; हृदयविकाराचा तीव्र झटका म्हणजे नेमके काय?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-09T05:55:00",
+            "url": "https://www.lokmat.com/health/so-the-risk-of-heart-failure-what-exactly-is-a-heart-attack-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/heart-attack-day_2026091791851.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "15533767e76d",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 9 October 2026: मूलांक 1 वेळेचे भान ठेवा! मूलांक 6 धनलाभाचा योग! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-09T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-9-october-2026-malavya-rajyog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134798311.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "cc98460fc0d4",
             "feed": "maharashtratimes",
@@ -98,73 +162,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "8bc83585774b",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 9 ऑक्टोबर 2026 : शुक्र देणार या राशींना पैसा,संपत्ती आणि लक्झरी, मालव्य राजयोगाचा शुभ संयोग ! पहा तुमचे राशिभविष्य !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-09T00:33:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-9-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134797510.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "35157e932964",
-            "feed": "maharashtratimes",
-            "title": "Nana Patekar : अलविदा नटसम्राट... नाना पाटेकर यांना साश्रूनयनांनी अखेरचा निरोप",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-08T23:40:31",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/veteran-actor-nana-patekar-last-rites-held-with-state-honours-in-donje-village-in-pune/articleshow/134795609.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "8afa1a666390",
-            "feed": "esakal",
-            "title": "Video: ‘नाना’ पर्वाचा अंत! ज्येष्ठ अभिनेते नाना पाटेकर अनंतात विलीन; साश्रू नयनांनी लाडक्या अभिनेत्याला अखेरचा निरोप",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-08T23:35:05",
-            "url": "https://www.esakal.com/premier/nana-patekar-last-rites-performed-at-nanachi-wadi-farmhouse-pune-family-friends-and-fans-bid-emotional-final-farewell-to-legendary-actor-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-08/cx66mw3m/NANA-PATEKAR-1.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ada2a9e446ff",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 9 October 2026:  द्विद्वादश योग, मालव्य राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-08T22:59:34",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-9-october-2026-in-marathi-dwidwadash-yog-chaturdashi-shraddha-and-shubha-muhurta/articleshow/134795589.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "d085dc2fe879",
+            "feed": "maharashtratimes",
+            "title": "तुम्हाला माहिती आहे का CCTV चा फुल फॉर्म आणि तो कसा काम करतो? ही सिस्टिम का बनलीये आजची गरज? ‘A to Z’ वाचा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-09T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/science-technology/what-is-the-full-form-of-cctv-understanding-the-tech-and-features-behind-the-world-third-eye/articleshow/134787650.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "60b216403cf8",
             "feed": "lokmat",
@@ -226,22 +242,6 @@
             "published": "2026-10-08T20:16:42",
             "url": "https://www.lokmat.com/international/ukraine-shaken-by-russian-missile-attack-13-civilians-including-4-children-killed-more-than-50-seriously-injured-a-a1013/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-ukraine-attack-1_2026101798692.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dbe8169d19e0",
-            "feed": "maharashtratimes",
-            "title": "सौदी अरेबियात अनेक स्फोट, महत्त्वाचं विमानतळ बंद; एअर इंडियाच्या विमानाचा अचानक यू-टर्न",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-08T20:05:38",
-            "url": "https://maharashtratimes.com/international/international-news/air-india-flight-makes-sudden-u-turn-from-saudi-arabia/articleshow/134793312.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
