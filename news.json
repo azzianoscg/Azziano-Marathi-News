@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "11-10-2026 | 01:52 AM IST",
+    "lastUpdated": "11-10-2026 | 05:28 AM IST",
     "maharashtra": [
         {
             "id": "82bddbc7067a",
@@ -84,6 +84,70 @@
     ],
     "india": [
         {
+            "id": "bc8a6913f6de",
+            "feed": "lokmat",
+            "title": "माझे गुरुजी...; मकरंद अनासपुरे यांचा नाना पाटेकरांवर विशेष लेख",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-11T05:19:02",
+            "url": "https://www.lokmat.com/manthan/my-guruji-makarand-anaspures-special-article-on-nana-patekar-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nana-patekar-makrand-anaspure-ghhh_2026101800033.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3253e87e35ac",
+            "feed": "lokmat",
+            "title": "लोकशाही नष्ट करण्याचा डाव, गुन्ह्यांची शिक्षा भोगावीच लागेल; राहुल गांधींचा चेन्नईतून भाजपवर घणाघात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-11T05:10:31",
+            "url": "https://www.lokmat.com/national/plot-to-destroy-democracy-crimes-will-have-to-be-punished-rahul-gandhi-attacks-bjp-from-chennai-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahul-gandhi-chennai-_2026101800037.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e108ae898266",
+            "feed": "lokmat",
+            "title": "दिल्लीत धरपकड, अभूतपूर्व नाकेबंदी; ज्ञानेश कुमारांविरोधात एल्गार; सीजेपीच्या पदाधिकाऱ्यांना घेतले ताब्यात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-11T05:00:58",
+            "url": "https://www.lokmat.com/national/arrests-unprecedented-blockade-in-delhi-elgar-against-dnyanesh-kumar-cjp-office-bearers-taken-into-custody-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cjp-delho-protest_2026101800035.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9584a7114e09",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 11 ऑक्टोबर 2026: मूलांक 2 खर्च कमी करा! मूलांक 7 घरात सुखसमृद्धी! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-11T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-11-october-navratri-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134860149.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "3d4f4d0ee1df",
             "feed": "lokmat",
             "title": "१२ तास झाले, तिघांचा पत्ता नाही... CJPचा नवा नेता अजिंक्य शिंदे आक्रमक; केल्या ३ मोठ्या मागण्या",
@@ -96,70 +160,6 @@
             "published": "2026-10-11T00:05:34",
             "url": "https://www.lokmat.com/national/its-been-12-hours-immediate-release-of-abhijeet-dipke-saurav-das-ashutosh-ranka-3-demands-of-cjp-a-a747/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cjp-delhi-police-new1110_2026101800032.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "43590824cb94",
-            "feed": "lokmat",
-            "title": "माऊजर आणि दोन जिवंत काडतुसांसह आरोपी अटकेत; २५ हजारांचा मुद्देमाल जप्त",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-10T23:48:08",
-            "url": "https://www.lokmat.com/crime/accused-arrested-with-mauser-and-two-live-cartridges-25-thousand-rupees-seized-a-a877-c747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-1001s_2026101800031.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "6d09ab2ff1eb",
-            "feed": "lokmat",
-            "title": "कर्जवसुलीसाठी सावकाराने महिलेकडे केली शारीरिक संबंधांची मागणी; नकार दिल्याने बदनामीची धमकी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-10T23:39:37",
-            "url": "https://www.lokmat.com/crime/moneylender-demands-physical-intercourse-from-woman-to-recover-loan-threatens-defamation-if-she-refuses-a-a877-c747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-station-0510-k_2026101800030.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "0f1868902fc3",
-            "feed": "lokmat",
-            "title": "एकाला डिजिटल अरेस्टचा धाक, दुसऱ्याला नफ्याचे आमिष; दोघांना ८९ लाखांचा गंडा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-10T23:33:20",
-            "url": "https://www.lokmat.com/crime/one-was-threatened-with-digital-arrest-the-other-with-the-lure-of-profit-both-were-duped-of-rs-89-lakhs-a-a877-c747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-1709_2026101800029.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ce3207e6bd87",
-            "feed": "lokmat",
-            "title": "दिल्लीत CJPचे रविवारी पुन्हा आंदोलन! ट्रॅफिकचे मार्ग वळवले, मार्केट-मेट्रो स्टेशन उद्या सुरू राहणार...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-10T23:08:37",
-            "url": "https://www.lokmat.com/national/cjp-protest-in-delhi-again-on-sunday-traffic-routes-diverted-market-metro-station-to-remain-open-tomorrow-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cjp-protest-1010_2026101800028.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
