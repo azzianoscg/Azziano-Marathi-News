@@ -1,172 +1,188 @@
 {
-    "lastUpdated": "10-10-2026 | 03:44 PM IST",
+    "lastUpdated": "10-10-2026 | 09:30 PM IST",
     "maharashtra": [
         {
-            "id": "c834c5263d34",
+            "id": "ae6175106bf1",
+            "feed": "lokmat",
+            "title": "“आर्थिक स्वावलंबन आवश्यक, ST उत्पन्न वाढविण्यासाठी अपफ्रंट प्रिमियम मॉडेल”: प्रताप सरनाईक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-10T21:14:56",
+            "url": "https://www.lokmat.com/mumbai/financial-self-reliance-is-essential-upfront-premium-model-to-increase-st-income-said-minister-pratap-sarnaik-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pratap-sarnaik-0501_2026011618470.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "031ee7e910fa",
             "feed": "esakal",
-            "title": "इचल ः महापालिकेला नोटीस",
+            "title": "Pune News : पुण्यात एक नोव्हेंबर रोजी एकता दौड; ४० हजार नागरिक होणार सहभागी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-10T17:48:33",
-            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/todays-latest-marathi-news-kop26e40178-txt-kopdist-today-20261009064833",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-09/f2xdajr4/kolhapur_default_banner_2.jpg",
+            "published": "2026-10-10T21:11:42",
+            "url": "https://www.esakal.com/pune/pune-run-for-unity-2026-on-november-1st-over-40000-citizens-to-participate-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-10/qnyubt45/pune-run-for-unity-2026",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "dc92e867f6c2",
-            "feed": "maharashtratimes",
-            "title": "'मी गुन्हा केलाय,माझ्यावर गुन्हा दाखल करा' | Rohit Pawar Police Station | Pune MPSC Protest",
+            "id": "ffe5008168d4",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : मुंबईत ताब्यात घेतलेल्या ६०० आंदोलकांची सुटका",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-10T21:06:41",
+            "url": "https://www.esakal.com/live-updates/latest-marathi-news-live-today-10-october-2026-drought-maharashtra-legislative-council-teachers-graduates-election-raj-thackeray-devendra-fadnavis-discuss-mpsc-students-protest-aaditya-thackeray-weather-october-heat-cjp-protest-delhi-abhijit-dipke-ladki-bahin-yojana-accidents-crime-navratri-preparations-srk94-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2024-12-13/nlfys5cr/live-update.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "7fd2092f48f4",
+            "feed": "esakal",
+            "title": "FDA Crime : गार्डन वडापाव, रामकृष्‍ण मिल्‍ससह आठ ठिकाणांच्या खाद्यतेलावर कारवाई; पुणे जिल्ह्यात ३४ हजार ४८१ किलो तेल ताब्यात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-10T15:42:16",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/rohit-pawar-pune-police-station/videoshow/134852008.cms",
-            "image": "",
+            "published": "2026-10-10T21:06:20",
+            "url": "https://www.esakal.com/pune/fda-raid-in-pune-34481-kg-edible-oil-seized-across-8-outlets-including-garden-vada-pav-and-ramkrishna-mills-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-24/ate2vo0i/sandeep-shirguppe-2026-09-24T085831.296.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "aa52a5ecbf3f",
-            "feed": "lokmat",
-            "title": "९.३ कोटी प्रवाशांचा प्रवास, देशात ठाणे ठरले नंबर १; कल्याण-दादर-CSMT कितव्या क्रमांकावर?",
+            "id": "b95bfd01b6cc",
+            "feed": "esakal",
+            "title": "Jintur News : दुष्काळामुळे पीक जळून गेल्याने आर्थिक विवंचनेत युवा शेतकऱ्याने संपविले जीवन; जिंतूर तालुक्यातील घटना",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-10-10T15:34:35",
-            "url": "https://www.lokmat.com/thane/9-crore-30-lakh-passengers-travel-thane-ranked-number-1-in-the-country-know-what-is-the-rank-of-kalyan-dadar-csmt-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-local-rush_2026101799780.jpg",
+            "published": "2026-10-10T20:56:09",
+            "url": "https://www.esakal.com/marathwada/distressed-over-crop-damage-due-to-drought-young-farmer-dies-by-endlife-in-jintur-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-10/xvn9048y/Pawan-bendre",
             "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9571913907c1",
-            "feed": "lokmat",
-            "title": "मुंबई-पुणे प्रवाशांनो, लक्ष द्या! ११ ऑक्टोबरला डेक्कन एक्स्प्रेसच्या दोन्ही फेऱ्या रद्द; नेमकं कारण काय?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-10T15:32:20",
-            "url": "https://www.lokmat.com/pune/deccan-express-cancelled-mumbai-pune-passengers-pay-attention-both-the-trips-of-deccan-express-on-october-11-have-been-cancelled-what-is-the-exact-reason-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/deccan-express-cancelled-023_2026101799778.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "181cb68ea9d6",
-            "feed": "maharashtratimes",
-            "title": "विवेकानंदने मैत्रिणीचा मॅसेज वाचला, विश्वजीत कदमांनी चिडवलं, विद्यार्थ्यांना हसू आवरेना",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-10T15:30:21",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/vivekanand-patil-reads-friends-message-vishwajeet-kadam-teases-him-video-goes-viral/videoshow/134851804.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "6a6cc9e51e21",
+            "id": "a3a5ebb6fc92",
             "feed": "maharashtratimes",
-            "title": "The God Delusion: निरीश्वरवादाची चिकित्सा",
+            "title": "CJP Delhi Protest : दिपकेंसह 7 हजार जण ताब्यात; पोलिसी कारवाईनंतर CJPची मोठी घोषणा; आरपारच्या संघर्षाची तयारी",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-10T15:36:48",
-            "url": "https://maharashtratimes.com/editorial/column/dakhal/the-god-delusion-book-special-explained/articleshow/134851689.cms",
+            "published": "2026-10-10T21:14:29",
+            "url": "https://maharashtratimes.com/india-news/cjp-big-annoucement-delhi-protest-continue-till-dnyanesh-kumar-resignation/articleshow/134856986.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "ad1c8760280c",
-            "feed": "lokmat",
-            "title": "Mental Health Day 2026 : इच्छाशक्तीला दोष देऊ नका, व्यसन सोडायचं असेल तर उपचार आवश्यक..",
+            "id": "51ecb5c4bf9b",
+            "feed": "esakal",
+            "title": "गुलाबी रिबन कसा बनला ब्रेस्ट कॅन्सरचं प्रतीक? एका महिलेने घडवला इतिहास",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-10T15:36:34",
-            "url": "https://www.lokmat.com/sakhi/mind-soul/mental-health-day-2026-dont-blame-willpower-treatment-is-necessary-if-you-want-to-quit-addiction-a-a298/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/addict_2026101799782.jpeg",
+            "published": "2026-10-10T21:01:50",
+            "url": "https://www.esakal.com/ampstories/web-story/pink-ribbon-breast-cancer-awareness-history-charlotte-haley-origin-and-campaign-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-10/1fh8kwmg/Pink-Ribbon-History-1.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "6887005ffdb6",
+            "id": "c941ccd59160",
             "feed": "maharashtratimes",
-            "title": "Shekhar Tonight Finale Cancelled : 'त्यांची जागा कोणीही घेऊ शकत नाही', नाना पाटेकरांच्या निधनानंतर शेखर सुमनचा मोठा निर्णय",
+            "title": "18 वर्षांच्या विद्यार्थ्याची कमाल; अंतराळात शोधल्या तीन नव्या आकाशगंगा, 2026 ची प्रतिष्ठित डेविडसन फेलोशिप जाहीर",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-10T15:34:41",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/shekhar-suman-cancelled-shekhar-tonight-finale-due-to-passing-of-nana-patekar/articleshow/134851652.cms",
+            "published": "2026-10-10T21:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/science-technology/18-year-old-high-schooler-julian-shapiro-discovers-three-unusual-dwarf-galaxies/articleshow/134852104.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "662349fe9b91",
+            "id": "c47ae0fd8b37",
             "feed": "lokmat",
-            "title": "\"जनताच सर्व काही करणार असेल, तर कोर्ट...!\"; विमानातील सहप्रवासीच अभिजीत दीपकेवर भडकले",
+            "title": "उद्या पुन्हा जंतर-मंतरकडे कूच करणार कॉक्रोच जनता पार्टीचे आंदोलक, अजिंक्य शिंदेने केली घोषणा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-10-10T15:33:37",
-            "url": "https://www.lokmat.com/national/cjp-protest-abhijeet-dipke-detained-at-delhi-airport-passenger-anger-says-then-shut-down-the-courts-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jrtjrfu_2026101799779.jpg",
+            "published": "2026-10-10T20:57:07",
+            "url": "https://www.lokmat.com/national/cockroach-janata-party-protesters-will-march-to-jantar-mantar-again-tomorrow-ajinkya-shinde-announced-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jantar-mantar-cjp-1010_2026101800023.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4b4ac89ccbfd",
-            "feed": "lokmat",
-            "title": "Maharashtrian Traditional Food : पुणेरी बाकरवडी घरीही करताच येईल, ही घ्या बाकरवडीची स्पेशल सोपी रेसिपी, एकदम खमंग...",
+            "id": "ddcd4bca6a4b",
+            "feed": "maharashtratimes",
+            "title": "Punha Nakki Bhetu : मुक्ता-मीरा यांची २५ वर्षांची मैत्री आणि पहिली नाट्यनिर्मिती! ‘पुन्हा नक्की भेटू’ २३ ऑक्टोबरला रंगभूमीवर",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-10T15:23:16",
-            "url": "https://www.lokmat.com/sakhi/food/puneri-bakarwadi-recipe-puneri-bakarwadi-recipe-homemade-bakarwadi-recipe-how-to-make-bakarwadi-at-home-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/puneri-style-bakarvadi-recipe_2026101799761.jpeg",
+            "published": "2026-10-10T20:49:23",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/punha-nakki-bhetu-marathi-natak-to-come-on-23-octobar-2026-starring-mukta-barve-and-mira-velankar/articleshow/134856868.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "3f22040e4255",
+            "id": "67190df85bbd",
+            "feed": "lokmat",
+            "title": "रशियाचा युक्रेनवर जोरदार प्रहार, ‘या’ शहरावर ५ ग्लाइड बॉम्बने भीषण हल्ला; १५ जणांचा मृत्यू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-10T19:29:26",
+            "url": "https://www.lokmat.com/international/russia-strikes-hard-on-ukraine-a-city-attacked-with-5-glide-bombs-15-people-killed-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-ukraine-war-9_2026081760190.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "903b3949dc41",
             "feed": "maharashtratimes",
             "title": "तिनं काय केलंय, काय माहीत! भारतीय वंशाच्या नवी पिल्लईंना नोबेल मिळताच ट्रम्प यांचा तीळपापड",
             "source": {
@@ -176,7 +192,7 @@
                 "category": "world"
             },
             "published": "2026-10-10T15:39:03",
-            "url": "https://maharashtratimes.com/international/international-news/nobel-peace-prize-won-by-navi-pillay-us-pm-donald-trump-disappointed/articleshow/134851394.cms",
+            "url": "https://maharashtratimes.com/international/international-news/nobel-peace-prize-won-by-navi-pillay-us-president-donald-trump-disappointed/articleshow/134851394.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -196,122 +212,106 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-10/r28oyz5b/4.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
+        }
+    ],
+    "sports": [
+        {
+            "id": "893deb0432f9",
+            "feed": "lokmat",
+            "title": "IPL 2027: CSK मध्ये मोठा बदल! तब्बल १५ वर्षांनंतर 'हा' दिग्गज क्रिकेटर आता संघासोबत दिसणार नाही!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-10T20:23:21",
+            "url": "https://www.lokmat.com/cricket/news/ipl-2027-csk-with-big-change-after-15-years-mike-hussey-will-no-longer-be-seen-with-team-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/csk-changes_2026101800019.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         },
         {
-            "id": "0ca742c46cf1",
+            "id": "11a6e97adcbc",
             "feed": "esakal",
-            "title": "World Mental Health Day: मानसोपचारतज्ज्ञांकडे जाणं म्हणजे वेडेपणा नव्हे! मानसिक आरोग्याबाबत सामाजिक दृष्टिकोन बदलावा असा तज्ज्ञांचा सल्ला",
+            "title": "संगीतावर बंदी आणणारा औरंगजेब वीणा का वाजवायचा?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-10T11:51:38",
-            "url": "https://www.esakal.com/health/world-mental-health-day-seeking-therapy-is-not-madness-experts-urge-societal-mindset-change-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-10/75xlw1b8/World-Mental-Health-Day-2026.jpg",
+            "published": "2026-10-10T20:19:44",
+            "url": "https://www.esakal.com/ampstories/web-story/aurangzeb-veena-player-secret-history-mughal-music-ban-rudra-veena-hirabai-zainabadi-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-10/zc24cuoc/aurangzenAA-3.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        }
-    ],
-    "sports": [
-        {
-            "id": "2484af620986",
-            "feed": "maharashtratimes",
-            "title": "IND vs WI : 'हरलो तरी रणनीती बदलणार नाही, चुकीची म्हणता येणार नाही'; पत्रकार परिषदेत कोणत्या प्रश्नावर गंभीर भडकले",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-10-10T15:06:04",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-wi-2nd-odi-head-coach-gautam-gambhir-defended-shivam-dube-promotion-to-the-number-4-spot/articleshow/134851069.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         },
         {
-            "id": "865afce87b08",
-            "feed": "maharashtratimes",
-            "title": "Shreyas Iyer : भारताने 250 धावांचे टार्गेट देऊनही नेमका सामना कुठे फिरला? श्रेयस अय्यरने सांगितला टर्निंग पॉइंट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-10-10T13:09:52",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-wi-2nd-t20-team-india-captain-shreyas-iyer-talk-about-match-turning-point-against-west-indies/articleshow/134849732.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "af40da462f5c",
+            "id": "ff1b7e007802",
             "feed": "esakal",
-            "title": "IND vs WI, 3rd T20I: वैभव सूर्यवंशी बाकावरच! शिवम दुबे OUT नितीश रेड्डी IN;  तिसऱ्या सामन्यासाठी कशी असेल Playing XI?",
+            "title": "Ranji Trophy 2026-27: बीडच्या ३ खेळाडूंची महाराष्ट्राच्या रणजी संघात निवड! मैदानात कधी उतरणार? जाणून घ्या...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-10T13:07:38",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-wi-3rd-t20i-india-playing-11-predicted-shivam-dube-nitish-kumar-reddy-vaibhav-sooryavanshi-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-10/n8kpcx22/Team-India-10.jpg",
+            "published": "2026-10-10T19:14:23",
+            "url": "https://www.esakal.com/krida/cricket/ranji-trophy-2026-27-beed-3-players-selected-maharashtra-team-sachin-dhas-saurabh-navale-rishikesh-sonawane-match-schedule-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-10/s8rz8g5p/ranji-trophy-2026-27.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "8ab6fe0f1140",
-            "feed": "lokmat",
-            "title": "Batai Sheti : पीक करपले, ठोक्याचे पैसे बुडाले; बटाईदार शेतकऱ्यांना मदत कोण देणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-10T15:21:56",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-batai-sheti-crops-have-failed-the-money-from-the-farmers-has-disappeared-who-will-help-the-sharecroppers-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/batai-sheti-1_2026101799767.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "6c9a899f39ad",
+            "id": "a905a6e10499",
             "feed": "maharashtratimes",
-            "title": "Weekly Gold Rate : सुरुवातीला दबाव, शेवटी वाढला भाव! गेल्या आठवड्याभरात सोन्यात मोठे चढ-उतार, समजून घ्या संपूर्ण स्थिती",
+            "title": "दररोज 45 रुपये वाचवा अन् 25 लाख एकगठ्ठा मिळवा! बचत होणार, सोबत विम्याचाही फायदा मिळणार",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-10-10T15:16:58",
-            "url": "https://maharashtratimes.com/business/business-news/gold-silver-last-week-performance-in-india-impact-of-global-factors-crude-oil-dollar/articleshow/134851161.cms",
+            "published": "2026-10-10T21:07:11",
+            "url": "https://maharashtratimes.com/business/business-news/lic-new-jeevan-anand-policy-save-45-rupees-a-day-and-get-25-lakhs-bonus/articleshow/134856190.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1d65da950476",
+            "id": "5f32afae133b",
             "feed": "lokmat",
-            "title": "ऊस गाळप हंगाम १५ ऑक्टोबरला सुरू होणार की लांबणार? दुष्काळ व आंदोलनामुळे कारखानदारांची कोंडी",
+            "title": "Kanda Market : कांद्याला कुठे मिळाला ५,६८० रुपयांचा भाव? सोलापूरमध्ये सर्वाधिक आवक; वाचा बाजारभाव",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-10T15:01:13",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/will-the-sugarcane-crushing-season-start-on-october-15-or-will-it-be-delayed-factories-in-dilemma-due-to-drought-and-agitation-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-galap-hangam-start_2026101799754.jpeg",
+            "published": "2026-10-10T20:16:18",
+            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-kanda-market-where-did-onion-get-a-price-of-rs-5680-highest-arrival-in-solapur-read-market-price-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-market-1_2026101799990.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "a5d93c4fdc31",
+            "feed": "maharashtratimes",
+            "title": "Debt Crisis In US : अमेरिकेत सामान्यांच्या डोक्यावर कर्जाचा डोंगर वाढला, जवळपास अर्धा पगार जातोय कर्ज फेडण्यात",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-10-10T19:21:00",
+            "url": "https://maharashtratimes.com/business/business-news/us-household-debt-repayment-crisis-fed-bank-published-report-for-year-2025/articleshow/134853942.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ]
 }
