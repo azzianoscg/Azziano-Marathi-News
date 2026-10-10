@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "10-10-2026 | 05:12 AM IST",
+    "lastUpdated": "10-10-2026 | 08:51 AM IST",
     "maharashtra": [
         {
-            "id": "232e6e7f1aa9",
+            "id": "c834c5263d34",
             "feed": "esakal",
-            "title": "Navratrotsav : नवरात्रोत्सवानिमित्त पोलिसांनी वाहतुकीत केले बदल",
+            "title": "इचल ः महापालिकेला नोटीस",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-09T23:38:51",
-            "url": "https://www.esakal.com/pune/traffic-diversions-announced-by-police-for-navratri-festival-celebrations-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-14/3x6ifffh/Parliament-2026-02-14T183455.813.jpg",
+            "published": "2026-10-10T17:48:33",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/todays-latest-marathi-news-kop26e40178-txt-kopdist-today-20261009064833",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-09/f2xdajr4/kolhapur_default_banner_2.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "83138b459b45",
+            "id": "e9b5a9021a98",
             "feed": "esakal",
-            "title": "Sai Paranjpye : पद्मभूषण सई परांजपे यांना भावे गौरव पदक; ५ नोव्हेंबरला होणार वितरण",
+            "title": "Maharashtra Weather: पुढील ४८ तास महत्त्वाचे! मुंबईसह कोकण पट्ट्यात उष्णतेच्या लाटेचा इशारा, हवामान विभागाचा अलर्ट",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-10T08:47:53",
+            "url": "https://www.esakal.com/mumbai/maharashtra-weather-next-48-hours-are-important-meteorological-department-issued-heatwave-warning-for-mumbai-and-konkan-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-16/me2g2m8l/Pune-Summer-Heat",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ffe5008168d4",
+            "feed": "esakal",
+            "title": "Marathi News Live Updates : दुष्काळात शेतकऱ्यांसमोर नवं संकट, शेतातील विद्युत तारांची चोरी झाल्याने वीजपुरवठा खंडित, पिके वाचवण्यासाठी शेतकऱ्यांची धडपड",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-09T23:32:58",
-            "url": "https://www.esakal.com/paschim-maharashtra/padma-bhushan-sai-paranjpye-to-be-honored-with-bhave-gaurav-padak-presentation-ceremony-on-november-5-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-09/rba4kxtc/sai-paranjpye",
+            "published": "2026-10-10T08:42:17",
+            "url": "https://www.esakal.com/live-updates/latest-marathi-news-live-today-10-october-2026-drought-maharashtra-legislative-council-teachers-graduates-election-raj-thackeray-devendra-fadnavis-discuss-mpsc-students-protest-aaditya-thackeray-weather-october-heat-cjp-protest-delhi-abhijit-dipke-ladki-bahin-yojana-accidents-crime-navratri-preparations-srk94-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2024-12-13/nlfys5cr/live-update.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "7f6210d27352",
-            "feed": "lokmat",
-            "title": "घरावर तुळशीपत्र ठेवणारा अवलिया अखेर नागपुरात आढळला... राजूभाई उर्फ राजेश पंड्या!",
+            "id": "a1a8fc8d8ed8",
+            "feed": "maharashtratimes",
+            "title": "Pune Traffic Update: पुणेकरांसाठी महत्त्वाची बातमी! नवरात्रोत्सवानिमित्त वाहतूक बदल; 11 ते 20 ऑक्टोबरदरम्यान काही रस्ते बंद, पर्यायी मार्ग कोणते?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-09T23:09:23",
-            "url": "https://www.lokmat.com/nagpur/the-person-who-kept-tulsi-leaves-at-home-was-finally-found-rajubhai-alias-rajesh-pandya-a-a877-c747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lokmat-new-0910_2026101799481.jpg",
+            "published": "2026-10-10T08:32:39",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/navratri-2026-pune-traffic-major-changes-on-11-to-20-october-some-road-closed-check-here-schedule/articleshow/134846251.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6dadfc8ef8a9",
-            "feed": "esakal",
-            "title": "Beed News : विद्यार्थी खरेदी-विक्रीतून बोगस संचमान्येचा महाघोटाळा; चंपावती विद्यालयात आढळले उत्तराखंडचे ३ बोगस विद्यार्थी",
+            "id": "312d9b080644",
+            "feed": "maharashtratimes",
+            "title": "Dhule Crime : 35 वर्षीय तरुणाचं 19 वर्षीय युवतीशी दुसरं लग्न, चार महिन्यात मृत्यूला कवटाळलं, मेहुण्याला शेवटच्या फोनमध्ये 4 शब्दात व्यथा मांडली",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-09T23:05:09",
-            "url": "https://www.esakal.com/marathwada/major-student-enrollment-scam-uncovered-3-bogus-students-from-uttarakhand-found-in-champavati-vidyalaya-beed-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-11/emsyrsbw/Admission",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "faeb0918a297",
-            "feed": "esakal",
-            "title": "धुळे व दिल्ली आंदोलन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-09T22:52:54",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/delhi-protests-truth-seekers",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-09/ctezzaxj/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "published": "2026-10-10T08:32:16",
+            "url": "https://maharashtratimes.com/maharashtra/dhule/dhule-couple-death-case-shyam-patil-sapna-patil-called-brother-in-law-before-ending-lives/articleshow/134846511.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "cb2da9e0c247",
-            "feed": "maharashtratimes",
-            "title": "अंकभविष्य 10 October 2026: मूलांक 2 आर्थिक चणचण! मूलांक 5 आत्मविश्वास वाढेल! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-10T04:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-10-october-2026-sarvapitri-amavasya-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134840067.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "9d5838ea40e7",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 10 ऑक्टोबर 2026 : शनी अमावस्येला ग्रहांची मिळणार या राशींना साथ,शनिदेव करणार कृपा ! पहा तुमचे राशिभविष्य !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-10T00:12:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-10-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134837843.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "96c8113a4cc4",
-            "feed": "lokmat",
-            "title": "ट्रेन्स रद्द, मेट्रो स्टेशन बंद, इंटरनेट सेवा स्थगित, सीमेवर BSF... CJP आंदोलनापूर्वी दिल्लीत कडक सुरक्षा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-09T23:59:06",
-            "url": "https://www.lokmat.com/national/tight-security-in-delhi-ahead-of-cjp-protest-jantar-mantar-trains-cancelled-metro-stations-closed-internet-services-suspended-bsf-on-the-border-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/delhi-police-cjp-0910_2026101799483.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9fe39c06b018",
-            "feed": "lokmat",
-            "title": "'इंडिया' आघाडीने घेतली राष्ट्रपतींची भेट; ज्ञानेश कुमार यांना पदावरून हटवण्याची, चौकशीची मागणी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-09T23:20:50",
-            "url": "https://www.lokmat.com/national/rahul-gandhi-led-india-alliance-bloc-meets-president-draupadi-murmu-demands-removal-of-dnyanesh-kumar-from-post-inquiry-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahul-gandhi-prez-0910_2026101799482.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0b733bdf4848",
+            "id": "98eda068933c",
             "feed": "esakal",
-            "title": "Delhi Protest: 30 हजार जवान तैनात अन् 200 जण ताब्यात; CJPच्या आंदोलनापूर्वी दिल्लीत काय-काय घडतंय?",
+            "title": "Delhi CJP Protest CJPचा धसका! २५० रेल्वे रद्द, ४५ मेट्रो स्टेशन्ससह इंटरनेटही बंद; ४५ हजार जवान तैनात, आंदोलकांची धरपकड",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-09T22:59:08",
-            "url": "https://www.esakal.com/desh/delhi-police-security-dragnet-cjp-protest-30000-troops-metro-stations-shut-trains-cancelled-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-09/nkngxzzm/Latest-Marathi-Breaking-News-2026-10-09T225754.310.jpg",
+            "published": "2026-10-10T08:48:27",
+            "url": "https://www.esakal.com/desh/delhi-cjp-protest-250-trains-cancelled-45-metro-stations-shut-as-45-000-security-personnel-deployed-in-capital-ssy93",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-10/6rj61l4z/cjp-delhi-protest.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "c0b9870119c3",
+            "feed": "esakal",
+            "title": "‘तुम्हाला मागून फोटो काढायला फार आवडतं ना?’ नीतू कपूर यांचा पापाराझींना टोला; Viral Video",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-10T08:36:00",
+            "url": "https://www.esakal.com/premier/neetu-kapoor-viral-video-paparazzi-back-shot-reaction-tumhe-peeche-se-photo-lena-pasand-hai-celebrity-paparazzi-controversy-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-09/4r3gmkcn/NEETU-KAPOOR-VIRAL-VIDEO",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "cbe04bb30e22",
+            "feed": "maharashtratimes",
+            "title": "Ashok Saraf And Nana Patekar:मित्र वणव्यामध्ये गारव्यासारखा! एकमेकांच्या कठीण काळात साथ,  'भेटी कमी झाल्या म्हणून मैत्री कधी कमी झाली नाही' अशी होती नाना पाटेकर आणि अशोक सराफ यांची मैत्री",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-10T08:29:32",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/ashok-saraf-talks-about-friendship-with-late-nana-patekar/articleshow/134846499.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "26d7aadb20ce",
+            "feed": "lokmat",
+            "title": "दोन हजारांपासून लाखापर्यंत सीडीआर, लोकेशनची विक्री; पोलिसांच्याच मदतीने देशभर सुरू होते रॅकेट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-10T08:10:42",
+            "url": "https://www.lokmat.com/crime/selling-cdrs-locations-from-rs-2000-to-rs-1-lakh-racket-starts-across-the-country-with-the-help-of-police-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/xcdrfghujk_202112737592.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c02e7d50a7c1",
+            "feed": "maharashtratimes",
+            "title": "श्रिया पिळगांवकरचा ब्राऊन ड्रेसमधील सुंदर लूक; स्टायलिश फोटोशूट चर्चेत",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-10T08:07:58",
+            "url": "https://maharashtratimes.com/lifestyle-news/fashion/shriya-pilgaonkar-look-beautiful-in-kaftan-dress-photoshoot/articleshow/134846438.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "995a0cafcc86",
+            "feed": "lokmat",
+            "title": "जगभर! एकाचवेळी ६० तरुणींचे मोबाइल घेऊन ठग फरार; पाकिस्तानातील भामट्यानं पोरींना कसं गंडवलं?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-10T06:52:33",
+            "url": "https://www.lokmat.com/jarahatke/an-accused-in-pakistan-abscond-with-60-mobile-phones-belonging-to-highly-educated-young-girl-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mobile-pakistan-story-1_2026101799497.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "7aa630f43c85",
             "feed": "esakal",
@@ -228,25 +244,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-09/lu4gkvqb/BANGLADESH-BEGGAR-WITH-21-WIVES",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
+        }
+    ],
+    "sports": [
         {
-            "id": "672ac6815ce9",
+            "id": "03e240a4726f",
             "feed": "esakal",
-            "title": "भारतीय वंशाच्या नवी पिल्लई यांना यंदाचा शांततेचा नोबेल पुरस्कार; आंतरराष्ट्रीय कायदा अन् मानवाधिकारांसाठी मोठं काम",
+            "title": "Shreyas Iyer Reaction : विंडीजकडून लाजीरवाणा पराभव अन् कर्णधार श्रेयसने कोणावर खापर फोडले? म्हणाला...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-10-09T16:15:22",
-            "url": "https://www.esakal.com/global/navi-pillai-nobel-peace-prize-2026-indian-origin-human-rights-international-law-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-09/5vi4mea3/Navi-Pillai-Wins-Nobel-Peace-Prize-2026",
+            "published": "2026-10-10T08:23:02",
+            "url": "https://www.esakal.com/krida/cricket/shreyas-iyer-reaction-after-west-indies-humiliate-india-in-2nd-t20i-says-no-target-is-enough-with-dew-factor-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-10/slfjhe1k/Shreyas-Iyer-reaction-after-India-vs-West-Indies-2nd-T20I",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "sports": [
+            "category_reason": "feed"
+        },
         {
             "id": "000772d85e98",
             "feed": "lokmat",
@@ -278,72 +294,56 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "55a24304fece",
-            "feed": "esakal",
-            "title": "IND vs WI 2nd T20I: ४१ चेंडूंत २०४ धावा! वेस्ट इंडिजने कहर केला ना भावा; एक, दोन, तीन नव्हे मोडले अनेक विक्रम, Shai Hopeचे पराक्रम...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-09T23:22:45",
-            "url": "https://www.esakal.com/krida/cricket/west-indies-create-history-against-india-41-balls-204-runs-in-boundaries-and-multiple-records-broken-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-09/ny0rhjxq/IND-vs-WI-2nd-T20I-West-Indies-batting-records",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "bf2fb2b6c23c",
-            "feed": "maharashtratimes",
-            "title": "अमेरिकेचे निर्बंध, भारतासाठी संधी! नोकरीचा व्हिसा न मिळणे भारतासाठी ठरू शकते फायद्याचे, वाणिज्य मंत्र्यांचा दावा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-10-09T23:46:54",
-            "url": "https://maharashtratimes.com/business/business-news/h-1b-visa-restrictions-are-golden-opportunity-for-indian-economy-said-by-minister-piyush-goyal/articleshow/134840665.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "28fd97c20038",
-            "feed": "maharashtratimes",
-            "title": "RBI व्याजदर वाढीमुळे जेष्ठांची चांदी! FD वर मिळणाऱ्या परताव्यात वाढ, समजून घ्या नफ्याचे गणित",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-10-09T21:00:17",
-            "url": "https://maharashtratimes.com/business/business-news/fd-calculation-on-10-lakhs-investment-with-interest-rates-7-50-to-8-50-percent/articleshow/134837337.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3a841900ee79",
+            "id": "0a7ea74f356a",
             "feed": "lokmat",
-            "title": "पिकांना पाणी हवं होतं ऑगस्ट-सप्टेंबरमध्ये, पिकं करपल्यानंतर धरणांतून पाणी सोडण्याचा निर्णय",
+            "title": "राज्यातील 'या' १८ तालुक्यांमध्ये दुष्काळ जाहीर होण्याची शक्यता: पिकांचे सर्वेक्षण व पडताळणीस मान्यता",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-09T20:35:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/crops-needed-water-in-august-september-decision-to-release-water-from-dams-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kharip-pike-2_2026101799427.jpeg",
+            "published": "2026-10-10T08:45:31",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/drought-likely-to-be-declared-in-these-18-talukas-of-the-state-approval-for-crop-survey-and-verification-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dushkal-16-taluka_2026101799508.jpeg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "971c43068c93",
+            "feed": "maharashtratimes",
+            "title": "Trump-Putin Diesel Deal: जगा सांगे ब्रह्मज्ञान..! इतरांना टॅरिफची धमकी देणाऱ्या ट्रम्पकडून रशियासोबत 18 लाख टन डिझेल खरेदीची डील, मग भारताने का घेऊ नये",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-10-10T08:43:24",
+            "url": "https://maharashtratimes.com/business/business-news/trump-turns-to-putin-for-diesel-ahead-of-us-midterms-as-high-fuel-prices-challenge-trump-and-republicans/articleshow/134846428.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "05b4e8a62939",
+            "feed": "lokmat",
+            "title": "आठ आठवड्यांच्या सलग घसरणीची मालिका खंडित; आयटी शेअर्समध्ये मोठी खरेदी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-10-10T07:55:24",
+            "url": "https://www.lokmat.com/business/news/eight-week-losing-streak-ends-big-buying-in-it-shares-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-ksb_2026091793331.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ]
 }
