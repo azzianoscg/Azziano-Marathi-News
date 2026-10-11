@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "11-10-2026 | 04:35 PM IST",
+    "lastUpdated": "11-10-2026 | 10:30 PM IST",
     "maharashtra": [
         {
-            "id": "b935109c758b",
-            "feed": "maharashtratimes",
-            "title": "Mental Health: महाराष्ट्रात स्त्रियांच्या तुलनेत पुरुषांमध्ये नैराश्याचे अन् तणावाचे प्रमाण वाढले; कोणकोणत्या गोष्टी ठरतायत कारणीभूत? रिपोर्टमधून उलगडा",
+            "id": "99cd201d016b",
+            "feed": "esakal",
+            "title": "Tukaram Mundhe: तुकाराम मुंढे होणार MPSCचे नवे सचिव, शिवेंद्र राजेंची मोठी घोषणा",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-11T16:29:40",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/increase-in-depression-and-stress-among-men-compared-to-women-unveiling-the-alarming-mental-health-situation-in-maharashtra/articleshow/134869068.cms",
-            "image": "",
+            "published": "2026-10-11T22:20:17",
+            "url": "https://www.esakal.com/maharashtra/tukaram-mundhe-to-become-new-mpsc-secretary-shivendraraje-major-announcement-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-02/47axeost/sandeep-shirguppe-2026-10-02T180148.262.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bde18b72e61b",
+            "id": "25974bcfdfab",
             "feed": "esakal",
-            "title": "Mumbai Goa Highway: मुंबई-गोवा महामार्गावर दृश्यमानतेची समस्या; दुभाजकांवरील झाडी ठरतेय धोकादायक",
+            "title": "Rajapur Tragedy : नाणारमध्ये काळीज पिळवटून टाकणारी घटना! खाडीत कालवे काढण्यासाठी गेलेली एकाच घरातील ४ भावंडे बुडाली; तिघांचे मृतदेह हाती",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-11T16:28:11",
-            "url": "https://www.esakal.com/kokan/mumbai-goa-highway-news-overgrown-divider-shrubs-reduce-visibility-and-increase-accident-risks-nhai-starts-clearing-work-after-rains-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-11/i9inzxst/sudhir-jadhav-satara-8.jpg",
+            "published": "2026-10-11T22:12:44",
+            "url": "https://www.esakal.com/kokan/rajapur-nanar-creek-drowning-four-siblings-dead-ratnagiri-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-11/soauc0br/Esakal-13.png",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "8c7f0b376823",
+            "id": "87e276f90111",
             "feed": "maharashtratimes",
-            "title": "Rohit Pawar यांचा सरकारला एक दिवसचा अल्टीमेटम, आंदोलनाबाबत मोठी घोषणा",
+            "title": "Maharashtra Drought 2026: केंद्राची पाहणी, CM Fadnavis यांची मदतीची मागणी, रब्बी हंगाम धोक्यात",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-10-11T16:27:56",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/rohit-pawar-critisized-devendra-fadnavis/videoshow/134869167.cms",
+            "published": "2026-10-11T22:08:35",
+            "url": "https://maharashtratimes.com/video/mt-originals/maharashtra-drought-2026-central-team-inspection-fadnavis-central-aid-rabi-season/videoshow/134873858.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
-            "id": "6543e22548fd",
-            "feed": "maharashtratimes",
-            "title": "Mumbai CJP Protest : अंजली दमानिया यांना पोलिसांनी ताब्यात घेतलं, मुंबईत हायव्होल्टेज घडामोडी, शिवाजी पार्कला छावणीचं रुप",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-11T16:25:19",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/cjp-protest-in-mumbai-dadar-shivaji-park-police-detained-anjali-damania-and-many-protestors/articleshow/134869028.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "623050558fe1",
+            "id": "833cbb345bb2",
             "feed": "esakal",
-            "title": "Raigad Drought News: भातशेती उद्ध्वस्त, शेतकरी संकटात; रायगडमधील १४ तालुक्यांना दुष्काळाच्या मदतीची प्रतीक्षा",
+            "title": "Mumbai Protest Faceoff : \"काय करायचं ते करा!\"; शिवाजी पार्कवर पोलिसांनी अडवताच अमित ठाकरे भडकले, पोलिसांनी घेतलं ताब्यात",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-10-11T16:14:30",
-            "url": "https://www.esakal.com/kokan/raigad-drought-news-paddy-crop-damage-hits-farmers-as-demand-grows-to-declare-all-15-talukas-drought-affected-in-maharashtra-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-11/cwa8kjzg/sudhir-jadhav-satara-7.jpg",
+            "published": "2026-10-11T21:44:07",
+            "url": "https://www.esakal.com/mumbai/mumbai-shivaji-park-amit-thackeray-detained-cjp-protest-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-11/vkwxv482/Esakal-12.png",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
+        },
+        {
+            "id": "0fb9c29663ff",
+            "feed": "maharashtratimes",
+            "title": "Chhatrapati Sambhajinagar : गुप्त बातमी, पोलिसांचा छापा अन् मैदान परिसरात गावठी कट्टा लपवून ठेवणारा जेरबंद",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-11T21:42:55",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/chhatrapati-sambhajinagar-mukundwadi-police-arrest-accused-over-hiding-firearm/articleshow/134873117.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "e8b45cd77be2",
-            "feed": "maharashtratimes",
-            "title": "आर्थिक राशिभविष्य 12 ऑक्टोबर 2026: मेषला खुषखबर मिळेल! मिथुन राशीने सावध राहा! तुमची राशी काय सांगते? पाहा, तुमचे राशिभविष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-11T16:30:00",
-            "url": "https://maharashtratimes.com/astro/financial-horoscope/financial-money-horoscope-12-october-navratri-2026-arthik-rashi-astrology-bhavishya-marathi/articleshow/134868270.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "359aef368e18",
-            "feed": "esakal",
-            "title": "नर आणि मादी बिबट्या कसे ओळखायचे?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-11T16:18:20",
-            "url": "https://www.esakal.com/ampstories/web-story/male-female-leopard-difference-how-to-identify-male-and-female-leopard-size-weight-head-body-shape-paw-prints-wildlife-facts-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-11/5mhdqp9c/1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "90e50317f6c5",
-            "feed": "maharashtratimes",
-            "title": "अभिजीत दिपके मूळ गावी रवाना, सौरभ दास आणि राकांचे पोलिसांवर गंभीर आरोप; कोर्टाकडूनही पोलिसांना दणका",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-11T16:16:21",
-            "url": "https://maharashtratimes.com/india-news/cjp-protest-abhijeet-dipke-heads-towards-native-village/articleshow/134868716.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "f3ed3b7f4f2d",
-            "feed": "esakal",
-            "title": "श्रीमंतीत खेळतात ‘या’ स्वभावाचे लोक; चाणक्य नीतीतील ‘हे’ 5 गुण नक्की जाणून घ्या!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-11T16:13:54",
-            "url": "https://www.esakal.com/culture-and-religion/chanakya-niti-5-habits-for-financial-success-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-11/8jm8wt9b/Chanaky-Niti-Financial-Success.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
             "id": "ae1b757b2194",
             "feed": "lokmat",
-            "title": "CJP Protest at Jantar Mantar Live: राष्ट्रपतींनी भेटल्यानंतर आता इंडिया आघाडीचे नेते सरन्यायाधीशांची घेणार भेट",
+            "title": "CJP Protest at Jantar Mantar Live: शिवाजी पार्कमधील सीजेपी आंदोलकांवर कारवाई; ३०० जणांना ताब्यात घेऊन सोडले, FIR दाखल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-10-11T16:12:22",
+            "published": "2026-10-11T21:59:17",
             "url": "https://www.lokmat.com/national/cjp-protest-at-jantar-mantar-in-delhi-against-chief-election-commissioner-gyanesh-kumar-over-sir-live-updates-in-marathi-abhijeet-dipke-targets-govt-over-train-metro-internet-blocking-a-a573/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cjp-protest-live_2026101800127.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "af88f5f8c19b",
+            "feed": "maharashtratimes",
+            "title": "Mahika Sharma on Hardik Pandya Birthday : 'त्याच्याकडे गोलंदाजीचे बूटसुद्धा नव्हते...'; हार्दिक पांड्याच्या वाढदिवशी महिकाची हृदयाला स्पर्श करणारी पोस्ट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-11T21:55:24",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/mahika-sharma-emotional-post-on-hardik-pandya-33-birthday/articleshow/134873352.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "879746f86ded",
+            "feed": "maharashtratimes",
+            "title": "Shirodkar High School: लालबागच्या ९० वर्षे जुन्या शिरोडकर विद्यालयात राडा! बाउन्सर आणून कुलुपे तोडली, डीव्हीआर गायब; पालक-विद्यार्थी चिंतेत",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-11T21:50:24",
+            "url": "https://maharashtratimes.com/career/career-news/brawl-at-shirodkar-school-parent-anxiety-grows-due-to-conflicts-in-management-board/articleshow/134873410.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "b1e0d95b60e4",
+            "feed": "esakal",
+            "title": "विराट कोहलीवर पाच कोटींचा आरोप करणाऱ्या फलाहारी महाराजांनी मागितली माफी, म्हणाले...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-11T21:18:39",
+            "url": "https://www.esakal.com/desh/falhari-maharaj-apologizes-to-premanand-maharaj-over-virat-kohli-five-crore-claim-news-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-11/mogms4r9/falhari-maharaj",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "69dd52fad700",
+            "feed": "lokmat",
+            "title": "केस पातळ झाले-वेणी शेपटी दिसते? १० रुपयांच्या जवसाचा खास उपाय, दाट केस भराभर वाढतील",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-11T21:17:52",
+            "url": "https://www.lokmat.com/sakhi/photos/beauty/flax-seeds-hair-mask-for-hair-fall-control-and-long-hairs-flax-seeds-hair-mask-for-hair-fall-control-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-11-at-3.46.50-pm_2026101800451.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "4ec61002fa65",
+            "feed": "lokmat",
+            "title": "पाकिस्तानमध्ये राजकीय भूकंप! खैबर पख्तूनख्वामध्ये आणीबाणी लागू, इम्रान खान यांच्या पीटीआयचे सरकार बरखास्त, मुख्यमंत्र्यांना अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-11T19:04:46",
+            "url": "https://www.lokmat.com/international/political-earthquake-in-pakistan-emergency-imposed-in-khyber-pakhtunkhwa-imran-khans-pti-government-dismissed-chief-minister-arrested-a-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pak-imposes-emergency-in-khyber-pakhtunkhwa_2026101800417.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c15e52fb23cc",
+            "feed": "lokmat",
+            "title": "जपानमध्ये मोठा सायबर हल्ला! २० हून अधिक कंपन्यांना फटका, लाखो ग्राहकांची वैयक्तिक माहिती धोक्यात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-11T17:04:25",
+            "url": "https://www.lokmat.com/international/major-cyber-attack-in-japan-more-than-20-companies-hit-personal-information-of-millions-of-customers-at-risk-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/japan-cyber-crime-1_2026101800342.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "d7a9c5575762",
             "feed": "esakal",
@@ -180,170 +212,106 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-11/bt9klwv2/Queropalca-Mayor-News",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "25cc3abf12b2",
-            "feed": "lokmat",
-            "title": "थरार! लिव्हइन पार्टनरने चौथ्या मजल्यावरून खाली फेकल्याचा गंभीर आरोप; कोण आहे श्रद्धा दुबे?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-11T15:19:01",
-            "url": "https://www.lokmat.com/crime/thrill-serious-allegation-of-being-thrown-from-the-fourth-floor-by-live-in-partner-who-is-shraddha-dubey-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shiva-sharma-case-update-1_2026101800277.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "927b6ef25af7",
-            "feed": "lokmat",
-            "title": "रशियन लॅबमध्ये गूढ मृत्यू! प्लेग संशोधक तरुणीच्या निधनाचे नेमकं कारण काय? WHOचे मोठे वक्तव्य",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-11T14:08:44",
-            "url": "https://www.lokmat.com/international/mysterious-death-in-russian-lab-what-is-the-real-cause-of-the-death-of-a-young-plague-researcher-whos-big-statement-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-pleague_2026101800231.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f9485d607f97",
-            "feed": "lokmat",
-            "title": "Video: वाघाच्या पिंजऱ्यात मारली उडी, वाघाने हालहाल करून मारले; थरकाप उडवणारा व्हिडीओ व्हायरल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-11T13:21:15",
-            "url": "https://www.lokmat.com/international/video-jumped-into-a-tigers-cage-the-tiger-killed-him-shocking-video-goes-viral-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/man-death-in-tiger-attack_2026101800202.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c8fbb610a8bb",
-            "feed": "esakal",
-            "title": "नेपाळमध्ये पुन्हा हाहाकार! गंडकी नदीला अचानक पूर, घरं-पूल गेले वाहून; पहाटे नागरिकांचे स्थलांतर, बचावकार्य सुरू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-11T10:52:26",
-            "url": "https://www.esakal.com/global/nepal-flood-gandaki-river-swells-suddenly-bridges-and-houses-swept-away-as-army-launches-rescue-operations-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-11/s3felkqt/nepal-flood.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "5e62de39fc34",
+            "id": "ec85d36dc2bb",
+            "feed": "lokmat",
+            "title": "अक्षरसोबत गप्पा मारण्यात गुंग होता तिलक वर्मा; वेस्ट इंडिजने साधली Run Out ची संधी, नेमकं काय घडलं? (VIDEO)",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-11T21:38:00",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-wi-t20i-tilak-varma-bizarre-run-out-after-mistaking-ball-for-boundary-in-3rd-t20i-watch-video-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-wi-t20i-bizarre-tilak-varma-run-out-after-mistaking-ball-for-boundary-m-_2026101800453.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1711cb7a7896",
             "feed": "esakal",
-            "title": "HARDIK PANDYA BIRTHDAY: हार्दिक पांड्या ऑलराउंडर कसा बनला? गर्लफ्रेंड माहिका शर्माने सांगितला आजवर कधीही न ऐकलेला किस्सा!",
+            "title": "IND vs WI, 3rd T20I: अभिषेक शर्माचे वादळी अर्धशतक अन् भारताच्या ऑलआऊट होऊनही २०० धावा पार; विंडीजसमोर किती धावांचं लक्ष्य?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-11T15:38:52",
-            "url": "https://www.esakal.com/krida/cricket/hardik-pandya-birthday-33-mahieka-sharma-instagram-post-how-hardik-pandya-became-all-rounder-struggle-story-5-wickets-india-debut-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-11/8m5ya7hi/hardik-pandhya.jpg",
+            "published": "2026-10-11T20:58:38",
+            "url": "https://www.esakal.com/krida/cricket/india-vs-west-indies-3rd-t20i-indore-abhishek-sharma-fifty-india-224-runs-target-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-11/mux9oyeh/Abhishek-Sharma-India-vs-West-Indies-3rd-T20I.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f34058ca505e",
-            "feed": "maharashtratimes",
-            "title": "Hardik Pandya Birthday Video : हार्दिक पांड्याचा 33वा वाढदिवस; जर्सी नंबरशी जुळून आला अनोखा योगायोग, पाहा Video",
+            "id": "79129d454687",
+            "feed": "lokmat",
+            "title": "‘प्रतिभावंत खेळाडूला इतका काळ...’ भुवीच्या कमबॅकवर शमी स्पष्टच बोलला; फिटनेसवरील टीकेलाही दिलं उत्तर",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-11T15:36:26",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/hardik-pandya-happy-birthday-star-all-rounder-shares-special-birthday-video-celebrating-his-jersey-number-coincidence/articleshow/134868022.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "451802367960",
-            "feed": "esakal",
-            "title": "Yuvraj Singh on Dhoni: ‘तो माझा जवळचा मित्र नव्हता…’ युवराज सिंगने सांगितली माहीसोबतच्या नात्याची Inside Story;माहीने करिअरच्या शेवटी...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-11T14:29:47",
-            "url": "https://www.esakal.com/krida/cricket/yuvraj-singh-on-dhoni-not-close-friends-relationship-inside-story-ms-dhoni-career-ending-advice-ranveer-allahbadia-podcast-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-11/srinu315/yuvraj-sing-ms-dhoni.jpg",
+            "published": "2026-10-11T20:58:07",
+            "url": "https://www.lokmat.com/cricket/news/mohammed-shami-breaks-silence-on-bhuvneshwar-kumars-india-comeback-everyone-deserves-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mohammed-shami-breaks-silence-on-bhuvneshwar-kumars-india-comeback-m-_2026101800447.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "caeadfd79acb",
+            "id": "dddc49aa890f",
+            "feed": "esakal",
+            "title": "Daily Horoscope: आजचे राशिभविष्य : मेषसह या राशींना व्यवसायात यश; काहींना अचानक धनलाभाची शक्यता",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-11T21:20:10",
+            "url": "https://www.esakal.com/horoscope/today-horoscope-in-marathi-aries-may-succeed-in-business-while-virgo-may-see-sudden-financial-gains-according-to-daily-predictions-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-11/3tr3f3eg/sudhir-jadhav-satara-27.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "3f55da850a94",
             "feed": "lokmat",
-            "title": "यंदा थंडी सुरू होण्याआधीच उन्हाचा तडाखा; 'या' जिल्ह्याचे तापमान ३७ अंश सेल्सिअसपर्यंत वाढले",
+            "title": "EPFO ची वेतन मर्यादा वाढवली, पण पेन्शन मात्र सर्वांनाच मिळणार नाही! जाणून घ्या नियम...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-11T16:16:41",
-            "url": "https://www.lokmat.com/agriculture/weather/this-year-the-heat-wave-hit-even-before-the-onset-of-cold-the-temperature-in-ya-district-rose-to-37-degrees-celsius-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-c-34-u-temp-heat-wave_2026101800316.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d1efd3d270b8",
-            "feed": "lokmat",
-            "title": "Maharashtra Drought : राज्यातील दुष्काळी 265 तालुक्यांमध्ये मोफत रेशन मिळणार, राज्य सरकारचा निर्णय",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-11T16:15:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/maharashtra-drought-free-ration-will-be-provided-in-265-drought-hit-talukas-of-maharashtra-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/reshan-vatap-555_2026101800187.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "35b8007de601",
-            "feed": "maharashtratimes",
-            "title": "Highest-Paid Bank CEOs : कोट्यवधींचा पॅकेज, लाखोंचे भत्ते! भारतातील बँक प्रमुखांचा पगार ऐकून व्हाल थक्क",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-10-11T16:09:03",
-            "url": "https://maharashtratimes.com/business/business-news/top-5-highest-paid-bank-ceos-in-india-anup-bagchi-ashok-vaswani-shashidhar-jagdishan/articleshow/134868686.cms",
-            "image": "",
+            "published": "2026-10-11T20:53:35",
+            "url": "https://www.lokmat.com/business/savings-investments/epfo-salary-limit-increased-but-not-everyone-will-get-pension-know-the-rules-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/epfo-pensio-new-rul_2026101800436.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "7260d9854141",
+            "feed": "lokmat",
+            "title": "Maharashtra Drought : महाराष्ट्रातील भूजल पातळी 40 फुटाखाली गेली, विहिरी, बोअरवेल्सला किती पाणी राहिलं?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-11T20:40:05",
+            "url": "https://www.lokmat.com/agriculture/weather/groundwater-level-in-maharashtra-has-gone-below-40-feet-wells-and-borewells-water-down-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhujal-2_2026101800433.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
