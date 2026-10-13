@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "14-10-2026 | 01:09 AM IST",
+    "lastUpdated": "14-10-2026 | 05:01 AM IST",
     "maharashtra": [
         {
             "id": "a367ec2d382a",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "caa560d90162",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 14 ऑक्टोबर 2026: मूलांक 6 सकारात्मक वातावरण! मूलांक 9 कामात यश! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-14T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/today-numerology-horoscope-14-october-navratri-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134922291.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "ae81aed0643f",
             "feed": "maharashtratimes",
             "title": "आजचे राशिभविष्य 14 ऑक्टोबर 2026 : मंगळ, गुरु व शनीमध्ये त्रिकोण योग,शनी या राशींना देणार लाभ तर यांची अग्निपरीक्षा ! पहा तुमचे राशिभविष्य !",
@@ -144,22 +160,6 @@
             "published": "2026-10-13T22:55:02",
             "url": "https://maharashtratimes.com/india-news/bihar-hajipur-boat-accident-in-ganga-river-eight-people-death/articleshow/134923537.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1ec3f03368b8",
-            "feed": "esakal",
-            "title": "Mamata Banerjee: ममता बॅनर्जींवर चाकू हल्ल्याचा प्रयत्न; हल्लेखोर महिला दारुच्या नशेत, शिव्याही दिल्या",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-13T22:33:20",
-            "url": "https://www.esakal.com/desh/mamata-banerjee-knife-attack-attempt-kolkata-kalighat-civic-volunteer-detained-security-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-13/pc0ywta4/Latest-Marathi-Breaking-News-2026-10-13T223116.521.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
