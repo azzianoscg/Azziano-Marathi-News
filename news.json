@@ -1,185 +1,233 @@
 {
-    "lastUpdated": "14-10-2026 | 01:41 PM IST",
+    "lastUpdated": "14-10-2026 | 07:41 PM IST",
     "maharashtra": [
         {
-            "id": "edab0862d790",
-            "feed": "lokmat",
-            "title": "महाराष्ट्रात पाणीसंकट! अनेक जिल्ह्यातील धरणसाठा खालावला, टँकरच्या संख्येतही मोठी वाढ; राज्यात कुठे- काय परिस्थिती?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-14T13:36:37",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-faces-deepuning-water-crisis-dam-levels-fall-tanker-supply-rises-sharply-whats-situation-across-state-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-14-at-1.06.34-pm_2026101802241.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e201885a4e2a",
-            "feed": "lokmat",
-            "title": "पिंपरीत चोरट्यांचा धुमाकूळ..! वृद्धेचे हात-पाय बांधून ६८ तोळे सोने, ५३.७० लाखांचा ऐवज लंपास",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-14T13:30:08",
-            "url": "https://www.lokmat.com/pune/thieves-in-pimpri-they-tied-the-hands-and-feet-of-an-elderly-man-and-robbed-him-of-68-tolas-of-gold-5-lakhs-in-cash-and-5370-lakhs-in-valuables-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thieves-02365_2026101802234.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6f4fe3773a8f",
-            "feed": "maharashtratimes",
-            "title": "पुणे शिक्षक मतदारसंघात एकनाथ शिंदे डाव पलटणार? नंदनवनवरील बैठकीबाबत रवींद्र धंगेकरांचा मोठा खुलासा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-14T13:25:50",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/eknath-shinde-big-move-in-pune-teachers-constituency-ravindra-dhangekar-reveals/videoshow/134936410.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "857ff027bf8c",
+            "id": "d5e6e9a012d8",
             "feed": "esakal",
-            "title": "Drought Management: प्रत्येक थेंब जिरवून ; दहा हजार झाडांना जीवदान",
+            "title": "Jintur News : बंजारा आरक्षणाच्या मागणीसाठी तरुणाने संपविले जीवन; खिशात आढळली चिठ्ठी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-14T13:22:49",
-            "url": "https://www.esakal.com/marathwada/aurangabad/georai-farmer-drought-management-drip-irrigation-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-14/qahokfoc/farmer",
+            "published": "2026-10-14T19:35:27",
+            "url": "https://www.esakal.com/marathwada/youth-ends-life-demanding-banjara-reservation-endlife-note-found-in-pocket-jintur-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-14/8upf99a1/Vijay-Chavan",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "fe1ca1148b64",
+            "id": "aef26ea4089f",
+            "feed": "lokmat",
+            "title": "Top Marathi News LIVE: आनंदाची बातमी! पुण्याला नवीन वैद्यकीय महाविद्यालय मिळणार! CM फडणवीसांची घोषणा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-14T19:28:01",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-14-october-2026-india-bloc-in-supreme-court-against-sir-ece-gyanesh-kumar-cjp-protest-amit-shahs-answer-to-rahul-gandhi-abhijeet-dipke-drought-in-maharashtra-cm-devendra-fadnavis-pm-narendra-modi-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c8d7831a2d58",
+            "feed": "lokmat",
+            "title": "वाघावर स्वार होऊन आई तुळजाभवानीचा छबिना; भक्तिमय वातवरणात रंगला सोहळा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-14T19:27:41",
+            "url": "https://www.lokmat.com/dharashiv/godess-tuljabhavani-riding-on-tiger-rally-the-ceremony-took-place-in-a-devotional-atmosphere-a-a910-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tuljabhavani-1410_2026101802582.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "3beb30b25314",
             "feed": "esakal",
-            "title": "SIR ते काँग्रेसच्या पराभवापर्यंत! अमित शहांचे राहुल गांधींवर 3 मोठे वार",
+            "title": "Uruli Kanchan News : चालकाला हृदयविकाराचा झटका आल्याने चारचाकीवरील ताबा सुटून झालेल्या अपघातात चालकाचा जागीच मृत्यू, तर दोन महिला जखमी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-14T19:26:47",
+            "url": "https://www.esakal.com/pune/driver-suffers-heart-attack-while-driving-loses-control-over-car-resulting-in-fatal-accident-and-two-women-injured-uruli-kanchan-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-14/2h3c6bxk/heart-attack",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "918243bb36e4",
+            "feed": "esakal",
+            "title": "Maharashtra Live News : इम्पेरियल हाईट्समधील आगीवर ७ तासांनंतर नियंत्रण; २ महिलांचा होरपळून मृत्यू, कोट्यवधींचे नुकसान",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-14T19:24:39",
+            "url": "https://www.esakal.com/maharashtra/mumbai-temperatures-cec-gyanesh-kumar-cjp-jantar-mantar-india-bloc-amit-shah-abhijeet-dipke-sir-maharashtra-drought-mpsc-october-heat-devendra-fadnavis-narendra-modi-pune-maharashtra-news-ymk86-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "39b370bcc3b1",
+            "feed": "esakal",
+            "title": "खानजादा बेगम कोण होती? मुघल बादशहाची बहीण जिने हरममध्ये भोगल्या नरकयातना?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-14T13:22:12",
-            "url": "https://www.esakal.com/videos/maharashtra-drought-265-talukas-crop-damage-agriculture-minister-datta-bharane-aid-update-2",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-14/vjglrxj2/rt6IW1jZNPQ-HD.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        }
-    ],
-    "india": [
-        {
-            "id": "e66e7355158e",
-            "feed": "lokmat",
-            "title": "४०० कोटींचं बजेट असलेला प्रभासचा 'द राजा साब' चित्रपट फ्लॉप, निर्माते म्हणतात- \"आमची चूक झाली...\"",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-14T13:30:35",
-            "url": "https://www.lokmat.com/filmy/south-movies/prabhas-film-the-raja-saab-with-a-budget-of-400-crores-flopped-producers-say-we-made-a-mistake-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/prabhas-film-the-raja-saab-with-a-budget-of-400-crores-flopped-producers-say-we-made-a-mistake..._2026101802237.jpg",
+            "published": "2026-10-14T19:37:33",
+            "url": "https://www.esakal.com/ampstories/web-story/mughal-harem-story-of-babur-sister-khanzada-begum-history-mughal-women-brave-war-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-14/yazdfqzp/Mughal-Harem-Khanzada-Begums-Sacrifice.png",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "367897fee1be",
+            "id": "7c9691ccfb7f",
             "feed": "lokmat",
-            "title": "डान्सचा बादशाह आता अभिनयात नशीब आजमावणार; टेरेन्स लुईसच्या नव्या चित्रपटाची घोषणा, कधी होणार प्रदर्शित?",
+            "title": "घरभर पाकोळ्या-भिंतीला चिकटलेले कोळी? ३ उपाय-दारांना भिंतीला लागलेली कसर होईल गायब",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-14T13:30:10",
-            "url": "https://www.lokmat.com/filmy/television/popular-choreographer-terence-lewis-acting-debut-aaj-ka-mahishasur-her-first-look-out-know-about-release-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/terence-lewis-chorehgog_2026101802235.jpg",
+            "published": "2026-10-14T19:34:34",
+            "url": "https://www.lokmat.com/sakhi/social-viral/how-to-get-rid-of-household-casebearer-plaster-how-to-get-rid-of-plastic-bagworms-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-14-at-4.11.03-pm-1_2026101802561.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "85211784bda1",
-            "feed": "lokmat",
-            "title": "सीजेपीच्या आंदोलनात परदेशी नागरिक म्हणून पकडलं ते निघाले प्रसिद्ध अर्थतज्ज्ञ, कोण आहेत ज्यां द्रेज?",
+            "id": "c9cf37088ed3",
+            "feed": "maharashtratimes",
+            "title": "तुम्ही पंतप्रधान होणार आहात! राहुल गांधींबद्दल भाजप खासदाराचं भाकित; मग 2047 पर्यंत सारवासारव",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
             },
-            "published": "2026-10-14T13:27:26",
-            "url": "https://www.lokmat.com/national/the-famous-economist-who-was-arrested-as-a-foreign-national-during-the-cjp-protest-turned-out-to-be-a-foreigner-who-is-this-drej-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jean-drze-1_2026101802232.jpg",
+            "published": "2026-10-14T19:34:15",
+            "url": "https://maharashtratimes.com/india-news/rahul-gandhi-you-are-going-to-become-pm-says-bjp-mp-ravi-kishan-hits-out-at-congress/articleshow/134944463.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "6999af7bd561",
+            "id": "e63c9b59ca0d",
             "feed": "lokmat",
-            "title": "अमिताभ बच्चन निवृत्तीबद्दल स्पष्टच बोलले; म्हणाले \"मी काम सोडण्याचा विचार...\"",
+            "title": "तुळजापूरमध्ये मध्यरात्री संघर्षाचा भडका; दाेन गटात राडा, गोळीबाराच्या घटनेचा पोलिसांकडून इन्कार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-14T13:20:17",
-            "url": "https://www.lokmat.com/filmy/bollywood/amitabh-bachchan-speaks-on-retirement-84th-birthday-a-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amitabh-bachchan-speaks-on-retirement-84th-birthday-1_2026101802218.jpg",
+            "published": "2026-10-14T19:32:34",
+            "url": "https://www.lokmat.com/crime/clashes-erupt-in-tuljapur-at-midnight-clashes-between-two-groups-police-deny-firing-incident-a-a910-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dharashiv-firing-1410_2026101802586.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "e08e5469395f",
+            "id": "547b069ee991",
             "feed": "lokmat",
-            "title": "आई भाड्याने हवी? केदार शिंदेंच्या नव्या सिनेमाचं हटके टायटल; 'या' अभिनेत्री मुख्य भूमिकेत दिसणार",
+            "title": "‘‘मी रडत असताना कोणी सावरायला आलं तर राग येतो’’; प्रिया बापटचा खासगी आयुष्याबद्दल खुलासा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-14T13:17:45",
-            "url": "https://www.lokmat.com/filmy/marathi-cinema/kedar-shinde-directed-movie-aai-bhadyane-havi-shooting-started-starring-prarthana-behere-vishakha-subhedar-sukanya-mone-a-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kedar-movie_2026101802226.jpg",
+            "published": "2026-10-14T19:29:24",
+            "url": "https://www.lokmat.com/filmy/photos/marathi-cinema/priya-bapat-reveals-why-she-gets-angry-when-people-try-to-comfort-her-while-crying-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/priya-bapat-personal-things-1_2026101802583.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "b23928e4cc1b",
-            "feed": "lokmat",
-            "title": "भांडुपच्या रुद्र महालेची जागतिक विक्रमाला गवसणी; गिनीज वर्ल्ड रेकॉर्डमध्ये नाव! इनलाइन स्केटिंगमध्ये १०० मीटर अंतर उलट्या दिशेने अवघ्या १७.९३ सेकंदांत पार",
+            "id": "fa32bdeb6818",
+            "feed": "maharashtratimes",
+            "title": "भारताच्या नावानं ओरड, पाकिस्तानच्या घशाला कोरड; IRSAच्या अहवालानं शेजारी पडले तोंडावर",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-10-14T18:34:41",
+            "url": "https://maharashtratimes.com/international/international-news/pakistan-facing-major-water-crisis-punjab-sindh-suffers-badly-claims-irsa-report/articleshow/134943254.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "57c75de6afa9",
+            "feed": "esakal",
+            "title": "Israel Flight Crew Ban: पाकिस्तानसह मुस्लिम देशांच्या क्रू मेंबर्सवर बॅन! 'फ्लाईदुबई' घटनेनंतर इस्रायल-फ्रान्सने घेतला मोठा निर्णय",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-14T13:34:59",
-            "url": "https://www.lokmat.com/other-sports/rudra-mahale-of-bhandup-sets-world-record-named-in-guinness-world-records-in-inline-skating-he-covered-100-meters-in-reverse-in-just-1793-seconds-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rudra-mahale-1_2026101802239.jpg",
+            "published": "2026-10-14T18:01:23",
+            "url": "https://www.esakal.com/global/israel-bans-flight-crew-muslim-majority-nations-air-france-flydubai-incident-aviation-security-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-14/kixr9kx2/Latest-Marathi-Breaking-News-2026-10-14T175850.154.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "69ae813661f5",
+            "feed": "esakal",
+            "title": "पृथ्वीवरील सर्वात रहस्यमय आणि धोकादायक बेटे! जिथे जाणे म्हणजे मृत्यू, जाणून घ्या काय आहे रहस्य !",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-14T15:34:32",
+            "url": "https://www.esakal.com/ampstories/web-story/most-dangerous-and-mysterious-forbidden-islands-in-the-world-travel-facts-in-marathi-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-12/11hnizan/GeminiGeneratedImagevno6suvno6suvno6.png",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "b9e0e36d79b3",
+            "feed": "maharashtratimes",
+            "title": "श्रीलंकन हिंदूला सौदीत 'सर्वोच्च' दिलासा; मृत्यूदंडाला स्थगिती, ईश्वरनिंदा प्रकरणात निकाल फिरला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-10-14T15:01:46",
+            "url": "https://maharashtratimes.com/international/international-news/saudi-arabia-supreme-court-overturns-death-sentence-for-sri-lankan-hindu-over-facebook-comment/articleshow/134937608.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         },
         {
             "id": "947f9aaead19",
@@ -196,154 +244,106 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "4dcff4f1a0b9",
-            "feed": "esakal",
-            "title": "Premium|Economic Nationalism : आर्थिक राष्ट्रवादाचा नवा काळ; अमेरिका-चीन व्यापार संघर्षामागे नेमकं काय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-14T13:22:43",
-            "url": "https://www.esakal.com/premium-article/economic-nationalism-trump-xi-jinping-us-china-trade-relations-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-14/q3l3nain/Abhi-2026-10-14T132445.319.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "93e5d60e9caa",
-            "feed": "lokmat",
-            "title": "सुबोध भावेसोबत फोटो काढणाऱ्या 'या' चिमुकल्याला ओळखलं? आज आहे मराठीतील सुप्रसिद्ध अभिनेता",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-14T11:47:06",
-            "url": "https://www.lokmat.com/filmy/photos/marathi-cinema/did-you-recognize-child-actor-who-took-a-photo-with-subodh-bhave-actor-shreyas-joshi-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/subodh-bhave-with-shreyas-joshi-photo_2026101802142.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "f2427d9a25fc",
-            "feed": "esakal",
-            "title": "हत्ती आणि गेंडा यांच्यात कोण जास्त ताकदवान?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-14T10:00:00",
-            "url": "https://www.esakal.com/ampstories/web-story/elephant-vs-rhino-who-stronger-size-weight-strength-tusks-horn-wildlife-facts-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-14/gg0tdrhb/1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "77bd13f97906",
+            "id": "fde662487880",
+            "feed": "lokmat",
+            "title": "IND vs WI 4th T20I : अय्यरनं टॉस जिंकला; वेस्ट इंडिजचं पूरनवरील प्रेम आटलं! होपनं गेम प्लॅन बदलला!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-14T19:01:59",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-wi-4th-t20i-shreyas-iyer-wins-toss-india-to-bowl-first-against-west-indies-shai-hope-kamil-pooran-i-jewel-andrew-romario-shepherd-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-wi-4th-t20i-shreyas-iyer-wins-toss-india-to-bowl-first-s-_2026101802563.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "22ed25996372",
             "feed": "maharashtratimes",
-            "title": "IND vs WI 4th T20 Playing 11 : आज भारत वि. वेस्ट इंडिज चौथा टी-20 सामना, वैभवला संधीच नाहीच मिळणार, कुठे आणि किती वाजता?",
+            "title": "IND vs WI 4th T20I Playing 11 : भारताची पहिली गोलंदाजी, IPL मधील 3 खेळाडूंचे होम ग्राऊंड; प्लेइंग 11मध्ये कोणाला संधी?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-10-14T13:07:59",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-wi-4th-t20-team-india-predicted-playing-xi-vaibhav-suryavanshi-was-not-selected/articleshow/134935237.cms",
+            "published": "2026-10-14T18:53:34",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-wi-4th-t20-team-india-captain-shreyas-iyer-won-toss-and-field-first-playing-11/articleshow/134943842.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "a915b670ca7e",
+            "id": "6bbd3e932281",
             "feed": "esakal",
-            "title": "IPL 2027 Trade : एक मोठा खेळाडू Mumbai Indians च्या ताफ्यात येतोय? भविष्याचा कर्णधार म्हणून सक्षम पर्याय; आश्चर्यचकित करणारी Deal",
+            "title": "IND vs WI, 4th T20I: श्रेयस अय्यरने टॉस जिंकला! भारतीय संघात कुलदीप-वैभवला मिळाली संधी? पाहा Playing XI",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-14T12:43:04",
-            "url": "https://www.esakal.com/krida/cricket/ipl-2027-trade-yashasvi-jaiswal-set-to-leave-rajasthan-royals-mumbai-indians-eye-future-captain-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-14/uwsswad9/Yashasvi-Jaiswal-likely-to-leave-Rajasthan-Royals-for-Mumbai-Indians",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "62b5c5b8d802",
-            "feed": "esakal",
-            "title": "IND vs NZ Squad Updates: श्रेयस अय्यरकडे नेतृत्व, इशान किशन-रोहित शर्मा ओपनिंग जोडी; न्यूझीलंड दौऱ्यावर पाहायला मिळेल नवी टीम...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-14T11:49:50",
-            "url": "https://www.esakal.com/krida/cricket/india-predicted-squad-vs-new-zealand-for-4th-and-5th-odi-rohit-sharma-ishan-kishan-opening-pair-shreyas-iyer-captain-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-14/2gdr5yph/India-vs-New-Zealand-4th-and-5th-ODI-squad-updates",
+            "published": "2026-10-14T18:42:41",
+            "url": "https://www.esakal.com/krida/cricket/india-vs-west-indies-4th-t20i-hyderabad-toss-playing-xi-no-place-for-kuldeep-yadav-vaibhav-sooryavanshi-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-14/o6izj0y1/India-vs-West-Indies-4th-T20I.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "ec1be4a9369a",
+            "id": "8638a964c162",
             "feed": "lokmat",
-            "title": "Dushkal Madat : दिवाळीपूर्वी शेतकऱ्यांच्या खात्यात 5 हजार रुपये जमा करणार, वाचा मुख्यमंत्री काय म्हणाले?",
+            "title": "नवीन बोअरवेल, विहिरींचे खोदकाम, जुन्यांचे खोलीकरण कामांवर बंदी, काय आहे सरकारचे आदेश",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-14T13:36:36",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/rs-5000-will-be-deposited-in-farmers-accounts-before-diwali-says-chief-minister-devendra-fadnavis-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dushkali-madt_2026101802230.jpeg",
+            "published": "2026-10-14T19:35:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/maharashtra-drought-temporary-ban-on-new-drilling-of-borewells-and-wells-see-government-order-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/boarvell-adi_2026101802495.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "8f2f7da71381",
+            "id": "b4e643731b48",
             "feed": "lokmat",
-            "title": "राज्यातील शेतकरी कर्जमाफीची मोठी अपडेट; किती शेतकरी पात्र, किती अपात्र आणि किती जणांना लाभ?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-14T13:24:22",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/big-update-on-farmer-loan-waiver-in-the-state-how-many-farmers-are-eligible-how-many-are-ineligible-and-how-many-people-are-benefited-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/karj-mafi-shetkari_2026101802227.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "bf990a8d742d",
-            "feed": "lokmat",
-            "title": "बँक ऑफ बडोदावर १.४४ लाख कोटी रुपयांचा खटला; शेअर्समध्ये मोठी घसरण! नेमकं प्रकरण काय?",
+            "title": "अमेरिकेच्या दबावाला झुगारून भारताची रशियाकडून तेल खरेदी सुरू; सप्टेंबरमध्ये दररोज १.८२ दशलक्ष बॅरल तेलाची आयात",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-10-14T12:55:45",
-            "url": "https://www.lokmat.com/business/banking-loans/bank-of-baroda-faces-rs-144-lakh-crore-lawsuit-shares-plunge-what-is-the-real-case-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-of-baroda-case_2026101802213.jpg",
+            "published": "2026-10-14T19:09:51",
+            "url": "https://www.lokmat.com/business/news/india-starts-buying-oil-from-russia-defying-us-pressure-imports-182-million-barrels-of-oil-per-day-in-september-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russian-crude-oil-india_2026101802570.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "ea27f3d28212",
+            "feed": "esakal",
+            "title": "Bank Election:चार-चार टर्म आमदार, तरी लातूर जिल्हा बँक ताब्यात नाही?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-14T18:58:09",
+            "url": "https://www.esakal.com/videos/latur-district-central-cooperative-bank-election-mahayuti-vs-deshmukh-family-devendra-fadnavis-orders",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-14/mcl54gtq/rsH6lzLValQ-HD.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ]
 }
