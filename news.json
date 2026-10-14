@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "14-10-2026 | 05:01 AM IST",
+    "lastUpdated": "14-10-2026 | 08:12 AM IST",
     "maharashtra": [
         {
-            "id": "a367ec2d382a",
-            "feed": "lokmat",
-            "title": "हद्दपार केलेल्या अट्टल गुन्हेगारांची अवैध घरवापसी; नागपुरातच ठिय्या !",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-13T23:55:11",
-            "url": "https://www.lokmat.com/nagpur/nagpur-police-crackdown-148-re-arrested-criminals-identified-as-repeat-offenders-return-after-being-banished-a-a877-c1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-police-transfer4_2026061728747.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3bea3502f879",
+            "id": "a2a70bfb5e4c",
             "feed": "esakal",
-            "title": "Leopard Attack : सिंहगड परिसरात बिबट्याचे दुचाकीस्वारांवर हल्ले; युवती जखमी, खानापूर–रांजणे–पाबे रस्त्यावर तासाभरात तीन घटना",
+            "title": "Rain Prediction in Maharashtra : महाराष्ट्रात पावसाचे ढग; ९ जिल्ह्यांना पावसाचा अंदाज, उन्हाचा चटका कमी होणार?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-13T23:04:12",
-            "url": "https://www.esakal.com/pune/leopard-attacks-two-wheeler-riders-in-sinhagad-area-young-woman-injured-in-one-of-three-incidents-within-an-hour-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-05/nkfs965r/Leopard",
+            "published": "2026-10-14T07:58:23",
+            "url": "https://www.esakal.com/maharashtra/rain-is-likely-in-9-districts-of-maharashtra-due-to-weather-conditions-over-bay-of-bengal-rain-forecast-may-bring-relief-from-rising-temperatures-and-october-heat-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-14/gqcsleun/sandeep-shirguppe-2026-10-14T075639.179.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "770426530ee1",
+            "id": "f8be456e76c3",
+            "feed": "maharashtratimes",
+            "title": "Maharashtra Live News 14th October 2026 : सलग तिसऱ्या दिवशी मुंबईत पारा ३८ अंशांवर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-14T07:58:18",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/maharashtra-live-news-14th-october-2026-mumbai-heat-wave-maharashtra-weather-update-cjp-protest-at-jantar-mantar-vidhan-parishad-nivdnuk-pradeep-purnekar-murder-case/liveblog/134930382.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7a16b488d201",
+            "feed": "esakal",
+            "title": "Kognoli Toll Plaza Protest : शेतकऱ्यांच्या आंदोलनामुळं पुणे-बंगळूर महामार्गावरील वाहतूक वळवणार; प्रवाशांसाठी दिले 'हे' नवे पर्यायी मार्ग, कोगनोळी टोलनाक्यावर काय घडतंय?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-14T07:54:01",
+            "url": "https://www.esakal.com/satara/karnataka-kognoli-toll-plaza-protest-pune-bangalore-national-highway-nh48-traffic-diversion-alternative-routes-travel-advisory-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-14/c0nfi2i6/Raju-Shetti-Protest-News",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "790fce593134",
+            "feed": "maharashtratimes",
+            "title": "NCP Politics : ना देवगिरीवर साप्ताहिक बैठका, ना राजकीय मुद्द्यांवर भूमिका; राष्ट्रवादीतील संवाद खुंटला, नेत्यांची पक्षांतर्गत नाराजी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-14T07:48:58",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/ncp-leaders-not-happy-with-sunetra-pawar-over-reluctance-in-taking-stand/articleshow/134929988.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6c1117c8e6c1",
             "feed": "lokmat",
-            "title": "कळंबोली यार्डमध्ये मालगाडीचा डबा रुळावरून घसरला; अपघातामुळे अप मार्गावरील रेल्वे वाहतुकीवर परिणाम",
+            "title": "Nalasopara Fire: नालासोपारा-वसई लिंक रोडवरील बहुमजली इमारतीला भीषण आग, दोन महिलांचा दुर्दैवी मृत्यू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-13T22:56:37",
-            "url": "https://www.lokmat.com/mumbai/goods-train-coach-derails-at-kalamboli-yard-accident-affects-rail-traffic-on-up-line-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mandovi-express_2026101801958.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a8001e2ca3bb",
-            "feed": "lokmat",
-            "title": "१५ वर्षांपूर्वीचे प्रेमसंबंध; दुसऱ्या लग्नाच्या तगाद्यामुळे विवाहितेची हत्या",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-13T22:51:37",
-            "url": "https://www.lokmat.com/nagpur/husband-arrested-for-murder-of-wife-after-disguising-it-as-electric-shock-in-nagpur-a-a877-c1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-1709_2026101800029.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "91b91ab93fa0",
-            "feed": "lokmat",
-            "title": "दहशतवाद्यांचा मृत्यू किती थरारक असतो, ते कळणार : ॲड. उज्ज्वल निकम",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-13T22:48:12",
-            "url": "https://www.lokmat.com/nagpur/ujjwal-nikam-discusses-upcoming-biopic-prahahar-and-exposing-terrorist-realities-a-a877-c1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ujwal-nikam-bjp-lok-sabha-election_2024051224125.jpg",
+            "published": "2026-10-14T07:40:16",
+            "url": "https://www.lokmat.com/maharashtra/two-women-killed-in-massive-fire-at-imperial-heights-building-in-nalasopara-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nalasopara-fire-1_2026101801988.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "caa560d90162",
-            "feed": "maharashtratimes",
-            "title": "अंकभविष्य 14 ऑक्टोबर 2026: मूलांक 6 सकारात्मक वातावरण! मूलांक 9 कामात यश! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-14T04:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/today-numerology-horoscope-14-october-navratri-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/134922291.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ae81aed0643f",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 14 ऑक्टोबर 2026 : मंगळ, गुरु व शनीमध्ये त्रिकोण योग,शनी या राशींना देणार लाभ तर यांची अग्निपरीक्षा ! पहा तुमचे राशिभविष्य !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-14T00:12:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-14-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134920110.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8538081f25da",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 14 October 2026: नवरात्र चौथी माळ कूष्मांडा देवीची पूजा,  विनायक चतुर्थी! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-13T23:49:52",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-14-october-2026-in-marathi-kushmanda-devi-puja-navratrifestival-and-shubha-muhurta/articleshow/134922708.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "0c54c1309706",
+            "id": "4bd2c4354afb",
             "feed": "lokmat",
-            "title": "गंगा नदीत बोट उलटून ११ जणांचा मृत्यू; मृतांमध्ये लहान मुलांची संख्या जास्त, बिहारमध्ये मोठा अपघात",
+            "title": "श्राद्धाच्या कार्यक्रमाला जाताना दुर्दैवी घटना, नदीत बोट पलटली; एकाच कुटुंबातील १३ दिवे विझले",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-10-13T23:23:17",
-            "url": "https://www.lokmat.com/national/11-dead-many-children-among-victims-as-boat-capsizes-in-ganga-river-in-vaishali-bihar-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bihar-boat-accident_2026101801959.jpg",
+            "published": "2026-10-14T07:56:45",
+            "url": "https://www.lokmat.com/national/13-children-tragically-died-after-a-boat-capsized-in-a-river-in-bihars-vaishali-district-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bihar-boat-colapszed_2026101801990.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "09bf61f18408",
+            "id": "85f651c722be",
+            "feed": "esakal",
+            "title": "CJP Protest : जंतरमंतरवरील आंदोलन भोवले ! सौरव दास, आशुतोष रांका अन् अजिंक्य शिंदेला अटक; थोड्याच वेळात दंडाधिकाऱ्यांसमोर सादर करणार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-14T07:39:33",
+            "url": "https://www.esakal.com/desh/cockroach-janata-party-cjp-protest-delhi-police-action-saurav-das-ashutosh-ranka-ajinkya-shinde-jantar-mantar-gyanesh-kumar-resignation-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-14/kvcsivam/-2026-10-14T073045.041.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "96af12d563ae",
             "feed": "maharashtratimes",
-            "title": "Hajipur Boat Accident :  स्नेहभोजनासाठी 15 ते 20 जण बोटीतून जात होते, पण त्याआधीच गंगा नदीत मोठी दुर्घटना, 8 जणांचा मृत्यू",
+            "title": "Tharala Tar Mag : महिपतच्या ताब्यातून मुलींना सोडवायला सायली अर्जुनचं नवं सोंग! प्रियाच्या गँगमध्ये पुन्हा एकदा जुना खेळाडू सचिनची एंट्री",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-13T22:55:02",
-            "url": "https://maharashtratimes.com/india-news/bihar-hajipur-boat-accident-in-ganga-river-eight-people-death/articleshow/134923537.cms",
+            "published": "2026-10-14T07:37:00",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/tharala-tar-mag-serial-14-october-2026-episode-sayali-arjun-got-idea-to-find-kidnap-girls-in-mahipat-ashram/articleshow/134929692.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "a8f97b6838bf",
+            "feed": "lokmat",
+            "title": "आजचे राशीभविष्य, १४ ऑक्टोबर २०२६: खर्चाचे प्रमाण मात्र वाढेल, पण केलेला खर्च वाया जाणार नाही",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-14T07:28:33",
+            "url": "https://www.lokmat.com/astro/articles/todays-horoscope-14-october-2026-expenses-will-increase-but-the-expenses-incurred-will-not-be-wasted-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/astro-14th-oct-26-news_2026101801986.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "231be261bd5e",
+            "feed": "lokmat",
+            "title": "जंतर मंतरवर जबरदस्तीने प्रवेश करणे भोवले; सीजेपी नेते सौरव दास आणि आशुतोष रांका यांना पोलिसांकडून अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-14T07:10:40",
+            "url": "https://www.lokmat.com/national/police-arrest-cjp-leaders-saurav-das-and-ashutosh-ranka-for-trying-to-forcefully-enter-jantar-mantar-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cjp-leaders-saurav-das-ashutosh-ranka-preventive-arrest-jantar-mantar-protest_2026101801984.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "1a7728cb3eea",
+            "feed": "lokmat",
+            "title": "बदलते कामगारविश्व, नवे प्रश्न आणि संशोधनाच्या दिशा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-14T06:28:17",
+            "url": "https://www.lokmat.com/editorial/changing-world-of-work-new-questions-and-research-directions-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/workers_2026101801982.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "e189ee3940a8",
             "feed": "esakal",
@@ -228,22 +244,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "1c9eb05829bf",
-            "feed": "esakal",
-            "title": "अभिनयात लोकप्रिय, संशोधनातही अव्वल! कोण होत्या वायफायच्या तंत्रज्ञानाशी संबंध असलेल्या हेडी लॅमर?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-13T18:59:18",
-            "url": "https://www.esakal.com/ampstories/web-story/hedy-lamarr-hollywood-actress-inventor-who-contributed-to-wifi-technology-development-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-13/t4d614q8/WiFi-Inventor-Hedy-Lamarr-1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "c0b4ed711ac0",
+            "feed": "maharashtratimes",
+            "title": "Success Story : छोट्या शहरातून सुरू झालेला प्रवास, बिझनेसशी दूर-दूर पर्यंत संबंध नाही; मसाल्याच्या व्यापाऱ्याने 27000 कोटींचा ज्वेलरी ब्रँड",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-10-14T07:16:00",
+            "url": "https://maharashtratimes.com/business/business-news/success-story-of-malabar-gold-founder-mp-ahammed-from-spices-to-becoming-diamond-king/articleshow/134914915.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "f2342ba99ff6",
             "feed": "lokmat",
             "title": "प्रतिकूल हवामानातही हेक्टरी 20 क्विंटल उत्पादन मिळवून देणारे सोयाबीनचे नवीन वाण, वाचा सविस्तर",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/grape-farm-25_2026101801806.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "44e357f12610",
-            "feed": "lokmat",
-            "title": "डॉलरच्या तुलनेत रुपया का घसरतोय? अर्थमंत्री निर्मला सीतारामन यांनी सांगितले कारण, म्हणाल्या...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-10-13T19:01:57",
-            "url": "https://www.lokmat.com/business/news/nirmala-sitharaman-why-is-the-rupee-falling-against-the-dollar-finance-minister-nirmala-sitharaman-said-the-reason-saying-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nirmala-sitharaman-on-rupee_2026101801877.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
