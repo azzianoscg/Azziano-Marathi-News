@@ -1,347 +1,299 @@
 {
-    "lastUpdated": "15-10-2026 | 05:47 PM IST",
+    "lastUpdated": "15-10-2026 | 10:59 PM IST",
     "maharashtra": [
         {
-            "id": "73c7dca9567d",
+            "id": "09aee8e1201b",
+            "feed": "esakal",
+            "title": "Drunk and Driver : कोथरूडमध्ये ‘ड्रंक अँड ड्राइव्ह’चा थरार; तीन ते चार जण किरकोळ जखमी, २४ वर्षीय कारचालक विद्यार्थी पोलिसांच्या ताब्यात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-15T22:53:51",
+            "url": "https://www.esakal.com/pune/drunk-and-drive-thrill-in-kothrud-three-to-four-mildly-injured-24-year-old-student-driver-detained-by-police-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-15/jjkst6td/Drunk-and-Drive",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bf24686fa934",
             "feed": "maharashtratimes",
-            "title": "Diwali 2026: फराळाची परदेशवारी खर्चीक; वाढते हवाई इंधन दर, कस्टम्स ड्युटी आणि कडक आयात नियमांचा फटका",
+            "title": "Pune Politics : एकनाथ शिंदे यांची उघडपणे घोषणा, भाजप उमेदवाराला नाही तर अपक्षाला पाठिंबा, पुण्यात महायुतीचं बिनसलं",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-15T17:43:01",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/diwali-snacks-more-expensive-to-courier-foreign-over-air-fuel-prices-customs-duties-and-strict-import-regulations/articleshow/134966714.cms",
+            "published": "2026-10-15T22:42:45",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/eknath-shinde-supports-independent-candidate-sachin-sanap-in-pune-mlc-teacher-constituency-election/articleshow/134972687.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7dbf92f3bf92",
+            "id": "a96026da40d5",
             "feed": "esakal",
-            "title": "Former MLA Deepika Chavan : मुख्यमंत्री, मंत्री आणि सर्व आमदारांनी पाच हजारांत दिवाळी साजरी करून दाखवा; मगच शेतकऱ्यांना मदत द्या - माजी आमदार दीपिका चव्हाण यांची सरकारवर टीका",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-15T17:42:05",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/celebrate-diwali-with-5000-rupees-cm-ministers-and-all-mlas-only-then-give-aid-to-farmers-deepika-chavan-criticizes-government-satana-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-06-08/jy8jodv4/Esakal-2026-06-08T234315.362.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1335d7bb3293",
-            "feed": "esakal",
-            "title": "Kaygaon News : आमदार प्रशांत बंब यांच्या पाठपुराव्याला यश; संजय गांधी निराधार योजनेत आधार कार्डाला मान्यता",
+            "title": "Mangalwedha News : मंगळवेढा तालुक्यात 4777 कुटुंबाचे धान्य ऐन दुष्काळात बंद",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-15T17:35:01",
-            "url": "https://www.esakal.com/marathwada/success-of-mla-prashant-bambs-follow-up-aadhaar-card-approved-for-sanjay-gandhi-niradhar-yojana-kaygaon-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/48n4ysf3/mla-prashant-bamb",
+            "published": "2026-10-15T22:26:27",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/grain-supply-suspended-for-4777-families-in-mangalwedha-taluka-amid-severe-drought-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-15/hyqcn85i/ravikiran-kolekar",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "cb0b0898764a",
+            "id": "6b9dcdb10e42",
             "feed": "esakal",
-            "title": "बांधकाम विभागाच्या कामांना गती द्या",
+            "title": "Manchar Water Issue : आंबेगाव तालुक्यात दुष्काळाच्या पार्श्वभूमीवर पाणीटंचाईवर तातडीने नियोजन करा; प्रांताधिकारी अर्चना तांबे यांचे अधिकाऱ्यांना आदेश",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-15T17:34:07",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/jalgaon-development-works-mayor-directives",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/wmw5lku7/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "published": "2026-10-15T22:20:38",
+            "url": "https://www.esakal.com/pune/plan-immediately-for-water-scarcity-amid-drought-in-ambegaon-taluka-sdm-archana-tambe-directs-officials-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-15/kladwn9q/Archana-Tambe",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c4756d405918",
-            "feed": "esakal",
-            "title": "Parli Vaijnath News : परळीच्या शिरपेचात मानाचा तुरा...! परळीच्या नगराध्यक्षा पद्मश्रीताई धर्माधिकारी यांची ऑल -एलएसजी च्या राज्य गव्हर्निंग मेंबरपदी निवड",
+            "id": "95a18de8449e",
+            "feed": "maharashtratimes",
+            "title": "Jalgaon News : जळगावच्या भीषण अपघाताचा काळीज पिळवटून टाकणारा सीसीटीव्ही फुटेज समोर",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
             },
-            "published": "2026-10-15T17:31:06",
-            "url": "https://www.esakal.com/marathwada/parli-vaijnath-mayor-padmashritai-dharmadhikari-elected-as-state-governing-member-of-all-lsg-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/fatz99le/padmashritai-dharmadhikari",
+            "published": "2026-10-15T22:11:10",
+            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/truck-and-bike-accident-at-jamner-bodwad-highway-six-death-in-jalgaon-incident-captured-in-cctv/articleshow/134971879.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "73af010e903a",
+            "id": "e70ebf02345b",
             "feed": "esakal",
-            "title": "क्रेडिट कार्ड कसं वापरायचं असतं?नवशिक्यांसाठी सोप्या टीप्स",
+            "title": "सीजेपीच्या 'तिरंगा मार्च'ला आडकाठी! दिल्लीतील सेंट्रल पार्क बंद ठेवण्याचा निर्णय; अभिजित दीपकेंची पहिली प्रतिक्रिया, '100 ठिकाणी...'",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-15T17:42:28",
-            "url": "https://www.esakal.com/ampstories/web-story/how-to-use-credit-card-safely-smartly-rules-for-beginners-credit-score-in-marathi-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/fsy069yl/How-to-Use-Credit-Cards-9.jpg",
+            "published": "2026-10-15T22:54:57",
+            "url": "https://www.esakal.com/desh/delhi-police-statement-central-park-connaught-place-closure-cjp-lehra-do-tiranga-march-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-15/y90q64gq/Latest-Marathi-Breaking-News-2026-10-15T225323.734.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "17c86e175e42",
-            "feed": "esakal",
-            "title": "सावधान! हा दिवस ठरेल कठीण?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-15T17:32:47",
-            "url": "https://www.esakal.com/ampstories/web-story/todays-horoscope-15-october-2026-difficult-day-anger-control-marathi-rashi-bhavishya-astrology-tips-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/vpxp1lu0/GeminiGeneratedImage85g0f385g0f385g0.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3bb67451213a",
-            "feed": "esakal",
-            "title": "जेलमध्ये कैद्यांची पूर्ण कपडे काढून तपासणी का केली जाते? कारण जाणून घ्या",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-15T17:31:04",
-            "url": "https://www.esakal.com/ampstories/web-story/why-prisoners-stripped-and-searched-in-jail-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/ninqy9nx/Strip-search.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "6e3d764ec3de",
+            "id": "786e2ba57800",
             "feed": "lokmat",
-            "title": "\"पत्रकार कोण आणि रील-मेकर कोण हे कसं ओळखायचं?\"; महिला पत्रकारांच्या मारहाण प्रकरणावर सरकारची स्पष्टोक्ती",
+            "title": "\"पतीचे इतर महिलांसोबत संबंध, विरोध केला तर मारहाण\"; कॅबिनेट मंत्र्यांनी रडत मांडली व्यथा, तक्रार दाखल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-10-15T17:30:32",
-            "url": "https://www.lokmat.com/national/government-questions-distinction-between-journalists-and-reel-makers-in-supreme-court-hearing-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/default-image_201704447.jpg",
+            "published": "2026-10-15T22:46:11",
+            "url": "https://www.lokmat.com/national/uttarakhand-minister-rekha-arya-files-fir-against-husband-over-domestic-violence-and-death-threats-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/uttarakhand-minister-rekha-arya_2026101803361.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ba45e49dabc0",
+            "id": "b32a54addd2b",
+            "feed": "esakal",
+            "title": "बहादूरगड किल्ला नेमका कुठे आहे?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-15T22:32:06",
+            "url": "https://www.esakal.com/ampstories/web-story/bahadurgad-fort-location-history-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-15/lwxu3nyt/Dharmveer-Gad-Bahadurgad-history-8.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "9fa71795966f",
             "feed": "lokmat",
-            "title": "Life Lesson: भगवान बुद्धांनी सांगितलेली ४ कटू सत्य; जी वेळीच समजली तर आयुष्य व्यर्थ जाणार नाही!",
+            "title": "शरीर साचलेलं घातक युरिक ॲसिड बाहेर निघेल, ७ गोष्टी करा; सांधेदुखीचा त्रासही मिटेल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-15T17:25:24",
-            "url": "https://www.lokmat.com/bhakti/life-lesson-4-bitter-truths-told-by-lord-buddha-which-if-understood-in-time-life-will-not-be-wasted-a-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/4-life-changing-rule-by-lord-buddha_2026101803191.jpg",
+            "published": "2026-10-15T22:00:11",
+            "url": "https://www.lokmat.com/sakhi/photos/health/7-remedies-to-remove-uric-acid-how-to-remove-uric-acid-from-body-a-lifestyle-diseases-photo-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-15-at-5.52.03-pm_2026101803358.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "d6da15771199",
+            "feed": "esakal",
+            "title": "सापाचं विष मुंगसाला चढतं की नाही?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-15T21:43:34",
+            "url": "https://www.esakal.com/ampstories/web-story/why-snake-venom-does-not-affect-mongoose-cobra-bite-immunity-acetylcholine-receptors-wildlife-facts-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-15/et2xckhk/7.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "24479d3756f5",
+            "id": "3132706ef3de",
             "feed": "lokmat",
-            "title": "हिंदू मंदिरावर हल्ल्यासाठी आलेला तरुण रायफल अडकल्याने पळाला; अमेरिकेत खळबळ",
+            "title": "मक्का पाठोपाठ आता मदीना वर मिसाइल हल्ला; हूती बंडखोर म्हणतात- आमचा याच्याशी काहीही संबंध नाही!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-10-15T17:02:34",
-            "url": "https://www.lokmat.com/international/mass-shooting-plot-at-hindu-temple-in-illinois-foiled-19-year-old-suspect-arrested-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mass-shooting-plot_2026101803162.jpg",
+            "published": "2026-10-15T20:55:55",
+            "url": "https://www.lokmat.com/international/cruise-missile-heading-towards-medina-destroyed-says-saudi-arabia-houthis-deny-attack-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/medina-houthi-1510_2026101803340.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e2ec132534e4",
+            "id": "b1250c6f48ae",
             "feed": "lokmat",
-            "title": "Video: नाना पाटेकरांच्या शोकसभेत चाहत्याचा फोटोसाठी हट्ट, भडकले शिवाजी साटम, म्हणाले- \"अरे...\"",
+            "title": "नाना पाटेकर यांना एकटं ठेवल्याच्या चर्चेवर मुलगा मल्हारने सोडलं मौन, म्हणाला, ‘‘जग थांबल्यासारखं वाटलं’’",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-15T16:55:57",
-            "url": "https://www.lokmat.com/filmy/marathi-cinema/nana-patekar-condolence-meeting-shivaji-satam-got-angry-on-fan-who-is-asking-for-photo-a-a971/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shivaji-satam-angry_2026101803146.jpg",
+            "published": "2026-10-15T19:25:04",
+            "url": "https://www.lokmat.com/filmy/bollywood/nana-patekars-son-malhar-opens-up-about-family-fitness-and-his-fathers-final-moments-a-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/malhar-patekar-on-nana_2026101803308.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "3d55d445779f",
-            "feed": "lokmat",
-            "title": "“BRICS परिषदेत न येऊन बांगलादेशने सुवर्ण संधी सोडली, रहमान अपरिपक्व...”; शेख हसीन संतापल्या",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-15T16:07:54",
-            "url": "https://www.lokmat.com/international/sheikh-hasina-slams-tarique-rahman-govt-said-bangladesh-missed-a-golden-opportunity-by-not-attending-the-brics-summit-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tariq-rahman-and-sheikh-hasina_2026081763839.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1f4586a174a0",
-            "feed": "esakal",
-            "title": "अमेरिकेत हिंदू मंदिरात नरसंहाराचा कट, गोळीबार करताना ट्रिगर जाम झाल्यानं अनर्थ टळला, १९ वर्षीय तरुणाला अटक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-15T12:32:25",
-            "url": "https://www.esakal.com/global/us-hindu-temple-shooting-plot-foiled-19-year-old-arrested-over-alleged-attack-plan-in-aurora-illinois-near-chicago-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/8i2qx0ui/hindu-temple.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "3fa30b23883e",
-            "feed": "maharashtratimes",
-            "title": "Hindu Temple Mass Shoot Plot : अमेरिकेतील हिंदू मंदिरात सामूहिक गोळीबाराचा कट, रायफल जॅम झाल्याने प्रयत्न फसला, 19 वर्षीय तरुणाला अटक",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-15T09:20:46",
-            "url": "https://maharashtratimes.com/international/international-news/us-man-plots-mass-shooting-at-hindu-temple-in-aurora-fails-when-gun-jammed/articleshow/134956377.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "73b4570c7b9b",
-            "feed": "maharashtratimes",
-            "title": "IN<b>D vs WI T20</b> : 'क्रेडिट तर द्यावेच लागेल', भारताला हरवल्यानंतर विंडीजचा कॅप्टन भारतीय खेळाडूंबद्दल काय बोलला?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-10-15T17:30:18",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-wi-4th-t20-west-indies-captain-shai-hope-praised-the-indian-players-after-defeating/articleshow/134965560.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ac189f68103b",
+            "id": "be4dd42982c6",
             "feed": "esakal",
-            "title": "VIRAT KOHLI FAVOURITE DISH: जगभरातील महागड्या डिशपेक्षा विराट कोहलीला आवडतो आईच्या हातचा 'हा' पदार्थ; दिल्लीला गेल्यावर करतो खास मागणी",
+            "title": "PM नरेंद्र मोदींना भेटले Asiad पदकविजेते भारतीय खेळाडू, वैभव सूर्यवंशीच्या रिअॅक्शनचा Video होतोय Viral",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-15T16:47:17",
-            "url": "https://www.esakal.com/krida/cricket/virat-kohli-favourite-food-rajma-chawal-mothers-home-cooked-food-delhi-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/j3k7eo5q/virat-kohli-favrate-food.jpg",
+            "published": "2026-10-15T21:45:21",
+            "url": "https://www.esakal.com/krida/cricket/pm-narendra-modi-praise-15-year-old-athletes-sparks-priceless-reaction-from-vaibhav-suryavanshi-delhi-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-15/5179y2nh/Vaibhav-Sooryavanshis-Reaction-to-PM-Modis-Praise.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bb34fcb31153",
+            "id": "c32d2009422d",
             "feed": "lokmat",
-            "title": "IND vs WI 5th T20I : अर्शदीपच्या दुखापतीने टीम इंडियाचं टेन्शन वाढलं! निर्णायक सामन्यासाठी भुवीला मिळणार वाइल्ड कार्ड एन्ट्री?",
+            "title": "\"१५ वर्षाचे खेळाडू...\"; पंतप्रधान मोदींकडून 'बेबी बॉस' वैभव सूर्यवंशीचे तोंडभरून कौतुक, पदकविजेत्यांची घेतली भेट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-15T16:41:03",
-            "url": "https://www.lokmat.com/cricket/news/india-to-call-bhuvneshwar-kumar-to-replace-arshdeep-major-update-on-pacers-injury-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-to-call-bhuvneshwar-kumar-to-replace-arshdeep-m-_2026101803117.jpg",
+            "published": "2026-10-15T21:45:04",
+            "url": "https://www.lokmat.com/cricket/photos/pm-modi-praises-vaibhav-sooryavanshi-for-winning-gold-medal-in-asian-games-2026-at-age-of-15-see-pics-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/modi-vaibhav-1510-1_2026101803357.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ca760b689d44",
+            "feed": "esakal",
+            "title": "IND vs NZ: बुमराह नसेल, तर त्याच्या जागी न्यूझीलंडविरुद्ध ODI मालिकेत कोणाची वर्णी लागणार? शमीसह तीन खेळाडूंचे पर्याय",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-15T20:36:33",
+            "url": "https://www.esakal.com/krida/cricket/jasprit-bumrah-may-ruled-out-of-new-zealand-odi-series-top-replacement-options-for-team-india-shami-bhuvneshwar-shardul-thakur-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-15/089omi7k/Jasprit-Bumrah.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "bf1990e6d36e",
+            "id": "55e5811a3d70",
             "feed": "maharashtratimes",
-            "title": "'Made In Italy' पाहून लाखो खर्च कराल, पण प्रत्यक्षात प्रॉडक्ट चीनचं निघेल! लेबलचे नियम जाणून घ्या!",
+            "title": "JIO IPO Reserve Quota : 3000 कोटी रक्कमेचे शेअर्स राखीव! कोणकोणत्या गुंतवणूकदारांना करता येईल अर्ज? जाणून घ्या",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-10-15T17:41:55",
-            "url": "https://maharashtratimes.com/business/business-news/product-labeling-rule-about-country-of-origin-explanation-in-details/articleshow/134965815.cms",
+            "published": "2026-10-15T21:35:39",
+            "url": "https://maharashtratimes.com/business/share-bazaar/jio-platforms-ipo-reserve-quota-for-patrners-and-employees-of-reliance-industries/articleshow/134970863.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "491394047c79",
-            "feed": "lokmat",
-            "title": "Soybean Market : सोयाबीनचे दर ७ हजारांवर! बीड, मेहकरमध्ये तेजी; तुमच्या बाजारात किती भाव मिळाला? वाचा सविस्तर",
+            "id": "5392346239a7",
+            "feed": "maharashtratimes",
+            "title": "भारतासह व्यापार करारासाठी अमेरिका उत्सुक! पण 100% टॅरिफचा धोका कायम, पुढील 10 दिवस महत्त्वाचे",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
             },
-            "published": "2026-10-15T17:35:42",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-soybean-market-soybean-prices-cross-7-thousand-increase-in-beed-mehkar-how-much-did-you-get-in-your-market-read-in-detail-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/soybean-market-15-oct-1_2026101803150.jpg",
+            "published": "2026-10-15T20:25:04",
+            "url": "https://maharashtratimes.com/business/business-news/india-us-trade-deal-first-phase-finalized-but-100-percent-tariff-can-be-applied/articleshow/134967875.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "35c2e45601d9",
+            "id": "2accb118b6ae",
             "feed": "lokmat",
-            "title": "मेंढपाळांचे यंदा दोन महिने अगोदरच स्थलांतर; दुष्काळाची दाहकता, मुक्या जनावरांना जगवण्यासाठी कुटुंबासह भटकंती",
+            "title": "दुष्काळी परिस्थितीत पिकांचे ‘थेंबा-थेंबाने’ संरक्षण करा; कृषी तज्ज्ञ डफरे यांचे शेतकऱ्यांना आवाहन",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-15T17:29:20",
-            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/shepherds-migrate-two-months-early-this-year-due-to-drought-they-wander-with-their-families-to-keep-their-mute-animals-alive-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/r-34-34-34-u-34-mendhpal_2026101803050.jpeg",
+            "published": "2026-10-15T19:50:52",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/protect-crops-with-drops-in-drought-conditions-agriculture-expert-dufre-appeals-to-farmers-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-_2026101803315.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
