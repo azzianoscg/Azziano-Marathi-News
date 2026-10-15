@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "15-10-2026 | 10:59 PM IST",
+    "lastUpdated": "16-10-2026 | 02:12 AM IST",
     "maharashtra": [
+        {
+            "id": "a2e8ecb9b689",
+            "feed": "lokmat",
+            "title": "शेतकऱ्यांना न्यायाची दारे खुली, तक्रारीसाठी सहा महिन्याची अट रद्द; पणनमंत्र्यांची घोषणा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-15T23:59:43",
+            "url": "https://www.lokmat.com/navi-mumbai/doors-of-justice-open-to-farmers-six-month-condition-for-complaints-abolished-a-a842-c1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/farmer-kolhapur_2026101802054.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "28bb9b6a285f",
+            "feed": "lokmat",
+            "title": "महाराष्ट्राच्या हवाई वाहतुकीला नवी चालना; ‘उडान’अंतर्गत अमरावती–पुणे आणि सोलापूर–मुंबई हवाई मार्गांची निवड!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-15T23:56:36",
+            "url": "https://www.lokmat.com/amravati/new-boost-to-maharashtra-air-transport-amravati-pune-and-solapur-mumbai-air-routes-selected-under-udan-a-a782-c1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/murlidhar-mohol-0147_2026091784536.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1af06a4634d8",
+            "feed": "lokmat",
+            "title": "अमरावतीत खाकीचा दणका! ४ लाख २० हजारांच्या एमडी ड्रग्ससह दोन तस्कर जेरबंद",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-15T23:54:21",
+            "url": "https://www.lokmat.com/amravati/khaki-hit-in-amravati-two-smugglers-arrested-with-md-drugs-worth-rs-420-lakh-a-a783-c1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amravati-two-smugglers_2026101803367.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b7500b66d3f9",
+            "feed": "lokmat",
+            "title": "पुण्यात महायुती आमनेसामने! अपक्ष सचिन सानपांना शिंदेसेनेचा पाठिंबा, एकनाथ शिंदेंकडून घोषणा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-15T23:18:59",
+            "url": "https://www.lokmat.com/pune/friendly-contest-in-pune-teachers-constituency-shiv-sena-backs-independent-candidate-sachin-sanap-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eknath-shinde-sachin-sanap_2026101803363.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "09aee8e1201b",
             "feed": "esakal",
@@ -16,150 +80,86 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-15/jjkst6td/Drunk-and-Drive",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "bf24686fa934",
-            "feed": "maharashtratimes",
-            "title": "Pune Politics : एकनाथ शिंदे यांची उघडपणे घोषणा, भाजप उमेदवाराला नाही तर अपक्षाला पाठिंबा, पुण्यात महायुतीचं बिनसलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-15T22:42:45",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/eknath-shinde-supports-independent-candidate-sachin-sanap-in-pune-mlc-teacher-constituency-election/articleshow/134972687.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a96026da40d5",
-            "feed": "esakal",
-            "title": "Mangalwedha News : मंगळवेढा तालुक्यात 4777 कुटुंबाचे धान्य ऐन दुष्काळात बंद",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-15T22:26:27",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/grain-supply-suspended-for-4777-families-in-mangalwedha-taluka-amid-severe-drought-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/hyqcn85i/ravikiran-kolekar",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "6b9dcdb10e42",
-            "feed": "esakal",
-            "title": "Manchar Water Issue : आंबेगाव तालुक्यात दुष्काळाच्या पार्श्वभूमीवर पाणीटंचाईवर तातडीने नियोजन करा; प्रांताधिकारी अर्चना तांबे यांचे अधिकाऱ्यांना आदेश",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-15T22:20:38",
-            "url": "https://www.esakal.com/pune/plan-immediately-for-water-scarcity-amid-drought-in-ambegaon-taluka-sdm-archana-tambe-directs-officials-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/kladwn9q/Archana-Tambe",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "95a18de8449e",
-            "feed": "maharashtratimes",
-            "title": "Jalgaon News : जळगावच्या भीषण अपघाताचा काळीज पिळवटून टाकणारा सीसीटीव्ही फुटेज समोर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-15T22:11:10",
-            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/truck-and-bike-accident-at-jamner-bodwad-highway-six-death-in-jalgaon-incident-captured-in-cctv/articleshow/134971879.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "e70ebf02345b",
-            "feed": "esakal",
-            "title": "सीजेपीच्या 'तिरंगा मार्च'ला आडकाठी! दिल्लीतील सेंट्रल पार्क बंद ठेवण्याचा निर्णय; अभिजित दीपकेंची पहिली प्रतिक्रिया, '100 ठिकाणी...'",
+            "id": "f99bc0546a58",
+            "feed": "maharashtratimes",
+            "title": "Navaratri 2026: नवरात्रीची सहावी माळ! माता कात्यायनी पूजाविधी, मुहूर्त, कथा, स्वरूप जाणून घ्या.",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-15T22:54:57",
-            "url": "https://www.esakal.com/desh/delhi-police-statement-central-park-connaught-place-closure-cjp-lehra-do-tiranga-march-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/y90q64gq/Latest-Marathi-Breaking-News-2026-10-15T225323.734.jpg",
+            "published": "2026-10-16T00:15:15",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/navaratri-2026-maa-katyayani-puja-navratri-sixth-day-marathi/articleshow/134974577.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "786e2ba57800",
+            "id": "159ff5a177a4",
             "feed": "lokmat",
-            "title": "\"पतीचे इतर महिलांसोबत संबंध, विरोध केला तर मारहाण\"; कॅबिनेट मंत्र्यांनी रडत मांडली व्यथा, तक्रार दाखल",
+            "title": "\"अमेरिका-पाक युद्ध झाल्यास आपण पाकिस्तानला साथ देऊ\"; भाजप खासदाराच्या वक्तव्याने खळबळ",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-10-15T22:46:11",
-            "url": "https://www.lokmat.com/national/uttarakhand-minister-rekha-arya-files-fir-against-husband-over-domestic-violence-and-death-threats-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/uttarakhand-minister-rekha-arya_2026101803361.jpg",
+            "published": "2026-10-15T23:51:12",
+            "url": "https://www.lokmat.com/national/rajasthan-bjp-chief-madan-rathore-sparks-controversy-with-remark-on-supporting-pakistan-in-us-conflict-a-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bjp-madan-rathore_2026101803365.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b32a54addd2b",
+            "id": "b109b1805695",
             "feed": "esakal",
-            "title": "बहादूरगड किल्ला नेमका कुठे आहे?",
+            "title": "Vastu Tips: घरात उंटाची मूर्ती ठेवावी की नाही? वास्तूशास्त्रानुसार जाणून घ्या योग्य दिशा, फायदे आणि नियम",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-15T22:32:06",
-            "url": "https://www.esakal.com/ampstories/web-story/bahadurgad-fort-location-history-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/lwxu3nyt/Dharmveer-Gad-Bahadurgad-history-8.jpg",
+            "published": "2026-10-15T23:05:36",
+            "url": "https://www.esakal.com/culture-and-religion/camel-statue-vastu-tips-career-promotion-job-growth-marathi-elephant-vastu-shastra-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-15/hyfmpgui/Camel-Statue-Vastu-Tips-Boost-Career-Growth-Job-Promotion.png",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "9fa71795966f",
+            "id": "6776c2f47103",
             "feed": "lokmat",
-            "title": "शरीर साचलेलं घातक युरिक ॲसिड बाहेर निघेल, ७ गोष्टी करा; सांधेदुखीचा त्रासही मिटेल",
+            "title": "किचन सिंकजवळ धुतलेल्या भांड्यांचा ढीग आणि ओटा ओला? भांडी सुकवण्याचे १० स्मार्ट उपाय, किचन राहील कोरडं सुटसुटीत...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-15T22:00:11",
-            "url": "https://www.lokmat.com/sakhi/photos/health/7-remedies-to-remove-uric-acid-how-to-remove-uric-acid-from-body-a-lifestyle-diseases-photo-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-15-at-5.52.03-pm_2026101803358.jpeg",
+            "published": "2026-10-15T23:02:35",
+            "url": "https://www.lokmat.com/sakhi/photos/social-viral/how-to-keep-your-kitchen-counter-dry-easy-drying-tips-dry-kitchen-counter-kitchen-cleaning-hacks-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/keep-kitchen-counter-dry_2026101802525.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "d6da15771199",
-            "feed": "esakal",
-            "title": "सापाचं विष मुंगसाला चढतं की नाही?",
+            "id": "0b037e42518f",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 16 October 2026: मालव्य योग, लक्ष्मी नारायण योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-15T21:43:34",
-            "url": "https://www.esakal.com/ampstories/web-story/why-snake-venom-does-not-affect-mongoose-cobra-bite-immunity-acetylcholine-receptors-wildlife-facts-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-15/et2xckhk/7.jpg",
+            "published": "2026-10-15T23:01:11",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-16-october-2026-in-marathi-katyayani-devi-puja-navratrifestival-and-shubha-muhurta/articleshow/134970391.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -250,6 +250,22 @@
     ],
     "business": [
         {
+            "id": "aa65c0a0ac25",
+            "feed": "maharashtratimes",
+            "title": "देशातल्या सगळ्यात मोठ्या बँकेने वाढवले व्याजदर! कर्जदारांच्या खिशाला गळती, संभाव्य परिणाम जाणून घ्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-10-15T23:47:36",
+            "url": "https://maharashtratimes.com/business/business-news/state-bank-of-india-mclr-interest-rate-hike-impact-on-borrowers/articleshow/134974386.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "55e5811a3d70",
             "feed": "maharashtratimes",
             "title": "JIO IPO Reserve Quota : 3000 कोटी रक्कमेचे शेअर्स राखीव! कोणकोणत्या गुंतवणूकदारांना करता येईल अर्ज? जाणून घ्या",
@@ -280,22 +296,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "2accb118b6ae",
-            "feed": "lokmat",
-            "title": "दुष्काळी परिस्थितीत पिकांचे ‘थेंबा-थेंबाने’ संरक्षण करा; कृषी तज्ज्ञ डफरे यांचे शेतकऱ्यांना आवाहन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-15T19:50:52",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/protect-crops-with-drops-in-drought-conditions-agriculture-expert-dufre-appeals-to-farmers-a-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-_2026101803315.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
