@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "17-10-2026 | 01:45 AM IST",
+    "lastUpdated": "17-10-2026 | 04:38 AM IST",
     "maharashtra": [
         {
             "id": "c91cd0144395",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "479cff0675b7",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 17 October 2026: मूलांक 2 घाईगडबड टाळा! मूलांक 8 मेहनत, फोकस कामात यश! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-17T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-17-october-navratri-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135000764.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "5d8b7d8ba5b2",
             "feed": "esakal",
             "title": "लालकृष्ण अडवाणींची प्रकृती बिघडली, अपोलो रुग्णालयात केलं दाखल; उपचार सुरू",
@@ -146,22 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shree-navadurga-saustha-madkai-goa-fb_2026101804028.png",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "7af77978d87e",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 17 October 2026: सरस्वती पूजन, बुधादित्य योग, त्रिग्रह योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-16T22:36:25",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-17-october-2026-in-marathi-saraswati-kalratri-devi-puja-navratrifestival-and-shubha-muhurta/articleshow/134998712.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
