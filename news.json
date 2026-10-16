@@ -1,185 +1,201 @@
 {
-    "lastUpdated": "16-10-2026 | 01:10 PM IST",
+    "lastUpdated": "16-10-2026 | 06:20 PM IST",
     "maharashtra": [
         {
-            "id": "178bf71a3403",
-            "feed": "esakal",
-            "title": "Mumbai News: मुंबईकरांचं हॉटेलमध्ये खाणं पिणं महागणार, खाद्यपदार्थांच्या दरात १०-१५ टक्क्यांची वाढ, कधीपासून होणार लागू?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-16T13:05:36",
-            "url": "https://www.esakal.com/mumbai/mumbai-hotel-restaurant-food-price-hike-by-10-to-15-percent-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-16/o22en1yx/Restaurant-food-price-Hike.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ca6c4cbfdcd9",
-            "feed": "lokmat",
-            "title": "Sindhudurg: गळा चिरलेल्या तरुणाचा रुग्णालयात मृत्यू; खून की आत्महत्या, तपास सुरू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-16T13:02:46",
-            "url": "https://www.lokmat.com/sindhudurga/an-unidentified-young-man-from-bihar-whose-throat-had-been-slit-with-a-weapon-died-while-undergoing-treatment-at-the-sawantwadi-sub-district-hospital-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/swantwadi-bihar-sawantwadi_2026101803611.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "10775c8f5974",
+            "id": "219a51fe18b5",
             "feed": "maharashtratimes",
-            "title": "सदावर्तेंनी एकनाथ शिंदे, प्रताप सरनाईकांना सुनावलं; पूर्णेकर कुटुंबीयांच्या भेटीनंतर प्रहार",
+            "title": "दिवाळीपूर्वी शेतकऱ्यांना २५ हजारांची मदत मिळणार? शेतकऱ्यांची सरकारकडे मागणी | Jalgaon Farmers",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-16T12:54:55",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/gunratna-sadavarte-targets-eknath-shinde-after-meeting-purnekar-family/videoshow/134986242.cms",
+            "published": "2026-10-16T18:16:55",
+            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/will-farmers-receive-aid-of-25000-before-diwali-farmers-make-a-demand-to-the-government/videoshow/134995708.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "979d21f0c876",
-            "feed": "esakal",
-            "title": "Diwali Special Buses: दिवाळीसाठी पुण्यातून १,२०० जादा बस;‘एसटी’चे नियोजन; दररोज एक लाख प्रवाशांची होणार वाहतूक",
+            "id": "6b4da730ece7",
+            "feed": "lokmat",
+            "title": "५.९१ लाखांच्या तांब्याच्या तारांची चोरी; ४ वर्षांपासून पिंपरी-चिंचवड पोलिसांना चकवा देणारी टोळी अखेर जेरबंद",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-16T12:53:37",
-            "url": "https://www.esakal.com/pune/pune-msrtc-diwali-special-buses-1200-extra-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-08/yppq5mp1/Sangli-ST-1519-special-bus-trips-Ganesh-festival",
+            "published": "2026-10-16T18:14:28",
+            "url": "https://www.lokmat.com/pune/theft-of-copper-wires-worth-rs-591-lakh-gang-that-had-been-fooling-pimpri-chinchwad-police-for-4-years-finally-arrested-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thief-gang-pcmc_2026101803915.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "042ffe245c69",
+            "id": "fd333945c4df",
             "feed": "lokmat",
-            "title": "माहूरगडावरुन परतताना भाविकांचा टेम्पो १०० फूट खोल दरीत कोसळला;यवतमाळच्या तिघांचा मृत्यू!",
+            "title": "वीज उपकेंद्रावर ‘डिजीटल अर्थिंग सिस्टीम’; ‘महापारेषण’चे कोट्यवधींचे कंत्राट संशयाच्या भोवऱ्यात?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-16T12:49:50",
-            "url": "https://www.lokmat.com/nanded/nanded-accident-pilgrims-tempo-plunges-100-feet-into-gorge-at-mahur-ghat-3-from-yavatmal-dead-3-injured-a-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahur-gad-accident-nanded-three-dead_2026101803586.jpg",
+            "published": "2026-10-16T18:14:25",
+            "url": "https://www.lokmat.com/nanded/mahatransco-tender-row-multi-crore-digital-earthing-system-contract-under-cloud-over-alleged-inflation-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahatrasco-fraud-nanded-scam-fea_2026101803914.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b469fd8eac09",
+            "feed": "maharashtratimes",
+            "title": "Manoj Jarange यांच्या मेळाव्याला विरोध कायम, शिवसेना जिल्हाध्यक्ष स्वप्नील गलधरांची थेट धमकी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-16T18:13:31",
+            "url": "https://maharashtratimes.com/maharashtra/beed/swapnil-galdhar-critisized-manoj-jarange/videoshow/134995595.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9c51f473eef5",
+            "feed": "lokmat",
+            "title": "मराठवाड्यातील पोलिसांत सायबर तज्ज्ञ नाहीत काय? राज्य सायबरच्या यादीत केवळ एकालाच स्थान",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-16T18:08:36",
+            "url": "https://www.lokmat.com/nanded/are-there-no-cyber-experts-in-marathwada-police-only-1-cop-picked-in-maharashtra-cyber-squad-of-60-a-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cyber-crime-marathwada-police-fea_2026101803908.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "6d4bd8335ed1",
-            "feed": "esakal",
-            "title": "Netflix मध्ये १,००० कर्मचाऱ्यांची कपात; २०२२ नंतरचा सर्वात मोठा निर्णय, 'या' कर्मचाऱ्यांच्या नोकरीवर टांगती तलवार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-16T13:08:01",
-            "url": "https://www.esakal.com/education-jobs/netflix-layoffs-2026-1000-employees-biggest-job-cuts-since-2022-amid-slow-growth-and-streaming-competition-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-16/dcqldeo8/Netflix-Layoffs-2026.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
             "id": "5189d8a5384a",
             "feed": "esakal",
-            "title": "Marathi News Live Updates: ज्ञानेश कुमार यांच्या निवड प्रक्रियेवर प्रकाश राज यांचे गंभीर सवाल",
+            "title": "Marathi News Live Updates: तिरंगा मोर्चापूर्वीच अभिजीत दिपके आणि नेहा बोरा पोलिसांच्या ताब्यात; कार्यकर्त्यांची जोरदार घोषणाबाजी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-16T13:03:38",
+            "published": "2026-10-16T18:14:34",
             "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-october-26-2026-election-commission-announcement-sir-tiranga-morcha-in-delhi-india-us-trade-agreement-school-tragedy-in-pakistan-ukraine-russia-conflict-devendra-fadnavis-maharashtra-drought-navratri-festival-politics-shiv-sena-srk94-vsw03",
             "image": "https://cf-images.assettype.com/esakal/2024-12-13/nlfys5cr/live-update.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "c5f012a33504",
-            "feed": "lokmat",
-            "title": "आपलेही झाले परके! वडिलांच्या मृत्यूनंतर संपत्तीवरून मुलींमध्ये वाद; ३ दिवसांनी झाले अंत्यसंस्कार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-16T12:59:07",
-            "url": "https://www.lokmat.com/national/telangana-property-dispute-delays-80-year-old-man-funeral-three-days-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chandtraya_2026101803594.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8c940dafcb82",
+            "id": "1b037ef85bde",
             "feed": "maharashtratimes",
-            "title": "कधीच चाखली नसेल अशी हटके पोह्यांची खीर! चव इतकी अप्रतिम की पुन्हा पुन्हा कराल",
+            "title": "Smita Tambe: 'मातृत्वासाठी मूल जन्माला घालायलाच हवं, असं अजिबात नाही', भूमिकांमधून जगण्याकडे नव्यानं पाहण्याची दृष्टी मिळाली, काय म्हणाली स्मिता तांबे?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-16T12:57:05",
-            "url": "https://maharashtratimes.com/lifestyle-news/home-decor-hacks/how-to-make-poha-kheer-recipe-shared-by-ruchkar-mejwani/articleshow/134986280.cms",
+            "published": "2026-10-16T18:03:11",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/smita-tambe-talks-about-movie-roles-gained-fresh-perspective-on-life/articleshow/134994893.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "d536c7b871ca",
-            "feed": "esakal",
-            "title": "डोंगर, हिरवळ अन् काचेच्या मोठ्या खिडक्या! इम्रान खानने मुंबई-पुण्याजवळ निसर्गाच्या सान्निध्यात उभारलं सुंदर घर, photo पाहिलेत का?",
+            "id": "c4504c997e60",
+            "feed": "maharashtratimes",
+            "title": "3 लाख रुपयांच्या 'iPhone Duo'चे प्री-ऑर्डर आजपासून सुरू, प्री-बुकिंगवर मिळणार 7,000 रुपयांचा मोठा डिस्काउंट",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-16T12:56:37",
-            "url": "https://www.esakal.com/premier/imran-khan-karjat-house-design-nature-inspired-luxury-home-property-details-3d-modelling-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-16/s6iazw7b/Imran-Khan-House-Tour",
+            "published": "2026-10-16T18:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/iphone-duo-pre-orders-live-today-in-india-at-3-lakh-with-instant-cashback-offers/articleshow/134990194.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "world": [
+            "category_reason": "keyword"
+        },
         {
-            "id": "deed83aae180",
+            "id": "3d91f40e0074",
             "feed": "lokmat",
-            "title": "सरकारी कर्मचाऱ्याचा प्रताप! एकाचवेळी ५ कंपन्यांमध्ये नोकरी; दरमहिना ४ कोटी कमाई, अधिकारी हैराण",
+            "title": "अस्सल मराठमोळी रेसिपी-उपासाला करा बटाट्याचा किस, चव एवढी मस्त की उपवास नसणारेही करतील फस्त",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-16T13:02:04",
-            "url": "https://www.lokmat.com/photos/social-viral/kashim-chowdhury-is-accused-of-fraudulently-juggling-multiple-government-jobs-while-working-from-home-at-uk-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/choudhary-kashmi-uk-employee_2026101803607.jpg",
+            "published": "2026-10-16T17:56:28",
+            "url": "https://www.lokmat.com/sakhi/food/authentic-marathi-recipe-make-batata-kiss-during-fasting-the-taste-is-so-delicious-a-a1009/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/upavas-batata-kiiiss-food_2026101803882.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "f3553665a6c7",
+            "feed": "esakal",
+            "title": "Delhi Protest High Drama : 'तिरंगा मार्च' सुरू होण्यापूर्वी अवघ्या १० मिनिटे आधी मोठी कारवाई! सीजेपी प्रमुख अभिजीत दिपकेंना दिल्ली पोलिसांकडून पुन्हा ताब्यात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-16T17:52:40",
+            "url": "https://www.esakal.com/desh/cjp-chief-abhijeet-dipke-detained-connaught-place-tiranga-march-delhi-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-16/t6dz8pfw/Esakal-1.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        }
+    ],
+    "world": [
+        {
+            "id": "9c748a13b41e",
+            "feed": "maharashtratimes",
+            "title": "Regime Change in India? सरकार संकटात? Sri Lanka, Bangladesh, Nepal Pattern, दिल्लीत बदलाचे वारे",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-16T17:37:30",
+            "url": "https://maharashtratimes.com/video/mt-originals/regime-change-india-modi-government-sri-lanka-bangladesh-nepal/videoshow/134994608.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "0ea8090a269d",
+            "feed": "esakal",
+            "title": "US School Shooting: अमेरिकेत प्राथमिक शाळेत गोळीबाराचा थरार; तीन चिमुरड्यांसह चार जणांचा मृत्यू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-16T15:51:53",
+            "url": "https://www.esakal.com/global/oregon-school-shooting-three-children-teacher-killed-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-16/fstbrath/shooting-us.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         },
         {
             "id": "4b671bb449cc",
@@ -214,22 +230,6 @@
             "category_reason": "keyword"
         },
         {
-            "id": "504cd3ad3e75",
-            "feed": "lokmat",
-            "title": "Ramayana Movie: 'रामायण'च्या नवीन ट्रेलरमध्ये रावण-इंद्रदेव यांच्यात संघर्ष, 'हा' प्रसिद्ध अभिनेता साकारतोय भूमिका",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-16T11:41:36",
-            "url": "https://www.lokmat.com/filmy/photos/bollywood/who-played-indradev-in-ramayana-movie-new-trailer-actor-kunal-kapoor-ranbir-kapoor-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/who-is-indradev-in-ramayana-movie-1-w_2026101803518.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
             "id": "c696a21c00a1",
             "feed": "esakal",
             "title": "Garlic Side Effects : आरोग्यासाठी गुणकारी असणारा लसूण 'या' 5 लोकांनी अजिबात खाऊ नये; ठरू शकतो घातक!",
@@ -248,102 +248,102 @@
     ],
     "sports": [
         {
-            "id": "75ba5b0d52cf",
+            "id": "29cb3e4d4a05",
+            "feed": "esakal",
+            "title": "YUZVENDRA CHAHAL: लग्न तुटल्यानंतर चहलला पॅनिक अटॅक, दारूचं व्यसनही जडलं! २६ दिवस रिहॅबमध्ये काय घडलं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-16T17:56:23",
+            "url": "https://www.esakal.com/krida/cricket/yuzvendra-chahal-alcohol-addiction-rehab-26-days-divorce-panic-attacks-podcast-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-16/517xkljf/YUZVENDRA-CHAHAL.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9f505c22db8e",
             "feed": "lokmat",
-            "title": "टी-२० क्रिकेटमधील जगातील ५ सर्वात खतरनाक फलंदाज; दिनेश कार्तिकच्या लिस्टमध्ये कोण-कोण? पाहा",
+            "title": "क्रिकेटच्या इतिहासात पहिल्यांदाच... महिला-पुरूष क्रिकेटर एका संघातून खेळणार, स्पर्धेचे नियमही खास",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-16T12:49:15",
-            "url": "https://www.lokmat.com/cricket/photos/dinesh-karthik-best-t20-batsmen-in-world-virat-kohli-harry-brook-rajat-patidar-tim-david-jos-buttler-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dinesh-karthik-8_2026101803584.jpg",
+            "published": "2026-10-16T17:36:28",
+            "url": "https://www.lokmat.com/cricket/news/test-twenty-mixed-gender-cricket-tournament-parity-rule-80-over-format-male-female-cricketers-will-play-in-same-team-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/test-twenty-1610_2026101803855.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1a16d33018b7",
+            "id": "43d5f514f42f",
             "feed": "esakal",
-            "title": "Aaryavir Sehwag Century : १९ चौकार, ८ षटकार! वीरूच्या लेकाचा जलवा, आर्यवीर सेहवागने १४३ चेंडूंत कुटल्या १७३ धावा...",
+            "title": "IND vs WI 5th T20: भारत-वेस्ट इंडिजचा अंतिम टी-२० सामना कुठे अन् कधी पाहता येणार? LIVE Streaming, वेळ अन् TV चॅनेलची माहिती जाणून घ्या",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-16T12:41:37",
-            "url": "https://www.esakal.com/krida/cricket/aaryavir-sehwag-smashes-173-off-143-balls-slams-19-fours-and-8-sixes-in-vinoo-mankad-trophy-delhi-u-19-vs-chandigarh-u-19-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-16/vvcxbvez/Aaryavir-Sehwag-scores-173-off-143-balls-in-Vinoo-Mankad-Trophy",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b0fcff1f6f3b",
-            "feed": "esakal",
-            "title": "यशस्वी जैस्वाल संघाबाहेर, ऑल राऊंडरची एन्ट्री! जाणून घ्या संघात का झाले २ अनपेक्षित बदल...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-16T11:59:45",
-            "url": "https://www.esakal.com/krida/cricket/yashasvi-jaiswal-dropped-from-mumbai-ranji-trophy-squad-all-rounder-suryansh-shedge-returns-know-reason-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-16/8ik7u87b/Yashasvi-Jaiswal-India-A-tour-of-New-Zealand-2026",
+            "published": "2026-10-16T16:57:43",
+            "url": "https://www.esakal.com/krida/cricket/where-to-watch-ind-vs-wi-5th-t20-live-streaming-match-time-tv-channel-india-west-indies-today-free-online-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-16/soinfv28/ind-vs-wi.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "38e265ec6b2c",
-            "feed": "esakal",
-            "title": "Premium|Share Market Price : सणासुदीच्या काळात कोणत्या शेअरवर लक्ष ठेवाल?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-16T13:06:57",
-            "url": "https://www.esakal.com/premium-article/solar-industries-pine-labs-share-price-target-growth-investment-outlook-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-16/9ryiaxmw/Abhi-2026-10-16T130554.905.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "ec1ef3dc4209",
+            "id": "064e42531502",
             "feed": "lokmat",
-            "title": "दिवाळीच्या पार्श्वभूमीवर सरकारकडून बोनसची घोषणा; कोणत्या कर्मचाऱ्यांना मिळणार लाभ, जाणून घ्या",
+            "title": "IT शेअर्सची जोरदार मुसंडी! आठवडाभरात गुंतवणूकदारांची चांदी; मार्केट कॅप २.६० लाख कोटींनी वाढले",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-10-16T12:41:10",
-            "url": "https://www.lokmat.com/business/savings-investments/diwali-bonus-government-announces-bonus-on-the-occasion-of-diwali-know-which-employees-will-get-the-benefit-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/diwali-bonus-govt-emp_2026101803566.jpg",
+            "published": "2026-10-16T18:00:08",
+            "url": "https://www.lokmat.com/business/stock-market/it-stocks-surge-investors-silver-in-a-week-market-cap-increases-by-rs-260-lakh-crore-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/it-stocks_2026101803885.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ad0ee52fb347",
-            "feed": "maharashtratimes",
-            "title": "8th Pay Commission : 8 वा वेतन आयोगाची वर्षपूर्ती पण लागू कधी होणार हा प्रश्न तसाच! कुठपर्यंत आलं, काय-काय घडलं समजून घ्या",
+            "id": "1ec34adb97c0",
+            "feed": "lokmat",
+            "title": "₹१५ चा शेअर ₹८०० पार! दिला ५४८० टक्के परतावा, १ लाखाचे केले ५६ लाख; गुंतवणूकदार मालामाल",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-10-16T12:27:19",
-            "url": "https://maharashtratimes.com/business/business-news/8th-pay-commission-latest-update-how-will-pensioners-and-employees-benefit-what-happened-so-far/articleshow/134984270.cms",
-            "image": "",
+            "published": "2026-10-16T17:53:51",
+            "url": "https://www.lokmat.com/photos/business/share-mrket-hbl-engineering-share-price-jumps-18-percent-to-837-rupees-gave-5480-percent-return-1-lakh-turned-into-56-lakh-investors-become-rich-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-556s_2026101803868.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "0af9a788e0dd",
+            "feed": "lokmat",
+            "title": "अकोल्यात बाहेरील पशुधनाच्या चराईवर बंदी; काय आहे जिल्हाधिकाऱ्यांचा आदेश?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-16T17:50:30",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-ban-on-grazing-of-livestock-outside-in-akola-what-is-the-order-of-the-district-collector-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/charaiyee-1_2026101803870.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
