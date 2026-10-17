@@ -1,185 +1,185 @@
 {
-    "lastUpdated": "17-10-2026 | 12:48 PM IST",
+    "lastUpdated": "17-10-2026 | 05:20 PM IST",
     "maharashtra": [
         {
-            "id": "c483620af7ed",
+            "id": "552d62ef6908",
+            "feed": "maharashtratimes",
+            "title": "Anna Bansode : अजित पवार हयात असते, तर असं करण्याचं धाडस झालं नसतं, विधानसभेचे उपाध्यक्ष अण्णा बनसोडे यांच्याकडून नाराजी व्यक्त",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-17T17:15:26",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/anna-bansode-expressed-displeasure-over-new-rule-about-vidhan-bhavan-visitor-entry-pass/articleshow/135013125.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2ed748f2986c",
             "feed": "lokmat",
-            "title": "जावयाला जमीन कोणी दिली, हे त्यांनाच विचारा..!, खासदार सुप्रिया सुळे यांचे स्पष्टीकरण",
+            "title": "शेतकऱ्यांसाठी जाहीर केलेली पाच हजार रुपयांची मदत महागाईच्या काळात अत्यंत तोकडी - सुप्रिया सुळे",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-17T12:47:28",
-            "url": "https://www.lokmat.com/maharashtra/ask-the-son-in-law-who-gave-the-land-mp-supriya-sules-explanation-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sule-news-kol-pc_2026101804234.jpg",
+            "published": "2026-10-17T17:10:45",
+            "url": "https://www.lokmat.com/pune/the-rs-5000-aid-announced-for-farmers-is-extremely-inadequate-in-times-of-inflation-supriya-sule-a-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-supriya-sule-4-s_2026101804423.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b7fd616d9749",
+            "id": "87e20997f342",
             "feed": "lokmat",
-            "title": "आळंदीत १० टक्के पाणीकपात: पाणी जपून वापरण्याचे नगरपरिषदेचे जाहीर आवाहन",
+            "title": "‘समान काम, समान वेतन’च्या मागणीसाठी न्यायालयीन कर्मचाऱ्यांचे आंदोलन; कोल्हापूर जिल्ह्यातील ९०० हून अधिक कर्मचाऱ्यांचा सहभाग",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-17T12:46:44",
-            "url": "https://www.lokmat.com/pune/10-percent-water-cut-in-alandi-municipal-councils-public-appeal-to-use-water-wisely-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/water-cut-aaa_2026101804232.jpg",
+            "published": "2026-10-17T17:10:11",
+            "url": "https://www.lokmat.com/kolhapur/protest-by-judicial-employees-demanding-equal-work-equal-pay-more-than-900-employees-from-kolhapur-district-participated-a-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/16102026-kol-court_2026101804425.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ba9a3c349fac",
-            "feed": "lokmat",
-            "title": "महाराष्ट्रातील नव्या पिढीतील गुंतवणूकदारांवर 'पॉकेटफुल'चा विश्वास",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-17T12:44:36",
-            "url": "https://www.lokmat.com/pune/pocketful-expands-in-pune-as-maharashtra-leads-stock-market-investors-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pocketful-article-1_2026101804221.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f5f0116df0a3",
+            "id": "ff0668c00047",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : नंदुरबार बाजार समितीत कापूस खरेदीला सुरुवात; कापसाला मिळाला दहा हजार रुपये क्विंटलचा भाव",
+            "title": "Pune News : झाडणकाम वाढले, रस्ते स्वच्छ, उकिरडे झाले कमी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-17T12:41:30",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-17-october-2026-vivek-bhimanwar-on-leave-satish-waghole-charge-of-mpsc-chairman-abhijeet-dipke-cjp-andolan-delhi-rahul-gandhi-vs-chief-election-commissioner-gyanesh-kumar-navratri-festival-dasara-tukaram-mundhe-fda-weather-update-imd-kolhapur-gokul-election-pm-narendra-modi-amit-shah-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-bam92-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-10-17T17:08:41",
+            "url": "https://www.esakal.com/pune/sweeping-increased-roads-cleaned-garbage-dumps-reduced-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-17/4lv2n8qm/pune-city-Sweeping-Increased-Roads-Cleaned-Garbage-Dumps-Reduced",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1a5095d3298e",
-            "feed": "lokmat",
-            "title": "लोणावळ्यात दोन व्यक्तींमध्ये चाकूने जीवघेणा हल्ला; थरारक घटना CCTV मध्ये कैद",
+            "id": "822137c078f9",
+            "feed": "esakal",
+            "title": "पान १ अँकर ः स्वतःच्या फळबागेपेक्षा तहानलेल्या जीवांची चिंता!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-10-17T12:38:33",
-            "url": "https://www.lokmat.com/pune/lonavala-news-today-fatal-knife-attack-between-two-people-in-lonavala-thrilling-incident-captured-on-cctv-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lonavala-news-023_2026101804217.jpeg",
+            "published": "2026-10-17T17:06:27",
+            "url": "https://www.esakal.com/marathwada/aurangabad/dr-ganesh-pachpille-water-scarcity-solution",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-17/umd85sn0/Sakal20Wesite20Banner20_20Ch20Sambhaji20Nagar.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "d5e6f6388e2a",
+            "id": "18db01cd8559",
+            "feed": "esakal",
+            "title": "पांडा काय खाऊन जगतो?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-17T17:10:36",
+            "url": "https://www.esakal.com/ampstories/web-story/what-does-panda-eat-interesting-facts-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-17/isp0k9jo/Panda-Diet-9.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "6e398fd203b3",
             "feed": "lokmat",
-            "title": "हेअर लाईनचे केस गळाल्याने कपाळ मोठं दिसतं? 'हा' लेप लावा, काही दिवसांतच नवे केस उगवतील",
+            "title": "अभिजित दिपकेंना कोर्टाकडून दिलासा, जामिनाबाबत दिला मोठा निर्णय, लवकरच होणार सुटका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-17T17:08:26",
+            "url": "https://www.lokmat.com/national/court-gives-relief-to-abhijit-deepke-big-decision-on-bail-will-be-released-soon-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abhijeet-dipke-bail-1_2026101804420.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b588e1e3386c",
+            "feed": "esakal",
+            "title": "Vastu Tips: वास्तुशास्त्रानुसार घराजवळ 'ही' झाडे लावणे मानले जाते शुभ; जाणून घ्या घरासाठी फायदेशीर असणारी रोपे!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-17T17:06:30",
+            "url": "https://www.esakal.com/culture-and-religion/vastu-tips-auspicious-plants-for-home-wealth-peace-marathi-news-vastu-shastra-best-plants-for-wealth-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-17/44jji88h/Vastu-Tips-for-Home-Best-Auspicious-Plants-for-Wealth-Peace.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "493785c97a22",
+            "feed": "lokmat",
+            "title": "घटाच्या कोंब आलेल्या नारळाचं कुंडीतही वाढू शकतं लहानसं रोप, पाहा काय केलं तर नारळाचं सुंदर रोप तयार होतं...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-17T12:47:24",
-            "url": "https://www.lokmat.com/sakhi/photos/beauty/home-hacks-for-hair-growth-how-to-grow-new-hair-on-hairline-a-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-17-at-11.58.02_2026101804233.jpeg",
+            "published": "2026-10-17T17:05:49",
+            "url": "https://www.lokmat.com/sakhi/photos/gardening/a-small-coconut-plant-with-a-budding-stem-can-grow-even-in-a-pot-see-what-you-can-do-to-create-a-beautiful-coconut-plant-a-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-grow-coconut-plant-at-home_2026101804406.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "010dce3e77ae",
-            "feed": "lokmat",
-            "title": "सैफ अली खानने करीनाबद्दल बेडरूममधलं खास गुपित सांगितलं; म्हणाला, ‘‘रात्री आमच्या रूममधून...’’",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-17T12:46:13",
-            "url": "https://www.lokmat.com/filmy/bollywood/saif-ali-khan-reveals-a-secret-about-kareena-kapoor-in-the-bedroom-says-at-night-from-our-room-a-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saif-ali-khan-and-kareena-kapoor_2026101804219.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "b7ad32e85f08",
+            "id": "f12fd69bc4b2",
             "feed": "maharashtratimes",
-            "title": "Gurugram Crime : आम्ही जग सोडतोय, सकाळी ७ ला कंपनीला ईमेल, बायकोच्या कपड्यांवर 'I Love U' लिहिलं, तिच्याच वाढदिवशी दोघांनी आयुष्य संपवलं",
+            "title": "अभिजीत दिपकेंना मोठा दिलासा; कोर्टाकडून सशर्त जामीन मंजूर; कोणत्या अटीवर सुटका?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-17T12:40:34",
-            "url": "https://maharashtratimes.com/india-news/malayali-techie-couple-deaths-in-gurgaon-flat-7am-email-to-employer-i-love-you-on-clothes-on-wife-birthday/articleshow/135008917.cms",
+            "published": "2026-10-17T17:03:09",
+            "url": "https://maharashtratimes.com/india-news/cjp-founder-abhijeet-dipke-granted-bail-court-sets-conditions/articleshow/135013176.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "fb9243b74fbb",
-            "feed": "esakal",
-            "title": "Apple च्या पहिल्या फोल्डेबल 'iPhone Duo' चे प्री-ऑर्डर भारतात सुरू; खरेदीवर मिळतोय 7,000 रुपयांचा डिस्काउंट!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-17T12:38:08",
-            "url": "https://www.esakal.com/sci-tech/apple-iphone-duo-pre-order-price-offers-marathi-news-pre-booking-discount-smartphone-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/nuqsumfv/Apple-iPhone-Duo-Pre-Order-India-Price-Offers-Features.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "a3be0f94513b",
-            "feed": "esakal",
-            "title": "Eggs Vegetarian or Non-Vegetarian : अंडी शाकाहारी की मांसाहारी? अंड्याबाबतचा मोठा गैरसमज होणार दूर?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-17T12:37:05",
-            "url": "https://www.esakal.com/ampstories/web-story/eggs-vegetarian-or-non-vegetarian-fertilized-unfertilized-eggs-facts-nutrition-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-27/xh0xf20n/add-lemon-to-boiling-water-for-eggs-8.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "3a39a841d6b8",
-            "feed": "lokmat",
-            "title": "CJP आंदोलनावरून संयुक्त राष्ट्रात मानवाधिकार तज्ज्ञांचा रिपोर्ट; भारतानेही दिले कडक शब्दात उत्तर",
+            "id": "282adae5346e",
+            "feed": "esakal",
+            "title": "Australia Hate Campaign : \"ही तुमची संस्कृती आहे का?\"; ऑस्ट्रेलियात भारतीय उत्पादनांवर वर्णद्वेषी स्टिकर्स, भारतीयांविरोधात द्वेष का वाढतोय?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-10-17T12:30:26",
-            "url": "https://www.lokmat.com/international/human-rights-experts-report-to-the-united-nations-on-cjp-protest-india-also-gave-a-strong-response-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-anuj-swapur-on-un-report_2026101804211.jpg",
+            "published": "2026-10-17T17:12:06",
+            "url": "https://www.esakal.com/global/australia-hate-campaign-racist-stickers-on-indian-grocery-products-remigration-housing-crisis-world-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-17/vr26d1n5/Esakal-7.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
             "id": "0dbcfa068592",
@@ -228,122 +228,106 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-17/swmgyxhm/YouTuber-Dhruv-Rathee-announces-plans-for-a-protest-at-Parliament-Square-in-London-amid-demonstrations-linked-to-the-demand-for-Chief-Election-Commissioner-Gyanesh-Kumars-resignation-and-developm.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "3d65ffa00023",
-            "feed": "maharashtratimes",
-            "title": "कॅप्टन स्मितवरील हल्ल्यानंतर विमान क्षेत्रावर नवं संकट; बड्या कंपन्यांच्या निर्णयांनी वाढवली धडधड",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-16T21:26:16",
-            "url": "https://maharashtratimes.com/international/international-news/flydubai-captain-smit-machchhar-attack-affects-global-aviation-industry-as-major-airlines-announces-restrictions/articleshow/134998393.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "05a0011fbec6",
+            "id": "721ee5ea1b09",
             "feed": "lokmat",
-            "title": "IND vs WI: वैभव, भुवी अन्....; पाचव्या T20साठी टीम इंडियात ४ मोठे बदल, 'यांना' मिळणार संधी?",
+            "title": "ODI World Cup 2027च्या प्लॅनिंग मधून जाडेजा, यशस्वी जैस्वालला डच्चू? BCCIच्या निर्णयामुळे चर्चा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-17T12:05:49",
-            "url": "https://www.lokmat.com/cricket/photos/ind-vs-wi-5th-t20-probable-changes-in-team-india-playing-xi-ahead-of-series-deicider-vaibhav-suryavanshi-kuldeep-yadav-bhuvneshwar-kumar-a-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-wi-changes-1710_2026101804180.jpg",
+            "published": "2026-10-17T17:14:19",
+            "url": "https://www.lokmat.com/cricket/news/yashasvi-jaiswal-ravindra-jadeja-out-of-the-plan-for-team-india-odi-world-cup-2027-campaign-no-place-for-ind-vs-nz-series-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jadeja-jaiswal-ind-1710_2026101804426.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0a578e46670f",
-            "feed": "maharashtratimes",
-            "title": "Yuzvendra Chahal :  वर्ल्डकप 2023मध्ये माझी निवड रोहितमुळे नाही झाली,  युजवेंद्र चहलचा मोठा खुलासा; हिटमॅनने त्याला आधीच सांगितलेलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-10-17T11:59:17",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/yuzvendra-chahal-big-statement-about-rohit-sharma-regarding-why-he-was-not-selected-for-the-2023-odi-world-cup/articleshow/135008635.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a4c593a674a1",
+            "id": "4aa3ad19409d",
             "feed": "esakal",
-            "title": "India ODI Squad: जडेजा-जैस्वाल २०२७ वर्ल्ड कपच्या शर्यतीतून बाहेर? न्यूझीलंडविरुद्धच्या मालिकेसाठी संघ जाहीर होताच मिळाले संकेत",
+            "title": "IPL 2027 : राहुल द्रविड बनणार Mumbai Indians चा नवा प्रशिक्षक, रोहित शर्मा कॅप्टन? जयवर्धनेच्या एक्सिटनंतरची Inside Story",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-17T11:25:44",
-            "url": "https://www.esakal.com/krida/cricket/odi-world-cup-2027-planning-hints-ravindra-jadeja-and-yashasvi-jaiswal-may-not-feature-in-indias-future-odi-schemes-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/5w1pil2i/Ravindra-Jadeja-Yashasvi-Jaiswal-India-Tour-of-New-Zealand.jpg",
+            "published": "2026-10-17T16:40:36",
+            "url": "https://www.esakal.com/krida/cricket/ipl-2027-rahul-dravid-in-contention-for-mumbai-indians-head-coach-role-heres-the-inside-story-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-17/dq6hn07q/Mumbai-Indians-new-coach-for-IPL-2027-latest-news",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3bb874c13932",
+            "feed": "lokmat",
+            "title": "IPL 2027: अखेर ते घडलंच... Mumbai Indiansने दिली महत्त्वाची बातमी, दीर्घकाळचं नातं संपलं!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-17T16:05:27",
+            "url": "https://www.lokmat.com/cricket/news/mumbai-indians-part-ways-with-mahela-jayawardene-as-head-coach-ahead-of-ipl-2027-a-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-indians-1710_2026101804372.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "ec33096cded7",
+            "id": "57971b279880",
+            "feed": "lokmat",
+            "title": "राज्यात हमीभावाने धान्य खरेदी होणार; धान, ज्वारी, बाजरी, मका आणि नाचणी खरेदीसाठी काय आहेत नवे दर?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-17T17:14:01",
+            "url": "https://www.lokmat.com/agriculture/market-yard/grains-will-be-purchased-at-guaranteed-prices-in-the-state-what-are-the-new-prices-for-purchasing-paddy-jowar-bajra-maize-and-gram-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hamibhav-kharedi_2026101804427.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "ca71db2dd51a",
             "feed": "esakal",
-            "title": "FSSAI Notice: ऑनलाइन शॉपिंग करता? Flipkart, BigBasketला FSSAIची नोटीस! खाद्यपदार्थांबाबत नेमकं काय घडलं?",
+            "title": "Gold Investment: 22K, 24K नाही तर Gen Z मध्ये 9 कॅरेट सोन्याची चर्चा! नेमकं किती शुद्ध आणि किती स्वस्त?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-17T12:44:43",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/fssai-notice-flipkart-bigbasket-gemini-edibles-freedom-rice-bran-oil-health-cholesterol-claims-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/9u0nfryh/Copy-of-Copy-of-banner-2026-10-17T123226.136.jpg",
+            "published": "2026-10-17T16:58:26",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/gold-investment-9-carat-gold-jewellery-trend-gen-z-india-9k-gold-purity-percentage-price-vs-22-carat-24-carat-gold-jewellery-hallmark-affordable-gold-jewellery-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-17/cg9hrfgh/Copy-of-Copy-of-banner-2026-10-17T165116.017.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "e5779154d8e8",
-            "feed": "lokmat",
-            "title": "शेतकऱ्यांना ६% व्याजदराने पीककर्ज देण्याचे धोरण कायम; राज्य सरकारने जारी केला शासन निर्णय",
+            "id": "3b852cd53432",
+            "feed": "maharashtratimes",
+            "title": "Trump Waives Russia Tariffs : 100 टक्के टॅरिफचं संकट टळलं, पण आता भारताला चीनपासून मोठा धोका; तेल संकटाची वाढती धग",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
             },
-            "published": "2026-10-17T12:38:46",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/the-policy-of-providing-crop-loans-to-farmers-at-6-interest-rate-remains-in-place-the-state-government-has-issued-a-government-decision-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pik-karj-vyaj-savlat_2026101804146.jpeg",
+            "published": "2026-10-17T16:52:50",
+            "url": "https://maharashtratimes.com/business/business-news/donald-trumps-russia-oil-sansctions-waiver-china-can-be-major-competitor-for-india/articleshow/135012668.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1342ca065ee3",
-            "feed": "lokmat",
-            "title": "Chara Vahtuk : चाऱ्याची वाहतूक, विक्रीवर नाशिक जिल्हा प्रशासनाकडून बंदी, जिल्हाधिकाऱ्यांनी काढले आदेश",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-17T12:15:01",
-            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/nashik-district-administration-bans-transportation-and-sale-of-fodder-district-collector-issues-order-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chara-vah_2026101804117.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ]
 }
