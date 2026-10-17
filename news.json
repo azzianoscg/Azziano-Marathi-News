@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "18-10-2026 | 01:20 AM IST",
+    "lastUpdated": "18-10-2026 | 03:22 AM IST",
     "maharashtra": [
         {
             "id": "74c053ddb930",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "61f71c9be3cf",
+            "feed": "maharashtratimes",
+            "title": "Navaratri 2026: नवरात्रीची आठवी माळ! माता महागौरी पूजाविधी, मुहूर्त, कथा, स्वरूप जाणून घ्या.",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-18T01:20:10",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/navaratri-2026-mahagauri-puja-navratri-eighth-day-marathi/articleshow/135019913.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "dfbd4d21a2fe",
             "feed": "maharashtratimes",
             "title": "पंचांग 18 October 2026: श्रीमहालक्ष्मी पूजन, गजकेसरी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
@@ -146,22 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kolkata-durga-puja-pandal-stampede_2026101804592.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "c55b4bee8dc9",
-            "feed": "esakal",
-            "title": "थंडीत दारू प्यायल्याने शरीर खरंच गरम होतं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-17T22:30:52",
-            "url": "https://www.esakal.com/ampstories/web-story/does-drinking-alcohol-in-winter-keep-body-warm-or-lower-body-temperature-health-facts-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/0euc4b46/drinking-alcohol-in-winter-1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
