@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "17-10-2026 | 11:07 PM IST",
+    "lastUpdated": "18-10-2026 | 01:20 AM IST",
     "maharashtra": [
+        {
+            "id": "74c053ddb930",
+            "feed": "maharashtratimes",
+            "title": "School Holiday: २० ऑक्टोबरला दसऱ्यानिमित्त शाळांना अधिकृत सुट्टी! शिक्षण विभागाचे परिपत्रक जारी; 'या' दिवसापासून दिवाळी सुट्टी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-18T00:16:26",
+            "url": "https://maharashtratimes.com/career/career-news/dussehra-official-holiday-maharashtra-schools-on-october-20-for-vijayadashami-planning-for-diwali-holiday/articleshow/135019265.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "f5cd823198c6",
+            "feed": "lokmat",
+            "title": "गाऱ्हाणे घातले तर ते खरे होते- उपमुख्यमंत्री एकनाथ शिंदे",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-17T23:46:24",
+            "url": "https://www.lokmat.com/kalyan-dombivli/eknath-shinde-visits-dombivli-navratri-event-expresses-faith-in-kokan-traditions-for-drought-relief-a-a855-c1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eknath-shinde-visits-dombivli_2026101804595.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "a3287e100fab",
+            "feed": "lokmat",
+            "title": "सिंधुदुर्ग हादरले! महाविद्यालयातून घरी परतणाऱ्या विद्यार्थिनीची चाकूने भोसकून निर्घृण हत्या, मृतदेह ओहोळात फेकला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-17T23:24:51",
+            "url": "https://www.lokmat.com/sindhudurga/20-year-old-college-girl-murdered-in-sindhudurg-police-launch-manhunt-and-tighten-security-a-a456-c1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/college-girl-murdered-in-sindhudurg_2026101804594.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "71f349e964b6",
             "feed": "esakal",
@@ -32,57 +80,57 @@
             "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "7674109087d8",
-            "feed": "esakal",
-            "title": "FDA Crime : कऱ्हाडमधुन एफडीए आयुक्त तुकाराम मुंढेंचा इशारा; राज्यात अन्नसुरक्षेसाठी कारवाई आणखी कडक करणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-17T22:43:49",
-            "url": "https://www.esakal.com/satara/warning-from-fda-commissioner-tukaram-munde-from-karad-action-for-food-safety-in-the-state-will-be-made-even-stricter-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/pu4z4y7z/tukaram-munde",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "eb0fe30cf35c",
-            "feed": "esakal",
-            "title": "Dharur Ghat Accident : धारूर घाटात पुन्हा अपघात; केंद्रीय राज्यमंत्री रामदास आठवले यांनी केली विचारपूस",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-17T22:27:51",
-            "url": "https://www.esakal.com/marathwada/another-accident-in-dharur-ghat-union-minister-of-state-ramdas-athawale-enquires-about-the-incident-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/jkqn12hh/ramdas-athawale",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "52172198e096",
-            "feed": "esakal",
-            "title": "जिल्हा परिषद वार्तापत्र",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-17T22:23:30",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-district-success",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/x4akv09l/Sakal20Wesite20Banner20_20Nashik.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "dfbd4d21a2fe",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 18 October 2026: श्रीमहालक्ष्मी पूजन, गजकेसरी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-17T23:53:06",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-18-october-2026-in-marathi-mahalaxmi-puja-kanya-pujan-and-shubha-muhurta/articleshow/135017274.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a2db74b8cf2c",
+            "feed": "lokmat",
+            "title": "समर्थ नागरी पतसंस्थेत २.२४ कोटींचा घोटाळा?; सहकार क्षेत्रात खळबळ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-17T23:53:03",
+            "url": "https://www.lokmat.com/vardha/financial-embezzlement-of-rs-224-crore-uncovered-at-samarth-nagarik-credit-society-depositors-rush-to-withdraw-funds-a-a793-c1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gklj_2026091786234.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "7d503dc42828",
+            "feed": "maharashtratimes",
+            "title": "HIIP Scheme : स्पेशल मुलांसाठी विशेष योजना; आता सरकार घेणार जबाबदारी, देणार मायेची ऊब!",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-17T23:47:40",
+            "url": "https://maharashtratimes.com/government-schemes/state-government-policy/homes-for-intellectual-impaired-person-maharshtra-government-scheme-detailed-explanation/articleshow/135019002.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "a6080e71e310",
             "feed": "lokmat",
@@ -114,54 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-17/0euc4b46/drinking-alcohol-in-winter-1.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "6eb5439ced85",
-            "feed": "esakal",
-            "title": "Kolkata Stamped: कोलकात्यात दुर्गापूजा मंडपात चेंगराचेंगरी; १७ भाविकांचा मृत्यू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-17T22:22:58",
-            "url": "https://www.esakal.com/desh/kolkata-durga-puja-pandal-stampede-like-situation-injured-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/wjhu5o5u/crime-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "eb307507ddd6",
-            "feed": "maharashtratimes",
-            "title": "Ajay Devgan Bungalow : अजय देवगणच्या बंगल्यावर महापालिकेचा हातोडा? अभिनेत्याच्या टीमने स्पष्ट केले सत्य; सांगितले नेमकं काय घडलं",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-17T21:48:48",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/ajay-devgn-team-clarified-bmc-has-not-demolished-his-residential-bungalow-part/articleshow/135016801.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7d03a40fb331",
-            "feed": "esakal",
-            "title": "Resort Fire Tragedy : पर्यटकांच्या रिसॉर्टला भीषण आग; एकाच कुटुंबातील ५ जणांसह १० पर्यटकांचा होरपळून मृत्यू, ९ गंभीर!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-17T21:33:17",
-            "url": "https://www.esakal.com/desh/bangladesh-coxs-bazar-inani-beach-tuptup-resort-fire-tragedy-10-tourists-dead-9-injured-world-news-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/jt6vo86i/Esakal.png",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
@@ -248,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "eb4672454c2c",
+            "feed": "lokmat",
+            "title": "IPL 2027 Mini Auction : तारीख अन् ठिकाण ठरलं! गोव्यातील पंचतारांकित हॉटेलमध्ये खेळाडूंवर लागणार बोली",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-18T00:10:54",
+            "url": "https://www.lokmat.com/cricket/news/ipl-2027-mini-auction-is-scheduled-for-december-16-2026-with-the-auction-briefing-taking-place-on-december-15-2026-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ipl-2027-mini-auction-date-16-december-in-goa-itc-grand-m-1_2026101804596.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ac585cc20afb",
+            "feed": "maharashtratimes",
+            "title": "IND vs WI 5th T20 : भारत vs विंडीज सामना रद्द, मालिका बरोबरीत पण मुंबई इंडियन्सच्या वाघाने मैदान गाजवलं; 400च्या स्ट्राईक रेटने कुटल्या धावा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-10-17T23:38:25",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/india-and-west-indies-5th-t20-cancelled-due-to-rain-naman-dhir-aggressive-innings-400-strike-rate/articleshow/135018441.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "62d33b3183d4",
             "feed": "lokmat",
             "title": "IND vs WI 5th T20I : वेस्ट इंडिजविरुद्धचा सामना पावसामुळे रद्द! २०२२ नंतर पहिल्यांदाच टीम इंडियावर आली ही वेळ; तेही...",
@@ -260,38 +292,6 @@
             "published": "2026-10-17T22:54:20",
             "url": "https://www.lokmat.com/cricket/news/india-vs-west-indies-5th-t20i-ind-vs-wi-series-finale-called-off-due-to-rain-trophy-shared-a-a1004/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-west-indies-5th-t20i-ind-vs-wi-series-finale-called-off-due-sm_2026101804590.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8675e0f01aa5",
-            "feed": "esakal",
-            "title": "IND vs WI 5th T20I: भारत-वेस्ट इंडिज पाचव्या सामन्याचा निकाल लागला... ९-९ षटकांचा सामना नेमका कुणी जिंकला?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-17T22:26:40",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-wi-5th-t20i-match-called-off-due-to-rain-series-ends-2-2-as-west-indies-24-year-wait-continues-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/y1h0trmg/India-vs-West-Indies-T20I-series-ends-in-a-2-2-draw",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d84f83622f0c",
-            "feed": "lokmat",
-            "title": "IND vs WI 5th T20I : ईशान किशनचा पॉवर प्लेमध्ये धमाका; नमन धीरचाही जलवा, टीम इंडियाची विक्रमी 'सेंच्युरी'",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-10-17T22:22:57",
-            "url": "https://www.lokmat.com/cricket/news/ishan-kishan-and-naman-dhirs-explosive-batting-helps-team-india-register-fastest-100-after-record-breaking-fifty-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ishan-kishan-and-naman-dhirs-explosive-batting-helps-team-india-register-fastest-100-m-_2026101804587.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
