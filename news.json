@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "18-10-2026 | 03:22 AM IST",
+    "lastUpdated": "18-10-2026 | 05:07 AM IST",
     "maharashtra": [
         {
             "id": "74c053ddb930",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "d6e70906aecd",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 18 October 2026: मूलांक 4 खर्च वाढण्याची भीती! मूलांक 6 कामात फोकस करा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-18T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-18-october-navratri-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135020167.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "cc2c6d8bd1f9",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 18 ऑक्टोबर 2026 : गजकेसरी योगाचा या राशींना लाभ,गुरु व मंगळ देणार साथ ! पहा तुमचे राशिभविष्य !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-18T04:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-18-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135018869.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "61f71c9be3cf",
             "feed": "maharashtratimes",
             "title": "Navaratri 2026: नवरात्रीची आठवी माळ! माता महागौरी पूजाविधी, मुहूर्त, कथा, स्वरूप जाणून घ्या.",
@@ -130,38 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gklj_2026091786234.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "7d503dc42828",
-            "feed": "maharashtratimes",
-            "title": "HIIP Scheme : स्पेशल मुलांसाठी विशेष योजना; आता सरकार घेणार जबाबदारी, देणार मायेची ऊब!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-17T23:47:40",
-            "url": "https://maharashtratimes.com/government-schemes/state-government-policy/homes-for-intellectual-impaired-person-maharshtra-government-scheme-detailed-explanation/articleshow/135019002.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "a6080e71e310",
-            "feed": "lokmat",
-            "title": "कोलकात्यात दुर्गापूजा मंडपात चेंगराचेंगरी; १७ जणांचा मृत्यू, ४० जखमी; पावसात नेमकं काय घडलं?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-17T22:55:37",
-            "url": "https://www.lokmat.com/national/stampede-at-durga-puja-mandap-in-kolkata-17-dead-40-injured-a-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kolkata-durga-puja-pandal-stampede_2026101804592.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
