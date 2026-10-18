@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "19-10-2026 | 12:35 AM IST",
+    "lastUpdated": "19-10-2026 | 03:32 AM IST",
     "maharashtra": [
         {
             "id": "40120fe7ab02",
@@ -16,6 +16,22 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hjtkjft_2026101805030.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "e239e0aa861e",
+            "feed": "esakal",
+            "title": "सिव्हिलमधील हलगर्जीपणा; रुग्ण दगावला",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-19T00:02:15",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-medical-negligence-case",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/novmoqb4/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         },
         {
             "id": "5232d612f567",
@@ -62,22 +78,6 @@
             "published": "2026-10-18T22:23:53",
             "url": "https://maharashtratimes.com/maharashtra/pune-news/attack-on-businessman-rana-surywanshi-near-baramati-airport/articleshow/135031945.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "545e8022a05e",
-            "feed": "esakal",
-            "title": "अतिगर्दी अन्‌ चेंगराचेंगरीला बसणार वेसन!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-18T22:11:29",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/kumbh-mela-crowd-control-ai-drone-safety",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/m8qnxlbj/Sakal20Wesite20Banner20_20Nashik.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
@@ -166,6 +166,38 @@
     ],
     "world": [
         {
+            "id": "09d5b3be0402",
+            "feed": "lokmat",
+            "title": "हरियाणाहून अमेरिकेत पोहोचला, लॉरेंस बिश्नोईशी कनेक्शन! टायगर श्रॉफवर गोळीबार करणारा गँगस्टर अनिल पंडित नेमका कोण?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-19T00:50:09",
+            "url": "https://www.lokmat.com/crime/reached-america-from-haryana-connection-with-lawrence-bishnoi-who-exactly-is-the-gangster-anil-pandit-who-shot-at-tiger-shroff-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jkytilgh_2026101805032.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "39bf22bde347",
+            "feed": "esakal",
+            "title": "SA vs AUS कसोटीत १९ खेळाडूंची तिशी पार, १०० वर्षांपूर्वीच्या विक्रमाशी बरोबरी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-19T00:38:11",
+            "url": "https://www.esakal.com/ampstories/web-story/south-africa-vs-australia-2nd-test-record-19-players-aged-30-plus-in-gqeberha-match-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/klibwk6p/SA-vs-AUS-2nd-Test-19-Players-Aged-30-8.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
             "id": "b02cee856b27",
             "feed": "esakal",
             "title": "CEC Gyanesh Kumar Row : देशातील संघर्ष आता आंतरराष्ट्रीय स्तरावर! लंडनमधून ध्रुव राठीचा थेट हल्लाबोल, म्हणाला...",
@@ -212,38 +244,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/smit-machhar-rewards-sd_2026101804992.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "f430cd21aa3c",
-            "feed": "maharashtratimes",
-            "title": "Global Protest: अमेरिका, फ्रान्स आणि इटलीसह ८ देशात रस्त्यावर उतरले नागरिक, कारण काय?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-18T17:50:03",
-            "url": "https://maharashtratimes.com/international/international-news/global-protest-in-8-country-what-is-reason/articleshow/135028404.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b697667470a0",
-            "feed": "esakal",
-            "title": "फ्रान्समध्ये महागाईविरोधी आंदोलनाचा भडका; १४३ वर्ष जुन्या ऐतिहासिक टाउन हॉलला आग, पॅरिससह अनेक शहरांत तोडफोड",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-18T17:38:31",
-            "url": "https://www.esakal.com/global/france-inflation-protest-143-year-old-limoges-town-hall-fire-paris-violence-news-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/vq8bb25b/France-Inflation-Protest",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
