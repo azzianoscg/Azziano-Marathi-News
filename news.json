@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "18-10-2026 | 05:07 AM IST",
+    "lastUpdated": "18-10-2026 | 07:37 AM IST",
     "maharashtra": [
         {
-            "id": "74c053ddb930",
-            "feed": "maharashtratimes",
-            "title": "School Holiday: २० ऑक्टोबरला दसऱ्यानिमित्त शाळांना अधिकृत सुट्टी! शिक्षण विभागाचे परिपत्रक जारी; 'या' दिवसापासून दिवाळी सुट्टी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-18T00:16:26",
-            "url": "https://maharashtratimes.com/career/career-news/dussehra-official-holiday-maharashtra-schools-on-october-20-for-vijayadashami-planning-for-diwali-holiday/articleshow/135019265.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "f5cd823198c6",
-            "feed": "lokmat",
-            "title": "गाऱ्हाणे घातले तर ते खरे होते- उपमुख्यमंत्री एकनाथ शिंदे",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-17T23:46:24",
-            "url": "https://www.lokmat.com/kalyan-dombivli/eknath-shinde-visits-dombivli-navratri-event-expresses-faith-in-kokan-traditions-for-drought-relief-a-a855-c1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eknath-shinde-visits-dombivli_2026101804595.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "a3287e100fab",
-            "feed": "lokmat",
-            "title": "सिंधुदुर्ग हादरले! महाविद्यालयातून घरी परतणाऱ्या विद्यार्थिनीची चाकूने भोसकून निर्घृण हत्या, मृतदेह ओहोळात फेकला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-17T23:24:51",
-            "url": "https://www.lokmat.com/sindhudurga/20-year-old-college-girl-murdered-in-sindhudurg-police-launch-manhunt-and-tighten-security-a-a456-c1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/college-girl-murdered-in-sindhudurg_2026101804594.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "71f349e964b6",
+            "id": "8a302502ea13",
             "feed": "esakal",
-            "title": "Mangalwedha Crime : जवळ झोपून न देणाऱ्या पत्नीचा रॉकेलने पेटवून खून; पतीस शिक्षा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-17T22:57:12",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/husband-sentenced-for-killed-wife-by-setting-her-on-fire-after-she-refused-to-sleep-close-to-him-mangalwedha-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/my1xaw2o/Court",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ac80847daf62",
-            "feed": "esakal",
-            "title": "Mumbai Crime : सीएसएमटीतून चिमुरडीचे अपहरण! १४ तासांत शोध, अपहरण करणाऱ्या महिलेला अटक; एक वर्षाच्या मुलीला आईच्या स्वाधीन केले",
+            "title": "Maharashtra Rain Alert : दिलासादायक ! राज्यात पाऊस परतणार; कोकण, पश्चिम महाराष्ट्रासह मराठवाड्यात धो धो कोसळणार, १० जिल्ह्यांना येलो अलर्ट",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-17T22:50:46",
-            "url": "https://www.esakal.com/mumbai/little-girl-kidnapped-from-csmt-traced-within-14-hours-kidnapping-woman-arrested-one-year-old-girl-handed-over-to-mother-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
+            "published": "2026-10-18T07:34:03",
+            "url": "https://www.esakal.com/maharashtra/maharashtra-rain-alert-imd-yellow-alert-konkan-west-maharashtra-marathwada-10-districts-thunderstorm-forecast-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/k14vmu9r/Maharashtra-Rain-Alert-.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fa90e220eb4f",
+            "feed": "lokmat",
+            "title": "चहा-नाश्त्यापासून जेवणाच्या थाळीपर्यंत खिशाला आणखी चाट; खाद्यपदार्थांचे दर १० ते १५ टक्क्यांनी वाढण्याची शक्यता",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-18T07:30:09",
+            "url": "https://www.lokmat.com/mumbai/from-tea-and-breakfast-to-dinner-more-pressure-on-the-pocket-food-prices-likely-to-increase-by-10-to-15-percent-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/food-price-hike_2026101804619.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e91fbe084adf",
+            "feed": "maharashtratimes",
+            "title": "Kirit Somaiya: ‘एसआयआर’साठी पुणे भाजपची अपेक्षित मदत नाही; किरीट सोमय्या यांचा घरचा आहेर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-18T07:25:12",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/kirit-somaiya-alleges-pune-bjp-not-supports-for-sir-process/articleshow/135022773.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b08be8644eb9",
+            "feed": "lokmat",
+            "title": "केतन अगरवाल हत्या खटल्यासाठी उज्ज्वल निकम यांची नियुक्ती; पाच हजार ५३ पानांचे दोषारोपपत्र दाखल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-18T07:09:55",
+            "url": "https://www.lokmat.com/pune/ujjwal-nikam-appointed-for-ketan-agarwal-murder-case-5053-page-chargesheet-filed-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ujjwal-nikam-ketan-agarwal-case-1_2026101804615.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e113329d2356",
+            "feed": "lokmat",
+            "title": "३ दिवस छळ, ५ मिनिटांचा ऑडिओ अन् ‘लोकमत’कडे तक्रारीचा इशारा देताच अर्ध्या तासात विमा दावा मंजूर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-18T06:55:57",
+            "url": "https://www.lokmat.com/mumbai/3-days-of-harassment-5-minutes-of-audio-and-insurance-claim-approved-within-half-an-hour-after-warning-of-complaint-to-lokmat-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/insurance-2_2026101804613.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "d6e70906aecd",
+            "id": "27b72fab8378",
             "feed": "maharashtratimes",
-            "title": "अंकभविष्य 18 October 2026: मूलांक 4 खर्च वाढण्याची भीती! मूलांक 6 कामात फोकस करा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "title": "Tharala Tar Mag : अर्जुनच्या सोंगाला भुलून चंदूनेच दिली आयती संधी, सायलीतल्या मंजुळानेही केली कमाल! मुलींच्या खोलीची चावी लागली हाती",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-18T04:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-18-october-navratri-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135020167.cms",
+            "published": "2026-10-18T07:32:01",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/tharala-tar-mag-serial-18-october-2026-episode-sayali-arjun-close-to-kidnapped-girls/articleshow/135022739.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "cc2c6d8bd1f9",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 18 ऑक्टोबर 2026 : गजकेसरी योगाचा या राशींना लाभ,गुरु व मंगळ देणार साथ ! पहा तुमचे राशिभविष्य !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-18T04:00:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-18-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135018869.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "61f71c9be3cf",
-            "feed": "maharashtratimes",
-            "title": "Navaratri 2026: नवरात्रीची आठवी माळ! माता महागौरी पूजाविधी, मुहूर्त, कथा, स्वरूप जाणून घ्या.",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-18T01:20:10",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/navaratri-2026-mahagauri-puja-navratri-eighth-day-marathi/articleshow/135019913.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "dfbd4d21a2fe",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 18 October 2026: श्रीमहालक्ष्मी पूजन, गजकेसरी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-17T23:53:06",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-18-october-2026-in-marathi-mahalaxmi-puja-kanya-pujan-and-shubha-muhurta/articleshow/135017274.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "a2db74b8cf2c",
+            "id": "b3796d0fc3a1",
             "feed": "lokmat",
-            "title": "समर्थ नागरी पतसंस्थेत २.२४ कोटींचा घोटाळा?; सहकार क्षेत्रात खळबळ",
+            "title": "आजचे राशीभविष्य १८ ऑक्टोबर २०२६: मिथुन आणि तूळ राशीला धनलाभ अन् सुखाचे योग, तर 'या' राशींनी रागावर ठेवावा ताबा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-17T23:53:03",
-            "url": "https://www.lokmat.com/vardha/financial-embezzlement-of-rs-224-crore-uncovered-at-samarth-nagarik-credit-society-depositors-rush-to-withdraw-funds-a-a793-c1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gklj_2026091786234.jpg",
+            "published": "2026-10-18T07:27:02",
+            "url": "https://www.lokmat.com/astro/predictions/rashibhavishya-todays-horoscope-october-18-2026-gemini-and-libra-are-likely-to-experience-financial-gains-and-happiness-but-these-zodiac-signs-should-control-their-anger-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhavishya-sunday_202208863659.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "b13c67a45d8d",
+            "feed": "lokmat",
+            "title": "नवरात्र आठवी माळ: शिवप्राप्तीसाठीची कठोर तपस्या ते लखाकते रूप! अशी झाली देवी पार्वतीची ‘महागौरी’!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-18T07:10:01",
+            "url": "https://www.lokmat.com/bhakti/navratri-2026-the-harsh-penance-to-attain-shiva-turned-into-a-dazzling-form-this-is-how-goddess-parvati-became-mahagauri-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahagauri-devi_2026101804337.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7d2363b10c45",
+            "feed": "esakal",
+            "title": "Navratri Day 8: महागौरी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-18T07:00:00",
+            "url": "https://www.esakal.com/blog/mahagauri-devi-navratri-day-8-maha-ashtami-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-12/syq2nntm/Mahagauri-Devi",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c059999ad94c",
+            "feed": "esakal",
+            "title": "आजचे राशिभविष्य - 18 ऑक्टोबर 2026",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-18T07:00:00",
+            "url": "https://www.esakal.com/horoscope/on-this-day-today-rashi-bhavishya-horoscope-in-marathi-18th-october-2026-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-16/jqg2se92/esakal2025-11-039nzjhvy62horoscope.avif",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "87ae51e841c9",
+            "feed": "lokmat",
+            "title": "रशियाकडून तेल-वायू खरेदीवरचे निर्बंध शुल्क ट्रम्प यांनी हटवले! भारतावर १००% अतिरिक्त शुल्काचा धोका टळला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-18T05:40:40",
+            "url": "https://www.lokmat.com/international/trump-lifts-sanctions-on-oil-and-gas-purchases-from-russia-the-risk-of-100-additional-tariffs-on-india-has-been-averted-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/russia-donald-1_2026101804599.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "6db01a186325",
             "feed": "esakal",
@@ -228,25 +244,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "530b3a1644a0",
-            "feed": "esakal",
-            "title": "ना अभिनेत्री, ना मोठी स्टार; तरीही २.५६ कोटी लोकं करतात फॉलो, कोण आहे जन्नत मिर्झा?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-17T18:38:21",
-            "url": "https://www.esakal.com/trending-news/pakistan-jannat-mirza-tiktok-star-256-million-followers-biography-popularity-news-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-17/962owbnx/Jannat-Mirza",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
+        {
+            "id": "92653c4764fc",
+            "feed": "lokmat",
+            "title": "IND vs WI 2026 T20I Series : \"...तर निकाल भारताच्या बाजूने लागला असता!\"; वैभव सूर्यवंशीबद्दलही श्रेयस अय्यर स्पष्टच बोलला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-18T07:27:41",
+            "url": "https://www.lokmat.com/cricket/news/you-have-to-wait-sometimes-shreyas-iyer-on-vaibhav-suryavanshi-not-playing-a-single-match-in-ind-vs-wi-2026-t20i-series-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/you-have-to-wait-sometimes-shreyas-iyer-on-vaibhav-suryavanshi-m-_2026101804617.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "eb4672454c2c",
             "feed": "lokmat",
@@ -278,25 +294,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "62d33b3183d4",
-            "feed": "lokmat",
-            "title": "IND vs WI 5th T20I : वेस्ट इंडिजविरुद्धचा सामना पावसामुळे रद्द! २०२२ नंतर पहिल्यांदाच टीम इंडियावर आली ही वेळ; तेही...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-10-17T22:54:20",
-            "url": "https://www.lokmat.com/cricket/news/india-vs-west-indies-5th-t20i-ind-vs-wi-series-finale-called-off-due-to-rain-trophy-shared-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-west-indies-5th-t20i-ind-vs-wi-series-finale-called-off-due-sm_2026101804590.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "44bd7bf5fe55",
+            "feed": "esakal",
+            "title": "18 ऑक्टोबरचे राशिभविष्य 2026! नोकरी, व्यवसाय, पैसा अन् कुटुंबाबाबत जाणून घ्या आजचे भविष्य",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-18T06:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/daily-horoscope-18-october-2026-marathi-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-17/qh4oglat/1.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "8f3494311ed7",
             "feed": "esakal",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "c8fa1fdbbbcd",
-            "feed": "lokmat",
-            "title": "Dairy Development Project : दुष्काळात पशुपालकांची आर्थिक कोंडी; दुग्धविकास योजनेच्या अटींवर शेतकऱ्यांचा आक्षेप",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-17T20:58:36",
-            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/latest-news-dairy-development-project-financial-dilemma-of-livestock-farmers-during-drought-farmers-object-to-the-conditions-of-the-dairy-development-project-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dairy-development-project-1_2026101804573.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
