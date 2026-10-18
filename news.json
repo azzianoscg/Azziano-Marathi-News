@@ -1,170 +1,234 @@
 {
-    "lastUpdated": "18-10-2026 | 05:46 PM IST",
+    "lastUpdated": "18-10-2026 | 09:43 PM IST",
     "maharashtra": [
         {
-            "id": "b524ec0c135d",
-            "feed": "lokmat",
-            "title": "पिके जगवायची कशी? जनावरांची तहान भागवायची कशी? भीमा नदीकाठचे शेतकरी संकटात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-18T17:26:22",
-            "url": "https://www.lokmat.com/pune/bhima-is-thirsty-farmers-are-waiting-for-ujani-water-issue-for-crops-and-animals-is-on-the-rise-as-riverbeds-dry-up-a-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/datta-bharne-012_2026101804923.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3c0e9961402a",
+            "id": "4d0fa98821df",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update :  नारायण आबा पाटील, उत्तमराव जानकर आणि बाबासाहेब देशमुख महायुतीच्या पाठिशी? जयकुमार गोरेंचा दावा",
+            "title": "Baramati Crime: बारामतीत राणा शिपिंग कंपनीचे प्रमुख राणा सूर्यवंशी यांच्यावर हल्ला; गोळीबाराचा प्रयत्न, हाताला जखम",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-18T17:23:24",
+            "published": "2026-10-18T21:37:31",
+            "url": "https://www.esakal.com/pune/rana-suryawanshi-attacked-near-baramati-airport-gunshot-attempt-and-sharp-weapon-attack-leave-shipping-company-chief-injured-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/ot71z4z3/sudhir-jadhav-satara-27.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "de7c8ee1b36c",
+            "feed": "esakal",
+            "title": "Devendra Fadnavis: पक्षांतर्गत सत्ताबदलात अपयश; मुख्यमंत्री देवेंद्र फडणवीस यांचे उद्धव ठाकरेंना टोला",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-18T21:27:33",
+            "url": "https://www.esakal.com/vidarbha/devendra-fadnavis-takes-a-dig-at-uddhav-thackeray-over-failure-in-internal-power-struggle-and-leadership-change-in-shiv-sena-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/1krnu512/sudhir-jadhav-satara-26.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "55cb6d1e2203",
+            "feed": "esakal",
+            "title": "Chhatrapati Sambhajinagar: बिडकीन, शिवराईतील शीतगृहांवर FDAचा छापा; ४.१९ कोटींचा अन्नसाठा जप्त, दोन्ही संस्थांचे परवाने निलंबित",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-18T21:15:54",
+            "url": "https://www.esakal.com/marathwada/fda-raid-in-bidkin-and-shivrai-cold-storage-units-leads-to-food-stock-worth-419-crore-seizure-and-suspension-of-both-licenses-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/9z6kkqkn/sudhir-jadhav-satara-25.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "3c0e9961402a",
+            "feed": "esakal",
+            "title": "Latest Marathi News Live Update :  जाणून घ्या ! आजच्या दिवसभरातील सर्व महत्वाच्या घडामोडी...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-18T20:56:34",
             "url": "https://www.esakal.com/maharashtra/maharashtra-drought-cjp-mumbai-lehra-do-tiranga-azad-maidan-latur-water-scarcity-fda-reliance-zomato-expired-food-bmc-marathwada-drought-navaratri-durga-puja-coverage-jio-ipo-devendra-fadnavis-diwali-bonus-ymk86-vsw03",
             "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9c65b5fcae84",
+            "id": "24755ace64ed",
             "feed": "esakal",
-            "title": "मनोरीतील निःक्षारीकरण प्रकल्पाविरोधात १९ ऑक्टोबरला मच्छिमारांचा आक्रोश मोर्चा..",
+            "title": "आग्या हो विसरग्या हो’च्या गजरात चक्रपूजेचा जागर नवरात्रोत्सवात ग्रामदेवतेच्या आराधनेची परंपरा; पिढ्यान्‌पिढ्या जपला जाणारा धार्मिक विधी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-18T17:22:53",
-            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i92897-txt-mumbai-today-20261018115253",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/hi8z34g6/mumbai_fallback_image.jpg",
+            "published": "2026-10-18T20:54:27",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/navratri-chakrapuja-traditions",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/1z3ye3ww/Sakal20Wesite20Banner20_20Nashik.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "b444d903afa9",
-            "feed": "esakal",
-            "title": "मुंबईत नोकरी मिळाली, जॉइनिंग करण्याआधीच आक्रीत घडलं, २३ वर्षीय तरुणीला नराधमाने संपवलं, पुलावरून ओढत नेत...; कुडाळमध्ये काय घडलं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-18T17:22:52",
-            "url": "https://www.esakal.com/maharashtra/kudal-crime-youth-killed-23-year-old-girl-by-attacking-sharp-weapon-college-girl-damini-palav-had-been-planning-to-come-to-mumbai-for-job-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/vpgkngmn/Sindhudurg-Crime-Damini-Palav.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "14420ba6173a",
-            "feed": "esakal",
-            "title": "अम्ब्रेला शेल्टर की शोभेच्या",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-18T17:20:32",
-            "url": "https://www.esakal.com/marathwada/aurangabad/police-umbrella-shelters-latur",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/14odye5d/Sakal20Wesite20Banner20_20Ch20Sambhaji20Nagar.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "c5aa9f3b7c99",
-            "feed": "lokmat",
-            "title": "“ज्ञानेश कुमार बेचैन झालेत, काँग्रेस जनतेला न्याय मिळवून देईल”; राहुल गांधींचा गोव्यात एल्गार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-18T17:37:00",
-            "url": "https://www.lokmat.com/goa/rahul-gandhi-addressed-a-rally-in-madgaon-gao-said-gyanesh-kumar-is-restless-they-knew-congress-will-provide-justice-to-the-people-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahul-gandhi-goa-rally_2026101804924.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1a1f6b825e3a",
+            "id": "95fa02022286",
             "feed": "esakal",
-            "title": "'आंब्यावानी नाव तुझं गोड बाई,जोगवा वाढ माई' गाण्यावर ऐश्वर्या नारकर यांचा सुंदर डान्स; हावभाव पाहून नेटकरी म्हणाले-",
+            "title": "सिरॅमिक की विट्रिफाइड... घर बांधकामासाठी कोणती टाईल उत्तम?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-18T17:30:57",
-            "url": "https://www.esakal.com/premier/aishwarya-narkar-dances-to-aambyavani-naav-tujha-goad-bai-jogwa-vaadh-mai-song-and-wins-praise-for-her-expressions-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/jgx7utou/aishwarya-narkar-dance-on-ambabai-mazi-tu-maay-ga.png",
+            "published": "2026-10-18T21:33:00",
+            "url": "https://www.esakal.com/ampstories/web-story/what-are-ceramic-and-vitrified-tiles-know-which-type-of-tile-is-best-for-home-construction-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/uh8lcbvf/Ceramic-vs-Vitrified-Tiles.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "85e6231d3ca1",
+            "feed": "lokmat",
+            "title": "Dussehra 2026 Special: दूध उकळताना बासुंदी फुटते- जळका वास येतो? ५ टिप्स- बासुंदी होईल घट्ट, दसऱ्याला करा बेत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-18T21:30:02",
+            "url": "https://www.lokmat.com/sakhi/photos/food/dussehra-2026-special-basundi-recipe-how-to-make-thick-and-creamy-basundi-at-home-tips-to-prevent-basundi-from-splitting-a-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/creamy-basundi-tips_2026101804887.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "9599d05b0e00",
+            "feed": "maharashtratimes",
+            "title": "Tiger Shroff Video : टायगर श्रॉफची गाडी मैदानाच्या गेटमधून निघाली आणि ठाय, ठाय, ठाय..., कॅमेऱ्यात कैद झाला गोळबाराचा थरार",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-18T21:21:57",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/attack-on-actor-tiger-shroff-car-incident-captured-in-camera/articleshow/135031207.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e640a72c02a7",
+            "id": "49ad4e2a0fae",
             "feed": "esakal",
-            "title": "Numerology: निर्णय घेताना नेहमी असतात गोंधळलेले; 'या' मूलांकाचे लोक गमावतात हातात आलेली मोठी संधी!",
+            "title": "Maharashtrachi Hasyajatra : कष्टाच्या पैशातून घेतला महागडा फोन अन् सुरू झाली टीका; गौरव मोरेच्या त्या उत्तराने जिंकली चाहत्यांची मने",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-18T17:19:31",
-            "url": "https://www.esakal.com/culture-and-religion/numerology-mulank-4-decision-making-confusion-overthinking-marathi-news-career-opportunities-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/bco4a1ij/Numerology-Why-Mulank-4-People-Struggle-With-Big-Decisions.png",
+            "published": "2026-10-18T21:19:39",
+            "url": "https://www.esakal.com/premier/actor-gaurav-more-befitting-reply-to-troller-over-skin-color-body-shaming-after-buying-iphone-18-pro-marathi-entertainment-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/ebo504jo/Esakal-3.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "d2f7cb6c2e07",
+            "id": "82db8bc4a4ad",
             "feed": "lokmat",
-            "title": "Shraddha Dubey : \"श्रीमंतांना बनवायची शिकार, श्रद्धाकडे ७०० रुपयेही नव्हते पण जीवनशैली...\"; ड्रायव्हरचा खळबळजनक दावा",
+            "title": "Dusshera 2026 : ओठांनी खाल अशी मऊ, गुबगुबीत पुरणपोळी करण्याच्या १० ट्रिक्स, एकही पोळी बिघडणार नाही",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-18T17:06:46",
-            "url": "https://www.lokmat.com/photos/crime/shiva-sharma-murder-case-shraddha-dubey-driver-beans-she-target-the-wealthy-rich-person-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shraddha-dubey-driver_2026101804915.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "7218e606f7b0",
-            "feed": "lokmat",
-            "title": "लग्न ठरलं, केस वाढवायचे आहेत? लावा आजीबाईच्या बटव्यातील 'हे' तेल, खास देसी उपाय- वेणी होईल जाडजूड",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-18T17:00:02",
-            "url": "https://www.lokmat.com/sakhi/beauty/best-hair-oil-for-hair-growth-before-wedding-grandmas-home-remedies-for-hair-growth-natural-hair-care-tips-for-brides-to-be-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/best-oil-for-long-thick-braid_2026101804846.jpeg",
+            "published": "2026-10-18T21:10:59",
+            "url": "https://www.lokmat.com/sakhi/photos/food/dusshera-2026-dusshera-special-puranpoli-recipe-how-to-make-soft-perfect-puranpoli-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-18-at-1.59.05-pm_2026101804995.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "b02cee856b27",
+            "feed": "esakal",
+            "title": "CEC Gyanesh Kumar Row : देशातील संघर्ष आता आंतरराष्ट्रीय स्तरावर! लंडनमधून ध्रुव राठीचा थेट हल्लाबोल, म्हणाला...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-18T20:51:37",
+            "url": "https://www.esakal.com/global/youtuber-dhruv-rathee-london-protest-british-parliament-nri-demands-cec-gyanesh-kumar-resignation-world-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/13zhiiar/Esakal-1.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "438ad6d398c5",
+            "feed": "maharashtratimes",
+            "title": "France's Supermarket Fridge Hack: Cyber Attack करून तापमान वाढवले, आगही लावली, तुमचा फ्रिज Safe आहे?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-18T19:58:45",
+            "url": "https://maharashtratimes.com/video/mt-originals/france-smart-fridge-hack-cyber-attack-supermarkets-iot-security/videoshow/135030425.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "6defa1a6f564",
+            "feed": "lokmat",
+            "title": "\"सह-वैमानिकावर जराही संशय नव्हता, जर...\"; मच्छार यांचा मोठा खुलासा, सांगितला सर्वात भीतीदायक क्षण!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-18T19:21:31",
+            "url": "https://www.lokmat.com/international/the-co-pilot-had-no-suspicion-captain-smit-machchhar-reveals-flydubai-cockpit-attack-details-most-frightening-moment-recounted-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/smit-machhar-rewards-sd_2026101804992.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f430cd21aa3c",
+            "feed": "maharashtratimes",
+            "title": "Global Protest: अमेरिका, फ्रान्स आणि इटलीसह ८ देशात रस्त्यावर उतरले नागरिक, कारण काय?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-10-18T17:50:03",
+            "url": "https://maharashtratimes.com/international/international-news/global-protest-in-8-country-what-is-reason/articleshow/135028404.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "b697667470a0",
             "feed": "esakal",
@@ -180,170 +244,106 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-18/vq8bb25b/France-Inflation-Protest",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "df87f40851a0",
-            "feed": "lokmat",
-            "title": "Karnika Movie: ‘कर्णिका’ देवी कोण होती? नवरात्रीच्या मुहुर्तावर भूषण कुमार यांची निर्मिती असलेल्या चित्रपटाची घोषणा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-18T17:15:28",
-            "url": "https://www.lokmat.com/filmy/bollywood/karnika-movie-announcement-produced-by-bhushan-kumar-who-is-karika-devi-a-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/karnika-movie-announcement-produced-by-bhushan-kumar-who-is-karika-devi_2026101804920.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "fb56d0836e28",
-            "feed": "lokmat",
-            "title": "\"आजच आंदोलन थांबेल, फक्त...!\"; लंडनमधून ध्रुव राठीची घोषणा, पण ठेवली मोठी अट",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-18T17:00:19",
-            "url": "https://www.lokmat.com/international/dhruv-rathee-demands-gyanesh-kumar-resignation-from-london-england-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jkyufkfv_2026101804910.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "55741b266999",
-            "feed": "esakal",
-            "title": "Menopause Myths & Facts: तिशीनंतर शरीरात होणारे 'हे' बदल मेनोपॉजची लक्षणे की आणखी काही? जाणून घ्या रजोनिवृत्तीविषयी...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-18T16:17:48",
-            "url": "https://www.esakal.com/health/world-menopause-day-2026-myths-and-facts-women-health-marathi-news-periods-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/24m8ufgu/World-Menopause-Day-2026-5-Common-Menopause-Myths-Facts.png",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "f73146e375b6",
-            "feed": "lokmat",
-            "title": "“पाकिस्तान सैन्यानेच दहशतवादी तयार केले, पैसाही पुरवला”; आंतरराष्ट्रीय कोर्टात मोठी साक्ष",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-18T16:03:48",
-            "url": "https://www.lokmat.com/international/pakistan-army-created-terrorists-provided-money-major-testimony-in-international-court-of-justice-a-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-shahbaz-0210_2025101556159.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "3ca72bbe525d",
-            "feed": "lokmat",
-            "title": "काव्या मारन २५ हजार कोटींची मालकीण, तिच्यासमोर होणाऱ्या पतीची संपत्ती आहे अगदीच किरकोळ, अनिरुद्ध रायचंदरची कमाई किती?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-10-18T17:14:14",
-            "url": "https://www.lokmat.com/cricket/news/kavya-maran-is-the-owner-of-25-thousand-crores-her-future-husbands-wealth-is-very-small-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kavya-maran-property-2_2026101804919.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3bc09bce555c",
-            "feed": "maharashtratimes",
-            "title": "Shreyas Iyer : 'मी वैभवला नेहमी एक गोष्ट सांगत आलोय'; वेस्ट इंडिज मालिकेनंतर श्रेयर अय्यर याचा मोठा खुलासा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-10-18T16:42:55",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/shreyas-iyer-big-statement-on-vaibhav-suryavanshi-after-wi-series/articleshow/135026846.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "01e138d2efc1",
+            "id": "fe10391e3a97",
             "feed": "esakal",
-            "title": "RANJI TROPHY: न्यूझीलंड दौऱ्याआधी शुभमन गिलचा रणजीत फ्लॉप शो! १ रनवर बोल्ड करणारा अजय मंडल आहे तरी कोण?",
+            "title": "IND W vs ZIM W, 2nd T20I: शफालीचं वादळी अर्धशतक अन् स्मृतीचंही आक्रमण, भारताने विजयासह मालिकाही टाकली खिशात",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-18T14:55:40",
-            "url": "https://www.esakal.com/krida/cricket/shubman-gill-out-for-1-run-ranji-trophy-who-is-ajay-mandal-punjab-vs-chhattisgarh-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/jpyx49mp/virat-rohit.jpg",
+            "published": "2026-10-18T21:34:41",
+            "url": "https://www.esakal.com/krida/cricket/india-women-vs-zimbabwe-women-2nd-t20i-raipur-match-shafali-verma-smriti-mandhana-9-wicket-win-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/hfceig1j/Smriti-Mandhana-Shafali-Verma-India-Women-vs-Zimbabwe-Women-2nd-T20I.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6b817a693e0f",
+            "feed": "esakal",
+            "title": "IND W vs ZIM W: भारताचा अचूक माऱ्यासमोर झिम्बाब्लेला १०० धावा पार करतानाही आले नाकेनऊ; मानधनाच्या संघासमोर सोपं लक्ष्य",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-18T20:53:21",
+            "url": "https://www.esakal.com/krida/cricket/india-women-vs-zimbabwe-women-2nd-t20i-raipur-match-update-indian-bowling-restricts-zimbabwe-to-102-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/zr34yylg/India-Women-vs-Zimbabwe-Women-2nd-T20I.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8c3950db98b3",
+            "feed": "esakal",
+            "title": "IND vs WI: २ शतकं, २६१ धावा...!  'शे होपला रोखणं होतं कठीण...' कर्णधार अय्यरनेही केलं मान्य; वैभव सूर्यवंशीला न खेळवण्याबद्दल म्हणाला...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-18T19:58:14",
+            "url": "https://www.esakal.com/krida/cricket/india-vs-west-indies-t20-series-ends-2-2-as-shai-hope-scores-261-runs-and-shreyas-iyer-explains-vaibhav-sooryavanshis-missed-opportunity-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/hsr5ijyu/Shreyas-Iyer-Opens-Up-on-Vaibhav-Sooryavanshi-Shai-Hope.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "84376e5206fe",
+            "id": "af905de4fc20",
             "feed": "lokmat",
-            "title": "Vanrai Bandhare : पाणीटंचाई टाळण्यासाठी आतापासूनच नियोजन; नागपूर जिल्ह्यात १ हजार बंधारे, २५ हजार जलतारे उभारणार",
+            "title": "जगभर फिरा, भन्नाट Reels बनवा आणि वर्षाला कमवा ९५ लाख रुपये! 'या' कंपनीची मोठी ऑफर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-10-18T20:50:30",
+            "url": "https://www.lokmat.com/business/news/travel-the-world-make-awesome-reels-and-earn-rs-95-lakh-a-year-big-offer-from-ya-company-last-date-for-application-is-near-a-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/virgin-group-job_2026101805011.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3f508f45bf53",
+            "feed": "lokmat",
+            "title": "Nuksan Bharpai : शेतकऱ्यांनो, दुष्काळी नुकसानभरपाईचा लाभासाठी ग्रामसेवकाकडे ही कागदपत्रे जमा करा!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-18T17:00:35",
-            "url": "https://www.lokmat.com/agriculture/weather/latest-news-vanrai-dam-planning-is-underway-to-avoid-water-shortage-1000-dams-and-25000-water-towers-will-be-constructed-in-nagpur-district-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vanrai-bandhare-1_2026101804909.jpg",
+            "published": "2026-10-18T20:35:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/nuksan-bharpai-farmers-submit-these-documents-to-the-gram-sevak-to-benefit-from-drought-compensation-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mdt-chara_2026101804998.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "2a2b54198b81",
+            "id": "f7f209900b0a",
             "feed": "maharashtratimes",
-            "title": "सेवानिवृत्त झाल्यावर हातात असतील 1 कोटी रुपये! कर्मचाऱ्यांच्या वयानुसार गुंतवणुकीचे गणित समजून घ्या",
+            "title": "रशियन तेल नको म्हणणाऱ्यांचे सूर बदलले! आधी निर्बंध लादले, आता थेट वाढवला खरेदीचा जोर",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-10-18T16:48:35",
-            "url": "https://maharashtratimes.com/business/business-news/retirement-fund-1-crore-investment-strategy-calculation-10-compound-interest-rate/articleshow/135027665.cms",
+            "published": "2026-10-18T20:08:27",
+            "url": "https://maharashtratimes.com/business/business-news/india-russian-crude-oil-refined-fuel-exports-to-western-countries-increased-by-43-percentages/articleshow/135030250.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "d303e56bdd6f",
-            "feed": "esakal",
-            "title": "दसऱ्यापासून ३ राशींना अच्छे दिन? धनलाभासह नव्या संधींचे संकेत",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-18T16:44:02",
-            "url": "https://www.esakal.com/ampstories/web-story/dussehra-2026-horoscope-mesh-tula-dhanu-rashi-new-opportunities-career-business-finance-luck-marathi-astrology-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/gb3xu0qw/1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ]
 }
