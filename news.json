@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "19-10-2026 | 03:32 AM IST",
+    "lastUpdated": "19-10-2026 | 06:06 AM IST",
     "maharashtra": [
+        {
+            "id": "c14b7a5f0693",
+            "feed": "lokmat",
+            "title": "कोल्हापुरात अंबाबाईच्या दर्शनासाठी भाविकांचा महापूर; दिवसात दीड लाख तर सात दिवसात अकरा लाख भाविक नतमस्तक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-19T05:58:25",
+            "url": "https://www.lokmat.com/kolhapur/a-flood-of-devotees-came-to-kolhapur-for-the-darshan-of-ambabai-15-lakh-devotees-in-a-day-and-11-lakh-in-seven-days-a-a292-c1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kolhapur-mahalaxmi-temple_2026101805036.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "40120fe7ab02",
             "feed": "lokmat",
@@ -64,102 +80,86 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kltyilgk_2026101805028.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "e2cc0f925536",
-            "feed": "maharashtratimes",
-            "title": "Baramati News : मुंबईत टायगर श्रॉफच्या गाडीवर हल्ला, तर बारामती विमानतळाजवळ उद्योजकावर हल्ला",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-18T22:23:53",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/attack-on-businessman-rana-surywanshi-near-baramati-airport/articleshow/135031945.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "5d45989a0745",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 19 October 2026: दुर्गाष्टमी, महानवमी, सर्वार्थ सिद्धि योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-19T00:14:36",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-19-october-2026-in-marathi-durga-ashtami-mahanavmi-and-shubha-muhurta/articleshow/135032046.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8dbf4a509e57",
-            "feed": "maharashtratimes",
-            "title": "PMMVY Scheme : गर्भवती महिलांसाठी केंद्र सरकारची विशेष योजना! सरकारकडून मिळते आर्थिक मदत",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-18T23:02:08",
-            "url": "https://maharashtratimes.com/government-schemes/central-government-policy/pm-matru-vandan-government-scheme-for-pregnant-ladies-get-subsidy-upto-6000-rs/articleshow/135032778.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "1099898bf052",
+            "id": "2773c2e11cca",
             "feed": "esakal",
-            "title": "भृंगराज तेल लावल्याने केस वाढतात का? सात दिवसांत केस वाढण्याबाबत जाणून घ्या सत्य!",
+            "title": "19 ऑक्टोबर 2026 राशिभविष्य ! जाणून घ्या कोणत्या राशींसाठी दिवस ठरणार खास?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-18T22:54:32",
-            "url": "https://www.esakal.com/ampstories/web-story/does-bhringraj-oil-help-hair-growth-in-seven-days-truth-about-bhringraj-oil-for-hair-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/erhbs9fq/Bhringaraj-for-Hair-Growth-1.jpg",
+            "published": "2026-10-19T06:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/daily-horoscope-19-october-2026-marathi-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/vdru6i4k/1.jpg.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "104cf1853b48",
+            "id": "a64032d30264",
             "feed": "maharashtratimes",
-            "title": "Amruta Bane Interview : दिवंगत अभिनेत्री अश्विनी एकबोटे यांचं अखेरचं स्वप्न, लेक शुभंकर आता पत्नी अमृता बनेच्या सोबतीने करणार पूर्ण",
+            "title": "नवीन फोन घेतलाय? जुने Google Pay, PhonePe नवीन मोबाईलमध्ये असे करा सुरक्षितपणे सुरू",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-18T22:46:36",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/amruta-bane-shubhankar-ekbote-fulfill-late-actress-ashwini-ekbote-last-dream/articleshow/135032061.cms",
+            "published": "2026-10-19T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/switched-to-a-new-mobile-here-is-how-to-safely-set-up-google-pay-and-phonepe-on-your-new-device/articleshow/135013269.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "310078c2e81a",
-            "feed": "esakal",
-            "title": "पुढच्या २१ दिवसांत ३ राशींना धनलाभाची संधी, करिअर अन् व्यवसायात होऊ शकते प्रगती",
+            "id": "e4e0fcb9dfd2",
+            "feed": "lokmat",
+            "title": "सौदीचे क्राउन प्रिन्स खरंच बंकरमध्ये लपले आहेत? का आली अशी वेळ?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-18T22:34:25",
-            "url": "https://www.esakal.com/culture-and-religion/mercury-retrograde-2026-three-zodiac-signs-may-see-career-and-financial-benefits-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/tu8kdqxf/Mercury-Retrograde-2026",
+            "published": "2026-10-19T05:50:18",
+            "url": "https://www.lokmat.com/editorial/is-the-saudi-crown-prince-really-hiding-in-a-bunker-why-has-this-time-come-a-a284-c1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/prince-salman-1_2026101805034.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "e58fe9029084",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 19 October 2026: मूलांक 2, 3, 4 सह या मूलांकांनी नातेसंबंध जपा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-19T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-19-october-navratri-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135034967.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "88c5277dc90f",
+            "feed": "maharashtratimes",
+            "title": "Shardiya Navratri 2026 Day 9 : नवरात्रीची नववी माळ ! देवी सिद्धिदात्री पूजा ।। पूजाविधि, मंत्र, आरती,नैवेद्य आणि देवीचे स्वरुप !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-19T03:59:05",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/shardiya-navratri-2026-nine-day-devi-siddhidatri-puja-vidhi-aarti-mantra-and-katha/articleshow/135029834.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
