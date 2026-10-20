@@ -1,201 +1,217 @@
 {
-    "lastUpdated": "20-10-2026 | 11:02 AM IST",
+    "lastUpdated": "20-10-2026 | 04:08 PM IST",
     "maharashtra": [
         {
-            "id": "74aebc5825db",
+            "id": "291d831a1b9f",
             "feed": "esakal",
-            "title": "Pune News: मुलाचा स्वतंत्र पोटगीचा अधिकार मान्य; तरीही पुणे न्यायालयाने याचिका फेटाळली, नेमकं कारण काय?",
+            "title": "ना कोणता आजार, ना प्रकृतीची तक्रार! गरबा खेळताना ३० वर्षीय तरुणाचा मृत्यू; छातीत अचानक कळ आली अन्...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-20T10:59:20",
-            "url": "https://www.esakal.com/pune/pune-family-court-rejects-child-maintenance-plea-despite-recognizing-independent-right-to-maintenance-after-divorce-settlement-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-20/csuz1iwh/sudhir-jadhav-satara-12.jpg",
+            "published": "2026-10-20T16:04:24",
+            "url": "https://www.esakal.com/mumbai/mira-bhayandar-30-years-old-youth-dies-while-playing-garba-due-to-heart-attack-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-20/4zogxpeb/Mira-Bhayandar-Youth-Dies-While-Playing-Garba.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4eb16bd1d5b0",
-            "feed": "esakal",
-            "title": "बारामतीत उद्योजकावर हल्ला प्रकरणी भाजप नेत्याच्या भावाला घेतलं ताब्यात, तपासाला वेग",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-20T10:50:25",
-            "url": "https://www.esakal.com/pune/baramati-businessman-attack-bjp-leader-s-brother-detained-from-karmala-in-rana-suryavanshi-assault-case-probe-intensifies-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-20/pi58aq1d/rana-suryawanshi.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "fea53b994cdc",
-            "feed": "lokmat",
-            "title": "\"...तर मग तुम्हीच गुन्हेगार असाल\", टायगरवरील गोळीबार प्रकरणानंतर मुंबई पोलिसांवर अभिनेता भडकला, असं काय म्हणाला?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-20T10:36:06",
-            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-actor-vidyut-jamwal-reaction-on-tiger-shroff-mumbai-firing-incident-questions-to-fans-video-goes-viral-a-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vidyut-jamwal_2026101805837.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "c6d983e1027b",
-            "feed": "esakal",
-            "title": "Pune Municipal Corporation: नियमांना फाटा देत पदभरती; पुणे महापालिकेत कमी केलेल्या ४५ कर्मचाऱ्यांच्या फेरनियुक्तीचा घाट",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-20T10:33:42",
-            "url": "https://www.esakal.com/pune/pune-municipal-corporation-recruitment-plan-for-45-former-encroachment-inspectors-raises-questions-over-hiring-rules-and-transparency-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-20/g9xz7pcn/sudhir-jadhav-satara-11.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "99c00cb08492",
-            "feed": "lokmat",
-            "title": "अपघाताचा बनाव करून पुण्याच्या कारचालकाला लुटले; चालकाकडील रोकड आणि कारची चावी हिसकावली",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-20T10:32:48",
-            "url": "https://www.lokmat.com/navi-mumbai/pune-car-driver-robbed-by-faking-an-accident-cash-and-car-keys-snatched-from-driver-a-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rob_2026101805836.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "51ed8383c040",
-            "feed": "esakal",
-            "title": "Premium|India and Southeast Asia Relations : भारत आणि आग्नेय आशियाचे प्राचीन रक्तसंबंध; स्थलांतराचा इतिहास काय सांगतो?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-20T11:00:00",
-            "url": "https://www.esakal.com/premium-article/india-southeast-asia-ancient-migration-historical-blood-relations-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-19/9o1tkbv6/Abhi-57.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "c3ff92caef8d",
+            "id": "ab362e310ae9",
             "feed": "maharashtratimes",
-            "title": "Gwalior Accident : 12 वर्ष प्रार्थना, दोन मुलांचा जन्म, पण नियतीची क्रूर थट्टा, ट्रक अपघातात दोन्ही लेकरांचा करुण अंत, मायबापाचा काळीज पिळवटणारा टाहो",
+            "title": "Manoj Jarange : मनोज जरांगे यांचा एकनाथ शिंदे यांचं नाव घेत 500 कोटींचा आरोपांचा बॉम्ब, नेमकं काय म्हणाले?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-10-20T10:58:31",
-            "url": "https://maharashtratimes.com/india-news/madhya-pradesh-man-vidyaram-tyagi-prayed-12-years-for-sons-lost-both-in-gwalior-temple-truck-crash/articleshow/135061845.cms",
+            "published": "2026-10-20T15:57:58",
+            "url": "https://maharashtratimes.com/maharashtra/beed/manoj-jarange-patil-serious-allegation-of-500-crores-asked-questions-to-eknath-shinde/articleshow/135067700.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
+        {
+            "id": "30af9314bb4e",
+            "feed": "lokmat",
+            "title": "इलेक्ट्रॉनिक वस्तूंचे दर १०% पर्यंत वाढले, तरी पुणेकरांची खरेदी जोरात..! दसऱ्याला बाजारपेठेत उत्साह",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-20T15:55:43",
+            "url": "https://www.lokmat.com/pune/even-though-the-prices-of-electronic-goods-have-increased-by-up-to-10-punekars-are-buying-in-full-swing-excitement-in-the-market-on-dussehra-a-a1008/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ev-0123_2026101805966.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b43ed25c0f93",
+            "feed": "esakal",
+            "title": "धरणांचे आवर्तन सोडताना बैठक का घेतली नाही? आमदार लहामटे आक्रमक",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-20T15:51:36",
+            "url": "https://www.esakal.com/pune/akole-water-release-meeting-issue",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-20/01avpl85/Banner1.png",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f131c6680f5a",
+            "feed": "esakal",
+            "title": "नेहरू चौक मित्र मंडळात शस्त्रपूजन सोहळा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-20T15:50:27",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nehru-chowk-weapon-worship-2023",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-20/4uzhucqi/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
         {
             "id": "e51ad5e10a51",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : आजच्या दिवशी एकमेकाला वाईट बोलण्याची भावना नसावी : जरांगे पाटील",
+            "title": "Latest Marathi News Live Update : शिक्षक व पदवीधर निवडणुकीसाठी मतदानाची सवलत; शासकीय कर्मचाऱ्यांना भरपगारी रजा!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-20T10:55:33",
+            "published": "2026-10-20T16:08:13",
             "url": "https://www.esakal.com/desh/dasara-melava-shivsena-shinde-thackeray-beed-pankaja-munde-manoj-jarange-patil-rss-vijaya-dashami-gokul-election-weather-updates-20-oct-2026-ssy93-vsw03",
             "image": "https://cf-images.assettype.com/esakal/2024-12-15/87gtoomj/live-update.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "ab7bbce40b8e",
+            "id": "63185393e778",
             "feed": "esakal",
-            "title": "मशरूम अन् भोपळ्याची ही रेसिपी खाल्लीये कधी? ऐश्वर्या नारकरांनी शेअर केला व्हिडीओ, नेटकऱ्यांना आठवले सह्याद्री वाहिनीचे दिवस",
+            "title": "Dussehra 2026: दसऱ्याला सोनं म्हणून आपट्याचीच पानं का देतात? राजा रघु आणि कुबेराची ही पौराणिक कथा जाणून घ्या",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-20T10:46:50",
-            "url": "https://www.esakal.com/premier/aishwarya-narkar-shares-healthy-mushroom-and-pumpkin-soup-recipe-video-reminding-fans-of-sahyadri-tv-cooking-shows-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-20/omnu3dqm/aishwarya-narkar-.png",
+            "published": "2026-10-20T16:01:08",
+            "url": "https://www.esakal.com/culture-and-religion/why-are-apta-leaves-given-as-gold-on-dussehra-raja-raghu-and-kuber-mythological-story-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-20/88qc0uvb/Dussehra-Apta-Leaves-tradition-Story.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "16f516e75962",
-            "feed": "maharashtratimes",
-            "title": "CET Cell: 'एमएचटी-सीईटी २०२७' च्या खोट्या पॉडकास्टवरून गोंधळ! सीईटी कक्षाकडून 'गुगल इंडिया'सह यूट्यूबरला नोटीस",
+            "id": "5b777e39a045",
+            "feed": "esakal",
+            "title": "Premium|Uniform Code for Pharmaceutical Marketing Practices : डॉक्टरांना औषध कंपन्यांकडून प्रलोभने ; सर्वोच्च न्यायालयाच्या हस्तक्षेपामुळे काय बदलणार?",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-20T10:38:06",
-            "url": "https://maharashtratimes.com/career/career-news/cet-cell-takes-strong-action-against-false-information-notice-issued-to-youtuber-and-google-india/articleshow/135061752.cms",
-            "image": "",
+            "published": "2026-10-20T16:00:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/pharmaceutical-marketing-code-supreme-court-doctor-benefits-patient-safety-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-19/wejakx4r/Abhi-59.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "7c3ec3f78c91",
+            "feed": "lokmat",
+            "title": "\"हार्ट अटॅक आला असं वाटलं...\"; टायगरवरील हल्ल्यात गोळी लागलेल्या Vlogger चा भयंकर अनुभव, आईने केलं मदतीचं आवाहन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-20T15:58:05",
+            "url": "https://www.lokmat.com/filmy/bollywood/vlogger-shot-near-tiger-shroffs-car-firing-attack-says-actors-mother-assured-help-a-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vlogger-shot-near-tiger-shroffs-car-firing-attack-says-actors-mother-assured-help_2026101805962.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "68fed203e5fc",
+            "feed": "lokmat",
+            "title": "\"... तर मी गाणे सोडेन\", दलेर मेहंदीवरील 'त्या' आरोपानंतर मिका सिंग भडकला, व्हिडीओ शेअर करत मांडली बाजू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-20T15:55:14",
+            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-singer-mika-singh-defend-daler-mehndi-amid-allegations-of-drinking-alcohol-claim-during-live-performance-in-uttarakhand-a-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mika-singh-on-daler-mehndi_2026101805965.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
     ],
     "world": [
         {
-            "id": "79b6a9dc50ee",
-            "feed": "lokmat",
-            "title": "आखातात मोठा भडका! इराणने होर्मुझच्या सामुद्रधुनीत अमेरिकेचे 'स्काय आय' क्षेपणास्त्र पाडले",
+            "id": "f57d6e86517a",
+            "feed": "maharashtratimes",
+            "title": "Protest in Europe : Iran वर निर्बंध लादणारे युरोपीय देश अराजकतेकडे! Italy, france, portugal पेटलं",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-20T15:59:45",
+            "url": "https://maharashtratimes.com/video/mt-originals/protest-in-europe/videoshow/135067870.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "d6300ecaa569",
+            "feed": "maharashtratimes",
+            "title": "स्वर्गाच्या नावाखाली मुलांना उपाशी ठेवून मारायचा, जंगलात 400हून अधिक कबर सापडले,  हादरवणारी कहाणी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-10-20T10:55:34",
-            "url": "https://www.lokmat.com/international/big-flare-up-in-the-gulf-iran-shoots-down-us-sky-eye-missile-in-the-strait-of-hormuz-a-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-shot-us-mq-9-reaper-over-strait-of-hormuz_2026101805839.jpg",
+            "published": "2026-10-20T14:09:27",
+            "url": "https://maharashtratimes.com/international/international-news/kenya-massacre-children-starved-to-death-in-name-of-heaven-over-400-graves-discovered-in-forest/articleshow/135064824.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "792523fa9bca",
-            "feed": "lokmat",
-            "title": "Tiger Shroff Car Firing Case : \"रेहान जेवताना...\"; आईने सांगितलं २ लाखांच्या आमिषाने कसा बनला टायगर श्रॉफ प्रकरणातील शूटर?",
+            "id": "549377641abf",
+            "feed": "maharashtratimes",
+            "title": "Crime News : दुकानात घुसल्याच्या रागातून गाडीने उडवलं, 14 वर्षांच्या मुलाचा तडफडून मृत्यू, भारतीय वंशाच्या तरुणाला अमेरिकेत अटक",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
             },
-            "published": "2026-10-20T09:38:22",
-            "url": "https://www.lokmat.com/crime/tiger-shroff-car-firing-case-rehan-mother-sonipat-2-lakh-offer-and-enter-crime-world-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rehan-mother_2026101805808.jpg",
+            "published": "2026-10-20T12:45:41",
+            "url": "https://maharashtratimes.com/international/international-news/indian-origin-florida-store-owner-kavan-patel-murders-minor-boy-hits-and-runs-after-he-broke-into-shop/articleshow/135063148.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
             "id": "b43434510853",
@@ -212,22 +228,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-20/emgwfc4s/US-President-Donald-Trump-faces-declining-approval-ratings-with-a-Reuters-Ipsos-poll-showing-31-approval-and-Democrats-leading-Republicans-in-voter-preference-ahead-of-the-November-3-2026-US-midterm-elections.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "695d6610e33d",
-            "feed": "lokmat",
-            "title": "Kim Jong Un Alive: हुकूमशाह किम जोंग उन जिवंत! ब्रेन हॅमरेजमुळे मृत्यू झाल्याच्या अफवा; उत्तर कोरियाने थेट पुरावेच दिले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-20T08:55:00",
-            "url": "https://www.lokmat.com/international/kim-jong-un-death-rumours-north-korea-photos-exhibition-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kim-jong-un-death-rumours_2026101805785.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         },
         {
             "id": "ad929b7eef13",
@@ -248,102 +248,102 @@
     ],
     "sports": [
         {
-            "id": "9c15af53492b",
-            "feed": "lokmat",
-            "title": "WPL Auction 2027 Players List : सोफिया अन् सोफीची मूळ किंमत सर्वाधिक; पाहा संपूर्ण यादी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-10-20T10:31:24",
-            "url": "https://www.lokmat.com/cricket/news/wpl-2027-full-list-of-146-players-registered-for-auction-for-27-available-slots-kamalini-sophia-dunkley-sophie-molineux-jonassen-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wpl-auction-2027-player-list-m-_2026101805829.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0233332f6d06",
+            "id": "da74a92c3adf",
             "feed": "esakal",
-            "title": "साक्षीला आईस्क्रीम खाऊ घालायला गेला धोनी, पण पुढे जे केलं ते पाहून हसू आवरणार नाही! VIDEO व्हायरल",
+            "title": "Shafali Varma: शफाली वर्मावर ICC ची करवाई! झिम्बाब्वेविरुद्धच्या दुसऱ्या सामन्यात रागात केलं होतं चुकीचं कृत्य, नेमकं काय?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-20T10:17:57",
-            "url": "https://www.esakal.com/krida/cricket/ms-dhoni-sakshi-ice-cream-funny-video-viral-jamnagar-navratri-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-20/hknnzpen/cricket-news-6.jpg",
+            "published": "2026-10-20T15:01:58",
+            "url": "https://www.esakal.com/krida/cricket/shafali-verma-punished-by-icc-for-throwing-ball-in-frustration-against-zimbabwe-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-20/s1teo2sf/Shafali-Verma-punished-for-throwing-ball-against-Zimbabwe",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "69d02b999b13",
+            "id": "c68cc65a6378",
             "feed": "esakal",
-            "title": "IND vs NZ 1st T20: भारत-न्यूझीलंडचा पहिला टी-२० सामना कुठे अन् कधी पाहता येणार? LIVE Streaming, वेळ अन् TV चॅनेलची माहिती जाणून घ्या",
+            "title": "RISHABH PANT: वनडे-टी-२०मध्ये ऋषभ पंतचा पत्ता कट, पण रवी शास्त्रींचा वेगळाच सल्ला! म्हणाले, ‘त्याने फक्त…’",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-20T09:14:02",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-new-zealand-1st-t20-live-streaming-telecast-match-time-2026-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-20/i2igjz8r/cricket-news-5.jpg",
+            "published": "2026-10-20T13:36:05",
+            "url": "https://www.esakal.com/krida/cricket/rishabh-pant-odi-t20-future-ravi-shastri-advice-team-india-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-20/wr6k2xui/rishabha-pant.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "baf3515ce1bb",
+            "feed": "maharashtratimes",
+            "title": "Pragyan Ojha : फक्त 1 कसोटी मॅचने ओझा यांचे वाचले अध्यक्षपद, नाहीतर कोण होणार होतं चीफ सिलेक्टर? जाणून घ्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-10-20T13:22:07",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/bcci-one-test-mtch-rule-saved-pragyan-ojha-position-chief-selector/articleshow/135063691.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "919c2bd7aa09",
-            "feed": "lokmat",
-            "title": "China Export Controls: चीननं घेतला मोठा निर्णय, असं पाऊल उचललं की भारतावर होणार परिणाम, इन्फ्रा प्रोजेक्ट्सवर पडसाद उमटणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-10-20T10:20:27",
-            "url": "https://www.lokmat.com/business/news/china-export-controls-china-has-taken-a-big-decision-will-this-step-have-an-impact-on-india-and-impact-on-infra-projects-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-china_2017082714.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c7c96a922095",
+            "id": "8f3259e5989d",
             "feed": "maharashtratimes",
-            "title": "SCSS Calculation: ना कोणती जोखीम, ना एक रुपया खर्च, म्हतारपणात पोस्टातून 20500 रुपये कमवा अन् रिटायरमेंट एन्जॉय करा!",
+            "title": "Property Inheritance Rights: वडिलांच्या संपत्तीत मुलीचा अधिकार काय? लग्न झाल्यावरही हक्क संपत नाही! जाणून घ्या HUF कुटुंबातील मुलींचे अधिकार",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-10-20T09:58:34",
-            "url": "https://maharashtratimes.com/business/business-news/post-office-scss-quarterly-interest-calculation-senior-citizens-could-get-20500-mothly-income-after-retirement/articleshow/135060958.cms",
+            "published": "2026-10-20T15:44:27",
+            "url": "https://maharashtratimes.com/business/real-estate-news/ancestral-property-rights-under-huf-lawcan-daughter-claim-share-in-parents-property/articleshow/135066788.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "735c92083fae",
+            "id": "6162bf1490c3",
             "feed": "lokmat",
-            "title": "₹१ लाखांच्या FD वर एक, दोन आणि तीन वर्षांमध्ये किती मिळेल रिटर्न? व्याजदर तुम्हाला करेल अवाक्!",
+            "title": "सोयाबीनचं भुसकट कसे तयार कराल, भुसकट जनावरांच्या घशात अडकू नये, म्हणून हा उपाय करा!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-10-20T09:49:21",
-            "url": "https://www.lokmat.com/business/savings-investments/how-much-return-will-you-get-on-an-fd-of-rs-1-lakh-in-one-two-and-three-years-know-the-interest-rates-a-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fixed-deposit_202109691306.jpg",
+            "published": "2026-10-20T15:40:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/soyabean-bhuskat-how-to-prepare-soybean-husks-so-that-the-husks-do-not-get-stuck-in-the-throats-of-animals-follow-this-solution-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/soya-bhusakat_2026101805950.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
+        },
+        {
+            "id": "b0dbe8c156dd",
+            "feed": "lokmat",
+            "title": "पुराने वेढणारा तेरणा-मांजरा नदी संगम आज पाण्यासाठी आसुसलेला; पाऊस नसल्यामुळे यंदा ग्रीन बेल्ट पडला कोरडाठाक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-20T15:33:18",
+            "url": "https://www.lokmat.com/agriculture/weather/the-terna-manjara-river-confluence-which-was-surrounded-by-floods-is-thirsty-for-water-today-due-to-lack-of-rain-the-green-belt-has-become-dry-this-year-a-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-r-34-34-r-34-latur-water_2026101805954.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
