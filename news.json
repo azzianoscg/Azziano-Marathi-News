@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "21-10-2026 | 01:14 AM IST",
+    "lastUpdated": "21-10-2026 | 04:19 AM IST",
     "maharashtra": [
         {
             "id": "a0329a9738a6",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "ab5b48e8fc86",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 21 October 2026: मूलांक 3, 5 सकारात्मक संवाद फायदेशीर! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-21T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-21-october-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135075769.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "5a18c0e691c9",
             "feed": "maharashtratimes",
             "title": "पंचांग 21 October 2026: बुधादित्य योग, हंसराज योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
@@ -146,22 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2024-12-15/87gtoomj/live-update.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "3c62852e047f",
-            "feed": "esakal",
-            "title": "Premium|Mental Health and Wellbeing : मानसिक स्वास्थ्यासाठी सीमोल्लंघन महत्त्वाचे; मनाच्या मर्यादा ओलांडण्याचा प्रवास",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-20T21:00:00",
-            "url": "https://www.esakal.com/premium-article/saptahik/mental-health-comfort-zone-self-limiting-beliefs-personal-growth-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-18/gl633zit/Abhi-41.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
         }
     ],
     "world": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "271a35fedd49",
+            "feed": "lokmat",
+            "title": "शेअर असावा तर असा! फक्त ५ वर्षांत दिला तब्बल ७३७१% परतावा, ३ वेळा बोनस शेअरही दिले; काय काम करते कंपनी?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-10-21T01:21:49",
+            "url": "https://www.lokmat.com/photos/business/this-is-what-a-share-should-be-like-it-gave-a-whopping-7371-personic-return-in-just-5-years-also-gave-bonus-shares-3-times-what-does-the-company-do-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-556hsd_2026101806079.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "f392cab856e5",
             "feed": "maharashtratimes",
             "title": "Trademark Dispute : कंपनी एक, पण वारसदार दोन! आता व्यवसाय कुणाकडे जाणार? काय सांगतात नियम?",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "46ffbc38bb9f",
-            "feed": "lokmat",
-            "title": "Rabbi Season : रब्बी हंगामात कमी पाण्यात येणारी कोणती पिके घेता येतील, वाचा कृषी विभागाचा सल्ला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-20T19:30:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/read-the-advice-of-the-agriculture-department-on-which-crops-can-be-grown-in-low-water-during-the-rabi-season-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rabbi-pike-2_2026101806036.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
