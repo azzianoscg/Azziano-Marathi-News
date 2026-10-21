@@ -1,6 +1,54 @@
 {
-    "lastUpdated": "21-10-2026 | 11:16 PM IST",
+    "lastUpdated": "22-10-2026 | 02:31 AM IST",
     "maharashtra": [
+        {
+            "id": "a68725204a6e",
+            "feed": "maharashtratimes",
+            "title": "Rajendra Shinde: प्रदीप पूर्णेकर प्रकरणात राजेंद्र शिंदेंची पाचव्यांदा चौकशी; बाहेर पडताच पोलिस अधिकाऱ्यांनी तपासाबाबत दिली महत्त्वाची माहिती",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-21T23:39:05",
+            "url": "https://maharashtratimes.com/maharashtra/thane/rajendra-shinde-interrogated-for-the-fifth-time-in-pradeep-purnekar-murder-case/articleshow/135096158.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "78ead8fbff32",
+            "feed": "esakal",
+            "title": "Mangalwedha Crime : खडकीत तलवारीने वार करून जावयाची हत्या; तिघांवर गुन्हा दाखल",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-21T23:36:23",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/son-in-law-killed-with-swords-in-khadki-case-filed-against-three-crime-mangalwedha-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "bd3a327914e2",
+            "feed": "esakal",
+            "title": "Pune News : जितेंद्र आव्हाड यांना धमकी देणारा लोणीकंदमधून ताब्यात; घरमालकाच्या सतर्कतेमुळे आरोपी ताब्यात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-21T23:23:21",
+            "url": "https://www.esakal.com/pune/person-who-threatened-mla-jitendra-awhad-detained-from-lonikand-accused-caught-due-to-landlords-vigilance-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2023-02/6ea636a1-6cca-434c-a3b4-fabac4342d0a/Jitendra_Awhad1.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "a4aafdc1bb08",
             "feed": "esakal",
@@ -18,150 +66,102 @@
             "category_reason": "feed"
         },
         {
-            "id": "ef7c9631ee2e",
+            "id": "4ee6b9dda39c",
             "feed": "esakal",
-            "title": "Pune News : अविनाश भोसले यांना उच्च न्यायालयाचा दिलासा; मालमत्ता जप्तीचा आदेश रद्दबातल",
+            "title": "बेटावद बालाजी रथ आज मस्ट",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-21T22:58:53",
-            "url": "https://www.esakal.com/pune/yes-bank-and-dhfl-misconduct-case-relief-for-avinash-bhosale-from-high-court-property-attachment-order-quashed-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-20/7ixu1lmc/sudhir-jadhav-satara-9.jpg",
+            "published": "2026-10-21T23:03:35",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/majobalaji-chariot-festival-betawad",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-21/mq2p568e/Sakal20Wesite20Banner20_20Nashik.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "bda288aaf69e",
-            "feed": "esakal",
-            "title": "Kaygaon News : पाच हजारात दिवाळी साजरी करायची कशी? गंगापूर तालुक्यातील दुष्काळग्रस्त शेतकऱ्यांचा सरकारला थेट सवाल",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-21T22:49:52",
-            "url": "https://www.esakal.com/marathwada/how-to-celebrate-diwali-on-five-thousand-rupees-drought-hit-farmers-of-gangapur-taluka-pose-direct-question-to-the-government-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-13/1dg1clnq/drought",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b033be3e99bb",
-            "feed": "lokmat",
-            "title": "यूपीतील हायप्रोफाईल शिवा शर्मा मृत्यू प्रकरणातील आरोपीला नागपुरात कुणी दिला आश्रय?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-21T22:42:56",
-            "url": "https://www.lokmat.com/nagpur/who-gave-shelter-to-the-accused-in-ups-high-profile-shiva-sharma-death-case-in-nagpur-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shiva-sharma-death-case_2026101806788.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3f6935310828",
-            "feed": "esakal",
-            "title": "Bike Accident : अंबड-घनसावंगी मार्गावरील वलखेडा फाट्यावर अज्ञात वाहनाच्या धडकेत दुचाकी चालक दीपक मंत्री ठार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-21T22:42:55",
-            "url": "https://www.esakal.com/marathwada/two-wheeler-rider-deepak-mantri-killed-in-hit-and-run-by-unidentified-vehicle-near-valkheda-phata-on-ambad-ghansawangi-road-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-21/kwq19ij2/Deepak-Mantri",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "2121a8d5992a",
+            "id": "99fd4cdeafcb",
             "feed": "maharashtratimes",
-            "title": "अर्थमंत्री निर्मला सितारमन यांच्या पतीची भूमिका चर्चेत, SIR विरोधात CJP सोबत आंदोलनात होणार सहभागी?",
+            "title": "घर, ट्रॅक्टर, डुकराची पिल्लं सगळं दिसतेय सारखंच; पण दोन्ही चित्रांमध्ये आहेत ३ फरक, हुशार असाल तर हे फरक शोधून दाखवा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-21T23:05:10",
-            "url": "https://maharashtratimes.com/india-news/finance-minster-nirmala-sitaram-husband-parkal-prabhakar-join-sir-protest-at-cjp/articleshow/135097284.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e74cb4b63804",
-            "feed": "lokmat",
-            "title": "गोंदियातील घरफोडीचा छडा इंदूरमध्ये! २६ तोळे सोन, चांदी हस्तगत; स्थानिक गुन्हे शाखेची कारवाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-21T22:52:39",
-            "url": "https://www.lokmat.com/crime/gondia-house-burglary-busted-in-indore-26-tolas-of-gold-silver-seized-local-crime-branch-takes-action-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-ds_2026101806790.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "e2035cfbb2c4",
-            "feed": "maharashtratimes",
-            "title": "Ranbir Kapoor: अर्रर्र! दसऱ्याच्या कार्यक्रमात हे काय बोलून गेला अभिनेता रणबीर कपूर,  भाषणात झाली शब्दांची घोडचूक ,नेटकऱ्यांनी घेतली चांगलीच शाळा, व्हिडिओ व्हायरल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-21T22:28:28",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/ranbir-kapoor-makes-speech-slip-up-during-ramayana-promotion-video-viral/articleshow/135096625.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d7c3e15c9000",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 22 October 2026: पाशांकुशा एकादशी, नवम पंचम योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-21T22:14:04",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-22-october-2026-in-marathi-pashankusha-ekadashi-navam-pancham-yog-and-shubha-muhurta/articleshow/135095882.cms",
+            "published": "2026-10-22T00:44:15",
+            "url": "https://maharashtratimes.com/viral/viral-news/these-two-farmhouse-pictures-look-identical-but-can-you-spot-whats-different/articleshow/135099919.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "bdc8fc15d3a5",
+            "id": "b84ea39cac88",
             "feed": "lokmat",
-            "title": "कोर्टात माफीनामा दिला, पीस बॉन्ड देखील...! या अटींवर सौरव दास-आशुतोष रांकाला मिळाला जामीन; जेलमधून बाहेर",
+            "title": "SIR विरोधात मोठ्या आंदोलनाची तयारी, अभिजित दीपके, टिकैत यांच्यासह हे नेते उतरणार रस्त्यावर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-10-21T22:09:05",
-            "url": "https://www.lokmat.com/national/gave-an-apology-in-court-cjp-leader-saurav-das-ashutosh-ranka-got-bail-on-these-conditions-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sourabh-das-ashutosh-ranka-tihar-jail_2026101806784.jpg",
+            "published": "2026-10-22T00:29:55",
+            "url": "https://www.lokmat.com/national/preparations-for-a-big-protest-against-sir-these-leaders-including-abhijit-deepke-tikait-will-take-to-the-streets-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abhijit-deepke-tikait_2026101806794.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "6a80126f4716",
+            "feed": "maharashtratimes",
+            "title": "'रावणाला जाळणारे निघाले पापी!' आग लावलाच झाला उलटा हल्ला, रावणाने लोकांवर सोडले अग्निबाण, व्हिडीओ पाहून व्हाल अवाक्",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-22T00:19:33",
+            "url": "https://maharashtratimes.com/viral/viral-news/ravana-fights-back-firecrackers-fly-towards-crowd-during-dussehra-celebration/articleshow/135099415.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "9363be7e5b84",
+            "feed": "maharashtratimes",
+            "title": "NMMS Scheme : फक्त एक परीक्षा सोडवा अन् सरकारकडून 48,000 रुपये मिळवा! सलग चार वर्षांसाठी मिळेल आर्थिक लाभ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-21T23:19:22",
+            "url": "https://maharashtratimes.com/government-schemes/central-government-policy/nmms-government-scheme-to-get-48000-educational-scholarship-from-9th-to-12th-standard/articleshow/135097870.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "eed783e9dfdb",
+            "feed": "lokmat",
+            "title": "घर बांधताना छताला मातीचे माठ का लावतात? माठ लावल्यामुळे नेमकं काय होतं, पाहा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-21T23:19:01",
+            "url": "https://www.lokmat.com/sakhi/social-viral/why-contractors-use-earthen-pots-in-roof-construction-a-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-21-at-4.19.52-pm-2_2026101806791.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
@@ -280,23 +280,55 @@
             "category_reason": "feed"
         },
         {
-            "id": "881a63d6d0b8",
-            "feed": "lokmat",
-            "title": "RSA vs AUS : मार्कोचा 'पंजा'; ऑस्ट्रेलिया शंभरीच्या आत All Out, २१ वर्षांनी परदेशात फॉलोऑनची नामुष्की",
+            "id": "817c316c67f6",
+            "feed": "maharashtratimes",
+            "title": "Hardik Pandya : पलटण पुन्हा कर्णधार बदलण्याच्या तयारीत! मुंबई इंडियन्स रोहित शर्माला सन्मानाने नेतृत्वाची धुरा सोपवणार?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-10-21T18:21:14",
-            "url": "https://www.lokmat.com/cricket/news/rsa-vs-aus-2nd-test-marco-jansen-takes-five-wickets-south-africa-force-australia-to-follow-on-after-99-all-out-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rsa-vs-aus-2nd-test-marco-jansen-five-wickets-south-africa-force-australia-to-follow-on-_2026101806707.jpg",
+            "published": "2026-10-21T17:15:09",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ipl-three-franchise-want-trade-hardik-pandya-then-who-is-new-captain-of-mumbai-indians/articleshow/135090781.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "53abf606f847",
+            "feed": "lokmat",
+            "title": "३५ सेफ्टी फीचर्स, लेव्हल-२ ADAS अन् बरंच काही...! २६ ऑक्टोबरला येतेय ह्युंदाईची नवी SUV",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-22T02:20:12",
+            "url": "https://www.lokmat.com/auto/35-safety-features-level-2-adas-hyundai-new-suv-bayon-is-coming-on-october-26th-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hyundai-bayon_2026101806799.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "5cf7362f921c",
+            "feed": "lokmat",
+            "title": "महिंद्रानं लाँच केली नवी SUV! दमदार लूक आणि ब्रॉन्ज फिनिशिंगसह Bolero Bold बाजारात, जाणून घ्या सविस्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-22T01:31:16",
+            "url": "https://www.lokmat.com/auto/mahindra-launches-new-suv-bolero-bold-with-bold-look-and-bronze-finishing-in-the-market-know-the-details-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahindra-bolero-bold-edition_2026101806797.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "fa11d89bd97e",
             "feed": "esakal",
@@ -310,38 +342,6 @@
             "published": "2026-10-21T22:34:45",
             "url": "https://www.esakal.com/ampstories/web-story/sbi-amrit-vrishti-fd-scheme-2026-interest-rate-5-lakh-investment-returns-spb94",
             "image": "https://cf-images.assettype.com/esakal/2026-10-21/kg7629pk/SBI-Amrit-Vrishti-FD-Scheme-1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "aa8fa45782a7",
-            "feed": "lokmat",
-            "title": "Jio च्या IPO ला पहिल्याच दिवशी तुफान प्रतिसाद; २३ ऑक्टोबरपर्यंत गुंतवणुकीची संधी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-10-21T21:18:12",
-            "url": "https://www.lokmat.com/business/stock-market/jios-ipo-receives-overwhelming-response-on-the-first-day-subscribers-increase-by-more-than-3-times-on-the-first-day-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jio-ipo-ambani_2026101806780.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "46b499e53fbd",
-            "feed": "lokmat",
-            "title": "Alleged Miracle Exposed in Wardha : देवी प्रकटल्याचा चमत्कार नव्हे, तो ठरलाय अफवेचा बाजार !, देवळीतील प्रकाराची पंचक्रोशीत चर्चा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-21T20:57:46",
-            "url": "https://www.lokmat.com/vardha/alleged-miracle-exposed-in-wardha-it-is-not-a-miracle-of-the-appearance-of-the-goddess-it-has-become-a-market-of-rumors-related-area-discussion-about-the-type-of-wardha-deoli-miracle-fake-news-a-a1020/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fake-news-of-deoli-village_2026101806778.jpeg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
