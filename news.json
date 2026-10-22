@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "22-10-2026 | 09:13 PM IST",
+    "lastUpdated": "23-10-2026 | 01:07 AM IST",
     "maharashtra": [
         {
-            "id": "ea51512868ce",
+            "id": "0271656b2fea",
             "feed": "esakal",
-            "title": "Diveghat Transport : दिवेघाटात शुक्रवारी दोन तास वाहतूक राहणार बंद",
+            "title": "Pune News : रेल्वेतील खाद्यपदार्थांचे आता ‘थर्ड पार्टी ऑडिट’; गुणवत्ता व स्वच्छतेत त्रुटी आढळल्यास कंत्राटदारांचा परवाना होणार रद्द",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-22T21:11:51",
-            "url": "https://www.esakal.com/pune/diveghat-traffic-closed-for-two-hours-on-friday-palkhi-highway-widening-blasting-work-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-22/pl8u68op/Dive-Ghat-to-Remain-Closed-for-Two-Hours-on-Feb-23-Due-to-Alandi–Pandharpur-Highway-Widening-Work.jpg",
+            "published": "2026-10-22T23:29:05",
+            "url": "https://www.esakal.com/pune/irctc-qci-third-party-audit-for-railway-food-quality-and-hygiene-pune-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-22/u02gqk44/railway-food",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "560d5979ef88",
+            "id": "415e4c14b173",
             "feed": "esakal",
-            "title": "RTE Admission : आरटीई प्रवेशांतील गैरप्रकारांवरून जिल्हा परिषदेत खडाजंगी; अधिकाऱ्यांच्या चौकशीची मागणी",
+            "title": "Pune Grand Tour Competition : पुण्यात ७५ किलोमीटर लांबीचे नवे सायकल ट्रॅक उभारणार; महापालिका आयुक्त नवलकिशोर राम यांचे निर्देश",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-22T21:07:56",
-            "url": "https://www.esakal.com/pune/pune-zilla-parishad-general-body-meeting-clash-over-rte-admission-frauds-and-officials-enquiry-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-22/dlup5fmi/sudhir-jadhav-satara-18.jpg",
+            "published": "2026-10-22T23:06:28",
+            "url": "https://www.esakal.com/pune/pmc-plans-75-km-new-cycle-tracks-in-pune-for-pune-grand-tour-2027-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-17/5p93yt1m/pune-grand-tour-cycle-competition",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7d0cfec32973",
+            "id": "a52ff5ee37ee",
+            "feed": "maharashtratimes",
+            "title": "Nitesh Karale: आधी ढसाढसा रडले, नंतर थेट आक्रमक इशारा; शरद पवारांच्या राष्ट्रवादीतून हकालपट्टी झाल्यानंतर कराळे मास्तर काय म्हणाले?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-22T23:02:09",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/nitesh-karale-emotional-reaction-followed-by-warning-after-expulsion-from-sharad-pawar-ncp/articleshow/135123220.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f6c23d97e55d",
             "feed": "esakal",
-            "title": "Manchar News : डिंभे धरण ९९.८ टक्के भरले तरी उजवा कालवा कोरडा; आंबेगाव आणि शिरूर तालुक्यांतील पिके पाण्याअभावी करपली",
+            "title": "Water Tanker : पाणी टँकरची लूट थांबणार; पुणेकरांसाठी महापालिकेचे विशेष ॲप लवकरच सुरू होणार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-22T20:50:40",
-            "url": "https://www.esakal.com/pune/dimbhe-dam-99-percent-full-right-bank-canal-remains-dry-crops-drying-up-ambegaon-shirur-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-22/coquy2wv/The-right-bank-canal-is-overgrown-with-trees-and-shrubs-filled-with-trash-and-has-run-dry-due-to-a-lack-of-water.",
+            "published": "2026-10-22T23:00:16",
+            "url": "https://www.esakal.com/pune/pune-municipal-corporation-special-app-for-water-tanker-booking-to-stop-overcharging-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-17/cocrty6x/Water-Tanker",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3360292194c3",
-            "feed": "esakal",
-            "title": "घरफोडीच्या गुन्ह्यातील संशयिताला ठोकल्या बेड्या",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-22T20:41:52",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nandurbar-burglary-suspect-arrested",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-22/wcu6aets/Sakal20Wesite20Banner20_20Nashik.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "718f6a0c535e",
+            "id": "7d6c4f5a6f8d",
             "feed": "lokmat",
-            "title": "Vidhan Parishad Election : एकाच मोबाइल क्रमांकावरून तब्बल २२ हजार मतदारांची नोंद...!; काँग्रेसचा खळबळजनक आरोप, मोबाइल नंबरही एआय जनरेटेड?",
+            "title": "अमरावतीत दुष्काळाचे सावट; ७ लाख हेक्टरवरील पिकांचे नुकसान!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-10-22T20:40:33",
-            "url": "https://www.lokmat.com/nagpur/vidhan-parishad-election-as-many-as-22-thousand-voters-registered-from-a-single-mobile-number-congress-sensational-allegation-mobile-number-also-generated-by-ai-alleged-fake-mobile-number-voter-registrations-bogus-mobile-number-allegation-a-a873-c1020/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/alleged-fake-mobile-number_2026101807496.jpeg",
+            "published": "2026-10-22T22:48:22",
+            "url": "https://www.lokmat.com/amravati/drought-looms-in-amravati-crops-damaged-on-7-lakh-hectares-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amravati-droughty-fe_2026101807531.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "cc9ca28a50f2",
-            "feed": "lokmat",
-            "title": "Cotton Blouse Designs : साध्या साडीला द्या ट्रेंडी - स्टायलिश लूक! पाहा २० सुंदर कॉटन ब्लाऊज, दिसाल स्मार्ट- एलिगंट...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-22T21:05:02",
-            "url": "https://www.lokmat.com/sakhi/photos/fashion/cotton-blouse-designs-cotton-blouse-designs-for-cotton-sarees-stylish-cotton-blouse-patterns-latest-cotton-blouse-designs-for-women-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/stylish-cotton-blouse_2026101807291.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8fcf8ab6b4fc",
-            "feed": "lokmat",
-            "title": "Diwali 2026: फुलांचं सुंदर वर्क आणि देखणी बुट्टी, पाहा बनारसी साडीचे १० सुंदर ड्युएल रंग, दिवाळीसाठी खास कलेक्शन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-22T21:00:02",
-            "url": "https://www.lokmat.com/sakhi/photos/fashion/diwali-2026-latest-banarasi-saree-collection-floral-work-butti-banarasi-saree-designs-for-festive-wear-10-beautiful-best-dual-colour-silk-sarees-a-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/diwali-2026-banarasi-flower-butti-saree-collection_2026101807385.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "81384b6fc2c3",
-            "feed": "lokmat",
-            "title": "Vangyache Bharit :अस्सल गावरान पद्धतीचं वांग्याचं भरीत करण्याची सोपी रेसिपी; भरीत भाकरीची चव भारी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-22T20:50:34",
-            "url": "https://www.lokmat.com/sakhi/food/how-to-make-vangyache-bharit-maharashtrian-vangyache-bharit-baingan-bharta-recipe-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-22-at-3.02.29-pm_2026101807498.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "31cf94ab0330",
+            "id": "f78066ca6c4e",
             "feed": "maharashtratimes",
-            "title": "आधी धमक्या, मग सावत्र मुलगा जीवावर उठला; महिलेचा आगीत होरपळून शेवट, अखेरची धडपड कॅमेऱ्यात कैद",
+            "title": "आजचे राशिभविष्य 23 ऑक्टोबर 2026 : धनयोगाचा शुभ संयोग,लक्ष्मीकृपेने येणार बरकत 'या' राशींची होणार भरभराट ! पहा तुमचे राशिभविष्य !",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-22T20:46:29",
-            "url": "https://maharashtratimes.com/india-news/jammu-shocker-woman-dies-after-stepson-pours-diesel-burns-her-alive/articleshow/135121745.cms",
+            "published": "2026-10-23T00:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-23-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135123459.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "58b679adde54",
+            "id": "511e7f6fffea",
             "feed": "esakal",
-            "title": "Premium|Honesty and Humanity : गोस्ट सांगा ना बाबा...",
+            "title": "Rehan Vadra vs Bikaner House Censorship : बिकानेर हाऊस प्रशासन आणि रेहान वाड्रा यांच्यात वाद; आंदोलनाची ७० हून अधिक छायाचित्रे हटवल्याने संताप",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-22T20:44:00",
-            "url": "https://www.esakal.com/premium-article/honesty-humanity-moral-values-marathi-story-grandfather-grandson-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-21/c6627t3y/Abhi-73.jpg",
+            "published": "2026-10-22T23:05:34",
+            "url": "https://www.esakal.com/desh/raihan-vadra-bikaner-house-exhibition-controversy-protest-photos-removed-news-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-22/q4o2dbjz/Esakal-9.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "2169a46e8f82",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 23 October 2026: प्रदोष, नवम पंचम योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-22T22:50:14",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-23-october-2026-in-marathi-pradosh-vrat-navam-pancham-yog-and-shubha-muhurta/articleshow/135122512.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
+        },
+        {
+            "id": "91f116da3e6b",
+            "feed": "lokmat",
+            "title": "सोनसाखळी लंपास करणाऱ्या दोन महिला गजाआड",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-22T22:42:41",
+            "url": "https://www.lokmat.com/vardha/two-women-arrested-for-stealing-gold-chain-in-wardha-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-fdssd_2026101807530.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "5724434f9b41",
+            "feed": "maharashtratimes",
+            "title": "Tiger Shroff Attack :  गोळीबारानंतर जखमा कुठे गायब ? अशी आहे ॲक्शन हिरोची अवस्था, टायगर श्रॉफच्या टीम ने शेयर केला व्हिडिओ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-22T22:01:04",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/tiger-shroff-first-video-burn-marks-after-firing/articleshow/135122823.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "55de710028dc",
+            "feed": "esakal",
+            "title": "Tibet Earthquake: विनाशकारी पुरानंतर तिबेटवर मोठे संकट! भूकंपाचे जोरदार धक्के; ७ रिश्टर स्केलचे हादरे बसताच...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-22T21:52:41",
+            "url": "https://www.esakal.com/global/tibet-earthquake-magnitude-7-nagqu-china-casualties-damage-update-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-22/8v1x8sc0/diljit-1.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "5a82761d6b6e",
             "feed": "esakal",
@@ -228,75 +244,91 @@
             "image": "https://cf-images.assettype.com/esakal/2024-04/f1cb6d77-d7c6-494e-a45b-2081493636e5/Narendra_Modi_.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "d289f15fc430",
-            "feed": "esakal",
-            "title": "फक्त २३८ लोकांचं जग! समुद्राच्या मध्यभागी वसलेलं 'हे' बेट पाहिलंय का? माणसं कशी जगतात?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-22T19:22:25",
-            "url": "https://www.esakal.com/ampstories/web-story/mysterious-tristan-da-cunha-island-worlds-most-remote-inhabited-island-no-airport-238-people-atlantic-ocean-photo-viral-srk94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-22/m6tj7mbj/1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "c6514aa6839d",
-            "feed": "esakal",
-            "title": "IND vs NZ 2nd T20: भारत न्यूझीलंडचा दुसरा टी-२० सामना कधी अन् कुठे पाहता येणार? LIVE Streaming, वेळ अन् TV चॅनेलची माहिती जाणून घ्या",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-22T19:47:14",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-nz-2nd-t20i-when-and-where-to-watch-live-match-timings-and-predicted-playing-xis-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-22/7o7ijde2/IND-vs-NZ-2nd-T20.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "89d72090bdff",
+            "id": "e57d50253055",
             "feed": "maharashtratimes",
-            "title": "SL vs ENG : कर्णधार Harry Brook याचं वनडेत द्विशतक, मात्र रोहितचा थाटच वेगळा, हिटमॅनच्या नावावर वर्ल्ड रेकॉर्ड कायम",
+            "title": "SL vs ENG : श्रीलंकेचा पराक्रम! 430 धावांचा यशस्वी पाठलाग,  ब्रूकचं द्विशतक डब्यात; इंग्लंडचा धुव्वा, भारताचा रेकॉर्ड ब्रेक",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-10-22T19:13:34",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/eng-vs-sl-harry-brook-became-1st-england-batter-to-smashed-double-hundred-in-odi-broke-shubman-gill-world-record-rohit-sharma/articleshow/135120602.cms",
+            "published": "2026-10-23T00:28:10",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/sl-vs-eng-sri-lanka-makes-history-successfully-chace-2nd-higest-odi-total-against-england-harry-brook-double-century-waste-surpassed-india-record/articleshow/135125851.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "50dcf3b7ba53",
+            "id": "d9721ff0fb32",
             "feed": "lokmat",
-            "title": "हॅरी ब्रुकचा महापराक्रम! मोडला गिलचा विक्रम, केवळ ११४ चेंडूत ठोकलं द्विशतक, अशी कामगिरी करणारा ठरला दुसरा फलंदाज",
+            "title": "SL vs ENG 3rd ODI : ब्रूकचं विक्रमी द्विशतक व्यर्थ! ४०० पारच्या ऐतिहासिक लढाईत पवन रथनायके ठरला श्रीलंकेचा नायक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-22T18:48:39",
-            "url": "https://www.lokmat.com/cricket/news/harry-brooks-great-feat-he-broke-shubman-gills-record-hit-a-double-century-in-just-114-balls-becoming-the-second-batsman-to-achieve-such-a-feat-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/harry-brook-eng-vs-sl-1_2026101807461.jpg",
+            "published": "2026-10-22T22:38:40",
+            "url": "https://www.lokmat.com/cricket/news/sri-lanka-complete-the-second-highest-chase-in-mens-odi-history-against-england-pavan-rathnayake-vs-harry-brook-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sri-lanka-complete-the-second-highest-chase-in-mens-odi-history-m_2026101807527.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a290077c4639",
+            "feed": "esakal",
+            "title": "Record Breaking ENG vs SL Match : श्रीलंकेने ४३० धावांचे लक्ष्य पार केले, इंग्लंडला हरवले! इतिहास घडला, हॅरी ब्रूकचे द्विशतक व्यर्थ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-22T22:07:58",
+            "url": "https://www.esakal.com/krida/cricket/sri-lanka-create-odi-history-chase-430-to-beat-england-as-harry-brooks-double-century-goes-in-vain-second-highest-chase-in-odi-history-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-22/zz5qr27j/Sri-Lanka-Chase-430-Against-England",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "756f59d51a25",
+            "feed": "maharashtratimes",
+            "title": "Government Scheme : व्यवसाय उभारण्यासाठी कर्जावर जास्त व्याजाची कटकट सोडा! सरकारच्या SMS योजनेतून सॉफ्ट लोन मिळवा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-22T23:51:04",
+            "url": "https://maharashtratimes.com/government-schemes/state-government-policy/seed-money-government-scheme-beej-bhandval-yojana-details-and-benefits/articleshow/135125253.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "2300f0519b67",
+            "feed": "maharashtratimes",
+            "title": "मार्केटमध्ये येणार इथेनॉलचा भाऊ मेथेनॉल! इंधनाचा नवा पर्याय, कुठे-कुठे वापर होणार?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-10-22T21:31:34",
+            "url": "https://maharashtratimes.com/business/business-news/indian-government-want-to-shift-to-methanol-fuel-for-shipping-industry/articleshow/135121835.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "5b0b04a3731f",
             "feed": "lokmat",
@@ -310,38 +342,6 @@
             "published": "2026-10-22T20:45:35",
             "url": "https://www.lokmat.com/business/news/one-car-every-second-11-lakh-vehicles-sold-during-navratri-which-car-is-in-the-highest-demand-a-a732/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/navratri-car-bike-buying_2026101807500.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5b9e6111df5c",
-            "feed": "maharashtratimes",
-            "title": "कर्मचाऱ्यांना जुन्या पेन्शन व्यवस्थेचा लाभ मिळणे होणार अधिक सोपे! 'NPS ते OPS' मार्ग मोकळा; नियमांत बदल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-10-22T20:05:34",
-            "url": "https://maharashtratimes.com/business/business-news/nps-to-ops-pension-scheme-transfer-new-rules-central-government-employees-pension/articleshow/135121068.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0682b5ab4d46",
-            "feed": "lokmat",
-            "title": "भारतानंतर आता जागतिक लॉजिस्टिक्स मार्केटवर गौतम अदानींचा डोळा; 'या' देशात उभारली नवी कंपनी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-10-22T19:57:51",
-            "url": "https://www.lokmat.com/business/news/adani-group-after-india-gautam-adani-now-has-his-eye-on-the-global-logistics-market-new-company-set-up-in-this-country-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gautam-adani-oman_2026101807482.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
