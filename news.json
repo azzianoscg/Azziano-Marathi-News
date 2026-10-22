@@ -1,170 +1,218 @@
 {
-    "lastUpdated": "22-10-2026 | 05:49 AM IST",
+    "lastUpdated": "22-10-2026 | 11:06 AM IST",
     "maharashtra": [
         {
-            "id": "a68725204a6e",
-            "feed": "maharashtratimes",
-            "title": "Rajendra Shinde: प्रदीप पूर्णेकर प्रकरणात राजेंद्र शिंदेंची पाचव्यांदा चौकशी; बाहेर पडताच पोलिस अधिकाऱ्यांनी तपासाबाबत दिली महत्त्वाची माहिती",
+            "id": "814844d723b4",
+            "feed": "esakal",
+            "title": "Pune News: पुण्यात हवाई पर्यटनाला नवी झेप! हडपसरचे २५० एकरांचे ग्लायडिंग सेंटर बदलणार; हेलिपोर्ट, हवाई साहसी खेळ अन् एव्हिएशन गॅलरी साकारणार",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-21T23:39:05",
-            "url": "https://maharashtratimes.com/maharashtra/thane/rajendra-shinde-interrogated-for-the-fifth-time-in-pradeep-purnekar-murder-case/articleshow/135096158.cms",
-            "image": "",
+            "published": "2026-10-22T11:02:14",
+            "url": "https://www.esakal.com/pune/hadapsar-gliding-centre-pune-to-get-a-new-look-with-proposed-heliport-adventure-air-sports-and-aviation-gallery-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-22/lp3eh4z4/sudhir-jadhav-satara-12.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "78ead8fbff32",
-            "feed": "esakal",
-            "title": "Mangalwedha Crime : खडकीत तलवारीने वार करून जावयाची हत्या; तिघांवर गुन्हा दाखल",
+            "id": "a9f90765980d",
+            "feed": "lokmat",
+            "title": "Top Marathi News Live: मी पुराव्याशिवाय बोलत नाही, सगळे पुरावे दाखवणार; मनोज जरांगे पाटील यांचा इशारा",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-21T23:36:23",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/son-in-law-killed-with-swords-in-khadki-case-filed-against-three-crime-mangalwedha-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-19/snuu33ox/crime",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "bd3a327914e2",
-            "feed": "esakal",
-            "title": "Pune News : जितेंद्र आव्हाड यांना धमकी देणारा लोणीकंदमधून ताब्यात; घरमालकाच्या सतर्कतेमुळे आरोपी ताब्यात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-21T23:23:21",
-            "url": "https://www.esakal.com/pune/person-who-threatened-mla-jitendra-awhad-detained-from-lonikand-accused-caught-due-to-landlords-vigilance-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2023-02/6ea636a1-6cca-434c-a3b4-fabac4342d0a/Jitendra_Awhad1.jpg",
+            "published": "2026-10-22T10:59:15",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-22-october-2026-indla-us-trade-deal-pm-narendra-modi-donald-trump-reliance-jio-ipo-cjp-protest-abhijeet-dipke-manoj-jarange-patil-eknath-shinde-cm-devendra-fadnavis-drought-shiv-sena-tiger-shroff-firing-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "a4aafdc1bb08",
+            "id": "4dcb3a4e6e40",
             "feed": "esakal",
-            "title": "Medical Exam : वैद्यकीय विद्याशाखेच्या विद्यार्थ्यांना अतिरिक्त परीक्षेची एक संधी उपलब्ध",
+            "title": "Latest Marathi News Live Update : पंतप्रधान मोदींनी केंद्रीय गृहमंत्री अमित शहा यांना वाढदिवसाच्या दिल्या शुभेच्छा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-21T23:10:03",
-            "url": "https://www.esakal.com/pune/an-additional-exam-opportunity-available-for-medical-faculty-students-education-maharashtra-university-of-health-sciences-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-26/pwgf0w1z/CTET-exam-postponed-2026",
+            "published": "2026-10-22T10:47:02",
+            "url": "https://www.esakal.com/maharashtra/manoj-jarange-patil-uddhav-thackeray-eknath-shinde-tiger-shroff-firing-devendra-fadnavis-maharashtra-drought-mumbai-news-pune-news-sbi-sir-cjp-saurabh-das-ashutosh-ranka-raj-thackeray-narendra-modi-amit-shaha-ymk86-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2024-12-15/87gtoomj/live-update.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4ee6b9dda39c",
-            "feed": "esakal",
-            "title": "बेटावद बालाजी रथ आज मस्ट",
+            "id": "77b661fc31c2",
+            "feed": "lokmat",
+            "title": "शेतकऱ्यांना एनडीआरएफ निकषांपेक्षा अधिक मदत; दुष्काळी अग्रीममधील पंचनाम्याचा अडसर दूर",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-21T23:03:35",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/majobalaji-chariot-festival-betawad",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-21/mq2p568e/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "published": "2026-10-22T10:43:00",
+            "url": "https://www.lokmat.com/mumbai/more-assistance-to-farmers-than-ndrf-norms-obstacle-of-panchnama-in-drought-relief-removed-a-a285-c1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/farmer-6_2026101806897.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "392fe2ba3d2f",
+            "feed": "lokmat",
+            "title": "एमबीबीएसच्या प्रथम वर्षासाठी ५ संधी! दहा वर्षांत कोर्स पूर्ण करणे बंधनकारक; २०१९-२० पासून प्रवेश घेतलेल्या विद्यार्थ्यांना लाभ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-22T10:40:05",
+            "url": "https://www.lokmat.com/nashik/5-opportunities-for-the-first-year-of-mbbs-it-is-mandatory-to-complete-the-course-within-ten-years-students-admitted-from-2019-20-will-benefit-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mbbs_2026101806887.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "c24ffd189884",
+            "id": "c120bd8858d8",
             "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 22 ऑक्टोबर 2026 : एकादशी तिथीला बुधादित्य योगाचा संयोग, या राशींवर होणार हरिकृपा ! पहा तुमचे राशिभविष्य !",
+            "title": "योगिता चव्हाणचा खणाच्या परकर पोलक्यातील लूक,चाहते म्हणाले 'नीलपरीच' दिसतेस",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-22T05:00:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-22-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135094056.cms",
+            "published": "2026-10-22T10:59:29",
+            "url": "https://maharashtratimes.com/photogallery/lifestyle/actress-yogita-chavan-blue-khun-parkar-polka-dress-look/photoshow/135108555.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "e26d0f91f3d4",
-            "feed": "maharashtratimes",
-            "title": "अंकभविष्य 22 October 2026: मूलांक 2 कामात कंटाळा घातक! मूलांक 5 प्रयत्नांवर विश्वास ठेवा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-22T04:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-22-october-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135095327.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "99fd4cdeafcb",
-            "feed": "maharashtratimes",
-            "title": "घर, ट्रॅक्टर, डुकराची पिल्लं सगळं दिसतेय सारखंच; पण दोन्ही चित्रांमध्ये आहेत ३ फरक, हुशार असाल तर हे फरक शोधून दाखवा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-22T00:44:15",
-            "url": "https://maharashtratimes.com/viral/viral-news/these-two-farmhouse-pictures-look-identical-but-can-you-spot-whats-different/articleshow/135099919.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "b84ea39cac88",
+            "id": "0cbdaf965c84",
             "feed": "lokmat",
-            "title": "SIR विरोधात मोठ्या आंदोलनाची तयारी, अभिजित दीपके, टिकैत यांच्यासह हे नेते उतरणार रस्त्यावर",
+            "title": "शुक्र प्रदोष २०२६: दांपत्य जीवनातील तणाव आणि आर्थिक अडचणी दूर करणारे सोपे उपाय!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-22T10:56:23",
+            "url": "https://www.lokmat.com/bhakti/shukra-pradosh-2026-simple-solutions-to-relieve-stress-and-financial-difficulties-in-married-life-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shukra-pradosh-2026-puja-vidhi_2026101806901.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "fb2425fee92b",
+            "feed": "lokmat",
+            "title": "जर्मनी-नेदरलँडमध्ये महाराष्ट्रासाठी उद्योगांच्या नव्या संधी; भारतीय उद्योजकांना युरोपीयन कंपन्यांशी थेट चर्चेची संधी मिळणार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-10-22T00:29:55",
-            "url": "https://www.lokmat.com/national/preparations-for-a-big-protest-against-sir-these-leaders-including-abhijit-deepke-tikait-will-take-to-the-streets-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abhijit-deepke-tikait_2026101806794.jpg",
+            "published": "2026-10-22T10:56:10",
+            "url": "https://www.lokmat.com/national/new-industrial-opportunities-for-maharashtra-in-germany-netherlands-indian-entrepreneurs-will-get-the-opportunity-to-directly-discuss-with-european-companies-a-a283-c1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/germany-2_2026101806902.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6a80126f4716",
-            "feed": "maharashtratimes",
-            "title": "'रावणाला जाळणारे निघाले पापी!' आग लावलाच झाला उलटा हल्ला, रावणाने लोकांवर सोडले अग्निबाण, व्हिडीओ पाहून व्हाल अवाक्",
+            "id": "5b17753ab827",
+            "feed": "lokmat",
+            "title": "बिकिनी घालणार नाही... रश्मिका मंदाना म्हणाली, \"हे सांगताना खूप अवघड जातं पण...\"",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-22T00:19:33",
-            "url": "https://maharashtratimes.com/viral/viral-news/ravana-fights-back-firecrackers-fly-towards-crowd-during-dussehra-celebration/articleshow/135099415.cms",
-            "image": "",
+            "published": "2026-10-22T10:55:47",
+            "url": "https://www.lokmat.com/filmy/south-movies/rashmika-mandanna-says-she-is-not-comfortable-wearing-bikini-on-screen-not-easy-to-express-in-front-of-directors-a-a945/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rashmika-bikini_2026101806899.jpg",
             "isBreaking": false,
             "category_reason": "default"
+        },
+        {
+            "id": "ce3d7bd23831",
+            "feed": "lokmat",
+            "title": "“सौरव-आशुतोष माझ्यापेक्षा खूप मोठे नेते, पण आता यानंतर…”; अभिजीत दीपके यांना काय म्हणायचेय?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-22T10:55:30",
+            "url": "https://www.lokmat.com/national/cockroach-janata-party-cjp-founder-abhijeet-dipke-said-saurav-das-and-ashutosh-ranka-are-much-bigger-leaders-than-me-a-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saurav-das-ashutosh-ranka-and-abhijeet-dipke_2026101806898.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "34b82c7ba504",
+            "feed": "lokmat",
+            "title": "देशाची मान शरमेने...! पॅरालिम्पिक खेळाडूचे जपानमधील हॉटेल कर्मचाऱ्यासोबत अश्लील वर्तन; स्पर्धा खेळण्यास बंदी, भारतात पाठवून दिले...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-22T10:26:10",
+            "url": "https://www.lokmat.com/international/para-swimmer-shams-aalam-shaikh-molestation-row-paralympic-athlete-had-obscene-behavior-with-a-hotel-employee-in-japan-banned-from-participating-in-competitions-sent-to-india-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/para-swimmer-shams-aalam-shaikh-molestation-row_2026101806871.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4681d950c57f",
+            "feed": "lokmat",
+            "title": "फ्रान्समधील भीषण अशांततेच्या पार्श्वभूमीवर भारत सतर्क! तेथील भारतीयांसाठी दूतावासाकडून महत्त्वाची ॲडव्हायझरी जारी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-22T09:21:38",
+            "url": "https://www.lokmat.com/international/india-on-alert-in-wake-of-deadly-unrest-in-france-embassy-issues-important-advisory-for-indians-there-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/situation-in-france-india-has-issued-an-advisory-india_2026101806838.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "854688ff649a",
+            "feed": "lokmat",
+            "title": "अमेरिकेसाठी रशियातून डिझेलचा पहिला टँकर रवाना; डोनाल्ड ट्रम्प आणि पुतिन यांच्यातील गुप्त कराराने जगभरात खळबळ, युरोप संतापले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-22T08:17:27",
+            "url": "https://www.lokmat.com/international/russia-exports-diesel-tanker-to-us-first-diesel-tanker-leaves-russia-for-america-secret-deal-between-donald-trump-and-putin-creates-stir-worldwide-europe-angered-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/oil-tanker-russia-to-america-1_2026101806824.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "7ad984878d5d",
             "feed": "esakal",
@@ -196,154 +244,106 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "9bcb15d490ca",
-            "feed": "lokmat",
-            "title": "\"आमच्या देशाला राजकारणाचा मोहरा बनवू नका...!\"; ट्रम्प यांच्या सल्ल्यावर इमॅन्युएल मॅक्रॉन भडकले, स्पष्टच बोलले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-21T20:55:51",
-            "url": "https://www.lokmat.com/international/france-protests-emmanuel-macron-gets-angry-at-trumps-advice-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/emmanuel-macron-donald-trump_2026101806775.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b9b2b4d88ed0",
-            "feed": "esakal",
-            "title": "China Panda : चीनची पांडा शिष्टाई",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-21T20:45:06",
-            "url": "https://www.esakal.com/blog/chinas-panda-diplomacy-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-21/eny4w30z/china-panda",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "6f54b4ea3e8b",
-            "feed": "esakal",
-            "title": "Donal Trump: 'मी त्यांच्या पार्श्वभागाकडे पाहिले, पण...'! ट्रम्प यांचा 'तो' व्हिडिओ का होतोय व्हायरल?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-21T20:30:27",
-            "url": "https://www.esakal.com/global/donald-trump-jon-husted-body-remarks-campaign-rally-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-21/ccv7l6ml/trump.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "11fb26f750c5",
-            "feed": "lokmat",
-            "title": "मराठमोळ्या दिलीप गावितची सोनेरी कामगिरी, विक्रमी वेळेसह एशियन  पॅरा गेममध्ये जिंकलं सुवर्णपदक",
+            "id": "7625660b6a5a",
+            "feed": "esakal",
+            "title": "Mohammed Shams Aalam : भारतीय पॅरा-जलतरणपटूवर लैंगिक छळाचा आरोप; जपानमधून भारतात पाठवले, आजीवन बंदीची शक्यता",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-21T19:34:50",
-            "url": "https://www.lokmat.com/other-sports/marathmola-dilip-gavits-golden-performance-won-the-gold-medal-in-the-asian-para-games-with-a-record-time-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dilip-gavit-1_2026101806750.jpg",
+            "published": "2026-10-22T11:04:12",
+            "url": "https://www.esakal.com/krida/asian-para-games-2026-mohammed-shams-aalam-shaikh-japan-deportation-sexual-misconduct-allegations-pci-lifetime-ban-nagoya-hotel-case-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-22/l3k5l91y/-2026-10-22T105149.930.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "878ed1e13da3",
-            "feed": "maharashtratimes",
-            "title": "Icc Odi World Cup 2027 : वर्ल्ड कपसाठी बीसीसीआयच्या 2 अटी! रोहित-विराटसमोर सर्वात मोठं आव्हान, अध्यक्षांचे स्पष्ट संकेत, नक्की काय?",
+            "id": "7520bb9c5104",
+            "feed": "esakal",
+            "title": "IND vs NZ 1st T20I : वैभव सूर्यवंशी OUT, Kuldeep Yadav ला पण स्थान नाही; दिग्गजाने जाहीर केली भारताची Playing XI",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-21T18:29:42",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/bcci-chief-mithun-manhas-gave-hint-about-upcoming-icc-odi-world-cup-2027-selection-big-challenge-to-virat-kohli-and-rohit-sharma/articleshow/135089667.cms",
-            "image": "",
+            "published": "2026-10-22T10:53:47",
+            "url": "https://www.esakal.com/krida/cricket/no-place-for-vaibhav-suryavanshi-or-kuldeep-yadav-aakash-chopra-reveals-his-india-xi-for-new-zealand-t20i-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-22/ae0930lm/Aakash-Chopra-predicted-India-playing-XI-for-IND-vs-NZ-1st-T20I",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "817c316c67f6",
-            "feed": "maharashtratimes",
-            "title": "Hardik Pandya : पलटण पुन्हा कर्णधार बदलण्याच्या तयारीत! मुंबई इंडियन्स रोहित शर्माला सन्मानाने नेतृत्वाची धुरा सोपवणार?",
+            "id": "78c4fed1e453",
+            "feed": "esakal",
+            "title": "IND vs NZ 1st T20I : खेळपट्टीत ट्विस्ट? वैभव सूर्यवंशीला Playing XI मध्ये खेळवण्याचा करावा लागेल विचार; गंभीर, अय्यर कठोर निर्णय घेणार?",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-21T17:15:09",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ipl-three-franchise-want-trade-hardik-pandya-then-who-is-new-captain-of-mumbai-indians/articleshow/135090781.cms",
-            "image": "",
+            "published": "2026-10-22T09:51:20",
+            "url": "https://www.esakal.com/krida/cricket/vaibhav-sooryavanshi-in-india-playing-xi-christchurch-pitch-conditions-could-force-gautam-gambhir-and-shreyas-iyer-to-rethink-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-22/cmozerd3/IND-vs-NZ-1st-T20I-Christchurch-pitch-report-and-playing-XI-predictions",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "53abf606f847",
+            "id": "db7279c17d2b",
             "feed": "lokmat",
-            "title": "३५ सेफ्टी फीचर्स, लेव्हल-२ ADAS अन् बरंच काही...! २६ ऑक्टोबरला येतेय ह्युंदाईची नवी SUV",
+            "title": "ड्रायव्हिंग लायसन्स मिळवणे आता सोपे होणार! पत्ता बदलण्याच्या शुल्कापासून ते 'ऑटो अप्रूव्हल'पर्यंत; पाहा हे ५ मोठे बदल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-22T02:20:12",
-            "url": "https://www.lokmat.com/auto/35-safety-features-level-2-adas-hyundai-new-suv-bayon-is-coming-on-october-26th-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hyundai-bayon_2026101806799.jpg",
+            "published": "2026-10-22T10:54:04",
+            "url": "https://www.lokmat.com/photos/auto/getting-a-driving-license-will-now-be-easier-from-address-change-fees-to-auto-approval-check-out-these-5-major-changes-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/driwing-licence-main-story_2026101806884.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "5cf7362f921c",
+            "id": "031710420edb",
             "feed": "lokmat",
-            "title": "महिंद्रानं लाँच केली नवी SUV! दमदार लूक आणि ब्रॉन्ज फिनिशिंगसह Bolero Bold बाजारात, जाणून घ्या सविस्तर",
+            "title": "Jowar Kharedi : १५ हजार क्विंटल ज्वारी विकली, मग कडबा कुठे? राळेगावातील खरेदीवर संशय",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-22T01:31:16",
-            "url": "https://www.lokmat.com/auto/mahindra-launches-new-suv-bolero-bold-with-bold-look-and-bronze-finishing-in-the-market-know-the-details-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahindra-bolero-bold-edition_2026101806797.jpg",
+            "published": "2026-10-22T10:42:19",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-jowar-kharedi-15-thousand-quintals-of-jowar-sold-then-where-is-the-money-doubts-on-purchase-in-ralegaon-a-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jowar-kharedi-rel-1111_2026101806894.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "fa11d89bd97e",
-            "feed": "esakal",
-            "title": "SBI ची खास FD योजना! ५ लाखांच्या गुंतवणुकीवर किती मिळणार व्याज?",
+            "id": "4ce7efd85b06",
+            "feed": "lokmat",
+            "title": "शेअर बाजार उघडताच सेन्सेक्स ५४० अंकांनी आपटला, निफ्टीही २०१ अंकांनी खाली; Hindalco आणि Tata Steel सह 'हे' शेअर्स घसरले",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
             },
-            "published": "2026-10-21T22:34:45",
-            "url": "https://www.esakal.com/ampstories/web-story/sbi-amrit-vrishti-fd-scheme-2026-interest-rate-5-lakh-investment-returns-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-21/kg7629pk/SBI-Amrit-Vrishti-FD-Scheme-1.jpg",
+            "published": "2026-10-22T10:41:01",
+            "url": "https://www.lokmat.com/business/stock-market/sensex-falls-by-540-points-as-stock-market-opens-nifty-also-falls-by-21-points-these-stocks-including-hindalco-and-tata-steel-fall-a-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shares-down-2310s_2026011628912.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         }
     ]
 }
