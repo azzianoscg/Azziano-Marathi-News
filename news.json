@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "22-10-2026 | 02:31 AM IST",
+    "lastUpdated": "22-10-2026 | 05:49 AM IST",
     "maharashtra": [
         {
             "id": "a68725204a6e",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "c24ffd189884",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 22 ऑक्टोबर 2026 : एकादशी तिथीला बुधादित्य योगाचा संयोग, या राशींवर होणार हरिकृपा ! पहा तुमचे राशिभविष्य !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-22T05:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-22-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135094056.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "e26d0f91f3d4",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 22 October 2026: मूलांक 2 कामात कंटाळा घातक! मूलांक 5 प्रयत्नांवर विश्वास ठेवा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-22T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-22-october-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135095327.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "99fd4cdeafcb",
             "feed": "maharashtratimes",
             "title": "घर, ट्रॅक्टर, डुकराची पिल्लं सगळं दिसतेय सारखंच; पण दोन्ही चित्रांमध्ये आहेत ३ फरक, हुशार असाल तर हे फरक शोधून दाखवा",
@@ -128,38 +160,6 @@
             "published": "2026-10-22T00:19:33",
             "url": "https://maharashtratimes.com/viral/viral-news/ravana-fights-back-firecrackers-fly-towards-crowd-during-dussehra-celebration/articleshow/135099415.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "9363be7e5b84",
-            "feed": "maharashtratimes",
-            "title": "NMMS Scheme : फक्त एक परीक्षा सोडवा अन् सरकारकडून 48,000 रुपये मिळवा! सलग चार वर्षांसाठी मिळेल आर्थिक लाभ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-21T23:19:22",
-            "url": "https://maharashtratimes.com/government-schemes/central-government-policy/nmms-government-scheme-to-get-48000-educational-scholarship-from-9th-to-12th-standard/articleshow/135097870.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "eed783e9dfdb",
-            "feed": "lokmat",
-            "title": "घर बांधताना छताला मातीचे माठ का लावतात? माठ लावल्यामुळे नेमकं काय होतं, पाहा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-21T23:19:01",
-            "url": "https://www.lokmat.com/sakhi/social-viral/why-contractors-use-earthen-pots-in-roof-construction-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-21-at-4.19.52-pm-2_2026101806791.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
