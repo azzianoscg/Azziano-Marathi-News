@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "23-10-2026 | 01:07 AM IST",
+    "lastUpdated": "23-10-2026 | 04:22 AM IST",
     "maharashtra": [
         {
             "id": "0271656b2fea",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "f346e11cb0d0",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 23 October 2026: मूलांक 4, 5, 6 रागाला आवरा, संधींचा लाभ घ्या! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-23T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-23-october-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135122158.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "083b29fd8b59",
+            "feed": "lokmat",
+            "title": "\"भारत की प्रतिष्ठा...!\" श्रीहरिकोटाचा उल्लेख करत अन् 'फेल प्रोडक्ट' म्हणत पंतप्रधान मोदींचा 'रिजीम चेंज' विधानावरून हल्लाबोल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-23T02:17:23",
+            "url": "https://www.lokmat.com/national/pm-modi-criticizes-congress-regime-change-remarks-mentioning-sriharikota-and-calling-it-a-failed-product-rahul-gandhi-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pm-narendra-modi-d-s_2026101807534.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "f78066ca6c4e",
             "feed": "maharashtratimes",
             "title": "आजचे राशिभविष्य 23 ऑक्टोबर 2026 : धनयोगाचा शुभ संयोग,लक्ष्मीकृपेने येणार बरकत 'या' राशींची होणार भरभराट ! पहा तुमचे राशिभविष्य !",
@@ -130,38 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "91f116da3e6b",
-            "feed": "lokmat",
-            "title": "सोनसाखळी लंपास करणाऱ्या दोन महिला गजाआड",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-22T22:42:41",
-            "url": "https://www.lokmat.com/vardha/two-women-arrested-for-stealing-gold-chain-in-wardha-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-fdssd_2026101807530.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5724434f9b41",
-            "feed": "maharashtratimes",
-            "title": "Tiger Shroff Attack :  गोळीबारानंतर जखमा कुठे गायब ? अशी आहे ॲक्शन हिरोची अवस्था, टायगर श्रॉफच्या टीम ने शेयर केला व्हिडिओ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-22T22:01:04",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/tiger-shroff-first-video-burn-marks-after-firing/articleshow/135122823.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "cfa0da0350a2",
+            "feed": "lokmat",
+            "title": "'या' एकाच SUV वर तुटून पडले ग्राहक, तब्बल १२३२८७ लोकांनी खरेदी केली; नेक्सॉन, फ्रॉन्क्स, ब्रेझाला मागे टाक नंबर १ ठरली!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-23T01:06:12",
+            "url": "https://www.lokmat.com/auto/tata-punch-becomes-top-selling-compact-suv-h1-fy27-it-surpassed-nexon-fronx-brezza-and-became-number-1-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tata-punch-2026_2026101807533.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
             "id": "756f59d51a25",
             "feed": "maharashtratimes",
             "title": "Government Scheme : व्यवसाय उभारण्यासाठी कर्जावर जास्त व्याजाची कटकट सोडा! सरकारच्या SMS योजनेतून सॉफ्ट लोन मिळवा",
@@ -326,22 +342,6 @@
             "published": "2026-10-22T21:31:34",
             "url": "https://maharashtratimes.com/business/business-news/indian-government-want-to-shift-to-methanol-fuel-for-shipping-industry/articleshow/135121835.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5b0b04a3731f",
-            "feed": "lokmat",
-            "title": "दर सेकंदाला एक गाडी..; नवरात्रीच्या काळात ११ लाख वाहनांची विक्री! कोणत्या गाडीला सर्वाधिक मागणी? जाणून घ्या...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-10-22T20:45:35",
-            "url": "https://www.lokmat.com/business/news/one-car-every-second-11-lakh-vehicles-sold-during-navratri-which-car-is-in-the-highest-demand-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/navratri-car-bike-buying_2026101807500.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
