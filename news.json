@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "24-10-2026 | 02:18 AM IST",
+    "lastUpdated": "24-10-2026 | 05:10 AM IST",
     "maharashtra": [
         {
             "id": "cc26ae7e036d",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "0f2fe7753b63",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 24 October 2026: मूलांक 1, 5, 6 संयमाने वागा, चिडचिड कमी करा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-24T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-24-october-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135153642.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "82f52e4bb4ed",
+            "feed": "lokmat",
+            "title": "जामियामध्ये 'फ्री काश्मीर', 'फ्री शरजील'चे आक्षेपार्ह नारे, काँग्रेस खासदार इम्रान मसूद यांची एंट्री; केलं काश्मीर संदर्भात मोठं विधान",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-24T03:19:45",
+            "url": "https://www.lokmat.com/national/jamia-millia-free-kashmir-free-sharjeel-offensive-slogans-congress-mp-imran-masood-enters-made-a-big-statement-regarding-kashmir-detained-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jamia-millia_2026101808233.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "a76a2a560b37",
             "feed": "maharashtratimes",
             "title": "आजचे राशिभविष्य 24 ऑक्टोबर 2026 : शनिदेव देणार या राशींना साथ तर यांच्यासाठी कठीण काळ ! पहा तुमचे राशिभविष्य !",
@@ -128,38 +160,6 @@
             "published": "2026-10-23T21:57:39",
             "url": "https://www.esakal.com/premier/anjali-arora-dandiya-show-walkout-kacha-badam-legal-notice-entertainment-news-today-marathi-2026-vsw03",
             "image": "https://cf-images.assettype.com/esakal/2026-10-23/omyy8l14/Esakal-13.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "a0145cd9dd32",
-            "feed": "maharashtratimes",
-            "title": "Ranbir Kapoor Watch Collection: शौक बडी चीज है! हजार, लाख नव्हे तर कोट्यवधींचं 'लक्झरी वॉच कलेक्शन', रणबीर कपूरच्या राम जन्मभूमी एडिशन घड्याळाची जोरदार चर्चा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-23T21:34:18",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/ranbir-kapoor-luxury-watch-collection-patek-philippe-to-ram-janmabhoomi-special-edition/articleshow/135150002.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "f774afd70d6b",
-            "feed": "maharashtratimes",
-            "title": "फटाक्यांच्या स्फोटांनी गाव हादरलं, 7 जणांचा करुण अंत; निष्प्राण देहांची अवस्था पाहवेना",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-23T21:23:54",
-            "url": "https://maharashtratimes.com/india-news/seven-dies-in-blast-at-illegal-firecracker-factory-blast-in-bihars-siwan/articleshow/135149896.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         }
