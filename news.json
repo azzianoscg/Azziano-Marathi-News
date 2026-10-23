@@ -1,88 +1,104 @@
 {
-    "lastUpdated": "23-10-2026 | 11:06 PM IST",
+    "lastUpdated": "24-10-2026 | 02:18 AM IST",
     "maharashtra": [
         {
-            "id": "f6287830c563",
-            "feed": "esakal",
-            "title": "Tembhapuri Project : टेंभापुरी प्रकल्पातील ३२ डीपींचा वीजपुरवठा बंद; अनधिकृत उपसा रोखण्यासाठी प्रशासनाची कारवाई",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-23T22:57:04",
-            "url": "https://www.esakal.com/marathwada/tembhapuri-project-power-supply-disconnected-for-32-dps-to-stop-illegal-water-lifting-shendurwada-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-23/5m0hz1pk/tembhapuri-project-power-supply",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "331fa1525b65",
+            "id": "cc26ae7e036d",
             "feed": "maharashtratimes",
-            "title": "Pune School Diwali Holidays: पुणे जिल्ह्यातील शाळांच्या दिवाळी सुट्ट्यांच्या तारखा बदलल्या! ५ नोव्हेंबरपासून सुटी सुरू;  नवे परिपत्रक जारी",
+            "title": "MAPS : अप्रेंटिसशिपला प्रोत्साहन देणारी विशेष योजना! तरुणांच्या स्टायपेंडमध्ये सरकारचे विशेष योगदान",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-23T22:50:39",
-            "url": "https://maharashtratimes.com/career/career-news/diwali-holiday-dates-for-schools-in-pune-district-changed-holidays-start-from-november-5/articleshow/135151341.cms",
+            "published": "2026-10-23T23:49:07",
+            "url": "https://maharashtratimes.com/government-schemes/state-government-policy/maps-maharashtra-government-scheme-for-promoting-apprenticeship-in-state/articleshow/135152698.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "650c5996e82c",
+            "id": "f5579c19399c",
             "feed": "lokmat",
-            "title": "नागपूर पदवीधर मतदारसंघात ६०.६९% मतदान, भाजप गड परत मिळवणार की काँग्रेस जागा राखणार? विजयाचा गुलाल कुणाचा?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-23T22:46:47",
-            "url": "https://www.lokmat.com/nagpur/above-60-percent-voter-turnout-in-nagpur-graduates-constituency-election-will-bjp-regain-its-stronghold-or-will-congress-retain-the-seat-whose-victory-will-be-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/graduates-constituency-election_2026101808219.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d78609dd31d2",
-            "feed": "esakal",
-            "title": "Nhavare Crime : आंबळे येथे विवाहितेचा छळ; पतीसह सासरच्या पाच जणांविरुद्ध गुन्हा दाखल!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-23T22:42:35",
-            "url": "https://www.esakal.com/pune/married-woman-harassment-case-amble-husband-and-five-relatives-booked-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-19/avtg5c0x/Crime",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0050df13bc8b",
-            "feed": "lokmat",
-            "title": "तहसीलदारांचा खासगी वाहन चालक लाचलुचपतच्या जाळ्यात; हिंगोली एसीबी पथकाची पाथरीत कारवाई",
+            "title": "विसर्जनाच्या वेळेवरून पाेलिसांना केली धक्काबुक्की; उमरखेड ठाण्यात १५ जणांविरुद्ध गुन्हा दाखल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-23T22:34:21",
-            "url": "https://www.lokmat.com/hingoli/tehsildars-private-vehicle-driver-caught-in-bribery-trap-hingoli-acb-team-takes-swift-action-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-30-sd_2026101808218.jpg",
+            "published": "2026-10-23T23:47:32",
+            "url": "https://www.lokmat.com/yavatmal/police-were-harassed-over-immersion-time-case-registered-against-15-people-at-umarkheed-police-station-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-ds-ssdsdd_2026101808229.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "bee8725bd52e",
+            "feed": "esakal",
+            "title": "Ambad Crime : अंबड -घनसावंगी मार्गावरील पांगरखेडा फाट्यालगत धारदार शस्त्राने युवकाचा खून",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-23T23:46:39",
+            "url": "https://www.esakal.com/marathwada/youth-killed-with-sharp-weapon-near-pangarkheda-phata-on-ambad-ghansawangi-road-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-23/fbr3hmz1/Mustakin-Gafar",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "774f5fc756d7",
+            "feed": "lokmat",
+            "title": "कापूस-तुरीच्या शेतात गांजाची लागवड १८ किलो गांजा जप्त",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-23T23:43:06",
+            "url": "https://www.lokmat.com/yavatmal/18-kg-of-marijuana-seized-in-cotton-tur-field-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-yavtmal_2026101808228.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "31c5b0e71804",
+            "feed": "esakal",
+            "title": "Sinhgad Road Traffic : सिंहगड रस्त्यावर चार किलोमीटर रांगा; वडगाव पूल ते गणेशमळादरम्यान कोंडी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-23T23:36:03",
+            "url": "https://www.esakal.com/pune/sinhagad-road-massive-traffic-jam-four-kilometer-long-queues-from-vadgaon-bridge-to-ganeshmala-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-23/3ffyebmz/Sinhgad-Road-Traffic-Jam",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "a76a2a560b37",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 24 ऑक्टोबर 2026 : शनिदेव देणार या राशींना साथ तर यांच्यासाठी कठीण काळ ! पहा तुमचे राशिभविष्य !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-24T00:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-24-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135150017.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "b76706d4153e",
             "feed": "maharashtratimes",
@@ -146,22 +162,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "3e5e688dcaa8",
-            "feed": "lokmat",
-            "title": "\"झाकीर नाईकचं स्वप्न कधीही पूर्ण होणार नाही...!\"; भाजप मंत्र्याचा नाव न घेता राहुल गांधींवर निशाणा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-23T21:21:00",
-            "url": "https://www.lokmat.com/national/zakir-naik-dream-will-never-come-true-targets-rahul-gandhi-without-naming-bjp-minister-kiren-rijiju-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kiren-rijiju-slams-rahul-gandhi-over-zakir-naik_2026101808211.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "world": [
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "bb8f24db7ff3",
+            "feed": "lokmat",
+            "title": "इंधन बचत... जबरदस्त मायलेज! या आहेत भारतातील सर्वात किफायतशीर हायब्रिड कार, जाणून घ्या किंमत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-24T00:51:39",
+            "url": "https://www.lokmat.com/auto/fuel-saving-amazing-mileage-the-most-economical-hybrid-cars-in-india-know-the-price-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hybrid-cars_2026101808231.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
             "id": "2ee778d578fc",
             "feed": "esakal",
             "title": "बुध वक्री होताच वृषभसह ६ राशींच्या अडचणी वाढणार; व्यवसायाबाबत निर्णय घेताना सावधगिरी गरजेची",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "5162f72cd3ce",
-            "feed": "lokmat",
-            "title": "सरकारचे मोठे पाऊल; एअरबॅग्जप्रमाणे आता सर्व गाड्यांमध्ये 'हे' सुरक्षा फीचर अनिवार्य केले जाणार...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-23T21:03:22",
-            "url": "https://www.lokmat.com/auto/governments-big-step-like-airbags-safety-feature-aebs-will-now-be-made-mandatory-in-all-cars-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/car-satety_2026101808209.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
