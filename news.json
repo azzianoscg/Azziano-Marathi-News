@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "24-10-2026 | 05:10 AM IST",
+    "lastUpdated": "24-10-2026 | 08:00 AM IST",
     "maharashtra": [
         {
-            "id": "cc26ae7e036d",
-            "feed": "maharashtratimes",
-            "title": "MAPS : अप्रेंटिसशिपला प्रोत्साहन देणारी विशेष योजना! तरुणांच्या स्टायपेंडमध्ये सरकारचे विशेष योगदान",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-23T23:49:07",
-            "url": "https://maharashtratimes.com/government-schemes/state-government-policy/maps-maharashtra-government-scheme-for-promoting-apprenticeship-in-state/articleshow/135152698.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "f5579c19399c",
-            "feed": "lokmat",
-            "title": "विसर्जनाच्या वेळेवरून पाेलिसांना केली धक्काबुक्की; उमरखेड ठाण्यात १५ जणांविरुद्ध गुन्हा दाखल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-23T23:47:32",
-            "url": "https://www.lokmat.com/yavatmal/police-were-harassed-over-immersion-time-case-registered-against-15-people-at-umarkheed-police-station-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/police-ds-ssdsdd_2026101808229.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "bee8725bd52e",
+            "id": "cb39cacbf988",
             "feed": "esakal",
-            "title": "Ambad Crime : अंबड -घनसावंगी मार्गावरील पांगरखेडा फाट्यालगत धारदार शस्त्राने युवकाचा खून",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-23T23:46:39",
-            "url": "https://www.esakal.com/marathwada/youth-killed-with-sharp-weapon-near-pangarkheda-phata-on-ambad-ghansawangi-road-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-23/fbr3hmz1/Mustakin-Gafar",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "774f5fc756d7",
-            "feed": "lokmat",
-            "title": "कापूस-तुरीच्या शेतात गांजाची लागवड १८ किलो गांजा जप्त",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-23T23:43:06",
-            "url": "https://www.lokmat.com/yavatmal/18-kg-of-marijuana-seized-in-cotton-tur-field-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-yavtmal_2026101808228.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "31c5b0e71804",
-            "feed": "esakal",
-            "title": "Sinhgad Road Traffic : सिंहगड रस्त्यावर चार किलोमीटर रांगा; वडगाव पूल ते गणेशमळादरम्यान कोंडी",
+            "title": "Maharashtra Weather Update : कमी दाबाच्या क्षेत्रामुळे राज्यातील हवामान बदलणार; चार जिल्ह्यांत पावसाचा अंदाज, आठ जिल्ह्यांना सतर्कतेचा इशारा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-23T23:36:03",
-            "url": "https://www.esakal.com/pune/sinhagad-road-massive-traffic-jam-four-kilometer-long-queues-from-vadgaon-bridge-to-ganeshmala-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-23/3ffyebmz/Sinhgad-Road-Traffic-Jam",
+            "published": "2026-10-24T07:54:38",
+            "url": "https://www.esakal.com/maharashtra/maharashtra-weather-update-low-pressure-area-may-change-weather-conditions-with-rain-forecast-in-four-districts-and-a-weather-alert-for-eight-districts-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/e8pdkd47/sandeep-shirguppe-2026-10-24T075006.539.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b2734cf8777a",
+            "feed": "esakal",
+            "title": "Festival Expenses: दिवाळीत खिशाला मोठी कात्री ! अन्नधान्य महागल्याने सामान्यांवर आर्थिक ताण",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-24T07:52:26",
+            "url": "https://www.esakal.com/mumbai/diwali-food-prices-edible-oil-hike-festival-expenses-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/wq13pl8z/26.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "564810252bd7",
+            "feed": "maharashtratimes",
+            "title": "Pune Crime : ती बालवाडीपासून शाळेत, तो गेल्या वर्षी आला, दोघं एकमेकांना ओळखतही नव्हते; पुण्यात नववीतील मुलीवर मुलाचा हल्ला, महाबळेश्वर पिकनिकला काय घडलेलं?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-24T07:43:44",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/pimpri-school-girl-student-knife-attack-by-fellow-boy-dispute-over-picnic-dance-video/articleshow/135159679.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7950bc0af5d2",
+            "feed": "maharashtratimes",
+            "title": "Navi Mumbai Airport: नवी मुंबई विमानतळावर विमानसेवांचा विस्तार; 9 शहरांना थेट जोडणी, जळगाव, सिंधुदुर्गसह कुठे उड्डाणे?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-24T07:41:31",
+            "url": "https://maharashtratimes.com/maharashtra/navi-mumbai/navi-mumbai-airport-network-expands-9-new-destinations-added-as-passenger-traffic-crosses-35-lakh/articleshow/135159494.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2dc3ccabc151",
+            "feed": "lokmat",
+            "title": "हमाल, डब्बेवाले मराठा असले तरी संपूर्ण समाजाला मराठा आरक्षण नेमके कशासाठी?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-24T07:25:22",
+            "url": "https://www.lokmat.com/mumbai/even-though-the-porters-and-dabbawalas-are-marathas-why-exactly-is-there-maratha-reservation-for-the-entire-community-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maratha-reservation-4_2026101808246.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "0f2fe7753b63",
+            "id": "67fb3c3b854d",
             "feed": "maharashtratimes",
-            "title": "अंकभविष्य 24 October 2026: मूलांक 1, 5, 6 संयमाने वागा, चिडचिड कमी करा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "title": "Rajshri Deshpande:मराठवाड्यातील दुष्काळग्रस्त गावात मराठी अभिनेत्रीचं मोठं काम,  सुरू केलंय 'उमेद पशुधन आधार केंद्र', शेतकऱ्यांना आधार",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-24T04:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-24-october-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135153642.cms",
+            "published": "2026-10-24T07:47:31",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/rajshri-deshpande-social-work-in-drought-hit-marathwada-village-providing-food-for-animals/articleshow/135159786.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "82f52e4bb4ed",
-            "feed": "lokmat",
-            "title": "जामियामध्ये 'फ्री काश्मीर', 'फ्री शरजील'चे आक्षेपार्ह नारे, काँग्रेस खासदार इम्रान मसूद यांची एंट्री; केलं काश्मीर संदर्भात मोठं विधान",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-24T03:19:45",
-            "url": "https://www.lokmat.com/national/jamia-millia-free-kashmir-free-sharjeel-offensive-slogans-congress-mp-imran-masood-enters-made-a-big-statement-regarding-kashmir-detained-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jamia-millia_2026101808233.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a76a2a560b37",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 24 ऑक्टोबर 2026 : शनिदेव देणार या राशींना साथ तर यांच्यासाठी कठीण काळ ! पहा तुमचे राशिभविष्य !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-24T00:00:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-24-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135150017.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "b76706d4153e",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 24 October 2026: लक्ष्मी नारायण योग, हंस राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-23T23:01:17",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-24-october-2026-in-marathi-laxmi-narayan-yog-hansa-yog-and-shubha-muhurta/articleshow/135150001.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "219f4fa5a118",
+            "id": "2c865ee5bc54",
             "feed": "esakal",
-            "title": "Anjali Arora controversial exit : ३ लाख रुपये घेतले अन् १२ व्या मिनिटाला स्टेजवरून पळाली; अंजली अरोराच्या 'त्या' नखऱ्यांमुळे आयोजकांचा मोठा दणका!",
+            "title": "Sugar Prices: करमुक्त साखरेच्या आयातीस मुदतवाढ ;भाव स्थिर राहणार; आयातदारांना दिलासा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-23T21:57:39",
-            "url": "https://www.esakal.com/premier/anjali-arora-dandiya-show-walkout-kacha-badam-legal-notice-entertainment-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-23/omyy8l14/Esakal-13.jpg",
+            "published": "2026-10-24T07:34:15",
+            "url": "https://www.esakal.com/desh/sugar-import-extension-duty-free-raw-sugar-prices-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/85r6bx9j/pg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "7750407dee03",
+            "feed": "lokmat",
+            "title": "उद्योग विभाग, एमआयडीसीची दादागिरी खपवून घेणार नाही; पालकमंत्री गणेश नाईक आक्रमक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-24T07:20:58",
+            "url": "https://www.lokmat.com/vasai-virar/will-not-tolerate-the-bullying-of-industries-department-midc-guardian-minister-ganesh-naik-aggressive-a-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ganesh-naik-2_2026101808245.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "369c43d5b922",
+            "feed": "lokmat",
+            "title": "आजचे राशीभविष्य २४ ऑक्टोबर २०२६: आज नशिबाची साथ लाभून अचानक धनलाभ होईल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-24T07:15:07",
+            "url": "https://www.lokmat.com/astro/articles/todays-horoscope-24-october-2026-today-luck-will-favor-you-and-you-will-make-sudden-financial-gains-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/astro-24-oct-26_2026101808242.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "0313be62de5b",
+            "feed": "lokmat",
+            "title": "कोजागरी पौर्णिमा २०२६: श्रीकृष्णाने गोपिकांबरोबर महारास खेळण्यासाठी कोजागरीचीच रात्र का निवडली?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-24T07:10:02",
+            "url": "https://www.lokmat.com/bhakti/sharad-purnima-2026-why-did-lord-krishna-choose-the-night-of-kojagari-to-play-maharas-with-the-gopis-a-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kojagiri-purnima-2026-raas-purnima_2026101807717.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "7470a366b8b3",
+            "feed": "maharashtratimes",
+            "title": "10,000mAh बॅटरी असलेला Vivo Y600 फोन लवकरच बाजारात येणार, 50MP कॅमेऱ्यासह फीचर्सही खास",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-24T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/vivo-y600-to-launch-soon-with-massive-10000mah-battery-and-guinness-world-record-title/articleshow/135142032.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "3bb89086324a",
             "feed": "esakal",
@@ -193,7 +209,7 @@
             },
             "published": "2026-10-23T20:19:14",
             "url": "https://www.esakal.com/ampstories/web-story/440-crore-fantasy-bra-kylie-jenner-victorias-secret-diamond-bra-fashion-show-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-23/3vg7lm6n/Fantasy-Bra-Unique-Features-1.jpg",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/8u5dezq0/Fantasy-Bra-Unique-Features-5.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
@@ -228,22 +244,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-23/dl4fx2tg/piyush-goyal",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "e29bca8514f4",
-            "feed": "maharashtratimes",
-            "title": "सोनं खरेदी करा अन् जंगलात 'तिथे' ठेवा! शेकडो लोकांनी सल्ला ऐकला अन् भयंकर प्रकार घडला",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-23T19:33:45",
-            "url": "https://maharashtratimes.com/international/international-news/forest-gold-scam-in-norway-victims-dumped-into-hiding-bullion-in-woodland/articleshow/135147836.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
