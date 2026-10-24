@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "25-10-2026 | 12:39 AM IST",
+    "lastUpdated": "25-10-2026 | 03:37 AM IST",
     "maharashtra": [
+        {
+            "id": "5dfa7e3039b4",
+            "feed": "lokmat",
+            "title": "वाठोड्यातील फ्लॅटमध्ये आढळले नकली नोटांचे घबाड; ५०० रुपयांच्या नोटांचे १२ बंडल जप्त; फरार भाडेकरूचा शोध सुरू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-25T01:01:08",
+            "url": "https://www.lokmat.com/nagpur/fake-currency-found-in-flat-in-vathoda-12-bundles-of-rs-500-notes-seized-search-underway-for-absconding-tenant-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-reds_2026101808690.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f2319ee0e2e4",
             "feed": "esakal",
@@ -64,25 +80,57 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-24/9gf5o44e/yavatmal-Crime",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "050462c6d9bd",
-            "feed": "esakal",
-            "title": "दुहेरी हत्याकांडानं यवतमाळ हादरलं! जगत मंदिर परिसरात रक्तरंजित थरार नेमका कसा घडला?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-24T22:33:46",
-            "url": "https://www.esakal.com/vidarbha/yavatmal-double-murder-jagat-mandir-area-police-search-accused-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/g2wmsmhs/Yavatmal-double-murder",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
+        {
+            "id": "3bc8c6247978",
+            "feed": "maharashtratimes",
+            "title": "भाडं ८८५ रुपये, मागितले १,७८०! खोटे स्क्रिनशॉट्स दाखवून कॅब रायडर करतात फसवणूक, पाहा प्रवाशानं कशी पकडली चोरी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-25T02:30:00",
+            "url": "https://maharashtratimes.com/viral/viral-news/fake-screenshot-scam-delhi-airport-uber-ride-turns-suspicious-after-driver-shows-1780-fare/articleshow/135177792.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "00b8c0ffa307",
+            "feed": "lokmat",
+            "title": "शासकीय वसतिगृहाच्या आवारात दाेघांची हत्या; घटनास्थळावर आढळले दारूचे ग्लास",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-25T00:49:44",
+            "url": "https://www.lokmat.com/crime/two-killed-in-government-hostel-premises-liquor-glasses-found-at-the-scene-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/death-sa_2026101808689.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8d7e5d213e89",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 25 October 2026: कोजागरी पौर्णिमा,गजकेसरी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-25T00:35:08",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-25-october-2026-in-marathi-kojagiri-purnima-and-shubha-muhurta/articleshow/135175102.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "9355f2946be8",
             "feed": "maharashtratimes",
@@ -114,57 +162,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "61cb3345d8cf",
-            "feed": "maharashtratimes",
-            "title": "भाजपची उमेदवारी हवी असेल तर बॉक्स मध्ये टाका पत्र, पश्चिम बंगालमध्ये अनोखा फंडा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-24T22:31:31",
-            "url": "https://maharashtratimes.com/india-news/bjp-unique-stratergy-in-west-bengal-intrested-candidature-drop-letter-in-box/articleshow/135174283.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "40c2b452011f",
-            "feed": "esakal",
-            "title": "अजगरापासून स्पर्म व्हेलपर्यंत...! माणसाला अख्खं गिळू शकतात 'हे' प्राणी; पाहा यादी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-24T22:18:41",
-            "url": "https://www.esakal.com/ampstories/web-story/animals-that-can-swallow-humans-whole-python-anaconda-sperm-whale-facts-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/klz21g73/5-Dangerous-Animals-1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "fba8eb61e443",
-            "feed": "esakal",
-            "title": "Jailer 2 Box Office: रजनीकांत यांचा बॉक्स ऑफिसवर जलवा! १० दिवसांत जगभरात ६४१ कोटींची कमाई",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-24T22:10:59",
-            "url": "https://www.esakal.com/premier/jailer-2-box-office-collection-day-10-rajinikanth-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/4rbn5vyz/rajani.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "122984f08205",
+            "feed": "lokmat",
+            "title": "फ्रान्समध्ये लाखो आंदोलक रस्त्यावर, पेरिससह अनेक शहरांत हिंसाचार, पोलिसांनी पाण्याचे फवारे अन् अश्रूधुराच्या नळकांड्या फोडल्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-25T00:44:17",
+            "url": "https://www.lokmat.com/international/millions-of-protesters-on-the-streets-in-france-violence-in-many-cities-including-paris-police-fired-water-cannons-and-tear-gas-canisters-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/france-news-fd_2026101808687.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c363a9b45913",
             "feed": "esakal",
@@ -228,22 +244,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-18/red9m132/Abhi-48.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "ae69a27faae1",
-            "feed": "lokmat",
-            "title": "जर्मन शिका, हजारो नोकऱ्या तुमच्यासाठी वाट बघत आहेत! केंद्रीय मंत्री पियुष गोयल यांचे आवाहन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-24T20:44:35",
-            "url": "https://www.lokmat.com/international/learn-german-thousands-of-jobs-are-waiting-for-you-union-minister-piyush-goyals-appeal-a-a283-c653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/union-minister-piyush-goyal-germany_2026101808673.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
