@@ -1,164 +1,164 @@
 {
-    "lastUpdated": "24-10-2026 | 05:50 PM IST",
+    "lastUpdated": "24-10-2026 | 09:51 PM IST",
     "maharashtra": [
         {
-            "id": "f59a04f8507d",
-            "feed": "esakal",
-            "title": "Pune Traffic Jam : दिवाळीच्या खरेदीमुळे मध्यवस्तीत वाहतूक कोंडी! लक्ष्मी, कुमठेकर, केळकर रस्त्यांसह प्रमुख मार्गांवर वाहनांच्या लांबच लांब रांगा; नो-एंट्रीतूनही वाहने",
+            "id": "3481a9f84b8d",
+            "feed": "lokmat",
+            "title": "कारची दुचाकीसह ड्रायव्हिंग स्कूलच्या वाहनाला धडक; एक ठार, एक जखमी",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-24T21:49:47",
+            "url": "https://www.lokmat.com/yavatmal/car-collide-with-two-wheeler-and-driving-school-vehicle-one-killed-one-injured-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-accident-hr_2026101808679.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "58e4a67e0a41",
+            "feed": "maharashtratimes",
+            "title": "Sanjay Gaikwad : एकनाथ शिंदेंनी उठाव केला नसता तर घरी बसला असता हे भाजपने विसरु नये, संजय गायकवाड यांचं भाजप नेत्यांना प्रत्युत्तर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-24T17:41:26",
-            "url": "https://www.esakal.com/pune/diwali-shopping-spree-causes-massive-traffic-jams-in-central-areas-long-queues-on-laxmi-kumthekar-kelkar-roads-and-major-routes-with-vehicles-violating-no-entry-rules-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/een5puzo/pune-traffic-jam",
+            "published": "2026-10-24T21:20:01",
+            "url": "https://maharashtratimes.com/maharashtra/buldana/sanjay-gaikwad-said-bjp-should-not-forget-eknath-shinde-contribution-for-mahayuti-government/articleshow/135173300.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ab9b2c4024e3",
+            "id": "3323a8b4f33c",
             "feed": "esakal",
-            "title": "''गेल्या दोन दिवसांपासून आम्ही...''; ५०० कोटींच्या कथित ऑडियो क्लिपबाबत श्रीकांत शिंदे पहिल्यांदाच बोलले, काय म्हणाले?",
+            "title": "Parner News : अहिल्यानगर जिल्ह्यात असाक्षर देणार रविवारी परीक्षा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-24T21:16:34",
+            "url": "https://www.esakal.com/ahmednagar/illiterate-citizens-to-appear-for-exam-on-sunday-in-ahilyanagar-district-literacy-mission-initiative-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-14/ieaklbn2/CET-exam",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "320386161941",
+            "feed": "esakal",
+            "title": "Truck Bike Accident : तारापूर एमआयडीसीत ट्रकच्या धडकेत तरुणाचा मृत्यू",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-24T17:40:33",
-            "url": "https://www.esakal.com/maharashtra/shrikant-shinde-reaction-500-crore-audio-clip-manoj-jarange-patil-maharashtra-politics-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/xa7c9cm5/Manoj-Jarange-Patil-Controversy",
+            "published": "2026-10-24T21:06:23",
+            "url": "https://www.esakal.com/mumbai/youth-killed-after-being-hit-by-truck-in-tarapur-midc-accident-triggers-tension-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/65f1v57z/Swaroop-Aarekar",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "01ed3cd32c32",
+            "id": "be5a465a8cc5",
             "feed": "esakal",
-            "title": "कुकाण्यातील अवैध व्यवसाय बंद करण्याची मागणी: कायदा सुव्यवस्थेचा प्रश्न गंभीर.",
+            "title": "एसएमबीटी हॉस्पिटलचा स्तुत्य उपक्रम",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-24T17:36:33",
-            "url": "https://www.esakal.com/pune/stop-illegal-gambling-kukane",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/tlq2wrri/Banner1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "786324b8d8b4",
-            "feed": "esakal",
-            "title": "तालुक्यातील बंद केलेली 4777  रेशन कार्ड पूर्ववत करावी यासाठी काँग्रेसचे सोमवारी धरणे आंदोलन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-24T17:34:37",
-            "url": "https://www.esakal.com/pune/ration-card-protest-maharashtra",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/zck7mkoi/Banner1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f9d06ebf17d4",
-            "feed": "esakal",
-            "title": "नागपूर पदवीधर निवडणूक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-24T17:32:14",
-            "url": "https://www.esakal.com/pune/nagpur-elections-bjp-congress",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/ayywsito/Banner1.png",
+            "published": "2026-10-24T21:05:19",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/free-maternity-services-smbt-hospital",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/rlvffqwz/Sakal20Wesite20Banner20_20Nashik.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "17e2d0ca145a",
+            "id": "db922c97d8c4",
             "feed": "esakal",
-            "title": "तुम्ही तिशीत आहात? हृदयाचे 'हे' संकेत दुर्लक्षित करू नका!",
+            "title": "Latest Marathi News Live Update : खासगी बाजारात शेतकऱ्यांची कोंडी, हमीभावापेक्षा २४१ रुपयांनी दर कमी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-24T17:48:15",
-            "url": "https://www.esakal.com/ampstories/web-story/are-you-in-your-30s-never-ignore-these-early-heart-attack-warning-signs-symptoms-young-indians-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/2cog9ngl/9.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "1de47e7cf459",
-            "feed": "maharashtratimes",
-            "title": "कतारमध्ये 8 कोटींची चोरी, मग भाजपकडून निवडणूक लढवली; वर्षभरानं प्रकटला; म्हणतो, मला जामीनही नको!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-24T17:42:12",
-            "url": "https://maharashtratimes.com/india-news/kerala-bjp-leader-surrenders-year-after-over-rs-8-crore-qatar-kmcc-heist/articleshow/135170002.cms",
-            "image": "",
+            "published": "2026-10-24T21:44:52",
+            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-24-october-2026-audio-clip-viral-uday-samant-statement-prasad-lad-ramdas-kadam-manoj-jarange-vivek-bhimanwar-on-leave-satish-waghole-charge-of-mpsc-chairman-abhijeet-dipke-cjp-andolan-delhi-rahul-gandhi-vs-chief-election-commissioner-gyanesh-kumar-navratri-festival-dasara-tukaram-mundhe-fda-weather-update-imd-kolhapur-gokul-election-pm-narendra-modi-amit-shah-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-srs92-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-22/31hjae2d/sandeep-shirguppe-2026-02-22T073211.491.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "bc6c0bea54a0",
+            "id": "6b78f6be8977",
+            "feed": "esakal",
+            "title": "पुढच्या सात दिवसांत ४ राशींचं नशीब चमकणार! धनलाभासह करिअरमध्ये प्रगतीचे योग",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-24T21:40:10",
+            "url": "https://www.esakal.com/culture-and-religion/weekly-horoscope-25-to-31-october-2026-lucky-zodiac-signs-and-predictions-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/r429ljmr/Weekly-Horoscope",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "81ffb82da77b",
+            "feed": "esakal",
+            "title": "Sukanya Samruddhi Yojna : घरात तीन मुली आहेत? मग टेन्शन सोडा; जाणून घ्या सुकन्या समृद्धी योजनेच्या नियमांतर्गत कशी उभी राहील कोटींची संपत्ती!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-24T21:21:31",
+            "url": "https://www.esakal.com/desh/sukanya-samriddhi-yojana-three-daughters-fund-investment-finance-news-today-marathi-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/e7lpaohg/Esakal-12.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b3d08d118952",
             "feed": "lokmat",
-            "title": "Diwali 2026 : पातळ पोह्यांचा कुरकुरीत चिवडा करण्यासाठी १० टिप्स; चिवडा ना तेलकट होणार-ना मऊ पडणार",
+            "title": "Pubic Hair Shaving Tips : प्रायव्हेट पार्टचे केस शेविंग करताना 'या' १० चुका टाळा ! इजा न होता मिळेल स्मूद स्किन - शेव्ह करण्याचा सुरक्षित फॉर्म्युला....",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-24T17:40:19",
-            "url": "https://www.lokmat.com/sakhi/photos/food/diwali-2026-10-pro-tips-to-make-poha-chivda-how-to-make-crispy-poha-chivda-for-diwali-faral-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/diwali-chivda_2026101807235.jpeg",
+            "published": "2026-10-24T21:05:01",
+            "url": "https://www.lokmat.com/sakhi/photos/health/10-intimate-hair-removal-tips-every-woman-should-know-how-to-shave-pubic-hair-safely-at-home-a-lifestyle-diseases-photo-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-shave-pubic-hair-safely-at-home_2026101808604.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "d027208e7b46",
-            "feed": "lokmat",
-            "title": "भिंतीवरचे खडूचे डाग काढण्याची सोपी ट्रिक; नवीन रंग न देता भिंत दिसेल स्वच्छ -रंगही निघणार नाही",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-24T17:39:08",
-            "url": "https://www.lokmat.com/sakhi/photos/social-viral/how-to-remove-crayon-marks-from-walls-without-damaging-paints-a-a648/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-23-at-2.59.09-pm-1_2026101808205.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2e977d120717",
+            "id": "9ecc2bb9f39f",
             "feed": "maharashtratimes",
-            "title": "Koffee With Karan 9 : जान्हवी कपूरच्या अंदाजात रवि किशनचा ‘मनी फॉलोज माय ब्रदर’ डायलॉग, वरुण धवन-करण जोहरमधील जुना वाद चव्हाट्यावर",
+            "title": "उलट्या, भोवळ अन् जीव गेला; 2 गावांमध्ये 20 दिवसांत 13 जणांचा गूढ शेवट; परिसरात दहशत",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-24T17:35:10",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/koffee-with-karan-9-janhvi-kapoor-talks-about-ravi-kishan-viral-dialogue-karan-johar-was-hurt-by-varun-dhawan/articleshow/135169973.cms",
+            "published": "2026-10-24T20:58:32",
+            "url": "https://maharashtratimes.com/india-news/mp-dewas-13-deaths-in-20-days-in-2-villages-spurious-liquor-suspected/articleshow/135172956.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
@@ -166,131 +166,131 @@
     ],
     "world": [
         {
-            "id": "4edfbc00e586",
+            "id": "c363a9b45913",
             "feed": "esakal",
-            "title": "Premium|UK Food Stockpile: ब्रिटनमध्ये लोक अन्नपाण्याचा साठा का करतायत?",
+            "title": "Pakistan Crisis: बापरे! पाकिस्तानात एका गॅस सिलिंडरची किंमत पोहचली ७ हजारांवर; कारण काय?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-24T17:47:59",
-            "url": "https://www.esakal.com/premium-article/why-is-britain-emergency-stockpiling-food-and-water-cyber-attacks-hybrid-warfare-explained-skp29",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/gcrqtqfm/uk-emergency-food-stockpile.jpg",
+            "published": "2026-10-24T21:49:55",
+            "url": "https://www.esakal.com/global/iran-pakistan-lpg-supply-crisis-cylinder-price-hike-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/b3xrgukw/lpg.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "2a55f3b63b1c",
+            "id": "efc006862690",
             "feed": "lokmat",
-            "title": "एक चुकीचा निर्णय अन्...! ७००० रुपयांना LPG, ३७७ रुपयांत तेल; 'या' देशाला भारी पडला इराणशी पंगा",
+            "title": "सायबर सेक्युरिटी, ॲनिमेशन, हेअर ड्रेसर ते पिझ्झा; मुंबईत काही महिने शिका, जगभर रोजगार मिळवा...!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-10-24T17:36:43",
-            "url": "https://www.lokmat.com/international/pakistan-lpg-crisis-lpg-rs-7000-oil-rs-377-the-conflict-with-iran-has-hit-pakistan-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-lpg-crisis_2026101808598.jpg",
+            "published": "2026-10-24T21:30:14",
+            "url": "https://www.lokmat.com/international/from-cyber-security-animation-hairdressing-to-pizza-learn-in-mumbai-for-a-few-months-get-jobs-all-over-the-world-a-a283-c653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/union-minister-piyush-goyal-fd-fgdr_2026101808677.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d6ad48f130f8",
+            "id": "1ca0bcf3497d",
             "feed": "esakal",
-            "title": "आधी सौंदर्यस्पर्धांवर बंदी, आता मृत्युदंडाची शिक्षा! बुर्किना फासोच्या निर्णयांची का आहे जगभरात चर्चा?",
+            "title": "Career Growth: ज्याला तीन लाख वार्षिक पगाराच्या कामावरून कंपनीने काढलं, त्याच तरुणाला आली दुबईतील १.५ कोटींच्या नोकरीची ऑफर",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-24T17:24:19",
-            "url": "https://www.esakal.com/global/burkina-faso-death-penalty-restored-beauty-pageants-suspended-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/5ybrwn45/b-fasso.jpg",
+            "published": "2026-10-24T21:20:12",
+            "url": "https://www.esakal.com/global/career-growth-2-9-lakh-salary-to-1-5-crore-uae-job-offer-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/7mot89xm/job.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "a2787cfd5f28",
+            "id": "1131c60d11b9",
+            "feed": "esakal",
+            "title": "Premium|Equal Earth Projection Explained : ग्रीनलँडपेक्षा आफ्रिका १४ पट मोठा! मर्केटर नकाशातील विकृती दूर करण्यासाठी यूएनचा पुढाकार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-24T20:53:00",
+            "url": "https://www.esakal.com/premium-article/saptahik/un-correct-the-map-equal-earth-projection-mercator-map-distortion-africa-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-18/red9m132/Abhi-48.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "ae69a27faae1",
+            "feed": "lokmat",
+            "title": "जर्मन शिका, हजारो नोकऱ्या तुमच्यासाठी वाट बघत आहेत! केंद्रीय मंत्री पियुष गोयल यांचे आवाहन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-24T20:44:35",
+            "url": "https://www.lokmat.com/international/learn-german-thousands-of-jobs-are-waiting-for-you-union-minister-piyush-goyals-appeal-a-a283-c653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/union-minister-piyush-goyal-germany_2026101808673.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "sports": [
+        {
+            "id": "d3c8f2db6ae9",
             "feed": "maharashtratimes",
-            "title": "परराष्ट्रमंत्री मुस्लिमबहुल देशाच्या दौऱ्यावर; मंदिर भेट चर्चेत, संस्कृतमधील 21 शिलालेखांनी लक्ष वेधलं",
+            "title": "NZ vs IND : कर्णधार श्रेयसकडून तिलक-नितीश व्यतिरिक्त तिसऱ्या खेळाडूलाही विजयाचं श्रेय, कॅप्टन काय म्हणाला?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "world"
+                "category": "sports"
             },
-            "published": "2026-10-24T17:09:16",
-            "url": "https://maharashtratimes.com/international/international-news/external-affairs-minister-azerbaijan-temple-visit-draws-attention/articleshow/135169179.cms",
+            "published": "2026-10-24T20:25:14",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-2nd-t20i-captain-shreyas-iyer-appreciate-to-naman-dhir-about-his-batting-bowling-and-fielding-after-won-against-new-zealand/articleshow/135172605.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "993fffa170fe",
-            "feed": "esakal",
-            "title": "Piyush Goyal : पावभाजीची चव रोबोट देऊ शकणार नाही; वैभव सूर्यवंशीसारखा सिक्सरही नाही! कृत्रिम बुद्धिमत्तेच्या मर्यादा आणि भारतातील संशोधनाच्या संधींवर पियुष गोयल यांची मांडणी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-24T16:32:27",
-            "url": "https://www.esakal.com/global/robot-cant-match-pav-bhajis-taste-or-vaibhav-suryavanshis-six-piyush-goyal-on-ai-limits-and-research-opportunities-in-india-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/p48q19yh/piyush-goyal",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "sports": [
-        {
-            "id": "41a5a174860f",
-            "feed": "esakal",
-            "title": "IND vs NZ 2nd T20: ६ चेंडूंत ११ धावा, शेवटच्या चेंडूपर्यंत थरार! तिलक-नितीशने पलटवला सामना, भारताचा न्यूझीलंडवर दणदणीत विजय!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-24T16:35:37",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-nz-2nd-t20-india-beat-new-zealand-by-4-wickets-tilak-varma-nitish-kumar-reddy-match-result-cricket-news-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-24/4ad9vmkt/cricket-news-10.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0cc450b5494a",
+            "id": "e290e46dd22d",
             "feed": "lokmat",
-            "title": "IND vs NZ 2nd T20I : तिलक-नितीश जोडी जमली! न्यूझीलंडच्या तोंडचा घास हिसकावत टीम इंडियाला जिंकून दिली मॅच",
+            "title": "नमनसोबत खेळताना 'धीर' धरला! हैदराबादकर मित्राच्या साथीनं न्यूझीलंडचा प्लॅन उधळला; तिलक काय म्हणाला?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-24T16:21:52",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-tilak-varma-nitish-kumar-reddy-star-as-india-win-a-thriller-after-almost-losing-the-match-take-2-0-series-lead-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-2nd-t20i-india-won-by-4-wkts-m-1_2026101808572.jpg",
+            "published": "2026-10-24T19:57:27",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-tilak-varma-on-plan-with-nitish-kumar-reddy-after-indias-thrilling-2nd-t20i-chase-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-tilak-varma-on-plan-with-nitish-kumar-reddy-m_2026101808661.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "34b4976901ce",
+            "id": "bfda799c4e25",
             "feed": "maharashtratimes",
-            "title": "NZ vs IND :  नितीश-तिलकने मॅच फिरवली, भारताचा सलग दुसरा विजय, न्यूझीलंडचा ४ विकेट्सने धुव्वा",
+            "title": "NZ vs IND : मिचेल सँटनरकडून फलंदाजांसह भारतीय संघाचं कौतुक, सामना कुठे गमावला? कर्णधारानेच सांगितला टर्निंग पॉइंट",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-10-24T16:19:08",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-2nd-t20i-team-india-win-by-4-wickets-against-new-zealand-tilak-varma-and-nitish-kumar-reddy-shine/articleshow/135167963.cms",
+            "published": "2026-10-24T18:54:50",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/new-zealand-captain-mitchell-santner-appriciate-indian-batters-and-team-after-lost-t20i-2nd-match-know-skipper-says/articleshow/135171505.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -298,50 +298,50 @@
     ],
     "business": [
         {
-            "id": "4389cd60d45a",
+            "id": "823be01eea13",
             "feed": "lokmat",
-            "title": "Kanda Market : राज्यातील कांदा मार्केटमध्ये किती आवक झाली, सोलापूर, लासलगाव मार्केटमध्ये काय दर मिळाले?",
+            "title": "तूर, मसूर, उडीद, चणा डाळींच्या दरात प्रतिकिलो 3 ते 4 रुपयांची घसरण, दर कशामुळे घसरले?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-24T17:35:35",
-            "url": "https://www.lokmat.com/agriculture/market-yard/kanda-market-how-much-onion-arrived-in-market-see-prices-in-solapur-and-lasalgaon-markets-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanda-market-225_2026101808594.jpeg",
+            "published": "2026-10-24T20:35:01",
+            "url": "https://www.lokmat.com/agriculture/market-yard/tur-chana-dal-market-prices-of-tur-masoor-urad-and-chana-pulses-have-fallen-by-rs-3-to-4-per-kg-see-main-reason-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tur-chana-2_2026101808588.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "d7d97f4dc564",
-            "feed": "lokmat",
-            "title": "Ujani Dam Water Level : उजनीच्या पाणीसाठ्याने उन्हाळ्यापूर्वीच शेतकरी धास्तावले; वाचा धरणात उरला किती पाणीसाठा?",
+            "id": "f9b0f853f3e8",
+            "feed": "maharashtratimes",
+            "title": "Kojagiri wishes In Marathi :कोजागिरीच्या चांदण्यात रंगवा नात्यांचा गोडवा; WhatsApp शेअर करा खास शुभेच्छा",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-24T17:00:51",
-            "url": "https://www.lokmat.com/agriculture/weather/ujani-dam-water-level-farmers-were-scared-by-the-water-level-of-ujani-even-before-summer-read-how-much-water-is-left-in-the-dam-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ujani-dharan-pani-patali-down_2026101808555.jpeg",
+            "published": "2026-10-24T20:00:00",
+            "url": "https://maharashtratimes.com/lifestyle-news/relationships/kojagiri-purnima-2026-wishes-in-marathi-shubhechha-sharad-purnima-quotes-captions-for-whatsapp-instagram-to-share/articleshow/135166961.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "3f031820adc0",
+            "id": "a0c78431b5f6",
             "feed": "lokmat",
-            "title": "Halad Market : हळदीची आवक घटली, दराला आधार; कांडी हळदीचा कमाल भाव २३ हजारांवर वाचा सविस्तर",
+            "title": "Drought : राज्यातील 'या' जिल्ह्यांत ‘मागेल त्याला मुरघास’ योजना, प्रति जनावर किती मुरघास मिळणार?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-24T16:59:04",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-halad-market-turmeric-arrivals-decrease-price-support-maximum-price-of-turmeric-sticks-at-23-thousand-read-in-detail-a-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/halad-market-was-1_2026101808582.jpg",
+            "published": "2026-10-24T19:35:02",
+            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/maharashtra-drought-magel-tyala-murghas-yojana-scheme-in-vidarbha-marathwada-districts-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/murghas_2026101808574.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
