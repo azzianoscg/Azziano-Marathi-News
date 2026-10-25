@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "25-10-2026 | 11:28 PM IST",
+    "lastUpdated": "26-10-2026 | 01:54 AM IST",
     "maharashtra": [
+        {
+            "id": "29e5d47a1e1a",
+            "feed": "lokmat",
+            "title": "आयटीयन्सच्या समस्यांवर हिवाळी अधिवेशनात आवाज उठवा, हिंजवडीतील बैठकीत आदित्य ठाकरेंकडे मागणी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-25T23:49:29",
+            "url": "https://www.lokmat.com/mumbai/raise-voice-on-it-issues-in-winter-session-demand-from-aditya-thackeray-in-hinjewadi-meeting-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aditya-thackeray-1_2026101809086.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "471dc772e3d8",
             "feed": "maharashtratimes",
@@ -64,25 +80,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "a43948bdaecd",
-            "feed": "esakal",
-            "title": "Jamgaon News: रविवारी सुट्टी असतानाही सीईओंची जामगावला भेट; अपघातात मृत सेविकेच्या कुटुंबीयांचे सांत्वन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-25T21:59:35",
-            "url": "https://www.esakal.com/marathwada/ceo-minu-pm-visits-jamgaon-on-sunday-holiday-to-console-family-of-anganwadi-worker-anjali-tuplondhe-killed-in-tractor-accident-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-25/yfvtsczi/sudhir-jadhav-satara-27.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
+        {
+            "id": "173b2930267e",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 26 October 2026: नवान्न पौर्णिमा, राशी परिवर्तन योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-26T01:22:44",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-26-october-2026-in-marathi-maharishi-valmiki-jayanti-and-shubha-muhurta/articleshow/135196836.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "bdb59f4b2f8c",
+            "feed": "lokmat",
+            "title": "‘मुझसे शादी करोगी...?’, प्रसिद्ध गायकाने भर स्टेजवरून मलायकाला केलं प्रपोज, त्यानंतर घडलं असं काही...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-26T00:21:26",
+            "url": "https://www.lokmat.com/filmy/bollywood/will-you-marry-me-the-famous-singer-mika-singh-proposed-to-malaika-arora-from-the-stage-then-something-like-this-happened-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/malaika-arora-mika-singh-1_2026101809087.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "aa87eda84584",
             "feed": "lokmat",
@@ -130,38 +162,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aaradhya-bachchan-aishwarya-rai-2_2026101809073.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "3f6c2c0055d4",
-            "feed": "esakal",
-            "title": "सूर्याचा राहूच्या नक्षत्रात प्रवेश; वृषभसह ५ राशींना नोकरी अन व्यवसायात आर्थिक लाभ",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-25T22:25:07",
-            "url": "https://www.esakal.com/culture-and-religion/surya-gochar-rahu-swati-nakshatra-5-zodiac-signs-career-money-benefits-2026-horoscope-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-25/lgeagj5h/5-Zodiac-Signs-May-Benefit-from-Sun-Transit",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "643b4b60902d",
-            "feed": "esakal",
-            "title": "Without Fear or Favour Book Controversy : \"विदाउट फ़ियर ऑर फ़ेवर\" पुस्तकातील दाव्यांची जोरदार चर्चा; न्यायपालिकेच्या स्वातंत्र्यावरून नवा वाद!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-25T22:24:02",
-            "url": "https://www.esakal.com/desh/without-fear-or-favour-book-controversy-judiciary-government-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-25/gx6z8ytb/Esakal-3.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
@@ -214,22 +214,6 @@
             "category_reason": "url"
         },
         {
-            "id": "42b96ff63632",
-            "feed": "lokmat",
-            "title": "इस्रायलला १ तासांत मातीत गाडू, इराणचा थेट इशारा; जारी केला विध्वंसाचा नकाशा, भयानक प्लॅनिंग",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-25T15:34:07",
-            "url": "https://www.lokmat.com/international/irans-direct-warning-to-bury-israel-in-the-ground-in-1-hour-map-of-destruction-released-terrifying-planning-a-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-vs-isreal-warning_2026101808965.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "3a138b5403c6",
             "feed": "maharashtratimes",
             "title": "ना सोनं, ना चांदी… तरीही एका प्लेटच्या मागे लागलंय अख्खं जग! घरात सोफ्याखाली धूळ खात पडली होती, किंमत ३६ लाख रुपये",
@@ -244,9 +228,41 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "23748d16e0d7",
+            "feed": "maharashtratimes",
+            "title": "अमेरिकेत अंधाधुंद गोळीबार, फ्लोरिडा  विद्यापीठाच्या कार्यक्रमदारम्यान गोळीबार, 11 जण गंभीर जखमी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-10-25T13:02:59",
+            "url": "https://maharashtratimes.com/international/international-news/us-florida-university-gunfire-11-people-seriously-injured/articleshow/135184851.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "c5f7c493899a",
+            "feed": "lokmat",
+            "title": "शादाब खान- हॅरिस रौफची शेवटच्या विकेटसाठी ऐतिहासिक भागीदारी, पाकिस्तानने इंग्लंडच्या जबड्यातून विजय हिसकावला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-25T23:43:09",
+            "url": "https://www.lokmat.com/cricket/news/pak-vs-eng-shadab-khan-harris-raufs-historic-partnership-for-the-last-wicket-pakistan-snatched-victory-from-the-jaws-of-england-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shadab-khan-pak-eng-1_2026101809085.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "9f2a124d4bc1",
             "feed": "lokmat",
@@ -276,22 +292,6 @@
             "published": "2026-10-25T21:28:39",
             "url": "https://www.esakal.com/krida/cricket/india-women-beat-zimbabwe-by-121-runs-harmanpreet-kaur-deepti-sharma-vaishnavi-sharma-2nd-odi-match-result-cricket-news-vsb99",
             "image": "https://cf-images.assettype.com/esakal/2026-10-25/7uvvbw65/cricket-news-16.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "899c3a32815c",
-            "feed": "esakal",
-            "title": "MI NEXT CAPTAIN: मुंबई इंडियन्सचा पुढचा कर्णधार कोण? माजी खेळाडूने सांगून टाकलं नाव; रोहित शर्मा अन् हार्दिक पांड्याबद्दल मोठं वक्तव्य!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-25T20:52:00",
-            "url": "https://www.esakal.com/krida/cricket/mumbai-indians-next-captain-ipl-2027-dinesh-karthik-backs-rohit-sharma-hardik-pandya-tilak-varma-cricket-news-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-25/esp4z2bl/esakal2026-10-24kcysyxwycricket-news-9.avif",
             "isBreaking": false,
             "category_reason": "feed"
         }
