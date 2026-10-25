@@ -1,22 +1,6 @@
 {
-    "lastUpdated": "25-10-2026 | 03:37 AM IST",
+    "lastUpdated": "25-10-2026 | 06:10 AM IST",
     "maharashtra": [
-        {
-            "id": "5dfa7e3039b4",
-            "feed": "lokmat",
-            "title": "वाठोड्यातील फ्लॅटमध्ये आढळले नकली नोटांचे घबाड; ५०० रुपयांच्या नोटांचे १२ बंडल जप्त; फरार भाडेकरूचा शोध सुरू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-25T01:01:08",
-            "url": "https://www.lokmat.com/nagpur/fake-currency-found-in-flat-in-vathoda-12-bundles-of-rs-500-notes-seized-search-underway-for-absconding-tenant-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-reds_2026101808690.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
         {
             "id": "f2319ee0e2e4",
             "feed": "esakal",
@@ -80,106 +64,122 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-24/9gf5o44e/yavatmal-Crime",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "050462c6d9bd",
+            "feed": "esakal",
+            "title": "दुहेरी हत्याकांडानं यवतमाळ हादरलं! जगत मंदिर परिसरात रक्तरंजित थरार नेमका कसा घडला?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-24T22:33:46",
+            "url": "https://www.esakal.com/vidarbha/yavatmal-double-murder-jagat-mandir-area-police-search-accused-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/g2wmsmhs/Yavatmal-double-murder",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "3bc8c6247978",
+            "id": "1f8285ed0345",
+            "feed": "esakal",
+            "title": "आजचे राशिभविष्य 25 ऑक्टोबर 2026! रविवारचा दिवस कोणासाठी ठरणार खास?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-25T06:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/daily-horoscope-25-october-2026-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-06-27/15b35dc3/1.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "26035349fc3d",
             "feed": "maharashtratimes",
-            "title": "भाडं ८८५ रुपये, मागितले १,७८०! खोटे स्क्रिनशॉट्स दाखवून कॅब रायडर करतात फसवणूक, पाहा प्रवाशानं कशी पकडली चोरी",
+            "title": "Kojagiri Purnima Wishes 2026 : कोजागिरी पौर्णिमेचे मराठमोळे शुभेच्छा संदेश, मेसेज, Status व SMS, Instagram, Facebook आणि Whatsapp वर पाठवा तुमच्या प्रियजनांना....",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-25T02:30:00",
-            "url": "https://maharashtratimes.com/viral/viral-news/fake-screenshot-scam-delhi-airport-uber-ride-turns-suspicious-after-driver-shows-1780-fare/articleshow/135177792.cms",
+            "published": "2026-10-25T06:00:00",
+            "url": "https://maharashtratimes.com/astro/festival/kojagiri-purnima-2026-shubhechha-sharad-purnima-moon-wishes-in-marathi-for-loved-ones/articleshow/135177693.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "00b8c0ffa307",
-            "feed": "lokmat",
-            "title": "शासकीय वसतिगृहाच्या आवारात दाेघांची हत्या; घटनास्थळावर आढळले दारूचे ग्लास",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-25T00:49:44",
-            "url": "https://www.lokmat.com/crime/two-killed-in-government-hostel-premises-liquor-glasses-found-at-the-scene-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/death-sa_2026101808689.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "8d7e5d213e89",
+            "id": "236294699c39",
             "feed": "maharashtratimes",
-            "title": "पंचांग 25 October 2026: कोजागरी पौर्णिमा,गजकेसरी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "title": "मृत्यूनंतरही शरीरात हालचाल का होते? कण्हण्याचा आवाज का येतो? न्यूयॉर्कच्या डेथ इन्व्हेस्टिगेटरने उघड केले 'फॉरेन्सिक सायन्स'चे रहस्य",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-25T00:35:08",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-25-october-2026-in-marathi-kojagiri-purnima-and-shubha-muhurta/articleshow/135175102.cms",
+            "published": "2026-10-25T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/science-technology/science-behind-the-dead-body-former-nyc-death-investigator-barbara-butcher-shares-forensic-insights-on-raj-shamani-podcast/articleshow/135165792.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "9355f2946be8",
+            "id": "f2551eb05ceb",
             "feed": "maharashtratimes",
-            "title": "नव्या कारला ओरखडे नकोत! तरुणानं लढवली भन्नाट शक्कल, कोणी गाडी ठोकली तरी तुम्ही हसून अंगठा दाखवाल, टेन्शन मुक्त करणारी पोस्ट व्हायरल",
+            "title": "Kon Honar Crorepati : 'दीक्षितांची माधुरी करू शकते, तर गोखल्यांच्या मधुराणीलाही प्रयत्न करू द्या!' अभिनेत्रीने सांगितली वडिलांच्या विरोधाची आठवण",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-25T00:15:14",
-            "url": "https://maharashtratimes.com/viral/viral-news/bengaluru-man-buys-rs-3-lakh-used-car-to-beat-traffic-stress/articleshow/135176589.cms",
+            "published": "2026-10-25T05:46:21",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/madhurani-gokhale-recalled-how-used-madhuri-dixit-name-to-enter-acting-field-shared-in-kon-honar-crorepati-show/articleshow/135180056.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "1e3829d6f927",
+            "id": "4dd4471c88cc",
             "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 25 ऑक्टोबर 2026 : बाप्पाच्या कृपेने घडणार शुभकार्य कोणत्या राशींना मिळणार लाभ ! पहा तुमचे राशिभविष्य !",
+            "title": "Navneet Nishan : मला तर लॉटरीच लागली! आमिर खानसोबतच्या किसिंग सीनवर अभिनेत्री भलतीच खुश, 7/8 रिटेक; पण सिनेमा रिलीजनंतर भ्रमनिरास",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-25T00:00:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-25-october-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135175400.cms",
+            "published": "2026-10-25T05:04:55",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/navneet-nishan-recalled-kissing-scene-with-aamir-khan-from-hum-hain-rahi-pyar-ke-film/articleshow/135180017.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "122984f08205",
-            "feed": "lokmat",
-            "title": "फ्रान्समध्ये लाखो आंदोलक रस्त्यावर, पेरिससह अनेक शहरांत हिंसाचार, पोलिसांनी पाण्याचे फवारे अन् अश्रूधुराच्या नळकांड्या फोडल्या",
+            "id": "abc6ad5c4356",
+            "feed": "maharashtratimes",
+            "title": "डिटेक्टिव्ह बनून सोडवा हे कोडं! घड्याळ चोरणारी व्यक्ती कोण, A, B, C की D?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
             },
-            "published": "2026-10-25T00:44:17",
-            "url": "https://www.lokmat.com/international/millions-of-protesters-on-the-streets-in-france-violence-in-many-cities-including-paris-police-fired-water-cannons-and-tear-gas-canisters-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/france-news-fd_2026101808687.jpg",
+            "published": "2026-10-25T04:07:39",
+            "url": "https://maharashtratimes.com/viral/viral-news/who-stole-the-luxury-watch-look-closely-at-the-picture-to-solve-this-puzzle/articleshow/135179924.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
             "id": "c363a9b45913",
@@ -196,22 +196,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-24/b3xrgukw/lpg.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "efc006862690",
-            "feed": "lokmat",
-            "title": "सायबर सेक्युरिटी, ॲनिमेशन, हेअर ड्रेसर ते पिझ्झा; मुंबईत काही महिने शिका, जगभर रोजगार मिळवा...!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-24T21:30:14",
-            "url": "https://www.lokmat.com/international/from-cyber-security-animation-hairdressing-to-pizza-learn-in-mumbai-for-a-few-months-get-jobs-all-over-the-world-a-a283-c653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/union-minister-piyush-goyal-fd-fgdr_2026101808677.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         },
         {
             "id": "1ca0bcf3497d",
@@ -244,6 +228,22 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-18/red9m132/Abhi-48.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "2fe4bdfdad95",
+            "feed": "maharashtratimes",
+            "title": "आईला वाचवताना लेकाचा अंत; अमेरिकेत पहिल्यांदाच भारतीयाच्या नावानं कायदा; रोमांच महाजन नेमका कोण?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-10-24T19:54:28",
+            "url": "https://maharashtratimes.com/international/international-news/new-york-city-council-passes-romanch-law-to-ban-horse-carriage-after-indian-teen-dies-in-accident/articleshow/135172133.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "sports": [
@@ -264,22 +264,6 @@
             "category_reason": "feed"
         },
         {
-            "id": "e290e46dd22d",
-            "feed": "lokmat",
-            "title": "नमनसोबत खेळताना 'धीर' धरला! हैदराबादकर मित्राच्या साथीनं न्यूझीलंडचा प्लॅन उधळला; तिलक काय म्हणाला?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-10-24T19:57:27",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-tilak-varma-on-plan-with-nitish-kumar-reddy-after-indias-thrilling-2nd-t20i-chase-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-tilak-varma-on-plan-with-nitish-kumar-reddy-m_2026101808661.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "bfda799c4e25",
             "feed": "maharashtratimes",
             "title": "NZ vs IND : मिचेल सँटनरकडून फलंदाजांसह भारतीय संघाचं कौतुक, सामना कुठे गमावला? कर्णधारानेच सांगितला टर्निंग पॉइंट",
@@ -294,25 +278,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "ec7024a76e37",
+            "feed": "esakal",
+            "title": "VIRAT KOHLI: विराट कोहलीचा सराव सुरू, न्यूझीलंडविरुद्ध वनडे मालिकेचा थरार कधी रंगणार? जाणून घ्या ५ सामन्यांचं संपूर्ण वेळापत्रक",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-24T18:07:20",
+            "url": "https://www.esakal.com/krida/cricket/india-vs-new-zealand-odi-series-2026-virat-kohli-practice-full-schedule-match-dates-venues-cricket-news-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/a2v4w5uw/cricket-news-12.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "business": [
-        {
-            "id": "823be01eea13",
-            "feed": "lokmat",
-            "title": "तूर, मसूर, उडीद, चणा डाळींच्या दरात प्रतिकिलो 3 ते 4 रुपयांची घसरण, दर कशामुळे घसरले?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-24T20:35:01",
-            "url": "https://www.lokmat.com/agriculture/market-yard/tur-chana-dal-market-prices-of-tur-masoor-urad-and-chana-pulses-have-fallen-by-rs-3-to-4-per-kg-see-main-reason-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tur-chana-2_2026101808588.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
         {
             "id": "f9b0f853f3e8",
             "feed": "maharashtratimes",
@@ -330,20 +314,36 @@
             "category_reason": "keyword"
         },
         {
-            "id": "a0c78431b5f6",
-            "feed": "lokmat",
-            "title": "Drought : राज्यातील 'या' जिल्ह्यांत ‘मागेल त्याला मुरघास’ योजना, प्रति जनावर किती मुरघास मिळणार?",
+            "id": "2e3236287477",
+            "feed": "esakal",
+            "title": "Premium|Study Room : सरकारी बँकेकडून खासगी मालकीकडे प्रवास; आयडीबीआय बँकेत काय बदल होणार?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-24T19:35:02",
-            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/maharashtra-drought-magel-tyala-murghas-yojana-scheme-in-vidarbha-marathwada-districts-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/murghas_2026101808574.jpeg",
+            "published": "2026-10-24T19:30:00",
+            "url": "https://www.esakal.com/premium-article/idbi-bank-privatisation-fairfax-acquisition-customer-impact-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/1q6m8x6u/Abhi-92.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "8c69014e7421",
+            "feed": "esakal",
+            "title": "Gold Jewellery Price: लग्नासाठी सोनं आत्ताच खरेदी करावं की आणखी स्वस्त होण्याची वाट पाहावी? सोन्याचा भाव 1 लाखांपर्यंत येणार?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-24T19:30:00",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/gold-jewellery-price-wedding-gold-buying-guide-gold-rate-fall-7000-rupees-october-gold-price-prediction-1-lakh-per-10-grams-expert-opinion-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-24/h5scn50a/Copy-of-Copy-of-banner-2026-10-24T161154.129.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ]
 }
