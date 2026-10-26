@@ -1,88 +1,152 @@
 {
-    "lastUpdated": "26-10-2026 | 04:25 AM IST",
+    "lastUpdated": "26-10-2026 | 06:22 AM IST",
     "maharashtra": [
         {
-            "id": "29e5d47a1e1a",
+            "id": "9e4791a554fa",
             "feed": "lokmat",
-            "title": "आयटीयन्सच्या समस्यांवर हिवाळी अधिवेशनात आवाज उठवा, हिंजवडीतील बैठकीत आदित्य ठाकरेंकडे मागणी",
+            "title": "तीन महिन्यांत एसटीचे ५०० हून अधिक ड्रायव्हर  परत करणार : परिवहन आयुक्तांची माहिती",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-25T23:49:29",
-            "url": "https://www.lokmat.com/mumbai/raise-voice-on-it-issues-in-winter-session-demand-from-aditya-thackeray-in-hinjewadi-meeting-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aditya-thackeray-1_2026101809086.jpg",
+            "published": "2026-10-26T06:10:39",
+            "url": "https://www.lokmat.com/mumbai/more-than-500-st-drivers-will-be-reinstated-in-three-months-transport-commissioners-information-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rto-st-driver-1_2026101809098.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "471dc772e3d8",
-            "feed": "maharashtratimes",
-            "title": "Tiger Shroff : टायगर श्रॉफ प्रकरणात पोलिसांना मोठी लीड; अनिल पंडितपर्यंत पोहोचण्याचा मार्ग मोकळा, महत्त्वाच्या आरोपीला अटक",
+            "id": "d6de9eddcd1e",
+            "feed": "lokmat",
+            "title": "गोदाकाठी विश्वविक्रमी शंखनाद!; नाशिकमध्ये माेडला अमेरिकेचा विक्रम",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-25T23:18:33",
-            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-tiger-shroff-attack-case-pranjal-thakar-arrested-from-indore/articleshow/135195913.cms",
-            "image": "",
+            "published": "2026-10-26T06:05:08",
+            "url": "https://www.lokmat.com/nashik/world-record-conch-shelling-on-the-banks-of-the-goda-american-record-set-in-nashik-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shankhnad-3_2026101809096.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "dbbf338fb03a",
+            "id": "fe6817062f9d",
             "feed": "lokmat",
-            "title": "आरोग्य यंत्रणेच्या ढिसाळपणाने घेतला गरोदर मातेचा बळी; २५० किमीच्या वणवणीनंतर सलमाची प्राणज्योत मालवली",
+            "title": "तीव्र दुष्काळ असूनही यंदा दिवाळीत मिळणार नाही ‘आनंदाचा शिधा’; आर्थिक चणचणीचा राज्यातील गरिबांना फटका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-26T06:00:16",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-drought-anandacha-shidha-news-despite-severe-drought-joy-ration-will-not-be-available-this-diwali-economic-turmoil-hits-the-poor-in-the-state-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/anandacha-shidha-2_2026101809094.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3891877245b9",
+            "feed": "lokmat",
+            "title": "वित्त खात्यासाठी अजित पवार गटाचे प्रयत्न; उपमुख्यमंत्री पवार यांच्या नेतृत्वात मुख्यमंत्र्यांची भेट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-26T05:55:17",
+            "url": "https://www.lokmat.com/maharashtra/ajit-pawar-groups-efforts-for-the-finance-department-chief-ministers-meeting-led-by-deputy-chief-minister-sunetra-pawar-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sunetra-pawar-bhujbal-2_2026101809093.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "538bbf9cc5b4",
+            "feed": "lokmat",
+            "title": "'फेक नॅरेटिव्ह' पसरवून प्रकल्पाला राजकीय विरोध; मुख्यमंत्र्यांचा टाेला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-26T05:48:30",
+            "url": "https://www.lokmat.com/maharashtra/political-opposition-to-the-project-by-spreading-fake-narrative-chief-ministers-statement-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fadanvis-torrent-company-tree-cutting-1_2026101809092.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "f914a4cb0415",
+            "feed": "lokmat",
+            "title": "डिजिटल अरेस्टच्या नावाखाली २,६४७ कोटींची लूट; आठ महिन्यांत देशभरातून आल्या २१,९०० तक्रारी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-25T22:27:23",
-            "url": "https://www.lokmat.com/amravati/lax-healthcare-system-claims-pregnant-mothers-life-salma-dies-after-250-km-trek-a-a782-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ngp-death-1_2026101809070.jpg",
+            "published": "2026-10-26T06:12:39",
+            "url": "https://www.lokmat.com/crime/loot-of-rs-2647-crores-in-the-name-of-digital-arrest-21900-complaints-received-from-across-the-country-in-eight-months-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/digital-arrest-34_2026101809099.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "2df7ff7d859a",
-            "feed": "maharashtratimes",
-            "title": "Nanded News : खालसा फायनान्सचा आणखी एक कारनामा समोर, 8 हजारांचे केले 40 हजार, युवकाला मारहाण करून डांबून ठेवल्याचा आरोप",
+            "id": "111331762c60",
+            "feed": "lokmat",
+            "title": "दिवाळीच्या खरेदीत स्थानिकांच्या उत्पादनांना प्राधान्य द्या; पंतप्रधान नरेंद्र मोदींचे आवाहन",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
             },
-            "published": "2026-10-25T22:24:58",
-            "url": "https://maharashtratimes.com/maharashtra/nanded/another-serious-allegation-against-khalsa-finance-youth-assault-case-comes-to-light/articleshow/135194823.cms",
-            "image": "",
+            "published": "2026-10-26T06:08:04",
+            "url": "https://www.lokmat.com/national/give-preference-to-local-products-while-shopping-this-diwali-pm-narendra-modi-appeals-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/narendra-modi-45_2026101809097.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fb66ecdb5fef",
-            "feed": "maharashtratimes",
-            "title": "गळ्यात यशाचा 'हार' पडण्याऐवजी दारात 'थार'ची इच्छा; चुलत्याचं सोनं चोरून काकालाच गाडीच्या पूजेला बोलावलं, समर चव्हाणच्या अजब चोरीची गजब इनसाईड स्टोरी",
+            "id": "5fd8a7ba1179",
+            "feed": "lokmat",
+            "title": "पंतप्रधान नरेंद्र मोदींबाबत खरगेंच्या वक्तव्याने वाद; काँग्रेस अध्यक्षांनी भाषणात 'बाप' शब्द वापरल्याने उठले राजकीय वादंग",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
             },
-            "published": "2026-10-25T22:13:38",
-            "url": "https://maharashtratimes.com/maharashtra/kolhapur/kolhapur-panhala-samar-chavan-theft-who-stole-gold-from-uncle-house-and-bought-thar-inside-story/articleshow/135194734.cms",
-            "image": "",
+            "published": "2026-10-26T06:03:17",
+            "url": "https://www.lokmat.com/national/kharges-statement-on-prime-minister-narendra-modi-sparks-controversy-congress-presidents-use-of-the-word-father-in-his-speech-sparks-political-controversy-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mallikarjune-kharge-1_2026101809095.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "india": [
+        },
+        {
+            "id": "97832e7a802f",
+            "feed": "esakal",
+            "title": "आजचे राशिभविष्य 26 ऑक्टोबर 2026! ‘या’ राशींना अचानक धनलाभाचे योग!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-26T06:00:00",
+            "url": "https://www.esakal.com/ampstories/web-story/horoscope-today-26-october-2026-daily-rashibhavishya-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-25/4e9k4ob5/1.jpg.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "66b850cf5be4",
             "feed": "maharashtratimes",
@@ -96,70 +160,6 @@
             "published": "2026-10-26T04:00:00",
             "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-26-october-rashi-parivartan-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135195621.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "173b2930267e",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 26 October 2026: नवान्न पौर्णिमा, राशी परिवर्तन योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-26T01:22:44",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-26-october-2026-in-marathi-maharishi-valmiki-jayanti-and-shubha-muhurta/articleshow/135196836.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "bdb59f4b2f8c",
-            "feed": "lokmat",
-            "title": "‘मुझसे शादी करोगी...?’, प्रसिद्ध गायकाने भर स्टेजवरून मलायकाला केलं प्रपोज, त्यानंतर घडलं असं काही...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-26T00:21:26",
-            "url": "https://www.lokmat.com/filmy/bollywood/will-you-marry-me-the-famous-singer-mika-singh-proposed-to-malaika-arora-from-the-stage-then-something-like-this-happened-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/malaika-arora-mika-singh-1_2026101809087.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "aa87eda84584",
-            "feed": "lokmat",
-            "title": "खर्गेंशी वाद घातल्याने मार खाणारा तरुण निघाला काँग्रेसचा कार्यकर्ता, तो कोण आणि कुठला? जाणून घ्या",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-25T23:17:46",
-            "url": "https://www.lokmat.com/national/the-young-man-who-was-beaten-up-for-arguing-with-mallikarjun-kharge-turned-out-to-be-a-congress-worker-who-is-santosh-kumar-and-where-is-he-from-find-out-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/santosh-kumar-congress-1_2026101809082.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "865fec29c7c9",
-            "feed": "esakal",
-            "title": "मध्यरात्री मांजर लहान मुलांसारखी का रडते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-25T22:55:26",
-            "url": "https://www.esakal.com/ampstories/web-story/why-do-cats-cry-like-babies-at-midnight-causes-and-what-their-meowing-means-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-25/omkdd9yb/Why-do-cats-cry-like-babies-at-midnight-1.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -248,55 +248,71 @@
     ],
     "sports": [
         {
-            "id": "c5f7c493899a",
+            "id": "123b2f1f67ba",
             "feed": "lokmat",
-            "title": "शादाब खान- हॅरिस रौफची शेवटच्या विकेटसाठी ऐतिहासिक भागीदारी, पाकिस्तानने इंग्लंडच्या जबड्यातून विजय हिसकावला",
+            "title": "धोनी आयपीएलमधून निवृत्ती घेणार का? तंदुरुस्ती चाचणीवर ठरणार भवितव्य",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-25T23:43:09",
-            "url": "https://www.lokmat.com/cricket/news/pak-vs-eng-shadab-khan-harris-raufs-historic-partnership-for-the-last-wicket-pakistan-snatched-victory-from-the-jaws-of-england-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shadab-khan-pak-eng-1_2026101809085.jpg",
+            "published": "2026-10-26T05:35:01",
+            "url": "https://www.lokmat.com/cricket/news/will-dhoni-retire-from-ipl-future-to-be-decided-on-fitness-test-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ms-dhoni-2_2026101809091.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9f2a124d4bc1",
+            "id": "7f77e9dfc26e",
             "feed": "lokmat",
-            "title": "अष्टपैलू दीप्ती शर्माने ठोकलं तुफानी शतक, अशी कामगिरी करणारी ठरली पहिली भारतीय महिला फलंदाज",
+            "title": "फ्रेंच ओपनमध्ये सिंधूचे उपविजेतेपदावर समाधान, अंतिम फेरीत कडव्या झुंजीनंतरही पराभव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-26T05:32:18",
+            "url": "https://www.lokmat.com/other-sports/sindhu-satisfied-with-runner-up-finish-at-french-open-lost-in-final-despite-tough-fight-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pv-sindhu56_2026101809090.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "d492f00de7a6",
+            "feed": "lokmat",
+            "title": "महिला क्रिकेट : भारताने घेतली विजयी आघाडी, झिम्बाब्वेचा १२१ धावांनी उडवला धुव्वा; दीप्ती शर्माचा निर्णायक अष्टपैलू खेळ",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-25T21:54:34",
-            "url": "https://www.lokmat.com/cricket/news/ind-w-vs-zim-w-2nd-odi-all-rounder-deepti-sharma-scored-a-blistering-century-becoming-the-first-indian-woman-batsman-to-achieve-such-a-feat-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/deepti-sharma-2_2026101809068.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0129024d0314",
-            "feed": "esakal",
-            "title": "IND W VS ZIM W 2ND ODI NEWS: हरमनप्रीत दीप्तीची शतके, वैष्णवीची गोलंदाजीत कमाल! झिम्बाब्वेला लोळवत भारताने मालिका खिशात घातली",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-25T21:28:39",
-            "url": "https://www.esakal.com/krida/cricket/india-women-beat-zimbabwe-by-121-runs-harmanpreet-kaur-deepti-sharma-vaishnavi-sharma-2nd-odi-match-result-cricket-news-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-25/7uvvbw65/cricket-news-16.jpg",
+            "published": "2026-10-26T05:29:57",
+            "url": "https://www.lokmat.com/cricket/news/womens-cricket-india-take-a-winning-lead-thrash-zimbabwe-by-121-runs-deepti-sharmas-decisive-all-round-game-a-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-zimbabbe2_2026101809089.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "3140e9a1b20b",
+            "feed": "maharashtratimes",
+            "title": "मोबाईल वापरतानाची एक चूक पडेल महाग; मेसेज किंवा OTP शिवाय बँक खाते होऊ शकते रिकामे",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-26T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/one-mobile-mistake-can-cost-you-dearly-cyber-criminals-emptying-bank-accounts-without-otp/articleshow/135169004.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "4e592deaa9d1",
             "feed": "maharashtratimes",
@@ -326,22 +342,6 @@
             "published": "2026-10-25T20:37:06",
             "url": "https://www.lokmat.com/auto/chery-automobile-running-cars-axle-broke-company-chairman-apologizes-watch-video-a-a732/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/china-car-broke_2026101809067.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "bc88f7164b92",
-            "feed": "lokmat",
-            "title": "तेल, साखर, कांदा, डाळी, तांदळाचे दर वाढले, दर वाढण्याची प्रमुख कारणे, हे दर कधीपर्यंत राहतील?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-25T20:35:02",
-            "url": "https://www.lokmat.com/agriculture/market-yard/prices-of-oil-sugar-onion-pulses-rice-have-increased-main-reasons-of-increase-in-prices-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tandul_2026101809058.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
