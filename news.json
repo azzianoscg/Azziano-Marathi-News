@@ -1,170 +1,218 @@
 {
-    "lastUpdated": "27-10-2026 | 07:13 AM IST",
+    "lastUpdated": "27-10-2026 | 12:31 PM IST",
     "maharashtra": [
         {
-            "id": "6f3968df6ae3",
+            "id": "55b843f6fe9e",
+            "feed": "esakal",
+            "title": "महाराष्ट्रातील अधिकारी EDच्या रडारवर, सायबर फसवणुकीतील खात्यांबाबत मोठा खुलासा; मुंबईतील वकिलाला अटक",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-27T12:29:03",
+            "url": "https://www.esakal.com/maharashtra/ed-busts-racket-of-officials-who-reopened-100-frozen-bank-accounts-in-cyber-fraud-by-taking-bribes-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-27/2ny7w1jg/ED-Action.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fb0923b129d7",
             "feed": "maharashtratimes",
-            "title": "MLC Election Results: पदवीधर, शिक्षकचा आज फैसला! पुणे विभाग विधान परिषद निवडणुकीच्या मतमोजणीकडे राजकीय पक्षांचे लक्ष, गुलाल कुणाचा?",
+            "title": "Ahilyanagar Crime : १० वर्षाचे प्रेमसंबंध, दुसऱ्याशी बोलण्याच्या संशयावरुन बिघडले, ग्रामपंचायत महिला कर्मचाऱ्याला कार्यालयातच संपवलं; साफसफाई करताना  काय घडलं?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-27T06:57:48",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/maharashtra-vidhan-parishad-graduate-teachers-constituency-results-announce-today-27-oct-2026/articleshow/135222286.cms",
+            "published": "2026-10-27T12:28:28",
+            "url": "https://maharashtratimes.com/maharashtra/ahilyanagar-news/ahilyanagar-bhingar-vadarwadi-gram-panchayat-female-worker-anita-alkute-was-killed-over-love-affair-suspicion/articleshow/135226988.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ee7066472055",
+            "id": "2cd3f06a96e4",
+            "feed": "esakal",
+            "title": "Gangapur Sugarcane Prices: ऊसतोडणी सुरू; दराची कोंडी कायम उताऱ्यात घटीची भीती ; कारखान्यांकडून ‘एफआरपी’ जाहीर होणे बाकी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-27T12:28:16",
+            "url": "https://www.esakal.com/marathwada/aurangabad/gangapur-sugarcane-prices-frp-announcement-delay-farmers-protest-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-27/d7atz17j/vishwajeet-28.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "a1b4826c870e",
             "feed": "lokmat",
-            "title": "राळेगणसिद्धीच्या विहिरी आजही भरलेल्या, पाणीटंचाई नाही, पुरस्कार रकमेतून अण्णा हजारे यांचे ‘दुष्काळमुक्तीचे मॉडेल’",
+            "title": "Maharashtra MLC Election Results 2026 Live: पुणे पदवीधर आणि शिक्षक मतदारसंघाची प्रत्यक्ष मतमोजणीला ४ वाजता सुरूवात होणार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-27T06:50:21",
-            "url": "https://www.lokmat.com/ahilyanagar/the-wells-of-ralegan-siddhi-are-still-full-there-is-no-water-shortage-anna-hazares-drought-relief-model-from-the-award-money-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/water-w4t4_2026101809713.jpg",
+            "published": "2026-10-27T12:25:19",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-27-october-2026-vidhan-parishad-election-results-manoj-jarange-patil-audio-clip-inquiry-cm-devendra-fadnavis-karjat-tree-cutting-drought-water-shortage-mallikarjun-kharge-comment-on-pm-narendra-modi-rahul-gandhi-cyclone-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-vidhan-parishad-result-2026-wess_2026101809743.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9c514225bd20",
-            "feed": "lokmat",
-            "title": "वर्ग-दोनच्या जमिनीवर तारण कर्ज घेता येणार; सरकारी व भाडेपट्ट्याच्या मालमत्ता धारकांना दिलासा",
+            "id": "d285ef13f0a5",
+            "feed": "esakal",
+            "title": "Latest Marathi News Live Update : नागपूर पदवीधर मतदारसंघाचा पहिला कल दुपारी दोन वाजता येणार!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-27T06:47:53",
-            "url": "https://www.lokmat.com/pune/mortgage-loans-can-be-taken-on-class-ii-land-relief-for-government-and-leasehold-property-holders-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/karj-taran-4r_2026101809712.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "339949bd1fa7",
-            "feed": "lokmat",
-            "title": "२०५१ पर्यंतच्या पाण्याचे ‘एमएमआर’साठी नियोजन, तीन महिन्यांत आराखडा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-27T06:45:52",
-            "url": "https://www.lokmat.com/mumbai/planning-for-mmr-of-water-till-2051-plan-in-three-months-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-waater-35_2026101809711.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4607f05dfacc",
-            "feed": "lokmat",
-            "title": "बनावट औषधांच्या तपासणीसाठी आता ‘ड्रग डिटेक्शन मशिन’ ; १ नोव्हेंबरपासून राज्यभर आरोग्य संवाद यात्रा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-27T06:26:28",
-            "url": "https://www.lokmat.com/mumbai/now-drug-detection-machine-to-check-fake-medicines-health-dialogue-across-the-state-from-november-1-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/derrfdcsax_2026101809709.jpg",
+            "published": "2026-10-27T12:21:26",
+            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-27-october-2026-pune-division-teachers-and-graduates-election-results-kolhapur-gokul-chairman-election-bhimashankar-deforestation-case-devendra-fadnavis-decision-manoj-jarange-500-crore-audio-clip-sit-pm-narendra-modi-vs-mallikarjun-kharge-rahul-gandhi-weather-update-imd-tukaram-mundhe-fda-amit-shah-cm-mpsc-exam-gold-rate-mumbai-pune-traffic-update-bam92-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "4c27b80f9f90",
+            "id": "1f6a10d44cbb",
             "feed": "esakal",
-            "title": "Creamy Chickpea Sandwich Recipe: ब्रेड, चणे आणि मेयोनीज! फक्त १० मिनिटांत बनवा कॅफेस्टाइल क्रीमी सँडविच; चव एकदम भन्नाट",
+            "title": "वाघ vs सिंह शिकार करण्याची पद्धत इतकी वेगळी का?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-27T07:00:00",
-            "url": "https://www.esakal.com/food/10-minute-creamy-chickpea-sandwich-recipe-for-quick-breakfast-weight-loss-recipes-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-26/j1bnbbg0/Creamy-Chickpea-Sandwich-Recipe.jpg",
+            "published": "2026-10-27T12:29:49",
+            "url": "https://www.esakal.com/ampstories/web-story/tiger-vs-lion-hunting-style-differences-wildlife-behavior-hunting-strategy-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-27/t4v098ue/1.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "79b0201b32bb",
-            "feed": "esakal",
-            "title": "आजचे राशिभविष्य - 27 ऑक्टोबर 2026",
+            "id": "1793d8723dfd",
+            "feed": "maharashtratimes",
+            "title": "Indian Railway Rule Change: भारतीय रेल्वेचा मोठा निर्णय! 45 पैशांत प्रवाशांना मिळणार 10 लाखांची सुविधा, आजपासून नवीन नियम लागू",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-27T07:00:00",
-            "url": "https://www.esakal.com/horoscope/on-this-day-today-rashi-bhavishya-horoscope-in-marathi-27th-october-2026-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-25/i2b4j4n6/esakal2025-11-039nzjhvy62horoscope.avif",
+            "published": "2026-10-27T12:24:18",
+            "url": "https://maharashtratimes.com/india-news/indian-railway-ticket-booking-rule-change-45-paise-10-lakh-travel-insurance-from-27-oct/articleshow/135226180.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "9fcade2b4a96",
-            "feed": "esakal",
-            "title": "27 ऑक्टोबर राशिभविष्य 2026! ‘या’ राशींना आर्थिक लाभाचे योग",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-27T06:40:27",
-            "url": "https://www.esakal.com/ampstories/web-story/horoscope-today-27-october-2026-daily-rashibhavishya-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-06-27/15b35dc3/1.jpg.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "212c8fecdde9",
+            "id": "9b5746bc2eae",
             "feed": "lokmat",
-            "title": "मानहानी खटल्यात राहुल गांधी निर्दोष मुक्त, तक्रार राजकीय हेतूने प्रेरित असल्याचे कोर्टाचे निरीक्षण",
+            "title": "धक्कादायक! मंत्री आणि अधिकाऱ्यांच्या संघर्षात अडकले ७२ कोटी; मुलं जेवतात तुटलेल्या ताटात",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-10-27T06:31:59",
-            "url": "https://www.lokmat.com/national/rahul-gandhi-acquitted-in-defamation-case-court-observes-that-complaint-was-politically-motivated-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahul-gandhi-t5_2026101809710.jpg",
+            "published": "2026-10-27T12:20:51",
+            "url": "https://www.lokmat.com/national/72-crore-school-budget-caught-in-standoff-between-ministers-and-officials-a-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/72-crore-school-budget_2026101809843.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "62d4c0743c93",
+            "id": "ff6be11aaac0",
             "feed": "esakal",
-            "title": "आजचे पंचांग आणि दिनविशेष - 27 ऑक्टोबर 2026",
+            "title": "शिऱ्यात कोणती फळे घालतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-27T06:30:00",
-            "url": "https://www.esakal.com/culture-and-religion/on-this-day-happened-today-panchang-history-in-marathi-27th-october-2026-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-16/ewj9zr7e/download-5-1.jpg",
+            "published": "2026-10-27T12:15:45",
+            "url": "https://www.esakal.com/ampstories/web-story/which-fruits-can-be-added-to-sheera-best-fruit-options-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-27/9ipl0z5t/fruits-for-sheera-2.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "2dcaaa08bb20",
+            "feed": "maharashtratimes",
+            "title": "Sankashti Chaturthi 2026: वक्रतुंड संकष्टी चतुर्थी तारीख, शुभ मुहूर्त, पूजा विधी, नियम जाणून घ्या.",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-27T12:15:06",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/vakratunda-sankashti-chaturthi-2026-date-shubh-muhurat-puja-vidhi/articleshow/135225637.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "bb5bc7964e76",
+            "feed": "lokmat",
+            "title": "पाकिस्तानी बॉर्डरवर इराणी सुरक्षा जवानांसोबत अचानक पेटलं युद्ध; कोण आहेत अज्ञात बंदूकधारी?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-27T11:53:51",
+            "url": "https://www.lokmat.com/international/a-sudden-war-broke-out-with-iranian-security-forces-on-the-pakistani-border-who-are-the-unknown-gunmen-a-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/iran-sh181z9a_2026101809820.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4c3bcce91785",
+            "feed": "esakal",
+            "title": "Microsoft News: मायक्रोसॉफ्टचा धक्कादायक निर्णय! तब्बल ६० हजार कर्मचाऱ्यांना स्वेच्छानिवृत्तीची ऑफर; १ डिसेंबरपर्यंत...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-27T11:49:09",
+            "url": "https://www.esakal.com/global/microsoft-voluntary-exit-offer-60000-employees-india-ai-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-27/fqc3s7pf/मायक्रोसॉफ्टचा-धक्का-ऑफिसमधून-विदाई.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "6d284b14d685",
+            "feed": "maharashtratimes",
+            "title": "'स्त्रीयांना हवा असतो असा प्रियकर', एक-एक कण गोळा करून बनवली सोन्याची अंगठी, संपूर्ण जग करतेय तरुणाचं कौतुक",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-27T11:15:40",
+            "url": "https://maharashtratimes.com/viral/viral-news/man-spends-months-collecting-gold-to-make-his-girlfriends-engagement-ring/articleshow/135225677.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "abd15d6a9366",
             "feed": "maharashtratimes",
@@ -193,157 +241,109 @@
             },
             "published": "2026-10-26T20:07:07",
             "url": "https://www.esakal.com/global/india-netherlands-trade-set-to-double-expects-dutch-foreign-trade-minister-sjoerdsma-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-26/50tu206s/piyush-goyal",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "ca3b8f4ffab6",
-            "feed": "esakal",
-            "title": "Piyush Goyal : समुद्राला बांध घालणाऱ्या डचांसमोर गोयलांनी मांडला 'भारत' नावाचा ब्रँड",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-26T20:01:33",
-            "url": "https://www.esakal.com/global/piyush-goyal-presents-bharat-brand-before-dutch-experts-who-built-dikes-against-the-sea-netherlands-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-26/raaf3cct/Piyush-Goyal",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "43e9212a1fbf",
-            "feed": "maharashtratimes",
-            "title": "चीनमध्ये भाजीपाल्यासारखी iPhone Duo ची विक्री, फूटपाथवरील व्हायरल व्हिडिओने नेटीझन्स चकित",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-26T19:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/why-are-iphones-being-sold-on-china-streets-like-fresh-vegetables-grey-market-reality-explained/articleshow/135208948.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "f3f927d7e0d1",
-            "feed": "esakal",
-            "title": "Piyush Goyal : दीडशे वर्षांपासून जपलेली भारताशी नाळ; आता विकासगाथेत सहभागी व्हा; सुरिनाममार्गे नेदरलॅंड्समध्ये आलेल्या भारतीय समुदायाला गोयल यांचे आवाहन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-26T18:43:58",
-            "url": "https://www.esakal.com/global/connected-to-india-for-150-years-now-join-its-growth-story-piyush-goyal-appeals-to-indian-diaspora-in-netherlands-via-suriname-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-02-07/wwz71uuy/Goyal.jpg",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-27/3z80ber9/jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "960c9dc663d4",
+            "id": "f0f207005057",
             "feed": "lokmat",
-            "title": "IND vs NZ 3rd T20I Live Streaming : कधी, कुठं अन् कसा पाहता येईल भारत-न्यूझीलंड यांच्यातील तिसरा T20 सामना? वाचा सविस्तर",
+            "title": "IND vs NZ 3rd T20I : अय्यरचा 'लक फॅक्टर'चा सिलसिला; 'बेबी बॉस'लाही संधी! न्यूझीलंडच्या संघात ३ बदल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-27T07:00:02",
-            "url": "https://www.lokmat.com/cricket/news/india-vs-new-zealand-3rd-t20i-live-streaming-when-and-where-to-watch-ind-nz-match-2026-wellington-hnry-stadium-head-to-head-record-pitch-report-match-timing-and-playing-xi-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-new-zealand-3rd-t20i-live-streaming-m-1_2026101809695.jpg",
+            "published": "2026-10-27T12:20:22",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-3rd-t20i-india-captain-shreyas-iyer-won-toss-and-have-opted-to-field-new-zealand-three-changes-matt-henry-lockie-ferguson-and-nathan-smith-at-hnry-stadium-wellington-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-3rd-t20i-india-captain-shreyas-iyer-won-toss-and-have-opted-to-field-m_2026101809844.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "55789b17bf70",
-            "feed": "lokmat",
-            "title": "अंगक्रिश रघुवंशी, मुशीर खान यांची शतके; मुंबईची हरयाणाविरुद्ध भक्कम सुरुवात",
+            "id": "579cad27563b",
+            "feed": "esakal",
+            "title": "IND vs NZ 3rd T20I Live: भारतीय संघाने टॉस जिंकला... प्लेइंग इलेव्हनमध्ये बघा कोणता बदल केला, किवींच्या संघात ३ बदल",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-27T05:41:14",
-            "url": "https://www.lokmat.com/cricket/news/angkrish-raghuvanshi-mushir-khan-hit-centuries-mumbai-start-strongly-against-haryana-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/angaris-hber_2026101809699.jpg",
+            "published": "2026-10-27T12:07:46",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-nz-3rd-t20i-india-win-toss-and-opt-to-bowl-no-changes-in-playing-xi-new-zealand-make-three-changes-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-27/8behl7c8/India-vs-New-Zealand-3rd-T20I",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fd0e7daaea50",
-            "feed": "lokmat",
-            "title": "टी-२० क्रिकेट : विजयी आघाडी घेण्याचे लक्ष्य; न्यूझीलंडविरुद्ध आज तिसरा सामना; भुवनेश्वर कुमारकडून मोठ्या अपेक्षा",
+            "id": "bec2edcdb3ed",
+            "feed": "esakal",
+            "title": "Video Viral : \"मला २०२७ चा वर्ल्ड कप खेळायचा आहे, त्यामुळे शुभमन गिलला खूश ठेवावे लागेल\", असं का म्हणाला रोहित शर्मा?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-27T05:38:44",
-            "url": "https://www.lokmat.com/cricket/news/t20-cricket-aiming-to-take-a-winning-lead-third-match-against-new-zealand-today-high-expectations-from-bhuvneshwar-kumar-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-nz-t20-match-3_2026101809698.jpg",
+            "published": "2026-10-27T11:48:50",
+            "url": "https://www.esakal.com/krida/cricket/i-have-to-keep-shubman-gill-happy-to-play-2027-world-cup-rohit-sharmas-hilarious-reply-video-viral-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-27/3oldvcuj/Rohit-Sharma-funny-reply-on-Shubman-Gill-and-Shreyas-Iyer",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "77f019680024",
-            "feed": "lokmat",
-            "title": "पेट्रोल, डिझेल विसरा... १००% इथेनॉलवर दामटवा कार..! इथेनॉलवर चालणाऱ्या वाहन उत्पादनाला केंद्राची मान्यता",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-27T05:50:02",
-            "url": "https://www.lokmat.com/auto/forget-petrol-diesel-run-your-car-on-100-ethanol-centre-approves-production-of-vehicles-running-on-ethanol-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ethanol-4w6t5_2026101809702.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "e7b1ec552ffa",
+            "id": "e343ccb88547",
             "feed": "maharashtratimes",
-            "title": "“देवेंद्र आबा, हे पैसे शेतकरी काकांना द्या!” चिमुकलीनं दुष्काळग्रस्तांसाठी फोडली पिगी बँक; मुख्यमंत्र्यांच्या हातात ठेवले ३ हजार रुपये, व्हिडीओ व्हायरल",
+            "title": "DA Hike Calculator: केंद्रीय कर्मचाऱ्यांना DA वाढ कधी, 18000 ते 1 लाख सॅलरीवाल्यांचा पगार किती वाढणार? 63% डीएचे असे असेल कॅल्क्युलेशन",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "business"
             },
-            "published": "2026-10-27T00:30:21",
-            "url": "https://maharashtratimes.com/viral/viral-news/little-girl-breaks-her-piggy-bank-to-help-drought-hit-farmers-in-maharashtra/articleshow/135218581.cms",
+            "published": "2026-10-27T12:08:05",
+            "url": "https://maharashtratimes.com/business/business-news/da-hike-october-2026-calculator-how-much-will-18000-to-100000-basic-salary-central-govt-employees-could-benefit/articleshow/135225594.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "c77854a3f63a",
+            "id": "610d858a1a80",
             "feed": "lokmat",
-            "title": "IT क्षेत्राला सुगीचे दिवस! TCS, Infosys सह चार कंपन्यांत हजारोंची भरती; फ्रेशर्सना मोठी संधी",
+            "title": "गाडीपेक्षा नंबर प्लेटच चौपट महाग! एका नंबरसाठी मोजले १७ कोटी रुपये; लिलावात रचला नवा विक्रम",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-10-26T21:52:02",
-            "url": "https://www.lokmat.com/business/news/it-sector-recruitment-of-thousands-in-four-companies-including-tcs-infosys-big-opportunity-for-freshers-a-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/it-jobs-tcs-wipro_2026101809678.jpg",
+            "published": "2026-10-27T12:01:02",
+            "url": "https://www.lokmat.com/photos/auto/number-plate-is-four-times-more-expensive-than-a-car-rs-17-crore-paid-for-a-single-number-new-record-set-at-auction-a-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/number-main-news_2026101809809.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
+        },
+        {
+            "id": "f1106855abcc",
+            "feed": "lokmat",
+            "title": "राज्यात ९२ साखर कारखान्यांचे गाळप सुरू; आजअखेर सर्वाधिक साखर उत्पादन कोणत्या विभागात?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-27T11:50:44",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/crushing-of-92-sugar-factories-in-the-state-has-started-which-division-has-the-highest-sugar-production-as-of-today-a-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/galap-sugar-production-2026-27_2026101809788.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
