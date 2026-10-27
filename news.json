@@ -1,88 +1,136 @@
 {
-    "lastUpdated": "28-10-2026 | 12:34 AM IST",
+    "lastUpdated": "28-10-2026 | 04:50 AM IST",
     "maharashtra": [
         {
-            "id": "b0d98556b3c2",
-            "feed": "lokmat",
-            "title": "विधान परिषदेचे कल फिरले, या ठिकाणी मविआकडून सत्ताधाऱ्यांना धक्का, तर या जागांवर महायुती आघाडीवर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-28T00:13:27",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-mlc-election-results-2026-the-trend-of-the-legislative-council-has-changed-mavi-is-in-the-lead-in-this-seat-while-the-mahayuti-is-in-the-lead-in-these-seats-a-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vidhan-parishad-election-result-update-1_2026101810352.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b0467a9cd737",
+            "id": "c5be6b633197",
             "feed": "maharashtratimes",
-            "title": "MLC Nagpur Graduate Election Result : काँग्रेस आणि भाजपची धाकधूक वाढली, कराळे मास्तरांनीही ताकद दाखवली, नागपूरच्या मतमोजणीत जबरदस्त ट्विस्ट",
+            "title": "Thane News : मध्यरात्रीपर्यंत ठाणे धुमसतेच, पूर्णेकरांच्या समर्थनार्थ हजारो नागरिक रस्त्यावर, रस्ते जाम",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-27T23:59:04",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/maharashtra-mlc-nagpur-graduate-election-result-2026-bjp-candidate-sudhakar-kohale-vs-congress-candidate-abhijit-vanjari-vs-nitesh-karale-live-update/articleshow/135243520.cms",
+            "published": "2026-10-28T02:46:25",
+            "url": "https://maharashtratimes.com/maharashtra/thane/pradeep-purnekar-case-update-protest-blocked-roads-till-late-night-in-thane-heavy-traffic-in-city/articleshow/135245626.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c28531104a23",
+            "id": "e9dcf2b05c3e",
             "feed": "maharashtratimes",
-            "title": "Government Scheme : निराधार लोकांचा आधार! सरकार देणार महिना दीड हजार, विशेष योजना",
+            "title": "MLC Election Result : मतपेट्या उघडताच अधिकारीही चक्रावले; मतपत्रिकेतून बाहेर आल्या नेत्यांना जाब विचारणाऱ्या चिठ्ठ्या!",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-27T23:50:39",
-            "url": "https://maharashtratimes.com/government-schemes/state-government-policy/sanjay-gandhi-niradhar-anudan-yojana-government-scheme-for-maharashtra-state-people/articleshow/135243510.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "efaff4df246a",
-            "feed": "esakal",
-            "title": "Leopard Attack : बोरी बुद्रुक येथे बिबट्याचा दुचाकीस्वारावर हल्ला; एकजण जखमी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-27T23:36:21",
-            "url": "https://www.esakal.com/pune/leopard-attacks-two-wheeler-rider-at-bori-budruk-one-injured-alephata-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-27/d5px4hsh/one-injured-in-Leopard-Attack",
+            "published": "2026-10-28T02:20:33",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/letters-in-ballot-boxes-reveal-voters-anger-during-marathwada-teachers-mlc-election-counting/articleshow/135245503.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "48d80dbf9892",
+            "id": "313aa617952c",
+            "feed": "maharashtratimes",
+            "title": "Pune Election  Result : पुणे शिक्षक मतदारसंघाचा निकाल सोपा नाही, भाजपचे कौस्तुभ गावडे आघाडीवर, पण पुढच्या तीन उमेदवारांची मतेदेखील डोळे विस्फारणारे",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-28T01:39:15",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/maharashtra-mlc-pune-teachers-election-result-2026-live-update-breaking-news/articleshow/135245275.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e0fc1d1dd66e",
             "feed": "lokmat",
-            "title": "अमरावतीत महायुतीच्या किरण सरनाईकांची आघाडी कायम, पण दुसरा पसंतीक्रम ठरणार निर्णायक",
+            "title": "पूर्णेकर हत्या प्रकरण: मुख्य आरोपींच्या अटकेसाठी आंदोलकांकडून रास्ता रोको",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-10-27T23:34:46",
-            "url": "https://www.lokmat.com/amravati/vidhan-parishad-election-2026-result-update-mahayutis-kiran-sarnaiks-lead-in-amravati-remains-second-preference-will-be-decisive-a-a489-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vidhan-parishad-election-result-1_2026101810351.jpg",
+            "published": "2026-10-28T01:21:45",
+            "url": "https://www.lokmat.com/thane/purnekar-murder-case-protesters-block-road-for-arrest-of-main-accused-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/thane-andolan-1_2026101810361.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
+        },
+        {
+            "id": "2af4c9492e4c",
+            "feed": "lokmat",
+            "title": "नागपूर पदवीधरच्या मतमोजणी केंद्राजवळ मध्यरात्रीनंतर राडा, काँग्रेस-भाजपाचे कार्यकर्ते भिडले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-28T00:51:47",
+            "url": "https://www.lokmat.com/nagpur/vidhan-parishad-election-result-update-congress-bjp-workers-clash-near-nagpur-graduate-vote-counting-center-a-a382-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-vidhan-parishad-congress-bjp-1_2026101810358.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "1da2eee7d9e4",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य  28 October 2026: मूलांक 6 आर्थिक लाभ! मूलांक 8  योजना यशस्वी! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-28T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-28-october-laxmi-narayan-yog-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135243771.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "97aa9702f3ea",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 28 ऑक्टोबर 2026: मेष, सिंह, वृश्चिकची कामात प्रगती, संधीचा लाभ घ्या! जाणून घ्या, तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-28T01:24:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-28-october-2026-in-marathi-laxmi-narayan-yog/articleshow/135245212.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "0a62bf569349",
+            "feed": "lokmat",
+            "title": "वाराणसीत धक्कादायक निकाल, शिक्षक मतदारसंघात समाजवादी पार्टीचा दणदणीत विजय, भाजपाचा पराभव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-28T01:10:19",
+            "url": "https://www.lokmat.com/national/shocking-results-in-varanasi-samajwadi-party-wins-resounding-victory-in-teachers-constituency-bjp-loses-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/varanasi-vidhan-parishad-election-1_2026101810359.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "76f23e79543e",
             "feed": "lokmat",
@@ -114,57 +162,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-27/o9a7k4jk/Saturn-Transit-2026",
             "isBreaking": false,
             "category_reason": "default"
-        },
+        }
+    ],
+    "world": [
         {
-            "id": "4a57b5293d34",
-            "feed": "esakal",
-            "title": "मुंगसाचं सगळ्यात मोठं दुःख कोणतं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-27T22:35:00",
-            "url": "https://www.esakal.com/ampstories/web-story/biggest-sorrow-of-mongoose-panchatantra-loyalty-tragedy-wildlife-survival-struggle-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-27/m0ayat6h/asz-3.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d57aec606a63",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 28 October 2026: गौरी योग, लक्ष्मी-नारायण योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-27T22:29:04",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-28-october-2026-in-marathi-gauri-yog-laxmi-narayan-yog-and-shubha-muhurta/articleshow/135239634.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3feda341ec1c",
+            "id": "2378565780ec",
             "feed": "lokmat",
-            "title": "केडीएमसी कामगारांना २१ हजाराचा दिवाळी बोनस, आशा सेविकांना ६ हजार",
+            "title": "सौदीतील हुती हल्ल्यांनंतर भारताकडून नागरिकांना सतर्कतेचा इशारा; रियाधमधील दूतावासाकडून ॲडव्हायझरी जारी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "world"
             },
-            "published": "2026-10-27T22:12:49",
-            "url": "https://www.lokmat.com/kalyan-dombivli/diwali-bonus-of-rs-21000-to-kdmc-workers-rs-6000-to-asha-workers-a-a855-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kdmc-sankul_20180364921.jpg",
+            "published": "2026-10-28T03:35:01",
+            "url": "https://www.lokmat.com/international/india-warns-citizens-to-be-vigilant-after-houthi-attacks-in-saudi-arabia-advisory-issued-by-embassy-in-riyadh-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/houthi-rebels-ballistic-missile-attack-saudi-arabias-fd-fd_2026101810362.jpg",
             "isBreaking": false,
-            "category_reason": "default"
-        }
-    ],
-    "world": [
+            "category_reason": "feed"
+        },
+        {
+            "id": "2839bada2b4d",
+            "feed": "lokmat",
+            "title": "\"माझे कपडे फाडले अन्...\"; माजी मिस स्वित्झर्लंडचा ट्रम्प यांच्यावर अत्याचाराचा गंभीर आरोप\"",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-10-28T00:39:36",
+            "url": "https://www.lokmat.com/international/my-clothes-were-torn-and-former-miss-switzerland-makes-serious-accusations-of-abuse-against-trump-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-yrump-ameria_2026101810356.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "c66aa902199f",
             "feed": "esakal",
@@ -212,38 +244,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-27/q7pfb2oq/Latest-Marathi-Breaking-News-2026-10-27T210722.629.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "c7fb385c65fe",
-            "feed": "maharashtratimes",
-            "title": "नेतन्याहूंचा पराभव जवळ, १८% अरब मतदार ठरवणार कोण होणार इस्रायलचे पंतप्रधान!",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-10-27T19:44:44",
-            "url": "https://maharashtratimes.com/international/international-news/what-happen-if-netanyahu-defeated-who-is-gadi-eisenkot/articleshow/135236948.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f9e45d8c0b0d",
-            "feed": "maharashtratimes",
-            "title": "Saudi Houthi Deal : हुतींचे हल्ले थांबवण्यासाठी सौदी देणार १ अब्ज डॉलर, इराण - पाकिस्तानची मध्यस्थी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-27T18:47:00",
-            "url": "https://maharashtratimes.com/video/mt-originals/saudi-arabia-houthi-ceasefire-deal-explained/videoshow/135235870.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
