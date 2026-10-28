@@ -1,88 +1,136 @@
 {
-    "lastUpdated": "28-10-2026 | 10:23 PM IST",
+    "lastUpdated": "29-10-2026 | 02:55 AM IST",
     "maharashtra": [
         {
-            "id": "1f54f322fb54",
-            "feed": "esakal",
-            "title": "Electric Shock : धरणग्रस्त शेतकऱ्यांचा वीज पंप सुरू करताना विजेचा धक्का बसून दुर्दैवी मृत्यू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-28T22:18:30",
-            "url": "https://www.esakal.com/marathwada/drought-affected-farmer-tragically-electrocuted-while-starting-water-pump-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/bao59tul/Vittal-Garad",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "8514c66a6ece",
+            "id": "4ac14d236132",
             "feed": "lokmat",
-            "title": "नागपुरात वातावरण तापलं, मतमोजणी केंद्राजवळ कॉंग्रेस-भाजपाचे कार्यकर्ते परत भिडले",
+            "title": "Maharashtra MLC Election Results 2026 LIVE: विधान परिषद निवडणुकीत पाच पैकी तीन जागांवर महाविकास आघाडीची बाजी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-28T22:12:19",
-            "url": "https://www.lokmat.com/nagpur/the-atmosphere-heated-up-in-nagpur-congress-bjp-workers-clashed-again-near-the-counting-center-a-a382-c301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-congress-bjp-2_2026101811131.jpg",
+            "published": "2026-10-29T00:25:51",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-28-october-2026-vidhan-parishad-election-results-manoj-jarange-patil-audio-clip-cm-devendra-fadnavis-karjat-tree-cutting-raj-thackeray-drought-pm-narendra-modi-rahul-gandhi-arnab-cyclone-abhishek-sharma-a-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-vidhan-parishad-result-2026-wess_2026101809743.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "166dc71dff56",
-            "feed": "esakal",
-            "title": "Pune News : विवाहितेस आत्महत्येस प्रवृत्त केल्याचे प्रकरण; वेळेत दोषारोपपत्र दाखल न केल्याने तपास अधिकाऱ्याला कारणे दाखवा नोटीस",
+            "id": "b37f43bcbf7f",
+            "feed": "lokmat",
+            "title": "धक्कादायक! सांगलीत पोलिसाच्या फोटोवर केली करणी, अज्ञाताविरोधात गुन्हा दाखल",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-29T00:24:09",
+            "url": "https://www.lokmat.com/sangli/shocking-crime-committed-on-police-photo-in-sangli-case-registered-against-unknown-person-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/karani-121_2026101811158.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "40e778ac1f54",
+            "feed": "lokmat",
+            "title": "रत्नागिरीत गांजा विक्रीसाठी आलेल्या तरुणाला अटक‌",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-29T00:18:40",
+            "url": "https://www.lokmat.com/ratnagiri/a-young-man-was-arrested-for-selling-ganja-in-ratnagiri-a-a449-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rat-news-11_2026101811157.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "81b34ba9e3fb",
+            "feed": "lokmat",
+            "title": "मुंबईच्या देवनारमध्ये अवैध गॅस सिलिंडरचा साठा जप्त; टेम्पोसह ४.४२ लाखांचा मुद्देमाल हस्तगत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-28T22:07:02",
-            "url": "https://www.esakal.com/pune/abetment-to-married-womans-endlife-show-cause-notice-issued-to-investigating-officer-for-delay-in-filing-chargesheet-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-08/my1xaw2o/Court",
+            "published": "2026-10-29T00:16:15",
+            "url": "https://www.lokmat.com/thane/stock-of-illegal-gas-cylinders-seized-in-mumbais-deonar-tempo-and-valuables-worth-rs-442-lakh-seized-a-a851-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gas-news-1_2026101811156.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7a6b5357e329",
-            "feed": "esakal",
-            "title": "Graduate and Teacher Constituency Election Result : एका डोळ्यात हसू दुसऱ्या डोळ्यात अश्रू; विजयी उमेदवार कौस्तुभ गावडे यांच्या विजयाचा जल्लोष केला नाही",
+            "id": "922a42fd1fe9",
+            "feed": "lokmat",
+            "title": "पुणे, संभाजीनगर, नागपूर... पदवीधरांनी महायुतीला हादरवले, मविआची सरशी, असा आहे संपूर्ण निकाल",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-28T21:56:47",
-            "url": "https://www.esakal.com/pune/graduate-and-teacher-constituency-election-result-laughter-in-one-eye-tears-in-the-other-winning-candidate-kaustubh-gawade-refrains-from-victory-celebration-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-29/f0h3cp49/Kaustubh-Gawade",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b23015f99b3d",
-            "feed": "esakal",
-            "title": "नाशिक पोलीस आयुक्तालय हद्दीत शनिवारीपर्यंत ‘नो ड्रोन फ्लाय झोन’",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-28T21:52:26",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-no-drone-fly-zone",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/xxl88hlv/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "published": "2026-10-29T00:06:02",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-mlc-election-results-2026-pune-sambhajinagar-nagpur-graduates-shake-up-mahayuti-mvas-victory-here-are-the-full-results-a-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vidhan-parishad-election-result-today-1_2026101811154.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "a112cea3554c",
+            "feed": "lokmat",
+            "title": "\"बॅलेट बॉक्स राजीनामा द्या...!\"; अमित शाह यांचा MLC निवडणूक निकालावरून राहुल गांधींना चिमटा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-10-28T23:52:50",
+            "url": "https://www.lokmat.com/national/amit-shah-mocks-rahul-gandhi-ballot-box-resign-mlc-election-mlc-election-results-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amit-shah-mocks-rahul-gandhi_2026101811145.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0177cb7bfc4c",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 29 ऑक्टोबर 2026: कर्कसाठी सल्ला फायदेशीर! तुळने खर्चाला आवर घाला! जाणून घ्या, तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-28T23:37:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-29-october-2026-in-marathi-laxmi-narayan-yog/articleshow/135275095.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "02def6efa09b",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 29 October 2026: वक्रतुंड संकष्ट चतुर्थी, करवा चौथ, लक्ष्मी नारायण योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-28T22:32:06",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-29-october-2026-in-marathi-sankashti-chaturthi-laxmi-narayan-yog-and-shubha-muhurta/articleshow/135272191.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "f6f25f7ae128",
             "feed": "esakal",
@@ -114,57 +162,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-16/drlm34jl/Chanakya-niti-Secret-to-Victory-1.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "5619e4f464c4",
-            "feed": "esakal",
-            "title": "Mumbai Night Cab Viral Video : \"आज मला पुरुष असल्यासारखं वाटलं!\"; पहाटे २ वाजता मुंबईत उतरलेल्या तरुणीने 'त्या' कॅबमधून प्रवास केला अन्... व्हिडिओ तुफान व्हायरल!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-28T21:54:18",
-            "url": "https://www.esakal.com/premier/female-driven-cab-women-safety-viral-video-mumbai-social-media-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/6z6j2mot/Esakal-7.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b6cb4d1f63c3",
-            "feed": "lokmat",
-            "title": "मनसे नगरसेवकांची आयुक्तांकडे बायोगॅस प्रकल्प बंद करण्याची मागणी; प्रकल्पाच्या जागेवर उद्यान उभारा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-28T21:53:53",
-            "url": "https://www.lokmat.com/kalyan-dombivli/mns-corporators-demand-from-the-commissioner-to-close-the-biogas-project-build-a-park-on-the-project-site-a-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jkflgub_2026101811130.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "88081ef390c4",
-            "feed": "esakal",
-            "title": "भीमाशंकरचे जंगल 'शेकरु'चे घर कसे ठरले?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-28T21:47:37",
-            "url": "https://www.esakal.com/ampstories/web-story/why-bhimashankar-forest-is-home-to-shekru-indian-giant-squirrel-habitat-facts-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/cqrl9srb/10.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "world": [
+        {
+            "id": "d544d58528ac",
+            "feed": "esakal",
+            "title": "इस्राएलमध्ये EVM ऐवजी बॅलेट पेपर का वापरतात?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-28T22:59:05",
+            "url": "https://www.esakal.com/ampstories/web-story/why-israel-uses-ballot-papers-instead-of-evm-in-national-parliamentary-elections-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/faftb0g0/Israel-election-system-1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "0b0dbb769ef3",
             "feed": "maharashtratimes",
@@ -228,25 +244,41 @@
             "image": "https://cf-images.assettype.com/esakal/2026-10-28/ouk9e7uj/World-Smile-Day-The-Power-of-a-Smile-Health-Benefits-Explained.png",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "8f96aa84ac4a",
-            "feed": "esakal",
-            "title": "Spain Train Accident: स्पेनमध्ये भीषण अपघात; २ हाय-स्पीड रेल्वेगाड्यांची धडक; ३० जणांचा मृत्यू",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-28T16:52:32",
-            "url": "https://www.esakal.com/global/spain-high-speed-train-collision-toledo-30-killed-rescue-operation-renfe-iryo-madrid-seville-rail-line-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/9omqg6kb/AI-Image-4.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
+        {
+            "id": "999f9b68b820",
+            "feed": "lokmat",
+            "title": "Most Expensive Players In WPL History : स्मृतीला तोड नाही! WPL मधील ५ महागड्या खेळाडूंच्या यादीत ती आजही टॉपला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-10-29T00:08:33",
+            "url": "https://www.lokmat.com/cricket/photos/most-expensive-players-in-wpl-auction-history-smriti-mandhana-to-deepti-sharma-top-5-highest-paid-cricketers-list-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/most-expensive-players-in-wpl-history-m-11_2026101811151.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1d4d36fe50b0",
+            "feed": "maharashtratimes",
+            "title": "WPL Auction 2027 : मिनी ऑक्शन पार, सर्वात महागडी खेळाडू कोण? पाहा एकूण 5 संघांची यादी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-10-28T22:56:45",
+            "url": "https://maharashtratimes.com/sports/cricket/iplt20/news/wpl-auction-2027-total-5-teams-buy-25-players-sophie-molineux-and-kiran-navgire-became-most-expensive-see-mi-rcb-dc-upw-and-gg-updatesd-squad/articleshow/135274716.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "0ec641aebe0a",
             "feed": "lokmat",
@@ -260,38 +292,6 @@
             "published": "2026-10-28T21:54:54",
             "url": "https://www.lokmat.com/cricket/news/wpl-2027-auction-full-list-of-sold-and-unsold-players-updated-for-all-5-teams-a-a1004/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wpl-2027-auction-sold-and-unsold-players-list-m_2026101811128.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "98c65eddc7f4",
-            "feed": "maharashtratimes",
-            "title": "Kiran Navgire : सोलापूरची वाघीण दिल्लीची प्रतिक्षा संपवणार! DC कडून तगडा भाव, किरण नवगिरेची पहिली प्रतिक्रिया काय? पाहा Video",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-10-28T21:24:08",
-            "url": "https://maharashtratimes.com/sports/cricket/iplt20/news/wpl-2027-auction-kiran-navgire-1st-reaction-after-joining-delhi-capitals-in-75-lakh-rupees-see-video/articleshow/135271545.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "337a026b1e20",
-            "feed": "esakal",
-            "title": "WPL 2027 Auction : सोफी मॉलिनेक्स ठरली महागडी खेळाडू... मुंबई इंडियन्स, RCB चे तगडे संघ तयार; जाणून घ्या सर्व संघांची लिस्ट...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-10-28T21:14:24",
-            "url": "https://www.esakal.com/krida/cricket/wpl-2027-auction-full-list-of-sold-and-unsold-players-complete-squads-of-all-five-teams-mi-rcb-gg-uwp-dc-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/9yglrpkj/WPL-2027-auction-full-squad-list-of-all-five-teams",
             "isBreaking": false,
             "category_reason": "feed"
         }
