@@ -1,346 +1,346 @@
 {
-    "lastUpdated": "28-10-2026 | 03:38 PM IST",
+    "lastUpdated": "28-10-2026 | 10:23 PM IST",
     "maharashtra": [
         {
-            "id": "712351ac2b75",
+            "id": "1f54f322fb54",
             "feed": "esakal",
-            "title": "-घोडबंदर रोडच्या दिशेने जाणाऱ्या मार्गावर वाहनांचा लांबच लांब रांगा",
+            "title": "Electric Shock : धरणग्रस्त शेतकऱ्यांचा वीज पंप सुरू करताना विजेचा धक्का बसून दुर्दैवी मृत्यू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-28T22:18:30",
+            "url": "https://www.esakal.com/marathwada/drought-affected-farmer-tragically-electrocuted-while-starting-water-pump-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/bao59tul/Vittal-Garad",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8514c66a6ece",
+            "feed": "lokmat",
+            "title": "नागपुरात वातावरण तापलं, मतमोजणी केंद्राजवळ कॉंग्रेस-भाजपाचे कार्यकर्ते परत भिडले",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-28T22:12:19",
+            "url": "https://www.lokmat.com/nagpur/the-atmosphere-heated-up-in-nagpur-congress-bjp-workers-clashed-again-near-the-counting-center-a-a382-c301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-congress-bjp-2_2026101811131.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "166dc71dff56",
+            "feed": "esakal",
+            "title": "Pune News : विवाहितेस आत्महत्येस प्रवृत्त केल्याचे प्रकरण; वेळेत दोषारोपपत्र दाखल न केल्याने तपास अधिकाऱ्याला कारणे दाखवा नोटीस",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-28T17:37:30",
-            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i94309-txt-thane-20261027063730",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-27/frq0rqkx/mumbai_fallback_image.jpg",
+            "published": "2026-10-28T22:07:02",
+            "url": "https://www.esakal.com/pune/abetment-to-married-womans-endlife-show-cause-notice-issued-to-investigating-officer-for-delay-in-filing-chargesheet-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-08/my1xaw2o/Court",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "5a31635b187a",
-            "feed": "lokmat",
-            "title": "सिंधुदुर्गच्या सागरी पर्यटनाला ‘गोल्डन बनियन’; आयएनएस गुलदार प्रकल्पाला राष्ट्रीय पुरस्कार",
+            "id": "7a6b5357e329",
+            "feed": "esakal",
+            "title": "Graduate and Teacher Constituency Election Result : एका डोळ्यात हसू दुसऱ्या डोळ्यात अश्रू; विजयी उमेदवार कौस्तुभ गावडे यांच्या विजयाचा जल्लोष केला नाही",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-28T15:35:41",
-            "url": "https://www.lokmat.com/maharashtra/ins-guldar-underwater-museum-project-in-sindhudurg-district-receives-the-golden-banyan-award-from-the-central-government-a-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/guldar-sindhudurga-tourisum_2026101810767.jpg",
+            "published": "2026-10-28T21:56:47",
+            "url": "https://www.esakal.com/pune/graduate-and-teacher-constituency-election-result-laughter-in-one-eye-tears-in-the-other-winning-candidate-kaustubh-gawade-refrains-from-victory-celebration-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-29/f0h3cp49/Kaustubh-Gawade",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d9efff298fc8",
-            "feed": "maharashtratimes",
-            "title": "Marathwada MLC Election: मराठवाडा पदवीधर मतदारसंघात उमेदवारांची दमछाक; ११ उमेदवार रिंगणाबाहेर, कोणा-कोणाचा पत्ता कट?",
+            "id": "b23015f99b3d",
+            "feed": "esakal",
+            "title": "नाशिक पोलीस आयुक्तालय हद्दीत शनिवारीपर्यंत ‘नो ड्रोन फ्लाय झोन’",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-10-28T15:31:00",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/marathwada-mlc-election-result-30-candidates-pratap-singh-patil-races-towards-victory-11-eliminated/articleshow/135260049.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8b3bb68c3685",
-            "feed": "maharashtratimes",
-            "title": "बड्या पक्षांना घाम फोडत कराळेंनी ताकद दाखवली, पवारांच्या पक्षकारवाईनंतर मोठा निर्णय",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-28T15:30:10",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-mlc-election-results-nitesh-karale-master-announces-big-decision/videoshow/135260564.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4ac14d236132",
-            "feed": "lokmat",
-            "title": "Maharashtra MLC Election Results 2026 LIVE: पुणे शिक्षक मतदारसंघात भाजपाने मारली बाजी! कौस्तुभ गावडे यांचा विजय",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-28T15:25:54",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-28-october-2026-vidhan-parishad-election-results-manoj-jarange-patil-audio-clip-cm-devendra-fadnavis-karjat-tree-cutting-raj-thackeray-drought-pm-narendra-modi-rahul-gandhi-arnab-cyclone-abhishek-sharma-a-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-vidhan-parishad-result-2026-wess_2026101809743.jpeg",
+            "published": "2026-10-28T21:52:26",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-no-drone-fly-zone",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/xxl88hlv/Sakal20Wesite20Banner20_20Nashik.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "9af7b7fe7f49",
-            "feed": "lokmat",
-            "title": "Diwali 2026 : परफेक्ट पारंपरिक शंकरपाळी उत्तम जमण्यासाठी खास १० ट्रिक्स, मोजता इतकं इतकी पुडं पडतील...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-28T15:35:11",
-            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-make-perfect-shankarpali-crispy-shankarpali-recipe-shankarpali-tips-and-tricks-homemade-shankarpali-recipe-perfect-shankarpali-at-home-a-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-make-perfect-shankarpali_2026101810763.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "9e8897f34f8d",
-            "feed": "maharashtratimes",
-            "title": "Sankashti Chaturthi: संकटावर मात आणि शत्रूंचा विनाश! युधिष्ठिराला श्रीकृष्णाने सांगितलेली 'वक्रतुंड चतुर्थी व्रत' कथा जाणून घ्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-10-28T15:31:17",
-            "url": "https://maharashtratimes.com/astro/religion-festival-news/vakratunda-sankashti-chaturthi-2026-vratha-katha-significance-info-marathi/articleshow/135258915.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "0a22ce316b34",
-            "feed": "lokmat",
-            "title": "इन्स्टावर प्रेम, लव्ह मॅरेज, ९ महिन्यांनंतर भयंकर शेवट; घटस्फोटास नकार देताच पत्नीला जिवंत जाळलं",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-28T15:28:40",
-            "url": "https://www.lokmat.com/crime/supaul-husband-arrested-for-allegedly-burning-wife-alive-over-divorce-dispute-a-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sanjeev-saah_2026101810765.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5382fdcbc8a4",
+            "id": "f6f25f7ae128",
             "feed": "esakal",
-            "title": "अर्णब चक्रीवादळाची आंध्रला धडक",
+            "title": "केसांच्या वाढीसाठी आवळा, भृंगराज की मेथी; काय आहे सर्वात उत्तम? जाणून घ्या",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-28T15:27:51",
-            "url": "https://www.esakal.com/ampstories/web-story/cyclone-arnab-andhra-pradesh-landfall-wind-speed-heavy-rain-safety-alert-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/zimsi1k4/Stormy-Coastal-Drive-in-Heavy-Rain.png",
+            "published": "2026-10-28T22:21:00",
+            "url": "https://www.esakal.com/ampstories/web-story/amla-vs-bhringraj-vs-methi-which-is-best-for-hair-growth-myths-facts-benefits-and-scientific-evidence-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/7dx91o03/Amla-VS-Bhringarj-VS-Methi-for-Hair-Growth-1.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "6297e0e7f88b",
+            "id": "e4118c6bccda",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : जय पवार यांनी घेतली सीआयडी अधिकाऱ्यांची भेट; अजित पवार यांच्या अपघाताच्या तपासाबाबत चर्चा!",
+            "title": "Chanakya Niti: विषारी लोकांपासून शत्रुत्व न वाढवता कसं दूर व्हावं? चाणक्य नीतीतील ७ महत्त्वाचे धडे!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-28T15:27:49",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-28th-october-2026-graduate-and-teachers-constituency-election-results-allegations-manoj-jarange-patil-eknath-shinde-cabinet-decisions-advance-financial-aid-of-5000-for-farmers-ahead-of-diwali-mumbai-pollution-cyclone-arnab-devendra-fadnavis-pune-srk94-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2024-12-15/87gtoomj/live-update.jpg",
+            "published": "2026-10-28T21:59:57",
+            "url": "https://www.esakal.com/ampstories/web-story/chanakya-niti-7-ways-to-stay-away-from-toxic-people-without-making-enemies-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-16/drlm34jl/Chanakya-niti-Secret-to-Victory-1.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "5619e4f464c4",
+            "feed": "esakal",
+            "title": "Mumbai Night Cab Viral Video : \"आज मला पुरुष असल्यासारखं वाटलं!\"; पहाटे २ वाजता मुंबईत उतरलेल्या तरुणीने 'त्या' कॅबमधून प्रवास केला अन्... व्हिडिओ तुफान व्हायरल!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-28T21:54:18",
+            "url": "https://www.esakal.com/premier/female-driven-cab-women-safety-viral-video-mumbai-social-media-news-today-marathi-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/6z6j2mot/Esakal-7.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "b6cb4d1f63c3",
+            "feed": "lokmat",
+            "title": "मनसे नगरसेवकांची आयुक्तांकडे बायोगॅस प्रकल्प बंद करण्याची मागणी; प्रकल्पाच्या जागेवर उद्यान उभारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-28T21:53:53",
+            "url": "https://www.lokmat.com/kalyan-dombivli/mns-corporators-demand-from-the-commissioner-to-close-the-biogas-project-build-a-park-on-the-project-site-a-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jkflgub_2026101811130.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "88081ef390c4",
+            "feed": "esakal",
+            "title": "भीमाशंकरचे जंगल 'शेकरु'चे घर कसे ठरले?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-28T21:47:37",
+            "url": "https://www.esakal.com/ampstories/web-story/why-bhimashankar-forest-is-home-to-shekru-indian-giant-squirrel-habitat-facts-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/cqrl9srb/10.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "world": [
         {
-            "id": "e15537d83f78",
+            "id": "0b0dbb769ef3",
             "feed": "maharashtratimes",
-            "title": "ब्राझीलचे राष्ट्राध्यक्ष निवडणूक पराभव होताच अमेरिकेत पसार, फ्लॅव्हियो बोल्सोनारो यांनी असं काय केलं?",
+            "title": "भरबाजारात भीषण ड्रोन हल्ला, लोकांची पळापळ; 100 हून अधिक जणांचा शेवट, मंडईत निष्प्राण देहांचा खच",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-10-28T14:24:48",
-            "url": "https://maharashtratimes.com/international/international-news/brazil-presidential-election-after-defeat-flavio-bolsonaro-visit-america/articleshow/135258031.cms",
+            "published": "2026-10-28T18:42:42",
+            "url": "https://maharashtratimes.com/international/international-news/over-100-died-113-injured-in-sudan-army-drone-strike-on-busy-market/articleshow/135266583.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "2f0a36b3f1ba",
-            "feed": "esakal",
-            "title": "तरुणांना वेड लावणाऱ्या अ‍ॅनिमेशनची सुरुवात नेमकी कधी आणि कुठे झाली?",
+            "id": "eda5b2256319",
+            "feed": "maharashtratimes",
+            "title": "गेमिंग आणि रोबोटिक्सचे भविष्य बदलणार; गुगलचे नवीन 'Genie 4' रिअल-टाइम AI प्लॅटफॉर्म जाहीर",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-10-28T14:24:16",
-            "url": "https://www.esakal.com/ampstories/web-story/international-animation-day-history-and-evolution-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/mj94h8gx/5.png",
+            "published": "2026-10-28T18:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/science-technology/google-announces-genie-4-ai-model-sundar-pichai-unveils-next-gen-real-time-interactive-world-simulation/articleshow/135256705.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "9480d2dfc8bc",
-            "feed": "lokmat",
-            "title": "\"भाजपावाले विधान परिषद निवडणूक जिंकण्यासाठी किती खालच्या थराला गेलेत, हे समोर आले\", अखिलेश यादव संतापले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-10-28T14:10:44",
-            "url": "https://www.lokmat.com/international/it-has-come-to-light-how-low-the-bjp-has-gone-to-win-the-legislative-council-elections-akhilesh-yadav-is-furious-a-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/akhilesh-yadav-up-mlc-election-result_2026101810657.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "21662d0d2334",
+            "id": "841e19c1325e",
             "feed": "esakal",
-            "title": "सशाचा शत्रू कोण?",
+            "title": "Israel Election: इस्रायलच्या निवडणूक निकालात मोठा ट्विस्ट; 'बीबी' येणार की जाणार?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-28T14:00:39",
-            "url": "https://www.esakal.com/ampstories/web-story/who-is-rabbits-biggest-enemy-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/b9dlfsed/rabbit.jpg",
+            "published": "2026-10-28T17:47:15",
+            "url": "https://www.esakal.com/global/israel-election-2026-netanyahu-likud-party-regains-lead-hung-parliament-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/l427l61s/Netanyahu-येणार-की-जाणार.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "0b2f4528c9df",
+            "feed": "esakal",
+            "title": "Smile Day: एका स्मितहास्यामुळे बदलू शकते का संपूर्ण नाते? जाणून घ्या मानवी जीवनातील 'स्मितहास्याची' जादू!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-28T17:34:51",
+            "url": "https://www.esakal.com/lifestyle/world-smile-day-power-of-smile-health-benefits-marathi-news-relationship-smile-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/ouk9e7uj/World-Smile-Day-The-Power-of-a-Smile-Health-Benefits-Explained.png",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "34fed412b75e",
+            "id": "8f96aa84ac4a",
             "feed": "esakal",
-            "title": "Microsoft Layoffs: अमेरिकेतील 'या' कंपनीने १०१ वर्षांत एकालाही नोकरीवरून काढले नाही! सीईओने काय दिले कारण?",
+            "title": "Spain Train Accident: स्पेनमध्ये भीषण अपघात; २ हाय-स्पीड रेल्वेगाड्यांची धडक; ३० जणांचा मृत्यू",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-28T12:58:29",
-            "url": "https://www.esakal.com/global/microsoft-60000-employees-vrs-offer-torani-company-101-years-no-layoffs-employee-retention-strategy-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/hzdsxcg0/ravan-1.jpg",
+            "published": "2026-10-28T16:52:32",
+            "url": "https://www.esakal.com/global/spain-high-speed-train-collision-toledo-30-killed-rescue-operation-renfe-iryo-madrid-seville-rail-line-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/9omqg6kb/AI-Image-4.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "3cd13acdb732",
+            "id": "0ec641aebe0a",
             "feed": "lokmat",
-            "title": "ICC Rankings : नवा गडी नवं राज्य! चार वर्षांहून अधिक काळ अधिराज्य गाजवणाऱ्या जडेजाला धक्का; मार्को यान्सेननं हिसकावला ताज",
+            "title": "WPL 2027 Auction Sold And Unsold Players List : लिलावात ती एकमेव करोडपती; लखपतींच्या यादीत कोण कोण?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-28T15:19:59",
-            "url": "https://www.lokmat.com/cricket/news/ravindra-jadejas-4-year-reign-as-iccs-best-test-all-rounder-ends-south-africas-marco-jansen-crowned-no1-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/icc-test-rankings-marco-jansen-replace-ravindra-jadeja-no-1-m_2026101810758.jpg",
+            "published": "2026-10-28T21:54:54",
+            "url": "https://www.lokmat.com/cricket/news/wpl-2027-auction-full-list-of-sold-and-unsold-players-updated-for-all-5-teams-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wpl-2027-auction-sold-and-unsold-players-list-m_2026101811128.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4b2b28c2d8a4",
-            "feed": "lokmat",
-            "title": "ICC Rankings : अभिषेक शर्मा बनला 'नंबर वन'; श्रेयस अय्यर अन् ईशान किशनला मोठा फटका",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-10-28T14:44:02",
-            "url": "https://www.lokmat.com/cricket/news/icc-rankings-abhishek-reclaims-t20i-top-spot-jansen-becomes-no-1-test-bowler-and-all-rounder-ishan-kishan-shreyas-iyer-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/icc-rankings-abhishek-reclaims-t20i-top-spot-m_2026101810689.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "88aed00e9b2f",
+            "id": "98c65eddc7f4",
             "feed": "maharashtratimes",
-            "title": "Icc Ranking : अभिषेक शर्माचा T20I रँकिंगमध्ये धमाका, ईशानला पछाडत पहिल्या स्थानी झेप, कॅप्टन श्रेयसला मालिका विजयानंतरही झटका, टॉप 10 मध्ये कोण कोण?",
+            "title": "Kiran Navgire : सोलापूरची वाघीण दिल्लीची प्रतिक्षा संपवणार! DC कडून तगडा भाव, किरण नवगिरेची पहिली प्रतिक्रिया काय? पाहा Video",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-10-28T14:28:56",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/abhishek-sharma-clinch-no-1-spot-in-icc-t20i-ranking-surpassed-to-ishan-kishan-after-smashed-hundred-against-new-zealand-3rd-match-see-odi-and-test-stats/articleshow/135258556.cms",
+            "published": "2026-10-28T21:24:08",
+            "url": "https://maharashtratimes.com/sports/cricket/iplt20/news/wpl-2027-auction-kiran-navgire-1st-reaction-after-joining-delhi-capitals-in-75-lakh-rupees-see-video/articleshow/135271545.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "337a026b1e20",
+            "feed": "esakal",
+            "title": "WPL 2027 Auction : सोफी मॉलिनेक्स ठरली महागडी खेळाडू... मुंबई इंडियन्स, RCB चे तगडे संघ तयार; जाणून घ्या सर्व संघांची लिस्ट...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-28T21:14:24",
+            "url": "https://www.esakal.com/krida/cricket/wpl-2027-auction-full-list-of-sold-and-unsold-players-complete-squads-of-all-five-teams-mi-rcb-gg-uwp-dc-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/9yglrpkj/WPL-2027-auction-full-squad-list-of-all-five-teams",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "0a0c4c57c30f",
+            "id": "a7dbca2b8a9f",
             "feed": "lokmat",
-            "title": "ऊस गाळपाची घाई शेतकऱ्यांच्या मुळावर; यंदा साखर उतारा घटला, कारखाने किती रुपये दर देणार?",
+            "title": "शेतकऱ्यांच्या खात्यात 5 हजार रुपयांची अग्रिम मदत जमा झाल्यानंतर बँकांनी..... प्रशासनाकडून महत्वाचे आवाहन",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-28T15:28:26",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/sugarcane-crushing-rush-is-hurting-farmers-sugar-extraction-has-decreased-this-year-how-much-will-the-factories-pay-a-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sakahar-utara_2026101810719.jpeg",
+            "published": "2026-10-28T20:35:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/dushkali-madat-advance-aid-of-rs-5-thousand-each-sanctioned-for-affected-farmers-important-appeal-made-to-banks-a-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dushkali-madt-3_2026101811061.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "e4ea4f9947d4",
+            "id": "c90a27adf143",
             "feed": "lokmat",
-            "title": "Sale 2026: लॅपटॉप, स्मार्ट टीव्ही, फ्रीज आणि बरंच काही... इलेक्ट्रॉनिक्स वस्तूंवर मोठी सूट, रात्री १२ वाजल्यापासून बंपर सेल",
+            "title": "दिवाळीची तगडी ऑफर! सॅमसंग गॅलेक्सी एस२५ एफई 5G च्या खरेदीवर ५० टक्के डिस्काउंट, थेट ४५ हजार वाचणार!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-10-28T15:12:04",
-            "url": "https://www.lokmat.com/tech/flipkart-big-bang-diwali-sale-2026-begins-huge-discounts-on-smartphones-tvs-laptops-and-electronics-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/flipkart-big-bang-diwali-sale-1_2026101810739.jpg",
+            "published": "2026-10-28T20:17:25",
+            "url": "https://www.lokmat.com/tech/flipkart-big-bang-diwali-sale-2026-50-percent-discount-on-purchase-of-samsung-galaxy-s25-fe-5g-save-rs-45000-directly-a-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/samsung-galaxy-s25-fe-5g_2026101811080.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "436502724bfc",
+            "id": "89e8ae6a91fa",
             "feed": "maharashtratimes",
-            "title": "Top 5 IPO Debuts : जिओचा 23% टक्के परतावा काहीच वाटणार नाही, 270% पर्यंत रिटर्न्स देणारे 5 आयपीओ डेब्यू",
+            "title": "फुल पगारी, निवांत अधिकारी! काम राहिलं बाजूला, ऑफिसात नुसती मजा; मायक्रोसॉफ्टच्या दणक्यानंतर कर्मचाऱ्यांची चर्चा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-10-28T15:07:34",
-            "url": "https://maharashtratimes.com/business/business-news/top-5-highest-listing-gains-shares-in-stock-market-jio-returns-21-percent/articleshow/135259550.cms",
+            "published": "2026-10-28T19:38:14",
+            "url": "https://maharashtratimes.com/business/business-news/microsoft-layoffs-netizens-criticizing-office-culture-and-their-lazy-employees/articleshow/135266913.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
