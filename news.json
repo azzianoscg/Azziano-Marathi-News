@@ -1,170 +1,202 @@
 {
-    "lastUpdated": "29-10-2026 | 06:53 AM IST",
+    "lastUpdated": "29-10-2026 | 01:17 PM IST",
     "maharashtra": [
         {
-            "id": "154bfcbb8e70",
-            "feed": "lokmat",
-            "title": "‘अर्णब’चा तडाखा; तिघांचा मृत्यू, झाड, विजेचे खांब उन्मळले; पुराचा इशारा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-29T06:40:59",
-            "url": "https://www.lokmat.com/amravati/arnab-hits-three-dead-trees-electric-poles-uprooted-flood-warning-issued-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arnab-storm_2026101811174.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "66318c4170d5",
-            "feed": "lokmat",
-            "title": "आयकर निरीक्षकाला १५ लाखांची लाच घेताना सीबीआयकडून अटक; ११ लाखांची रोकड जप्त",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-29T06:28:28",
-            "url": "https://www.lokmat.com/mumbai/income-tax-inspector-arrested-by-cbi-while-taking-bribe-of-rs-15-lakh-cash-of-rs-11-lakh-seized-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bribe-45_2026101811172.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a360c0592778",
-            "feed": "lokmat",
-            "title": "जळगावचे निवृत्त वेतन अधीक्षक राजमोहन शर्मा यांना बेड्या; बनावट शालार्थ आयडी घोटाळाप्रकरणी कारवाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-29T06:26:01",
-            "url": "https://www.lokmat.com/nashik/jalgaons-retired-salary-superintendent-rajmohan-sharma-in-handcuffs-action-taken-in-fake-shalarth-id-scam-case-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shalarth-id-scam-2_2026101811171.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7e337aeff485",
-            "feed": "lokmat",
-            "title": "मोठा बदल...! लोकप्रतिनिधी, सरकारी कर्मचारीही मदतीस पात्र; दुष्काळग्रस्तांना विनाअट ५ हजार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-29T06:19:52",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-drought-relief-public-representatives-government-employees-also-eligible-for-assistance-rs-5000-unconditionally-for-drought-victims-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-drought-relief-1_2026101811169.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "59f47263f1a4",
-            "feed": "lokmat",
-            "title": "पदवीधरच्या तिन्ही जागांवर मविआचा झेंडा, दोन शिक्षक मतदारसंघांत महायुतीचा डंका",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-10-29T06:10:04",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-mlc-election-results-mavias-flag-in-all-three-graduate-seats-mahayutis-sting-in-two-teachers-constituencies-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vidhan-parishad-election-2026-3_2026101811166.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "india": [
-        {
-            "id": "863cfab1a0fd",
-            "feed": "lokmat",
-            "title": "विदेशातील भारतीयांसाठी पासपोर्ट शुल्कवाढ योग्यच",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-29T06:47:46",
-            "url": "https://www.lokmat.com/national/passport-fee-hike-for-indians-abroad-is-justified-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-passport-3_2026101811176.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "49b9951c95bb",
-            "feed": "lokmat",
-            "title": "मतदारयादीत आधीच नाव असलेल्या व्यक्तीस फॉर्म ६ भरायला का सांगता? सर्वोच्च न्यायालयाने निवडणूक आयोगाला खडसावले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-29T06:45:48",
-            "url": "https://www.lokmat.com/national/why-are-you-asking-a-person-whose-name-is-already-in-the-voter-list-to-fill-out-form-6-supreme-court-on-sir-election-commission-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/election-commission-supreme-court-3_2026101811175.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "547816c0fb55",
-            "feed": "lokmat",
-            "title": "रेल्वेत रात्री ११ ते पहाटे ५ पर्यंत चार्जिंग बंद! प्रवाशांच्या सुरक्षेसाठी रेल्वे बोर्डाचे पुन्हा कठोर निर्देश",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-10-29T06:30:42",
-            "url": "https://www.lokmat.com/national/charging-banned-in-trains-from-11-pm-to-5-am-railway-board-again-issues-strict-instructions-for-the-safety-of-passengers-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/train-charnging_2026101811173.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7b06ec06be5f",
+            "id": "78b897a44f53",
             "feed": "esakal",
-            "title": "आजचे पंचांग आणि दिनविशेष - 29 ऑक्टोबर 2026",
+            "title": "कळंबोलीत भीषण अपघात:   खासगी बसमधून उतरणाऱया दांपत्यासह क्लिनरला कोंबडीच्या टेम्पोने उडवले;   महिलेसह क्लिनरचा जागीच मृत्यू, पती गंभीर जखमी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-29T17:40:58",
+            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-nmb26b05130-txt-thane-20261028064058",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-28/7cd5yj3e/mumbai_fallback_image.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "65c98238ff24",
+            "feed": "esakal",
+            "title": "Solapur News: ‘केडर’शी दुरावा; भारतीय जनता पक्षाचा पुन्हा पराभव! नाराज कार्यकर्त्यांची उदासीनता, नोंदणीतच पिछाडी; उमेदवारीच्या निर्णयाचा फटका",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-10-29T06:30:00",
-            "url": "https://www.esakal.com/culture-and-religion/on-this-day-happened-today-panchang-history-in-marathi-29th-october-2026-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2022-07/a3cadbdb-a0f1-4848-a030-ab6148a2ddfd/Aaj_cha_panchang.jpg",
+            "published": "2026-10-29T13:16:29",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/bjp-faces-another-defeat-as-cadre-discontent-and-low-voter-registration-raise-questions-over-candidate-selection-strategy-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-29/9o1ft9nv/sudhir-jadhav-satara-20.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "2f7057693903",
+            "id": "b3dbc0e92206",
+            "feed": "esakal",
+            "title": "Koyna Bird Deaths : कराडमध्ये निसर्गाचा गूढ प्रकोप! मृत कासवाजवळ जमले अन् 35 पक्षी काही मिनिटांतच कोसळले; कोयना नदीपात्राजवळ काय घडलं? विषबाधा की आणखी काही?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-29T13:13:47",
+            "url": "https://www.esakal.com/satara/karad-koyna-river-35-yellow-wagtail-birds-death-investigation-maharashtra-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-29/a5g3s1zr/Yellow-Wagtail-bird-deaths-in-Maharashtra",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "53761a3d5a77",
+            "feed": "maharashtratimes",
+            "title": "First Bullet Train: मुंबई-अहमदाबाद बुलेट ट्रेनचं काम सुस्साट; जमिनीच्या 100 फूट खाली बनतंय शानदार स्टेशन, आतापर्यंत किती कामे पूर्ण?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-10-29T13:11:01",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-ahmedabad-bullet-train-project-targeted-for-completion-by-last-quarter-of-2027/articleshow/135292451.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bc6043cd45b4",
             "feed": "lokmat",
-            "title": "हरदीप सिंह पुरी यांना राज्यसभेची उमेदवारी; मंत्रिमंडळात फेरबदलाची घाई नसल्याचे संकेत",
+            "title": "\"भाजपने शिवसेनेवर खापर फोडणे चुकीचे,\"; जनतेचा कौल मान्य करावा लागतो; रवींद्र धंगेकरांचे प्रत्युत्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
+                "category": "maharashtra"
             },
-            "published": "2026-10-29T06:23:00",
-            "url": "https://www.lokmat.com/national/hardeep-singh-puri-nominated-for-rajya-sabha-indications-that-there-is-no-rush-for-cabinet-reshuffle-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hardeep-puri-45_2026101811170.jpg",
+            "published": "2026-10-29T13:07:00",
+            "url": "https://www.lokmat.com/pune/bjps-attack-on-shiv-sena-is-wrong-peoples-vote-has-to-be-accepted-ravindra-dhangekars-response-to-the-mahayuti-controversy-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shiv-sena-ravindra-dhangekar_2026101811411.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
+    "india": [
+        {
+            "id": "ebdf6f4adbe3",
+            "feed": "lokmat",
+            "title": "१५० कोटींचा मालक पण गावी जाताच साधेपणा!! लुंगी अन् टीशर्ट घालून वावरला 'हा' बॉलिवूड अभिनेता, ओळखता येणंही कठीण",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-29T13:09:23",
+            "url": "https://www.lokmat.com/filmy/bollywood/bollywood-actor-sanjay-mishra-walks-around-wearing-a-lungi-and-a-t-shirt-it-is-difficult-to-recognize-him-a998/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bollywood-actor-sanjay-mishra-walks-around-wearing-a-lungi-and-a-t-shirt-it-is-difficult-to-recognize-him_2026101811416.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "9e324ae32675",
+            "feed": "lokmat",
+            "title": "Video: लग्नानंतर देवदर्शनाला गेली मराठी अभिनेत्री, नवऱ्याने उचलून घेत चढला जेजुरीचा गड; जोडीने घेतलं खंडेरायाचं दर्शन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-29T13:08:11",
+            "url": "https://www.lokmat.com/filmy/television/marathi-actress-ashwini-mahangade-jejuri-khandoba-blessing-after-married-with-bhushan-shivtare-a971/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ashvini-mahangade-jejuri_2026101811419.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "37e53c0a5ce7",
+            "feed": "esakal",
+            "title": "Innodata Layoff News: लंच ब्रेकनंतर परतले अन् नोकरीच गेली! 550 भारतीय कर्मचाऱ्यांची कंपनीतून कपात? नेमकं काय झालं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-29T13:08:00",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/viral-innodata-layoff-news-550-indian-employees-fired-after-lunch-break-october-26-2026-termination-email-trending-news-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-29/8qzhkfr7/Copy-of-Copy-of-banner-2026-10-29T125111.037.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "4752ce039e01",
+            "feed": "maharashtratimes",
+            "title": "Sankarshan Karhade Grandfather : आजोबा बेडवरुन पडले तेव्हा त्यांनी आईला हातही लावू दिला नाही, संकर्षण कऱ्हाडेने सांगितला भावुक किस्सा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-29T13:00:45",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sankarshan-karhade-grandfather-did-not-allow-daughter-in-law-to-touch-after-falling-from-bed/articleshow/135294678.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "841974f901af",
+            "feed": "lokmat",
+            "title": "\"आई, मी जिवंत आहे\", मृत समजून जिच्यावर केले अंत्यसंस्कार; ३ वर्षांनी मुलीचा आला Video कॉल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-29T12:56:16",
+            "url": "https://www.lokmat.com/crime/prayagraj-daughters-last-rites-had-been-performed-now-she-has-been-found-alive-a/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/priti-kamala-devi_2026101811409.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        }
+    ],
     "world": [
+        {
+            "id": "500706b1624a",
+            "feed": "esakal",
+            "title": "Amazon Layoffs: सकाळी मेसेज वाचला अन् पायाखालची जमीन सरकली! ॲमेझॉनच्या २५० कर्मचाऱ्यांवर बेरोजगारीची कुऱ्हाड",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-29T12:40:56",
+            "url": "https://www.esakal.com/global/amazon-layoffs-2026-250-jobs-cut-devices-services-division-early-morning-email-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-29/s8ybdr5r/AI-Image-8.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "d7551dc66149",
+            "feed": "esakal",
+            "title": "Nuclear Lab Fire: अमेरिकेतील अण्विक प्रयोगशाळेत आग लागल्याने आणीबाणी जाहीर! काय आहे धोका?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-10-29T11:39:54",
+            "url": "https://www.esakal.com/global/us-nuclear-lab-fire-savannah-river-national-laboratory-south-carolina-emergency-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-29/b2n9iwbv/AI-Image-6.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "d544d58528ac",
             "feed": "esakal",
@@ -212,138 +244,106 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "841e19c1325e",
-            "feed": "esakal",
-            "title": "Israel Election: इस्रायलच्या निवडणूक निकालात मोठा ट्विस्ट; 'बीबी' येणार की जाणार?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-28T17:47:15",
-            "url": "https://www.esakal.com/global/israel-election-2026-netanyahu-likud-party-regains-lead-hung-parliament-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/l427l61s/Netanyahu-येणार-की-जाणार.png",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0b2f4528c9df",
-            "feed": "esakal",
-            "title": "Smile Day: एका स्मितहास्यामुळे बदलू शकते का संपूर्ण नाते? जाणून घ्या मानवी जीवनातील 'स्मितहास्याची' जादू!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-28T17:34:51",
-            "url": "https://www.esakal.com/lifestyle/world-smile-day-power-of-smile-health-benefits-marathi-news-relationship-smile-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-28/ouk9e7uj/World-Smile-Day-The-Power-of-a-Smile-Health-Benefits-Explained.png",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "1802af56b929",
-            "feed": "lokmat",
-            "title": "निलंबित पॅरा ॲथलीट नीरज यादवची आत्महत्या",
+            "id": "1adec7caca6a",
+            "feed": "esakal",
+            "title": "IND vs NZ, 4th T20I: ईशान किशन फिट झाला, तर Playing XI मधून बाहेर कोण जाणार? सॅमसन-सूर्यवंशीबाबत काय निर्णय घेतला जाणार?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-29T05:58:09",
-            "url": "https://www.lokmat.com/other-sports/suspended-para-athlete-neeraj-yadav-commits-suicide-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/para-athelite-34_2026101811163.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "d4ddfd066fce",
-            "feed": "lokmat",
-            "title": "दमदार खेळाच्या जोरावर भारताचे निर्विवाद वर्चस्व; एकदिवसीय क्रिकेट : झिम्बाब्वेला दिला ३-० असा क्लीन स्वीप",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-10-29T05:56:09",
-            "url": "https://www.lokmat.com/cricket/news/indias-undisputed-dominance-on-the-strength-of-strong-play-odi-cricket-give-zimbabwe-a-3-0-clean-sweep-a-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cricket-45_2026101811162.jpg",
+            "published": "2026-10-29T12:20:56",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-nz-4th-t20i-predicted-playing-11-if-ishan-kishan-fit-who-dropped-sanju-samson-vaibhav-suryavanshi-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-29/7ip62o4x/Vaibhav-Sooryavanshi-Sanju-Samson-India-vs-New-Zealand-T20I.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "999f9b68b820",
+            "id": "8f8caec2eaad",
             "feed": "lokmat",
-            "title": "Most Expensive Players In WPL History : स्मृतीला तोड नाही! WPL मधील ५ महागड्या खेळाडूंच्या यादीत ती आजही टॉपला",
+            "title": "T20I Most Sixes Record : 'वंडर बॉय' वैभव सूर्यवंशीनं मोडला KL राहुलचा विक्रम; युवराज सिंग अजूनही अव्वल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-10-29T00:08:33",
-            "url": "https://www.lokmat.com/cricket/photos/most-expensive-players-in-wpl-auction-history-smriti-mandhana-to-deepti-sharma-top-5-highest-paid-cricketers-list-a-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/most-expensive-players-in-wpl-history-m-11_2026101811151.jpg",
+            "published": "2026-10-29T12:18:09",
+            "url": "https://www.lokmat.com/cricket/photos/vaibhav-suryavanshi-surpass-kl-rahul-yuvraj-singh-number-1-most-sixes-for-india-after-first-10-t20i-innings-ind-vs-nz-a-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/most-sixes-for-india-after-first-10-t20i-innings-record-m-9_2026101811336.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6a5e206bc657",
+            "feed": "esakal",
+            "title": "स्मृती मानधना- हरमनप्रीत यांच्यात वाद? INDW vs ZIMW तिसऱ्या सामन्यानंतरचा Video Viral",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-10-29T11:14:14",
+            "url": "https://www.esakal.com/krida/cricket/harmanpreet-kaur-and-smriti-mandhana-missed-handshake-video-raises-rift-questions-after-india-victory-over-zimbabwe-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-29/olizs0xe/Harmanpreet-Kaur-Smriti-Mandhana-Viral-Video.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "a7dbca2b8a9f",
+            "id": "b3b4c0f8eacd",
             "feed": "lokmat",
-            "title": "शेतकऱ्यांच्या खात्यात 5 हजार रुपयांची अग्रिम मदत जमा झाल्यानंतर बँकांनी..... प्रशासनाकडून महत्वाचे आवाहन",
+            "title": "Zero रिस्कसोबतच 'या' योजनेत दरमहा ₹२,५०० जमा केल्यावर किती फंड बनेल? पाहा १५ वर्षांची गुंतवणूक आणि व्याजाचं गणित",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "business"
             },
-            "published": "2026-10-28T20:35:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/dushkali-madat-advance-aid-of-rs-5-thousand-each-sanctioned-for-affected-farmers-important-appeal-made-to-banks-a-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dushkali-madt-3_2026101811061.jpeg",
+            "published": "2026-10-29T13:09:08",
+            "url": "https://www.lokmat.com/business/savings-investments/how-much-fund-will-be-created-by-depositing-rs-2500-per-month-in-ppf-government-scheme-with-zero-risk-see-the-calculation-of-15-years-of-investment-and-interest-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/investment-scheme-kvp-ppf_2026091778185.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "c90a27adf143",
-            "feed": "lokmat",
-            "title": "दिवाळीची तगडी ऑफर! सॅमसंग गॅलेक्सी एस२५ एफई 5G च्या खरेदीवर ५० टक्के डिस्काउंट, थेट ४५ हजार वाचणार!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-10-28T20:17:25",
-            "url": "https://www.lokmat.com/tech/flipkart-big-bang-diwali-sale-2026-50-percent-discount-on-purchase-of-samsung-galaxy-s25-fe-5g-save-rs-45000-directly-a-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/samsung-galaxy-s25-fe-5g_2026101811080.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "89e8ae6a91fa",
+            "id": "06d91279f6c4",
             "feed": "maharashtratimes",
-            "title": "फुल पगारी, निवांत अधिकारी! काम राहिलं बाजूला, ऑफिसात नुसती मजा; मायक्रोसॉफ्टच्या दणक्यानंतर कर्मचाऱ्यांची चर्चा",
+            "title": "Pension Rule : कर्मचाऱ्याच्या मृत्यूनंतर कुटुंबाला पेन्शनचा आधार, पत्नीला आणि मुलांना किती मिळतो लाभ? जाणून घ्या कायदेशीर नियम अन् हक्क",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-10-28T19:38:14",
-            "url": "https://maharashtratimes.com/business/business-news/microsoft-layoffs-netizens-criticizing-office-culture-and-their-lazy-employees/articleshow/135266913.cms",
+            "published": "2026-10-29T13:02:49",
+            "url": "https://maharashtratimes.com/business/business-news/pension-eligibility-who-is-entitled-to-family-pension-retirement-benefits-after-employee-death/articleshow/135293831.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "c0f0f0cee694",
+            "feed": "lokmat",
+            "title": "एलनिनो आणि दुष्काळाचे संकट; पशुधन वाचवण्यासाठी पशुपालकांनी आतापासूनच करा 'हे' नियोजन",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-10-29T12:56:22",
+            "url": "https://www.lokmat.com/agriculture/agri-business/dairy/el-nino-and-drought-crisis-livestock-farmers-should-plan-this-now-to-save-livestock-a/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pashudhan-dushkal-vyvsthapan_2026101811203.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
