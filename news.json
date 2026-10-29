@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "30-10-2026 | 01:27 AM IST",
+    "lastUpdated": "30-10-2026 | 05:15 AM IST",
     "maharashtra": [
         {
             "id": "377d95e8751d",
@@ -84,6 +84,22 @@
     ],
     "india": [
         {
+            "id": "d851890ebf76",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 30 October 2026: मूलांक 2 बोलण्यावर नियंत्रण हवे! मूलांक 7 अहंकार घातक! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-30T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-30-october-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135331262.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "51825f123a7c",
             "feed": "maharashtratimes",
             "title": "आजचे राशिभविष्य 30 ऑक्टोबर 2026: मिथुनला कामात यश! वृश्चिकचा आत्मविश्वास वाढेल! जाणून घ्या, तुमचे राशिभविष्य",
@@ -146,25 +162,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kiren-rijiju-attacks-naseeruddin-shah_2026101811821.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "6f46e06e6aea",
-            "feed": "esakal",
-            "title": "Supreme court on firecracker ban : \"विराट कोहलीची मदत घ्या!\"; फटाक्यांवर पूर्ण बंदी घालण्यास सर्वोच्च न्यायालयाचा नकार, पण सरकारला झापलं!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-29T22:00:13",
-            "url": "https://www.esakal.com/desh/supreme-court-firecracker-ban-pollution-virat-kohli-national-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-29/wty0psl2/Esakal-10.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "daf1d49d10cd",
+            "feed": "maharashtratimes",
+            "title": "अरे तू तर हुशार मुलगा होतास ना? महिला न्यायाधीशाचा मित्र बनला अट्टल गुन्हेगार, आरोपीच्या पिंजऱ्यात पाहून डोळ्यांत आलं पाणी, व्हिडीओ व्हायरल",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-10-30T01:50:01",
+            "url": "https://maharashtratimes.com/viral/viral-news/she-became-a-judge-he-became-an-accused-school-friends-reunite-in-usa-court-emotional-video-viral/articleshow/135331373.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "eff4cdb7360e",
             "feed": "maharashtratimes",
@@ -228,22 +244,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-10-29-at-6.46.18-pm_2026101811781.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "e0f91ff2dd3b",
-            "feed": "esakal",
-            "title": "Elon Musk Prediction: भविष्यात नोकरी करण्याची गरज उरणार नाही! एलॉन मस्क यांचा मोठा धमाका",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-10-29T18:07:17",
-            "url": "https://www.esakal.com/global/elon-musk-ai-robots-optional-work-universal-high-income-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-29/1pst2rvb/musk-1.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
