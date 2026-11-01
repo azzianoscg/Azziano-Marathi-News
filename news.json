@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "02-11-2026 | 01:28 AM IST",
+    "lastUpdated": "02-11-2026 | 04:52 AM IST",
     "maharashtra": [
         {
             "id": "6768f0d0744b",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "6243a044ad9d",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 2 नोव्हेंबर 2026: मूलांक 6 नातेसंबंध जपा! मूलांक 7 लाभाची संधी! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-02T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-2-november-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135435533.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "2a0c868c4105",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 2 नोव्हेंबर 2026 : ग्रहांची साथ आणि दुर्लभ लाभ मिळणार या राशीच्या लोकांना ! पहा तुमचे राशिभविष्य काय सांगते ?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-02T03:58:35",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-2-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135428744.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "188987a6dc8d",
             "feed": "maharashtratimes",
             "title": "इंग्रज पडले भारतीय रिक्षाच्या प्रेमात! भारत फिरायला आले अन् सोबत रिक्षा घेऊन गेले, ब्रिटीश कपलचा व्हिडीओ व्हायरल",
@@ -130,38 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-11-01/i5smn2oc/Ramlila-Maidan-1.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "2e31bfc9bf4f",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 2 November 2026: आश्लेषा नक्षत्र, शुभ योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-01T22:56:31",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-2-november-2026-in-marathi-ashlesha-nakshtra-shubha-yog-and-shubha-muhurta/articleshow/135432083.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8f0642a83db1",
-            "feed": "maharashtratimes",
-            "title": "Bulet Train: भारताच्या पहिल्या बुलेट ट्रेनची झलक समोर,  रेल्वेमंत्र्यांनी केली पाहणी, काय आहे खास?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-01T22:54:48",
-            "url": "https://maharashtratimes.com/india-news/indias-first-bulet-train-b28-rail-minister-inspects/articleshow/135433245.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
