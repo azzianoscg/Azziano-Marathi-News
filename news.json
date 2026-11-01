@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "01-11-2026 | 01:54 PM IST",
+    "lastUpdated": "01-11-2026 | 09:05 PM IST",
     "maharashtra": [
         {
-            "id": "f8b0189204dd",
+            "id": "bf019c05413c",
+            "feed": "esakal",
+            "title": "Loan Recovery Dispute: फायनान्स कंपन्यांच्या मनमानीवर कडूंचा हातोडा!  कर्जवसुलीसाठी घराला लावलेले कुलूप तोडले; वसुलीदारांना गावबंदी करण्याचे आवाहन",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-01T21:02:58",
+            "url": "https://www.esakal.com/vidarbha/bachchu-kadu-finance-company-forced-loan-recovery-dispute-arni-yavatmal-vss0",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-01/0ewnem6n/jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "cbfe020a6072",
+            "feed": "esakal",
+            "title": "Silk farming skill training center : शेतकरी अन् सुशिक्षित तरुणांसाठी मोठी बातमी! रेशीम उद्योगाला गती देण्यासाठी 'या' जिल्ह्यात सुरू होणार विशेष प्रशिक्षण केंद्रे; रोजगाराची सुवर्णसंधी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-01T20:51:44",
+            "url": "https://www.esakal.com/marathwada/jalna-district-silk-industry-skill-development-program-7-technical-courses-employment-opportunities-marathwada-news-today-marathi-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-01/dyk8nleb/Esakal.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "2e73bcac6a5f",
             "feed": "maharashtratimes",
-            "title": "Eknath Shinde : 'लोकशाही बचाव’चा ढोंगी नॅरेटिव्ह उघडा पाडा! राहुल गांधी आणि काँग्रेसवर उपमुख्यमंत्री एकनाथ शिंदेंचा घणाघात",
+            "title": "Maharashtra Rain : पुणे, अहिल्यानगर, साताऱ्यात धुवांधार; तुमच्या जिल्ह्यात पाऊस पडणार का?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-01T13:38:16",
-            "url": "https://maharashtratimes.com/maharashtra/thane/thane-bjp-loktantra-bachao-yatra-deputy-chief-minister-eknath-shinde-criticizes-rahul-gandhi-and-congrees/articleshow/135421440.cms",
+            "published": "2026-11-01T20:39:38",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/maharashtra-rain-update-imd-issues-yellow-alert-to-many-districts-for-november-2-and-3/articleshow/135430337.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b54e475d927d",
+            "id": "7a73dc028eec",
             "feed": "esakal",
-            "title": "विद्या प्रतिष्ठानमध्ये नांदी संमेलन",
+            "title": "Mangalwedha Accident: कंटेनरच्या समोरासमोर धडकेत दोन्ही चालकाचा जागीच मृत्यू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-01T20:34:29",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/mangalwedha-container-accident-two-drivers-die-huljanti-road-solapur-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-01/va0i9tvn/pg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "053cac8896e6",
+            "feed": "esakal",
+            "title": "यंदा मुलांना चॉकलेट फटाक्यांचे आकर्षण!\nहुबेहूब फटाक्यांचा आकार; खाण्यासाठी योग्य चॉकलेट्सना पसंती",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-01T13:31:53",
-            "url": "https://www.esakal.com/pune/baramati-literary-conference-2023",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/mildclgb/Banner1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "090ba9c73010",
-            "feed": "maharashtratimes",
-            "title": "Devendra Fadnavis: चीनच्या पैशावर भारतात अराजकता निर्माण करण्याचा प्रयत्न; देवेंद्र फडणवीसांचा राहुल गांधींवर गंभीर आरोप, लाल पुस्तकाबाबत कोणता दावा?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-01T13:29:12",
-            "url": "https://maharashtratimes.com/maharashtra/thane/devendra-fadnavis-makes-serious-allegations-against-rahul-gandhi-says-conspiracy-to-create-chaos-in-india-with-chinese-money/articleshow/135421243.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6d61e6961c88",
-            "feed": "esakal",
-            "title": "Irrigation Department Engineer : स्वेच्छेने पैसे दिले तर स्वीकारतो!; जलसंपदा विभागाच्या इंजिनियरच अजब वक्तव्य, सरकारकडून तातडीने केली कारवाई",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-01T13:22:06",
-            "url": "https://www.esakal.com/maharashtra/water-resources-department-engineer-voluntary-money-statement-government-action-srs92",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/21o7j8zw/sandeep-shirguppe-2026-11-01T132128.347.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8bd30b062492",
-            "feed": "esakal",
-            "title": "'पनवेल-कर्जत'साठी वनजमीन वर्ग, रेल्वे कॉरिडॉर प्रकल्पाचे काम ९९ टक्के पूर्ण; राज्य सरकारचे आदेश जारी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-01T13:10:18",
-            "url": "https://www.esakal.com/mumbai/state-government-issues-orders-of-forest-land-transferred-for-panvel-karjat-railway-corridor-project-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/4rblmjwm/Panvel-Karjat-rail-corridor.jpg",
+            "published": "2026-11-01T20:32:20",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/chocolate-firecrackers-diwali",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-01/kulviugy/Sakal20Wesite20Banner20_20Nashik.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "914c60c6757b",
-            "feed": "esakal",
-            "title": "कोण आहेत वृंदावनातील Gen Z बाबा? १९व्या वर्षी बनले भागवत कथावाचक, सोशल मीडियावर होतेय चर्चा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-01T13:53:08",
-            "url": "https://www.esakal.com/desh/vrindavan-s-19-year-old-gen-z-baba-shashwat-acharya-trends-on-social-media-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/np5e6bgm/shashwat-maharaj.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "10244f81af3e",
+            "id": "ce0fa00735a7",
             "feed": "lokmat",
-            "title": "कपडे धुण्याच्या टबवरील हट्टी डाग होतात चुटकीसरशी गायब! ३ होममेड लिक्विड फॉर्म्यूला, टब चमकेल लख्ख",
+            "title": "Amitabh Bachchan: बॉम्बच्या धमकीनंतर अमिताभ बच्चन यांच्या सुरक्षेत वाढ; बुलेटप्रूफ काचेतून चाहत्यांची घेतली भेट",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-01T13:50:22",
-            "url": "https://www.lokmat.com/sakhi/social-viral/how-to-remove-stubborn-stains-from-a-clothes-tub-homemade-cleaner-for-washing-clothes-tub-how-to-clean-a-stained-plastic-washing-tub-a1011/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/1.-simple-ways-to-keep-your-laundry-tub-clean_2026111813187.jpeg",
+            "published": "2026-11-01T20:51:00",
+            "url": "https://www.lokmat.com/filmy/amitabh-bachchan-meets-fans-inside-bulletproof-glass-cabin-amid-bomb-threat-to-jalsa-residence-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/amitabh-bachchan-meets-fans-in-bulletproof-glass-cabin-3_2026111813437.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
             "id": "b1e85a30910b",
             "feed": "esakal",
-            "title": "Latest Marathi News Update : आटपाडी येथील गळवेवाडीत पूर्ववैमनस्यातून पिता-पुत्रावर जीवघेणा हल्ला",
+            "title": "Latest Marathi News Update : \"लग्न होत नाही\" म्हणून तरुण चढला थेट मोबाईल टॉवरवर; पिंपरी-चिंचवडमधील घटना",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-01T13:47:21",
+            "published": "2026-11-01T20:39:05",
             "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-1-nov-2026-sir-india-bloc-rally-delhi-india-weather-update-maharashtra-rain-drought-diwali-fda-tukaram-mundhe-fda-amit-shah-cm-mpsc-exam-gold-rate-mumbai-pune-traffic-update",
             "image": "https://cf-images.assettype.com/esakal/2026-03-24/ji64ufko/sandeep-shirguppe-2026-03-24T081623.181.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "fac6a63bc3d5",
+            "id": "d73a464036de",
             "feed": "esakal",
-            "title": "हत्तीला राग कधी येतो? जाणून घ्या महत्त्वाची लक्षणे",
+            "title": "दिवाळीच्या खरेदीसाठी D-Mart मध्ये भन्नाट ऑफर्स; फक्त ₹49 पासून मिळतायत वस्तू",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-01T13:46:41",
-            "url": "https://www.esakal.com/ampstories/web-story/elephant-musth-aggressive-behavior-human-elephant-conflict-safety-tips-wild-bull-elephant-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/shnl4x7g/1.jpg",
+            "published": "2026-11-01T20:33:25",
+            "url": "https://www.esakal.com/ampstories/web-story/d-mart-diwali-sale-offers-2026-household-kitchen-items-clothes-diyas-sweets-gifts-starting-price-49-rupees-starting-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-01/m10pcauz/DMART-DIWALI-OFFERS",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "fc5dfc3e0ebd",
-            "feed": "maharashtratimes",
-            "title": "Honey Singh Sad News : 'हे दशकच बेकार, देवा थोडी तरी दया दाखव!’ रॅपर यो यो हनी सिंहची भावुक पोस्ट, कुटुंबातल्या व्यक्तीच्या अपघाती निधनामुळे दु:खाचा डोंगर",
+            "id": "bc1944d443c7",
+            "feed": "lokmat",
+            "title": "नळ बंद केला तरी पाणी गळत राहतं? ३ ट्रिक्स-प्लंबरला न बोलावता नळ चटकन होईल रिपेअर",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-01T13:41:45",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/rapper-honey-singh-shared-sad-news-from-family-nephew-died-in-road-accident/articleshow/135421086.cms",
-            "image": "",
+            "published": "2026-11-01T20:32:14",
+            "url": "https://www.lokmat.com/sakhi/social-viral/how-to-fix-dripping-tap-leaking-faucet-repair-tips-at-home-without-plumber-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-11-01-at-4.18.00-pm_2026111813434.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "0c471f4c6db3",
+            "feed": "esakal",
+            "title": "खनिज संपत्तीचा अथांग खजिना अन् 'धान्याची वाटी'! १ नोव्हेंबरला वाढदिवस असणारे हे राज्य कोणतं ओळखा पाहू?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-01T20:30:01",
+            "url": "https://www.esakal.com/ampstories/web-story/chhattisgarh-formation-day-minerals-dhokra-art-history-news-today-marathi-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-01/68udulyv/1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "world": [
         {
-            "id": "92d306b58ae1",
-            "feed": "esakal",
-            "title": "Smile Day: सहजच सगळे हसत जगुया चला… हास्यदिनाच्या निमित्ताने..",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-01T13:49:56",
-            "url": "https://www.esakal.com/blog/international-laughter-day-2026-why-laughing-every-day-matters-for-better-health-happiness-and-a-stress-free-lifestyle-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/6q30xyf5/sudhir-jadhav-satara-26.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "1a38dcc573b4",
-            "feed": "esakal",
-            "title": "Cynthia Farrar: ज्यांनी सावित्रीबाईंना शिक्षिका घडवले, त्यांचीच समाधी दुर्लक्षित; १६४ वर्षांनंतर सिंथिया फरार यांना वाहणार आदरांजली",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-01T13:35:21",
-            "url": "https://www.esakal.com/blog/cynthia-farrar-who-inspired-savitribai-phule-to-become-a-teacher-remained-forgotten-for-164-years-her-grave-found-in-ahmednagar-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/8603v3ma/sudhir-jadhav-satara-24.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "e190ddb54092",
+            "id": "0a146e3ef4a5",
             "feed": "lokmat",
-            "title": "“भारतीय कर्मचारी असलेल्या जहाजांवर इराण हल्ले करत आहे”; अमेरिकेने केला मोठा दावा",
+            "title": "फ्रान्सनंतर आता जर्मनीत आंदोलनाला हिंसक वळण; दुकाने लुटली, अनेक पोलीस जखमी, शेकडो आंदोलक ताब्यात",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-11-01T13:28:29",
-            "url": "https://www.lokmat.com/international/iran-is-attacking-ships-with-indian-crew-america-marco-rubio-makes-big-claim-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tankers-hit-in-hormuz_2026071737468.jpeg",
+            "published": "2026-11-01T20:41:54",
+            "url": "https://www.lokmat.com/international/after-france-protests-in-germany-turn-violent-shops-looted-many-police-injured-hundreds-of-protesters-detained-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/germany-protest-genx_2026111813436.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "79921e285251",
-            "feed": "lokmat",
-            "title": "फ्रान्सनंतर आता जर्मनीत Gen-Z चा हाहाकार! रस्त्यावर उतरून दुकाने लुटली, पेट्रोल बॉम्ब फेकले",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-01T12:27:46",
-            "url": "https://www.lokmat.com/international/after-france-now-gen-z-is-in-trouble-in-germany-they-took-to-the-streets-looted-shops-threw-petrol-bombs-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/germany-protest_2026111813144.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4140aece0d76",
+            "id": "53446de4b843",
             "feed": "esakal",
-            "title": "गुलामांचा व्यापार ही चूक! भारतासह ५६ देशांची माफी मागण्यास ब्रिटन तयार; पण नुकसान भरपाईला नकार",
+            "title": "युरोप पेटलं! फ्रान्सनंतर आता जर्मनीतही ‘Gen Z' च्या आंदोलनाला हिंसक वळण; २७ पोलीस कर्मचारी जखमी, नेमकं काय घडतंय?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-01T12:14:44",
-            "url": "https://www.esakal.com/global/britain-ready-to-apologize-for-slave-trade-to-india-and-56-nations-but-rejects-reparations-for-historical-injustices-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/9yzuucd9/britain-pm.jpg",
+            "published": "2026-11-01T20:38:35",
+            "url": "https://www.esakal.com/global/europe-gen-z-protests-france-germany-violence-frankfurt-police-injured-news-latest-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-01/lg9ougdz/Europe-Gen-Z-Protests",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "1bf921760d3b",
+            "feed": "lokmat",
+            "title": "नेतन्याहू यांच्याशी फोनवरून चर्चा; डोनाल्ड ट्रम्प म्हणाले, “१० मिनिटात संपवून टाकू शकतो”",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-01T20:13:04",
+            "url": "https://www.lokmat.com/international/phone-conversation-with-israel-benjamin-netanyahu-america-donald-trump-said-we-can-finish-iran-nuclear-places-in-10-minutes-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/america-iran-israel-war_2026051697356.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "29fcceeb5f2d",
+            "feed": "esakal",
+            "title": "Bangladesh protests : बांगलादेशात पुन्हा असंतोषाचा उद्रेक! वेतनवाढीसाठी हजारो कामगार रस्त्यावर; ढाका-गाझीपूरमध्ये जाळपोळ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-01T19:54:32",
+            "url": "https://www.esakal.com/global/bangladesh-garment-workers-protest-wage-hike-dhaka-gazipur-violence-wage-rise-2026-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-01/cn48bngz/Bangladesh-Workers-Protest",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b1c6e5cb16e5",
+            "feed": "lokmat",
+            "title": "Bangladesh Protest: बांगलादेशात वेतनासाठी गार्मेंट कर्मचाऱ्यांचे जोरदार आंदोलन; रस्ते अडवले, पोलीस चौकी जाळली",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-01T18:49:33",
+            "url": "https://www.lokmat.com/international/bangladesh-garment-workers-protest-minimum-wage-hike-tk-30000-salary-bangladesh-labour-protest-dhaka-news-gazipur-protest-bangladesh-garment-industry-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bangladesh-garment-workers-protest_2026111813421.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "46f2e0bab149",
+            "id": "5fdb03d597c9",
             "feed": "maharashtratimes",
-            "title": "Gautam Gambhir : 'मी इथे कुणाला खूश करायला बसलो नाहीय'; वैभवला पाचव्या सामन्यात संधी न देण्यावरुन गंभीर स्पष्टच बोलला",
+            "title": "Team India : 3 सामने-1 मालिका, श्रेयस अय्यर कॅप्टन, टीम इंडियाची पुढील टी 20I सीरिज केव्हा? पाहा वेळापत्रक",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-01T13:46:44",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-nz-5th-t20-gautam-gambhir-big-statement-on-vaibhav-sooryavanshi-selection-in-playing-11-after-5th-match-toss/articleshow/135421488.cms",
+            "published": "2026-11-01T20:48:15",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-will-play-next-t20i-series-against-sri-lanka-in-december-2026-know-venue-and-matches-dates/articleshow/135430749.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "3d8137774d06",
-            "feed": "lokmat",
-            "title": "IND vs NZ : पॉवर प्लेमध्ये अ‍ॅडम मिल्नेचा भेदक मारा! अभिषेक शर्मासह संजूही स्वस्तात माघारी फिरला",
+            "id": "55a7fa2a77e5",
+            "feed": "esakal",
+            "title": "IND vs NZ, T20I: पहिल्या ३ सामन्यांत लय सापडली, पण शेवटच्या २ मध्ये काय बिनसलं? श्रेयस अय्यर म्हणाला, 'एका गोष्टीत सुधारणा हवी...'",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-11-01T13:33:25",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-5th-t20i-adam-milne-removes-both-indias-openers-abhishek-sharma-and-sanju-samson-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-5th-t20i-adam-milne-removes-both-indias-openers-abhishek-sharma-and-sanju-samson-m-1_2026111813175.jpg",
+            "published": "2026-11-01T20:20:01",
+            "url": "https://www.esakal.com/krida/cricket/shreyas-iyer-reveals-what-went-wrong-for-india-after-5th-t20i-defeat-against-new-zealand-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-01/o7k4t063/Shreyas-Iyer-India-A-vs-New-Zealand-A.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "99b25e6617d6",
+            "id": "2c80345e3121",
             "feed": "lokmat",
-            "title": "Test Ranking WTC Standings : ऑस्ट्रेलियाला दुहेरी धक्का! दक्षिण आफ्रिकेच्या विजयाचा भारताला किती फायदा?",
+            "title": "IND vs NZ: 'मी कोणालाही घाबरत नाही...' भारत- न्यूझीलंड टी-२० मालिकेनंतर गौतम गंभीर असे का म्हणाले?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-01T12:39:23",
-            "url": "https://www.lokmat.com/cricket/news/icc-test-ranking-wtc-standings-australia-loses-the-number-one-spot-south-africa-take-top-position-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/icc-test-ranking-wtc-standings-australia-loses-the-number-one-spot-south-africa-m-_2026111813147.jpg",
+            "published": "2026-11-01T20:17:59",
+            "url": "https://www.lokmat.com/cricket/news/gautam-gambhir-statement-after-india-vs-new-zealand-t20-series-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gautam-gambhir-2_2026111813432.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "aa6161e35b39",
-            "feed": "lokmat",
-            "title": "आधी ब्रेकअप, नंतर लग्न मोडल्याच्या चर्चा! आता 'वेड' फेम अभिनेत्रीने बॉयफ्रेंडसोबत शेअर केले खास फोटो",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-01T13:42:22",
-            "url": "https://www.lokmat.com/filmy/bollywood/jiya-shankar-shares-picture-with-fiance-kaaran-dhanak-follows-him-on-instagram-amid-trouble-rumours-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jiya-shankar-boyfriend-breakup-rumours_2026111813182.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "794375184a20",
-            "feed": "lokmat",
-            "title": "Rain Update : बंगालच्या उपसागरात कमी दाबाचे क्षेत्र, 2 आणि 3 नोव्हेंबर रोजी महाराष्ट्राच्या या भागात पावसाची शक्यता",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-01T13:40:02",
-            "url": "https://www.lokmat.com/agriculture/weather/low-pressure-area-in-bay-of-bengal-possibility-of-rain-in-few-parts-of-maharashtra-on-november-2-and-3-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kami-dbahe_2026111813142.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "a2d31c3c2730",
+            "id": "f0effd106734",
             "feed": "maharashtratimes",
-            "title": "Gold Rate Fall : एका दिवसात जवळपास 3400 रुपयांची घसरण; खरेदीची संधी तात्पुरती की कायम, आता पुढं काय?",
+            "title": "नीता अंबानींची वाढदिवशी खास भेट! १०० एकरांवर उभारणार अनाथ मुलं आणि ज्येष्ठांसाठी 'अनंत आश्रय'",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-11-01T12:54:11",
-            "url": "https://maharashtratimes.com/business/business-news/gold-silver-price-fall-buying-opportunities-reason-behind-crash/articleshow/135419155.cms",
+            "published": "2026-11-01T20:55:14",
+            "url": "https://maharashtratimes.com/business/business-news/anant-ashray-nita-ambanis-sp-new-project-to-support-orphans-senior-citizens-and-persons-with-disabilities/articleshow/135430640.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "eb916fda4f9b",
+            "feed": "maharashtratimes",
+            "title": "Government Scheme : तुमच्या व्यवसायात आता थेट सरकार करणार गुंतवणूक! कोटींच्या रकमेत देणार पैसे",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-01T20:32:59",
+            "url": "https://maharashtratimes.com/government-schemes/central-government-policy/sme-growth-fund-government-scheme-for-msme-details-and-benefits/articleshow/135430307.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "19294704b441",
+            "feed": "lokmat",
+            "title": "राज्यातील जायकवाडी, उजनी, गंगापूर, अलमट्टी, कोयनासह इतर धरणांमध्ये किती पाणीसाठा, वाचा सविस्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-01T20:30:03",
+            "url": "https://www.lokmat.com/agriculture/weather/jayakvadi-dam-how-much-water-is-stored-in-jayakwadi-ujani-gangapur-almatti-koyna-and-other-dams-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dam-storage_2026111813429.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
