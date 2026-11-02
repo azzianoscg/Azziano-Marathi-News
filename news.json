@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "02-11-2026 | 08:54 AM IST",
+    "lastUpdated": "02-11-2026 | 05:19 PM IST",
     "maharashtra": [
         {
-            "id": "7e1ed9248ede",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update : मुसळधार पावसाने बारामतीला झोडपले; एका महिन्याचा पाऊस पडला एका रात्रीत...",
+            "id": "0edcf9b10686",
+            "feed": "lokmat",
+            "title": "Latest Marathi News LIVE: विरोधकांचा एकच नारा, रेजिम चेंज...मुख्यमंत्री देवेंद्र फडणवीसांचा जोरदार घणाघात",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-02T08:50:01",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-02-november-2026-gokul-chairman-election-hearing-kolhapur-circuit-bench-high-court-weather-update-pune-mumbai-congress-against-chief-election-commissioner-gyanesh-kumar-rahul-gandhi-india-bloc-rally-pm-narendra-modi-amit-shah-cm-devendra-fadnavis-tukaram-mundhe-fda-mpsc-exam-gold-rate-traffic-update",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
+            "published": "2026-11-02T17:09:57",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-02-november-2026-vidhan-parishad-election-results-gokul-election-cm-devendra-fadnavis-eknath-shinde-manoj-jarange-patil-audio-clip-karjat-tree-cutting-pm-narendra-modi-rahul-gandhi-drought-updates-zp-elections-a681/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/liveblogfbimage_2026061718973.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ceb76d5668bf",
+            "id": "bc4fe2872ed4",
             "feed": "esakal",
-            "title": "Gokul Chairman Controversy : शशिकांत पाटील-चुयेकर यांची निवड टिकणार का? कोल्हापूर सर्किट बेंचमध्ये आज ऐतिहासिक सुनावणी, महायुतीचे 12 संचालक राहणार उपस्थित",
+            "title": "Lanja Machal ST Bus Service Historic Event : स्वातंत्र्याच्या ७८ वर्षांनंतर कोकणातील ३५०० फूट उंचीवरील दुर्गम 'माचाळ' गावात पहिल्यांदाच धावली लालपरी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-11-02T08:42:30",
-            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/gokul-chairman-election-dispute-high-court-circuit-bench-hearing-november-2-shashikant-patil-chuyekar-12-directors-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/mu6iekbj/Gokul-chairman-election-high-court-hearing",
+            "published": "2026-11-02T17:09:56",
+            "url": "https://www.esakal.com/kokan/lanja-machal-village-first-st-bus-service-history-ratnagiri-konkan-news-today-marathi-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/46zh36z6/Esakal-3.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "c18c93e2c9dd",
-            "feed": "esakal",
-            "title": "Vande Bharat : पहिल्या ‘वंदे भारत’ शयनयानला हिरवा कंदील ; ‘बंगळूर-मुंबई’ सेवा सुरू; हुबळीमार्गेही सेवा सुरू करण्याची रेल्वेमंत्र्यांची घोषणा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-02T08:37:18",
-            "url": "https://www.esakal.com/mumbai/bengaluru-mumbai-vande-bharat-sleeper-train-hubballi-pune-railway-service-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/4pxbw6od/.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4612f10a5d5e",
+            "id": "b119d94dbc54",
             "feed": "maharashtratimes",
-            "title": "Diwali Special Trains: दिवाळीत नागपूर-लातूरसाठी धावणार स्पेशल ट्रेन्स; पुणे रेल्वेचा निर्णय, कुठे असेल थांबा? पाहा वेळापत्रक",
+            "title": "NCP Happenings : माजी मंत्री अनिल पाटील तातडीने विमानाने मुंबईला रवाना, राष्ट्रवादी काँग्रेस पक्षात नेमक्या हालचाली काय?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-02T08:23:02",
-            "url": "https://maharashtratimes.com/maharashtra/pune-news/diwali-2026-pune-railway-division-decided-to-run-2-new-special-trains-for-nagpur-and-latur/articleshow/135442280.cms",
+            "published": "2026-11-02T17:03:33",
+            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/ncp-party-political-happenings-anil-patil-leaves-jalgaon-for-mumbai-by-plane/articleshow/135458391.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "6970e12eea01",
+            "id": "85fb4d0cb282",
+            "feed": "lokmat",
+            "title": "Pune Crime: पुण्यात विवाहितेने उचलले टोकाचे पाऊल; १५ ते २० जणांकडून झांबरे पॅलेसची तोडफोड?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-02T17:02:22",
+            "url": "https://www.lokmat.com/pune/married-woman-takes-extreme-step-in-pune-15-to-20-people-vandalize-zambre-palace-a727/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-mukund-nagar-case_2026111813936.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "53f797c0db2a",
             "feed": "esakal",
-            "title": "Pune Water Supply: सलग तीन दिवस पाणीपुरवठा विस्कळित ; पुणेकरांचे हाल ; वीज पुरवठ्यातील बिघाड",
+            "title": "प्राणी-पक्ष्यांची काळजी घ्या",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-02T08:20:34",
-            "url": "https://www.esakal.com/pune/pune-water-supply-disrupted-technical-faults-khadakwasla-parvati-water-treatment-plant-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/tmd2gj30/.jpg",
+            "published": "2026-11-02T17:01:46",
+            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i94970-txt-raigad-20261102113146",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/lt6qtjcj/mumbai_fallback_image.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "d9302dbfb535",
-            "feed": "lokmat",
-            "title": "कही जो तू मिल जाए! शाहरुख खान-दीपिकाची रोमँटिक केमिस्ट्री; 'किंग'मधलं पहिलं गाणं रिलीज",
+            "id": "add62e0236cf",
+            "feed": "esakal",
+            "title": "मला लहानपणापासूनच लग्न करायचं होतं पण... अजूनही अविवाहित का आहे ३४ वर्षांची वैदेही परशुरामी? म्हणते- मी प्रेमात पडले...",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-02T08:40:56",
-            "url": "https://www.lokmat.com/filmy/bollywood/shahrukh-khan-and-deepika-padukone-starrer-king-movie-first-romantic-song-tu-mil-jaaye-released-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/king-song_2026111813484.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "43e8213b5655",
-            "feed": "lokmat",
-            "title": "महादेव बेटिंग ॲपचा मुख्य सूत्रधार चंद्राकर भारताच्या ताब्यात; ओमानमधून प्रत्यार्पण, सीबीआयची कारवाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-11-02T08:27:32",
-            "url": "https://www.lokmat.com/national/chandrakar-the-mastermind-of-mahadev-betting-app-is-in-indian-custody-extradited-from-oman-cbi-takes-action-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mahadev-betting-case_2026111813480.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "eef635215167",
-            "feed": "lokmat",
-            "title": "कायदा सर्वांना सारखा, मग तो...! सर्वोच्च न्यायालयाने माजी सरन्यायाधीशांच्याच मुलांचे अपिल फेटाळले; प्रकरण काय...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-11-02T08:18:05",
-            "url": "https://www.lokmat.com/national/sc-on-former-cji-sons-the-law-is-the-same-for-everyone-so-what-supreme-court-rejects-appeal-of-former-chief-justices-children-what-is-the-case-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supreme-coutr-4564_2026111813477.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5dd656e73020",
-            "feed": "maharashtratimes",
-            "title": "Tharala Tar Mag : अस्मिताच्या साक्षीने पलटला गेम, पेन ड्राईव्हचा गुंता सुटला; सचिनला फरार करण्यात श्वेताला अपयश; अर्जुनने साधली संधी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-02T08:16:01",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/tharala-tar-mag-serial-2-november-2026-episode-arjun-caught-sachin/articleshow/135441917.cms",
-            "image": "",
+            "published": "2026-11-02T17:18:16",
+            "url": "https://www.esakal.com/premier/vaidehi-parshurami-unmarried-at-age-34-reveals-why-she-has-not-married-despite-dreaming-about-marriage-since-childhood-and-falling-in-love-psn14",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/knwzzq3z/vaidehi-parshurami.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "ca48ff1aeb10",
+            "id": "099ab620ec2b",
+            "feed": "esakal",
+            "title": "UPI Record : ऑक्टोबरमध्ये डिजिटल पेमेंटचा धमाका! यूपीआयची विक्रमी घौडदौड; रोज ८२ कोटींहून अधिक व्यवहार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-02T17:17:15",
+            "url": "https://www.esakal.com/sakal-money/upi-transactions-october-2026-record-daily-volume-822-million-monthly-transactions-2547-billion-digital-payments-india-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/39r7ai5m/upi-1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "c30d0fabd921",
             "feed": "lokmat",
-            "title": "अग्रलेख: आव्हानांचा कुंभ भरलेलाच; जबाबदार यंत्रणा नागरिकांसमोर आली पाहिजे",
+            "title": "'किंग'च्या शूटिंगदरम्यान दीपिका होती पाच महिन्यांची गरोदर; 'तू मिल जाये' गाण्याची चर्चा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-02T07:54:54",
-            "url": "https://www.lokmat.com/editorial/editorial-the-ocean-of-challenges-is-full-accountable-mechanisms-and-real-progress-must-be-brought-before-the-citizens-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nashik-kumbh-mela-2027_2026111813472.jpg",
+            "published": "2026-11-02T17:14:12",
+            "url": "https://www.lokmat.com/filmy/bollywood/deepika-padukone-shot-king-movie-tu-mil-jaye-song-during-pregnancy-a988/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/deepika-padukone-shot-king-movie-tu-mil-jaye-song-during-pregnancy_2026111814004.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "dce98d3d9f54",
+            "feed": "lokmat",
+            "title": "किळसवाणं! गुलाबजामचा 'हा' घाणेरडा Video पाहिल्यावर तुम्ही बाहेरची मिठाई खाणं सोडून द्याल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-02T17:13:13",
+            "url": "https://www.lokmat.com/social-viral/viral-video-man-filling-gulab-jamun-with-cream-raises-hygien-concerns-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gulabjam-vdo_2026111814003.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "f0b9e0b3d4e5",
+            "feed": "lokmat",
+            "title": "‘‘अनेक तरूणींना संधी दिली, पण त्या दीपिका बनल्या नाहीत’’; हिमेश रेशमियाचं मोठं विधान",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-02T17:11:05",
+            "url": "https://www.lokmat.com/filmy/bollywood/many-young-women-were-given-opportunities-but-they-did-not-become-deepika-padukone-himesh-reshammiyas-big-statement-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/himesh-reshmiya-on-deepika_2026111814001.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "e9f3c0abcb60",
+            "id": "f99a46622409",
             "feed": "maharashtratimes",
-            "title": "Greenacres Plane Crash : मे डे, आम्ही मिनिटाला 20 हजार फूट खाली येतोय, आता जमिनीवर आदळू; 9 जणांसह निघालेलं जेट कोसळलं, पायलटचे शेवटचे हताश शब्द",
+            "title": "आधी अजितदादा अन् आता 'ते' 9 जण; अमेरिकेत जे विमान पडलं, ते अन् हे 'एकाच फॅमिली'तलं",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-11-02T08:47:42",
-            "url": "https://maharashtratimes.com/international/international-news/bahamas-bound-learjet-60-crashes-in-greenacres-florida-killing-nine-on-board/articleshow/135443356.cms",
+            "published": "2026-11-02T15:20:45",
+            "url": "https://maharashtratimes.com/international/international-news/florida-private-jet-and-ajit-pawar-chartered-flight-crash-both-planes-from-bomardier-liarjet-family/articleshow/135453471.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c62a8cb3614d",
+            "id": "4804d03354ae",
             "feed": "esakal",
-            "title": "Florida Plane Crash : अमेरिकेत भीषण विमान अपघात! फ्लोरिडात बिझनेस जेट कोसळले; नऊ जणांचा मृत्यू, थरारक VIDEO VIRAL",
+            "title": "जपानमध्ये या इमारतीतून थेट जातो महामार्ग",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-02T08:32:08",
-            "url": "https://www.esakal.com/global/florida-plane-crash-learjet-60-n722bd-palm-beach-county-nine-killed-faa-ntsb-investigation-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/l7g6xqhw/-2026-11-02T082247.625.jpg",
+            "published": "2026-11-02T13:54:22",
+            "url": "https://www.esakal.com/ampstories/web-story/japan-osaka-gate-tower-building-highway-passes-through-building-hanshin-expressway-unique-architecture-viral-facts-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/yl3l8v5f/94810650-11b8-45fd-a4ed-29e1a9c3612c.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "802e72930153",
-            "feed": "lokmat",
-            "title": "वाटले मिसाईलच कोसळले...! अमेरिकेत रहिवासी वस्तीजवळ कोसळले चार्टर्ड विमान; भीषण स्फोटात विमानातील सर्व ९ जणांचा जागीच मृत्यू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-02T07:51:22",
-            "url": "https://www.lokmat.com/international/florida-plane-crash-shocking-chartered-plane-crashes-near-residential-area-in-america-all-9-people-on-board-die-on-the-spot-in-massive-explosion-a607/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/florida-plane-crash_2026111813474.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0a146e3ef4a5",
-            "feed": "lokmat",
-            "title": "फ्रान्सनंतर आता जर्मनीत आंदोलनाला हिंसक वळण; दुकाने लुटली, अनेक पोलीस जखमी, शेकडो आंदोलक ताब्यात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-01T20:41:54",
-            "url": "https://www.lokmat.com/international/after-france-protests-in-germany-turn-violent-shops-looted-many-police-injured-hundreds-of-protesters-detained-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/germany-protest-genx_2026111813436.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "53446de4b843",
+            "id": "c5d97e2ed0c1",
             "feed": "esakal",
-            "title": "युरोप पेटलं! फ्रान्सनंतर आता जर्मनीतही ‘Gen Z' च्या आंदोलनाला हिंसक वळण; २७ पोलीस कर्मचारी जखमी, नेमकं काय घडतंय?",
+            "title": "नेतान्याहूंचा ट्रम्प यांच्यावर दबाव, सात दिवसांत इराणवर अण्वस्त्र हल्ला! अमेरिकेतील वरिष्ठ पत्रकाराचा मोठा दावा, जगभरात खळबळ...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-01T20:38:35",
-            "url": "https://www.esakal.com/global/europe-gen-z-protests-france-germany-violence-frankfurt-police-injured-news-latest-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/lg9ougdz/Europe-Gen-Z-Protests",
+            "published": "2026-11-02T12:19:58",
+            "url": "https://www.esakal.com/global/trump-iran-nuclear-strike-netanyahu-pressure-tucker-carlson-claim-us-israel-war-news-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/mrfyhges/Donald-Trump-Iran-news",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "6495517c18e8",
+            "feed": "esakal",
+            "title": "Study Room|UN Global Risk Report 2026 : येत्या काळात जगाला नेमकी कशाची भिती? युद्ध, हवामान बदल की AI..? UN Global Risk Report मध्ये १३०० जाणकारांनी काय म्हंटलंय?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-02T12:11:19",
+            "url": "https://www.esakal.com/premium-article/global-risks-report-2026-third-world-war-climate-change-risk-explained-in-marathi-sk88",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/3vcp7k1y/Global-risk-report",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "43e2f5442d0e",
+            "feed": "esakal",
+            "title": "या गावात माणसं कमी अन् बाहुल्याच जास्त! नेमकं काय आहे कारण?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-02T10:15:00",
+            "url": "https://www.esakal.com/ampstories/web-story/japan-nagoro-village-more-dolls-than-people-doll-village-tsukimi-ayano-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/t19dvsmr/1.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "f493f0016ac5",
-            "feed": "esakal",
-            "title": "IND vs NZ ODI Series: भारतासाठी आनंदाची बातमी! न्यूझीलंडच्या दोन तगड्या खेळाडूंची वन डे मालिकेतून माघार; दोन वेगवेगळे संघ जाहीर",
+            "id": "c23f13c5645e",
+            "feed": "maharashtratimes",
+            "title": "NZ vs IND Odi Series : विराटच्या निशाण्यावर सचिनचा महारेकॉर्ड, कोहलीला मोठी संधी, न्यूझीलंड विरुद्ध किती धावांची गरज?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-02T08:41:44",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-new-zealand-mark-chapman-rachin-ravindra-out-of-odi-series-announce-two-separate-squads-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/e6kr84h4/India-vs-New-Zealand-ODI-series-2026-latest-news",
+            "published": "2026-11-02T16:57:34",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-virat-kohli-has-needed-226-runs-for-broke-sachin-tendulkar-most-odi-runs-record-in-new-zealand-by-indian-batter/articleshow/135458746.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "477c32ca8c8d",
-            "feed": "esakal",
-            "title": "IND vs NZ: वैभव सूर्यवंशी संधी न दिल्याने वाद, पण गंभीरचं रोखठोक उत्तर, 'माझं काम लोकांना खूश करणं नाही...'",
+            "id": "a564bb4395c6",
+            "feed": "lokmat",
+            "title": "वनडे क्रिकेटच्या इतिहासात पहिल्यांदाच 'असं' घडणार, किंग कोहली महाविक्रमापासून फक्त १२ धावा दूर!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-01T22:42:10",
-            "url": "https://www.esakal.com/krida/cricket/gautam-gambhir-defends-team-india-playing-eleven-selection-vaibhav-sooryavanshi-controversy-says-his-job-is-right-decisions-not-popular-ones-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/kaiuhp96/Vaibhav-Sooryavanshi-Gautam-Gambhir.jpg",
+            "published": "2026-11-02T16:46:32",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-odi-series-virat-kohli-just-12-runs-away-from-historic-13000-odi-runs-milestone-at-no-3-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-11-02-at-4.45.17-pm_2026111813948.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "8ce3e0d5c216",
-            "feed": "esakal",
-            "title": "U19 Asia Cup: दिवाळीच्याच दिवशी India vs Pakistan सामन्याचा धमाका; भारताच्या सामन्यांचे वेळापत्रक अन् कुठे पाहाणार मॅच, जाणून घ्या",
+            "id": "c5e665f14dde",
+            "feed": "lokmat",
+            "title": "याद राखा! T20I मालिका जिंकल्यावरही टीम इंडियातील 'या' खेळाडूंना मिळाली 'गंभीर' वॉर्निंग, पण का?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-01T21:40:53",
-            "url": "https://www.esakal.com/krida/cricket/u19-asia-cup-2026-schedule-india-vs-pakistan-group-clash-match-date-oman-where-to-watch-live-streaming-details-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/ofuw5n3s/India-vs-Pakistan-U19-Asia-Cup-2026.jpg",
+            "published": "2026-11-02T16:43:45",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-gautam-gambhir-warns-team-india-players-to-stay-fit-during-month-long-break-after-5th-t20i-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-gautam-gambhir-dressing-room-speech-m-_2026111813927.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "887ed3d70497",
-            "feed": "lokmat",
-            "title": "तुम्ही जोरदार खरेदी केली, सरकारची तिजोरी भरली; सणासुदीची खरेदी आणि आयातीमुळे मोठी वृद्धी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-11-02T08:36:20",
-            "url": "https://www.lokmat.com/business/news/you-bought-heavily-filling-the-governments-coffers-big-growth-due-to-festive-shopping-and-imports-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gst-collection-october-2026_2026111813482.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f41dbdeb63c8",
-            "feed": "maharashtratimes",
-            "title": "EPFO New Update : आता फक्त 'Hi' करताच झटपट मिळेल पीएफ अकाउंटच्या सर्व डिटेल्स, EPFO च्या नव्या सुविधेचा असा घ्या लाभ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-11-02T08:28:06",
-            "url": "https://maharashtratimes.com/business/business-news/epfo-whatsapp-based-services-for-automatic-settlement-of-inactive-pf-accounts-all-subscribers-need-to-know/articleshow/135442628.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "14c4de48dd65",
+            "id": "1c02e5252877",
             "feed": "esakal",
-            "title": "‘एसआयएफ’मध्ये गुंतवणूक करताना...",
+            "title": "FD Rates: सरकारी बँकेने FD वरील व्याजदर वाढवले; नवीन योजनाही सुरू! ज्येष्ठ नागरिकांना मिळणार इतकं व्याज, दिवाळीआधी गुंतवणुकीची संधी?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-02T07:30:00",
-            "url": "https://www.esakal.com/sakal-money/specialised-investment-funds-sif-risks-sebi-investment-rules-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/i0ru33il/.jpg",
+            "published": "2026-11-02T17:18:06",
+            "url": "https://www.esakal.com/sakal-money/personal-finance/bank-of-india-fd-interest-rates-revised-november-2026-new-star-akshay-scheme-senior-citizens-7-50-percent-interest-rates-diwali-investment-opportunity-vsd00",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/oda72weg/Copy-of-Copy-of-banner-2026-11-02T170906.438.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
+        },
+        {
+            "id": "32c4a67d907a",
+            "feed": "lokmat",
+            "title": "उजनी व वीर धरणात किती पाणीसाठा; रब्बी व उन्हाळी पिकासाठी शेतीला पुन्हा पाणी मिळणार का?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-02T16:50:49",
+            "url": "https://www.lokmat.com/agriculture/weather/how-much-water-is-stored-in-ujani-and-veer-dams-will-agriculture-get-water-again-for-rabi-and-summer-crops-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ujani-veer-dam-water-level_2026111813899.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1452f685d964",
+            "feed": "lokmat",
+            "title": "Chara Tanchai : कडबा कुट्टी यंत्राचा वापर करून वैरणीची नासाडी टाळा; गावागावांत चारा बँक निर्माण करा!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-02T16:36:45",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/chara-tanchai-avoid-wastage-of-fodder-by-using-kadaba-kutti-machine-create-fodder-banks-in-villages-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chara-tanchai-s_2026111813915.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
