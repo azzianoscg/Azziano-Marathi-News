@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "02-11-2026 | 05:19 PM IST",
+    "lastUpdated": "03-11-2026 | 02:33 AM IST",
     "maharashtra": [
         {
-            "id": "0edcf9b10686",
+            "id": "18d1c142bc51",
             "feed": "lokmat",
-            "title": "Latest Marathi News LIVE: विरोधकांचा एकच नारा, रेजिम चेंज...मुख्यमंत्री देवेंद्र फडणवीसांचा जोरदार घणाघात",
+            "title": "Nagpur News: नागपुरात दोन गटात राडा; रुग्णावाहिकेची तोडफोड, मेयो परिसरात तणावाचे वातावरण",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-02T17:09:57",
+            "published": "2026-11-03T00:12:17",
+            "url": "https://www.lokmat.com/nagpur/nagpur-two-ambulance-groups-clash-near-mayo-hospital-three-ambulances-vandalised-tension-grips-area-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-8_2026111814179.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "fac61c1dabdf",
+            "feed": "maharashtratimes",
+            "title": "KDMC News: बेकायदेशीर होर्डिंग्जवर केडीएमसी ऐतिहासिक कारवाई करण्याची शक्यता, कल्याण डोंबिवलीकरांनी 30 वर्ष न पाहिलेली प्रशासकीय शिस्त बघायला मिळणार",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-02T23:50:10",
+            "url": "https://maharashtratimes.com/maharashtra/thane/kalyan-dombivli-municipal-corporation-to-take-action-against-illegal-hoardings/articleshow/135471280.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0edcf9b10686",
+            "feed": "lokmat",
+            "title": "Latest Marathi News LIVE: शेतकऱ्यांना त्रास देणाऱ्या फायनान्स कंपन्यांना मंत्री प्रताप सरनाईक यांचा इशारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-02T23:39:03",
             "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-02-november-2026-vidhan-parishad-election-results-gokul-election-cm-devendra-fadnavis-eknath-shinde-manoj-jarange-patil-audio-clip-karjat-tree-cutting-pm-narendra-modi-rahul-gandhi-drought-updates-zp-elections-a681/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/liveblogfbimage_2026061718973.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bc4fe2872ed4",
-            "feed": "esakal",
-            "title": "Lanja Machal ST Bus Service Historic Event : स्वातंत्र्याच्या ७८ वर्षांनंतर कोकणातील ३५०० फूट उंचीवरील दुर्गम 'माचाळ' गावात पहिल्यांदाच धावली लालपरी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-02T17:09:56",
-            "url": "https://www.esakal.com/kokan/lanja-machal-village-first-st-bus-service-history-ratnagiri-konkan-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/46zh36z6/Esakal-3.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b119d94dbc54",
-            "feed": "maharashtratimes",
-            "title": "NCP Happenings : माजी मंत्री अनिल पाटील तातडीने विमानाने मुंबईला रवाना, राष्ट्रवादी काँग्रेस पक्षात नेमक्या हालचाली काय?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-02T17:03:33",
-            "url": "https://maharashtratimes.com/maharashtra/jalgaon-news/ncp-party-political-happenings-anil-patil-leaves-jalgaon-for-mumbai-by-plane/articleshow/135458391.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "85fb4d0cb282",
+            "id": "a6d826946132",
             "feed": "lokmat",
-            "title": "Pune Crime: पुण्यात विवाहितेने उचलले टोकाचे पाऊल; १५ ते २० जणांकडून झांबरे पॅलेसची तोडफोड?",
+            "title": "दिल्ली, बंगळुरूनंतर आता नागपुरातही लॉरेन्स गँगच्या नावाचा खंडणीसाठी वापर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-02T17:02:22",
-            "url": "https://www.lokmat.com/pune/married-woman-takes-extreme-step-in-pune-15-to-20-people-vandalize-zambre-palace-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-mukund-nagar-case_2026111813936.jpg",
+            "published": "2026-11-02T23:30:28",
+            "url": "https://www.lokmat.com/nagpur/after-delhi-and-bangalore-now-the-name-of-lawrence-gang-is-being-used-for-extortion-in-nagpur-too-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/lawrence-bishnoi-1_2026111814171.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "53f797c0db2a",
-            "feed": "esakal",
-            "title": "प्राणी-पक्ष्यांची काळजी घ्या",
+            "id": "b980426fe578",
+            "feed": "lokmat",
+            "title": "एकाही शेतकऱ्याचे नाव यादीतून सुटणार नाही; कर्जमाफीची योजना पूर्ण करणार, पालकमंत्री चंद्रशेखर बावनकुळे यांची ग्वाही",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-11-02T17:01:46",
-            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i94970-txt-raigad-20261102113146",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/lt6qtjcj/mumbai_fallback_image.jpg",
+            "published": "2026-11-02T23:15:20",
+            "url": "https://www.lokmat.com/amravati/not-a-single-farmers-name-will-be-left-out-of-the-list-the-loan-waiver-scheme-will-be-completed-assures-guardian-minister-chandrashekhar-bawankule-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chandrashekhar-bawankule-9_2026111814169.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "add62e0236cf",
+            "id": "9781d995525d",
             "feed": "esakal",
-            "title": "मला लहानपणापासूनच लग्न करायचं होतं पण... अजूनही अविवाहित का आहे ३४ वर्षांची वैदेही परशुरामी? म्हणते- मी प्रेमात पडले...",
+            "title": "Numerology: पॉकेट मनी उडवत नाहीत तर जपून वापरतात! 'या' ३ मूलांकांची मुले जन्मापासूनच असतात फायनान्शियल जिनियस...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-02T17:18:16",
-            "url": "https://www.esakal.com/premier/vaidehi-parshurami-unmarried-at-age-34-reveals-why-she-has-not-married-despite-dreaming-about-marriage-since-childhood-and-falling-in-love-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/knwzzq3z/vaidehi-parshurami.jpg",
+            "published": "2026-11-02T23:56:37",
+            "url": "https://www.esakal.com/culture-and-religion/mulank-children-financial-habits-money-management-numerology-marathi-news-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-01/5tq1topl/Numerology-Tips-3-Mulank-Children-Who-Are-Financial-Genius.png",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "099ab620ec2b",
+            "id": "69577e2468e4",
+            "feed": "lokmat",
+            "title": "मध्यरात्री 'या' किनारपट्टीवर धडकणार 'मुरासू'! मुसळधार पावसाचा इशारा; १९ उड्डाणे रद्द, शाळांना सुट्ट्या, हजारो नागरिक सुरक्षित स्थळी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-11-02T23:53:57",
+            "url": "https://www.lokmat.com/national/cyclone-murasu-andhra-pradesh-heavy-rain-19-flights-cancelled-schools-closed-thousands-of-citizens-evacuated-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cyclone-murasu-_2026111814174.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e4a6e887ea10",
             "feed": "esakal",
-            "title": "UPI Record : ऑक्टोबरमध्ये डिजिटल पेमेंटचा धमाका! यूपीआयची विक्रमी घौडदौड; रोज ८२ कोटींहून अधिक व्यवहार",
+            "title": "सकाळी रिकाम्या पोटी कच्चा लसूण खाल्ल्याने शरीरात काय बदल होतात?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-02T17:17:15",
-            "url": "https://www.esakal.com/sakal-money/upi-transactions-october-2026-record-daily-volume-822-million-monthly-transactions-2547-billion-digital-payments-india-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/39r7ai5m/upi-1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "c30d0fabd921",
-            "feed": "lokmat",
-            "title": "'किंग'च्या शूटिंगदरम्यान दीपिका होती पाच महिन्यांची गरोदर; 'तू मिल जाये' गाण्याची चर्चा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-02T17:14:12",
-            "url": "https://www.lokmat.com/filmy/bollywood/deepika-padukone-shot-king-movie-tu-mil-jaye-song-during-pregnancy-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/deepika-padukone-shot-king-movie-tu-mil-jaye-song-during-pregnancy_2026111814004.jpg",
+            "published": "2026-11-02T23:51:22",
+            "url": "https://www.esakal.com/ampstories/web-story/what-happens-to-your-body-when-you-eat-raw-garlic-on-an-empty-stomach-in-the-morning-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-15/knewt2xg/health-benefits-of-garlic-7.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "dce98d3d9f54",
-            "feed": "lokmat",
-            "title": "किळसवाणं! गुलाबजामचा 'हा' घाणेरडा Video पाहिल्यावर तुम्ही बाहेरची मिठाई खाणं सोडून द्याल",
+            "id": "ef9f8f8d6d00",
+            "feed": "esakal",
+            "title": "दिवाळीत लागणारं उटणं घरच्या घरी कधी बनवलंय का? यंदा घरीच बनवा शुद्ध उटणं!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-02T17:13:13",
-            "url": "https://www.lokmat.com/social-viral/viral-video-man-filling-gulab-jamun-with-cream-raises-hygien-concerns-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gulabjam-vdo_2026111814003.jpeg",
+            "published": "2026-11-02T23:29:00",
+            "url": "https://www.esakal.com/ampstories/web-story/diy-homemade-diwali-ubtan-recipe-for-glowing-skin-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/g4g2u56p/Homemade-Diwali-Ubtan.png",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "f0b9e0b3d4e5",
-            "feed": "lokmat",
-            "title": "‘‘अनेक तरूणींना संधी दिली, पण त्या दीपिका बनल्या नाहीत’’; हिमेश रेशमियाचं मोठं विधान",
+            "id": "7b0dbcc68527",
+            "feed": "maharashtratimes",
+            "title": "६० वर्षांचा शाहरुख खान खरंच इतका फीट आहे? किंगमधील शर्टलेस लूक व्हायरल, AI नं सांगितलं किती टक्के VFX वापरलं आहे",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-02T17:11:05",
-            "url": "https://www.lokmat.com/filmy/bollywood/many-young-women-were-given-opportunities-but-they-did-not-become-deepika-padukone-himesh-reshammiyas-big-statement-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/himesh-reshmiya-on-deepika_2026111814001.jpg",
+            "published": "2026-11-02T22:17:36",
+            "url": "https://maharashtratimes.com/viral/viral-news/shah-rukh-khans-shirtless-look-breaks-the-internet-grok-ai-reveals-how-much-editing-was-used/articleshow/135468350.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "f99a46622409",
+            "id": "e399729dde19",
+            "feed": "lokmat",
+            "title": "विचित्र सायबर हल्ला! युरोपातील अनेक मोठ्या सुपरमार्केट चेनला फटका, फ्रीज हॅक; लाखो युरोच्या खाद्यपदार्थांचे नुकास",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-02T21:41:21",
+            "url": "https://www.lokmat.com/international/cyber-attack-europe-supermarket-refrigerators-hacked-food-worth-millions-of-euros-wasted-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supermarket-refrigeration-system-cyber-attack-europe_2026111814161.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b9ebd442dd66",
+            "feed": "lokmat",
+            "title": "CA Surbhi Gandhi : \"तुझं लक्ष फॅशनमध्ये, पेंटिंग कर...\"; १४ तास अभ्यास करून झाली CA, टोमण्यांना दिलं चोख प्रत्युत्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-02T19:05:00",
+            "url": "https://www.lokmat.com/sakhi/photos/inspirational/success-story-of-ca-surbhi-gandhi-who-studied-for-14-hours-day-and-answered-critics-by-becoming-chartered-accountant-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ca-surbhi-gandhi_2026111814096.jpeg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "cca14d07ef4b",
             "feed": "maharashtratimes",
-            "title": "आधी अजितदादा अन् आता 'ते' 9 जण; अमेरिकेत जे विमान पडलं, ते अन् हे 'एकाच फॅमिली'तलं",
+            "title": "इस्रायलमध्ये महाविकास आघाडी? 'उद्धव ठाकरे' होण्यासाठी 2 नेत्यांच्या हालचाली, PM ना वेगळीच भीती",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-11-02T15:20:45",
-            "url": "https://maharashtratimes.com/international/international-news/florida-private-jet-and-ajit-pawar-chartered-flight-crash-both-planes-from-bomardier-liarjet-family/articleshow/135453471.cms",
+            "published": "2026-11-02T18:54:51",
+            "url": "https://maharashtratimes.com/international/international-news/israel-election-benjamin-netanyahu-keeps-coalition-possibility-open-with-gadi-eisenkot/articleshow/135463388.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4804d03354ae",
-            "feed": "esakal",
-            "title": "जपानमध्ये या इमारतीतून थेट जातो महामार्ग",
+            "id": "f99e0030065d",
+            "feed": "lokmat",
+            "title": "‘कोण होणार करोडपती’च्या मंचावर स्पर्धक ऋषिकेश मढवीच्या विचारानं माधुरी देखील झाली प्रभावित",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-02T13:54:22",
-            "url": "https://www.esakal.com/ampstories/web-story/japan-osaka-gate-tower-building-highway-passes-through-building-hanshin-expressway-unique-architecture-viral-facts-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/yl3l8v5f/94810650-11b8-45fd-a4ed-29e1a9c3612c.jpg",
+            "published": "2026-11-02T18:48:04",
+            "url": "https://www.lokmat.com/filmy/television/madhuri-dixit-was-also-impressed-by-contestant-hrishikesh-madhavis-thoughts-on-the-stage-of-who-wants-to-be-a-millionaire-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hrishikesh-madhavi-kbc_2026111814074.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "c5d97e2ed0c1",
-            "feed": "esakal",
-            "title": "नेतान्याहूंचा ट्रम्प यांच्यावर दबाव, सात दिवसांत इराणवर अण्वस्त्र हल्ला! अमेरिकेतील वरिष्ठ पत्रकाराचा मोठा दावा, जगभरात खळबळ...",
+            "id": "a92f205ac739",
+            "feed": "maharashtratimes",
+            "title": "होर्मुझसाठी 7 नव्हे 2 दिवसांचा प्लान, इराणकडून अमेरिकेला नवा प्रस्ताव; जगाला लवकरच दिलासा?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
             },
-            "published": "2026-11-02T12:19:58",
-            "url": "https://www.esakal.com/global/trump-iran-nuclear-strike-netanyahu-pressure-tucker-carlson-claim-us-israel-war-news-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/mrfyhges/Donald-Trump-Iran-news",
+            "published": "2026-11-02T18:10:40",
+            "url": "https://maharashtratimes.com/international/international-news/middle-east-crisis-iran-gives-new-draft-to-us-via-qatar-to-open-strait-of-hormuz-in-two-days/articleshow/135462030.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "6495517c18e8",
-            "feed": "esakal",
-            "title": "Study Room|UN Global Risk Report 2026 : येत्या काळात जगाला नेमकी कशाची भिती? युद्ध, हवामान बदल की AI..? UN Global Risk Report मध्ये १३०० जाणकारांनी काय म्हंटलंय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-02T12:11:19",
-            "url": "https://www.esakal.com/premium-article/global-risks-report-2026-third-world-war-climate-change-risk-explained-in-marathi-sk88",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/3vcp7k1y/Global-risk-report",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "43e2f5442d0e",
-            "feed": "esakal",
-            "title": "या गावात माणसं कमी अन् बाहुल्याच जास्त! नेमकं काय आहे कारण?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-02T10:15:00",
-            "url": "https://www.esakal.com/ampstories/web-story/japan-nagoro-village-more-dolls-than-people-doll-village-tsukimi-ayano-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/t19dvsmr/1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "c23f13c5645e",
+            "id": "e8ad2bc091b3",
+            "feed": "lokmat",
+            "title": "Glenn Maxwell: मैदानावरचा गेम चेंजर! ग्लेन मॅक्सवेलच्या अंगावर काटा आणणाऱ्या ५ धडाकेबाज इनिंग्ज",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-11-03T00:53:32",
+            "url": "https://www.lokmat.com/cricket/photos/glenn-maxwell-5-match-winning-innings-that-defined-his-international-career-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/glenn-maxwell-5-match-winning-innings-1_2026111814187.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "37c0c78bcf88",
+            "feed": "lokmat",
+            "title": "Glenn Maxwell Retires: क्रिकेटविश्वातलं वादळ शमलं! स्टार ऑलराउंडर ग्लेन मॅक्सवेलची आंतरराष्ट्रीय क्रिकेटमधून निवृत्ती",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-11-02T23:56:56",
+            "url": "https://www.lokmat.com/cricket/news/glenn-maxwell-announces-retirement-from-international-cricket-bringing-an-end-to-his-illustrious-career-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/glenn-maxwell_2026111814175.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "be8481ebaae7",
             "feed": "maharashtratimes",
-            "title": "NZ vs IND Odi Series : विराटच्या निशाण्यावर सचिनचा महारेकॉर्ड, कोहलीला मोठी संधी, न्यूझीलंड विरुद्ध किती धावांची गरज?",
+            "title": "Prema Rawat : 6 चौकार-4 षटकार, 14 चेंडूंत झंझावाती अर्धशतक, वर्ल्ड रेकॉर्ड ब्रेक, प्रेमा रावतचा कारनामा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-02T16:57:34",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-virat-kohli-has-needed-226-runs-for-broke-sachin-tendulkar-most-odi-runs-record-in-new-zealand-by-indian-batter/articleshow/135458746.cms",
+            "published": "2026-11-02T23:02:53",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/uttarkhand-batter-prema-rawat-broke-sana-malik-fastest-t20-fifty-world-record-in-women-cricket-she-smashed-50-runs-only-14-balls-against-hyderabad/articleshow/135469298.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a564bb4395c6",
-            "feed": "lokmat",
-            "title": "वनडे क्रिकेटच्या इतिहासात पहिल्यांदाच 'असं' घडणार, किंग कोहली महाविक्रमापासून फक्त १२ धावा दूर!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-11-02T16:46:32",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-odi-series-virat-kohli-just-12-runs-away-from-historic-13000-odi-runs-milestone-at-no-3-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-11-02-at-4.45.17-pm_2026111813948.jpeg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c5e665f14dde",
-            "feed": "lokmat",
-            "title": "याद राखा! T20I मालिका जिंकल्यावरही टीम इंडियातील 'या' खेळाडूंना मिळाली 'गंभीर' वॉर्निंग, पण का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-11-02T16:43:45",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-gautam-gambhir-warns-team-india-players-to-stay-fit-during-month-long-break-after-5th-t20i-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-gautam-gambhir-dressing-room-speech-m-_2026111813927.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "1c02e5252877",
+            "id": "255a249aa063",
+            "feed": "maharashtratimes",
+            "title": "एक बातमी येताच डाव फिरला! भारतापासून दूर पळणारे गुंतवणूकदार माघारी वळले; DII लाही मागे टाकले",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-11-02T23:19:20",
+            "url": "https://maharashtratimes.com/business/business-news/fii-investment-increased-due-to-sebi-proposal-about-ltgc-recommendation/articleshow/135465090.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0ada8c5c9743",
+            "feed": "lokmat",
+            "title": "पाकिस्तानला मोठा फटका, भारताशी व्यापार बंद झाल्यानं तब्बल ४० अब्ज डॉलर्सचं नुकसान; आता...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-11-02T22:59:18",
+            "url": "https://www.lokmat.com/business/news/pakistan-suffers-a-big-blow-losses-of-40-billion-dollars-due-to-trade-closure-with-india-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pakistan-d-dw_2026111814167.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "a37471c78398",
             "feed": "esakal",
-            "title": "FD Rates: सरकारी बँकेने FD वरील व्याजदर वाढवले; नवीन योजनाही सुरू! ज्येष्ठ नागरिकांना मिळणार इतकं व्याज, दिवाळीआधी गुंतवणुकीची संधी?",
+            "title": "2, 5 रुपयांच्या नोटांची छापाई बंद, मग एका रुपयाची प्रिंटिंग का चालू?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-02T17:18:06",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/bank-of-india-fd-interest-rates-revised-november-2026-new-star-akshay-scheme-senior-citizens-7-50-percent-interest-rates-diwali-investment-opportunity-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-02/oda72weg/Copy-of-Copy-of-banner-2026-11-02T170906.438.jpg",
+            "published": "2026-11-02T22:50:00",
+            "url": "https://www.esakal.com/ampstories/web-story/why-rbi-stopped-printing-2-and-5-rupee-notes-but-resumed-one-rupee-note-facts-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-02/69xa2lsd/9.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "32c4a67d907a",
-            "feed": "lokmat",
-            "title": "उजनी व वीर धरणात किती पाणीसाठा; रब्बी व उन्हाळी पिकासाठी शेतीला पुन्हा पाणी मिळणार का?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-02T16:50:49",
-            "url": "https://www.lokmat.com/agriculture/weather/how-much-water-is-stored-in-ujani-and-veer-dams-will-agriculture-get-water-again-for-rabi-and-summer-crops-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ujani-veer-dam-water-level_2026111813899.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "1452f685d964",
-            "feed": "lokmat",
-            "title": "Chara Tanchai : कडबा कुट्टी यंत्राचा वापर करून वैरणीची नासाडी टाळा; गावागावांत चारा बँक निर्माण करा!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-02T16:36:45",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/chara-tanchai-avoid-wastage-of-fodder-by-using-kadaba-kutti-machine-create-fodder-banks-in-villages-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chara-tanchai-s_2026111813915.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
