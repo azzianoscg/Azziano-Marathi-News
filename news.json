@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "04-11-2026 | 12:19 AM IST",
+    "lastUpdated": "04-11-2026 | 05:17 AM IST",
     "maharashtra": [
         {
             "id": "c858e16d2a6e",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "88edc752f08c",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 4 नोव्हेंबर 2026: मूलांक 2 संयमाने वागा! मूलांक 4 खर्चाला आवर घाला! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-04T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-4-november-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135510911.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8f07ba6f2e00",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 4 नोव्हेंबर 2026 : कोणत्या राशींसाठी दिवस शुभ कोणाला होणार धनलाभ,पहा तुमचे आजचे राशिभविष्य !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-04T00:51:49",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-4-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135512033.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "9004c5046fb9",
             "feed": "lokmat",
             "title": "उत्तर प्रदेश, पंजाब, गुजरात...; २०२७ मध्ये देशातील 'या' ७ राज्यांमध्ये रंगणार विधानसभेचा महासंग्राम!",
@@ -130,38 +162,6 @@
             "image": "https://cf-images.assettype.com/esakal/2026-11-03/i6iw5mr3/12.jpg",
             "isBreaking": false,
             "category_reason": "default"
-        },
-        {
-            "id": "26d8a555ae2d",
-            "feed": "esakal",
-            "title": "Neha Bora: मंदिरातील अत्याचाराच्या वक्तव्यावरुन भाजपचा नेहा बोरांवर जोरदार हल्ला; काँग्रेसच्या मित्रपक्षांनीही जाहीर केली नाराजी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-03T22:19:35",
-            "url": "https://www.esakal.com/desh/bjp-slams-aisa-chief-neha-bora-rapes-in-temple-remark-priyanka-chaturvedi-congress-allies-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-03/obc7btth/Latest-Marathi-Breaking-News-2026-11-03T221438.358.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "2a72921ffaef",
-            "feed": "esakal",
-            "title": "Sonam Wangchuk: सोनम वांगचुक यांची लडाखमधील शाळा बंद करा! प्रशासनाने का पाठवली नोटीस?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-03T22:14:07",
-            "url": "https://www.esakal.com/desh/sonam-wangchuk-desert-flower-school-ladakh-administration-notice-stop-classes-hial-land-allotment-high-court-case-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-30/p5luzjv1/sandeep-shirguppe-2026-07-30T112618.027.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "world": [
