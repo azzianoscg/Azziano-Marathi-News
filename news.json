@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "04-11-2026 | 05:14 PM IST",
+    "lastUpdated": "05-11-2026 | 12:34 AM IST",
     "maharashtra": [
-        {
-            "id": "5dcdf306013d",
-            "feed": "lokmat",
-            "title": "कर्नाटकची 'सुलतान' जाळ्यात, बेकायदा मासेमारी नौकेवर कारवाई; दोनदा निसटली, तिसऱ्या प्रयत्नात ताब्यात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-04T17:07:00",
-            "url": "https://www.lokmat.com/sindhudurga/the-fisheries-department-has-seized-a-trawler-named-sultan-which-hails-from-karnataka-and-was-engaged-in-illegal-fishing-in-the-waters-off-devgad-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devgad-sea-ish-dep-action-karnataka_2026111815406.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
         {
             "id": "68e2d401d136",
             "feed": "lokmat",
-            "title": "Top Marathi News LIVE: ९२ गिगावॅट प्रतितास क्षमतेच्या ऊर्जा साठवणूक योजनांना भारत सरकारची मंजुरी",
+            "title": "Top Marathi News LIVE: मुंबई-नाशिक महामार्गावर धावत्या कारला भीषण आग",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-04T17:06:51",
+            "published": "2026-11-05T00:01:38",
             "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-4-november-2026-us-mid-term-poll-results-donald-trump-district-bank-election-results-bjp-vs-india-over-sir-pm-narendra-modi-rahul-gandhi-amit-shah-sharad-pawar-health-drought-relief-cm-devendra-fadnavis-a573/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e86b1980805b",
+            "id": "b4e30e12ac98",
+            "feed": "lokmat",
+            "title": "Nagpur: कोलार- कन्हान बॅरेजच्या प्रशासकीय मान्यतेसाठी मंत्रालयात बैठक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-04T23:10:25",
+            "url": "https://www.lokmat.com/nagpur/nagpur-952-crore-kolar-kanhan-barrage-project-moves-closer-to-approval-aims-to-secure-water-supply-for-next-30-years-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-kolar-kanhan-barrage-project_2026111815618.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "3c3447c0160e",
+            "feed": "lokmat",
+            "title": "Nitesh Rane: हिंदू सणांवर कुणी काही बोलले तर गप्प बसणार नाही; नितेश राणेंचा इशारा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-04T22:59:44",
+            "url": "https://www.lokmat.com/nagpur/nitesh-rane-controversial-remarks-in-nagpur-those-criticising-hindu-festivals-should-take-their-views-to-pakistan-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nitesh-rane-1_2026111815616.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0e11f5532a27",
+            "feed": "maharashtratimes",
+            "title": "Chhatrapati Sambhajinagar : लँड माफियांची हिंमत वाढली, बनावट कागदपत्रे अन् थेट बुलडोझरने जमीन बळकावण्याचा प्रयत्न, बीडमधून दोघांना बेड्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-04T22:53:22",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/chhatrapati-sambhajinagar-chhavani-police-arrested-two-accused-from-beed-over-land-grabbing-attempt/articleshow/135546784.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2939170c195b",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : धुळ्यात नाल्यावरील पुलाचे बांधकाम सुरू असतानाच अचानक स्लॅब कोसळला",
+            "title": "Solapur Crime: वयोवृद्ध दाम्पत्य पोर्चमध्ये झोपले अन् चोरट्यांनी डाव साधला! पोखरापूरमध्ये ४.२७ लाखांचा ऐवज लंपास",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-04T17:06:34",
-            "url": "https://www.esakal.com/maharashtra/rahul-gandhi-pm-modi-debate-cyclone-murasu-sir-cec-diwali-green-crackers-pune-metro-form-6-pollution-aqi-tiger-shroff-firing-ncp-merger-devendra-fadnavis-bombay-hc-fda-farmers-relief-mcoca",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-29/8j2n459j/sandeep-shirguppe-2026-03-29T073756.918.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7df8ebcea7fe",
-            "feed": "lokmat",
-            "title": "Payal Zambre Case: 'आरोपींना फाशीची शिक्षा द्या', पायल झांबरे मृत्यू प्रकरणात नातेवाईकांची मागणी, पुणे कोर्टाबाहेर ठिय्या आंदोलन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-04T17:03:05",
-            "url": "https://www.lokmat.com/pune/payal-zambre-case-give-death-penalty-to-the-accused-demand-of-relatives-in-payal-zambre-death-case-protest-outside-pune-court-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/payal-zambare-agitation-4_2026111815403.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "237ea309eee9",
-            "feed": "lokmat",
-            "title": "Sangli District Bank Election Result 2026: जिल्हा बँकेत संख्याबळ महायुतीचे, पण वर्चस्व महाआघाडीचे; अध्यक्ष निवडीत लागणार कस",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-04T17:01:27",
-            "url": "https://www.lokmat.com/sangli/the-mahayuti-holds-the-numerical-strength-while-the-mahavikas-aghadi-maintains-dominance-in-the-sangli-district-bank-the-election-of-the-chairman-will-be-a-true-test-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sangli-bank-mahayuti-mahavikasaghadi_2026111815402.jpg",
+            "published": "2026-11-04T22:36:14",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/mohol-theft-news-thieves-steal-gold-jewellery-and-cash-worth-427-lakh-from-elderly-couples-house-in-pokharapur-village-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/yxtpo5da/sudhir-jadhav-satara-24.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "e8c142417a57",
+            "id": "8e9ae81e2751",
             "feed": "lokmat",
-            "title": "Swami Samartha: दिवाळीचा सणच नाही तर आयुष्याचा प्रत्येक क्षण साजरा करा स्वामींच्या 'या' दिव्य मंत्राने!",
+            "title": "एका महिन्याचं भाडं नाही दिलं किंवा उशिरा दिलं तर घर मालकाला व्याज द्यावं लागतं का? पाहा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-04T17:10:41",
-            "url": "https://www.lokmat.com/bhakti/swami-samartha-celebrate-not-only-the-festival-of-diwali-but-every-moment-of-life-with-this-divine-mantra-of-swami-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/swami-samartha-blessing-on-diwali-2026_2026111815407.jpg",
+            "published": "2026-11-04T23:57:13",
+            "url": "https://www.lokmat.com/sakhi/social-viral/can-landlord-charge-interest-on-late-rent-payment-late-rent-payment-rules-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-11-04-at-6.01.34-pm_2026111815622.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "2d5455367f89",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 5 नोव्हेंबर 2026 : दिवाळीचा पहिला दिवस 'या' राशींसाठी आणणार गुडलक,पहा तुमचे आजचे राशिभविष्य काय सांगते !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-04T23:32:35",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-5-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135548682.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "aed0da0c2a24",
+            "feed": "lokmat",
+            "title": "उत्तराखंडमध्ये भीषण अपघात, कार आणि कंटेनरमध्ये जोरदार धडक; चालकासह ४ जणांचा मृत्यू, ६ वर्षांचा चिमुरडा सुखरूप",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-11-04T22:34:51",
+            "url": "https://www.lokmat.com/national/dehradun-horrific-accident-four-killed-as-car-collides-head-on-with-container-6-year-old-boy-miraculously-survives-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/accident-5_2026111815614.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "41bde0bd07f0",
+            "feed": "esakal",
+            "title": "Donald Trump: डोनाल्ड ट्रम्प यांच्या पराभवाने भारताला किती फायदा होणार? टॅरिफ, ट्रेड डील आणि रशियाशी संबंधित निर्बंधांवर काय परिणाम होईल?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-04T22:25:24",
+            "url": "https://www.esakal.com/desh/us-midterm-elections-trump-loss-impact-on-india-trade-deals-tariffs-russian-oil-h1b-visa-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/8v4eooqw/Latest-Marathi-Breaking-News-2026-11-04T222240.999.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "a51e2657a256",
-            "feed": "esakal",
-            "title": "Diwali Child Health: फटाक्यांचा धूर हिरावून घेऊ शकतो मुलांची दृष्टी; दिवाळीत मुलांच्या आरोग्याची अन् डोळ्यांची 'अशी' घ्या काळजी...",
+            "id": "7104fd9b9616",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 5 November 2026: रमा एकादशी, गोवत्स द्वादशी, वसूबारस! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-04T17:03:31",
-            "url": "https://www.esakal.com/health/protect-children-from-firecracker-smoke-diwali-pollution-marathi-news-health-sam01",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-04/f9396bs8/Protect-Kids-from-Firecracker-Smoke-Pollution-This-Diwali.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "08b01d80d3dc",
-            "feed": "esakal",
-            "title": "काही गाणी मनाचा पिच्छाच का सोडत नाही? सतत डोक्यात का वाजत राहतात?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-04T17:03:01",
-            "url": "https://www.esakal.com/ampstories/web-story/why-songs-get-stuck-in-your-head-earworm-science-behind-repetitive-music-brain-memory-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-04/3qmlehde/5.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8ebe8437f4fb",
-            "feed": "esakal",
-            "title": "छत्रपती शिवाजी महाराजांच्या घोड्यांची नावे काय होती?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-04T17:02:42",
-            "url": "https://www.esakal.com/ampstories/web-story/chhatrapati-shivaji-maharaj-seven-horses-names-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-04/csdpapyk/names-of-chhatrapati-Shivaji-Maharaj-horses-5.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "31517762dd9f",
-            "feed": "esakal",
-            "title": "फ्रिजच्या मागे काळी जाळी का असते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-04T17:02:03",
-            "url": "https://www.esakal.com/ampstories/web-story/why-black-grill-behind-refrigerator-condenser-coil-cleaning-and-maintenance-guide-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-04/euzw30p7/refrigerator-black-grill-1.jpg",
+            "published": "2026-11-04T22:09:12",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-5-november-2026-in-marathi-rama-ekadashi-vasubaras-and-shubha-muhurta/articleshow/135543606.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "bb2c4e1182c5",
+            "id": "da6dbd94de9b",
             "feed": "lokmat",
-            "title": "इराणमध्ये सत्ताबदल करायला निघाले होते; पण डोनाल्ड ट्रम्प, बेंजामिन नेतान्याहूंचीच उडाली धूळधाण",
+            "title": "\"मध्यपूर्वेतील युद्ध आणि महागाईमुळेच रिपब्लिकन पक्षाचा पराभव\" अमेरिकेचे उपराष्ट्रपती जेडी व्हान्स यांच्या वक्तव्यानं खळबळ",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-11-04T16:47:49",
-            "url": "https://www.lokmat.com/international/once-tried-for-iran-regime-change-now-donald-trump-benjamin-netanyahu-struggls-in-us-elections-israel-polls-political-crisis-a747/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/netanyahu-trump-0411_2026111815389.jpg",
+            "published": "2026-11-04T23:49:17",
+            "url": "https://www.lokmat.com/international/jd-vance-blames-iran-war-for-republicans-historic-defeat-in-us-midterm-elections-differs-with-trump-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jd-vance_2026111815620.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "2b3908e29ffa",
+            "id": "d1ddd6e96048",
             "feed": "esakal",
-            "title": "ट्रॅक्टरचा शोध कोणी लावला?",
+            "title": "Premium|Study Room : सौदीतील घटनेतून धडा, परदेशात अडकलेल्या कामगारांच्या संरक्षणासाठी सक्षम यंत्रणा हवी!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-04T16:18:19",
-            "url": "https://www.esakal.com/ampstories/web-story/who-invented-the-tractor-know-the-interesting-history-of-tractors-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-04/3wi8k68w/tractor-invention-history-3.jpg",
+            "published": "2026-11-04T21:00:00",
+            "url": "https://www.esakal.com/premium-article/bangladesh-saudi-arabia-execution-case-foreign-workers-legal-protection-diplomatic-intervention-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/bbjzngwd/Abhi-14.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "a1c818a0e2d7",
+            "id": "b967ef86b5e0",
+            "feed": "lokmat",
+            "title": "बॅलेट पेपरवर मतदान होऊनही अमेरिकेत काही तासांत कशी होते मतमोजणी? जाणून घ्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-04T20:28:54",
+            "url": "https://www.lokmat.com/international/how-is-the-counting-of-votes-in-america-done-within-a-few-hours-despite-voting-on-ballot-papers-find-out-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/united-state-1_2026111815582.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9f962aaee385",
             "feed": "maharashtratimes",
-            "title": "अब्दुलनं इतिहास रचला! ट्रम्प यांनी ज्याला जिहादी म्हटलं; त्यानंच मिशिगनच मैदान मारलं",
+            "title": "तिथे ट्रम्प यांना झटका, इथे भारताला मोठा दिलासा; इराणनं 'होर्मुझ' टेन्शन संपवलं, औषधं आली कामी",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-11-04T16:09:03",
-            "url": "https://maharashtratimes.com/international/international-news/us-mid-term-election-abdul-el-sayed-becomes-first-muslim-senator-after-win-in-michigan/articleshow/135534617.cms",
+            "published": "2026-11-04T20:05:52",
+            "url": "https://maharashtratimes.com/international/international-news/iran-exempts-indian-vessels-from-hormuz-curbs-cites-medical-imports-amid-war-against-us/articleshow/135541862.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b6065d5adba2",
+            "id": "fe3354239420",
             "feed": "esakal",
-            "title": "आपल्या पायाखाली आहे एक वेगळंच जग! जमिनीखाली काय असतं?",
+            "title": "अर्शदीप सिंगची गर्लफ्रेंड आहे तरी कोण, जिच्यासाठी विकेट घेतल्यानंतर केलं सेलिब्रेशन?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-04T15:55:48",
-            "url": "https://www.esakal.com/ampstories/web-story/what-lies-beneath-the-ground-earth-underground-layers-and-secrets-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-04/qu4b9xqu/WHAT-LIES-BENEATH-THE-GROUND-WE-WALK-ON",
+            "published": "2026-11-04T20:04:27",
+            "url": "https://www.esakal.com/ampstories/web-story/who-is-samreen-kaur-arshdeep-singh-girlfriend-viral-dance-celebration-first-odi-ind-vs-nz-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/3c53dg3c/Arshdeep-Singh-Girlfriend-2.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "621270d1cb68",
-            "feed": "esakal",
-            "title": "Explained: अमेरिकेच्या मध्यावधी निवडणुकांमध्ये 'इतक्या' मुस्लिम उमेदवारांनी मारली बाजी; एकाने तर इतिहासच रचला, काय असेल पुढील आव्हान?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-04T15:36:23",
-            "url": "https://www.esakal.com/global/us-midterm-elections-muslim-candidates-abdul-el-sayed-senate-history-ilhan-omar-rashida-tlaib-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-04/wiy6drk7/Latest-Marathi-Breaking-News-2026-11-04T153536.126.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "2f74aa25c7b1",
-            "feed": "lokmat",
-            "title": "न्यूझीलंडविरुद्ध कोहलीची ऐतिहासिक कामगिरी; मास्टर ब्लास्टर सचिन तेंडुलकरचा आणखी एक विक्रम मोडला!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-11-04T17:05:25",
-            "url": "https://www.lokmat.com/cricket/news/virat-kohli-breaks-sachin-tendulkar-record-against-new-zealand-equals-ricky-ponting-milestone-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sachin-tendulkar-and-virat-kohli-1_2026111815404.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5dd0441561b2",
+            "id": "1d1026299d14",
             "feed": "maharashtratimes",
-            "title": "IND vs NZ : विराट कोहलीच्या 74 धावा, अर्शदीपच्या 4 विकेट पण मॅन ऑफ द मॅच तिसराच खेळाडू; कोण आणि तोच का? जाणून घ्या",
+            "title": "NZ vs IND : भारताची विजयी सुरुवात, त्यानंतरही टीम इंडियात बदल दिसणार, ऑलराउंडर कसोटीच्या तयारीला लागणार",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-04T16:50:06",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-nz-1st-odi-anshul-kamboj-was-named-player-of-the-match-in-the-first-odi-against-new-zealand/articleshow/135534940.cms",
+            "published": "2026-11-04T22:53:05",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-allrounder-nitish-kumar-reddy-will-join-india-a-squad-for-3rd-and-last-unofficial-test-match-against-new-zealand-a-after-1st-odi/articleshow/135547134.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "31c63f8eb0aa",
+            "id": "67226ff4bf05",
+            "feed": "maharashtratimes",
+            "title": "WPL 2027 : 22 सामने, 5 संघ आणि 2 स्टेडियम, डब्ल्यूपीएलचं वेळापत्रक जाहीर, मुंबईचा पहिला सामना केव्हा?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-11-04T21:02:04",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/wpl-2027-womens-premier-league-5th-edition-schedule-announced-total-22-matches-will-play-in-5-teams-mi-rcb-dc-upw-gg-at-vadodara-and-mumbai/articleshow/135543918.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "1f9e2d257d0a",
             "feed": "lokmat",
-            "title": "'तो' निर्णय क्रिकेटच्या देवालाही घाईचा वाटला! वैभव सूर्यवंशीबाबत सचिन तेंडुलकर नेमकं काय म्हणाला?",
+            "title": "रोहितच्या एका 'मास्टर स्ट्रोक'ने सामना पलटला! कर्णधार शुभमन गिलनं 'o'वर आऊट होऊनही हिटमॅनला दिलं विजयाचं श्रेय; का?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-04T16:23:04",
-            "url": "https://www.lokmat.com/cricket/news/take-one-step-at-a-time-sachin-tendulkars-advice-to-vaibhav-suryavanshi-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sachin-tendulkar-on-vaibhav-suryavanshi-m-_2026111815359.jpg",
+            "published": "2026-11-04T20:47:13",
+            "url": "https://www.lokmat.com/cricket/news/india-vs-new-zealand-1st-odi-2026-rohit-master-stroke-turned-the-match-captain-shubman-gill-gave-the-credit-for-the-victory-to-the-hitman-who-was-out-on-zero-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shubman-gill-praises-rohit-sharma_2026111815597.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "3be80cafbba3",
-            "feed": "lokmat",
-            "title": "अदानी कुटुंब ₹१८ लाख कोटीचा व्यवसाय कसा हाताळते? कुटुंबातील कोणत्या सदस्याकडे कशाची जबाबदारी?",
+            "id": "f6e7be43b798",
+            "feed": "esakal",
+            "title": "Festive Inflation: दिवाळीपूर्वी 'अमूल'चा ग्राहकांना दणका, तूप-बटर महागले; काय आहेत नवे दर?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-11-04T16:53:49",
-            "url": "https://www.lokmat.com/business/savings-investments/how-does-the-adani-family-handle-a-business-worth-rs18-lakh-crore-which-family-member-is-responsible-for-what-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gautam-adani-and-family_2026111815396.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4109f8863879",
-            "feed": "lokmat",
-            "title": "शेतकरी 3650 रुपये, तर कारखानदार 3300 रुपयांच्या दरावर ठाम; ऊसतोड बंदच ठेवण्याचा निर्णय",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-04T16:50:02",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/farmers-insist-on-rs-3650-while-manufacturers-insist-on-rs-3300-decision-to-keep-sugarcane-harvesting-closed-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-dr-s_2026111815391.jpeg",
+            "published": "2026-11-04T21:40:26",
+            "url": "https://www.esakal.com/sakal-money/amul-ghee-butter-price-hike-diwali-2026-new-rates-pure-ghee-butter-pack-price-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/trsirfjr/amul.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "6b9eedcef3bc",
-            "feed": "lokmat",
-            "title": "Isapur Dam Water Release : खरीपात नुकसान, आता रब्बीला पाण्याचा आधार! इसापूर धरणाचे आवर्तन सुरू; शेतकऱ्यांना दिलासा",
+            "id": "d0de8b882b7c",
+            "feed": "maharashtratimes",
+            "title": "Vasubaras Shubhechcha 2026 : वसूबारसचे मराठमोळे शुभेच्छा संदेश पाठवा फ्रेंड्स आणि फॅमिलीला,शेअर करा WhatsApp, Instagram, Facebook वर सर्वांना !",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-04T16:39:46",
-            "url": "https://www.lokmat.com/agriculture/weather/latest-news-isapur-dam-water-release-loss-in-kharif-now-water-support-for-rabi-isapur-dam-circulation-begins-relief-for-farmers-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rabbi-issapur-dam-1_2026111815386.jpg",
+            "published": "2026-11-04T20:19:31",
+            "url": "https://maharashtratimes.com/astro/festival/vasubaras-shubhechcha-2026-wishes-in-marathi-for-your-family-and-friends/articleshow/135543001.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "25c97ef5effb",
+            "feed": "maharashtratimes",
+            "title": "Vasubaras Wishes In Marathi : वसुबारसच्या युनिक शुभेच्छा! प्रियजनांना पाठवा खास मराठमोळे संदेश, WhatsApp आणि Facebook साठी खास शुभेच्छा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-04T20:00:00",
+            "url": "https://maharashtratimes.com/lifestyle-news/relationships/happy-vasubaras-2026-wishes-in-marathi-govasta-dwadashi-shubhechcha-to-share-on-whatsapp-status-instagram-caption/articleshow/135536259.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ]
 }
