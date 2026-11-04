@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "04-11-2026 | 05:17 AM IST",
+    "lastUpdated": "04-11-2026 | 09:24 AM IST",
     "maharashtra": [
         {
-            "id": "c858e16d2a6e",
-            "feed": "lokmat",
-            "title": "Nagpur Accident: हिंगणा मार्गावर ट्रकच्या धडकेत प्राध्यापिकेचा मृत्यू, एमआयडीसी पोलीस ठाण्यात गुन्हा दाखल",
+            "id": "e86b1980805b",
+            "feed": "esakal",
+            "title": "Latest Marathi News Live Update: दुष्काळी परिस्थितीमूळे दोन एक्कर संत्र्याची बाग शेतकऱ्याने टाकली उपटून",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-04T00:14:41",
-            "url": "https://www.lokmat.com/nagpur/nagpur-accident-woman-professor-killed-after-speeding-truck-hits-her-two-wheeler-on-hingna-road-driver-flees-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/accident-10_201810140337.gif",
+            "published": "2026-11-04T09:23:53",
+            "url": "https://www.esakal.com/maharashtra/rahul-gandhi-pm-modi-debate-cyclone-murasu-sir-cec-diwali-green-crackers-pune-metro-form-6-pollution-aqi-tiger-shroff-firing-ncp-merger-devendra-fadnavis-bombay-hc-fda-farmers-relief-mcoca",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-29/8j2n459j/sandeep-shirguppe-2026-03-29T073756.918.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fb0cc759e255",
-            "feed": "lokmat",
-            "title": "Latest Marathi News LIVE: मुंबईत ११.११ लाखांची ४००० किलोग्रॅम भेसळयुक्त मिठाई जप्त; एफडीएची कारवाई",
+            "id": "4e4c8af46ab7",
+            "feed": "esakal",
+            "title": "Kini Toll Naka Traffic Protest Update : पुणे-कोल्हापूर महामार्गावरील वाहतूक पेठ नाका-ईश्वरपूर-सांगली मार्गे वळवली; परिसराला पोलिस छावणीचे स्वरूप",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-11-04T00:07:39",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-3-november-2026-bjp-vs-india-over-sir-vote-chori-allegations-lok-shahi-bachao-pm-narendra-modi-rahul-gandhi-amit-shah-sharad-pawar-health-ncp-sunetra-pawar-drought-relief-cm-devendra-fadnavis-us-iran-war-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
+            "published": "2026-11-04T09:23:38",
+            "url": "https://www.esakal.com/paschim-maharashtra/kini-toll-plaza-farmers-protest-peth-naka-traffic-jam-pune-kolhapur-highway-traffic-diversion-islampur-sangli-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/beib8439/Kini-toll-naka-traffic-update",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         },
         {
-            "id": "92e53adf3cd7",
+            "id": "b33d08884f8f",
+            "feed": "esakal",
+            "title": "Sangli Bank Election Result 2026 : पडळकर ठरले हुकमी एक्का, रोहित पाटलांना डबल धक्का; संजयकाका, घोरपडे, कोरे, कचरे यांनी विजय खेचला, मविआ-महायुतीकडे किती जागा?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-04T09:15:07",
+            "url": "https://www.esakal.com/paschim-maharashtra/sangli-district-bank-election-result-2026-gopichand-padalkar-victory-rohit-patil-sanjay-patil-ajitrao-ghorpade-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/ot82amgw/Sangli-Bank-Election-Result-2026-Gopichand-Padalkar-Wins",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "c650d2b11ceb",
             "feed": "maharashtratimes",
-            "title": "Ratnagiri–Kolhapur: रत्नागिरी ते कोल्हापूर प्रवासासाठी लागणार फक्त एक तास; उदय सामंत यांनी घेतली केंद्रीय मंत्री नितीन गडकरींची भेट",
+            "title": "Pune News : खिडकी समजून इमर्जन्सी डोअर उघडण्याचा प्रयत्न? 33 वर्षीय इंजिनिअरचा आकाशात प्रताप, पुणे विमानतळावर लॅण्डिंगपूर्वी थरार",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-03T23:29:18",
-            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/ratnagiri-to-kolhapur-journey-in-just-one-hour-work-begins-on-alternative-route-to-amba-ghat/articleshow/135509477.cms",
+            "published": "2026-11-04T09:12:34",
+            "url": "https://maharashtratimes.com/maharashtra/pune-news/passenger-booked-for-attempt-to-open-emergency-door-on-airborne-delhi-pune-flight/articleshow/135520933.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0a3d960f5ffc",
-            "feed": "lokmat",
-            "title": "भरधाव ट्रकने दुचाकीला चिरडले; महिलेचा जागीच मृत्य, पती- मुलगा गंभीर जखमी, नागरिकांमध्ये संताप!",
+            "id": "93fcb9476a14",
+            "feed": "esakal",
+            "title": "Pune Bangalore Highway Traffic Diversion : पुणे-बंगळूर राष्ट्रीय महामार्ग बंद; कोल्हापूर -पुणे प्रवास करायचायं तर हे आहेत पर्यायी मार्ग, थांबलेल्या वाहनांना शेतकऱ्यांकडून जेवणाची व्यवस्था",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-03T23:14:02",
-            "url": "https://www.lokmat.com/nagpur/nagpur-truck-accident-woman-killed-son-critically-injured-angry-locals-block-godhni-road-for-90-minutes-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-accident_2026111814919.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c16321b1427c",
-            "feed": "lokmat",
-            "title": "शेतकऱ्यांच्या नावावर बनावट कागदपत्रे; एसबीआयला ७३.८२ कोटींचा गंडा, आंतरराज्य टोळीतील तिघांना अटक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-03T23:06:40",
-            "url": "https://www.lokmat.com/nagpur/nagpur-sbi-loan-scam-inter-state-gang-dupes-bank-of-rs7382-crore-using-farmers-fake-documents-three-arrested-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sbi-1_2026111814917.jpg",
+            "published": "2026-11-04T09:10:37",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/pune-bangalore-national-highway-is-closed-due-to-farmers-protest-at-kini-toll-plaza-check-alternative-routes-for-kolhapur-pune-travel-farmers-arrange-food-for-stranded-passengers-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/0glw857f/sandeep-shirguppe-2026-11-04T091012.465.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "88edc752f08c",
-            "feed": "maharashtratimes",
-            "title": "अंकभविष्य 4 नोव्हेंबर 2026: मूलांक 2 संयमाने वागा! मूलांक 4 खर्चाला आवर घाला! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-04T04:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-4-november-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135510911.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "8f07ba6f2e00",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 4 नोव्हेंबर 2026 : कोणत्या राशींसाठी दिवस शुभ कोणाला होणार धनलाभ,पहा तुमचे आजचे राशिभविष्य !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-04T00:51:49",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-4-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135512033.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "9004c5046fb9",
+            "id": "4c0e91da2c29",
             "feed": "lokmat",
-            "title": "उत्तर प्रदेश, पंजाब, गुजरात...; २०२७ मध्ये देशातील 'या' ७ राज्यांमध्ये रंगणार विधानसभेचा महासंग्राम!",
+            "title": "४ वर्षांचा भरला संसार मोडला! ‘बेबी डॉल’ फेम प्रसिद्ध गायिका कनिका कपूरने घेतला नवऱ्यापासून विभक्त होण्याचा निर्णय",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-04T08:59:00",
+            "url": "https://www.lokmat.com/filmy/bollywood/kanika-kapoor-confirm-separation-from-businessman-gautam-hathiramani-after-4-years-of-marriage-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanika-kapoor-announce-sepration_2026111814969.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3ff2daaacf6f",
+            "feed": "lokmat",
+            "title": "मतदार नोंदणीसाठीच्या फॉर्म ६ बाबत निवडणूक आयोगाचे नवे स्पष्टीकरण; खोटी माहिती दिल्यास कायदेशीर कारवाईचा इशारा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-11-04T00:00:40",
-            "url": "https://www.lokmat.com/national/indias-2027-election-calendar-assembly-polls-in-seven-states-presidential-election-also-scheduled-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indias-2027-election-calendar-3_2026111814923.jpg",
+            "published": "2026-11-04T08:55:46",
+            "url": "https://www.lokmat.com/national/election-commissions-new-clarification-regarding-form-6-for-voter-registration-warning-of-legal-action-if-false-information-is-given-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ec-allays-fears-previously-enrolled-voters-can-submit_2026111814961.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e893e9af557f",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 4 November 2026: बुधादित्य योग, मालव्य राजयोग, त्रिग्रह योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "id": "5a54321223e1",
+            "feed": "lokmat",
+            "title": "दिवाळी खरेदीसाठी बाजारपेठ सजली; आकाशकंदील, पणत्या विक्रीसाठी दाखल, लगबग सुरू",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-03T23:19:33",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-4-november-2026-in-marathi-budhaditya-yog-malavya-yog-and-shubha-muhurta/articleshow/135507706.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "33cc19f4062e",
-            "feed": "esakal",
-            "title": "समोरासमोर येण्याआधीच सापाला मुंगसाचा वास येतो का?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-03T22:39:10",
-            "url": "https://www.esakal.com/ampstories/web-story/can-snakes-smell-mongooses-before-they-come-face-to-face-how-snakes-detect-mongoose-presence-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-03/i6iw5mr3/12.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        }
-    ],
-    "world": [
-        {
-            "id": "2f3cbf652737",
-            "feed": "esakal",
-            "title": "Israel-Iran War: नेतन्याहू यांचा मोठा प्लॅन लीक! इराणला उद्ध्वस्त करण्याचा डाव? चार लष्करी अधिकाऱ्यांच्या खिशात...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-03T20:20:49",
-            "url": "https://www.esakal.com/global/israel-iran-pager-attack-2-secret-plan-mossad-target-iranian-generals-netanyahu-details-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-03/xp8r68fs/Latest-Marathi-Breaking-News-2026-11-03T201902.338.jpg",
+            "published": "2026-11-04T08:48:14",
+            "url": "https://www.lokmat.com/goa/market-decorated-for-diwali-shopping-2026-akash-kandil-panti-for-sale-huge-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pantya-2_2026101812647.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "2d23f56e5e81",
+            "id": "a6e0ff5db46c",
+            "feed": "esakal",
+            "title": "Satej Patil यांना रोखण्यासाठी महायुतीची नवी खेळी? गोकुळमध्ये ४ शासकीय सदस्यांची नियुक्ती होणार?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-04T08:42:45",
+            "url": "https://www.esakal.com/videos/for-gokul-president-new-move-by-the-mahayuti-to-stop-satej-patil-akp99",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/g39whyff/mqdefault.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "4ab322632281",
             "feed": "lokmat",
-            "title": "Nishi Gupta : वडील चालवतात पान टपरी, लेक झाली जज; बहिणीच्या पुस्तकांमधून केला अभ्यास, मिळवलं यश",
+            "title": "आप काढणार महागाईमुक्ती यात्रा; राज्यात २६ नोव्हेंबर ते १९ डिसेंबरदरम्यान आयोजन",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-03T18:55:58",
-            "url": "https://www.lokmat.com/sakhi/inspirational/success-story-of-up-pcs-j-2022-topper-nishi-gupta-betel-sellers-daughter-who-became-judge-she-studied-her-elder-sister-books-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nishi-gupta_2026111814836.jpeg",
+            "published": "2026-11-04T08:42:42",
+            "url": "https://www.lokmat.com/goa/goa-assembly-election-2027-aap-to-take-out-inflation-free-yatra-in-goa-to-be-held-in-the-state-from-november-26-to-december-19-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/arvind-kejriwal-goa-pc-news_2026081769896.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
-        },
+            "category_reason": "url"
+        }
+    ],
+    "world": [
         {
-            "id": "225d491e7d5f",
-            "feed": "maharashtratimes",
-            "title": "जगातील 99 देशांमध्ये 'Zero-Click' स्पायवेअरचा हायअलर्ट, मोबाईल नंबरवरून थेट हॅकिंग, ॲपलने जारी केला सुरक्षेचा इशारा",
+            "id": "6527eb57adad",
+            "feed": "esakal",
+            "title": "Suhas Subramanyam: कोण आहेत भारतीय वंशाचे सुहास सुब्रमण्यम? अमेरिकेत डंका! ट्रम्प यांच्या पक्षाच्या उमेदवाराला चारली धूळ!",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-03T17:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/zero-click-spyware-threats-spark-global-alert-across-99-nations/articleshow/135491285.cms",
-            "image": "",
+            "published": "2026-11-04T08:46:12",
+            "url": "https://www.esakal.com/global/indian-origin-suhas-subramanyam-wins-us-house-election-defeats-donald-trump-republican-candidate-virginia-10th-district-srk94",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/275rlbsh/Indian-origin-politician-Suhas-Subramanyam-wins-the-US-House-of-Representatives-election-from-Virginias-10th-Congressional-District-defeating-Republican-candidate-Dave-Beckwith-1.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "6bd98d12b72c",
+            "feed": "lokmat",
+            "title": "अमेरिकेत निकाल येण्यास सुरुवात झाली! डेमोक्रॅट्स ८७ जागा जिंकले; ट्रम्प यांचा पक्ष एवढ्या फरकाने पिछाडीवर पडू लागला...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-04T08:25:52",
+            "url": "https://www.lokmat.com/international/us-midterm-election-results-2026-the-results-have-started-coming-in-in-america-democrats-are-in-a-strong-position-trumps-party-is-falling-behind-by-such-a-margin-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-midterm-election-results-2026-america-donald-trump_2026111814954.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ee3d4e236102",
+            "feed": "lokmat",
+            "title": "ट्रम्प यांच्या पक्षाला मोठा धक्का! \"आम्ही हरलो तर अमेरिका संपेल\", अमेरिकन मध्यावधी निवडणुकीत राष्ट्राध्यक्षांचा संताप",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-04T07:51:37",
+            "url": "https://www.lokmat.com/international/big-blow-to-trumps-party-if-we-lose-america-will-end-the-presidents-anger-in-the-american-midterm-elections-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-mid-term_2026111814948.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2f7858f5c805",
+            "feed": "esakal",
+            "title": "US Midterm Elections 2026 : अमेरिकेत मध्यावधी निवडणुकीत ट्रम्प यांना मोठा धक्का? डेमोक्रॅट्सच्या विजयाने सत्तासमीकरण बदलण्याची शक्यता",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-04T07:51:20",
+            "url": "https://www.esakal.com/global/us-midterm-elections-2026-results-trump-democrats-congress-senate-house-jon-ossoff-georgia-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/oyeu2uvx/US-Midterm-Election-Donald-Trump.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1b88b2e38cb9",
+            "feed": "lokmat",
+            "title": "अग्रलेख: शेतकरी की राजकारणी, जिल्हा बँका नेमक्या कोणाच्या?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-04T07:50:02",
+            "url": "https://www.lokmat.com/editorial/are-they-for-the-economic-development-of-farmers-or-for-the-political-interests-of-leaders-who-are-the-district-central-cooperative-banks-for-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-district-bank-election_2026111814946.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "c20c10bcb9a8",
-            "feed": "maharashtratimes",
-            "title": "Nepal Helicopter Crash : नेपाळमध्ये दोन हेलिकॉप्टर एकमेकांवर आदळली, भारतीय नागरिकाचा करुण अंत, हेलिपॅडवर उतरताना रोटर ब्लेड्स आदळल्या",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-11-03T11:13:20",
-            "url": "https://maharashtratimes.com/international/international-news/indian-killed-in-mid-air-nepal-helicopter-crash-in-solukhumbu/articleshow/135483879.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "0c4057e2e0e8",
-            "feed": "maharashtratimes",
-            "title": "Greenacres Plane Crash : सहवैमानिक तरुणीचा बॉयफ्रेण्डला मेसेज, विमान कोसळून आगीच्या ज्वाळा, शेवटच्या चॅटमध्ये अपघाताचं कारण समोर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-11-03T10:46:50",
-            "url": "https://maharashtratimes.com/international/international-news/bahamas-bound-lear-jet-60-crash-in-greenacres-florida-co-pilot-last-text-to-boyfriend/articleshow/135482409.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "ca47e7956058",
+            "id": "4050935e656f",
             "feed": "esakal",
-            "title": "Vaibhav Sooryavanshi ला फक्त १५ व्या वर्षी उपकर्णधार करणे योग्य आहे? सचिन तेंडुलकरने स्पष्ट शब्दात दिलं उत्तर, 'खूपच घाई...'",
+            "title": "IND vs NZ 1st ODI Live : अर्शदीप सिंगशी जो नडला, त्याला त्याने...! न्यूझीलंडच्या फलंदाजांची दैना, भारताचे वर्चस्व Video Viral",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-11-03T22:40:35",
-            "url": "https://www.esakal.com/krida/cricket/sachin-tendulkar-urges-slow-approach-for-vaibhav-sooryavanshi-captaincy-role-duleep-trophy-praises-joe-root-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-03/l8liu7un/Sachin-Tendulkar-Comments-on-Vaibhav-Sooryavanshi’s-Career-1.jpg",
+            "published": "2026-11-04T08:35:23",
+            "url": "https://www.esakal.com/krida/cricket/nz-vs-ind-1st-odi-arshdeep-singh-strikes-twice-will-young-henry-nicholls-dismissed-watch-video-marathi-cricket-news-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-04/w4xuwrsd/Arshdeep-Singh",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f3b214b2328c",
-            "feed": "maharashtratimes",
-            "title": "IPL 2027 : लखनौ सुपर जायंट्सचे वर्ल्ड कप विजेत्या खेळाडूसाठी जोरदार प्रयत्न! मुंबईच्या फलंदाजाने व्हीडिओद्वारे चर्चा संपवली, नक्की काय?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-11-03T22:17:28",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ipl-2027-mi-mumbai-indians-batter-suryakumar-yadav-posts-batting-practice-video-ahead-of-retention-of-20th-season/articleshow/135506123.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "141a04c3e785",
+            "id": "d2f3ace03755",
             "feed": "lokmat",
-            "title": "टीम इंडियासाठी गूड न्यूज! विकेटटेकर गोलंदाज झाला पूर्णपणे फीट, लवकरच न्यूझीलंड दौऱ्यासाठी होणार रवाना",
+            "title": "IND vs NZ : वनडेआधी रग्बी थीमची रंगत! 'रो-को'ची खास फ्रेम सोशल मीडियावर व्हायरल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-03T20:46:19",
-            "url": "https://www.lokmat.com/cricket/news/india-tour-of-new-zealand-indian-fast-bowler-prasidh-krishna-fitness-update-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/team-india-10_2026111814878.jpg",
+            "published": "2026-11-04T08:26:51",
+            "url": "https://www.lokmat.com/cricket/news/india-vs-new-zealand-1st-odi-virat-kohli-and-rohit-sharma-with-rugby-jersey-of-blackcaps-pics-goes-viral-with-shubman-gill-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-1st-odi-virat-kohli-rohit-sharma-rugby-jersey-of-blackcaps-m-_2026111814952.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4de5af05a491",
+            "feed": "lokmat",
+            "title": "IND vs NZ 1st ODI Live Streaming: रोहित-विराट पुन्हा मैदानात उतरणार! कधी, कुठे अन् कसा पाहता येणार वनडेचा थरार?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-11-04T08:23:45",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-1st-odi-live-streaming-preview-squads-where-to-watch-and-everything-you-need-to-know-as-rohit-sharma-and-virat-kohli-return-to-action-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-1st-odi-live-streaming-m-_2026111814780.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "f7fa68cd6f0e",
-            "feed": "maharashtratimes",
-            "title": "भारतात मद्याची मागणी वाढली! व्हिस्कीच्या आयातीत 1000% वाढ, कस्टम विभागाच्या हस्तक्षेपाने मद्य उद्योगात खळबळ",
+            "id": "7f5ae28946c1",
+            "feed": "lokmat",
+            "title": "8th Pay Commission: वेतन-पेन्शन वाढण्यासाठी राहिले फक्त ६ महिने? फिटमेंट फॅक्टर, DA मर्जर ते OPS पर्यंत, पाहा ५ महत्त्वाच्या घडामोडी",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-11-03T22:57:37",
-            "url": "https://maharashtratimes.com/business/business-news/india-uk-free-trade-agreement-whisky-import-raised-by-1000/articleshow/135508111.cms",
-            "image": "",
+            "published": "2026-11-04T08:59:45",
+            "url": "https://www.lokmat.com/photos/business/8th-pay-commission-only-6-months-left-for-salary-pension-hike-from-fitment-factor-da-merger-to-ops-see-5-important-developments-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/8th-pay-implemation-new-1_2025101572510.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "326a24dfb76e",
+            "id": "8863caad00be",
             "feed": "lokmat",
-            "title": "गावस्तरावर कृषी अवजारे बँक स्थापनेसाठी 60 टक्के अनुदान मिळणार, कमी खर्चात फायदेशीर व्यवसाय करा!",
+            "title": "जिओने दिवाळीपूर्वी धमाका केला...! कॉलिंग प्लॅन्स बाजारात; १४७ रुपयांपासून अनलिमिटेड ..., वर्षाचेही रिचार्ज मारता येणार...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-03T20:35:01",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/60-percent-subsidy-will-be-provided-for-setting-up-agricultural-implement-banks-at-village-level-application-on-pokra-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/avjare_2026111814858.jpeg",
+            "published": "2026-11-04T08:59:43",
+            "url": "https://www.lokmat.com/tech/reliance-jio-voice-only-plans-jios-explosion-before-diwali-calling-plans-in-the-market-unlimited-from-rs-147-you-can-also-recharge-for-a-year-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jio-trai-mandatory-only-calling-plans_2026111814971.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "bda280c9b26f",
+            "id": "2ded8afae403",
             "feed": "lokmat",
-            "title": "आनंंदाची बातमी : धनत्रयोदशी-दिवाळीपूर्वी सोनं स्वस्त! २२ कॅरेट सोन्याचा भाव १.२७ लाख, असे आहेत महाराष्ट्रासह प्रमुख शहरांतील दर",
+            "title": "हवामानात बदल, उत्तरेकडून कोरडे वारे वाहण्यास सुरुवात; वाचा राज्यात कधी सुरु होणार थंडी?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-11-03T20:11:41",
-            "url": "https://www.lokmat.com/business/news/gold-is-cheaper-before-dhanteras-diwali-mumbai-maharashtra-rates-in-major-cities-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gold-price-1-sfffg_2026111814860.jpg",
+            "published": "2026-11-04T08:44:40",
+            "url": "https://www.lokmat.com/agriculture/weather/weather-changes-dry-winds-start-blowing-from-the-north-read-when-will-cold-weather-start-in-the-state-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tahndi-nov_2026111814963.jpeg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
