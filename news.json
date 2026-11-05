@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "05-11-2026 | 12:34 AM IST",
+    "lastUpdated": "05-11-2026 | 06:07 AM IST",
     "maharashtra": [
+        {
+            "id": "1bc989b2783d",
+            "feed": "lokmat",
+            "title": "बांधकामांमुळे होणारे ध्वनिप्रदूषण रोखणे हे महापालिकेचे कर्तव्यच! मुंबई महापालिकेला सुनावले उच्च न्यायालयाने खडे बोल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-05T05:58:24",
+            "url": "https://www.lokmat.com/mumbai/it-is-the-duty-of-the-municipal-corporation-to-prevent-noise-pollution-caused-by-construction-projects-the-high-court-has-given-a-stern-message-to-the-mumbai-municipal-corporation-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bmc-bombay-high-court_2026111815627.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "68e2d401d136",
             "feed": "lokmat",
@@ -64,25 +80,73 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "2939170c195b",
-            "feed": "esakal",
-            "title": "Solapur Crime: वयोवृद्ध दाम्पत्य पोर्चमध्ये झोपले अन् चोरट्यांनी डाव साधला! पोखरापूरमध्ये ४.२७ लाखांचा ऐवज लंपास",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-04T22:36:14",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/mohol-theft-news-thieves-steal-gold-jewellery-and-cash-worth-427-lakh-from-elderly-couples-house-in-pokharapur-village-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-04/yxtpo5da/sudhir-jadhav-satara-24.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "india": [
+        {
+            "id": "bde72e626477",
+            "feed": "maharashtratimes",
+            "title": "Realme चा दिवाळी धमाका; नवीन स्मार्टफोन खरेदीवर प्रीमियम वायरलेस इयरबड्स मिळवा फ्री",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-05T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/realme-real-wali-diwali-sale-2026-grab-free-buds-and-wireless-neckbands-with-p4-series-smartphones/articleshow/135535544.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3d7cfe15aa51",
+            "feed": "lokmat",
+            "title": "\"लोकसंख्येच्या नियंत्रणासाठी दोन अपत्यांची अट कालबाह्य\"; सर्वोच्च न्यायालय, महाराष्ट्रातील प्रकरणामुळे मुद्दा ऐरणीवर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-11-05T05:47:36",
+            "url": "https://www.lokmat.com/national/two-child-rule-for-population-control-is-outdated-supreme-court-issue-on-the-agenda-due-to-maharashtra-case-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supreme-court-on-two-child-policy-for-representative_2026111815625.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7a854fabc89f",
+            "feed": "maharashtratimes",
+            "title": "Happy Vasubaras 2026: वसुबारसच्या हार्दिक शुभेच्छा! प्रियजनांना द्या मराठी शुभेच्छा! WhatsApp, Facebook माध्यमातून पाठवा संदेश",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-05T05:29:00",
+            "url": "https://maharashtratimes.com/astro/festival/vasubaras-wishes-in-marathi-happy-govatsa-dwadashi-2026-shubhechha-messages/articleshow/135550684.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "3d07ddeb8a27",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 5 नोव्हेंबर 2026: मूलांक 5 कौतुकाचे योग! मूलांक 7 समस्येवर सल्ला लाभदायक! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-05T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-5-november-2026-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135538236.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "8e9ae81e2751",
             "feed": "lokmat",
@@ -96,70 +160,6 @@
             "published": "2026-11-04T23:57:13",
             "url": "https://www.lokmat.com/sakhi/social-viral/can-landlord-charge-interest-on-late-rent-payment-late-rent-payment-rules-a648/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-11-04-at-6.01.34-pm_2026111815622.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2d5455367f89",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 5 नोव्हेंबर 2026 : दिवाळीचा पहिला दिवस 'या' राशींसाठी आणणार गुडलक,पहा तुमचे आजचे राशिभविष्य काय सांगते !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-04T23:32:35",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-5-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135548682.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "aed0da0c2a24",
-            "feed": "lokmat",
-            "title": "उत्तराखंडमध्ये भीषण अपघात, कार आणि कंटेनरमध्ये जोरदार धडक; चालकासह ४ जणांचा मृत्यू, ६ वर्षांचा चिमुरडा सुखरूप",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-11-04T22:34:51",
-            "url": "https://www.lokmat.com/national/dehradun-horrific-accident-four-killed-as-car-collides-head-on-with-container-6-year-old-boy-miraculously-survives-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/accident-5_2026111815614.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "41bde0bd07f0",
-            "feed": "esakal",
-            "title": "Donald Trump: डोनाल्ड ट्रम्प यांच्या पराभवाने भारताला किती फायदा होणार? टॅरिफ, ट्रेड डील आणि रशियाशी संबंधित निर्बंधांवर काय परिणाम होईल?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-04T22:25:24",
-            "url": "https://www.esakal.com/desh/us-midterm-elections-trump-loss-impact-on-india-trade-deals-tariffs-russian-oil-h1b-visa-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-04/8v4eooqw/Latest-Marathi-Breaking-News-2026-11-04T222240.999.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7104fd9b9616",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 5 November 2026: रमा एकादशी, गोवत्स द्वादशी, वसूबारस! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-04T22:09:12",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-5-november-2026-in-marathi-rama-ekadashi-vasubaras-and-shubha-muhurta/articleshow/135543606.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
