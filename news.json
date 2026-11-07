@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "08-11-2026 | 12:41 AM IST",
+    "lastUpdated": "08-11-2026 | 04:45 AM IST",
     "maharashtra": [
         {
             "id": "e8e12d6a3658",
@@ -84,6 +84,38 @@
     ],
     "india": [
         {
+            "id": "b93c44ef66a0",
+            "feed": "lokmat",
+            "title": "हिवाळ्यात मनी प्लांटचे रोप कोमजले- देठचं उरले ? कुंडीत घाला 'ही' सालं- आठवड्याभरात रोपाला येतील हिरवीगार पाने-होईल टवटवीत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-08T01:00:02",
+            "url": "https://www.lokmat.com/sakhi/gardening/how-to-revive-a-dying-money-plant-during-winter-care-tips-for-indoor-money-plant-at-home-how-to-make-money-plant-leaves-green-and-healthy-a1011/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-to-revive-a-dying-money-plant-during-winter_2026111817678.jpeg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "fce89bb34476",
+            "feed": "esakal",
+            "title": "केसांच्या समस्यांवर फायदेशीर 'रोझमेरी वॉटर' बनवा घरच्या घरी!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-08T00:56:36",
+            "url": "https://www.esakal.com/ampstories/web-story/rosemary-water-recipe-diy-home-benefits-hair-growth-problem-scalp-health-best-herbal-remedy-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-07/c0kay2ym/Homemade-Rosemary-Water-10.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
             "id": "2c597d8697bc",
             "feed": "maharashtratimes",
             "title": "आजचे राशिभविष्य 8 नोव्हेंबर 2026 : दिवाळी लक्ष्मीपूजेच्या शुभ पर्वात 'धनलक्ष्मी योगाचा' या राशींना लाभ! पहा तुमचे आजचे राशिभविष्य काय सांगते !",
@@ -128,38 +160,6 @@
             "published": "2026-11-07T23:57:07",
             "url": "https://www.esakal.com/ampstories/web-story/horoscope-next-79-days-could-be-lucky-for-these-5-zodiac-signs-asb02",
             "image": "https://cf-images.assettype.com/esakal/2026-10-02/pebm1vlg/Akshaya-Tritiya-zodiac-signs-Lucky-rashi-4.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "efb1ddf8b88f",
-            "feed": "esakal",
-            "title": "पाणी जितके जास्त तितके चांगले? हा समज आरोग्यासाठी ठरू शकतो धोकादायक!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-07T23:53:59",
-            "url": "https://www.esakal.com/ampstories/web-story/drinking-too-much-water-health-risks-water-intoxication-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-10-29/7iik9v7e/5.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "aadbb55dcf72",
-            "feed": "esakal",
-            "title": "पूर्वी आवडणाऱ्या गोष्टी आता नकोशा वाटतात? मानसिक आरोग्याचे ‘हे’ संकेत दुर्लक्षित करू नका!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-07T23:46:23",
-            "url": "https://www.esakal.com/ampstories/web-story/5-warning-signs-of-poor-mental-health-loss-of-interest-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2025-06-19/wpnlb5w8/mental-health",
             "isBreaking": false,
             "category_reason": "default"
         }
