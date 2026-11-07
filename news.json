@@ -1,185 +1,201 @@
 {
-    "lastUpdated": "07-11-2026 | 01:29 PM IST",
+    "lastUpdated": "07-11-2026 | 08:14 PM IST",
     "maharashtra": [
         {
-            "id": "595416edd9a0",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update:  एकनाथ शिंदे जालन्यातील शेतकऱ्यांसोबत दिवाळी साजरी करणार",
+            "id": "1309e67a7d3b",
+            "feed": "maharashtratimes",
+            "title": "Crime News: रोहित पठारे हत्याकांडात आणखी ७ जण जेरबंद; चौकात नेऊन मारहाण अन् पाणी मागितल्यावर तोंडावर लघवी केल्याचा संतापजनक आरोप",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-07T13:22:11",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-07-november-2026-diwali-festival-sugarcane-price-raju-shetti-farmers-protest-gokul-chairman-election-government-appointed-director-decision-sharad-pawar-health-weather-update-voter-list-congress-against-chief-election-commissioner-gyanesh-kumar-rahul-gandhi-pm-narendra-modi-amit-shah-cm-devendra-fadnavis-tukaram-mundhe-fda-us-midterm-elections-mpsc-exam-gold-rate-pune-mumbai-traffic-update",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-05/qglr7h4m/Latest-Marathi-News-Live-Update",
+            "published": "2026-11-07T20:09:25",
+            "url": "https://maharashtratimes.com/maharashtra/aurangabad/rohit-pathare-murder-case-10-arrested-investigation-into-inhuman-acts-underway/articleshow/135639538.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "0a94dbc49910",
+            "id": "9ab244b6eeff",
+            "feed": "maharashtratimes",
+            "title": "'काम नसेल तर काढून टाका!' उदय सामंतांकडून चांगलीच कानउघाडणी | Uday Samant Angry",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-07T20:08:31",
+            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/uday-samant-lashed-out-at-shiv-sena-office-bearers-reprimanding-them-sternly-right-in-the-middle-of-an-event-/videoshow/135639756.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8400c840a9af",
             "feed": "lokmat",
-            "title": "चिमुकल्यांच्या न्यायाला 'घर'; ३ वर्षांनंतर पॉक्सो न्यायालयाची साकारली इमारत",
+            "title": "नाव 'रामलिंग', वजन २५० किलो अन् ५ जिल्ह्यांत दरारा! नर वाघाने व्यापले ४०० किमीचे साम्राज्य",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-07T13:20:25",
-            "url": "https://www.lokmat.com/pune/will-the-three-year-wait-finally-end-the-pocso-court-in-shivajinagar-will-be-in-the-courts-custody-by-the-end-of-november-a906-c1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-shivajinagar000_2026111817282.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d500ec509d57",
-            "feed": "esakal",
-            "title": "बीडीडी रहिवाशांचे हक्काच्या घराचे स्वप्न पूर्ण! मूळ मुंबईकरांना शहरातच घरे, चावीवाटप कार्यक्रमात मुख्यमंत्र्यांची ग्वाही",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-07T13:19:47",
-            "url": "https://www.esakal.com/mumbai/cm-devendra-fadnavis-flats-allotted-to-557-residents-in-bdd-chawl-redevelopment-project-mumbai-news-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/olfd64wz/BDD-Chawl-Redevelopment.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "feb0ba7ac029",
-            "feed": "esakal",
-            "title": "Market Slowdown : दिवाळी आली, बाजारपेठेतील गर्दी हरवली;सोनई बाजारपेठेतील खरेदीत ४० टक्के घट; दुष्काळी परिस्थितीचा परिणाम",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-07T13:10:00",
-            "url": "https://www.esakal.com/ahmednagar/sonai-diwali-shopping-drought-crop-loss-market-slowdown-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/61jjytq3/.jpg",
+            "published": "2026-11-07T19:53:45",
+            "url": "https://www.lokmat.com/beed/ramling-tiger-250-kg-weight-400-km-territory-empire-across-5-districts-meet-ramling-the-wanderer-tiger-roaming-across-maharashtras-balaghat-ranges-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramling-tiger-beed-balaghat-forest_2026111817645.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "6b4bcf2506fd",
+            "id": "5a6f1b41b5fd",
             "feed": "lokmat",
-            "title": "पुराव्यांत गंभीर त्रुटी! नंदुरबार सामूहिक अत्याचार प्रकरणात खंडपीठात सर्व आरोपी निर्दोष मुक्त",
+            "title": "सातारा जिल्हा बँक अध्यक्षपदाबाबत ‘वेट अॅंड वॉच’ : जयकुमार गोरे",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-07T13:03:00",
-            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/nandurbar-gang-rape-case-bombay-high-court-acquits-accused-citing-flaws-in-medical-forensic-evidence-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/major-relief-in-alleged-pocso-case_2026111817267.jpg",
+            "published": "2026-11-07T19:38:08",
+            "url": "https://www.lokmat.com/satara/wait-and-watch-regarding-the-post-of-satara-district-bank-chairman-says-jayakumar-gore-a746/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/satara-bank-gore-news-9_2026111817641.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "eaa5efebc07e",
+            "feed": "lokmat",
+            "title": "FIR झाला म्हणून सरकारी नोकरी नाकारता येणार नाही! महावितरणचा निर्णय 'अविवेकी', हायकोर्टचा दणका",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-07T19:37:00",
+            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/criminal-case-registration-doesnt-disqualify-candidates-bombay-hc-quashes-msedcl-order-cancelling-vidyut-sahayaks-candidature-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/criminal-case-registration-doesnt-disqualify-candidates_2026111817639.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "0d8f038a6e33",
-            "feed": "esakal",
-            "title": "'रामायण' मध्ये रावणाच्या भूमिकेला कुणी दिलाय आवाज? लोकप्रिय मराठी अभिनेत्याने केलीये यशच्या आवाजाशी बरोबरी",
+            "id": "92e8b06184e2",
+            "feed": "lokmat",
+            "title": "डझनभर लिंबू आणले तर लवकर सुकतात, पाहा १० ट्रिक्स - लिंबू राहतील ताजे रसरशीत...",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-07T13:24:42",
-            "url": "https://www.esakal.com/premier/ramayana-movie-ravana-hindi-voice-artist-popular-marathi-actor-dubbing-for-yash-role-behind-the-scenes-voice-casting-details-psn14",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/71ut35vi/voice-of-ravana-.jpg",
+            "published": "2026-11-07T20:05:02",
+            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-store-lemons-in-fridge-for-a-long-time-keep-lemons-fresh-longer-best-way-to-keep-lemons-fresh-in-winter-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/store-lemons-for-a-long-time_2026111817597.jpeg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "16b7841d526d",
+            "id": "b84c6d736793",
             "feed": "maharashtratimes",
-            "title": "Law Admission Age Limit: कोणत्याही वयात घेता येणार कायद्याचे शिक्षण! बार कौन्सिलकडून वयोमर्यादेची अट रद्द; सर्वोच्च न्यायालयाचा मोठा निर्णय",
+            "title": "Diwali Lakshmi Pujan Wishes In Marathi : लक्ष्मीपुजनाला प्रियजनांना पाठवा या खास मराठमोळ्या शुभेच्छा व मेसेज, हटके चारोळ्या वाचूनच लक्ष्मी माता करेल पैशांची बरसात, स्टेटसवर ठेवा युनिक Whatsapp, Instagram, Facebook संदेश, SMS",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-07T13:23:55",
-            "url": "https://maharashtratimes.com/career/career-news/law-education-now-available-at-any-age-historic-supreme-court-ruling-after-bar-council-removes-age-limit/articleshow/135630412.cms",
+            "published": "2026-11-07T20:00:00",
+            "url": "https://maharashtratimes.com/lifestyle-news/relationships/lakshmi-pujan-2026-wishes-laxmi-pooja-happy-diwali-messages-status-images-quotes-in-marathi-for-facebook-whatsapp-instagram-diwalichya-shubhecha/articleshow/135633506.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "69ae948f6f2a",
-            "feed": "lokmat",
-            "title": "Narak Chaturdashi 2026: नरक चतुर्दशीला काली चौदस का म्हणतात? यादिवशी 'या' त्रिदेवांची उपासना का करतात?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-07T13:19:12",
-            "url": "https://www.lokmat.com/bhakti/narak-chaturdashi-2026-why-is-narak-chaturdashi-called-kali-chaudas-why-is-mahakali-hanuman-and-shani-dev-worshiped-on-yadivasi-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/narak-chaturdashi-2026-puja-1_2026111817283.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "47db51355246",
-            "feed": "lokmat",
-            "title": "Ramayana BO Collection: दोन दिवसांत २०० कोटी पार! 'रामायण'ची बॉक्स ऑफिसवरील कमाई पाहून सर्वजण थक्क",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-07T13:10:12",
-            "url": "https://www.lokmat.com/filmy/bollywood/ramayana-movie-box-office-collection-crosses-200-crores-in-two-days-ranbir-kapoor-sai-pallavi-yash-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramayana-movie-box-office-collection-crosses-200-crores-in-two-days-ranbir-kapoor-sai-pallavi-yash_2026111817276.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "095c0b10f4f5",
+            "id": "df10cc9c04a5",
             "feed": "lokmat",
-            "title": "पत्नीचे गावातील तरुणाशी जुळले सूत, पतीला कळताच त्याला रस्त्यातून हटवले; बैलगाडीवर मृतदेह ठेवला अन्...",
+            "title": "Happy Diwali 2026 Wishes: दिवाळी आणि लक्ष्मीपूजनाच्या हार्दिक शुभेच्छा, मराठी Messages, WhatsApp Status, Images नातेवाईक आणि मित्रपरिवारासह शेअर करत द्या दीपावलीच्या शुभेच्छा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-07T13:09:01",
-            "url": "https://www.lokmat.com/crime/wife-had-an-affair-with-a-young-man-from-the-village-husband-removed-him-from-the-road-as-soon-as-he-found-out-body-was-placed-on-a-bullock-cart-and-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chandu-ajmira_2026111817274.jpg",
+            "published": "2026-11-07T19:59:53",
+            "url": "https://www.lokmat.com/photos/bhakti/happy-diwali-2026-wishes-in-marathi-share-diwalichya-hardik-shubhechha-images-messages-greetings-whatsapp-status-to-wish-happy-deepavali-laxmi-pujan-and-celebrate-festival-of-lights-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/happy-diwali-laxmi-pujan-wishes-in-marathi_2026111817629.png",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "674cc4bfcd6a",
+            "feed": "esakal",
+            "title": "यंदाची दिवाळीही सीमेवरील जवानांसोबत! पंतप्रधान मोदींनी देशवासीयांना दिल्या खास शुभेच्छा, पाहा VIDEO",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-07T19:49:04",
+            "url": "https://www.esakal.com/desh/pm-modi-diwali-greetings-2026-celebration-with-indian-soldiers-special-video-message-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-07/7xl70lgp/PM-Modi-Diwali-Wishes-2026",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "db4e9fa4e8c9",
+            "feed": "lokmat",
+            "title": "Diwali 2026 : चीज घालून करा खमंग, कुरकुरीत शंकरपाळे! चीज, बटरची मखमली चव - फराळातील मुलांचा आवडता खाऊ...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-07T19:23:35",
+            "url": "https://www.lokmat.com/sakhi/food/cheese-shankarpali-recipe-crispy-cheesy-shankarpali-at-home-cheese-shankarpali-recipe-for-diwali-faral-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cheese-shankarpali-recipe_2026111816786.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "d284fb2b9eb9",
+            "id": "bcda0ef8778a",
             "feed": "lokmat",
-            "title": "बेंजामिन नेतन्याहू यांना धक्का! इस्रायलमध्ये सत्ता स्थापनेसाठी अरब पक्षांचा आयझेनकोट यांना पाठिंबा",
+            "title": "महिलेनं चॅटजीपीटीला विचारलं, पतीला कसं मारायचं? मग सल्ला घेऊन केलं मोठं कांड, ओपनएआय कंपनीविरोधात खटला दाखल",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-11-07T13:03:14",
-            "url": "https://www.lokmat.com/international/shock-to-benjamin-netanyahu-arab-parties-support-eisenkot-to-form-government-in-israel-a571/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/benjamin-netanyahu-israel_2026111817271.jpg",
+            "published": "2026-11-07T19:20:15",
+            "url": "https://www.lokmat.com/international/woman-asked-chatgpt-how-to-kill-her-husband-then-took-advice-and-committed-a-big-scandal-case-filed-against-openai-company-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/chatgpt-1_2026111817627.jpg",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "e64fa9a5db8e",
+            "feed": "esakal",
+            "title": "ट्रम्प यांच्यासोबत दिवाळी साजरी करणारे विशाल गोंडल कोण? हनुमान चालीसाही दिली भेट",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-07T16:16:18",
+            "url": "https://www.esakal.com/global/who-is-vishal-gondal-diwali-with-donald-trump-white-house-hanuman-chalisa-gift-news-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-07/u4trlyfx/Who-Is-Vishal-Gondal",
+            "isBreaking": false,
+            "category_reason": "url"
         },
         {
             "id": "19633de7e9fd",
@@ -198,22 +214,6 @@
             "category_reason": "feed"
         },
         {
-            "id": "cf89196d9fe2",
-            "feed": "lokmat",
-            "title": "निवडणुकीपूर्वीच इराणवर हल्ल्याचा कट? नेतन्याहूंची योजना अमेरिकेने कशी उधळून लावली?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-07T12:01:22",
-            "url": "https://www.lokmat.com/international/a-plot-to-attack-iran-before-the-election-how-did-the-us-foil-netanyahus-plan-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/netyanahu-1_2026111817236.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
             "id": "ea6d73b1f41e",
             "feed": "esakal",
             "title": "Who Is Roman Saini? 21व्या वर्षी AIIMSमधून MBBS, 22व्या वर्षी IAS झाला; दोन वर्षांतच नोकरी सोडली! आज उभी केली हजारो कोटींची कंपनी",
@@ -228,120 +228,104 @@
             "image": "https://cf-images.assettype.com/esakal/2026-11-07/elqnxjjl/Copy-of-Copy-of-banner-2026-11-07T113325.806.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "3dd18209bc6b",
-            "feed": "lokmat",
-            "title": "\"डोनाल्ड ट्रम्प यांना ठार करा...\"; व्हाईट हाऊसबाहेर शस्त्रांसह फिरणाऱ्या व्हेनेझुएलाच्या नागरिकाला अटक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-07T10:14:28",
-            "url": "https://www.lokmat.com/international/kill-donald-trump-venezuelan-citizen-arrested-for-walking-around-with-weapons-outside-the-white-house-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/venezuelan-man-arrested-near-white-house-firearms-trump_2026111817181.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "79de6e6bc079",
-            "feed": "esakal",
-            "title": "IND vs NZ, 2nd ODI: \"तू फक्त तीन मॅच खेळलाय...\", गुरनूर ब्रार-डॅरिल मिचेलमध्ये चालू सामन्यात वाद; Video Viral",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-11-07T13:18:27",
-            "url": "https://www.esakal.com/krida/cricket/gurnoor-brar-daryl-mitchell-sledging-spat-in-ind-vs-nz-2nd-odi-played-only-3-match-viral-video-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/2lmgtnts/Daryl-Mitchell-and-Gurnoor-Brar-In-Heated-Verbal-Clash-New-Zealand-vs-India-2nd-ODI.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "37a2db57f9db",
-            "feed": "lokmat",
-            "title": "IND vs NZ 2nd ODI : चल नीघ...! गुरनूर ब्रार-डॅरिल मिचेलमध्ये जुंपली; गावसकर म्हणाले, याची किंमत मोजावी लागेल",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-11-07T13:17:52",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-nd-odi-come-on-gurnur-brar-daryl-mitchell-clash-gavaskar-said-there-will-be-a-price-to-pay-for-this-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gurnoor-brar-gives-fiery-send-off-to-daryl-mitchell-during-nz-vs-ind-2nd-odi-m_2026111817279.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "831794886042",
+            "id": "e8afe31da00f",
             "feed": "maharashtratimes",
-            "title": "IND vs NZ : शाब्बास वाघांनो! 1994 नंतर पहिल्यांदाच असं घडलं; भारतीय संघाने 32 वर्षांचा रेकॉर्ड मोडत रचला इतिहास",
+            "title": "NZ vs IND : टीम इंडियाची सलग दुसऱ्या विजयासह ऐतिहासिक कामगिरी, न्यूझीलंडला पराभूत करत ऑस्ट्रेलियाचा रेकॉर्ड ब्रेक",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-07T13:17:34",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-bowlers-history-all-out-new-zealand-134-runs-nz-lowest-total-home-vs-india/articleshow/135629435.cms",
+            "published": "2026-11-07T19:36:27",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-team-india-beat-new-zealand-and-broke-australia-most-win-matches-against-new-zealand-in-single-year/articleshow/135639057.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e2a77c4bf8c3",
+            "feed": "esakal",
+            "title": "IND vs NZ: दोन सिक्स अन् रोहित शर्माने मोडीत काढला शाहिद आफ्रिदीचा विक्रम! या खास यादीत 'हिटमॅन' नंबर-१",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-11-07T17:52:17",
+            "url": "https://www.esakal.com/krida/cricket/rohit-sharma-breaks-shahid-afridi-record-for-most-odi-sixes-against-new-zealand-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-07/az56lhd5/Rohit-Sharma-Record-New-Zealand-vs-India-2nd-ODI.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c838d64e008e",
+            "feed": "esakal",
+            "title": "BAN vs WI, Test: १८४ वर ७ बाद... अन् मग तोहीद हृदोयची डबल सेंच्युरी! तिसराच सामना खेळताना बांगलादेशला दिली आघाडी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-11-07T17:07:12",
+            "url": "https://www.esakal.com/krida/cricket/towhid-hridoy-smashes-historic-test-double-hundred-give-bangladesh-lead-vs-west-indies-2nd-test-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-07/3jcbpz9o/Towhid-Hridoy-Double-Century-Bangladesh-vs-West-Indies.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "a21851257a71",
-            "feed": "maharashtratimes",
-            "title": "Inherited Ancestral Property: मुलांना संपत्तीतून बेदखल करण्याचा आई-वडिलांना अधिकार, पण एका प्रकरणात नाकारता नाही येत हक्क, कोर्टाही मुलांच्या बाजूने देईल निकाल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-11-07T13:21:54",
-            "url": "https://maharashtratimes.com/business/real-estate-news/ancestral-property-rights-parents-cant-evict-kids-from-inheritance-what-law-says/articleshow/135629551.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "429436b7a24a",
+            "id": "e0b18f221309",
             "feed": "lokmat",
-            "title": "रब्बी हंगामासाठी पीक विमा योजना अर्ज सुरु; वाचा कोणत्या पिकाला किती रुपये विमा संरक्षण?",
+            "title": "ऊस उत्पादक शेतकऱ्यांना पहिल्याच उचलीत ६४९ कोटींचा फायदा; गेल्या वर्षीपेक्षा टनाला किती रुपये जादा मिळणार?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-07T13:13:44",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/crop-insurance-scheme-application-for-rabi-season-has-started-read-how-much-insurance-cover-is-there-for-which-crop-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rabi-crop-vima-cover_2026111817153.jpeg",
+            "published": "2026-11-07T18:01:39",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/sugarcane-farmers-will-get-a-profit-of-rs-649-crore-in-the-first-harvest-how-much-more-will-they-get-per-ton-than-last-year-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sugaracane-1st-uchal_2026111817555.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "06fd79d75717",
-            "feed": "esakal",
-            "title": "Premium|Diwali Muhurat Trading : दिवाळीत शेअरमध्ये गुंतवणुकीची संधी? गुंतवणूकदारांसाठी महत्त्वाची माहिती",
+            "id": "2d76f4423a03",
+            "feed": "maharashtratimes",
+            "title": "Paraguay Banking Crisis : एका रात्रीत बँक बुडाली, अर्धा देश संकटात; थेट राष्ट्राध्यक्ष नजरकैदेत",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-07T13:07:47",
-            "url": "https://www.esakal.com/premium-article/diwali-muhurat-trading-samvardhana-motherson-share-price-target-rs-187-investment-opportunities-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/7xxqu4k3/Abhi-43.jpg",
+            "published": "2026-11-07T17:59:31",
+            "url": "https://maharashtratimes.com/video/mt-originals/paraguay-president-santiago-pena-impeached-after-ueno-bank-scandal/videoshow/135636833.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "c3b899f6d601",
+            "feed": "lokmat",
+            "title": "सानिया चौधरीने होणाऱ्या नवऱ्याचा फोटो केला शेअर, म्हणाली- “वाढदिवसाला गर्लफ्रेंड म्हणून गेले अन्...”",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-07T17:45:15",
+            "url": "https://www.lokmat.com/filmy/television/saaniya-chaudhari-shares-romantic-engagement-post-says-she-went-into-her-birthday-as-a-girlfriend-and-came-out-with-a-ring-a603/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saaniya-chaudhari-new-post_2026111817565.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
