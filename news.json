@@ -1,170 +1,218 @@
 {
-    "lastUpdated": "07-11-2026 | 08:14 PM IST",
+    "lastUpdated": "08-11-2026 | 12:41 AM IST",
     "maharashtra": [
         {
-            "id": "1309e67a7d3b",
+            "id": "e8e12d6a3658",
+            "feed": "lokmat",
+            "title": "Pune Crime: कोथरूड हादरलं ! सुतारदऱ्यात लाल्या शेठची तलवारीने वार करून हत्या",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-08T00:08:16",
+            "url": "https://www.lokmat.com/pune/pune-crime-27-year-old-man-lalya-sheth-hacked-to-death-with-swords-in-kothruds-sutardara-one-suspect-detained-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pune-kothrud-murder-case_2026111817699.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4727ea774279",
             "feed": "maharashtratimes",
-            "title": "Crime News: रोहित पठारे हत्याकांडात आणखी ७ जण जेरबंद; चौकात नेऊन मारहाण अन् पाणी मागितल्यावर तोंडावर लघवी केल्याचा संतापजनक आरोप",
+            "title": "Latur News: लातूरमध्ये दिवाळीच्या पूर्वसंध्येला शेतकरी कुटुंबांच्या जीवनात आनंदाचा प्रकाश; सावकाराने बळकावलेल्या जमिनी जिल्हाधिकाऱ्यांच्या हस्ते मिळाल्या परत",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-07T20:09:25",
-            "url": "https://maharashtratimes.com/maharashtra/aurangabad/rohit-pathare-murder-case-10-arrested-investigation-into-inhuman-acts-underway/articleshow/135639538.cms",
+            "published": "2026-11-07T23:59:57",
+            "url": "https://maharashtratimes.com/maharashtra/latur/strict-actions-against-illegal-money-lending-in-latur-district-farmers-land-returned-moments-of-joy-for-diwali/articleshow/135644683.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "9ab244b6eeff",
+            "id": "32168df8f9e1",
             "feed": "maharashtratimes",
-            "title": "'काम नसेल तर काढून टाका!' उदय सामंतांकडून चांगलीच कानउघाडणी | Uday Samant Angry",
+            "title": "Kolhapur Gokul: गोकुळ सत्तासंघर्षाला वेगळं वळण; धनंजय महाडिकांचा सतेज पाटलांवर गंभीर आरोप, कोर्टातील प्रतिज्ञापत्राबाबत काय दावा केला?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-07T20:08:31",
-            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/uday-samant-lashed-out-at-shiv-sena-office-bearers-reprimanding-them-sternly-right-in-the-middle-of-an-event-/videoshow/135639756.cms",
+            "published": "2026-11-07T23:28:33",
+            "url": "https://maharashtratimes.com/maharashtra/kolhapur/kolhapur-gokul-dhananjay-mahadik-makes-serious-allegations-against-satej-patil/articleshow/135644018.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "8400c840a9af",
+            "id": "a00aed7fd0c3",
             "feed": "lokmat",
-            "title": "नाव 'रामलिंग', वजन २५० किलो अन् ५ जिल्ह्यांत दरारा! नर वाघाने व्यापले ४०० किमीचे साम्राज्य",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-07T19:53:45",
-            "url": "https://www.lokmat.com/beed/ramling-tiger-250-kg-weight-400-km-territory-empire-across-5-districts-meet-ramling-the-wanderer-tiger-roaming-across-maharashtras-balaghat-ranges-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramling-tiger-beed-balaghat-forest_2026111817645.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "5a6f1b41b5fd",
-            "feed": "lokmat",
-            "title": "सातारा जिल्हा बँक अध्यक्षपदाबाबत ‘वेट अॅंड वॉच’ : जयकुमार गोरे",
+            "title": "चिंता करू नका, आभाळाने साथ सोडली, सरकारने नाही! मुख्यमंत्री फडणवीस यांची लोहारी सावंग्यात शेतकऱ्यांना ग्वाही",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-07T19:38:08",
-            "url": "https://www.lokmat.com/satara/wait-and-watch-regarding-the-post-of-satara-district-bank-chairman-says-jayakumar-gore-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/satara-bank-gore-news-9_2026111817641.jpg",
+            "published": "2026-11-07T23:24:16",
+            "url": "https://www.lokmat.com/nagpur/maharashtra-cm-devendra-fadnavis-announces-5000-diwali-aid-for-15-crore-farmers-promises-loan-waiver-and-electricity-bill-relief-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devendra-fadnavis-20_2026111817694.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "eaa5efebc07e",
-            "feed": "lokmat",
-            "title": "FIR झाला म्हणून सरकारी नोकरी नाकारता येणार नाही! महावितरणचा निर्णय 'अविवेकी', हायकोर्टचा दणका",
+            "id": "91e0238640f8",
+            "feed": "maharashtratimes",
+            "title": "Ration Card : मुख्यमंत्र्यांची मोठी घोषणा; केशरी, पिवळे आणि पांढरे तीनही रेशनकार्ड धारकांना धान्य मिळणार",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-07T19:37:00",
-            "url": "https://www.lokmat.com/chhatrapati-sambhajinagar/criminal-case-registration-doesnt-disqualify-candidates-bombay-hc-quashes-msedcl-order-cancelling-vidyut-sahayaks-candidature-a320/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/criminal-case-registration-doesnt-disqualify-candidates_2026111817639.jpg",
+            "published": "2026-11-07T23:06:10",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/cm-devendra-fadnavis-announced-maharashtra-government-will-give-grain-to-all-ration-card-holders/articleshow/135642946.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "92e8b06184e2",
-            "feed": "lokmat",
-            "title": "डझनभर लिंबू आणले तर लवकर सुकतात, पाहा १० ट्रिक्स - लिंबू राहतील ताजे रसरशीत...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-07T20:05:02",
-            "url": "https://www.lokmat.com/sakhi/photos/food/how-to-store-lemons-in-fridge-for-a-long-time-keep-lemons-fresh-longer-best-way-to-keep-lemons-fresh-in-winter-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/store-lemons-for-a-long-time_2026111817597.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "b84c6d736793",
+            "id": "2c597d8697bc",
             "feed": "maharashtratimes",
-            "title": "Diwali Lakshmi Pujan Wishes In Marathi : लक्ष्मीपुजनाला प्रियजनांना पाठवा या खास मराठमोळ्या शुभेच्छा व मेसेज, हटके चारोळ्या वाचूनच लक्ष्मी माता करेल पैशांची बरसात, स्टेटसवर ठेवा युनिक Whatsapp, Instagram, Facebook संदेश, SMS",
+            "title": "आजचे राशिभविष्य 8 नोव्हेंबर 2026 : दिवाळी लक्ष्मीपूजेच्या शुभ पर्वात 'धनलक्ष्मी योगाचा' या राशींना लाभ! पहा तुमचे आजचे राशिभविष्य काय सांगते !",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-07T20:00:00",
-            "url": "https://maharashtratimes.com/lifestyle-news/relationships/lakshmi-pujan-2026-wishes-laxmi-pooja-happy-diwali-messages-status-images-quotes-in-marathi-for-facebook-whatsapp-instagram-diwalichya-shubhecha/articleshow/135633506.cms",
+            "published": "2026-11-08T00:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-8-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135639322.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "df10cc9c04a5",
-            "feed": "lokmat",
-            "title": "Happy Diwali 2026 Wishes: दिवाळी आणि लक्ष्मीपूजनाच्या हार्दिक शुभेच्छा, मराठी Messages, WhatsApp Status, Images नातेवाईक आणि मित्रपरिवारासह शेअर करत द्या दीपावलीच्या शुभेच्छा",
+            "id": "b0f36d5ec01f",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 8 November 2026: नरक चतुर्दशी, अभ्यंगस्नान, दीपावली, लक्ष्मी पूजन! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-07T19:59:53",
-            "url": "https://www.lokmat.com/photos/bhakti/happy-diwali-2026-wishes-in-marathi-share-diwalichya-hardik-shubhechha-images-messages-greetings-whatsapp-status-to-wish-happy-deepavali-laxmi-pujan-and-celebrate-festival-of-lights-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/happy-diwali-laxmi-pujan-wishes-in-marathi_2026111817629.png",
+            "published": "2026-11-07T23:59:05",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-8-november-2026-in-marathi-diwali-laxmi-pujan-dhan-yog-and-shubha-muhurta/articleshow/135641291.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "674cc4bfcd6a",
+            "id": "4f1f1a6c42ec",
             "feed": "esakal",
-            "title": "यंदाची दिवाळीही सीमेवरील जवानांसोबत! पंतप्रधान मोदींनी देशवासीयांना दिल्या खास शुभेच्छा, पाहा VIDEO",
+            "title": "पुढील 79 दिवसांत चमकणार ‘या’ 5 राशींचे नशीब; धनलाभासह प्रगतीचे संकेत!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-07T19:49:04",
-            "url": "https://www.esakal.com/desh/pm-modi-diwali-greetings-2026-celebration-with-indian-soldiers-special-video-message-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/7xl70lgp/PM-Modi-Diwali-Wishes-2026",
+            "published": "2026-11-07T23:57:07",
+            "url": "https://www.esakal.com/ampstories/web-story/horoscope-next-79-days-could-be-lucky-for-these-5-zodiac-signs-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-02/pebm1vlg/Akshaya-Tritiya-zodiac-signs-Lucky-rashi-4.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "db4e9fa4e8c9",
-            "feed": "lokmat",
-            "title": "Diwali 2026 : चीज घालून करा खमंग, कुरकुरीत शंकरपाळे! चीज, बटरची मखमली चव - फराळातील मुलांचा आवडता खाऊ...",
+            "id": "efb1ddf8b88f",
+            "feed": "esakal",
+            "title": "पाणी जितके जास्त तितके चांगले? हा समज आरोग्यासाठी ठरू शकतो धोकादायक!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-07T19:23:35",
-            "url": "https://www.lokmat.com/sakhi/food/cheese-shankarpali-recipe-crispy-cheesy-shankarpali-at-home-cheese-shankarpali-recipe-for-diwali-faral-a946/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cheese-shankarpali-recipe_2026111816786.jpeg",
+            "published": "2026-11-07T23:53:59",
+            "url": "https://www.esakal.com/ampstories/web-story/drinking-too-much-water-health-risks-water-intoxication-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-29/7iik9v7e/5.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "aadbb55dcf72",
+            "feed": "esakal",
+            "title": "पूर्वी आवडणाऱ्या गोष्टी आता नकोशा वाटतात? मानसिक आरोग्याचे ‘हे’ संकेत दुर्लक्षित करू नका!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-07T23:46:23",
+            "url": "https://www.esakal.com/ampstories/web-story/5-warning-signs-of-poor-mental-health-loss-of-interest-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2025-06-19/wpnlb5w8/mental-health",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "bea91929f0a2",
+            "feed": "esakal",
+            "title": "बांगलादेशात रवींद्रनाथ टागोरांच्या चित्राची विटंबना; काळी शाई फासली, आक्षेपार्ह पोस्टरही लावले",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-07T22:30:50",
+            "url": "https://www.esakal.com/global/tagore-portrait-vandalised-in-bangladesh-khulna-railway-station-offensive-posters-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-07/ovej8n5q/Rabindranath-Tagore",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "e640b8450c34",
+            "feed": "lokmat",
+            "title": "Poland Shooting: पोलंडमधील क्राकोव्ह शहरात एका माथेफिरूकडून अंदाधुंद गोळीबार; ५ जणांचा मृत्यू, अनेकजण जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-07T22:18:20",
+            "url": "https://www.lokmat.com/international/5-killed-over-12-injured-in-mass-shooting-at-polands-krakow-main-square-gunman-shot-by-police-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/poland-krakow-shooting-news-1_2026111817686.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6ef3124dab46",
+            "feed": "lokmat",
+            "title": "PoK मध्ये गृहयुद्धासारखी परिस्थिती! मुझफ्फराबादमध्ये हिंसाचार, पाकिस्तानी रेंजर्सकडून गोळीबार, अश्रूधुराचा वापर; ९ जणांचा मृत्यू",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-07T21:37:00",
+            "url": "https://www.lokmat.com/international/civil-war-like-situation-in-pok-violence-in-muzaffarabad-firing-by-pakistani-rangers-use-of-tear-gas-9-dead-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pok-news-bhd_2026111817680.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "bcda0ef8778a",
             "feed": "lokmat",
@@ -196,138 +244,106 @@
             "image": "https://cf-images.assettype.com/esakal/2026-11-07/u4trlyfx/Who-Is-Vishal-Gondal",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "19633de7e9fd",
-            "feed": "maharashtratimes",
-            "title": "इराणच्या अणु प्रकल्पांची माहिती पुरवा, १८८ कोटी रुपये मिळवा; अमेरिकेकडून सर्वांसाठी खुली ऑफर",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-11-07T12:24:10",
-            "url": "https://maharashtratimes.com/international/international-news/us-offer-20-million-dollar-reward-for-giving-information-related-to-irans-nuclear-program/articleshow/135628923.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ea6d73b1f41e",
-            "feed": "esakal",
-            "title": "Who Is Roman Saini? 21व्या वर्षी AIIMSमधून MBBS, 22व्या वर्षी IAS झाला; दोन वर्षांतच नोकरी सोडली! आज उभी केली हजारो कोटींची कंपनी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-07T11:34:03",
-            "url": "https://www.esakal.com/sakal-money/investment/who-is-roman-saini-success-story-aiims-mbbs-at-21-upsc-air-18-ias-officer-at-22-resignation-unacademy-co-founder-edtech-company-journey-valuation-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/elqnxjjl/Copy-of-Copy-of-banner-2026-11-07T113325.806.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "e8afe31da00f",
+            "id": "334c3495c8ac",
             "feed": "maharashtratimes",
-            "title": "NZ vs IND : टीम इंडियाची सलग दुसऱ्या विजयासह ऐतिहासिक कामगिरी, न्यूझीलंडला पराभूत करत ऑस्ट्रेलियाचा रेकॉर्ड ब्रेक",
+            "title": "IND vs PAK : रविवारी टीम इंडिया-पाकिस्तान महामुकाबला, शेजाऱ्यांसमोर सेहवागला रोखण्याचं आव्हान, मॅच किती वाजता?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-07T19:36:27",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-team-india-beat-new-zealand-and-broke-australia-most-win-matches-against-new-zealand-in-single-year/articleshow/135639057.cms",
+            "published": "2026-11-07T23:32:21",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/under-19-asia-cup-2026-ind-vs-pak-india-probale-playing-11-against-pakistan-match-time-venue-all-details/articleshow/135643732.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e2a77c4bf8c3",
-            "feed": "esakal",
-            "title": "IND vs NZ: दोन सिक्स अन् रोहित शर्माने मोडीत काढला शाहिद आफ्रिदीचा विक्रम! या खास यादीत 'हिटमॅन' नंबर-१",
+            "id": "c565b2b17738",
+            "feed": "lokmat",
+            "title": "मुंबई इंडियन्समधून हार्दिक पांड्याची पाठवणी, आता या संघाकडून खेळणार, बदल्यात मुंबईला हा घातक गोलंदाज मिळणार",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-07T17:52:17",
-            "url": "https://www.esakal.com/krida/cricket/rohit-sharma-breaks-shahid-afridi-record-for-most-odi-sixes-against-new-zealand-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/az56lhd5/Rohit-Sharma-Record-New-Zealand-vs-India-2nd-ODI.jpg",
+            "published": "2026-11-07T22:01:53",
+            "url": "https://www.lokmat.com/cricket/news/hardik-pandya-sent-from-mumbai-indians-will-now-play-for-punjab-kings-in-return-mumbai-will-get-this-deadly-bowler-arshdeep-singh-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hardik-pandya-2_2026111817684.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c838d64e008e",
-            "feed": "esakal",
-            "title": "BAN vs WI, Test: १८४ वर ७ बाद... अन् मग तोहीद हृदोयची डबल सेंच्युरी! तिसराच सामना खेळताना बांगलादेशला दिली आघाडी",
+            "id": "b85423e16ad6",
+            "feed": "maharashtratimes",
+            "title": "IPL 2027 Trade Deal : दिल्या घरी तु सुखी राहा, मुंबईकडून हार्दिक पंड्या ट्रेड; बदल्यात पलटणमध्ये स्टार बॉलर! कोण आहे तो?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-07T17:07:12",
-            "url": "https://www.esakal.com/krida/cricket/towhid-hridoy-smashes-historic-test-double-hundred-give-bangladesh-lead-vs-west-indies-2nd-test-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/3jcbpz9o/Towhid-Hridoy-Double-Century-Bangladesh-vs-West-Indies.jpg",
+            "published": "2026-11-07T21:00:14",
+            "url": "https://maharashtratimes.com/sports/cricket/iplt20/news/ipl-2027-mi-and-pbks-mumbai-indians-hardik-pandya-and-punjab-kings-arshdeep-singh-both-are-set-for-trade/articleshow/135640562.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "e0b18f221309",
-            "feed": "lokmat",
-            "title": "ऊस उत्पादक शेतकऱ्यांना पहिल्याच उचलीत ६४९ कोटींचा फायदा; गेल्या वर्षीपेक्षा टनाला किती रुपये जादा मिळणार?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-07T18:01:39",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/sugarcane-farmers-will-get-a-profit-of-rs-649-crore-in-the-first-harvest-how-much-more-will-they-get-per-ton-than-last-year-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sugaracane-1st-uchal_2026111817555.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "2d76f4423a03",
+            "id": "de2e8d228a2a",
             "feed": "maharashtratimes",
-            "title": "Paraguay Banking Crisis : एका रात्रीत बँक बुडाली, अर्धा देश संकटात; थेट राष्ट्राध्यक्ष नजरकैदेत",
+            "title": "Diwali Laxmi Puja Wishes In Marathi : लक्ष्मीपूजनाच्या हार्दिक शुभेच्छा! प्रियजनांना पाठवा हे हटके शुभेच्छा संदेश ! WhatsApp, Facebook माध्यमातून शेअर करा !",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-07T17:59:31",
-            "url": "https://maharashtratimes.com/video/mt-originals/paraguay-president-santiago-pena-impeached-after-ueno-bank-scandal/videoshow/135636833.cms",
+            "published": "2026-11-07T21:05:52",
+            "url": "https://maharashtratimes.com/astro/festival/laxmi-pujan-2026-shubhechcha-status-and-wishes-for-friends-and-familly/articleshow/135640686.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "c3b899f6d601",
+            "id": "d4df26744879",
             "feed": "lokmat",
-            "title": "सानिया चौधरीने होणाऱ्या नवऱ्याचा फोटो केला शेअर, म्हणाली- “वाढदिवसाला गर्लफ्रेंड म्हणून गेले अन्...”",
+            "title": "Mahadbt Portal : महाडीबीटी पोर्टलवर कृषी यांत्रिकीकरण योजनेंतर्गत प्रलंबित अर्जांना पूर्वसंमती प्रक्रिया सुरू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-07T17:45:15",
-            "url": "https://www.lokmat.com/filmy/television/saaniya-chaudhari-shares-romantic-engagement-post-says-she-went-into-her-birthday-as-a-girlfriend-and-came-out-with-a-ring-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/saaniya-chaudhari-new-post_2026111817565.jpg",
+            "published": "2026-11-07T20:51:45",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/mahadbt-portal-pre-approval-process-for-pending-applications-under-agricultural-mechanization-scheme-begins-on-mahadbt-portal-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mah-dbt_2026111817668.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
+        },
+        {
+            "id": "ce2a323bfa3f",
+            "feed": "lokmat",
+            "title": "Banana Export : केळीला 'युद्ध' आणि 'निसर्गा'चा फटका, यंदा केवळ 5 हजार कंटेनरची निर्यात, वाचा सविस्तर",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-07T20:50:02",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/banana-export-only-5-thousand-containers-exported-this-year-read-in-detail-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/keli-bai_2026111817666.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
