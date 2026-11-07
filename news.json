@@ -1,88 +1,136 @@
 {
-    "lastUpdated": "07-11-2026 | 03:22 AM IST",
+    "lastUpdated": "07-11-2026 | 06:56 AM IST",
     "maharashtra": [
         {
-            "id": "0fba24041f01",
-            "feed": "esakal",
-            "title": "MPSC Update: MPSC चा मोठा निर्णय! 11 हजार जागांची वाढ; तलाठ्यांच्या किती जागा? परीक्षा कधी? नव्याने अर्ज कधी करता येणार?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-07T00:01:40",
-            "url": "https://www.esakal.com/maharashtra/mpsc-group-c-recruitment-16717-vacancies-talathi-bharti-posts-exam-date-new-application-dates-age-relaxation-online-form-latest-group-c-mpsc-update-marathi-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-06/kk655cqb/Copy-of-Copy-of-banner-2026-11-06T235246.276.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4d7d141d2aca",
-            "feed": "maharashtratimes",
-            "title": "Satej Patil: बंटी पाटील कंडका पाडण्याच्या तयारीत! सरकारचा अध्यादेश निघताच संतापले, गोकुळ तुमची जहागीर नाही म्हणत जोरदार हल्लाबोल",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-06T23:58:40",
-            "url": "https://maharashtratimes.com/maharashtra/kolhapur/satej-patil-strong-attack-against-mahayuti-expresses-anger-over-gokul-ordinance/articleshow/135617962.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b44ae8a6574a",
+            "id": "a4f94599015b",
             "feed": "lokmat",
-            "title": "५०० कोटींहून अधिक उलाढाल असलेल्या सहकारी संस्थांसाठी सुधारणा अध्यादेश लागू; चार तज्ज्ञ सदस्यांना मतदानाचा अधिकार",
+            "title": "Mumbai Airport: टर्मिनल-१ च्या पुनर्विकासासाठी १२ आंतरराष्ट्रीय कंपन्यांची उड्डाणे नवी मुंबई विमानतळाकडे वळणार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-06T23:53:38",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-cooperative-societies-amendment-ordinance-2026-government-gets-power-to-nominate-5-members-to-cooperative-boards-with-voting-rights-for-4-experts-a629-c1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mantralay_2026111817115.jpg",
+            "published": "2026-11-07T06:44:34",
+            "url": "https://www.lokmat.com/mumbai/mumbai-airport-flights-of-12-international-companies-will-be-diverted-to-navi-mumbai-airport-for-the-redevelopment-of-terminal-1-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-airport-shift-to-navi-mumbai_2026111817129.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "abc9b1d4863b",
-            "feed": "esakal",
-            "title": "‘आशा कार्यकर्त्यांना’ टॅब",
+            "id": "246c7a538312",
+            "feed": "maharashtratimes",
+            "title": "Shivsena UBT: शिवसेना उबाठाने फिरवली भाकरी; नाशिकमधील पदाधिकाऱ्यांच्या नियुक्त्या जाहीर",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-06T23:42:10",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/asha-workers-tablet-distribution-wadivri",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-06/p6109s8z/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "published": "2026-11-07T06:42:56",
+            "url": "https://maharashtratimes.com/maharashtra/nashik/shiv-sena-ubt-announces-appointments-to-various-organizational-positions-in-nashik-district/articleshow/135623989.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "649d6afa24c3",
-            "feed": "esakal",
-            "title": "तनय, सत्‍यजितची चमकदार कामगिरी",
+            "id": "5406a81bbba8",
+            "feed": "lokmat",
+            "title": "Mumbai Crime: दिवाळीत विक्रीसाठी आणलेले पिस्तूल जप्त, मुंब्रा ते कुर्ला कनेक्शन आले समोर",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-06T23:32:01",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-cricketers-ranji-trophy-performance",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-06/fgvjclhw/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "published": "2026-11-07T06:28:00",
+            "url": "https://www.lokmat.com/mumbai/mumbai-crime-pistols-brought-for-sale-during-diwali-seized-by-mumbai-police-mumbra-to-kurla-connection-revealed-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pistol-seized-in-mumbai_2026111817127.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "21c5fdabef5a",
+            "feed": "lokmat",
+            "title": "जव्हार पीडब्ल्यूडीमधील कथित अपहाराच्या तपासाला स्थगिती, मुंबई उच्च न्यायालयाचा महत्त्वाचे आदेश",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-07T06:21:34",
+            "url": "https://www.lokmat.com/thane/mumbai-high-court-orders-stay-on-investigation-into-alleged-embezzlement-in-jawhar-pwd-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/palghar-news_2026111817125.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "e855489b532a",
+            "feed": "lokmat",
+            "title": "'अजित पवार असते तर राष्ट्रवादीचे दोन्ही गट एकत्र आले असते, तारीखही ठरली होती', सुनील तटकरेंनी फोडला बॉम्ब",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-07T06:07:59",
+            "url": "https://www.lokmat.com/maharashtra/if-ajit-pawar-was-alive-the-ncp-would-have-merged-the-date-was-also-set-sunil-tatkares-statement-has-created-a-stir-in-maharashtra-politics-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ncp-merger-possibility-ruled-out_2026111817121.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "40bd810c497d",
+            "feed": "lokmat",
+            "title": "महाराष्ट्रासह ७ राज्यांतील मतदारांना पुन्हा संधी, मसुदा मतदारयादीतून नावे वगळलेल्यांना दिलासा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-11-07T06:14:12",
+            "url": "https://www.lokmat.com/national/voters-in-7-states-including-maharashtra-get-another-chance-relief-for-those-whose-names-were-excluded-from-the-draft-voter-list-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/maharashtra-sir-2026-draft-list-news_2026111817123.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "527e4a6603c2",
+            "feed": "maharashtratimes",
+            "title": "दिवाळीत फटाक्यांपेक्षाही 5 गॅझेट्सपासून मुलांना ठेवा दूर; पालकांनी लगेच जाणून घ्या",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-07T06:00:00",
+            "url": "https://maharashtratimes.com/gadget-news/tips-tricks/keep-children-away-from-these-5-dangerous-electronic-gadgets-diwali-2026/articleshow/135603504.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c6f62e5f68e0",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 7 नोव्हेंबर 2026: मूलांक 1, 3, 5 साठी व्यवसायवाढ, कौतुकाचे योग! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-07T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-7-november-2026-dhanteras-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135619134.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "012a4947dc9c",
             "feed": "maharashtratimes",
@@ -112,54 +160,6 @@
             "published": "2026-11-06T23:49:59",
             "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-7-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135617966.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5a38444fb97d",
-            "feed": "lokmat",
-            "title": "ज्या वयात मुली करिअर करतात त्या वयात आई होणं सोपं नव्हतंच.. मीरा राजपूत सांगतेय २१ व्या वर्षी आई होण्याचा अनुभव",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-06T23:14:14",
-            "url": "https://www.lokmat.com/sakhi/social-viral/being-a-mother-at-an-age-when-girls-pursue-careers-was-not-easy-mira-rajput-shares-her-experience-of-becoming-a-mother-at-21-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-11-06-at-14.26.52_2026111817111.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "28bc6dc6ff1f",
-            "feed": "esakal",
-            "title": "वाघीण आपल्या बछड्यांना वडिलांपासून दूर का ठेवते?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-06T22:45:00",
-            "url": "https://www.esakal.com/ampstories/web-story/why-tigress-keeps-tiger-cubs-away-from-male-tigers-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-06/b8p0g9fb/12.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5955b0b9e0fc",
-            "feed": "lokmat",
-            "title": "नख वारंवार तुटतात? दुर्लक्ष करू नका, कमकुवत नखं देतात 'या' आजारांची गंभीर सूचना",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-06T22:44:45",
-            "url": "https://www.lokmat.com/sakhi/photos/beauty/why-do-nails-break-easily-main-reasons-for-brittle-nails-or-cracking-nails-a602/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/brittle-nails_2026111817104.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -298,6 +298,22 @@
     ],
     "business": [
         {
+            "id": "a57d87c75c51",
+            "feed": "lokmat",
+            "title": "‘धन’धनाट : शेअर बाजारात तेजीचे रॉकेट, गुंतवणूकदार मालामाल; जागतिक बाजारांत मंदीचे सावट, दलाल स्ट्रीटवर दिवाळी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-11-07T05:47:39",
+            "url": "https://www.lokmat.com/business/news/investors-made-huge-profits-in-the-indian-stock-market-on-6-november-2026-sensex-rose-by-1718-points-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/indian-stock-market-updates_2026111817119.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "c02f8657a729",
             "feed": "esakal",
             "title": "Gold Price: या दिवाळीला Gen-Z कुठे गुंतवणूक कराताएत? खरेदीचा ट्रेंड काय आहे? नव्या पिढीचे पैसा गुंतवण्याचे मार्ग कोणते?",
@@ -328,22 +344,6 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/diwali-agrim_2026111817039.jpeg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "7d9fa786afa6",
-            "feed": "maharashtratimes",
-            "title": "इच्छामरणाच्या उंबरठ्यावर मायाला वनताराचा आधार! हत्तीच्या पिल्लाला वाचवण्यासाठी अनंत अंबानी यांचा पुढाकार, शोधला उपचारांचा मार्ग",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-11-06T19:59:55",
-            "url": "https://maharashtratimes.com/business/business-news/ailing-elephant-calf-maya-flown-from-kerala-to-anant-ambanis-vantara-sp-in-jamnagar-for-specialised-care/articleshow/135611100.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ]
 }
