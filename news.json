@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "08-11-2026 | 10:20 PM IST",
+    "lastUpdated": "09-11-2026 | 02:23 AM IST",
     "maharashtra": [
         {
-            "id": "127d1d2d50b6",
+            "id": "3d1b5dbb5e1f",
             "feed": "maharashtratimes",
-            "title": "Cable Stayed Bridge: कोकण- सातारा जोडणारा पूल उद्घाटनासाठी सज्ज; पर्यटकांसाठी खास ४३ मीटर उंचीची व्ह्यू गॅलरी",
+            "title": "Thane Fire : ठाण्यात रहेजा कारलाइन इमारतीला भीषण आग, एकनाथ शिंदे घटनास्थळी, आगीवर नियंत्रण, अडकलेल्यांच्या सुटकेची मोहीम जारी",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-08T21:39:36",
-            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/work-oncable-stayed-bridge-connecting-konkan-satara-nears-completion-inauguration-expected-soon/articleshow/135661834.cms",
+            "published": "2026-11-09T00:08:47",
+            "url": "https://maharashtratimes.com/maharashtra/thane/severe-fire-in-thane-deputy-chief-minister-eknath-shinde-at-scene/articleshow/135664664.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "672b3b4c55c7",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update: : जाणून घ्या दिवसभरातील महत्वाच्या घडामोडी",
+            "id": "aa0d7194297c",
+            "feed": "lokmat",
+            "title": "'रॉ'च्या नावाचा धाक, जर्मनीच्या साहित्याची थाप; मेडशिंगे कुटुंबाला साठे अठरा कोटींचा गंडा!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-08T23:47:08",
+            "url": "https://www.lokmat.com/crime/a-shocking-incident-in-kolhapur-where-a-family-cheated-out-of-a-staggering-rs-185-crore-by-an-individual-who-falsely-claimed-to-be-an-raw-agent-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cyber-fraud-4_2026101807681.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "4d27c00147fd",
+            "feed": "lokmat",
+            "title": "दिवाळीच्या जल्लोषात आगीचा भडका; आठ ठिकाणी आग, फुलेवाडी रिंग रोडवर गोदाम आगीच्या भक्ष्यस्थानी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-08T21:25:25",
-            "url": "https://www.esakal.com/maharashtra/happy-deepavali-narak-chaturdash-drought-farmer-relief-cm-devendra-fadnavis-gokul-karjat-bhimashankar-tree-cutting-sharad-pawar-ncp-sunil-tatkare-india-rahul-gandhi-amit-shaha-narendra-modi",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
+            "published": "2026-11-08T23:44:15",
+            "url": "https://www.lokmat.com/kolhapur/fire-breaks-out-during-diwali-celebrations-fire-breaks-out-at-eight-places-warehouse-on-phulewadi-ring-road-catches-fire-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kop-fire-incident-1_2026111817970.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "055ce2070e72",
-            "feed": "esakal",
-            "title": "Decoration Godown Fire : कोल्हापुरात डेकोरेशनच्या गोडाऊनला भीषण आग; ऐन दिवाळीत फुलेवाडी रिंग रोड परिसरात खळबळ, अग्निशमन दलाचे तीन बंब दाखल",
+            "id": "7b03477f6f78",
+            "feed": "lokmat",
+            "title": "एक दिवस अब्दुल उत्तर प्रदेशचा मुख्यमंत्री आणि देशाचा पंतप्रधानही होईल'; वारिस पठाण यांचा दावा",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-08T21:24:58",
-            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-phulewadi-ring-road-gangai-lawns-decoration-godown-fire-diwali-three-fire-engines-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/zimsyb09/Kolhapur-decoration-godown-fire-today",
+            "published": "2026-11-08T23:41:12",
+            "url": "https://www.lokmat.com/mumbai/one-day-abdul-will-become-the-cm-of-uttar-pradesh-and-the-pm-of-the-country-aimim-leaders-waris-pathan-claims-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/waris-pathan-on-abdul_2026111817968.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4d7a5afd3d6c",
+            "id": "1e745f0c0c50",
             "feed": "esakal",
-            "title": "लक्ष्‍मीपुजन सोने चांदी खरेदी",
+            "title": "फटाक्यांमुळे अवघ्या चार तासात आगेच्या २५ घटना",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-08T21:07:38",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/buy-gold-lakshmi-pooja-diwali",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/927crj9u/Sakal20Wesite20Banner20_20Nashik.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "3341edb3dd98",
-            "feed": "esakal",
-            "title": "Pune News: शिरूरमध्ये लक्ष्मीपूजनाचा शाही थाट! सराफ कट्ट्यावर नोटा, दागिने अन् धनधान्याची विधिवत पूजा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-08T21:04:18",
-            "url": "https://www.esakal.com/pune/shirur-lakshmi-pujan-celebrations-bring-royal-festive-charm-as-gold-silver-shops-worship-cash-jewellery-and-wealth-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/ue34kibl/sudhir-jadhav-satara-20.jpg",
+            "published": "2026-11-08T23:29:25",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/fire-outbreaks-nashik-cracker-incidents",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/ut16t4sw/Sakal20Wesite20Banner20_20Nashik.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "e1b1c81d7e8f",
+            "id": "99b50a5e7cb0",
             "feed": "esakal",
-            "title": "शिवरायांचे हाताचे अन् पायाचे ठसे सिंधुदुर्ग किल्ल्यावर कसे उमटले?",
+            "title": "दिवाळीत फटाके उडवताना भाजलं तर काय करावं?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-08T21:32:32",
-            "url": "https://www.esakal.com/ampstories/web-story/shivaji-maharaj-handprints-footprints-sindhudurg-fort-history-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/atmo3mg8/aarti-badade-web-20.jpg",
+            "published": "2026-11-09T00:00:41",
+            "url": "https://www.esakal.com/ampstories/web-story/diwali-firecracker-burn-first-aid-what-to-do-immediately-home-remedies-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/1sayb6wq/Diwali-Firecracker-Burn-First-Aid.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "6a33bf635afb",
-            "feed": "maharashtratimes",
-            "title": "तामिळनाडूतील  10 गावांनी फटाक्यांचा आनंद ठेवला बाजूला, 21 वर्षांपासून सुरू आहे अनोखी परंपरा",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-08T21:22:14",
-            "url": "https://maharashtratimes.com/india-news/tamilnadu-unique-tradition-diwali-celebrate-without-firecrackers/articleshow/135661795.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "df49f926151c",
+            "id": "46321f459f2e",
             "feed": "esakal",
-            "title": "\"आता होणार पेट्रोल-डिझेल स्वस्त? केंद्र सरकारचा ऐतिहासिक निर्णय; सामान्यांना मिळणार मोठा दिलासा!\"",
+            "title": "वक्री शुक्राची कृपा की ग्रहांचा मोठा प्रभाव? 14 नोव्हेंबरपर्यंत ‘या’ 5 राशींना धनलाभाचे संकेत!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-08T21:14:14",
-            "url": "https://www.esakal.com/ampstories/web-story/petrol-diesel-price-control-indian-oil-oil-tanker-ships-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/4wneavan/1.jpg",
+            "published": "2026-11-08T23:59:14",
+            "url": "https://www.esakal.com/ampstories/web-story/venus-retrograde-5-zodiac-signs-financial-gains-november-14-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-07/ljxaskqs/Akshaya-Tritiya-zodiac-signs-Lucky-rashi-1.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
         },
         {
-            "id": "079539b44692",
-            "feed": "maharashtratimes",
-            "title": "धनत्रयोदशीला मुलगी मिठाई देण्यासाठी गेली, घरात पोहोचताच दुर्गंधी, वडिलांचा शव आणि शेजारी बसलेला मुलगा",
+            "id": "d8a9dc60af1b",
+            "feed": "lokmat",
+            "title": "कुठे फटाक्यांमुळे तर कुठे शॉर्ट सर्किट... दिल्लीपासून सिक्कीमपर्यंत आगीच्या घटना, मोठी वित्तहानी",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
             },
-            "published": "2026-11-08T20:08:36",
-            "url": "https://maharashtratimes.com/india-news/uttarpradesh-news-father-died-5-days-decomposed-corpse-beside-son/articleshow/135660201.cms",
-            "image": "",
+            "published": "2026-11-08T23:59:03",
+            "url": "https://www.lokmat.com/national/some-due-to-firecrackers-some-due-to-short-circuit-fire-incidents-from-delhi-to-sikkim-huge-financial-loss-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fire-1_2026111817971.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "4bafee34ffb7",
+            "id": "37ee874418eb",
             "feed": "esakal",
-            "title": "Rajasthan Voter List Discrepancy : 30 लाख मतदारांची नावे गहाळ? स्थानिक स्वराज्य संस्थांच्या निवडणुका वादाच्या भोवऱ्यात, SIR प्रक्रियेनंतर दोन याद्यांमध्ये तफावत",
+            "title": "'या' सवयींमुळे वाढू शकतो हायटस हर्नियाचा त्रास; जाणून घ्या उपाय",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-08T19:51:48",
-            "url": "https://www.esakal.com/desh/rajasthan-voter-list-discrepancy-30-lakh-voters-missing-election-commission-sir-final-voter-list-local-body-election-update-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/bw9qi7dg/Rajasthan-SIR-final-voter-list-2026",
+            "published": "2026-11-08T23:56:57",
+            "url": "https://www.esakal.com/ampstories/web-story/late-night-eating-hiatal-hernia-symptoms-prevention-tips-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-08-25/25x4zm4l/Hernia-Symptoms-9.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "e967851c1865",
+            "feed": "esakal",
+            "title": "सणासुदीत फूड पॉइझनिंगचा धोका; खाण्याच्या ‘या’ चुका टाळा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-08T23:53:52",
+            "url": "https://www.esakal.com/ampstories/web-story/festival-food-safety-tips-7-eating-mistakes-that-can-cause-food-poisoning-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-22/sdz963r5/stomach.png",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "599592358e1f",
+            "feed": "lokmat",
+            "title": "भीषण अपघात! इजिप्तमध्ये २ प्रवासी ट्रेन एकमेकांना धडकल्या; ४ जणांचा मृत्यू, ८८ हून अधिक जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-08T21:31:47",
+            "url": "https://www.lokmat.com/international/horrific-accident-2-passenger-trains-collide-in-egypt-4-dead-more-than-88-injured-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/egypt-train-accident_2026111817949.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f999fd1ea0fb",
             "feed": "esakal",
@@ -180,6 +196,38 @@
             "image": "https://cf-images.assettype.com/esakal/2026-11-08/06f4i1ka/Esakal-24.jpg",
             "isBreaking": false,
             "category_reason": "url"
+        },
+        {
+            "id": "840fd9a4d9af",
+            "feed": "lokmat",
+            "title": "अमेरिकन खासदार अब्दुल यांचा पाकिस्तानला झटका; शहबाज शरीफ सरकारची चिंता वाढणार, काय घडलं?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-08T20:36:18",
+            "url": "https://www.lokmat.com/international/us-senator-elect-abdul-el-sayed-has-questioned-washingtons-financial-and-military-assistance-to-several-countries-including-pakistan-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abudul-on-pakistan-1_2026111817941.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "4ba595797e46",
+            "feed": "lokmat",
+            "title": "आयझेनकोट बनणार इस्रायलचे नवे पंतप्रधान?; ६ आठवड्यांच्या आत बहुमत सिद्ध करावं लागणार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-08T18:55:15",
+            "url": "https://www.lokmat.com/international/political-earthquake-in-israel-eisenkot-to-form-government-will-have-to-prove-majority-within-6-weeks-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eson-isreal-1_2026111817933.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         },
         {
             "id": "b137ddbe776b",
@@ -200,6 +248,38 @@
     ],
     "sports": [
         {
+            "id": "b25f62e664d6",
+            "feed": "maharashtratimes",
+            "title": "IND vs PAK : आणखी किती जोर लावावा? भारताच्या पराभवानंतर कर्णधाराचा गोलंदाजांवर खापर फोडण्याचा प्रयत्न, लक्ष्यची प्रतिक्रिया समोर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-11-08T22:46:54",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/u19-asia-cup-2026-ind-vs-pak-we-could-have-bowled-a-little-bit-better-says-captain-lakshya-raichandani-after-pakistan-beat-india/articleshow/135663347.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f7b82f79015c",
+            "feed": "lokmat",
+            "title": "दिवाळीत U-19 टीम इंडियाचा शिमगा, हातची मॅच घालवली, पाकिस्तानकडून निसटता पराभव",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-11-08T21:47:18",
+            "url": "https://www.lokmat.com/cricket/news/u-19-team-indias-diwali-performance-lost-the-match-by-a-narrow-margin-to-pakistan-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-pak-u-19-asia-cup-2_2026111817953.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "00af7fb25f19",
             "feed": "maharashtratimes",
             "title": "IND vs PAK : पाकिस्तानला विजयानंतरही मजबूत फटका, भारतीय गोलंदाजांचं कराल तितकं कौतुक कमी,काय झालं?",
@@ -214,86 +294,54 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "2200f4ce6ea0",
-            "feed": "esakal",
-            "title": "U19 IND vs U19 PAK: एकमेकांच्या तोंडाकडे बघत राहिले अन् तिघांकडून भारतीय फलंदाजाचा कॅच सुटला! पाहा Comedy Fielding ड्रामा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-11-08T19:59:58",
-            "url": "https://www.esakal.com/krida/cricket/pakistani-fielders-suffer-hilarious-communication-gap-drop-simple-catch-during-u19-asia-cup-match-against-india-commedy-error-video-viral-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/bzmn6c8f/Comedy-Fielding-Error-India-vs-Pakistan-U19-Asia-Cup.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "740c5c4e488f",
-            "feed": "maharashtratimes",
-            "title": "IND vs PAK : हामझा झहुरचं निर्णायक शतक, पाकिस्तानचा रंगतदार सामन्यात विजय, भारतावर 3 विकेट्सने मात, पराभवाला जबाबदार कोण?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-11-08T18:30:25",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/u19-asia-cup-2026-pak-vs-ind-pakistan-won-by-3-wickets-against-india-hamza-zahoor-smasdhed-century/articleshow/135659393.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "a37b0c96897d",
-            "feed": "maharashtratimes",
-            "title": "डाव खचला! धडाकेबाज सुरुवातीसह बाजार लाल रंगात बंद, किरकोळ घसरणीसह 'मुहूर्त ट्रेडिंग' संपन्न",
+            "id": "57dd03f6304d",
+            "feed": "lokmat",
+            "title": "लवकरच येतोय iPhone 18 सीरिजचा सर्वात स्वस्त स्मार्टफोन; जाणून घ्या फीचर्स आणि किंमत",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-08T20:59:24",
+            "url": "https://www.lokmat.com/tech/apple-iphone-cheapest-smartphone-of-the-iphone-18-series-is-coming-soon-know-the-features-and-price-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/apple-iphone18_2026111817945.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "43b7af74f466",
+            "feed": "lokmat",
+            "title": "Jio ची आपल्या ग्राहकांना खास दिवाळी भेट! १० महिन्यांच्या रिचार्जवर मिळवा ५ महिने अगदी मोफत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-11-08T16:51:32",
-            "url": "https://maharashtratimes.com/business/share-bazaar/muhurat-trading-2026-nifty-sensex-performance-minor-fall-in-stock-market/articleshow/135657577.cms",
-            "image": "",
+            "published": "2026-11-08T20:47:26",
+            "url": "https://www.lokmat.com/business/news/jios-special-diwali-gift-to-its-customers-get-5-months-absolutely-free-on-10-months-recharge-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jio-offer_2026111817944.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b4e09ebb15d9",
-            "feed": "maharashtratimes",
-            "title": "Muhurat Trading : शेअर बाजाराच्या 'मुहूर्त ट्रेडिंग'वर लक्ष्मी प्रसन्न! सेन्सेक्स-निफ्टी वधारले, नेमकी कशी झाली सुरुवात?",
+            "id": "669b989ea5e7",
+            "feed": "lokmat",
+            "title": "E20 पेट्रोलच्या गुणवत्तेवरून वाद; क्वालिटी टेस्टमध्ये ८९३ सँपल पास, केंद्राकडून कर्नाटक सरकारच्या दाव्यांचे खंडन",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-11-08T15:00:45",
-            "url": "https://maharashtratimes.com/business/share-bazaar/muhurat-trading-2026-how-was-the-stock-market-opening-sensex-nifty-diwali/articleshow/135655787.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "ea4018a05968",
-            "feed": "maharashtratimes",
-            "title": "Samvat 2083 : शेअर बाजारात कमाईच्या नव्या संधी! येत्या वर्षासाठी तज्ञांचा अंदाज, 5 क्षेत्रांचा प्रामुख्याने उल्लेख",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "business"
-            },
-            "published": "2026-11-08T13:09:23",
-            "url": "https://maharashtratimes.com/business/share-bazaar/sanvat-2083-share-market-outlook-which-sectors-should-be-in-focused/articleshow/135654002.cms",
-            "image": "",
+            "published": "2026-11-08T18:15:31",
+            "url": "https://www.lokmat.com/business/news/controversy-over-the-quality-of-e20-petrol-893-samples-passed-the-quality-test-the-centre-refutes-the-karnataka-governments-claims-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/petrol-ethanol-karnatak_2026111817931.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
