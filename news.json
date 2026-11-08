@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "08-11-2026 | 04:23 PM IST",
+    "lastUpdated": "08-11-2026 | 10:20 PM IST",
     "maharashtra": [
         {
-            "id": "53d3fb6892ad",
+            "id": "127d1d2d50b6",
+            "feed": "maharashtratimes",
+            "title": "Cable Stayed Bridge: कोकण- सातारा जोडणारा पूल उद्घाटनासाठी सज्ज; पर्यटकांसाठी खास ४३ मीटर उंचीची व्ह्यू गॅलरी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-08T21:39:36",
+            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/work-oncable-stayed-bridge-connecting-konkan-satara-nears-completion-inauguration-expected-soon/articleshow/135661834.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "672b3b4c55c7",
             "feed": "esakal",
-            "title": "Pune POCSO Court : शिवाजीनगरमधील पोक्सो न्यायालयाच्या इमारतीच्या कामाला मुदतवाढ; ३० नोव्हेंबरपर्यंत काम पूर्ण करण्याचे लक्ष्य",
+            "title": "Latest Marathi News Live Update: : जाणून घ्या दिवसभरातील महत्वाच्या घडामोडी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-08T16:18:33",
-            "url": "https://www.esakal.com/pune/pocso-court-building-construction-extension-november-30-pmrda-shivajinagar-district-session-court-pune-project-work-progress-ysi02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/1jbjsc76/Vishwajit-4.jpg",
+            "published": "2026-11-08T21:25:25",
+            "url": "https://www.esakal.com/maharashtra/happy-deepavali-narak-chaturdash-drought-farmer-relief-cm-devendra-fadnavis-gokul-karjat-bhimashankar-tree-cutting-sharad-pawar-ncp-sunil-tatkare-india-rahul-gandhi-amit-shaha-narendra-modi",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-05/6hdigd38/sandeep-shirguppe-2026-04-05T073342.880.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "34766234b6b0",
-            "feed": "lokmat",
-            "title": "रुग्णालयात शरद पवार यांच्यासोबत नेमकी कोणती चर्चा झाली? प्रफुल्ल पटेल यांचा मोठा गौप्यफोट, म्हणाले...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-08T16:13:14",
-            "url": "https://www.lokmat.com/maharashtra/what-exactly-was-discussed-with-sharad-pawar-in-the-hospital-praful-patels-big-secret-leak-said-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sharad-pawar-prafulla-patel-1_2026111817886.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "8af7f333de28",
+            "id": "055ce2070e72",
             "feed": "esakal",
-            "title": "Pune Crime: लोणी काळभोरमध्ये खळबळ! खोकलाई चौकातून घरी निघालेली २७ वर्षीय विवाहिता बेपत्ता; अपहरणाचा संशय",
+            "title": "Decoration Godown Fire : कोल्हापुरात डेकोरेशनच्या गोडाऊनला भीषण आग; ऐन दिवाळीत फुलेवाडी रिंग रोड परिसरात खळबळ, अग्निशमन दलाचे तीन बंब दाखल",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-08T16:10:45",
-            "url": "https://www.esakal.com/pune/loni-kalbhor-news-27-year-old-married-woman-goes-missing-after-leaving-khoklai-chowk-husband-suspects-possible-kidnapping-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/wng3vf0l/sudhir-jadhav-satara-3.jpg",
+            "published": "2026-11-08T21:24:58",
+            "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/kolhapur-phulewadi-ring-road-gangai-lawns-decoration-godown-fire-diwali-three-fire-engines-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/zimsyb09/Kolhapur-decoration-godown-fire-today",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "adf0d1b831eb",
-            "feed": "lokmat",
-            "title": "ध्वनिप्रदूषण, फटाक्यांच्या वापरावर महापालिकेचा निर्बंधांचा बडगा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-08T16:05:05",
-            "url": "https://www.lokmat.com/pune/pune-municipal-corporation-imposes-restrictions-on-noise-pollution-use-of-firecrackers-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pune-municipal-corporation-0001_2026111817878.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "144b01d7cb98",
+            "id": "4d7a5afd3d6c",
             "feed": "esakal",
-            "title": "Samruddhi Magdum Death : लेकीच्या जन्माचा आनंद क्षणात विरला! आठ महिन्यांच्या गर्भवतीचा प्रसूतीवेळी अतिरक्तस्रावामुळे दुर्दैवी मृत्यू, मगदूम कुटुंबीयांवर दुःखाचा डोंगर",
+            "title": "लक्ष्‍मीपुजन सोने चांदी खरेदी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-11-08T16:02:36",
-            "url": "https://www.esakal.com/paschim-maharashtra/adi-samruddhi-magdum-death-premature-delivery-excessive-bleeding-nipani-kolhapur-newborn-baby-girl-news-bam92",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/2alx6kbd/Aadi-Woman-Samruddhi-Magdum-Dies",
+            "published": "2026-11-08T21:07:38",
+            "url": "https://www.esakal.com/uttar-maharashtra/nashik/buy-gold-lakshmi-pooja-diwali",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/927crj9u/Sakal20Wesite20Banner20_20Nashik.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
+        },
+        {
+            "id": "3341edb3dd98",
+            "feed": "esakal",
+            "title": "Pune News: शिरूरमध्ये लक्ष्मीपूजनाचा शाही थाट! सराफ कट्ट्यावर नोटा, दागिने अन् धनधान्याची विधिवत पूजा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-08T21:04:18",
+            "url": "https://www.esakal.com/pune/shirur-lakshmi-pujan-celebrations-bring-royal-festive-charm-as-gold-silver-shops-worship-cash-jewellery-and-wealth-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/ue34kibl/sudhir-jadhav-satara-20.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "087ce4bde0cd",
+            "id": "e1b1c81d7e8f",
             "feed": "esakal",
-            "title": "अय्यो, किती गोड! विकी-कतरिनाचाने शेअर केला मुलगा विहानचा पहिला फोटो, लेक दिसतो सेम टू सेम बाबासारखा",
+            "title": "शिवरायांचे हाताचे अन् पायाचे ठसे सिंधुदुर्ग किल्ल्यावर कसे उमटले?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-08T16:21:17",
-            "url": "https://www.esakal.com/premier/vicky-kaushal-katrina-kaif-reveal-son-vihaan-kaushal-first-photo-diwali-instagram-post-viral-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/h27d4k59/VICKY-KAUSHAL-AND-KATRINA-KAIF-VIHAN",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "a7ac6613da42",
-            "feed": "lokmat",
-            "title": "\"२१ वर्षांचा वनवास संपला...\", 'रामायण' पाहिल्यानंतर रवी दुबेच्या पत्नीची भावुक पोस्ट, पतीचं केलं कौतुक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-08T16:15:15",
-            "url": "https://www.lokmat.com/filmy/bollywood/ravi-dubey-wife-sargun-mehta-shared-emotional-post-praised-husband-after-watch-ramayana-movie-a971/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-11-08-at-16.10.10_2026111817891.jpeg",
+            "published": "2026-11-08T21:32:32",
+            "url": "https://www.esakal.com/ampstories/web-story/shivaji-maharaj-handprints-footprints-sindhudurg-fort-history-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/atmo3mg8/aarti-badade-web-20.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "0e5c392596e5",
-            "feed": "esakal",
-            "title": "Ganga returns to Haridwar Har Ki Pauri : १८ दिवसांनंतर अखेर 'तिचे' पुनरागमन! ऐन दिवाळीच्या दिवशी वाहू लागला खळाळता प्रवाह; घाटांवर भाविकांचा महापूर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-08T16:15:08",
-            "url": "https://www.esakal.com/desh/haridwar-har-ki-pauri-ganga-river-flow-restored-after-18-days-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/mxv9a0z5/Esakal-18.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0d99c37e3da7",
+            "id": "6a33bf635afb",
             "feed": "maharashtratimes",
-            "title": "Lal Krishna Advani: शतकपूर्तीच्या दिशेनेप्रेरणादायी प्रवास",
+            "title": "तामिळनाडूतील  10 गावांनी फटाक्यांचा आनंद ठेवला बाजूला, 21 वर्षांपासून सुरू आहे अनोखी परंपरा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-08T16:11:00",
-            "url": "https://maharashtratimes.com/editorial/ravivar-mata/pm-modi-special-article-on-lal-krishna-advani-100th-birthday/articleshow/135656945.cms",
+            "published": "2026-11-08T21:22:14",
+            "url": "https://maharashtratimes.com/india-news/tamilnadu-unique-tradition-diwali-celebrate-without-firecrackers/articleshow/135661795.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "fbe6029a2606",
-            "feed": "lokmat",
-            "title": "कर्करोगग्रस्त आईच्या उपचाराच्या खर्चावरून वाद; धाकट्या भावाने मोठ्या भावाची हत्या करून मृतदेह घरातच पुरला",
+            "id": "df49f926151c",
+            "feed": "esakal",
+            "title": "\"आता होणार पेट्रोल-डिझेल स्वस्त? केंद्र सरकारचा ऐतिहासिक निर्णय; सामान्यांना मिळणार मोठा दिलासा!\"",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-08T16:04:53",
-            "url": "https://www.lokmat.com/crime/dispute-over-cancer-stricken-mothers-treatment-expenses-younger-brother-kills-elder-brother-buries-body-in-house-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-news-dee_2026111817871.jpg",
+            "published": "2026-11-08T21:14:14",
+            "url": "https://www.esakal.com/ampstories/web-story/petrol-diesel-price-control-indian-oil-oil-tanker-ships-news-today-marathi-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/4wneavan/1.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "keyword"
+        },
+        {
+            "id": "079539b44692",
+            "feed": "maharashtratimes",
+            "title": "धनत्रयोदशीला मुलगी मिठाई देण्यासाठी गेली, घरात पोहोचताच दुर्गंधी, वडिलांचा शव आणि शेजारी बसलेला मुलगा",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-08T20:08:36",
+            "url": "https://maharashtratimes.com/india-news/uttarpradesh-news-father-died-5-days-decomposed-corpse-beside-son/articleshow/135660201.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "4bafee34ffb7",
+            "feed": "esakal",
+            "title": "Rajasthan Voter List Discrepancy : 30 लाख मतदारांची नावे गहाळ? स्थानिक स्वराज्य संस्थांच्या निवडणुका वादाच्या भोवऱ्यात, SIR प्रक्रियेनंतर दोन याद्यांमध्ये तफावत",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-08T19:51:48",
+            "url": "https://www.esakal.com/desh/rajasthan-voter-list-discrepancy-30-lakh-voters-missing-election-commission-sir-final-voter-list-local-body-election-update-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/bw9qi7dg/Rajasthan-SIR-final-voter-list-2026",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "f999fd1ea0fb",
+            "feed": "esakal",
+            "title": "Saudi Arabia Attack : आखातात पुन्हा युद्धाचा भडका! राजधानीवर बंडखोरांचा भीषण क्षेपणास्त्र हल्ला; प्रसिद्ध टॉवरचे मोठे नुकसान!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-08T20:42:06",
+            "url": "https://www.esakal.com/global/riyadh-aramco-tower-houthi-missile-attack-saudi-arabia-news-today-marathi-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/06f4i1ka/Esakal-24.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "b137ddbe776b",
             "feed": "maharashtratimes",
@@ -180,101 +196,53 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "17c7d0378838",
-            "feed": "lokmat",
-            "title": "हमासच्या हल्ल्यात गमावला मुलगा आणि दोन भाचे; इस्रायलच्या पंतप्रधानपदाच्या शर्यतीत असणारे गाडी आयसेनकोट कोण आहेत?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-08T13:40:45",
-            "url": "https://www.lokmat.com/international/son-and-two-nephews-lost-in-hamas-attack-who-is-gad-eisenkot-who-is-in-the-race-for-the-post-of-prime-minister-of-israel-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/israel-new-prime-minister-gadi-eisenkot_2026111817813.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c592f783a277",
-            "feed": "esakal",
-            "title": "Israel Politics : इस्रायलमध्ये सत्तांतराचे संकेत, नेतन्याहू १९ वर्षांनंतर पायउतार होणार;  प्रतिस्पर्ध्याला सरकार स्थापनेचे राष्ट्रपतींकडून निमंत्रण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-08T07:36:27",
-            "url": "https://www.esakal.com/global/israel-politics-gadi-eisenkot-new-government-netanyahu-power-crisis-knesset-election-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/k6jey1x4/Israel-Politics.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "bea91929f0a2",
-            "feed": "esakal",
-            "title": "बांगलादेशात रवींद्रनाथ टागोरांच्या चित्राची विटंबना; काळी शाई फासली, आक्षेपार्ह पोस्टरही लावले",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-07T22:30:50",
-            "url": "https://www.esakal.com/global/tagore-portrait-vandalised-in-bangladesh-khulna-railway-station-offensive-posters-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/ovej8n5q/Rabindranath-Tagore",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ],
     "sports": [
         {
-            "id": "082bb4258d30",
-            "feed": "esakal",
-            "title": "Rising Star Asia Cup: रिंकू सिंग भारतीय संघाचा उपकर्णधार! पाटीदारची अचानक माघार,  सध्या निवड न करण्याची BCCI कडे विनंती",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-11-08T15:48:43",
-            "url": "https://www.esakal.com/krida/cricket/rinku-singh-vice-captain-ayush-badoni-replaces-injured-rajat-patidar-india-a-squad-for-rising-stars-asia-cup-2026-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/qsviaauv/Rinku-Singh-Rajat-Patidar-India-A-squad-for-Rising-Star-Asia-Cup.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b7e26458a175",
-            "feed": "lokmat",
-            "title": "भारताच्या स्टार फलंदाजाने वनडे संघातून मागे घेतलं नाव, या खेळाडूला मिळाली संधी, असा आहे सुधारित संघ",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-11-08T15:47:33",
-            "url": "https://www.lokmat.com/cricket/news/indias-star-batsman-rajat-patidar-withdraws-from-odi-team-ayush-bhadoni-gets-a-chance-this-is-the-revised-team-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rajat-patidar-news-1_2026111817867.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "17b3ebc15c3e",
+            "id": "00af7fb25f19",
             "feed": "maharashtratimes",
-            "title": "Cricket : आयपीएल चॅम्पियन कर्णधाराची माघार, युवा खेळाडूचा समावेश, भारताच्या एकदिवसीय संघात कोण कोण?",
+            "title": "IND vs PAK : पाकिस्तानला विजयानंतरही मजबूत फटका, भारतीय गोलंदाजांचं कराल तितकं कौतुक कमी,काय झालं?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-08T15:35:43",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ayush-badoni-added-in-squad-after-rajat-patidar-withdraw-rinku-singh-will-deputy-see-updated-squad-of-india-a-for-rising-star-asia-cup-2026/articleshow/135656380.cms",
+            "published": "2026-11-08T20:59:30",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-pak-u19-asia-cup-2026-pakistan-major-loss-in-net-run-rate-india-dropped-2nd-position-after-match-result-against-each-other/articleshow/135661695.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "2200f4ce6ea0",
+            "feed": "esakal",
+            "title": "U19 IND vs U19 PAK: एकमेकांच्या तोंडाकडे बघत राहिले अन् तिघांकडून भारतीय फलंदाजाचा कॅच सुटला! पाहा Comedy Fielding ड्रामा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-11-08T19:59:58",
+            "url": "https://www.esakal.com/krida/cricket/pakistani-fielders-suffer-hilarious-communication-gap-drop-simple-catch-during-u19-asia-cup-match-against-india-commedy-error-video-viral-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/bzmn6c8f/Comedy-Fielding-Error-India-vs-Pakistan-U19-Asia-Cup.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "740c5c4e488f",
+            "feed": "maharashtratimes",
+            "title": "IND vs PAK : हामझा झहुरचं निर्णायक शतक, पाकिस्तानचा रंगतदार सामन्यात विजय, भारतावर 3 विकेट्सने मात, पराभवाला जबाबदार कोण?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-11-08T18:30:25",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/u19-asia-cup-2026-pak-vs-ind-pakistan-won-by-3-wickets-against-india-hamza-zahoor-smasdhed-century/articleshow/135659393.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -282,50 +250,50 @@
     ],
     "business": [
         {
-            "id": "5ac70bcee482",
-            "feed": "lokmat",
-            "title": "विहिरी अन् गायगोठ्यांची कामे पूर्ण होऊन ३ वर्ष झाली मात्र बिले अध्यापही मिळेनात; कार्यालयाचे उंबरठे झिजवून शेतकरी थकले",
+            "id": "a37b0c96897d",
+            "feed": "maharashtratimes",
+            "title": "डाव खचला! धडाकेबाज सुरुवातीसह बाजार लाल रंगात बंद, किरकोळ घसरणीसह 'मुहूर्त ट्रेडिंग' संपन्न",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-08T15:58:36",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/it-has-been-3-years-since-the-well-and-cowshed-works-were-completed-but-the-bills-are-not-even-paid-farmers-are-tired-of-the-office-thresholds-being-worn-out-a999/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-r-c-u-34-34-r-34-government-scheme_2026111817873.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "beb208ff9190",
-            "feed": "lokmat",
-            "title": "खूपच गोड! कतरिना-विकीने पहिल्यांदाच दाखवला लाडक्या लेकाचा चेहरा, बाबाची कार्बन कॉपी आहे चिमुकला विहान, खास फोटो केला शेअर",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-08T15:43:57",
-            "url": "https://www.lokmat.com/filmy/bollywood/katrina-kaif-and-vicky-kaushal-reveal-son-vihaan-face-share-beautiful-family-photo-on-the-occasion-of-diwali-a991/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/katrina-kaif-vicky-kaushal-son_2026111817877.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "10fcd022832f",
-            "feed": "lokmat",
-            "title": "अदानी समूहाची मोठी योजना, पुढील काही वर्षात दरवर्षी करणार ४० हजार कोटींची गुंतवणूक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-11-08T15:11:19",
-            "url": "https://www.lokmat.com/business/savings-investments/adani-groups-big-plan-to-invest-rs-40000-crore-every-year-for-the-next-few-years-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gautam-adani-investment-plan_2026111817858.jpg",
+            "published": "2026-11-08T16:51:32",
+            "url": "https://maharashtratimes.com/business/share-bazaar/muhurat-trading-2026-nifty-sensex-performance-minor-fall-in-stock-market/articleshow/135657577.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "b4e09ebb15d9",
+            "feed": "maharashtratimes",
+            "title": "Muhurat Trading : शेअर बाजाराच्या 'मुहूर्त ट्रेडिंग'वर लक्ष्मी प्रसन्न! सेन्सेक्स-निफ्टी वधारले, नेमकी कशी झाली सुरुवात?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-11-08T15:00:45",
+            "url": "https://maharashtratimes.com/business/share-bazaar/muhurat-trading-2026-how-was-the-stock-market-opening-sensex-nifty-diwali/articleshow/135655787.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "ea4018a05968",
+            "feed": "maharashtratimes",
+            "title": "Samvat 2083 : शेअर बाजारात कमाईच्या नव्या संधी! येत्या वर्षासाठी तज्ञांचा अंदाज, 5 क्षेत्रांचा प्रामुख्याने उल्लेख",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-11-08T13:09:23",
+            "url": "https://maharashtratimes.com/business/share-bazaar/sanvat-2083-share-market-outlook-which-sectors-should-be-in-focused/articleshow/135654002.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
