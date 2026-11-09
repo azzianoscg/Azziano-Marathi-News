@@ -1,201 +1,217 @@
 {
-    "lastUpdated": "09-11-2026 | 05:49 AM IST",
+    "lastUpdated": "09-11-2026 | 12:55 PM IST",
     "maharashtra": [
         {
-            "id": "56f060b2598c",
-            "feed": "lokmat",
-            "title": "लातूर एमआयडीसीमध्ये भीषण आग; कंपनीतील सर्वच साहित्य जळून खाक, एक कोटींचे नुकसान",
+            "id": "bf8b47339f2d",
+            "feed": "esakal",
+            "title": "Mumbai News: पालिकेचा कृत्रिम तलावांवर २.६७ कोटींचा खर्च, गणेशोत्सवातील कामांचा प्रस्ताव 'स्थायी' समोर",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
             },
-            "published": "2026-11-09T04:59:53",
-            "url": "https://www.lokmat.com/latur/massive-fire-breaks-out-in-latur-midc-all-company-materials-gutted-loss-of-1-crore-a463-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/latur-midc-fire_2026111817976.jpg",
+            "published": "2026-11-09T12:54:03",
+            "url": "https://www.esakal.com/mumbai/bmc-spent-2-crore-67-lakh-19-thousand-rupees-on-artificial-ponds-set-up-for-ganesha-idols-immersion-mvk02",
+            "image": "https://cf-images.assettype.com/esakal/2026-02-25/sdyaq35t/bmc-budget-2026.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "95ff84ed9d04",
-            "feed": "lokmat",
-            "title": "लाेणी माेड येथे वाहनासह नांदेड शहरातील गुटखा तस्कर गजाआड; १४ लाखांचा मुद्देमाल जप्त",
+            "id": "dfba63366fca",
+            "feed": "esakal",
+            "title": "Tuljabhavani Temple: दिवाळीनिमित्त तुळजाभवानी मातेस अभ्यंगस्नान",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-09T04:56:54",
-            "url": "https://www.lokmat.com/latur/gutkha-smuggler-from-nanded-city-arrested-along-with-vehicle-at-loni-mode-goods-worth-14-lakh-seized-a463-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gutkha-seized-latur_2026111817975.jpg",
+            "published": "2026-11-09T12:53:37",
+            "url": "https://www.esakal.com/paschim-maharashtra/tuljabhavani-temple-abhyang-snan-bhendoli-festival-tuljapur-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-09/nb89bd29/2026-11-09T124905.219.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "375581e370c2",
-            "feed": "lokmat",
-            "title": "४८३ गावांमध्ये पाेहचले पाेलिस; २४ नागरिकांशी साधला संवाद!",
+            "id": "8332fa8d7e7c",
+            "feed": "maharashtratimes",
+            "title": "Kolhapur Sangharsh Morcha : झेंड्यासह सतेज पाटील काळ्या ड्रेसात, गोकुळसाठी कोल्हापुरकरांचा एल्गार, 'संघर्ष मोर्चा'ला हजारोंची उपस्थिती; कोर्टात युक्तिवादाला सुरुवात",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
             },
-            "published": "2026-11-09T04:53:46",
-            "url": "https://www.lokmat.com/latur/police-reached-483-villages-interacted-with-24-citizens-in-latur-a463-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/latur-police-news_2026111817974.jpg",
+            "published": "2026-11-09T12:48:40",
+            "url": "https://maharashtratimes.com/maharashtra/kolhapur/kolhapur-gokul-chairman-election-satej-patil-sangharsh-morcha-dussehra-chowk-aurangabad-bench-hearing-begins-abhishek-singhvi-argument/articleshow/135674577.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "f92cec043785",
-            "feed": "lokmat",
-            "title": "नांदेड शहरात मध्यरात्री अग्नितांडव! पंधरा ते वीस फूट उंच ज्वाळा; पाच अग्निशमन बंबांचा पाण्याचा मारा",
+            "id": "59770e93056c",
+            "feed": "esakal",
+            "title": "Water Management:  दुष्काळावर मात करण्यासाठी पाणी नियोजन महत्त्वाचे ;डॉ. नीरज हातेकर; खटावमध्ये एम. आर. शिंदे स्मृतिदिनी व्याख्यान",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
             },
-            "published": "2026-11-09T04:45:49",
-            "url": "https://www.lokmat.com/nanded/fire-breaks-out-in-nanded-city-at-midnight-flames-fifteen-to-twenty-feet-high-five-fire-engines-douse-the-flames-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nanded-fire_2026111817973.jpg",
+            "published": "2026-11-09T12:38:38",
+            "url": "https://www.esakal.com/satara/maharashtra-drought-water-management-dr-neeraj-hatekar-khatav-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-09/uq0f3mo9/-2026-11-09T123703.426.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "a76dbada8aab",
-            "feed": "lokmat",
-            "title": "लातुरात मालमत्तेच्या वादातून ७ वर्षांच्या मुलाचा घाेटला गळा, परभणीतून बापास अटक",
+            "id": "4610aa359936",
+            "feed": "esakal",
+            "title": "Maharashtra Live News : कोल्हापुरात संघर्ष मोर्चाला सुरूवात",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
             },
-            "published": "2026-11-09T04:43:16",
-            "url": "https://www.lokmat.com/latur/7-year-old-boy-strangled-to-death-over-property-dispute-in-latur-father-arrested-from-parbhani-a463-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-4-n_202211905071.png",
+            "published": "2026-11-09T12:37:56",
+            "url": "https://www.esakal.com/maharashtra/maharashtra-live-news-diwali-festival-fire-mumbai-pune-latest-update-political-news-weather-update-ncp-shivsena-bjp-mns-padwa",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/2eznqz9u/sandeep-shirguppe-2026-04-29T082146.191.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "90262a5a683e",
+            "id": "f1ae766af8a1",
+            "feed": "esakal",
+            "title": "विषारी हवेपासून बचावासाठी टॉप 5 \nबजेट Air Purifiers; किंमत 4,499 रुपयांपासून सुरु..पाहा फीचर्स आणि ऑफर्स!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-09T12:49:52",
+            "url": "https://www.esakal.com/sci-tech/top-5-budget-air-purifiers-under-5000-pollution-marathi-news-diwali-air-pollution-lifestyle-health-sam01",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-09/ei8371jo/Top-5-Affordable-Air-Purifiers-Combat-Smog-and-Toxic-Air-Starting-at-₹4499.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "e37fc65e7afa",
             "feed": "lokmat",
-            "title": "तरुणांच्या राजकारणाला नवे समाजवादी वळण!",
+            "title": "Diwali Padwa 2026: बलिप्रतिपदेला पतीच्या औक्षणामागे दडलंय लक्ष्मीमातेचे वरदान, कसा सुरू झाला हा सण?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-09T05:29:52",
-            "url": "https://www.lokmat.com/editorial/a-new-socialist-turn-for-youth-politics-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/clipboard04da_202011512825.jpg",
+            "published": "2026-11-09T12:40:46",
+            "url": "https://www.lokmat.com/bhakti/diwali-padwa-2026-goddess-lakshmis-blessing-is-hidden-behind-the-husbands-auspiciousness-on-balipratipada-how-did-this-festival-start-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/diwali-padwa-2026-ritual-1_2026111818102.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "a0168568261b",
-            "feed": "lokmat",
-            "title": "काळाच्या ओघात मानवी शरीर हळूहळू थंड होतंय",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-09T05:25:05",
-            "url": "https://www.lokmat.com/editorial/the-human-body-gradually-cools-down-over-time-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fever-health4_2024071272714.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "546e3bc2153a",
-            "feed": "lokmat",
-            "title": "बचतीवरील व्याजदराबाबत ‘धोरण’ नसल्याने सामान्यांचे नुकसान",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-09T05:18:47",
-            "url": "https://www.lokmat.com/editorial/the-common-man-is-suffering-due-to-the-lack-of-a-policy-regarding-interest-rates-on-savings-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-3_2026101794245.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5df7dc1a542b",
-            "feed": "lokmat",
-            "title": "क्रिमी लेयर : चालढकल नको",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-09T05:15:01",
-            "url": "https://www.lokmat.com/editorial/creamy-layer-do-not-push-the-supreme-court-order-and-its-consequences-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supreme-court-2703-csfcc_2026041680954.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "c0697a22b3d7",
+            "id": "5d55827d3130",
             "feed": "maharashtratimes",
-            "title": "अंकभविष्य 9 नोव्हेंबर 2026: मूलांक 3 घरात सुखसमृद्धी! मूलांक 5 खुषखबर मिळण्याचा योग!जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "title": "तुमची नजर खरंच तीक्ष्ण आहे का? मटारच्या दाण्यांमधील लपलेली मांजर शोधून दाखवा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-09T04:46:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-9-november-2026-dhanteras-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135666791.cms",
+            "published": "2026-11-09T12:37:31",
+            "url": "https://maharashtratimes.com/viral/viral-news/can-you-spot-the-hidden-cat-among-these-peas-this-viral-puzzle-is-tricky/articleshow/135674401.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
-        }
-    ],
-    "world": [
+        },
         {
-            "id": "9acaec8c2574",
+            "id": "cbcd9edef488",
             "feed": "lokmat",
-            "title": "अमेरिकेतील निवडणुका आणि नात्यांचे नवे पेच!",
+            "title": "जिभेचे चोचले पडले महागात! दिवाळीत पाणीपुरी खाल्ल्याने फूड पॉयजनिंग; १५० जणांची बिघडली प्रकृती",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-11-09T12:35:43",
+            "url": "https://www.lokmat.com/national/siddharthnagar-golgappa-food-poisoning-mass-illness-children-hospitalized-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/panipuri_202301954674.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "335b5ad87604",
+            "feed": "lokmat",
+            "title": "लिव्ह-इन रिलेशनशिपचा भयानक शेवट! गर्लफ्रेंडने केली तरुणाची निर्घृण हत्या, आईलाही अटक",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-09T05:09:28",
-            "url": "https://www.lokmat.com/editorial/elections-in-america-and-new-complications-in-relationship-a284-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump2_2023121143508.jpg",
+            "published": "2026-11-09T12:25:55",
+            "url": "https://www.lokmat.com/crime/25-year-old-man-hacked-to-death-by-live-in-partner-in-kolkata-girlfriend-and-mother-arrested-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kolkata-live-in-partner-death_2026111818097.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
+        }
+    ],
+    "world": [
+        {
+            "id": "7da3be89ffe1",
+            "feed": "esakal",
+            "title": "Trump Iran War : अमेरिकेतील पराभवानंतर ट्रम्प यांच्या अडचणी वाढणार? इराणचा आक्रमक पवित्रा; इस्रायलवरून थेट निशाणा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-09T12:18:17",
+            "url": "https://www.esakal.com/global/trump-iran-war-republican-midterm-defeat-abbas-araghchi-israel-us-relations-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-09/a28pkdjb/Donald-Trump-3.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         },
         {
-            "id": "599592358e1f",
-            "feed": "lokmat",
-            "title": "भीषण अपघात! इजिप्तमध्ये २ प्रवासी ट्रेन एकमेकांना धडकल्या; ४ जणांचा मृत्यू, ८८ हून अधिक जखमी",
+            "id": "b975773a2cdd",
+            "feed": "esakal",
+            "title": "पत्रकार ते चीनची गुप्तहेर, कोण आहे अ‍ॅलिस हुआंग? जिच्यामुळे Nvidia चे CEO चर्चेत!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-11-08T21:31:47",
-            "url": "https://www.lokmat.com/international/horrific-accident-2-passenger-trains-collide-in-egypt-4-dead-more-than-88-injured-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/egypt-train-accident_2026111817949.jpg",
+            "published": "2026-11-09T09:16:54",
+            "url": "https://www.esakal.com/global/who-is-alice-huang-nvidia-ceo-jensen-huang-china-spy-allegations-megaspeed-case-spb94",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-09/xcc6tw6d/Nvidia-CEO-Jensen-Huang-China-Spy-Allegations",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
+        },
+        {
+            "id": "afcd06ce2ff1",
+            "feed": "esakal",
+            "title": "Israel Politics: इस्राईलमध्ये नवी समीकरणे!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-09T07:00:00",
+            "url": "https://www.esakal.com/sampadakiya/editorial-articles/new-political-equations-in-israel-signal-major-changes-in-middle-east-politics-and-regional-diplomatic-relations-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-08/24uxdih8/sudhir-jadhav-satara-22.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
         },
         {
             "id": "f999fd1ea0fb",
@@ -214,136 +230,120 @@
             "category_reason": "url"
         },
         {
-            "id": "840fd9a4d9af",
-            "feed": "lokmat",
-            "title": "अमेरिकन खासदार अब्दुल यांचा पाकिस्तानला झटका; शहबाज शरीफ सरकारची चिंता वाढणार, काय घडलं?",
+            "id": "b137ddbe776b",
+            "feed": "maharashtratimes",
+            "title": "Saudi Arabia News:  हुथी बंडखोरांचे 6 हल्ले,  सौदीच्या प्रत्युत्तरात येमेनमध्ये 33 जणांचा मृत्यू",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-11-08T20:36:18",
-            "url": "https://www.lokmat.com/international/us-senator-elect-abdul-el-sayed-has-questioned-washingtons-financial-and-military-assistance-to-several-countries-including-pakistan-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/abudul-on-pakistan-1_2026111817941.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "4ba595797e46",
-            "feed": "lokmat",
-            "title": "आयझेनकोट बनणार इस्रायलचे नवे पंतप्रधान?; ६ आठवड्यांच्या आत बहुमत सिद्ध करावं लागणार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-08T18:55:15",
-            "url": "https://www.lokmat.com/international/political-earthquake-in-israel-eisenkot-to-form-government-will-have-to-prove-majority-within-6-weeks-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eson-isreal-1_2026111817933.jpg",
+            "published": "2026-11-08T14:25:52",
+            "url": "https://maharashtratimes.com/international/international-news/houthi-attack-saudi-arebia-attack-on-yemen-33-people-died/articleshow/135652242.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "a43c1aee74a3",
+            "id": "44ebcc5df1db",
             "feed": "lokmat",
-            "title": "राष्ट्रीय क्रिकेट स्पर्धेसाठी लातूर येथील साक्षी शिंदे महाराष्ट्र संघात",
+            "title": "IND vs NZ 3rd ODI : आता न्यूझीलंडचं काही खरं नाही; टीम इंडियाविरुद्धच्या तिसऱ्या सामन्याआधी दुहेरी धक्का",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-09T05:04:02",
-            "url": "https://www.lokmat.com/cricket/news/sakshi-shinde-from-latur-in-maharashtra-team-for-national-cricket-tournament-a463-c719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sakshi-shinde-latur-cricket_2026111817977.jpg",
+            "published": "2026-11-09T12:53:36",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-new-zealand-stars-lockie-ferguson-and-blair-tickner-out-of-odi-series-against-india-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/new-zealand-stars-lockie-ferguson-and-blair-tickner-out-of-odi-series-against-india-m_2026111818107.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "b25f62e664d6",
+            "id": "7daee4a6949f",
             "feed": "maharashtratimes",
-            "title": "IND vs PAK : आणखी किती जोर लावावा? भारताच्या पराभवानंतर कर्णधाराचा गोलंदाजांवर खापर फोडण्याचा प्रयत्न, लक्ष्यची प्रतिक्रिया समोर",
+            "title": "IND vs NZ : विराट-रोहित तुम्हाला खेळावंच लागेल! हॅमिल्टनमधील 46 वर्षांचा इतिहास आणि धडकी भरवणारी आकडेवारी, जाणून घ्या",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-08T22:46:54",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/u19-asia-cup-2026-ind-vs-pak-we-could-have-bowled-a-little-bit-better-says-captain-lakshya-raichandani-after-pakistan-beat-india/articleshow/135663347.cms",
+            "published": "2026-11-09T12:45:20",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-nz-3rd-odi-team-india-head-to-head-against-new-zealand-record-seddon-park-hamilton/articleshow/135672788.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f7b82f79015c",
-            "feed": "lokmat",
-            "title": "दिवाळीत U-19 टीम इंडियाचा शिमगा, हातची मॅच घालवली, पाकिस्तानकडून निसटता पराभव",
+            "id": "d1be7246ebfb",
+            "feed": "esakal",
+            "title": "IND vs NZ Test : भारताच्या पाच खेळाडूंची शेवटच्या दोन वन डे सामन्यांतून माघार; नेमकं कारण काय? मग त्यांच्या जागी कोण येणार?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-11-08T21:47:18",
-            "url": "https://www.lokmat.com/cricket/news/u-19-team-indias-diwali-performance-lost-the-match-by-a-narrow-margin-to-pakistan-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-pak-u-19-asia-cup-2_2026111817953.jpg",
+            "published": "2026-11-09T12:32:09",
+            "url": "https://www.esakal.com/krida/cricket/from-shubman-gill-to-kl-rahul-india-test-specialists-to-miss-final-two-odis-against-new-zealand-who-will-replace-them-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-09/6lgak801/Shubman-Gill-KL-Rahul-Shreyas-Iyer",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "57dd03f6304d",
+            "id": "42b5a51c28f8",
             "feed": "lokmat",
-            "title": "लवकरच येतोय iPhone 18 सीरिजचा सर्वात स्वस्त स्मार्टफोन; जाणून घ्या फीचर्स आणि किंमत",
+            "title": "Weather : यंदा दिवाळीला थंडीचे आगमन, दिवाळीनंतर थंडीचा जोर वाढणार का, जाणून घ्या सविस्तर",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-08T20:59:24",
-            "url": "https://www.lokmat.com/tech/apple-iphone-cheapest-smartphone-of-the-iphone-18-series-is-coming-soon-know-the-features-and-price-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/apple-iphone18_2026111817945.jpg",
+            "published": "2026-11-09T12:25:02",
+            "url": "https://www.lokmat.com/agriculture/weather/cold-weather-to-arrive-on-diwali-cold-weather-intensify-after-diwali-know-in-detail-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cold-thandi-3_2026111818096.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "43b7af74f466",
-            "feed": "lokmat",
-            "title": "Jio ची आपल्या ग्राहकांना खास दिवाळी भेट! १० महिन्यांच्या रिचार्जवर मिळवा ५ महिने अगदी मोफत",
+            "id": "3d98955eb226",
+            "feed": "maharashtratimes",
+            "title": "Nvidia Espionage Controversy: ॲलिस हुआंग कोण? एकेकाळी पत्रकार मग बनल्या चिनी ‘स्पाय’, सौंदर्यावर भाळलेल्या Nvidia सीईओंकडून नात्याची कबूली",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-11-08T20:47:26",
-            "url": "https://www.lokmat.com/business/news/jios-special-diwali-gift-to-its-customers-get-5-months-absolutely-free-on-10-months-recharge-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jio-offer_2026111817944.jpg",
+            "published": "2026-11-09T12:24:58",
+            "url": "https://maharashtratimes.com/business/business-news/who-is-alice-huang-former-megaspeed-executive-suspected-of-chinese-intelligence-ties-amid-affair-with-nvidia-ceo-jensen-huang/articleshow/135673597.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "669b989ea5e7",
-            "feed": "lokmat",
-            "title": "E20 पेट्रोलच्या गुणवत्तेवरून वाद; क्वालिटी टेस्टमध्ये ८९३ सँपल पास, केंद्राकडून कर्नाटक सरकारच्या दाव्यांचे खंडन",
+            "id": "eee7d26b016a",
+            "feed": "esakal",
+            "title": "Premium|Gen Z Financial Mindset : कॉन्सर्ट, कॉफी अन् एसआयपी; जेन झी पिढी पैशांकडे नव्या नजरेने का पाहतेय?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-11-08T18:15:31",
-            "url": "https://www.lokmat.com/business/news/controversy-over-the-quality-of-e20-petrol-893-samples-passed-the-quality-test-the-centre-refutes-the-karnataka-governments-claims-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/petrol-ethanol-karnatak_2026111817931.jpg",
+            "published": "2026-11-09T12:14:11",
+            "url": "https://www.esakal.com/premium-article/gen-z-financial-mindset-spending-habits-sip-investment-emi-retirement-planning-digital-payments-quick-commerce-financial-freedom-money-management-lifestyle-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-09/7472k3rq/Abhi-57.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "keyword"
         }
     ]
 }
