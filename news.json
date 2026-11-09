@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "09-11-2026 | 02:23 AM IST",
+    "lastUpdated": "09-11-2026 | 05:49 AM IST",
     "maharashtra": [
         {
-            "id": "3d1b5dbb5e1f",
-            "feed": "maharashtratimes",
-            "title": "Thane Fire : ठाण्यात रहेजा कारलाइन इमारतीला भीषण आग, एकनाथ शिंदे घटनास्थळी, आगीवर नियंत्रण, अडकलेल्यांच्या सुटकेची मोहीम जारी",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-09T00:08:47",
-            "url": "https://maharashtratimes.com/maharashtra/thane/severe-fire-in-thane-deputy-chief-minister-eknath-shinde-at-scene/articleshow/135664664.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "aa0d7194297c",
+            "id": "56f060b2598c",
             "feed": "lokmat",
-            "title": "'रॉ'च्या नावाचा धाक, जर्मनीच्या साहित्याची थाप; मेडशिंगे कुटुंबाला साठे अठरा कोटींचा गंडा!",
+            "title": "लातूर एमआयडीसीमध्ये भीषण आग; कंपनीतील सर्वच साहित्य जळून खाक, एक कोटींचे नुकसान",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-08T23:47:08",
-            "url": "https://www.lokmat.com/crime/a-shocking-incident-in-kolhapur-where-a-family-cheated-out-of-a-staggering-rs-185-crore-by-an-individual-who-falsely-claimed-to-be-an-raw-agent-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cyber-fraud-4_2026101807681.jpg",
+            "published": "2026-11-09T04:59:53",
+            "url": "https://www.lokmat.com/latur/massive-fire-breaks-out-in-latur-midc-all-company-materials-gutted-loss-of-1-crore-a463-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/latur-midc-fire_2026111817976.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "4d27c00147fd",
+            "id": "95ff84ed9d04",
             "feed": "lokmat",
-            "title": "दिवाळीच्या जल्लोषात आगीचा भडका; आठ ठिकाणी आग, फुलेवाडी रिंग रोडवर गोदाम आगीच्या भक्ष्यस्थानी",
+            "title": "लाेणी माेड येथे वाहनासह नांदेड शहरातील गुटखा तस्कर गजाआड; १४ लाखांचा मुद्देमाल जप्त",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-11-08T23:44:15",
-            "url": "https://www.lokmat.com/kolhapur/fire-breaks-out-during-diwali-celebrations-fire-breaks-out-at-eight-places-warehouse-on-phulewadi-ring-road-catches-fire-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kop-fire-incident-1_2026111817970.jpg",
+            "published": "2026-11-09T04:56:54",
+            "url": "https://www.lokmat.com/latur/gutkha-smuggler-from-nanded-city-arrested-along-with-vehicle-at-loni-mode-goods-worth-14-lakh-seized-a463-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gutkha-seized-latur_2026111817975.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "7b03477f6f78",
+            "id": "375581e370c2",
             "feed": "lokmat",
-            "title": "एक दिवस अब्दुल उत्तर प्रदेशचा मुख्यमंत्री आणि देशाचा पंतप्रधानही होईल'; वारिस पठाण यांचा दावा",
+            "title": "४८३ गावांमध्ये पाेहचले पाेलिस; २४ नागरिकांशी साधला संवाद!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "category": null
             },
-            "published": "2026-11-08T23:41:12",
-            "url": "https://www.lokmat.com/mumbai/one-day-abdul-will-become-the-cm-of-uttar-pradesh-and-the-pm-of-the-country-aimim-leaders-waris-pathan-claims-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/waris-pathan-on-abdul_2026111817968.jpg",
+            "published": "2026-11-09T04:53:46",
+            "url": "https://www.lokmat.com/latur/police-reached-483-villages-interacted-with-24-citizens-in-latur-a463-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/latur-police-news_2026111817974.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "1e745f0c0c50",
-            "feed": "esakal",
-            "title": "फटाक्यांमुळे अवघ्या चार तासात आगेच्या २५ घटना",
+            "id": "f92cec043785",
+            "feed": "lokmat",
+            "title": "नांदेड शहरात मध्यरात्री अग्नितांडव! पंधरा ते वीस फूट उंच ज्वाळा; पाच अग्निशमन बंबांचा पाण्याचा मारा",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-11-08T23:29:25",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/fire-outbreaks-nashik-cracker-incidents",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/ut16t4sw/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "published": "2026-11-09T04:45:49",
+            "url": "https://www.lokmat.com/nanded/fire-breaks-out-in-nanded-city-at-midnight-flames-fifteen-to-twenty-feet-high-five-fire-engines-douse-the-flames-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nanded-fire_2026111817973.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
+        },
+        {
+            "id": "a76dbada8aab",
+            "feed": "lokmat",
+            "title": "लातुरात मालमत्तेच्या वादातून ७ वर्षांच्या मुलाचा घाेटला गळा, परभणीतून बापास अटक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-09T04:43:16",
+            "url": "https://www.lokmat.com/latur/7-year-old-boy-strangled-to-death-over-property-dispute-in-latur-father-arrested-from-parbhani-a463-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/crime-4-n_202211905071.png",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "india": [
         {
-            "id": "99b50a5e7cb0",
-            "feed": "esakal",
-            "title": "दिवाळीत फटाके उडवताना भाजलं तर काय करावं?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-09T00:00:41",
-            "url": "https://www.esakal.com/ampstories/web-story/diwali-firecracker-burn-first-aid-what-to-do-immediately-home-remedies-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-08/1sayb6wq/Diwali-Firecracker-Burn-First-Aid.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "46321f459f2e",
-            "feed": "esakal",
-            "title": "वक्री शुक्राची कृपा की ग्रहांचा मोठा प्रभाव? 14 नोव्हेंबरपर्यंत ‘या’ 5 राशींना धनलाभाचे संकेत!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-08T23:59:14",
-            "url": "https://www.esakal.com/ampstories/web-story/venus-retrograde-5-zodiac-signs-financial-gains-november-14-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-07/ljxaskqs/Akshaya-Tritiya-zodiac-signs-Lucky-rashi-1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "d8a9dc60af1b",
+            "id": "90262a5a683e",
             "feed": "lokmat",
-            "title": "कुठे फटाक्यांमुळे तर कुठे शॉर्ट सर्किट... दिल्लीपासून सिक्कीमपर्यंत आगीच्या घटना, मोठी वित्तहानी",
+            "title": "तरुणांच्या राजकारणाला नवे समाजवादी वळण!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "india"
-            },
-            "published": "2026-11-08T23:59:03",
-            "url": "https://www.lokmat.com/national/some-due-to-firecrackers-some-due-to-short-circuit-fire-incidents-from-delhi-to-sikkim-huge-financial-loss-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fire-1_2026111817971.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "37ee874418eb",
-            "feed": "esakal",
-            "title": "'या' सवयींमुळे वाढू शकतो हायटस हर्नियाचा त्रास; जाणून घ्या उपाय",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-08T23:56:57",
-            "url": "https://www.esakal.com/ampstories/web-story/late-night-eating-hiatal-hernia-symptoms-prevention-tips-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-08-25/25x4zm4l/Hernia-Symptoms-9.jpg",
+            "published": "2026-11-09T05:29:52",
+            "url": "https://www.lokmat.com/editorial/a-new-socialist-turn-for-youth-politics-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/clipboard04da_202011512825.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "e967851c1865",
-            "feed": "esakal",
-            "title": "सणासुदीत फूड पॉइझनिंगचा धोका; खाण्याच्या ‘या’ चुका टाळा",
+            "id": "a0168568261b",
+            "feed": "lokmat",
+            "title": "काळाच्या ओघात मानवी शरीर हळूहळू थंड होतंय",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-08T23:53:52",
-            "url": "https://www.esakal.com/ampstories/web-story/festival-food-safety-tips-7-eating-mistakes-that-can-cause-food-poisoning-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-22/sdz963r5/stomach.png",
+            "published": "2026-11-09T05:25:05",
+            "url": "https://www.lokmat.com/editorial/the-human-body-gradually-cools-down-over-time-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fever-health4_2024071272714.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "546e3bc2153a",
+            "feed": "lokmat",
+            "title": "बचतीवरील व्याजदराबाबत ‘धोरण’ नसल्याने सामान्यांचे नुकसान",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-09T05:18:47",
+            "url": "https://www.lokmat.com/editorial/the-common-man-is-suffering-due-to-the-lack-of-a-policy-regarding-interest-rates-on-savings-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-3_2026101794245.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "5df7dc1a542b",
+            "feed": "lokmat",
+            "title": "क्रिमी लेयर : चालढकल नको",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-09T05:15:01",
+            "url": "https://www.lokmat.com/editorial/creamy-layer-do-not-push-the-supreme-court-order-and-its-consequences-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/supreme-court-2703-csfcc_2026041680954.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "c0697a22b3d7",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 9 नोव्हेंबर 2026: मूलांक 3 घरात सुखसमृद्धी! मूलांक 5 खुषखबर मिळण्याचा योग!जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-09T04:46:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-9-november-2026-dhanteras-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135666791.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "9acaec8c2574",
+            "feed": "lokmat",
+            "title": "अमेरिकेतील निवडणुका आणि नात्यांचे नवे पेच!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-09T05:09:28",
+            "url": "https://www.lokmat.com/editorial/elections-in-america-and-new-complications-in-relationship-a284-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump2_2023121143508.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "599592358e1f",
             "feed": "lokmat",
@@ -228,25 +244,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eson-isreal-1_2026111817933.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "b137ddbe776b",
-            "feed": "maharashtratimes",
-            "title": "Saudi Arabia News:  हुथी बंडखोरांचे 6 हल्ले,  सौदीच्या प्रत्युत्तरात येमेनमध्ये 33 जणांचा मृत्यू",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-11-08T14:25:52",
-            "url": "https://maharashtratimes.com/international/international-news/houthi-attack-saudi-arebia-attack-on-yemen-33-people-died/articleshow/135652242.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "a43c1aee74a3",
+            "feed": "lokmat",
+            "title": "राष्ट्रीय क्रिकेट स्पर्धेसाठी लातूर येथील साक्षी शिंदे महाराष्ट्र संघात",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-11-09T05:04:02",
+            "url": "https://www.lokmat.com/cricket/news/sakshi-shinde-from-latur-in-maharashtra-team-for-national-cricket-tournament-a463-c719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sakshi-shinde-latur-cricket_2026111817977.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "b25f62e664d6",
             "feed": "maharashtratimes",
@@ -276,22 +292,6 @@
             "published": "2026-11-08T21:47:18",
             "url": "https://www.lokmat.com/cricket/news/u-19-team-indias-diwali-performance-lost-the-match-by-a-narrow-margin-to-pakistan-a301/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-pak-u-19-asia-cup-2_2026111817953.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "00af7fb25f19",
-            "feed": "maharashtratimes",
-            "title": "IND vs PAK : पाकिस्तानला विजयानंतरही मजबूत फटका, भारतीय गोलंदाजांचं कराल तितकं कौतुक कमी,काय झालं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-11-08T20:59:30",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-pak-u19-asia-cup-2026-pakistan-major-loss-in-net-run-rate-india-dropped-2nd-position-after-match-result-against-each-other/articleshow/135661695.cms",
-            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
