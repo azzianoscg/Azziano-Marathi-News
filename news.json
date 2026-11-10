@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "10-11-2026 | 10:15 PM IST",
+    "lastUpdated": "11-11-2026 | 03:32 AM IST",
     "maharashtra": [
+        {
+            "id": "c269536a49fd",
+            "feed": "lokmat",
+            "title": "मिरजेत कोयत्याने वार करून एकाचा खून,पूर्व वैमनस्यातून खुनाचा संशय",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-10T22:43:28",
+            "url": "https://www.lokmat.com/sangli/one-killed-by-a-jackal-in-miraj-murder-suspected-due-to-past-enmity-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sangli-crime-news-1_2026111818883.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "29f54028774a",
+            "feed": "lokmat",
+            "title": "गुन्हेगारीमुक्त नागपूरच्या स्वप्नाला हरताळ, सराईत गुन्हेगार मोकाट, पोलिसांची बेफिकिरी उघड",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-10T22:34:05",
+            "url": "https://www.lokmat.com/nagpur/the-dream-of-a-crime-free-nagpur-is-shattered-criminals-are-free-in-the-inn-the-carelessness-of-the-police-is-exposed-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devendra-fadnavis-mumbai-crime-news_2026111815156.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "878a901d5ba9",
+            "feed": "maharashtratimes",
+            "title": "Mandangad Water Project: मंडणगडवासियांना  दिवाळीच मोठं गिफ्ट; तब्बल ४२ कोटी रुपयांच्या नळपाणी प्रकल्पाचे योगेश कदम यांच्या हस्ते भूमिपूजन",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-10T22:33:39",
+            "url": "https://maharashtratimes.com/maharashtra/ratnagiri/tap-water-supply-project-will-be-launched-in-mandangad-inaugurated-by-yogesh-kadam/articleshow/135716882.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f53f7882f65e",
+            "feed": "maharashtratimes",
+            "title": "Satara Bank Election: गोकुळनंतर साताऱ्यातही मोठा ट्विस्ट; जिल्हा बँकेत राष्ट्रवादीला अध्यक्षपदाची संधी मिळणार का? महायुतीतील हालचालीकडे लक्ष",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-10T22:30:00",
+            "url": "https://maharashtratimes.com/maharashtra/satara/opportunity-for-ncp-to-secure-presidency-in-satara-bank-after-gokul-election/articleshow/135716678.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "251b6524e720",
             "feed": "maharashtratimes",
@@ -16,155 +80,107 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "6519884970f2",
-            "feed": "lokmat",
-            "title": "लातुरात इमारतीच्या पाचव्या मजल्यावर आग; साहित्य खाक, अग्निशमनच्या तत्परतेने अनर्थ टळला",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-10T22:04:37",
-            "url": "https://www.lokmat.com/latur/fire-breaks-out-on-fifth-floor-of-building-in-latur-materials-destroyed-disaster-averted-due-to-prompt-action-of-fire-fighters-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/latur-fire-s1_2026111818882.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "8ba6875292dc",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update: राज्यासह देशविदेशात दिवसभरात काय काय घडलं? वाचा एका क्लिकवर...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-10T21:53:59",
-            "url": "https://www.esakal.com/maharashtra/diwali-padva-govardhan-puja-gokul-milk-ramayana-part-one-jensen-huang-firecracker-restrictions-and-fires-bmc-satej-patil-ncp-shrad-pawar-narendra-modi-amit-shaha-raj-thackeray",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-05/qglr7h4m/Latest-Marathi-News-Live-Update",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e384449166c6",
-            "feed": "esakal",
-            "title": "Annasaheb Jolle Halsiddhnath Sugar Factory: निपाणीच्या हालसिद्धनाथ साखर कारखान्याची २०२६-२७ हंगामासाठी ३७७० रुपये पहिली उचल जाहीर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-10T21:36:04",
-            "url": "https://www.esakal.com/paschim-maharashtra/halsiddhnath-sugar-factory-cane-price-first-installment-annasaheb-jolle-nipani-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-10/qqv8qtry/Esakal-7.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "fd76966ae28a",
-            "feed": "esakal",
-            "title": "Premium|Land Acquisition Compensation : मातीचे मोल अन् आर्थिक भविष्याचा समतोल!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-10T20:57:00",
-            "url": "https://www.esakal.com/premium-article/land-acquisition-compensation-farmers-financial-planning-investment-mutual-funds-sip-wealth-management-rural-investment-future-financial-security-maharashtra-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-09/tdqh71v0/Abhi-55.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "india": [
         {
-            "id": "17718cc99600",
+            "id": "850de10c6d30",
             "feed": "esakal",
-            "title": "Viral Video : लेकीची दिवाळी साजरी करण्यासाठी आईने शेळी विकली...भावनिक व्हिडिओ व्हायरल",
+            "title": "मुलांच्या आवडीची श्रीखंडाची गोळी बनवा घरीच",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-10T21:51:29",
-            "url": "https://www.esakal.com/trending-news/mother-sells-goat-to-celebrate-daughters-diwali-emotional-video-goes-viral-nanded-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-10/yjav3g5k/Kashibai-Shinde",
+            "published": "2026-11-11T01:19:31",
+            "url": "https://www.esakal.com/ampstories/web-story/how-to-make-shrikhand-goli-at-home-easy-homemade-shrikhand-candy-recipe-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-10/gegbc0lo/Homemade-Shrikhand-Goli-5.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "9ae3d723ff73",
+            "id": "427d5c51a319",
             "feed": "maharashtratimes",
-            "title": "कात्री, गळा अन् स्वत:वर हल्ला; इंजिनीअरचा संशयास्पद मृत्यू; GFच्या विसंगत जबाबांनी गूढ वाढलं",
+            "title": "पंचांग 11 November 2026: भाऊबीज, यमद्वितीया, अमृत सिद्धि योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-10T21:36:50",
-            "url": "https://maharashtratimes.com/india-news/kolkata-techie-murder-injured-his-own-throat-with-scissors-engineers-girlfriend-makes-contradictory-claims/articleshow/135715369.cms",
+            "published": "2026-11-11T00:41:16",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-11-november-2026-in-marathi-bhaubij-yam-dwitiya-and-shubha-muhurta/articleshow/135718105.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "fc4401852b85",
-            "feed": "esakal",
-            "title": "Sonia Gandhi Book : \"अजिबात नाही!\"; भारताचे पंतप्रधानपद का नाकारले? अनेक वर्षांनंतर गांधी घराण्यातील 'त्या' निर्णयामागचे सत्य उघड!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-10T21:21:16",
-            "url": "https://www.esakal.com/desh/sonia-gandhi-belonging-book-memoir-pm-post-refusal-rahul-priyanka-fear-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-10/f51s5bax/Esakal-6.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b2acaf158d82",
-            "feed": "esakal",
-            "title": "पुढच्या पाच दिवसांत ५ राशींचं नशीब चमकणार! वक्री शुक्र देणार भरभरून लाभ, उत्पन्नाचे नवे मार्गही खुलणार",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-10T21:11:06",
-            "url": "https://www.esakal.com/culture-and-religion/venus-retrograde-2026-five-zodiac-signs-to-gain-career-money-and-life-benefits-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-10/s0gr41xz/Venus-Retrograde-2026",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "08b12b4479e1",
+            "id": "f6a3b6d0264e",
+            "feed": "maharashtratimes",
+            "title": "आजचे राशिभविष्य 11 नोव्हेंबर 2026 : भाऊबीजेच्या शुभदिनी ग्रहांचा शुभ संयोग या राशींसाठी दिवस भाग्याचा। पहा तुमचे आजचे राशिभविष्य काय सांगते !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-11T00:00:00",
+            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-11-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135709801.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ecc8aea3c333",
+            "feed": "esakal",
+            "title": "Chanakya Niti: आयुष्यात 'या' ४ लोकांना कधीही करू नका मदत! अन्यथा करावा लागेल पश्चात्ताप",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-10T23:26:26",
+            "url": "https://www.esakal.com/ampstories/web-story/chanakya-niti-4-types-of-people-you-should-never-help-in-life-and-why-you-may-regret-it-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-10-16/v2srbdvj/Chanakya-niti-Secret-to-Victory-5.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "be6284fffc59",
             "feed": "lokmat",
-            "title": "'मोहिनी - प्रेमाची फिल्मी कहाणी' मालिकेत सजणार RK आणि मोहिनीचा पहिला दिवाळसण",
+            "title": "हवेत २०० फूट उंचीवर मृत्यूशी झुंज; वि‍जेच्या तारांत अडकलेल्या रशियन पायलटची ३ तासांनी थरारक सुटका",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "india"
             },
-            "published": "2026-11-10T21:08:34",
-            "url": "https://www.lokmat.com/filmy/television/rk-and-mohinis-first-bankruptcy-will-be-seen-in-the-series-mohini-premachi-filmi-kahani-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mohini-serial_2026111818877.jpg",
+            "published": "2026-11-10T23:22:37",
+            "url": "https://www.lokmat.com/national/russian-pilot-survives-200-feet-in-the-air-after-being-trapped-by-lightning-thrilling-rescue-after-3-hours-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/himachal-pradesh-rescue-201_2026111818886.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "feed"
         }
     ],
     "world": [
+        {
+            "id": "a6eeac269324",
+            "feed": "lokmat",
+            "title": "इराणवर हल्ल्यासाठी नेतन्याहू यांच्याकडून सातत्याने कॉल; डोनाल्ड ट्रम्प यांच्यावर दबाव?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-10T22:47:00",
+            "url": "https://www.lokmat.com/international/netanyahus-constant-calls-for-an-attack-on-iran-pressure-on-donald-trump-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/netnyahu-called-trump-1_2026111818884.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "0d0531ce0ed2",
             "feed": "lokmat",
@@ -228,25 +244,25 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "cab26578ea14",
-            "feed": "lokmat",
-            "title": "हायवेवर एकापाठोपाठ एक ५० वाहने एकमेकांवर आदळली; धुक्यामुळे सर्वात भीषण अपघात, पाहा Video",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-10T19:21:58",
-            "url": "https://www.lokmat.com/international/vehicle-pile-ups-involving-over-50-vehicles-on-the-trakia-motorway-near-yambol-bulgaria-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bulgaria-accident-on-road_2026111818826.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
+        {
+            "id": "bc5096ead68d",
+            "feed": "maharashtratimes",
+            "title": "Aaryavir Sehwag : पोरा जिंकलंस! आर्यवीरने सांगून शतकं ठोकलं, विजयानंतर स्वत:नेच सांगितलं, काय म्हणाला?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-11-10T23:28:21",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/u19-asia-cup-2026-ind-vs-afg-aaryavir-sehwag-completed-his-promise-to-give-his-father-virender-sehwag-after-smashed-160-runs/articleshow/135718106.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "5018e8a36a56",
             "feed": "maharashtratimes",
@@ -276,22 +292,6 @@
             "published": "2026-11-10T20:47:36",
             "url": "https://www.esakal.com/krida/cricket/virender-sehwag-son-aryavir-smashes-160-equals-shubman-gill-record-in-u19-asia-cup-psk96",
             "image": "https://cf-images.assettype.com/esakal/2026-11-10/n0ec26fk/Aryavir-Sehwag-Century-U19-Asia-Cup-India-vs-UAE-3.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "6b24d72f00ba",
-            "feed": "lokmat",
-            "title": "घर नेहमीच खास वाटतं कारण..., सचिनने अंजलीला भावूक शब्दात दिल्या वाढदिवसाच्या शुभेच्छा, तर खास फोटो शेअर करत सारा म्हणाली...",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-11-10T19:37:27",
-            "url": "https://www.lokmat.com/cricket/news/home-always-feels-special-because-sachin-tendulkar-wished-anjali-a-happy-birthday-in-emotional-words-while-sara-shared-a-special-photo-and-said-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sachin-tendulkar-anjali-tendulkar-1_2026111818833.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
