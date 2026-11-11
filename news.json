@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "11-11-2026 | 07:53 AM IST",
+    "lastUpdated": "11-11-2026 | 03:30 PM IST",
     "maharashtra": [
         {
-            "id": "58f97d66b9a1",
-            "feed": "maharashtratimes",
-            "title": "Kidney Donation : हिला एकच किडनी, लग्न कोण करेल; भावाचं आयुष्य बदलणारं 'दान', वैशालीताईंच्या निर्णयावर झालेली टीका, 21 वर्षांनीही दोघं ठणठणीत",
+            "id": "9d8ce5fc8e2b",
+            "feed": "lokmat",
+            "title": "क्रांतिसूर्य बिरसा मुंडा यांचे स्मारक ओझरखेड धरणाजवळ साकारणार",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-11T07:21:30",
-            "url": "https://maharashtratimes.com/maharashtra/nagpur/bhaubeej-2026-wardha-vaishali-bisandre-kidney-donation-to-brother-milind-sawai-21-years-anniversary/articleshow/135722487.cms",
-            "image": "",
+            "published": "2026-11-11T15:13:45",
+            "url": "https://www.lokmat.com/nashik/a-memorial-to-the-revolutionary-birsa-munda-will-be-built-near-the-ozarkheed-dam-in-nashik-a597/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/girish-mahajan-mini-news_20171132883.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "c93425fe1046",
+            "id": "da44a7eacfe0",
+            "feed": "lokmat",
+            "title": "Latest Marathi News Live: कुलगाममध्ये CRPF च्या कॅम्पवर दहशतवादी हल्ला, ३ जवान जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-11T15:06:10",
+            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-11-november-2026-gokul-chairman-election-satej-patil-vs-hasan-mushriff-ncp-merger-sunetra-pawar-cm-devendra-fadnavis-pm-narendra-modi-diwali-2026-drought-donald-trump-eknath-shinde-sonia-gandhi-a573/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f3a9ec1ec7cd",
             "feed": "esakal",
-            "title": "Maharashtra Weather Forecast : दुपारी उन्हाचा चटका तर रात्री गारठा ! राज्यात पुढील ४ दिवसांत थंडीचा जोर वाढणार, तुमच्या भागात कसे असेल हवामान?",
+            "title": "Pune Crime: शिरूरमध्ये संतापजनक घटना! ११ वर्षीय मुलीवर वडिलांकडूनच लैंगिक अत्याचार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-11T15:03:00",
+            "url": "https://www.esakal.com/crime/pune-crime-shirur-11-year-old-girl-sexual-abuse-case-agn97",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-11/we2z2bsz/Pune-Crime-शिरूरमध्ये-संतापजनक-घटना-११-वर्षीय-मुलीवर-वडिलांकडूनच-लैंगिक-अत्याचार.png",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "d86687af0c05",
+            "feed": "esakal",
+            "title": "Sunetra Pawar: सुनेत्रा पवारांच्या एकाच वाक्याने पुन्हा चर्चांना उधाण.",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-11T06:53:14",
-            "url": "https://www.esakal.com/maharashtra/maharashtra-weather-forecast-dry-weather-temperature-drop-imd-alert-mumbai-pune-nagpur-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-11/mcrafz6q/Maharashtra-Weather-2.jpg",
+            "published": "2026-11-11T15:02:04",
+            "url": "https://www.esakal.com/pune/sunetra-pawar-ncp-merger-update-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-11/8puhld7r/2026-11-11T144855.976.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "baae8aedbc60",
-            "feed": "lokmat",
-            "title": "संविधानातच समान नागरी कायद्याची तरतूद: CM फडणवीस; विरोधकांवर आंदोलन भडकविण्याचा आरोप",
+            "id": "a8ddf9d507ce",
+            "feed": "maharashtratimes",
+            "title": "'बंटी पाटलाची सभा शेवटची सभा', हसन मुश्रीफ यांचा Satej Patil यांना इशारा",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-11T06:25:07",
-            "url": "https://www.lokmat.com/mumbai/cm-devendra-fadnavis-said-provision-of-uniform-civil-code-in-the-indian-constitution-itself-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cm-devendra-fadnavis-delhi-news_2026081764910.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bcd34350140a",
-            "feed": "lokmat",
-            "title": "रोहित पवार १४ किंवा १५ ला महत्त्वाचे सादरीकरण करणार! काही धक्कादायक बाबी समोर येतील",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-11T06:21:05",
-            "url": "https://www.lokmat.com/mumbai/rohit-pawar-will-make-an-important-presentation-on-the-14th-or-15th-some-shocking-things-will-come-to-light-whos-claim-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rohit-pawar-and-late-ajit-pawar_2026111818892.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e2dcfb2ed3ec",
-            "feed": "lokmat",
-            "title": "राष्ट्रवादीच्या विलीनीकरणाऐवजी तिसरा गट निर्माण होणार? राजकीय घडामोडींना नवे वळण, चर्चा सुरू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-11T06:16:30",
-            "url": "https://www.lokmat.com/mumbai/will-a-third-group-be-formed-instead-of-merging-both-ncp-new-turn-in-political-developments-discussions-underway-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dcm-sunetra-pawar-and-sharad-pawar-ncp_2026111818891.jpg",
+            "published": "2026-11-11T14:59:46",
+            "url": "https://maharashtratimes.com/maharashtra/kolhapur/ncp-minister-hasan-mushrif-criticizes-satej-patil-following-the-gokul-elections/videoshow/135732369.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "305898ef4dfc",
+            "id": "4e71f5438265",
             "feed": "maharashtratimes",
-            "title": "Tharala Tar Mag : सुखासुखी चालू असताना पूर्णाआजीचा धक्कादायक निर्णय, सुभेदार हादरले! प्रियाचा अलर्ट मोड ऑन, सायलीला खेचणार जाळ्यात",
+            "title": "Amitabh Bachchan and Rajiv Gandhi: अमिताभ बच्चन यांना चिडवण्यासाठी राजीव गांधींनी विमानतळावर  केला होता प्रँक, सोनिया गांधींच्या 'बिलाँगिंग' पुस्तकातील रंजक प्रसंग",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-11T07:40:51",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/television-news/tharala-tar-mag-serial-11-november-2026-episode-subhedar-shocked-when-purna-aaji-make-will/articleshow/135722461.cms",
+            "published": "2026-11-11T15:19:04",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sonia-gandhi-recalls-rajivs-airport-prank-on-amitabh-bachchan-in-book/articleshow/135732496.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "03acb703241f",
-            "feed": "esakal",
-            "title": "Blog : डोनाल्ड ट्रम्प झाले ‘डोनाल्ड डक’",
+            "id": "81e8a8d1dd55",
+            "feed": "maharashtratimes",
+            "title": "Salman Khan : ‘शेजवानमध्ये काहीतरी काळं आहे’; ‘मातृभूमी’च्या ट्रेलरमधील डायलॉग्स ऐकून नेटकरी हसले, भाईजानला दिला निवृत्तीचा सल्ला",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-11T07:35:35",
-            "url": "https://www.esakal.com/blog/donald-trump-lame-duck-us-midterm-election-results",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-11/rz9dsrro/2026-11-11T073018.199.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "f8b1996a24c2",
-            "feed": "lokmat",
-            "title": "आजचे राशीभविष्य, ११ नोव्हेंबर, २०२६: मन प्रसन्न राहील, कुटुंबियांच्या सहवासात आजचा दिवस आनंदात जाईल!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-11T07:26:26",
-            "url": "https://www.lokmat.com/astro/predictions/todays-horoscope-for-november-11-2026-your-mind-will-be-happy-and-you-will-spend-this-day-happily-in-the-company-of-your-family-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhavishya-wednesday_202208865234.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "664461377691",
-            "feed": "lokmat",
-            "title": "Numerology 11:11 Portal : आज उघडतंय 11:11 चं मॅजिक पोर्टल, 'या' वेळेत विश्वाकडे मागा तुमची इच्छा, होईल पूर्ण!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-11T07:22:49",
-            "url": "https://www.lokmat.com/bhakti/numerology-1111-portal-the-magic-portal-of-1111-is-opening-today-ask-the-universe-for-your-wish-during-this-time-it-will-be-fulfilled-a679/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gemini-generated-image-30dl1u30dl1u30dl_2026111818894.png",
+            "published": "2026-11-11T15:18:53",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/salman-khan-maatrubhumi-trailer-dialogues-social-media-reactions/articleshow/135732495.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "6d8edd897273",
+            "id": "5aca9dc3d2f4",
+            "feed": "lokmat",
+            "title": "इन्स्पेक्टर नागनाथ संबोले घेणार रणदिवेंच्या घरात सत्याचा शोध! 'घरोघरी मातीच्या चुली' मालिकेत 'या' लोकप्रिय अभिनेत्याची एन्ट्री, प्रोमो पाहिलात?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-11T15:16:28",
+            "url": "https://www.lokmat.com/filmy/television/gharoghari-matichya-chuli-serial-new-entry-actor-kamlakar-satpute-play-important-role-audience-is-excited-a991/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gharo-ghai-matichya-chuli_2026111819039.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "afd3d23506b5",
+            "feed": "maharashtratimes",
+            "title": "NRI सोबत अहमदाबादला म्युझिक कॉन्सर्टला जा, मोबदल्यात पैसे अन् गिफ्ट; DU च्या विद्यार्थिनींना आमिष, NSUI नेत्याचं निलंबन",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-11T15:16:12",
+            "url": "https://maharashtratimes.com/india-news/nsui-leader-anas-khan-lures-delhi-university-girls-to-join-nri-clients-at-ahmedabad-music-concert/articleshow/135732408.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "3da2f8793d88",
             "feed": "esakal",
-            "title": "Indian Citizenship Proof : पॅनकार्ड,मतदार ओळखपत्र म्हणजे भारतीय नागरिकत्वाचा पुरावा नाही; उच्च न्यायालयाचे महत्त्वपूर्ण निरीक्षण",
+            "title": "Ajit Pawar Memorial : दहा हजार पणत्यांच्या प्रकाशात उजळल्या अजितदादांच्या आठवणी; बारामतीकर भावूक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-11T07:22:15",
-            "url": "https://www.esakal.com/desh/gauhati-high-court-pan-card-voter-id-not-proof-indian-citizenship-foreigners-tribunal-assam-nrc-section-6a-ymk86",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-11/r3ewy5gp/Pan-Card-Voter-ID.jpg",
+            "published": "2026-11-11T15:03:22",
+            "url": "https://www.esakal.com/desh/ajit-pawar-memorial-tribute-baramati-sunset-point-ten-thousand-diyas-lamp-lighting-event-sunetra-pawar-jay-pawar-family-emotional-homage-ysi02",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-11/urc958mc/Vishwajit-1.jpg",
             "isBreaking": false,
             "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "92079058bdd8",
-            "feed": "lokmat",
-            "title": "अचानक कार येऊन धडकली,  व्हाइट हाउसमध्ये काही काळ लॉकडाउन; दोघांना केली अटक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-11T07:43:02",
-            "url": "https://www.lokmat.com/international/suddenly-a-car-came-and-hit-white-house-was-locked-down-for-some-time-two-arrested-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ytregfgjg_202002377306.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "adce352623e6",
-            "feed": "lokmat",
-            "title": "हज यात्रेसाठी भारताला १ लाख ७५ हजार २५ यात्रेकरूंचा कोटा; सौदी अरेबियासोबत झाला करार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-11T07:40:46",
-            "url": "https://www.lokmat.com/international/india-gets-quota-of-1-lakh-75-thousand-25-pilgrims-for-hajj-agreement-signed-with-saudi-arabia-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hajj-independance-day_201808121257.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7cfaf7dc360c",
-            "feed": "lokmat",
-            "title": "इराणसोबतचे युद्ध लष्करीदृष्ट्या संपले, परिस्थिती जैसे थे राहणार; डोनाल्ड ट्रम्प यांची नरमाई",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-11T06:36:41",
-            "url": "https://www.lokmat.com/international/the-war-with-iran-is-military-over-the-situation-will-remain-as-it-is-american-president-donald-trump-leniency-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mojtaba-khamenei-iran-and-america-trump_2026031671865.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e2b4055cf951",
-            "feed": "lokmat",
-            "title": "अमेरिकेचे संरक्षणमंत्री पीट हेगसेथ यांच्यावर महाभियोग! लष्करी कारवायांमधील भूमिकेचा उल्लेख",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-11T05:31:45",
-            "url": "https://www.lokmat.com/international/america-defense-secretary-pete-hegseth-impeached-mention-of-role-in-us-military-operations-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/us-hegseth-called-officers-meeting-1_2025091552589.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a6eeac269324",
-            "feed": "lokmat",
-            "title": "इराणवर हल्ल्यासाठी नेतन्याहू यांच्याकडून सातत्याने कॉल; डोनाल्ड ट्रम्प यांच्यावर दबाव?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-10T22:47:00",
-            "url": "https://www.lokmat.com/international/netanyahus-constant-calls-for-an-attack-on-iran-pressure-on-donald-trump-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/netnyahu-called-trump-1_2026111818884.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "sports": [
-        {
-            "id": "bc5096ead68d",
+            "id": "9cb9ac1fd214",
             "feed": "maharashtratimes",
-            "title": "Aaryavir Sehwag : पोरा जिंकलंस! आर्यवीरने सांगून शतकं ठोकलं, विजयानंतर स्वत:नेच सांगितलं, काय म्हणाला?",
+            "title": "रशिया-युक्रेन यांच्यात वाटाघाटी सुरु, आबू धाबीतील शांतता चर्चा; भारताच्या कुटनितीची जगात चर्चा",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": "sports"
+                "category": null
             },
-            "published": "2026-11-10T23:28:21",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/u19-asia-cup-2026-ind-vs-afg-aaryavir-sehwag-completed-his-promise-to-give-his-father-virender-sehwag-after-smashed-160-runs/articleshow/135718106.cms",
+            "published": "2026-11-11T14:59:41",
+            "url": "https://maharashtratimes.com/video/mt-originals/russia-ukraine-meet-in-uae-india-playing-an-active-role-in-peace-process/videoshow/135732368.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "2158b8991fcc",
+            "feed": "lokmat",
+            "title": "अमेरिकेच्या विमानाला पाकिस्तानात नो एन्ट्री; उलट्या पावली विमान मायदेशी! नेमकं काय झालं?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-11T14:34:08",
+            "url": "https://www.lokmat.com/international/us-plane-denied-entry-to-pakistan-plane-turns-back-home-what-exactly-happened-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/america-flight_2026111819028.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "5018e8a36a56",
-            "feed": "maharashtratimes",
-            "title": "U19 Asia Cup 2026 : भारत-पाकिस्तानसह सेमी फायनलचे ४ संघ निश्चित, टीम इंडियासमोर कुणाचं आव्हान?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-11-10T21:52:08",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/under-19-asia-cup-2026-4-teams-confirm-for-semi-final-pakistan-india-afghanistan-and-bangladesh-know-schedule-and-performance-in-league-stage/articleshow/135715849.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "1ad8ff04f05f",
+            "id": "8c8e158adeb4",
             "feed": "esakal",
-            "title": "Aryavir Sehwag Century: १७ चौकार अन् ७ षटकार... ज्युनियर सेहवागची दीडशतकी खेळी अन् शुभमन गिलच्या विक्रमाची केली बरोबरी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-11-10T20:47:36",
-            "url": "https://www.esakal.com/krida/cricket/virender-sehwag-son-aryavir-smashes-160-equals-shubman-gill-record-in-u19-asia-cup-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-10/n0ec26fk/Aryavir-Sehwag-Century-U19-Asia-Cup-India-vs-UAE-3.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        }
-    ],
-    "business": [
-        {
-            "id": "87e228172736",
-            "feed": "esakal",
-            "title": "Bhaubeej 2026 Wishes in Marathi: भाऊ-बहिणीच्या नात्यातील प्रेमाचा गोडवा वाढवा! भाऊबीजेच्या निमित्ताने शेअर करा सुंदर शुभेच्छा संदेश",
+            "title": "Temperature Rise: जगभर उष्णतेचा प्रकोप कायम ;यंदाही झळा तीव्रच;  हवामान संघटनेचा अहवाल",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-11T07:30:00",
-            "url": "https://www.esakal.com/culture-and-religion/bhaubeej-2026-wishes-in-marathi-whatsapp-status-share-messages-quotes-images-hd-photo-wallpaper-for-brother-sister-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-10/2hay4b92/Bhaubeej-2026-Wishes-in-Marathi.jpg",
+            "published": "2026-11-11T12:35:22",
+            "url": "https://www.esakal.com/global/global-warming-el-nino-climate-change-2026-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-11/icbop2ic/2026-11-11T122531.069.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "4c16f82a1d18",
+            "id": "b5724d713039",
+            "feed": "esakal",
+            "title": "Bulgaria Highway Pile-Up : विचित्र अपघाताने सगळेच हादरले! धुक्यामुळे ५० वाहने एकमेकांवर आदळली, १० जणांचा घटनास्थळीच मृत्यू, ४६ हून अधिक जखमी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-11T12:34:01",
+            "url": "https://www.esakal.com/global/bulgaria-a1-highway-pile-up-fog-crash-yambol-12-dead-46-injured-sofia-burgas-motorway-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-11/gn53kjkp/-2026-11-11T123129.530.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "e625fc1a3fee",
             "feed": "lokmat",
-            "title": "१८ लाख कोटींच्या अदानी समूहाचा वारसदार कोण?; गौतम अदानींनी सांगितला 'G2 लीडरशिप' प्लॅन",
+            "title": "मृत्यूदंडाची शिक्षा भोगावीच लागेल, शेख हसीना यांच्याकडे दुसरा पर्यायच नाही! बांगलादेश निर्णयावर ठाम",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": "world"
             },
-            "published": "2026-11-10T21:41:21",
-            "url": "https://www.lokmat.com/business/news/who-will-lead-the-adani-group-in-the-future-gautam-adani-reveals-his-future-plan-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/adani-future-plan-for-lead-company_2026111818879.jpg",
+            "published": "2026-11-11T12:11:14",
+            "url": "https://www.lokmat.com/international/death-penalty-must-be-served-sheikh-hasina-has-no-other-option-bangladesh-stands-firm-on-decision-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sheikh-hasina-bangladesh_2026111818963.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "sports": [
+        {
+            "id": "7a486215b701",
+            "feed": "lokmat",
+            "title": "IPL 2027 : श्रेयस माझा कॅप्टन! MI ची साथ सोडून PBKS मध्ये दाखल होताच हार्दिक पांड्याने कळीचा मुद्दाच संपवला!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-11-11T15:22:17",
+            "url": "https://www.lokmat.com/cricket/news/ipl-2027-i-am-standing-behind-you-hardik-pandya-reacts-after-joining-punjab-kings-to-support-captain-shreyas-iyer-coach-ricky-ponting-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hardik-pandya-reacts-after-joining-punjab-kings-to-support-captain-shreyas-iyer-coach-ricky-ponting-m_2026111819036.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "42d7468eb745",
+            "id": "ddc01dc23a85",
+            "feed": "lokmat",
+            "title": "संघ बदलताच हार्दिक पांड्या झाला मालामाल, पंजाब किंग्सने उघडली तिजोरी, मिळणार पैसाच पैसा",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-11-11T14:53:52",
+            "url": "https://www.lokmat.com/cricket/news/hardik-pandya-became-rich-as-soon-as-the-team-changed-punjab-kings-opened-the-coffers-only-money-will-be-available-a301/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hardik-pandya-mi-pbks-2_2026111819022.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "8de228b9bb24",
+            "feed": "lokmat",
+            "title": "IND vs NZ : रोहितसोबत ईशानला सलामीला पाठवा! ऋतुराजला संधी द्या; पण... वनडे मालिका जिंकण्यासाठी टीम इंडियाला सल्ला",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-11-11T14:14:10",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-4th-odi-possible-playing-11-ruturaj-gaikwad-and-ishan-kishan-to-replace-shubman-gill-and-kl-rahul-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-4th-odi-possible-playing-11-ruturaj-gaikwad-and-ishan-kishan-m_2026111819018.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "business": [
+        {
+            "id": "822674c78741",
             "feed": "maharashtratimes",
-            "title": "Boeing Layoffs : बड्या कंपनीत पुन्हा कामगार कपात; उत्पादन घटल्यानं 2500 जणांच्या नोकऱ्या धोक्यात",
+            "title": "Russia China Gold Game : दोघांच्या भांडणात चीनच्या तिजोरीत खणखणाट! हाँगकाँगमागे रशियाने पाठवलं 165 टन गोल्ड, भारताचा शेजारी बनतोय ‘गोल्डन हब’",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-11-10T20:59:24",
-            "url": "https://maharashtratimes.com/business/business-news/boeing-commercial-airplanes-layoffs-2500-employees-can-lost-their-job/articleshow/135714549.cms",
+            "published": "2026-11-11T15:13:16",
+            "url": "https://maharashtratimes.com/business/business-news/russia-shipped-record-165-metric-tons-of-gold-to-china-over-9-months-amid-economic-pressure/articleshow/135731577.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "f2533a721d4b",
+            "feed": "lokmat",
+            "title": "घर घेण्याचं स्वप्न महागणार! आता 'या' सरकारी बँकेनं वाढवले होमलोनचे व्याजदर; ₹५ लाखांच्या कर्जावर किती वाढणार EMI?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-11-11T15:03:58",
+            "url": "https://www.lokmat.com/business/banking-loans/dream-of-owning-a-house-will-become-expensive-now-this-government-bank-has-increased-home-loan-interest-rates-how-much-will-the-emi-increase-on-a-loan-of-rs5-lakh-a720/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/home-loan-emi-new-1_2026011621103.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5d6cffc9ef69",
+            "feed": "lokmat",
+            "title": "दहा दिवसांच्या आंदोलनानंतर ऊस दराचा तिढा सुटला, नंदुरबारचे कारखाने टनाला काय भाव देणार?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-11T14:50:01",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/crushing-season-begins-at-sugar-mills-in-nandurbar-district-price-3411-rupees-per-metric-tonne-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nand-sugar_2026111818985.jpeg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ]
 }
