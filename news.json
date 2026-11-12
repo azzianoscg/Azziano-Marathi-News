@@ -1,349 +1,349 @@
 {
-    "lastUpdated": "12-11-2026 | 02:27 PM IST",
+    "lastUpdated": "12-11-2026 | 10:48 PM IST",
     "maharashtra": [
         {
-            "id": "8e55325ffeec",
-            "feed": "lokmat",
-            "title": "'मी पंकजा गोपीनाथ मुंडे, पर्यावरण मंत्री... बॉटनी ऑनर्स आणि मॅनग्रोव्हजवर थिसिस केलाय', सयाजींच्या टीकेला मुंडेंचे संयमी उत्तर",
+            "id": "571f4fe0df97",
+            "feed": "esakal",
+            "title": "Palod News : बँकेच्या दारातच निराधारांची दिवाळी-भाऊबीज! दुपारी १२ वाजले तरी पालोद जिल्हा मध्यवर्ती सहकारी बँकेला कुलूप; शेतकरी, विधवा, ज्येष्ठ आणि दिव्यांगांची तासन्‌तास प्रतीक्षा",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-11-12T14:18:26",
-            "url": "https://www.lokmat.com/pune/i-am-pankaja-gopinath-munde-environment-minister-i-did-my-thesis-on-botany-honours-and-mangroves-mundes-restrained-response-to-sayajis-criticism-a727/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nm-pankaja-munde_2026111819407.jpg",
+            "published": "2026-11-12T22:46:10",
+            "url": "https://www.esakal.com/marathwada/destitute-citizens-forced-to-spend-diwali-bhaubeej-outside-locked-bank-palod-district-central-cooperative-bank-remains-shut-till-12-noon-as-farmers-widows-seniors-and-divyangs-wait-for-hours-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-12/fbwc8aw4/Palod-District-Central-Cooperative-Bank",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "d0a0aad753d4",
+            "id": "cfecfb1be659",
             "feed": "maharashtratimes",
-            "title": "भाऊबीजेला मराठी ऐवजी भोजपुरीचा साउंडट्रॅक! मुंबई लोकल स्टेशनवर वाजली भोजपुरी गाणी, परळ प्लॅटफॉर्मवरील व्हिडीओ व्हायरल",
+            "title": "Thane News : ठाण्यात रस्ता खचला, कॅडबरी जंक्शनजवळ भर सिग्नलसमोरच रस्त्याला भगदाड",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-11-12T14:15:05",
-            "url": "https://maharashtratimes.com/viral/viral-news/bhojpuri-songs-played-at-mumbai-local-railway-stations-on-bhaubij-marathi-people-express-anger/articleshow/135762316.cms",
+            "published": "2026-11-12T22:36:18",
+            "url": "https://maharashtratimes.com/maharashtra/thane/road-cave-in-near-cadbory-junction-signal-in-thane/articleshow/135775900.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "8d6fc071e1d1",
+            "id": "26a40989a6b8",
+            "feed": "esakal",
+            "title": "Pune News : निधी वर्गीकरणास भाजपनंतर आता काँग्रेसचाही विरोध",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-12T22:29:21",
+            "url": "https://www.esakal.com/pune/pune-news-after-bjp-congress-now-opposes-fund-reappropriation-politics-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-01-31/fhja7e9y/Congress-BJP-Joint-Group-Triggers-Major-Power-Shift-in-Malegaon-Municipal-Corporation.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "143fb43afac2",
             "feed": "lokmat",
-            "title": "Top Marathi News LIVE Updates: दिल्लीत भीषण रस्ता अपघात; डंपर आणि रिक्षाच्या धडकेत चिमुकलीसह तिघांचा मृत्यू",
+            "title": "बाजारगावातील अनंतारा हॉटेल आगीच्या भक्ष्यस्थानी; मंडळ अधिकाऱ्याचा गुदमरून मृत्यू",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-12T14:12:54",
-            "url": "https://www.lokmat.com/maharashtra/maharashtra-marathi-news-live-updates-12-november-2026-ncp-merger-sharad-pawar-sunetra-pawar-nvidia-ceo-honey-trap-drought-in-maharashtra-cm-devendra-fadnavis-pm-narendra-modi-gokul-election-sonia-gandhi-book-ipl-auction-hardik-pandya-a573/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/live-blog-daily_2026021635955.jpeg",
+            "published": "2026-11-12T22:27:30",
+            "url": "https://www.lokmat.com/nagpur/anantara-hotel-in-amravati-catches-fire-board-officer-dies-of-suffocation-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fire-at-amaravti_2026111819646.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "ebf6a381b2ef",
-            "feed": "lokmat",
-            "title": "भीषण अपघातात दोघांचा मृत्यू, अज्ञात वाहनाची धडक; नागपूर-जबलपूर महामार्गावरील घटना",
+            "id": "88307012bc29",
+            "feed": "esakal",
+            "title": "Pune Bribe Case : सातबारा उताऱ्यावर नोंदीसाठी लाच मागणाऱ्या मंडल अधिकाऱ्यावर गुन्हा",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-12T14:07:57",
-            "url": "https://www.lokmat.com/nagpur/nagpur-accident-news-two-killed-in-horrific-accident-hit-by-unknown-vehicle-incident-on-nagpur-jabalpur-highway-a1020/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nagpur-highway-accident_2026111819393.jpeg",
+            "published": "2026-11-12T22:26:34",
+            "url": "https://www.esakal.com/pune/pune-bribe-case-registered-against-circle-officer-for-demanding-bribe-for-712-extract-entry-crime-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-09-02/npizfro4/Bribe-Case",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "d3ea7951e443",
-            "feed": "lokmat",
-            "title": "नाट्यगृहात बाबांच्या मांडीवर बसलेल्या 'या' चिमुकलीला ओळखलं? आज आहे सिनेसृष्टीतील प्रसिद्ध अभिनेत्री, वडीलही दिग्गज कलाकार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-12T14:00:03",
-            "url": "https://www.lokmat.com/filmy/photos/marathi-cinema/did-you-recognize-this-little-girl-sitting-on-her-fathers-lap-in-the-prithvi-theater-mumbai-parna-pethe-atul-pethe-a998/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/did-you-recognize-this-little-girl-sitting-on-her-fathers-lap-in-the-prithvi-theater-mumbai-parna-pethe-atul-pethe_2026111819388.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "india": [
         {
-            "id": "f3be0df127e2",
-            "feed": "maharashtratimes",
-            "title": "Varsha Usgaonkar Husband Photo: ...म्हणून वर्षा उसगांवकर पतीसोबतचे फोटो करत नाहीत शेअर, स्वत:च केला खुलासा; कोण आहेत अजय शर्मा?",
+            "id": "2d0762faaf03",
+            "feed": "esakal",
+            "title": "Long Life Tips: दीर्घायुष्यासाठी रात्रीच्या रुटीनमध्ये करा 'हे' ५ बदल;  झोप सुधारेल आणि आरोग्यही राहील उत्तम",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-12T14:23:23",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/varsha-usgaonkar-talks-about-why-she-is-not-posting-photos-with-husband-ajay-sharma/articleshow/135762237.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "70993d87a8dd",
-            "feed": "lokmat",
-            "title": "आरोग्य सांभाळा! दिवाळीत मिठाई, तेलकट पदार्थांवर ताव मारला? 'या' ५ पद्धतींनी करा बॉडी डिटॉक्स",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-12T14:15:28",
-            "url": "https://www.lokmat.com/sakhi/photos/health/five-best-body-detox-tips-after-diwali-bhai-dooj-celebrations-foods-sweets-ofbofbeovereating-lifestyle-diseases-photo-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/body-detox-tips_2026111819405.jpeg",
+            "published": "2026-11-12T22:34:47",
+            "url": "https://www.esakal.com/lifestyle/long-life-tips-five-nighttime-habits-for-better-sleep-and-healthy-living-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-12/gjyjs8np/Night-Time-Routine-for-Long-Life.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "f5c96cc03c31",
+            "id": "cbb4adcc0b38",
             "feed": "esakal",
-            "title": "Jharkhand Gramin Bank: झारखंडमधील ५१ लाख महिलांना मिळणार मोफत अपघात विमा? ग्रामीण बँकेचा मुख्यमंत्र्यांकडे प्रस्ताव",
+            "title": "Moshi Depot Accident : मोशी कचरा डेपो दुर्घटनेतील मृत कर्मचाऱ्यांच्या आठ कुटुंबांना घरांचा आधार; यशवंतनगर एसआरए प्रकल्पातील मोफत सदनिकांचे आदेश जारी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-12T14:14:45",
-            "url": "https://www.esakal.com/desh/jharkhand-gramin-bank-proposes-free-accident-insurance-for-51-lakh-women-in-state-seeks-chief-ministers-approval-for-scheme-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-12/66jj3b7b/sudhir-jadhav-satara-26.jpg",
+            "published": "2026-11-12T22:33:21",
+            "url": "https://www.esakal.com/pimpri-chinchwad/moshi-depot-accident-eight-families-free-flats-yashwantnagar-sra-project-ysi02",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-12/7quuishp/Abhi-81.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         },
         {
-            "id": "83b686bfa304",
-            "feed": "esakal",
-            "title": "Premium|Gen Z Women : जेन झी मुलींची पैशाकडे पाहण्याची दृष्टी बदलतेय; आर्थिक स्वावलंबनाचा नवा प्रवास",
+            "id": "56f644d8e49a",
+            "feed": "maharashtratimes",
+            "title": "पंचांग 13 November 2026: विनायक चतुर्थी, राशी परिवर्तन योग, वाशी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-12T14:11:24",
-            "url": "https://www.esakal.com/premium-article/gen-z-women-financial-independence-money-management-female-workforce-participation-india-economic-empowerment-financial-awareness-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-12/xn18s1qv/Abhi-66.jpg",
+            "published": "2026-11-12T22:22:40",
+            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-13-november-2026-in-marathi-vinayak-chaturthi-vashi-yog-and-shubha-muhurta/articleshow/135773369.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "default"
         },
         {
-            "id": "3771ba77833d",
+            "id": "6576c5b2ce12",
             "feed": "esakal",
-            "title": "Latest Marathi News Live Update : दुष्काळी यादीत वंचित तालुक्यांचा समावेश करा, अन्यथा तीव्र आंदोलन : आमदार सतेज पाटील",
+            "title": "सिगारेट पिणाऱ्यांसाठी वाईट बातमी!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-12T14:10:57",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-updates-12-november-2026-maharashtra-drought-weather-updates-rain-winter-ncp-merger-sharad-pawar-devendra-fadnavis-uddhav-thackeray-diwali-share-market-gold-rate",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-05/qglr7h4m/Latest-Marathi-News-Live-Update",
+            "published": "2026-11-12T22:12:55",
+            "url": "https://www.esakal.com/ampstories/web-story/itc-gold-flake-premium-cigarette-price-hike-135-rupees-pack-second-price-revision-2026-asj81",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-12/f3qottx1/Gold-Flake-Pack-with-Golden-Coins-and-Smoke-8.png",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
+        },
+        {
+            "id": "00f1a4817f37",
+            "feed": "lokmat",
+            "title": "२० लाख परत करणार नाही अन् घटस्फोटही देणार नाही, पत्नीची आडमुठी भूमिका; हायकोर्टाने दिला निकाल",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-11-12T22:10:28",
+            "url": "https://www.lokmat.com/national/wifes-stubborn-stance-will-not-return-rs-20-lakhs-and-will-not-divorce-delhi-high-court-gives-verdict-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-news-order_2026101802003.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "world": [
         {
-            "id": "0cb0b9b2575d",
-            "feed": "maharashtratimes",
-            "title": "Salahaddin Abrar : 11 महिन्यांच्या बाळाचा अकस्मात मृत्यू, आई-बाबा कोलमडले, सात महिन्यांपासून जेवणाच्या टेबलजवळ लेकराच्या नावे तशीच रिकामी खुर्ची",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-11-12T13:32:05",
-            "url": "https://maharashtratimes.com/international/international-news/parents-distraught-by-baby-son-salahaddin-abrar-death-still-have-high-chair-at-dinner-table/articleshow/135760519.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "7f4f0e718b45",
-            "feed": "lokmat",
-            "title": "होर्मुझमध्ये सौदी अरेबियाच्या तेलवाहू जहाजावर हल्ला; भारतीय खलाशी जखमी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-12T13:00:22",
-            "url": "https://www.lokmat.com/international/saudi-oil-tanker-attacked-in-hormuz-indian-sailors-injured-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/hormuz-ships-1104_2026041681652.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "70dc742e1049",
-            "feed": "lokmat",
-            "title": "शेख हसीना यांना फाशीच्या शिक्षेपासून संरक्षण मिळावे; ब्रिटनच्या सहा खासदारांचे पत्र",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-12T12:58:19",
-            "url": "https://www.lokmat.com/international/sheikh-hasina-should-be-protected-from-death-penalty-letter-from-six-british-mp-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/sheikh-hasina-india-2512sf_2026021645879.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "cb87819bd47d",
-            "feed": "lokmat",
-            "title": "नेपाळमध्ये भीषण अपघात! व्हॅन खोल दरीत कोसळली; १० जणांचा मृत्यू, ५ गंभीर जखमी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-12T12:55:35",
-            "url": "https://www.lokmat.com/international/nepal-tragedy-overloaded-van-carrying-15-plunges-700-metres-into-gorge-10-killed-a597/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nepal-accident_2026111819303.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a5f584530944",
+            "id": "c03a06dd2ec0",
             "feed": "esakal",
-            "title": "फक्त १५४ रुपयात २ बीएचके! चिनी माणसाने  लिलावात जिंकला ७३२ चौरस फुटाचा फ्लॅट",
+            "title": "Viral Mysterious Village : जगातील 'लिलिपुट'चे गाव! इथे माणसांची उंची अवघ्या ३ फूट, घराचे दरवाजेही छोटे; VIDEO पाहून नेटकरी थक्क!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-12T11:04:57",
-            "url": "https://www.esakal.com/global/2bhk-flat-auction-buyer-wins-732-sq-ft-property-for-just-rs-154-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-12/2lrchb0s/flat-in-china.jpg",
+            "published": "2026-11-12T22:34:14",
+            "url": "https://www.esakal.com/global/iran-makhunik-village-lilliput-real-3-feet-doors-mud-houses-viral-video-news-today-marathi-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-12/foc4sh2i/Esakal-6.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        }
-    ],
-    "sports": [
+        },
         {
-            "id": "2e7ac0b01cf8",
-            "feed": "esakal",
-            "title": "IPL Trade Records: हार्दिक पांड्या-अर्शदीप सिंग यांच्या ट्रेडने इतिहास घडवला; आयपीएलच्या इतिहासात सर्वात महागडा ट्रेड ठरला...",
+            "id": "934c55aaa115",
+            "feed": "lokmat",
+            "title": "चोरट्यांचा हैदोस, एकाच रात्री १० घरांत मारला हात; दिवाळीनिमित्त बाहेरगावी गेलेल्या कुटुंबांची घरे लक्ष्य",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
             },
-            "published": "2026-11-12T14:02:31",
-            "url": "https://www.esakal.com/krida/cricket/hardik-pandya-arshdeep-singh-create-history-as-36-crore-mi-pbks-trade-becomes-ipls-biggest-deal-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-12/rvz7q5bi/Hardik-Pandya-Arshdeep-Singh",
+            "published": "2026-11-12T22:17:35",
+            "url": "https://www.lokmat.com/crime/thieves-raid-10-houses-in-one-night-targets-homes-of-families-who-went-out-of-town-for-diwali-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/theft-satara-news-photo_2026111816556.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "2bcdaba4400d",
+            "feed": "lokmat",
+            "title": "अमेरिकेतील थरारक घटना, वॉशिंग्टन डीसीमध्ये ४ जणांवर झाडल्या गोळ्या, परिसरात खळबळ!",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-12T20:35:00",
+            "url": "https://www.lokmat.com/international/4-people-shot-near-white-house-in-washington-dcgunfire-reported-in-upscale-logan-circle-area-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/washington-dc-shooting-news_2026111819638.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "8f847fbeb6f0",
+            "id": "10e2deb0640e",
+            "feed": "lokmat",
+            "title": "इराण युद्धाच्या मुद्द्यावर डोनाल्ड ट्रम्प-बेंजामिन नेतन्याहू आमनेसामने; फोनवर खडाजंगी झाल्याच्या वृत्ताने खळबळ! नेमकं काय घडलं?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-12T20:33:18",
+            "url": "https://www.lokmat.com/international/donald-trump-benjamin-netanyahu-face-to-face-on-iran-war-issue-news-of-phone-argument-creates-stir-a653/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-benjamin-netanyahu_2026111819637.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "efc8d69a6931",
             "feed": "maharashtratimes",
-            "title": "Team India Flight Incident : काळजाचा थरकाप उडवणारी 26 मिनिटं, टीम इंडियाच्या खेळाडूंसोबत वेलिंग्टनच्या दिशेने जाणाऱ्या फ्लाईटमध्ये काय घडलं?",
+            "title": "10 आसनी वाहनात 15 जण कोंबले; EV व्हॅन 700 मीटर दरीत कोसळून चालकासह 14 जणांचा शेवट",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-11-12T20:18:02",
+            "url": "https://maharashtratimes.com/international/international-news/14-dies-as-passenger-vehicle-plunges-off-road-in-nepal/articleshow/135773587.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "sports": [
+        {
+            "id": "a15f13d2bf48",
+            "feed": "maharashtratimes",
+            "title": "NZ vs IND : वयाच्या 31 व्या वर्षी निवड, शेवटच्या 2 सामन्यांसाठी समावेश, पदार्पणाची संधी मिळणार?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-12T13:59:38",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/team-india-terrifying-mid-air-scare-at-wellington-airport-aborted-landing-intense-turbulence/articleshow/135761031.cms",
+            "published": "2026-11-12T20:05:24",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/brett-randell-earns-his-maiden-call-against-india-for-last-2-odi-match-see-full-squad-of-new-zealand/articleshow/135773309.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "60abc399b2b6",
+            "id": "bd698aeeec89",
             "feed": "lokmat",
-            "title": "Captains Traded In IPL History : हार्दिक पांड्यासह IPL इतिहासात फक्त ४ कर्णधारांसोबत घडलंय असं!",
+            "title": "Rishabh Pant: टीम इंडियासाठी गूड न्यूज! ऋषभ पंत फिटनेसच्या परीक्षेत पास; लवकरच न्यूझीलंडला रवाना होणार",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-12T13:44:01",
-            "url": "https://www.lokmat.com/cricket/photos/only-four-captains-with-hardik-pandya-traded-in-ipl-history-rishabh-pant-sanju-samson-and-ravichandran-ashwin-in-the-list-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/only-3-captains-apart-from-hardik-pandya-traded-in-ipl-history-m-8_2026111819354.jpg",
+            "published": "2026-11-12T18:00:23",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-rishabh-pant-gets-fitness-clearance-set-to-join-team-india-for-new-zealand-test-series-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rishabh-pant-4_2026111819565.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6c406e800c23",
+            "feed": "lokmat",
+            "title": "U19 Asia Cup 2026 : पाकचा हिशोब चुकता करण्याची वेळ आली! अफगाणिस्तानला पराभूत करत युवा टीम इंडियाची फायनलमध्ये धडक",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-11-12T17:29:50",
+            "url": "https://www.lokmat.com/cricket/news/india-beat-afghanisthan-by-8-wickets-captain-lakshya-rajesh-raichandani-and-aaryavir-sehwag-shine-now-final-against-pakistan-under-19s-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/another-india-vs-pakistan-in-2026-u-19-asia-cup-m_2026111819558.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "28a2530f5625",
+            "id": "d56666da3d05",
             "feed": "lokmat",
-            "title": "इलॉन मस्कची SpaceX थेट अंतराळात उभार AI डेटा सेंटर; 'या' कंपनीसोबत केला ६२० कोटींचा करार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-11-12T14:07:27",
-            "url": "https://www.lokmat.com/business/savings-investments/elon-musks-spacex-to-build-ai-data-center-directly-in-space-signed-a-contract-of-rs-620-crore-with-singulus-technologies-a732/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/space-x-ai_2026111819399.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "32a9520980aa",
-            "feed": "lokmat",
-            "title": "थंडीच्या दिवसांत जुना गीझर देऊ शकतो धोका; बदलण्याची वेळ आल्याचे हे आहेत ५ मोठे संकेत",
+            "title": "घरातच घ्या थिएटरचा आनंद! Vu ने लॉन्च केला ११५ इंचाचा टीव्ही; किंमत १३ लाख रुपये, जाणून घ्या फिचर्स",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-12T14:07:04",
-            "url": "https://www.lokmat.com/photos/tech/an-old-geyser-can-be-dangerous-during-cold-days-here-are-5-big-signs-that-its-time-to-replace-it-a1013/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gyser1_2026111819400.jpg",
+            "published": "2026-11-12T21:29:21",
+            "url": "https://www.lokmat.com/tech/vu-launches-masterpiece-aeye-tv-series-in-india-115-inch-miniled-tv-priced-at-rs13-lakh-check-features-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vu-launches-masterpiece-aeye-tv-series-in-india_2026111819644.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "2d11591a343c",
+            "id": "9cab51fd33cb",
+            "feed": "maharashtratimes",
+            "title": "33 वर्षांनंतर NVIDIA मधून जेन्सेन हुआंग बाहेर; राजीनाम्यानंतर कंपनीची मोठी घोषणा, प्लॅन जाहीर",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-11-12T20:54:55",
+            "url": "https://maharashtratimes.com/business/business-news/jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns/articleshow/135774642.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6b70ab877c4e",
             "feed": "lokmat",
-            "title": "Cigarette Price Hike: महाग झाली 'गोल्ड फ्लेक', ITC नं दुसऱ्यांदा वाढवली किंमत; ₹१२५ चं पाकीट आता कितीला मिळणार?",
+            "title": "Soybean Market : जालना, लातूर, उदगीरमध्ये सोयाबीनची मोठी आवक; 'या' बाजारात मिळतोय चांगला भाव",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "business"
+                "category": null
             },
-            "published": "2026-11-12T14:00:15",
-            "url": "https://www.lokmat.com/business/news/cigarette-price-hike-gold-flake-has-become-expensive-itc-increases-the-price-for-the-second-time-how-much-will-a-packet-of-rs-125-cost-a720/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cigarette1_20180371947.jpg",
+            "published": "2026-11-12T20:02:03",
+            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-soybean-market-large-arrival-of-soybeans-in-jalna-latur-udgir-good-prices-are-being-obtained-in-this-market-a1003/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/soybean-market12.11.26-1_2026111819627.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         }
     ]
 }
