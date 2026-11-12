@@ -1,6 +1,70 @@
 {
-    "lastUpdated": "12-11-2026 | 10:48 PM IST",
+    "lastUpdated": "13-11-2026 | 04:28 AM IST",
     "maharashtra": [
+        {
+            "id": "6be2f3c92825",
+            "feed": "esakal",
+            "title": "Dimbhe Dam Water Release : चार महिन्यांची प्रतीक्षा संपली! डिंभे धरणाच्या उजव्या कालव्यातून १५० क्युसेकने पाणी सोडले; आंबेगाव, शिरूरमधील ५० हून अधिक गावांना दिलासा",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-12T23:07:18",
+            "url": "https://www.esakal.com/pune/dimbhe-dam-right-canal-water-release-150-cusecs-ambegaon-shirur-farmers-ysi02",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-12/hv3amewm/Abhi-83.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "56256c7a5281",
+            "feed": "esakal",
+            "title": "CNG PNG Rate Increase : सीएनजी’, ‘पीएनजी’च्या दरात वाढ; ‘सीएनजी’ प्रतिकिलो ९९ रुपये, तर......",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-12T23:04:19",
+            "url": "https://www.esakal.com/pune/cng-and-png-prices-hiked-cng-reaches-rupees-9975-per-kg-while-domestic-png-rises-to-rupees-5175-per-scm-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2023-04/c630a727-da72-4d33-bde5-25ac0b8f96a5/Latest_Marathi__Breaking_News_RS__18_.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bb9add2fd8cf",
+            "feed": "esakal",
+            "title": "Car Fire : अज्ञात व्यक्तीकडून कार पेटवून देत दीड ते पावणेदोन लाखांचे नुकसान; अंबड तालुक्यातील मठपिंपळगाव येथील घटना",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-12T22:54:35",
+            "url": "https://www.esakal.com/marathwada/unidentified-person-sets-car-on-fire-causing-damage-of-rupees-15-to-175-lakh-incident-in-mathpimpalgaon-of-ambad-taluka-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-12/xvmqrsu9/Unidentified-Person-Sets-Car-on-Fire",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "f1486b0e06a8",
+            "feed": "maharashtratimes",
+            "title": "Satara News : उपमुख्यमंत्री एकनाथ शिंदेंसोबत भाजप मंत्र्याची हातमिळवणी! सातारा जिल्हा बँकेच्या अध्यक्ष निवडीत मोठ्या घडामोडी",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-12T22:49:45",
+            "url": "https://maharashtratimes.com/maharashtra/satara/eknath-shinde-meets-shivendraraje-bhosale-suspense-in-satara-district-bank-chairman-election/articleshow/135778416.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "571f4fe0df97",
             "feed": "esakal",
@@ -16,152 +80,88 @@
             "image": "https://cf-images.assettype.com/esakal/2026-11-12/fbwc8aw4/Palod-District-Central-Cooperative-Bank",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "cfecfb1be659",
-            "feed": "maharashtratimes",
-            "title": "Thane News : ठाण्यात रस्ता खचला, कॅडबरी जंक्शनजवळ भर सिग्नलसमोरच रस्त्याला भगदाड",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-12T22:36:18",
-            "url": "https://maharashtratimes.com/maharashtra/thane/road-cave-in-near-cadbory-junction-signal-in-thane/articleshow/135775900.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "26a40989a6b8",
-            "feed": "esakal",
-            "title": "Pune News : निधी वर्गीकरणास भाजपनंतर आता काँग्रेसचाही विरोध",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-12T22:29:21",
-            "url": "https://www.esakal.com/pune/pune-news-after-bjp-congress-now-opposes-fund-reappropriation-politics-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-01-31/fhja7e9y/Congress-BJP-Joint-Group-Triggers-Major-Power-Shift-in-Malegaon-Municipal-Corporation.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "143fb43afac2",
-            "feed": "lokmat",
-            "title": "बाजारगावातील अनंतारा हॉटेल आगीच्या भक्ष्यस्थानी; मंडळ अधिकाऱ्याचा गुदमरून मृत्यू",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-12T22:27:30",
-            "url": "https://www.lokmat.com/nagpur/anantara-hotel-in-amravati-catches-fire-board-officer-dies-of-suffocation-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fire-at-amaravti_2026111819646.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "88307012bc29",
-            "feed": "esakal",
-            "title": "Pune Bribe Case : सातबारा उताऱ्यावर नोंदीसाठी लाच मागणाऱ्या मंडल अधिकाऱ्यावर गुन्हा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-12T22:26:34",
-            "url": "https://www.esakal.com/pune/pune-bribe-case-registered-against-circle-officer-for-demanding-bribe-for-712-extract-entry-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-02/npizfro4/Bribe-Case",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "2d0762faaf03",
-            "feed": "esakal",
-            "title": "Long Life Tips: दीर्घायुष्यासाठी रात्रीच्या रुटीनमध्ये करा 'हे' ५ बदल;  झोप सुधारेल आणि आरोग्यही राहील उत्तम",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-12T22:34:47",
-            "url": "https://www.esakal.com/lifestyle/long-life-tips-five-nighttime-habits-for-better-sleep-and-healthy-living-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-12/gjyjs8np/Night-Time-Routine-for-Long-Life.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "cbb4adcc0b38",
-            "feed": "esakal",
-            "title": "Moshi Depot Accident : मोशी कचरा डेपो दुर्घटनेतील मृत कर्मचाऱ्यांच्या आठ कुटुंबांना घरांचा आधार; यशवंतनगर एसआरए प्रकल्पातील मोफत सदनिकांचे आदेश जारी",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-12T22:33:21",
-            "url": "https://www.esakal.com/pimpri-chinchwad/moshi-depot-accident-eight-families-free-flats-yashwantnagar-sra-project-ysi02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-12/7quuishp/Abhi-81.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "56f644d8e49a",
+            "id": "d6b6f1e9e1fd",
             "feed": "maharashtratimes",
-            "title": "पंचांग 13 November 2026: विनायक चतुर्थी, राशी परिवर्तन योग, वाशी योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "title": "अंकभविष्य 13 नोव्हेंबर 2026: मूलांक 1 नवीन संधी लाभदायक! मूलांक 8 कष्टाचे फळ मिळणार! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-12T22:22:40",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-13-november-2026-in-marathi-vinayak-chaturthi-vashi-yog-and-shubha-muhurta/articleshow/135773369.cms",
+            "published": "2026-11-13T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-13-november-2026-vinayak-chaturthi-vashi-yog-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135779244.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "6576c5b2ce12",
+            "id": "01fbafe88ca6",
             "feed": "esakal",
-            "title": "सिगारेट पिणाऱ्यांसाठी वाईट बातमी!",
+            "title": "महागड्या स्क्रबला पर्याय? तांदळाच्या पिठाचा हा घरगुती उपाय एकदा वापरून पाहा!",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-12T22:12:55",
-            "url": "https://www.esakal.com/ampstories/web-story/itc-gold-flake-premium-cigarette-price-hike-135-rupees-pack-second-price-revision-2026-asj81",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-12/f3qottx1/Gold-Flake-Pack-with-Golden-Coins-and-Smoke-8.png",
+            "published": "2026-11-12T23:59:43",
+            "url": "https://www.esakal.com/ampstories/web-story/rice-flour-face-scrub-a-simple-pre-bath-skincare-routine-for-glowing-skin-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-04-29/5evannpx/Glowing-Skin",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "00f1a4817f37",
-            "feed": "lokmat",
-            "title": "२० लाख परत करणार नाही अन् घटस्फोटही देणार नाही, पत्नीची आडमुठी भूमिका; हायकोर्टाने दिला निकाल",
+            "id": "abbbd0a38bfd",
+            "feed": "esakal",
+            "title": "वारंवार डोके दुखतंय? डोळ्यांमधील ‘या’ 4 समस्यांकडे दुर्लक्ष करू नका!",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "india"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-11-12T22:10:28",
-            "url": "https://www.lokmat.com/national/wifes-stubborn-stance-will-not-return-rs-20-lakhs-and-will-not-divorce-delhi-high-court-gives-verdict-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-news-order_2026101802003.jpg",
+            "published": "2026-11-12T23:56:46",
+            "url": "https://www.esakal.com/ampstories/web-story/frequent-headaches-4-eye-related-problems-that-could-be-the-cause-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-14/lv9m38o0/Crown-Headache-11.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "default"
+        },
+        {
+            "id": "0620ceab0f01",
+            "feed": "esakal",
+            "title": "थंडी, प्रदूषण अन् फुफ्फुसांचा संसर्ग; निमोनियाची सुरुवातीची लक्षणे कोणती?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-12T23:51:21",
+            "url": "https://www.esakal.com/ampstories/web-story/pneumonia-risk-winter-air-pollution-symptoms-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2023-08/fb4b159f-8523-4bc6-974d-cb7a0b44481e/coughing__6_.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "ef891df3cb95",
+            "feed": "esakal",
+            "title": "कच्चं बीट खावं की ज्यूस प्यावा? आरोग्यासाठी कोणता पर्याय आहे फायदेशीर?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-12T23:40:33",
+            "url": "https://www.esakal.com/ampstories/web-story/raw-beetroot-vs-beetroot-juice-which-is-better-for-health-benefits-and-the-right-way-to-consume-beetroot-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-18/sqlwt89z/beetroot-for-skin-10.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
         }
     ],
     "world": [
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "a96991004bc7",
+            "feed": "maharashtratimes",
+            "title": "NZ vs IND : टीम इंडिया मालिका जिंकण्यासाठी सज्ज, न्यूझीलंडला शेवटची संधी, सामना किती वाजता?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-11-12T23:57:52",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-india-against-new-zealand-4th-odi-match-time-venue-and-both-team-head-to-head-stats-at-bay-oval-know-details/articleshow/135780576.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "a15f13d2bf48",
             "feed": "maharashtratimes",
             "title": "NZ vs IND : वयाच्या 31 व्या वर्षी निवड, शेवटच्या 2 सामन्यांसाठी समावेश, पदार्पणाची संधी मिळणार?",
@@ -278,25 +294,25 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rishabh-pant-4_2026111819565.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        },
+        }
+    ],
+    "business": [
         {
-            "id": "6c406e800c23",
+            "id": "722cbdfdebae",
             "feed": "lokmat",
-            "title": "U19 Asia Cup 2026 : पाकचा हिशोब चुकता करण्याची वेळ आली! अफगाणिस्तानला पराभूत करत युवा टीम इंडियाची फायनलमध्ये धडक",
+            "title": "Nvidia ची सूत्रे महिलेच्या हाती! कोण आहेत कोलेट क्रेस? हुआंग यांच्या जागी मिळाली मोठी जबाबदारी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": "sports"
+                "category": "business"
             },
-            "published": "2026-11-12T17:29:50",
-            "url": "https://www.lokmat.com/cricket/news/india-beat-afghanisthan-by-8-wickets-captain-lakshya-rajesh-raichandani-and-aaryavir-sehwag-shine-now-final-against-pakistan-under-19s-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/another-india-vs-pakistan-in-2026-u-19-asia-cup-m_2026111819558.jpg",
+            "published": "2026-11-12T23:15:10",
+            "url": "https://www.lokmat.com/business/news/nvidia-leadership-in-the-hands-of-a-woman-who-is-colette-kress-jenson-huang-replacement-has-received-a-big-responsibility-a629/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nvidai-colette-kress-image_2026111819647.jpg",
             "isBreaking": false,
             "category_reason": "feed"
-        }
-    ],
-    "business": [
+        },
         {
             "id": "d56666da3d05",
             "feed": "lokmat",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "6b70ab877c4e",
-            "feed": "lokmat",
-            "title": "Soybean Market : जालना, लातूर, उदगीरमध्ये सोयाबीनची मोठी आवक; 'या' बाजारात मिळतोय चांगला भाव",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-12T20:02:03",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-soybean-market-large-arrival-of-soybeans-in-jalna-latur-udgir-good-prices-are-being-obtained-in-this-market-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/soybean-market12.11.26-1_2026111819627.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
         }
     ]
 }
