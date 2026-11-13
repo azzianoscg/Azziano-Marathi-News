@@ -1,170 +1,218 @@
 {
-    "lastUpdated": "13-11-2026 | 04:28 AM IST",
+    "lastUpdated": "13-11-2026 | 08:37 AM IST",
     "maharashtra": [
         {
-            "id": "6be2f3c92825",
-            "feed": "esakal",
-            "title": "Dimbhe Dam Water Release : चार महिन्यांची प्रतीक्षा संपली! डिंभे धरणाच्या उजव्या कालव्यातून १५० क्युसेकने पाणी सोडले; आंबेगाव, शिरूरमधील ५० हून अधिक गावांना दिलासा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-12T23:07:18",
-            "url": "https://www.esakal.com/pune/dimbhe-dam-right-canal-water-release-150-cusecs-ambegaon-shirur-farmers-ysi02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-12/hv3amewm/Abhi-83.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "56256c7a5281",
-            "feed": "esakal",
-            "title": "CNG PNG Rate Increase : सीएनजी’, ‘पीएनजी’च्या दरात वाढ; ‘सीएनजी’ प्रतिकिलो ९९ रुपये, तर......",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-12T23:04:19",
-            "url": "https://www.esakal.com/pune/cng-and-png-prices-hiked-cng-reaches-rupees-9975-per-kg-while-domestic-png-rises-to-rupees-5175-per-scm-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2023-04/c630a727-da72-4d33-bde5-25ac0b8f96a5/Latest_Marathi__Breaking_News_RS__18_.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bb9add2fd8cf",
-            "feed": "esakal",
-            "title": "Car Fire : अज्ञात व्यक्तीकडून कार पेटवून देत दीड ते पावणेदोन लाखांचे नुकसान; अंबड तालुक्यातील मठपिंपळगाव येथील घटना",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-12T22:54:35",
-            "url": "https://www.esakal.com/marathwada/unidentified-person-sets-car-on-fire-causing-damage-of-rupees-15-to-175-lakh-incident-in-mathpimpalgaon-of-ambad-taluka-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-12/xvmqrsu9/Unidentified-Person-Sets-Car-on-Fire",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "f1486b0e06a8",
+            "id": "fb2d19a08e34",
             "feed": "maharashtratimes",
-            "title": "Satara News : उपमुख्यमंत्री एकनाथ शिंदेंसोबत भाजप मंत्र्याची हातमिळवणी! सातारा जिल्हा बँकेच्या अध्यक्ष निवडीत मोठ्या घडामोडी",
+            "title": "Jitendra Hirmukhe : काय फरक पडतो? घाणेरड्या स्पर्शानंतर कॅन्सरग्रस्त जितेंद्रचा निर्लज्ज सवाल, लोकलखाली सापडून नवविवाहितेने डावा हात गमावला",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-12T22:49:45",
-            "url": "https://maharashtratimes.com/maharashtra/satara/eknath-shinde-meets-shivendraraje-bhosale-suspense-in-satara-district-bank-chairman-election/articleshow/135778416.cms",
+            "published": "2026-11-13T08:31:38",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/naigaon-railway-station-woman-pushed-under-local-train-accuse-jitendra-hirmukhe-asked-what-difference-makes/articleshow/135786843.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "571f4fe0df97",
+            "id": "168b0559c98e",
+            "feed": "maharashtratimes",
+            "title": "Nagpur Accident: गोल्ड मेडलिस्ट राष्ट्रीय खेळाडूचा अपघातात करुण अंत, आई-बहिणीसोबत स्कूटरने जाताना काळाचा घाला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-13T08:29:44",
+            "url": "https://maharashtratimes.com/maharashtra/nagpur/nagpur-sepak-takraw-player-18-yrs-old-avani-baghel-road-accident-death-on-diwali-bhaubeej/articleshow/135786571.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "256a070f7540",
             "feed": "esakal",
-            "title": "Palod News : बँकेच्या दारातच निराधारांची दिवाळी-भाऊबीज! दुपारी १२ वाजले तरी पालोद जिल्हा मध्यवर्ती सहकारी बँकेला कुलूप; शेतकरी, विधवा, ज्येष्ठ आणि दिव्यांगांची तासन्‌तास प्रतीक्षा",
+            "title": "Supriya Sule: 'माझा भाऊ गेला, त्याच दिवशी विलीनीकरणाचा विषय संपला'; राष्ट्रवादीच्या विलीनीकरणावर सुप्रिया सुळे स्पष्टच बोलल्या",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-13T08:26:51",
+            "url": "https://www.esakal.com/mumbai/supriya-sule-ends-speculation-on-ncp-merger-after-ajit-pawar-death-says-merger-issue-ended-the-day-her-brother-passed-away-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-13/jv00p7w3/sudhir-jadhav-satara-4.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "039f8fbce27a",
+            "feed": "lokmat",
+            "title": "संतोष पंडीत यांनी नवा व्हिडीओ अपलोड केला; मद्यधुंद अवस्थेत झोपलेला रेल्वे पोलीस, प्लॅटफॉर्मवर पँटही ओली...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-13T08:15:48",
+            "url": "https://www.lokmat.com/pune/santosh-pandit-uploaded-a-new-video-pune-railway-policeman-sleeping-in-a-drunken-state-his-pants-also-wet-on-the-platform-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/santosh-pandit-pune-railway-police-drunk-and-sleep_2026111819677.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "f37e4485797f",
+            "feed": "esakal",
+            "title": "Sangli Turmeric Market Price : हळदीला सोन्याचा भाव! सांगलीच्या बाजार समितीत हळदीला क्विंटलला तब्बल 65 हजार रुपये दर; दुष्काळामुळे उत्पादनात 40 टक्के घट",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-12T22:46:10",
-            "url": "https://www.esakal.com/marathwada/destitute-citizens-forced-to-spend-diwali-bhaubeej-outside-locked-bank-palod-district-central-cooperative-bank-remains-shut-till-12-noon-as-farmers-widows-seniors-and-divyangs-wait-for-hours-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-12/fbwc8aw4/Palod-District-Central-Cooperative-Bank",
+            "published": "2026-11-13T08:13:16",
+            "url": "https://www.esakal.com/paschim-maharashtra/sangli-turmeric-market-record-price-65000-per-quintal-diwali-padwa-turmeric-rate-production-decline-2026-bam92",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-13/v0s1ybd3/Sangli-turmeric-record-price",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         }
     ],
     "india": [
         {
-            "id": "d6b6f1e9e1fd",
+            "id": "b3a28d8d0687",
             "feed": "maharashtratimes",
-            "title": "अंकभविष्य 13 नोव्हेंबर 2026: मूलांक 1 नवीन संधी लाभदायक! मूलांक 8 कष्टाचे फळ मिळणार! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "title": "NTA Exam Security Reforms: नीट, जेईई परीक्षांच्या सुरक्षेसाठी एनटीएचे मोठे पाऊल! परीक्षा केंद्रांवर निवृत्त अधिकारी तैनात राहणार",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-13T04:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-13-november-2026-vinayak-chaturthi-vashi-yog-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135779244.cms",
+            "published": "2026-11-13T08:27:36",
+            "url": "https://maharashtratimes.com/career/career-news/nta-exam-security-reforms-appointment-of-retired-officials-and-new-computer-requirement/articleshow/135786933.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "01fbafe88ca6",
+            "id": "394e28251b33",
             "feed": "esakal",
-            "title": "महागड्या स्क्रबला पर्याय? तांदळाच्या पिठाचा हा घरगुती उपाय एकदा वापरून पाहा!",
+            "title": "Bay of Bengal Low Pressure Area : राज्यात थंडीची चाहूल पण, बंगालच्या उपसागरात कमी दाबाचे क्षेत्र; महाराष्ट्रात निचांकी ११.३ अंश तापमानाची नोंद",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-12T23:59:43",
-            "url": "https://www.esakal.com/ampstories/web-story/rice-flour-face-scrub-a-simple-pre-bath-skincare-routine-for-glowing-skin-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-04-29/5evannpx/Glowing-Skin",
+            "published": "2026-11-13T08:03:07",
+            "url": "https://www.esakal.com/desh/maharashtra-weather-update-winter-chill-begins-as-minimum-temperature-drops-a-low-pressure-area-develops-over-the-bay-of-bengal-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-13/2qk58bl5/sandeep-shirguppe-2026-11-13T080148.625.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "e02c466a166b",
+            "feed": "maharashtratimes",
+            "title": "Kranti Redkar Exclusive Interview: 'काकण' नंतर दिग्दर्शक म्हणून पुन्हा येण्यासाठी इतकी वर्ष का लागली? क्रांती रेडकरचा पहिल्यांदाच खुलासा, 'रेनबो'च्या वादावरही स्पष्टच बोलली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-13T07:45:02",
+            "url": "https://maharashtratimes.com/entertainment/interview/kranti-redkar-exclusive-interview-maitreya-director-talks-about-personal-life-upcoming-projects/articleshow/135786301.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "558eac011d26",
+            "feed": "lokmat",
+            "title": "आज कार्तिक विनायक वरद चतुर्थी व शुक्रवार व्रत! जाणून घ्या शुभ मुहूर्त, राहुकाळ आणि दिवसाचे संपूर्ण पंचांग",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-13T07:21:45",
+            "url": "https://www.lokmat.com/astro/articles/horoscope-today-13-november-2026-moon-transits-in-sagittarius-these-zodiac-signs-are-likely-to-get-big-financial-gains-and-promotions-while-others-will-have-to-be-careful-read-todays-horoscope-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/panchang-35_2026111819673.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "abbbd0a38bfd",
-            "feed": "esakal",
-            "title": "वारंवार डोके दुखतंय? डोळ्यांमधील ‘या’ 4 समस्यांकडे दुर्लक्ष करू नका!",
+            "id": "495086071dd9",
+            "feed": "lokmat",
+            "title": "आजचे राशीभविष्य, १३ नोव्हेंबर, २०२६: मनोरंजन व आनंद-प्रमाद करण्याचा दिवस; आर्थिक लाभ होतील!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-12T23:56:46",
-            "url": "https://www.esakal.com/ampstories/web-story/frequent-headaches-4-eye-related-problems-that-could-be-the-cause-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-14/lv9m38o0/Crown-Headache-11.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "0620ceab0f01",
-            "feed": "esakal",
-            "title": "थंडी, प्रदूषण अन् फुफ्फुसांचा संसर्ग; निमोनियाची सुरुवातीची लक्षणे कोणती?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-12T23:51:21",
-            "url": "https://www.esakal.com/ampstories/web-story/pneumonia-risk-winter-air-pollution-symptoms-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2023-08/fb4b159f-8523-4bc6-974d-cb7a0b44481e/coughing__6_.png",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "ef891df3cb95",
-            "feed": "esakal",
-            "title": "कच्चं बीट खावं की ज्यूस प्यावा? आरोग्यासाठी कोणता पर्याय आहे फायदेशीर?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-12T23:40:33",
-            "url": "https://www.esakal.com/ampstories/web-story/raw-beetroot-vs-beetroot-juice-which-is-better-for-health-benefits-and-the-right-way-to-consume-beetroot-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-07-18/sqlwt89z/beetroot-for-skin-10.jpg",
+            "published": "2026-11-13T07:13:23",
+            "url": "https://www.lokmat.com/astro/predictions/todays-horoscope-november-13-2026-a-day-of-entertainment-and-fun-there-will-be-financial-benefits-a1013/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhavishya-friday_202208866299.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
+        {
+            "id": "7ad75a36710c",
+            "feed": "esakal",
+            "title": "H-1B Visa Extension : अमेरिकेत नोकरी करणाऱ्या हजारो H-1B व्हिसाधारकांच्या अडचणी वाढण्याची शक्यता; भारतीयांवर थेट परिणाम",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-13T08:24:27",
+            "url": "https://www.esakal.com/global/us-dhs-proposed-rule-h1b-visa-extension-uscis-rfe-foreign-workers-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-13/vlcqb8vm/US-H1B-Visa.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "1094c44530fc",
+            "feed": "lokmat",
+            "title": "एनवीडिया सीईओ जेनसेन हुआंग यांचे तिसरे लफडे बाहेर आले...; डोनाल्ड ट्रम्प यांनी दिला लढण्याचा सल्ला...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-13T07:51:14",
+            "url": "https://www.lokmat.com/international/jensen-huang-donald-trump-relations-nvidia-ceo-jensen-huangs-third-scandal-comes-to-light-donald-trump-advises-him-to-fight-a607/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jesen-huang-donald-trump-2_2026111819676.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "57b7814d0757",
+            "feed": "esakal",
+            "title": "Jensen Huang Resigns : 'एनव्हिडिया'चे साईओ जेन्सेन हुआंग यांचा राजीनामा; तिसऱ्या प्रेमप्रकरणाने उडाली खळबळ",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-13T07:46:04",
+            "url": "https://www.esakal.com/global/jensen-huang-resigns-nvidia-ceo-alice-huang-chinese-spy-investigation-kimberly-powell-nvidia-chip-smuggling-ymk86",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-13/mc0telc9/Jensen-Huang.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
         {
             "id": "c03a06dd2ec0",
             "feed": "esakal",
@@ -196,152 +244,104 @@
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/theft-satara-news-photo_2026111816556.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
-        },
-        {
-            "id": "2bcdaba4400d",
-            "feed": "lokmat",
-            "title": "अमेरिकेतील थरारक घटना, वॉशिंग्टन डीसीमध्ये ४ जणांवर झाडल्या गोळ्या, परिसरात खळबळ!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-12T20:35:00",
-            "url": "https://www.lokmat.com/international/4-people-shot-near-white-house-in-washington-dcgunfire-reported-in-upscale-logan-circle-area-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/washington-dc-shooting-news_2026111819638.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "10e2deb0640e",
-            "feed": "lokmat",
-            "title": "इराण युद्धाच्या मुद्द्यावर डोनाल्ड ट्रम्प-बेंजामिन नेतन्याहू आमनेसामने; फोनवर खडाजंगी झाल्याच्या वृत्ताने खळबळ! नेमकं काय घडलं?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-12T20:33:18",
-            "url": "https://www.lokmat.com/international/donald-trump-benjamin-netanyahu-face-to-face-on-iran-war-issue-news-of-phone-argument-creates-stir-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/donald-trump-benjamin-netanyahu_2026111819637.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "efc8d69a6931",
-            "feed": "maharashtratimes",
-            "title": "10 आसनी वाहनात 15 जण कोंबले; EV व्हॅन 700 मीटर दरीत कोसळून चालकासह 14 जणांचा शेवट",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "world"
-            },
-            "published": "2026-11-12T20:18:02",
-            "url": "https://maharashtratimes.com/international/international-news/14-dies-as-passenger-vehicle-plunges-off-road-in-nepal/articleshow/135773587.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "a96991004bc7",
+            "id": "0cceb8f6ac30",
+            "feed": "esakal",
+            "title": "IND vs NZ 4th ODI Live: रोहित शर्मा, इशान किशन यांच्याकडून मोठी चूक; आकिब नबीला राग अनावर, दोन चेंडूंत नाट्यमय घडामोडी Video Viral",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-11-13T08:13:32",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-nz-4th-odi-rohit-sharma-ishan-kishan-drop-two-catches-in-two-balls-aquib-nabi-loses-his-cool-video-viral-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-13/8fiio84v/ROHIT-SHARMA-ISHAN-KISHAN-MISS-TWO-CHANCES-IN-TWO-BALLS-AQUib-NABI-FURIOUS",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "39c84e1bbb8b",
+            "feed": "esakal",
+            "title": "Pat Cummins : उस्मान ख्वाजाच्या दाव्याने ऑस्ट्रेलियन क्रिकेटला हादरवले; कर्णधार पॅट कमिन्सची तातडीची पत्रकार परिषद, म्हणाला, तो माझा मित्र पण...",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-11-13T07:55:41",
+            "url": "https://www.esakal.com/krida/cricket/pat-cummins-hits-back-at-usman-khawajas-ball-tampering-claims-complete-and-utter-nonsense-svg87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-13/ikkbtykg/Pat-Cummins-response-to-Usman-Khawaja-ball-tampering-claims",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "48ead38abd88",
             "feed": "maharashtratimes",
-            "title": "NZ vs IND : टीम इंडिया मालिका जिंकण्यासाठी सज्ज, न्यूझीलंडला शेवटची संधी, सामना किती वाजता?",
+            "title": "IND vs NZ 4th ODI : भारताचा टॉस जिंकत बॉलिंगचा निर्णय, टीममध्ये 3  मोठे बदल; सिराजला संधी नाहीच, Playing 11 मध्ये कोण-कोण?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-12T23:57:52",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-india-against-new-zealand-4th-odi-match-time-venue-and-both-team-head-to-head-stats-at-bay-oval-know-details/articleshow/135780576.cms",
+            "published": "2026-11-13T07:48:52",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-nz-4th-odi-toss-update-team-india-win-toss-and-bowl-first-three-changes-playing-11/articleshow/135786230.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "a15f13d2bf48",
-            "feed": "maharashtratimes",
-            "title": "NZ vs IND : वयाच्या 31 व्या वर्षी निवड, शेवटच्या 2 सामन्यांसाठी समावेश, पदार्पणाची संधी मिळणार?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-11-12T20:05:24",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/brett-randell-earns-his-maiden-call-against-india-for-last-2-odi-match-see-full-squad-of-new-zealand/articleshow/135773309.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "bd698aeeec89",
-            "feed": "lokmat",
-            "title": "Rishabh Pant: टीम इंडियासाठी गूड न्यूज! ऋषभ पंत फिटनेसच्या परीक्षेत पास; लवकरच न्यूझीलंडला रवाना होणार",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-11-12T18:00:23",
-            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-rishabh-pant-gets-fitness-clearance-set-to-join-team-india-for-new-zealand-test-series-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rishabh-pant-4_2026111819565.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "722cbdfdebae",
-            "feed": "lokmat",
-            "title": "Nvidia ची सूत्रे महिलेच्या हाती! कोण आहेत कोलेट क्रेस? हुआंग यांच्या जागी मिळाली मोठी जबाबदारी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "business"
-            },
-            "published": "2026-11-12T23:15:10",
-            "url": "https://www.lokmat.com/business/news/nvidia-leadership-in-the-hands-of-a-woman-who-is-colette-kress-jenson-huang-replacement-has-received-a-big-responsibility-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/nvidai-colette-kress-image_2026111819647.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "d56666da3d05",
-            "feed": "lokmat",
-            "title": "घरातच घ्या थिएटरचा आनंद! Vu ने लॉन्च केला ११५ इंचाचा टीव्ही; किंमत १३ लाख रुपये, जाणून घ्या फिचर्स",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-12T21:29:21",
-            "url": "https://www.lokmat.com/tech/vu-launches-masterpiece-aeye-tv-series-in-india-115-inch-miniled-tv-priced-at-rs13-lakh-check-features-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vu-launches-masterpiece-aeye-tv-series-in-india_2026111819644.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "9cab51fd33cb",
+            "id": "78bb480f8c75",
             "feed": "maharashtratimes",
-            "title": "33 वर्षांनंतर NVIDIA मधून जेन्सेन हुआंग बाहेर; राजीनाम्यानंतर कंपनीची मोठी घोषणा, प्लॅन जाहीर",
+            "title": "Nvidia Stock Crash : दोन अफेरच्या वादानंतर हुआंगची एक्झिट; US शेअर बाजारात हडकंप, Nvidia शेअर्स धडाधड कोसळले, बाजारमूल्य $4 लाख कोटींच्या खाली",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "business"
             },
-            "published": "2026-11-12T20:54:55",
-            "url": "https://maharashtratimes.com/business/business-news/jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns/articleshow/135774642.cms",
+            "published": "2026-11-13T08:31:59",
+            "url": "https://maharashtratimes.com/business/share-bazaar/nvidia-stock-crash-after-jensen-huang-resigns-market-value-goes-below-4-trillion-dollars/articleshow/135786696.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "0496d8752c92",
+            "feed": "lokmat",
+            "title": "किरकोळ महागाईचा भडका! ओलांडली ६ टक्क्यांची मर्यादा; ५ सर्वाधिक महाग झालेल्या वस्तू कोणत्या?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-11-13T08:03:11",
+            "url": "https://www.lokmat.com/business/news/retail-inflation-surges-crosses-6-percent-limit-which-are-the-5-most-expensive-items-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-inflation_2026091785786.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "28ab4c4494ea",
+            "feed": "lokmat",
+            "title": "इक्विटीच्या एनबीएफसी वर्चस्वाला लगाम; रिझर्व्ह बँकेचा नवा नियम आणण्याचा विचार",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "business"
+            },
+            "published": "2026-11-13T07:53:42",
+            "url": "https://www.lokmat.com/business/news/rbi-considering-new-rules-to-curb-equity-dominance-of-nbfc-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rbi-fd-rule_2026081764371.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
