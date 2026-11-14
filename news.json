@@ -1,6 +1,22 @@
 {
-    "lastUpdated": "15-11-2026 | 01:05 AM IST",
+    "lastUpdated": "15-11-2026 | 05:00 AM IST",
     "maharashtra": [
+        {
+            "id": "107a868e1fd2",
+            "feed": "esakal",
+            "title": "Maharashtra State School Chess Championship: चौथ्या फेरीनंतर मिळवण्यासाठी जोरदार चुरस! U13 मुलींच्या गटात ६ खेळाडूंमध्ये संयुक्त आघाडी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-15T01:35:40",
+            "url": "https://www.esakal.com/web-story/maharashtra-state-school-chess-championship-battle-intensifies-after-round-four-at-dahisar-mumbai-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-14/81ovetzk/Maharashtra-State-School-Chess-Championship.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
         {
             "id": "e8eb18c5f6b7",
             "feed": "esakal",
@@ -64,25 +80,25 @@
             "image": "https://cf-images.assettype.com/esakal/2026-11-14/e7mbwxxr/dr.-satishkumar-solanke",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "fa014272c72b",
-            "feed": "esakal",
-            "title": "नाशिकरोड रेल्वेस्थानक परिसरात ‘काला-पिला’ जुगारावर गुन्हे शाखेचा छापा; १३ जणांना अटक",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-14T22:55:36",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-gambling-raid",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-14/3pv607ql/Sakal20Wesite20Banner20_20Nashik.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
+        {
+            "id": "917cd56589ee",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 15 नोव्हेंबर 2026: मूलांक 1 आर्थिक बाजू मजबूत! मूलांक 6 नवीन संधी शोधा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-15T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-15-november-2026-chhath-puja-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135841727.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "3e67dabeddc5",
             "feed": "maharashtratimes",
@@ -144,22 +160,6 @@
             "published": "2026-11-14T23:53:27",
             "url": "https://www.lokmat.com/social-viral/aura-viral-kid-video-yavatmal-2-year-old-toddler-awesome-swag-goes-viral-video-gets-92-million-views-a629/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/viral-aura-kid-in-internet_2026111820686.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "7a93910a57af",
-            "feed": "esakal",
-            "title": "महाबळेश्वरपासून प्रतापगड किल्ला किती अंतरावर आहे?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-14T23:49:38",
-            "url": "https://www.esakal.com/ampstories/web-story/mahabaleshwar-to-pratapgad-fort-distance-route-and-travel-time-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-21/t6qxhjet/Pratapgad-Fort-Satara-4.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -248,6 +248,22 @@
     ],
     "sports": [
         {
+            "id": "847992451a4c",
+            "feed": "esakal",
+            "title": "U12 Cricket: अचिव्हर्स अकादमीने उंचावला परिवर्तन कप! यंग बॉइज क्लबचा धुव्वा; अनिश विद्युत सर्वोत्तम खेळाडू",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-11-15T01:13:50",
+            "url": "https://www.esakal.com/krida/cricket/achievers-cricket-academy-wins-parivartan-cup-u12-title-as-anish-vidyut-shines-at-oval-maidan-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-14/ofzcfhv1/U12-Parivartan-Cup-2026-Winners.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
             "id": "e7e38874bf9f",
             "feed": "maharashtratimes",
             "title": "NZ vs IND : इंडिया-न्यूझीलंड पाचवा आणि अंतिम सामना, प्लेइंग ईलेव्हनमध्ये २ बदल निश्चित, कुणाला मिळणार संधी?",
@@ -276,22 +292,6 @@
             "published": "2026-11-14T21:34:01",
             "url": "https://www.lokmat.com/cricket/news/india-pakistan-u19-asia-cup-final-indian-player-aggressive-celebration-clash-with-pakistani-players-a653/",
             "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-pakistan-u19-asia-cup-post-match-fight_2026111820678.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "868784ca8bed",
-            "feed": "lokmat",
-            "title": "अखेरच्या चेंडूवर पाकिस्तानचा धुव्वा! भारतानं नवव्यांदा पटकावला अंडर-१९ आशिया चषक; PM मोदींनी खास पोस्ट करत केलं कौतुक",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-11-14T20:57:13",
-            "url": "https://www.lokmat.com/cricket/news/u19-asia-cup-2026-pakistan-defeated-on-the-last-ball-india-won-the-u-19-asia-cup-for-the-ninth-time-pm-modi-praised-it-in-a-special-post-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/u19-asia-cup-2026_2026111820673.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
