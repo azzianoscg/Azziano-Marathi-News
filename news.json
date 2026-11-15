@@ -1,183 +1,231 @@
 {
-    "lastUpdated": "15-11-2026 | 05:08 PM IST",
+    "lastUpdated": "15-11-2026 | 11:41 PM IST",
     "maharashtra": [
         {
-            "id": "746a557349b6",
-            "feed": "loksatta",
-            "title": "Maharashtra CET : राज्यातील सीईटींचे वेळापत्रक कधी जाहीर होणार? ‘जेईई’च्या धर्तीवर सीईटीचे नियोजन का गरजेचे?",
+            "id": "dbf10483ae3a",
+            "feed": "maharashtratimes",
+            "title": "Eknath Shinde : छठपूजा उत्सव जोरदार साजरा केल्याने कोरोना पळाला, ठाण्यात छठपूजा उत्सवात एकनाथ शिंदे यांचे विधान",
             "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-15T17:05:17",
-            "url": "https://www.loksatta.com/pune/maharashtra-cet-exam-schedule-twice-a-year-planning-expert-views-pune-print-news-amy-95-6248760/",
-            "image": "https://images.loksattaimg.com/2026/11/exam-1.jpg",
+            "published": "2026-11-15T23:11:00",
+            "url": "https://maharashtratimes.com/maharashtra/thane/eknath-shinde-attends-chhath-puja-program-in-thane/articleshow/135862177.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "2ca00232cde4",
-            "feed": "lokmat",
-            "title": "Video: केंद्रीय गृहमंत्री अमित शाहांच्या पुणे दौऱ्याआधी युवक काँग्रेस अध्यक्ष उमेश पवार पोलिसांच्या ताब्यात",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-15T17:03:32",
-            "url": "https://www.lokmat.com/pune/youth-congress-president-umesh-pawar-taken-into-police-custody-ahead-of-union-home-minister-amit-shahs-visit-to-pune-a1008/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/youth-congress-president-umesh-pawar022_2026111820957.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "2372b9d64447",
+            "id": "52653a0e06ec",
             "feed": "esakal",
-            "title": "चाकणमध्ये लसणाच्या बाजारभावात तेजी",
+            "title": "Ration Card Separation: रेशनकार्ड विभक्त केल्यावर धान्य बंद! धान्य सुरू करण्यासाठी 'हा' दाखला बंधनकारक; नवे रेशनकार्ड ३० दिवसांत",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-15T22:53:46",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/ration-card-separation-may-stop-free-food-grains-know-which-certificate-is-mandatory-to-restart-benefits-and-get-new-card-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-15/fds45zrz/sudhir-jadhav-satara-29.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "f3de0fee1977",
+            "feed": "maharashtratimes",
+            "title": "Natasha Awhad : मतदारसंघ पुनर्रचनेस पाठिंबा म्हणजे संविधानाशी प्रतारणा, नताशा आव्हाड यांची भूमिका",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-15T22:47:15",
+            "url": "https://maharashtratimes.com/maharashtra/thane/natasha-awhad-big-statement-on-delimitation-bill-and-ncp-sharad-pawar-party/articleshow/135861106.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "96528ff1e628",
+            "feed": "esakal",
+            "title": "Pune Crime: ग्रामपंचायत सदस्यपदावरून भावकीत तुफान राडा; शिरूरमध्ये कोयता, रॉडने हाणामारी, ११ जणांवर गुन्हा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-15T17:02:35",
-            "url": "https://www.esakal.com/pune/garlic-prices-chakan",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-15/2wgmyfl0/Banner1.png",
+            "published": "2026-11-15T22:42:45",
+            "url": "https://www.esakal.com/pune/shirur-gram-panchayat-member-post-dispute-leads-to-violent-clash-between-two-families-and-police-cases-against-11-people-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-15/42skwt3x/sudhir-jadhav-satara-28.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "031a5e37f941",
+            "id": "f8619727d5eb",
             "feed": "esakal",
-            "title": "‘एआय’ तंत्रज्ञानामुळे वाढला उसाचा गोडवा",
+            "title": "Pune News: गावाकडे जाता आले नाही, पण परंपरा जपली! दौंडमध्ये उत्तर भारतीय बांधवांची भीमा नदीतीरी छठ पूजा",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-15T17:02:35",
-            "url": "https://www.esakal.com/pune/sugarcane-success-mahendra-thorat",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-15/4l3upqhw/Banner1.png",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "9deea6d47ed3",
-            "feed": "esakal",
-            "title": "दिवाळी अंक जाहिरात",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-15T16:58:05",
-            "url": "https://www.esakal.com/pune/hotel-jayashankar-longoti-chivda",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-15/2mgyhju9/Banner1.png",
+            "published": "2026-11-15T22:32:52",
+            "url": "https://www.esakal.com/pune/chhath-puja-celebrations-in-daund-as-north-indian-families-preserve-their-traditions-on-the-banks-of-bhima-river-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-15/djoquo3a/sudhir-jadhav-satara-27.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "46ff7f0e2992",
-            "feed": "esakal",
-            "title": "भगवान बिरसा मुंडांनी स्थापन केलेला 'बिरसैल धर्म' नेमका काय आहे? आदिवासींच्या या गूढ धर्माचे सत्य अंगावर काटा आणेल!",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-15T17:06:58",
-            "url": "https://www.esakal.com/ampstories/web-story/birsa-munda-birsait-religion-singbonga-ulgulan-movement-tribal-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-15/0hgqb5vh/1.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "57f5504f0f09",
+            "id": "5a8744db731c",
             "feed": "lokmat",
-            "title": "साफसाफईसाठी वापरलं जाणारं फडकं म्हणा किंवा कापड स्वच्छ तर करायलाच हवं, या पद्धतीने धुवा - होईल नव्यासारखे..",
+            "title": "Indian Railway Facts : भारतातील सर्वात लांब रेल्वे प्रवास! ९ राज्यांतून सुसाट धावते एक्सप्रेस, प्रवासासाठी लागतात तब्बल ७५ तास...",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-15T17:04:10",
-            "url": "https://www.lokmat.com/sakhi/social-viral/cleaning-tips-clean-mopping-cloth-like-this-clean-it-properly-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cleaning-cloths-wash-_2026111820954.jpeg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "2156e829730e",
-            "feed": "loksatta",
-            "title": "रात्री भात खाल्ल्याने वजन वाढते का? जाणून घ्या यामागील महत्त्वाची माहिती",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": null
-            },
-            "published": "2026-11-15T17:00:53",
-            "url": "https://www.loksatta.com/photos/lifestyle-gallery/6248655/does-eating-rice-at-night-cause-weight-gain-know-ayurveda-and-science-facts-svk-05/",
-            "image": "https://images.loksattaimg.com/2026/11/New-Project-119.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "30ffa94eca9a",
-            "feed": "lokmat",
-            "title": "'रामायण'मध्ये भरतची भूमिका कशी मिळाली? आदिनाथ कोठारेने सांगितला ऑडिशनचा किस्सा",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-15T17:00:44",
-            "url": "https://www.lokmat.com/filmy/bollywood/ramayana-adinath-kothare-bharat-role-audition-story-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ramayana-adinath-kothare-bharat-role-audition_2026111820904.jpeg",
+            "published": "2026-11-15T23:07:11",
+            "url": "https://www.lokmat.com/jarahatke/indias-longest-train-journey-the-express-runs-through-9-states-takes-75-hours-to-travel-a583/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/different-train-in-india1_2026111820797.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         },
         {
-            "id": "1d7bab806b7c",
+            "id": "66a201a8f818",
             "feed": "maharashtratimes",
-            "title": "आर्थिक राशिभविष्य 16 नोव्हेंबर 2026: वृश्चिक, धनु, मकरला नियोजनामुळे यश, विरोधकांपासून सावध राहा! पाहा, तुमचे राशिभविष्य",
+            "title": "1857 च्या स्वातंत्र्यलढ्याचा  इतिहास आता पाहता येणार, 600 कोटींचे भव्य शहीद स्मारक खुले, जाणून घ्या वैशिष्ट्ये",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-15T17:00:00",
-            "url": "https://maharashtratimes.com/astro/financial-horoscope/financial-money-horoscope-16-november-mangal-guru-yog-arthik-rashi-astrology-bhavishya-marathi/articleshow/135852397.cms",
+            "published": "2026-11-15T22:34:38",
+            "url": "https://maharashtratimes.com/india-news/ambala-shaheed-smarak-1857-war-memorial-opens/articleshow/135860813.cms",
             "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "58c62182170d",
+            "feed": "esakal",
+            "title": "हिवाळा सुरू होताच केसांत कोंडा होतोय? हे 3 उपाय करून पाहा!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-15T22:29:55",
+            "url": "https://www.esakal.com/ampstories/web-story/winter-dandruff-3-simple-home-remedies-to-reduce-flakes-and-scalp-itching-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2025-08-30/dcg4tiea/hair-fall.jpg",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "8bff8f724c64",
+            "feed": "lokmat",
+            "title": "फाजिल्कामध्ये दोन वाहनांची समोरासमोर धडक; भीषण रस्ते अपघातात ५ जणांचा मृत्यू, ११ जण गंभीर जखमी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-11-15T22:25:03",
+            "url": "https://www.lokmat.com/national/two-vehicles-collide-head-on-in-fazilka-5-killed-11-seriously-injured-in-horrific-road-accident-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/fazilka-5-dead-11-injured-in-road-oiiu_2026111821074.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9c67394d0de2",
+            "feed": "esakal",
+            "title": "ताम्हिणी घाट ते सिंहगड किल्ला! किती आहे अंतर? जाणून घ्या प्रवासाचे 3 मार्ग",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-15T22:14:05",
+            "url": "https://www.esakal.com/ampstories/web-story/tamhini-ghat-to-sinhagad-fort-distance-3-routes-asb02",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-15/5smktgn8/ghat-fort.jpg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "932b0e859646",
+            "id": "c4b6469d7626",
+            "feed": "maharashtratimes",
+            "title": "इराण-अमेरिका संघर्ष पुन्हा चिघळला, बहरीनवर ड्रोन हल्ले, आखाती देश संतापला",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-11-15T20:13:22",
+            "url": "https://maharashtratimes.com/international/international-news/iran-us-conflict-drone-attack-in-bahrain/articleshow/135857879.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5984b0323d18",
             "feed": "lokmat",
-            "title": "पाकिस्तान सैन्याचा माजी कॅप्टन आता त्याच्यांच विरोधात लढणार; BLA ने रहमान गुलला बनवले कमांडर-इन-चीफ",
+            "title": "पुष्कर मेळ्यात महाराष्ट्रातील घोड्यांची हवा! ५ कोटींचा अॅलेक्स, तर ५०० पिलांना जन्म देणारा विश्वास चर्चेत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-15T18:49:36",
+            "url": "https://www.lokmat.com/jarahatke/maharashtras-horses-are-in-talk-in-pushkar-mela-alex-worth-5-crores-while-vishwas-who-gave-birth-to-500-foals-is-in-the-news-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/pushkar-horese_2026111821029.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "67d420db2efc",
+            "feed": "esakal",
+            "title": "एका साडी नेसवण्याचे घेतात लाखो रुपये! कोण आहेत नीता अंबानींच्या फेव्हरेट साडी ड्रेपर?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-15T18:04:22",
+            "url": "https://www.esakal.com/ampstories/web-story/nita-ambani-saree-draper-dolly-jain-who-is-dolly-jain-saree-draping-fees-325-styles-limca-book-of-records-celebrity-saree-draper-amk08",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-15/6xr0l2xq/SAREE-DRAPER-DOLLY-JAIN",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "139b00455f5c",
+            "feed": "lokmat",
+            "title": "पाकिस्तानला मोठा झटका! पाक लष्कराचा माजी बंडखोर अधिकारी रहमान गुल बनला बीएलएचा नवा प्रमुख",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-11-15T16:13:17",
-            "url": "https://www.lokmat.com/international/former-pakistan-army-captain-appointed-new-commander-in-chief-of-baloch-liberation-army-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahaman-gul_2026111820905.jpg",
+            "published": "2026-11-15T17:41:01",
+            "url": "https://www.lokmat.com/international/pakistan-former-rebel-officer-of-pakistan-army-rehman-gul-becomes-new-bla-chief-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rehman-gul-alias-mureed-elected-new-commander-4334443_2026111820973.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
@@ -196,152 +244,104 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "1e439dcb5849",
-            "feed": "loksatta",
-            "title": "‘जुरासिक वर्ल्ड रीबर्थ’ ते ‘मॅडम इन्स्पेक्टर’; घरबसल्या नेटफ्लिक्सवर पाहा ८ दमदार चित्रपट-सीरिज, वाचा यादी…",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": null
-            },
-            "published": "2026-11-15T12:04:55",
-            "url": "https://www.loksatta.com/manoranjan/ott/netflix-new-movies-web-series-november-weekend-watchlist-dhayra-ranbali-dhindora-jurassic-world-rebirth-madam-inspector-ads-02-6248118/",
-            "image": "https://images.loksattaimg.com/2026/11/netflix-new-releases-movies-web-series-watchlist_d498cc.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "d1f74aa1b7ae",
-            "feed": "esakal",
-            "title": "Premium|Geoeconomics : डॉलरचे वर्चस्व, तंत्रज्ञानाची ताकद आणि चीन-अमेरिकेतील नवा आर्थिक संघर्ष",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-15T10:31:00",
-            "url": "https://www.esakal.com/premium-article/geoeconomics-global-economic-power-us-dollar-dominance-china-netherlands-nexperia-semiconductor-supply-chain-trade-conflict-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-14/8ufmtibe/Abhi-2026-11-14T213144.601.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "9291939d2408",
-            "feed": "esakal",
-            "title": "Premium|North Korea Cyber Attacks : उत्तर कोरियाची सायबर चोरीची मोहीम; क्रिप्टोकरन्सीच्या माध्यमातून अब्जावधींची कमाई",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-15T09:04:00",
-            "url": "https://www.esakal.com/saptarang/north-korea-cyber-attacks-cryptocurrency-theft-hacker-groups-state-sponsored-hacking-global-cyber-security-threats-amp17",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-14/e2p2h64z/Abhi-2026-11-14T203530.436.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "06fa4f9c2dc2",
-            "feed": "esakal",
-            "title": "WPL 2027: ब्रेबॉर्न नाही, आता वानखेडेवर रंगणार फायनलसहित ११ सामने! BCCI चा मोठा निर्णय; पाहा खरं कारण काय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-11-15T16:38:40",
-            "url": "https://www.esakal.com/krida/cricket/wpl-2027-bcci-shifts-mumbai-leg-final-matches-to-wankhede-stadium-from-brabourne-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-15/gyrhwkt5/Venue-Change-for-WPL-2027.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "f98ff61554a0",
-            "feed": "loksatta",
-            "title": "“आमच्या डोक्यात हाच विचार होता की…”, सिराजसह १० चेंडूत २६ धावांच्या भागीदारीदरम्यान नेमकी काय चर्चा झाली? अर्शदीपने स्वत: सांगितलं",
-            "source": {
-                "id": "loksatta",
-                "name": "Loksatta",
-                "website": "https://www.loksatta.com",
-                "category": null
-            },
-            "published": "2026-11-15T16:25:16",
-            "url": "https://www.loksatta.com/krida/arshdeep-singh-reveals-chat-with-mohammad-siraj-during-crucial-26-runs-partnership-said-we-went-above-2000-was-a-thought-in-mind-bdg-99-6248656/",
-            "image": "https://images.loksattaimg.com/2026/11/Arshdeep-Siraj.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "d637718352a6",
+            "id": "c4756a8eb321",
             "feed": "lokmat",
-            "title": "VIDEO: \"मुलांना हरवू शकत नाही अन्...'; आशिया कप विजयानंतर ओवैसींनी उडवली पाकिस्तानची खिल्ली",
+            "title": "ICC ची मोठी घोषणा! भारताकडे २०२९ च्या चॅम्पियन्स ट्रॉफीसह २०३१ वनडे वर्ल्ड कपचे यजमानपद",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-15T15:54:57",
-            "url": "https://www.lokmat.com/cricket/news/aimim-chief-asaduddin-owaisi-mocks-pakistan-over-under-19-asia-cup-defeat-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/asaduddin-owaisi-on-team-india-win_2026111820896.jpg",
+            "published": "2026-11-15T23:16:23",
+            "url": "https://www.lokmat.com/cricket/news/icc-confirms-india-as-host-of-2029-champions-trophy-co-host-of-2031-odi-world-cup-with-bangladesh-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/icc-confirms-india-as-host-of-2029-champions-trophy-co-host-of-2031-odi-world-cup-with-bangladesh-m-1_2026111821075.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d11b0396d31d",
+            "feed": "maharashtratimes",
+            "title": "Team India : रोहित-विराटच्या कमबॅकची तारीख निश्चित, भारतासमोर आगामी वनडे सीरिजमध्ये कुणाचं आव्हान?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-11-15T22:34:56",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-sl-2026-team-india-next-odi-series-against-sri-lanka-in-december-know-rohit-sharma-and-virat-kohli-when-and-where-to-play-matches-schedule/articleshow/135861023.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "5e7393ba51c5",
+            "feed": "maharashtratimes",
+            "title": "IND vs NZ 5th ODI : 'श्रेयसचा तो एक निर्णय जिथं सगळी मॅच फिरली', न्यूझीलंडचा कॅप्टनने पराभवासाठी जबाबदार ठरलेल्या 2 'व्हिलन'ची सांगितली नावे; पाहा कोण?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "sports"
+            },
+            "published": "2026-11-15T22:25:22",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-nz-5th-odi-captain-mitchel-santner-big-statement-about-turning-point-of-the-match/articleshow/135860097.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "1c06987e321d",
+            "id": "e042d4c5fecc",
             "feed": "lokmat",
-            "title": "जबरदस्त! 'या' सोलर शेअरने ६ महिन्यांत दिलाय ३३% परतावा, ब्रोकरेज बुलिश; दिला खरेदीचा सल्ला",
+            "title": "लहान कर्जदारांसाठी मोठी बातमी! RBI लवकरच मायक्रोफायनान्स कर्जाच्या नियमांत बदल करण्याची शक्यता",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-11-15T16:53:25",
-            "url": "https://www.lokmat.com/business/stock-market/fujiyama-power-systems-share-has-given-33-percent-return-in-6-months-brokerage-is-bullish-gave-buy-advice-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/share-market-ghrs_2026111820949.jpg",
+            "published": "2026-11-15T23:29:33",
+            "url": "https://www.lokmat.com/photos/business/big-news-for-small-borrowers-rbi-likely-to-change-microfinance-loan-rules-soon-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rbi-loan-rule_2026111821079.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "1274bdfc7e11",
-            "feed": "lokmat",
-            "title": "Birsa Munda : जमीन, जंगल आणि शेतकऱ्यांचे हक्क; बिरसा मुंडा यांचा संघर्ष आजही का आहे महत्त्वाचा? वाचा सविस्तर",
+            "id": "c4eba1b50f03",
+            "feed": "maharashtratimes",
+            "title": "हुआंग नंतर Nvidia ला आणखीन मोठा झटका! वरिष्ठ अभियंत्यानेही दिला राजीनामा, कोण आहेत Darrell Dai?",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
             },
-            "published": "2026-11-15T16:37:04",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/latest-news-birsa-munda-land-forest-and-farmers-rights-why-is-birsa-mundas-struggle-still-important-today-read-in-detail-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/birasa-munda-1_2026111820936.jpg",
+            "published": "2026-11-15T21:57:41",
+            "url": "https://maharashtratimes.com/business/business-news/darrell-dai-resigned-due-to-resignation-of-jensen-huang-nvidia-know-about-him/articleshow/135859893.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         },
         {
-            "id": "2b3c53affe8f",
+            "id": "dd3365f29077",
             "feed": "lokmat",
-            "title": "TATA मोटर्स मोठ्या धमाक्याच्या तयारीत! लवकरच येणार ५ ढासू इलेक्ट्रिक कार; ५०० किमीहून अधिक रेंजसह मिळणार हे खास फीचर्स",
+            "title": "Til Lagvad : कमी पाण्यात तीळ लागवड करा, कृषी विभागाकडून बियाणे वितरण, महाडीबीटीवर असा करा अर्ज",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-15T16:29:32",
-            "url": "https://www.lokmat.com/auto/tata-motors-is-preparing-for-a-big-bang-5-dhasu-electric-cars-will-be-coming-soon-these-special-features-will-be-available-with-a-range-of-more-than-500-km-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tata-htdt_2026111820929.jpg",
+            "published": "2026-11-15T20:35:02",
+            "url": "https://www.lokmat.com/agriculture/smart-farming/plant-sesame-seeds-with-less-water-seeds-will-be-distributed-by-the-agriculture-department-apply-on-mahadbt-like-this-a993/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/esame-pik_2026111821042.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
