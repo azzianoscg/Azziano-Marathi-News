@@ -1,347 +1,347 @@
 {
-    "lastUpdated": "15-11-2026 | 05:00 AM IST",
+    "lastUpdated": "15-11-2026 | 09:19 AM IST",
     "maharashtra": [
         {
-            "id": "107a868e1fd2",
+            "id": "ffb3cb51f164",
             "feed": "esakal",
-            "title": "Maharashtra State School Chess Championship: चौथ्या फेरीनंतर मिळवण्यासाठी जोरदार चुरस! U13 मुलींच्या गटात ६ खेळाडूंमध्ये संयुक्त आघाडी",
+            "title": "Paithan News: पैठण तालुक्यात अवैध पाणी उपशावर प्रशासनाची करडी नजर, नाथसागरासह १४ जलप्रकल्पांसाठी १५ फिरती पथके; अवैध वीजजोडण्या तोडण्याचे आदेश",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-15T01:35:40",
-            "url": "https://www.esakal.com/web-story/maharashtra-state-school-chess-championship-battle-intensifies-after-round-four-at-dahisar-mumbai-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-14/81ovetzk/Maharashtra-State-School-Chess-Championship.jpg",
+            "published": "2026-11-15T09:18:44",
+            "url": "https://www.esakal.com/marathwada/aurangabad/paithan-illegal-water-extraction-nathsagar-15-flying-squads-power-connections-vss03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-15/ks9c6f7e/.png",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "e8eb18c5f6b7",
-            "feed": "esakal",
-            "title": "शिवरायांची राजधानी! रायगड किल्ल्यावर गेल्यावर 'ही' 7 ठिकाणे पाहायला विसरू नका!",
+            "id": "261580a3a320",
+            "feed": "maharashtratimes",
+            "title": "Bribery Cases: ई-सुविधा तरीही 'ऑफलाइन' बाजार! महाराष्ट्रात 12 वर्षांत लाचखोरीचे 10 हजार गुन्हे; 9 हजार 987 सापळ्यांची नोंद",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
             },
-            "published": "2026-11-14T23:36:33",
-            "url": "https://www.esakal.com/ampstories/web-story/raigad-fort-7-must-visit-places-in-chhatrapati-shivaji-maharajs-capital-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2026-09-19/ggqoo3xh/raiagd-fort-age-1.jpg",
+            "published": "2026-11-15T09:13:22",
+            "url": "https://maharashtratimes.com/maharashtra/nashik/ten-thousand-bribery-cases-and-9987-trap-operations-recorded-in-maharashtra-over-12-yrs/articleshow/135846284.cms",
+            "image": "",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "7984b5dde021",
+            "id": "c2a5d101aa41",
             "feed": "lokmat",
-            "title": "QR कोडने पैसे, ZANGI ॲपमधून परदेशात संपर्क...; मुंबईत बड्या अभिनेत्यावर हल्ला करण्याचा कट उधळला",
+            "title": "निवृत्त पोलिस अधिकाऱ्याची १६ वर्षांनी निर्दोष मुक्तता; सरकारी पक्ष आरोप सिद्ध करण्यात अपयशी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-11-14T23:23:20",
-            "url": "https://www.lokmat.com/crime/money-through-qr-code-communication-through-app-plot-to-attack-big-actor-foiled-in-mumbai-delhi-police-arrested-shooter-deepak-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/qr-code-deepak-arrested-1_2026111820684.jpg",
+            "published": "2026-11-15T09:13:07",
+            "url": "https://www.lokmat.com/mumbai/retired-police-officer-acquitted-after-16-years-government-party-fails-to-prove-charges-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/court-news-order_2026101802003.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "055cf748cb27",
+            "id": "ab199715cdab",
             "feed": "esakal",
-            "title": "भक्तिमय संगीत सोहळ्याने नाशिक महोत्सव उत्साहात साजरा",
+            "title": "Police Vehicle Fire : साताऱ्याकडे निघालेल्या पोलिस व्हॅनने कऱ्हाडमध्ये अचानक पेट घेतला; अग्निशमन दल आणि नागरिकांच्या तत्परतेमुळे मोठी दुर्घटना टळली",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-14T23:10:29",
-            "url": "https://www.esakal.com/uttar-maharashtra/nashik/nashik-festival-2026-maharashtra-pride",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-14/g0hcjbhb/Sakal20Wesite20Banner20_20Nashik.jpg",
+            "published": "2026-11-15T09:12:44",
+            "url": "https://www.esakal.com/satara/karad-police-van-fire-short-circuit-five-suspects-police-personnel-safe-ysi02",
+            "image": "https://cf-images.assettype.com/esakal/2026-07-29/pqg6hqn1/sudhir-jadhav-satara-10.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "723b70cbfb2c",
-            "feed": "esakal",
-            "title": "Beed News : नवीन वर्षात जिल्हा रुग्णालयाची नवी इमारत ठरणार आरोग्यसेवेचे केंद्र; दीड महिन्यात मिळणार जिल्हा रुग्णालयात मोफत एमआरआय सेवा",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-14T22:56:15",
-            "url": "https://www.esakal.com/marathwada/new-district-hospital-building-to-become-healthcare-hub-in-the-new-year-free-mri-service-to-start-within-one-and-a-half-months-beed-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-14/e7mbwxxr/dr.-satishkumar-solanke",
-            "isBreaking": false,
-            "category_reason": "url"
-        }
-    ],
-    "india": [
-        {
-            "id": "917cd56589ee",
-            "feed": "maharashtratimes",
-            "title": "अंकभविष्य 15 नोव्हेंबर 2026: मूलांक 1 आर्थिक बाजू मजबूत! मूलांक 6 नवीन संधी शोधा! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-15T04:00:00",
-            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-15-november-2026-chhath-puja-astrology-ank-bhavishya-prediction-in-marathi/articleshow/135841727.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "3e67dabeddc5",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 15 नोव्हेंबर 2026 : रवियोगाचा शुभ संयोग,सूर्य उजळवणार या राशींचे भाग्य,कामात मिळणार यश ! पहा तुमचे आजचे राशिभविष्य काय सांगते !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-15T00:05:56",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-15-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135833804.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "bc0358d36101",
-            "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 16 नोव्हेंबर 2026 : प्रेमसंबंधात वाढणार गोडवा! काही राशींना मिळणार आनंदाची बातमी ! पहा तुमचे आजचे राशिभविष्य काय सांगते !",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-15T00:04:57",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-16-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135835945.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "1e5972c3b656",
-            "feed": "esakal",
-            "title": "छत्रपती शिवाजी महाराजांच्या स्वराज्यात किती होते किल्ले?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-14T23:59:40",
-            "url": "https://www.esakal.com/ampstories/web-story/how-many-forts-were-there-in-chhatrapati-shivaji-maharajs-swarajya-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2025-08-12/2dtgx0be/Shivaji-Maharaj-Hyderabad",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "730de38d7ab9",
+            "id": "fbfcfb1a84ce",
             "feed": "lokmat",
-            "title": "Video: यवतमाळच्या २ वर्षांच्या चिमुकल्याचा जबरा स्वॅग व्हायरल; व्हिडिओला ९२ मिलियन व्ह्यूज",
+            "title": "दहशतवादी संघटनांच्या संपर्कातील तरुणाला अटक, एटीएसची धडक कारवाई; संवेदनशील ठिकाणी रेकी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-15T09:11:01",
+            "url": "https://www.lokmat.com/mumbai/youth-in-contact-with-terrorist-organizations-arrested-ats-conducts-crackdown-reiki-at-sensitive-places-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ats_20180261057.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        }
+    ],
+    "india": [
+        {
+            "id": "9af150753e54",
+            "feed": "esakal",
+            "title": "Latest Marathi News Live Update : मुंबई अहमदाबाद महामार्गावर हायवा ट्रक आणि इको कारचा भीषण अपघात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-14T23:53:27",
-            "url": "https://www.lokmat.com/social-viral/aura-viral-kid-video-yavatmal-2-year-old-toddler-awesome-swag-goes-viral-video-gets-92-million-views-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/viral-aura-kid-in-internet_2026111820686.jpg",
+            "published": "2026-11-15T09:11:44",
+            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-15-november-2026-pm-narendra-modi-baramati-visit-postponed-sharad-pawar-sugarcane-price-raju-shetti-farmers-protest-gokul-chairman-election-government-appointed-director-decision-sharad-pawar-health-weather-update-voter-list-congress-against-chief-election-commissioner-gyanesh-kumar-rahul-gandhi-pm-narendra-modi-amit-shah-cm-devendra-fadnavis-tukaram-mundhe-fda-us-midterm-elections-mpsc-exam-gold-rate-pune-mumbai-traffic-update",
+            "image": "https://cf-images.assettype.com/esakal/2024-03/d400462f-6713-4b33-8ed6-d973316daa07/latest_Marathi_News___2024_02_08T091255_317__1_.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
+        },
+        {
+            "id": "382a7e23c83d",
+            "feed": "lokmat",
+            "title": "राजस्थान स्फोटात पाक कनेक्शन उघड! ८१ लाख मोबाईल नंबर तपासून दोघांना अटक, स्थानिकांची मदत",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-11-15T09:04:53",
+            "url": "https://www.lokmat.com/national/rajasthan-railway-track-blast-81-million-mobile-numbers-scanned-man-and-woman-arrested-from-punjab-pakistan-connection-revealed-a1001/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rajasthan-railway-track-blast_2026111820699.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "854d1ef8a526",
+            "feed": "maharashtratimes",
+            "title": "Aarti Wadagbalkar Exclusive : नवं घर घेताना पैशांची चणचण, कामवाल्या मावशींनी दाखवला मनाचा मोठेपणा, FD चे पैसे ऑफर! आरती वडगबाळकरने सांगितली आठवण",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-15T08:34:44",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/aarti-wadagbalkar-house-servant-offered-money-help-for-new-home/articleshow/135845847.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "8a21b762c20b",
+            "feed": "lokmat",
+            "title": "पोस्टाच्या पार्सलमधून होतेय अमली पदार्थांची तस्करी! डीआरआय विभागाने केला पर्दाफाश",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-11-15T08:31:24",
+            "url": "https://www.lokmat.com/national/drug-smuggling-is-being-done-through-postal-parcel-dri-department-has-exposed-it-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mumbai-drugs_2026101804051.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "6e1a9cff2fda",
+            "feed": "esakal",
+            "title": "IAS Office : कर्नाटकातील केपीएससी भरती घोटाळा पुन्हा चर्चेत; ईडीने दाखल केले १,५०० पानी आरोपपत्र  दाखल.",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-15T08:03:54",
+            "url": "https://www.esakal.com/desh/karnataka-kpsc-recruitment-scam-ed-chargesheet-ias-officer-170-crore-allegation-ysi02",
+            "image": "https://cf-images.assettype.com/esakal/2023-08/1246c1ec-f21f-4917-9516-fefec3ad6712/ed_vs_cbi.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
         }
     ],
     "world": [
         {
-            "id": "9e6ccd4a4dc0",
+            "id": "9291939d2408",
             "feed": "esakal",
-            "title": "India Pakistan Relations : तब्बल ३ वर्षांनी पाकिस्तानी मंत्री भारतात येणार! 'ऑपरेशन सिंदूर'नंतर पहिल्यांदाच मोठी घडामोड; दिल्लीत नेमकं काय घडतंय?",
+            "title": "Premium|North Korea Cyber Attacks : उत्तर कोरियाची सायबर चोरीची मोहीम; क्रिप्टोकरन्सीच्या माध्यमातून अब्जावधींची कमाई",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-14T21:37:58",
-            "url": "https://www.esakal.com/global/pakistan-climate-minister-musadik-malik-india-visit-sco-civilisational-dialogue-new-delhi-after-three-years-operation-sindoor-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-14/h58jygf7/Esakal-6.jpg",
+            "published": "2026-11-15T09:04:00",
+            "url": "https://www.esakal.com/saptarang/north-korea-cyber-attacks-cryptocurrency-theft-hacker-groups-state-sponsored-hacking-global-cyber-security-threats-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-14/e2p2h64z/Abhi-2026-11-14T203530.436.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "keyword"
         },
         {
-            "id": "04958aea1b11",
-            "feed": "esakal",
-            "title": "New Orleans Ship Crash : मिसिसिपी नदीत क्रूझ बोटीला महाकाय टँकरची भीषण धडक! अवघ्या १५ मिनिटांत बोट उलटली; १२९ प्रवाशांचे पुढे काय झाले?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-14T20:43:57",
-            "url": "https://www.esakal.com/global/us-new-orleans-mississippi-river-crash-atlantic-asphalt-tanker-hits-american-heritage-cruise-ship-32-injured-news-today-marathi-2026-vsw03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-14/o1uj42wc/Esakal-2.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "7cdb8bc18940",
+            "id": "ab42d4e06b13",
             "feed": "lokmat",
-            "title": "युक्रेन बनणार NATO देश, पण मोठी किंमत चुकवावी लागणार; US ची झेलेन्स्कींना ऑफर, पुतिन यांना सुवर्णसंधी",
+            "title": "अमेरिकेत २५ वर्षांतील सर्वाधिक काळ विमानसेवा ठप्प; हजारो विमाने रद्द, अनेक प्रवासी अडकले",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "world"
             },
-            "published": "2026-11-14T18:14:58",
-            "url": "https://www.lokmat.com/photos/international/ukraine-will-become-a-nato-country-but-will-have-to-pay-a-big-price-us-offer-to-zelensky-golden-opportunity-for-russia-putin-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trump-offer-to-ukraine-1_2026111820600.jpg",
+            "published": "2026-11-15T08:28:31",
+            "url": "https://www.lokmat.com/international/america-air-traffic-halted-for-longest-time-in-25-years-thousands-of-flights-canceled-many-passengers-stranded-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/airplane-1101szv_2026091775965.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "882f64fc638d",
-            "feed": "maharashtratimes",
-            "title": "फोनच्या मागेही डिस्प्ले, 9,000mAh बॅटरी, Honor 700 सीरिजचे भन्नाट फीचर्स उघड; प्री-बुकिंग सुरू; पाहा खासियत",
+            "id": "b24a3a0ef51a",
+            "feed": "lokmat",
+            "title": "‘स्टारशिप’ पकडण्याचा महत्त्वाचा प्रयत्न अयशस्वी, रॉकेटच्या बूस्टरचा स्फोट; अंतराळयान कक्षेत",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
             },
-            "published": "2026-11-14T17:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/honor-700-series-pre-orders-live-in-china-9000mah-battery-snapdragon-8-gen-5-and-health-tracking-rear-display/articleshow/135826956.cms",
-            "image": "",
+            "published": "2026-11-15T08:22:35",
+            "url": "https://www.lokmat.com/international/important-attempt-to-capture-starship-fails-rocket-booster-explodes-spacecraft-in-orbit-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/mask-1_2025011378313.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
         },
         {
-            "id": "1d3043476bd8",
-            "feed": "maharashtratimes",
-            "title": "३० सेकंदांच्या रीलसाठी गेला जीव; १९ वर्षांच्या मुलाला वाघानं टाकलं फाडून, कंटेंट क्रिएटरला पोलिसांनी केली अटक",
+            "id": "cc91ac7cc979",
+            "feed": "lokmat",
+            "title": "अमेरिका-चीनमधील AI स्पर्धा अधिक तीव्र; डोनाल्ड ट्रम्प-शी जिनपिंग भेटीकडे जगाचे लक्ष",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
             },
-            "published": "2026-11-14T12:48:09",
-            "url": "https://maharashtratimes.com/viral/viral-news/pakistan-influencer-arrested-after-tigress-kills-19-year-old-during-video-shoot/articleshow/135825904.cms",
-            "image": "",
+            "published": "2026-11-15T08:17:20",
+            "url": "https://www.lokmat.com/international/america-china-artificial-intelligence-ai-competition-intensifies-world-attention-on-donald-trump-xi-jinping-meeting-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/america-china-ai-war_2026111820695.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
+        },
+        {
+            "id": "73518ba6d8be",
+            "feed": "lokmat",
+            "title": "पाकिस्तानी मंत्री मुसादिक मलिक भारतात येणार; दिल्लीतील कार्यक्रमाला राहणार उपस्थित",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-15T05:55:48",
+            "url": "https://www.lokmat.com/international/pakistani-minister-musadik-malik-to-visit-india-will-attend-event-in-delhi-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-pak-1203-1_2026031662945.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "847992451a4c",
+            "id": "6be0d7193965",
+            "feed": "lokmat",
+            "title": "IND vs NZ 5th ODI : रोहित-विराटसह ऋतुराजही फेल! किवी गोलंदाजांसमोर टीम इंडियावर १३ वर्षांत दुसऱ्यांदा आली ही वेळ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "sports"
+            },
+            "published": "2026-11-15T09:07:24",
+            "url": "https://www.lokmat.com/cricket/news/india-vs-new-zealand-5th-odi-ruturaj-gaikwad-falls-for-18-after-rohit-sharma-and-virat-kohli-single-digit-scores-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-5th-odi-ruturaj-gaikwad-falls-after-rohit-sharma-and-virat-kohli-m_2026111820697.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "7ed6f21e11b1",
             "feed": "esakal",
-            "title": "U12 Cricket: अचिव्हर्स अकादमीने उंचावला परिवर्तन कप! यंग बॉइज क्लबचा धुव्वा; अनिश विद्युत सर्वोत्तम खेळाडू",
+            "title": "IND vs NZ 5th ODI Live: रोहित शर्मापाठोपाठ विराट कोहलीही स्वस्तात बाद; पॉवरप्लेमध्येच भारताने गमावल्या ३ विकेट्स",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-11-15T01:13:50",
-            "url": "https://www.esakal.com/krida/cricket/achievers-cricket-academy-wins-parivartan-cup-u12-title-as-anish-vidyut-shines-at-oval-maidan-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-14/ofzcfhv1/U12-Parivartan-Cup-2026-Winners.jpg",
+            "published": "2026-11-15T08:46:43",
+            "url": "https://www.esakal.com/krida/cricket/ind-vs-nz-5th-odi-live-rohit-sharma-virat-kohli-ruturaj-gaikwad-dismissed-in-powerplay-india-lose-three-wickets-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-15/0035u2o3/Rohit-Sharma-Virat-Kohli-India-vs-New-Zealand-5th-ODI.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "e7e38874bf9f",
+            "id": "928fc63e1600",
             "feed": "maharashtratimes",
-            "title": "NZ vs IND : इंडिया-न्यूझीलंड पाचवा आणि अंतिम सामना, प्लेइंग ईलेव्हनमध्ये २ बदल निश्चित, कुणाला मिळणार संधी?",
+            "title": "IND vs NZ 5th ODI : पाचव्या वनडेमध्ये भारताची पहिली बॅटिंग, मोहम्मद सिराजची टीममध्ये एन्ट्री, तर युवा खेळाडूचे पदार्पण; प्लेइंग 11 मध्ये कोण-कोण?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-14T23:50:05",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-odi-series-2026-new-zealand-and-india-both-team-make-minimum-1-change-in-playing-11-in-5th-and-final-match-venue-time-know-all-details/articleshow/135840606.cms",
+            "published": "2026-11-15T07:57:48",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-nz-5th-odi-new-zealand-win-toss-and-bat-first-mohammed-siraj-in-playing-11-yash-thackur-debut/articleshow/135845584.cms",
             "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "94a8f34166da",
-            "feed": "lokmat",
-            "title": "विजयानंतर तापलं मैदान! भारतीय खेळाडूंचा आक्रमक जल्लोष, पाकिस्तानी खेळाडूशी चकमक; समोर आला थरारक व्हिडिओ!",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "sports"
-            },
-            "published": "2026-11-14T21:34:01",
-            "url": "https://www.lokmat.com/cricket/news/india-pakistan-u19-asia-cup-final-indian-player-aggressive-celebration-clash-with-pakistani-players-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-vs-pakistan-u19-asia-cup-post-match-fight_2026111820678.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "43dc10583d63",
+            "id": "b048478688f2",
             "feed": "lokmat",
-            "title": "15 गुंठ्यांत गावरान कुक्कुटपालन, आता महिन्याला लाखोंची कमाई, सुभाष बत्ताशे यांचा यशस्वी प्रयोग",
+            "title": "ई-पीक पाहणीसाठी आता 'या' तारखेपर्यंत मुदतवाढ, 'महसूल'तर्फे नोंदीची सुविधा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-14T20:33:44",
-            "url": "https://www.lokmat.com/agriculture/agri-business/poultry/rural-poultry-farming-in-15-gunthas-now-earning-lakhs-per-month-successful-experiment-of-subhash-battash-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gavran_2026111820671.jpeg",
+            "published": "2026-11-15T09:06:10",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/deadline-for-e-crop-inspection-extended-till-this-date-facility-for-registration-by-revenue-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-ru-34-e-pik-pahani_2026111820701.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "4c720b598d8d",
-            "feed": "lokmat",
-            "title": "तुमच्या जुन्या सायकलपासून घरच्या घरी तयार करा स्वस्तात मस्त कोळपणी यंत्र, ही आहे सोपी पद्धत",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-14T19:35:27",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/make-cheap-and-cool-threshing-machine-at-home-from-your-old-bicycle-see-this-easy-method-a993/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kolpani-yantra_2026111820639.jpeg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "eecbb604d8d2",
+            "id": "d10e780b9def",
             "feed": "maharashtratimes",
-            "title": "iPhone 17 Pro Max स्वस्तात खरेदी करण्याची मोठी संधी! बँक डिस्काउंट आणि 97,993 पर्यंतच्या एक्सचेंज ऑफरसह मिळवा बंपर सूट",
+            "title": "Success Story : आफ्रिकेतील 'देवकी ग्रुप'! मंदिरात मदतनीस म्हणून गेले, घडवला स्टील खजिना; दिवाळखोरीतून कशी  सावरली कंपनी?",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-11-15T08:42:59",
+            "url": "https://maharashtratimes.com/business/business-news/success-story-how-narendra-raval-built-devki-group-in-africa-kenya/articleshow/135846108.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "165c20357cee",
+            "feed": "esakal",
+            "title": "Premium|AI Data Centers : एआयच्या वाढीचा खर्च कोण उचलणार? उजनी डेटा सेंटरमुळे पाण्याचा प्रश्न ऐरणीवर",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-14T19:00:00",
-            "url": "https://maharashtratimes.com/gadget-news/mobile-phones/apple-iphone-17-pro-max-256gb-price-drop-on-reliance-digital-get-it-for-rs-132490-with-bank-offers-and-up-to-rs-97993-exchange-bonus/articleshow/135827449.cms",
-            "image": "",
+            "published": "2026-11-15T08:03:00",
+            "url": "https://www.esakal.com/premium-article/artificial-intelligence-data-centers-ujani-project-water-consumption-energy-investment-nvidia-jensen-huang-industry-trust-amp17",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-14/tvsik87v/Abhi-2026-11-14T195810.099.jpg",
             "isBreaking": false,
             "category_reason": "keyword"
         }
