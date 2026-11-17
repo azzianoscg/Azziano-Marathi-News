@@ -1,315 +1,331 @@
 {
-    "lastUpdated": "17-11-2026 | 10:22 AM IST",
+    "lastUpdated": "17-11-2026 | 07:28 PM IST",
     "maharashtra": [
         {
-            "id": "76049388038f",
+            "id": "4690b83d50cf",
             "feed": "esakal",
-            "title": "Pune News: पुणेकरांना मोठा दिलासा! दिवाळीनंतरची दिवसाआड पाणीकपात लांबणीवर; १३ टीएमसी पाण्यावर चर्चा होणार",
+            "title": "Pune Ring Road : रिंगरोडच्या मोजणीला बाधित शेतकरी व जागामालकांचा विरोध; आधी जागेचा आणि बांधकामाचा दर निश्चित करा, नंतरच मोजणी करा; नागरिकांची मागणी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-17T10:16:15",
-            "url": "https://www.esakal.com/pune/pune-water-cut-update-diverted-day-wise-water-supply-cut-after-diwali-delayed-as-pmc-plans-talks-on-13-tmc-water-quota-sdj87",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-17/cxnfa9c5/sudhir-jadhav-satara-10.jpg",
+            "published": "2026-11-17T19:25:12",
+            "url": "https://www.esakal.com/pune/affected-farmers-and-landowners-oppose-ring-road-land-survey-demand-finalization-of-land-and-construction-rates-before-measurement-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-05-08/2r9pxfem/Nashik-Ring-Road-controversy",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7c1c8ea74ce5",
+            "id": "6c7ce4f4e389",
             "feed": "lokmat",
-            "title": "...तर प्रत्येक सदनिकेमागे दरमहा २३५ रूपये भरा; मोठ्या गृहनिर्माण सोसायट्यांना BMC चा दणका",
+            "title": "'...मग खरा मोठा थापाडा कोण?', उद्धव ठाकरेंच्या वक्तव्यानंतर एकनाथ शिंदेचा पलटवार; का भडकले?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-17T10:15:28",
-            "url": "https://www.lokmat.com/photos/mumbai/bmc-has-proposed-a-charge-of-rs-235-per-household-on-residents-of-buildings-classified-as-bulk-waste-generators-fail-to-treat-waste-locally-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bmc-society-1910_2026111821739.jpg",
+            "published": "2026-11-17T19:22:29",
+            "url": "https://www.lokmat.com/mumbai/then-who-is-the-real-big-slapper-eknath-shindes-counterattack-after-uddhav-thackerays-statement-why-did-it-flare-up-a571/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/eknath-shinde-uddhav-thackeray-news_2026111822282.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "4e78079d2e40",
+            "id": "b9145448a741",
             "feed": "esakal",
-            "title": "Gold Rate: सोन्या-चांदीच्या भावात मोठी घसरण, गुंतवणूकदारांनाही खरेदीची संधी; लग्नसराईच्या तोंडावर ग्राहकांना दिलासा",
+            "title": "Pune News : पुण्यासाठी स्वतःचे धरण बांधण्याचा सरकारकडे प्रस्ताव पाठवा; विरोधी पक्षनेते निलेश निकम यांची मागणी",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-17T19:22:14",
+            "url": "https://www.esakal.com/pune/send-proposal-to-government-to-build-dedicated-dam-for-pune-opposition-leader-nilesh-nikam-demands-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-17/1pkmyfww/Pune-Opposition-Leader-Nilesh-Nikam",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "82fc798415b8",
+            "feed": "maharashtratimes",
+            "title": "Rohit Pawar vs Fadnavis | सोलापुरात भाजपचे कार्यकर्ते रस्त्यावर, रोहित पवारांना व्हिलचेअरवर बसवलं",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-17T19:21:03",
+            "url": "https://maharashtratimes.com/maharashtra/solapur/bjp-workers-protest-against-rohit-pawar-in-solapur/videoshow/135928394.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "d4c84360ccc4",
+            "feed": "lokmat",
+            "title": "'खासदार सोनवणेंच्या मुलाचे नाव फिर्यादीतून काढ, अन्यथा..'; रमेश घुलेला जीवे मारण्याची धमकी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-17T10:14:23",
-            "url": "https://www.esakal.com/jalgaon/jalgaon-gold-silver-prices-fall-sharply-wedding-season-vss03",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-01/5hr8pn4s/sudhir-jadhav-satara-13.jpg",
+            "published": "2026-11-17T19:20:08",
+            "url": "https://www.lokmat.com/beed/beed-complainant-in-vilas-ghule-murder-case-threatened-with-death-to-drop-mp-bajrang-sonawanes-sons-name-police-inspect-dharur-ghat-spot-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/complainant-in-vilas-ghule-murder-case-threatened-with-death-to-drop-mp-bajrang-sonawanes-sons-name_2026111822275.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "7c28573f3b63",
-            "feed": "esakal",
-            "title": "'बाप-बेटे को बुलेटप्रूफ में ही मारेंगे', बच्चन पितापुत्रास जीवे मारण्याची धमकी; गँगस्टर गोल्डी ढिल्लोनची पोस्ट, बॉलिवूडमध्ये खळबळ",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-17T10:01:32",
-            "url": "https://www.esakal.com/mumbai/amitabh-bachchan-and-abhishek-bachchan-death-threat-from-gangster-goldy-dhillon-says-will-kill-father-and-son-even-inside-bulletproof-mvk02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-17/5xva35sq/Amitabh-and-Abhishek-Bachchan-death-threat.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "c03ac4e3fd6a",
-            "feed": "esakal",
-            "title": "Latest Marathi News Live Update : अक्कलकोटमध्ये अन्न व औषध प्रशासनाची मोठी कारवाई; स्वामी समर्थ मंदिर परिसरातून ८५० किलो मिठाई जप्त",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-17T10:00:32",
-            "url": "https://www.esakal.com/maharashtra/latest-marathi-news-live-today-17-november-2026-cm-devendra-fadnavis-ajit-pawar-death-case-chhath-puja-controversy-sonia-gandhi-belonging-book-raju-shetti-sugarcane-price-agitation-weather-update-imd-sc-st-reservation-supreme-court-decision-gokul-chairman-pm-narendra-modi-amit-shah-rahul-gandhi-tukaram-mundhe-fda-mpsc-exam-gold-rate-mumbai-pune-traffic-update",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-05/qglr7h4m/Latest-Marathi-News-Live-Update",
-            "isBreaking": false,
-            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "d30267638715",
-            "feed": "lokmat",
-            "title": "राज्यात 'माऊली मराठी जागर रथयात्रा'; २९ नोव्हेंबर ते ४ डिसेंबर या कालावधीत आयोजन",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-17T10:19:51",
-            "url": "https://www.lokmat.com/goa/goa-assembly-election-2027-subhash-velingkar-announced-mauli-marathi-jagar-rath-yatra-to-be-held-in-the-state-from-29-november-to-4-december-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhasha-350_201903204342.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "567ac3c8d195",
-            "feed": "lokmat",
-            "title": "आईच्या दागिन्यांवर मुलाचाच डल्ला; २३.५५ लाखांचे सोने परस्पर विकले, रकमेचे काय केले?",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-17T10:16:03",
-            "url": "https://www.lokmat.com/goa/son-steals-own-late-mother-jewelry-gold-worth-23-lakh-55-thousand-sold-to-each-other-know-what-happened-to-the-money-a719/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/goa-police-bdbdeesssdeeed_2023111118221.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "b52fcf64c36c",
-            "feed": "esakal",
-            "title": "पतीपासून वेगळी का राहते 'बाहुबली'ची शिवगामी? घटस्फोटाच्या चर्चांवर राम्या कृष्णन यांनी सांगितलं खरं कारण! म्हणाल्या...",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-17T10:12:51",
-            "url": "https://www.esakal.com/premier/baahubali-shivagami-ramya-krishnan-living-separately-from-husband-krishna-vamsi-divorce-rumours-reason-amk08",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-17/7sdoqq45/RAMYA-KRISHNAN",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "cf9ee60f7ad9",
+            "id": "abd6a60b6ad3",
             "feed": "maharashtratimes",
-            "title": "Aniket Saraf in Kon Honaar Crorepati:  तू ८वीत की ९वीत? अशोक मामा बाबा म्हणून कसे आहेत, मुलगा अनिकेत सराफनं ‘कोण होणार करोडपती’ मध्ये सांगितला बालपणीचा भन्नाट किस्सा",
+            "title": "घरात छुपा कॅमेरा, पतीची LIVE नजर अन् दारावर थाप; तरुण पाचव्या मजल्यावरून पडला, दोन्ही पाय मोडले",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-17T10:08:43",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/ashok-saraf-son-aniket-in-kon-honaar-crorepati-shared-childhood-memrory-of-father/articleshow/135910252.cms",
+            "published": "2026-11-17T19:18:03",
+            "url": "https://maharashtratimes.com/india-news/mp-bhopal-youth-falls-from-fifth-floor-while-meeting-his-female-friend/articleshow/135927841.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "c5726186e92f",
+            "id": "7757ab62ee4f",
+            "feed": "maharashtratimes",
+            "title": "'आईला मुक्त केलं, आता मीही नसेन', 67 वर्षीय वृद्ध आईला संपवलं; मग स्वत: पोलिसांना केला फोन",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-17T19:14:38",
+            "url": "https://maharashtratimes.com/india-news/kolkata-67-year-old-man-strangle-85-old-mother-in-home/articleshow/135927542.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "cca049759b8c",
+            "feed": "maharashtratimes",
+            "title": "Dhanaprapti Mantra : देवी लक्ष्मी व कुबेर यांच्या प्रभावी मंत्रांचा जप केल्यास होईल धनप्राप्ती मिटेल आर्थिक चिंता,पहा मंत्रपठण विधी !",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-17T19:07:00",
+            "url": "https://maharashtratimes.com/astro/religion-festival-news/devi-lakshmi-kuber-dev-dhanaprapti-mantra-puja-vidhi-for-money-problem/articleshow/135921914.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "2f02603c2a91",
             "feed": "lokmat",
-            "title": "\"माझा नवरा खूप समजून घेणारा...\", विक्की कौशलचं कौतुक करताना कतरिना कैफ काय म्हणाली?",
+            "title": "महिलांच्या प्रसूतीची गोपनीय माहिती भामट्यांकडे; ऑनलाइन व्हिडिओ कॉन्फरन्सद्वारे लाखाचा गंडा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-17T10:06:31",
-            "url": "https://www.lokmat.com/filmy/bollywood/katrina-kaif-calls-vicky-kaushal-her-peace-amid-chaos-says-he-keeps-her-grounded-a603/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/katrina-and-vicky-kaushal_2026111821737.jpg",
+            "published": "2026-11-17T19:05:41",
+            "url": "https://www.lokmat.com/jalana/jalna-cyber-fraud-scammers-use-confidential-maternity-data-and-video-conference-to-cheat-ghansawangi-farmer-of-rs99000-data-leak-probe-sought-a320/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/cyber-crime-abd-money-dl_2023111130482.png",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "f7338486485b",
+            "feed": "lokmat",
+            "title": "गुलाबाच्या रोपाला हवीत मोठी, टवटवीत अन् भरपूर फुले? किती तास ऊन द्यायचे पाहा, हे गणित चुकले तर फूल येणार नाही...",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-17T19:05:02",
+            "url": "https://www.lokmat.com/sakhi/gardening/how-many-hours-of-sunlight-does-a-rose-plant-need-in-winter-how-much-sunlight-is-required-for-rose-plant-flowering-how-many-hours-of-sunlight-for-rose-plant-a946/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/how-many-hours-of-sunlight-does-a-rose-plant-need-in-winter_2026111822236.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "efe8cd5c2652",
-            "feed": "lokmat",
-            "title": "अमेरिकेत पोहचला इराणचा 'डर्टी बॉम्ब'; ट्रम्प प्रशासनातील अधिकारी टार्गेटवर, सीक्रेट रिपोर्ट समोर",
+            "id": "5a0a236ac613",
+            "feed": "esakal",
+            "title": "Trump Modi Quad meeting: कणखर व्यक्तिमत्व! क्वाड नेत्यांच्या बैठकीत ट्रम्प यांच्याकडून पंतप्रधान मोदींचं कौतुक",
             "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
             },
-            "published": "2026-11-17T08:16:02",
-            "url": "https://www.lokmat.com/international/irans-dirty-bomb-reaches-america-donald-trump-administration-officials-targeted-secret-report-reveals-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trump-dirty-bomb-by-iran_2026111821697.jpg",
+            "published": "2026-11-17T18:18:26",
+            "url": "https://www.esakal.com/global/trump-calls-pm-modi-very-tough-man-great-friend-quad-leaders-meeting-manila-philippines-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-17/bk8bo06u/Latest-Marathi-Breaking-News-2026-11-17T181609.436.jpg",
             "isBreaking": false,
-            "category_reason": "feed"
+            "category_reason": "url"
         },
         {
-            "id": "43581139fdb7",
-            "feed": "lokmat",
-            "title": "तांत्रिक बिघाडामुळे अमेरिकत संकट; एअर ट्रॅफिक सिस्टमनंतर आता बँकिंग सेवा ठप्प, लोक हैराण",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-17T07:27:19",
-            "url": "https://www.lokmat.com/international/crisis-in-america-due-to-technical-failure-after-air-traffic-system-now-banking-services-are-disrupted-a629/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bank-america-techniqal_2026111821692.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "165ab7cbf637",
+            "id": "ab8c7c2bb9cb",
             "feed": "maharashtratimes",
-            "title": "तुम्हाला कुठूनही शोधून काढू! इराणच्या निशाण्यावर अमेरिकन नौदलाचे दोन अधिकारी; फोटोही जारी",
+            "title": "होर्मुझच्या सामुद्रधुनीत गॅस टँकरवर क्षेपणास्त्र हल्ला, 24 भारतीय खलाशी सुरक्षित",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-11-16T20:06:47",
-            "url": "https://maharashtratimes.com/international/international-news/iran-threatens-two-us-navy-officers-realeases-their-photos-and-said-we-will-track-you/articleshow/135891998.cms",
+            "published": "2026-11-17T17:30:59",
+            "url": "https://maharashtratimes.com/international/international-news/missile-attack-on-gas-tanker-in-strait-of-hormuz/articleshow/135923743.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
+        },
+        {
+            "id": "a6820fdf378a",
+            "feed": "maharashtratimes",
+            "title": "आठवड्याभरात तीनदा टेक्निकल लोचा! कोटींचा फटका; AI चा बाण उलटा फिरलाय? स्वत: AIनंच सांगितला धोका",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-11-17T15:44:59",
+            "url": "https://maharashtratimes.com/international/international-news/microsoft-outage-causes-crores-of-loss-exposes-hidden-dependencies-behind-ai-systems/articleshow/135919568.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c02dfaf55536",
+            "feed": "maharashtratimes",
+            "title": "Trump, putin, xi jinping  यांच्या एकत्र बैठकीची जगाला धास्ती, याल्टा 2.0 ची चर्चा का?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-17T14:40:56",
+            "url": "https://maharashtratimes.com/video/mt-originals/trump-putin-and-xi-jinping-to-meet-together-sparking-global-concern-why-is-there-talk-of-yalta-2-0/videoshow/135918631.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "086f5b626a06",
-            "feed": "esakal",
-            "title": "Shreyas Iyer: भारताच्या वेगवान गोलंदाजांनी न्यूझीलंडला कसं जखडलं? श्रेयस अय्यर अन् सँटनरनेही केलं कौतुक; मालिकेत नेमकं काय घडलं?",
+            "id": "01974d4608df",
+            "feed": "lokmat",
+            "title": "'साधेपणा'चा खरा अर्थ समजला! तू आमचा 'थाला' अन्... धोनीसाठी ऋतुराज गायकवाडची खास पोस्ट",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-17T10:16:06",
-            "url": "https://www.esakal.com/krida/cricket/india-vs-new-zealand-odi-series-shreyas-iyer-mitchell-santner-praise-fast-bowlers-indian-pacers-akib-nabi-yash-thakur-arshdeep-singh-gurnoor-brar-cricket-series-highlights-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-17/x7m3y5u4/test-cricket.jpg",
+            "published": "2026-11-17T18:58:35",
+            "url": "https://www.lokmat.com/cricket/news/our-thaalaa-ruturaj-gaikwads-special-message-for-ms-dhoni-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/our-thaalaa-ruturaj-gaikwads-special-message-for-ms-dhoni-m_2026111822256.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f046257a3a6d",
-            "feed": "esakal",
-            "title": "Sachin Tendulkar: 'बॅट नव्हे, काळजाचा तुकडा!' सचिनने जपलेल्या २५ बॅट्स आता म्युझियममध्ये; बहिणीने दिलेल्या पहिल्या बॅटचीही खास कहाणी",
+            "id": "b6cd270411a8",
+            "feed": "maharashtratimes",
+            "title": "NZ vs IND : प्लेइंग ईलेव्हनमध्ये 4 वेगवान गोलंदाज निश्चित, कॅप्टन शुभमनकडून मोठी अपडेट, ऋषभबाबत काय म्हणाला?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-17T10:00:40",
-            "url": "https://www.esakal.com/krida/cricket/sachin-tendulkar-25-cricket-bats-donated-mca-museum-batography-exhibition-first-bat-200th-test-bat-wankhede-stadium-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-17/av3v3hyk/test-cricket.jpg",
+            "published": "2026-11-17T18:27:01",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-1st-test-india-4-faster-bowlers-will-play-against-new-zealand-confirm-by-captain-shubman-gill-during-press-conference-rishabh-pant-update/articleshow/135926494.cms",
+            "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "aaef4d565aed",
-            "feed": "esakal",
-            "title": "IND vs NZ: भारताविरुद्ध कसोटी मालिकेआधी न्यूझीलंडला मोठा धक्का! स्टार अष्टपैलू खेळाडू संघाबाहेर; बदली खेळाडूची घोषणा",
+            "id": "3e2a66861678",
+            "feed": "lokmat",
+            "title": "IND vs NZ: न्यूझीलंडविरुद्धच्या वनडेत गुरनूर ब्रारकडून झाली मोठी चूक, आयसीसीने ठोठावला दंड, नेमकं प्रकरण काय?",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-17T09:38:16",
-            "url": "https://www.esakal.com/krida/cricket/ind-vs-nz-test-series-mitchell-santner-ruled-out-injury-dean-foxcroft-named-replacement-new-zealand-team-update-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-17/i5fxll8j/test-cricket.jpg",
+            "published": "2026-11-17T18:03:22",
+            "url": "https://www.lokmat.com/cricket/news/india-pacer-gurnoor-brar-penalised-by-icc-for-aggressive-celebration-against-new-zealand-gets-one-demerit-point-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-pacer-gurnoor-brar-penalised-by-icc-1_2026111822191.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
         {
-            "id": "cc39dc5d7e55",
-            "feed": "maharashtratimes",
-            "title": "Gold Rate Today : सराफा बाजारात सोनं एका वर्षाच्या नीचांकीवर, चांदीचा भाव दबावात! लग्नसराईच्या तोंडावर ग्राहकांमध्ये आनंदाची लाट",
+            "id": "ca7c2eb78d62",
+            "feed": "lokmat",
+            "title": "भारताचे 'ट्रक किंग'! उधार घेतलेल्या पैशांतून खरेदी केला पहिला ट्रक; आज ५,०००+ वाहनांचा ताफा...",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "business"
             },
-            "published": "2026-11-17T10:02:51",
-            "url": "https://maharashtratimes.com/business/business-news/gold-price-drops-to-near-1-year-low-amid-expectations-of-fed-rate-hike-should-you-buy-before-wedding-season/articleshow/135907712.cms",
-            "image": "",
+            "published": "2026-11-17T19:03:55",
+            "url": "https://www.lokmat.com/business/savings-investments/indias-truck-king-vijay-sankeshwar-bought-his-first-truck-with-borrowed-money-today-he-has-a-fleet-of-5000-vehicles-a732/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vijay-sankeshwar-vrl-logistic_2026111822261.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "348103521360",
-            "feed": "maharashtratimes",
-            "title": "‘ही दोस्ती तुटायची नाय’ नाटकाला उद्धव ठाकरेंची सहकुटुंब हजेरी; रश्मी ठाकरेसोबतचे सुमीत राघवनने शेअर केले खास फोटो",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-17T09:49:06",
-            "url": "https://maharashtratimes.com/lifestyle-news/fashion/uddhav-thackeray-attends-the-100th-show-of-hi-dosti-tutaychi-nay-rashmi-thackeray-steals-the-spotlight-in-stunning-red-saree/articleshow/135910194.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "5addc7a7984e",
+            "id": "f0bb06ffdf50",
             "feed": "lokmat",
-            "title": "Rabi Perani : रब्बी पेरणीवर एल निनोचा इफेक्ट; वाचा राज्यातील कोणत्या विभागात झाली सर्वाधिक पेरणी?",
+            "title": "Oppo Reno 17 Series: २००MP कॅमेरा अन् ८०००mAh बॅटरीसह ओप्पोचे दोन तगडे स्मार्टफोन लॉन्च; किंमत किती?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-17T09:48:21",
-            "url": "https://www.lokmat.com/agriculture/farming-ideas/rabi-perani-effect-of-el-nino-on-rabi-sowing-read-in-which-part-of-the-state-was-the-most-sowing-done-a975/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rabi-sowing_2026111821721.jpeg",
+            "published": "2026-11-17T18:58:33",
+            "url": "https://www.lokmat.com/tech/oppo-reno-17-and-reno-17-pro-launched-with-200mp-camera-and-8000mah-battery-check-price-and-features-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/oppo-reno-17-series_2026111822253.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "181c4cc35abd",
+            "feed": "lokmat",
+            "title": "राज्यातील केशरी रेशनकार्डधारक शेतकऱ्यांना धान्याऐवजी मिळणार थेट पैसे; महिन्याला किती रुपये जमा होणार?",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": null
+            },
+            "published": "2026-11-17T18:45:44",
+            "url": "https://www.lokmat.com/agriculture/farming-ideas/farmers-holding-orange-ration-cards-in-the-state-will-get-direct-money-instead-of-grains-how-much-rupees-will-be-deposited-per-month-a975/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/orange-ration-card-dbt_2026111822122.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         }
