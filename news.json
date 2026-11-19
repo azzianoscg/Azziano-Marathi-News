@@ -1,170 +1,186 @@
 {
-    "lastUpdated": "19-11-2026 | 02:30 AM IST",
+    "lastUpdated": "19-11-2026 | 07:51 AM IST",
     "maharashtra": [
         {
-            "id": "faec6ffeafa5",
+            "id": "a20a7606626d",
+            "feed": "esakal",
+            "title": "Solapur News: शेतकऱ्यांसाठी मोठी गुड न्यूज! पीकविम्याचे पैसे कधी मिळणार? मूग-उडीद १ डिसेंबरपासून, सोयाबीनची तारीखही ठरली",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-19T07:49:45",
+            "url": "https://www.esakal.com/paschim-maharashtra/solapur/maharashtra-crop-insurance-2026-money-distribution-dates-announced-for-moong-urad-and-soybean-farmers-from-december-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/b8gn9ovy/sudhir-jadhav-satara-2.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "b00f323c0f5b",
+            "feed": "maharashtratimes",
+            "title": "Dadar Staion Rename : माहिम रोडचे 'दादर' झाले, 170 वर्षांचा इतिहास, बाळासाहेबांशी वादानंतर पासवानांचा एल्गार, आता 'चैत्यभूमी' स्टेशन नामांतर अंतिम टप्प्यात",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-19T07:48:03",
+            "url": "https://maharashtratimes.com/maharashtra/mumbai-news/dadar-railway-station-to-be-renamed-as-chaityabhoomi-after-dr-babasaheb-ambedkar-says-cm-devendra-fadnavis/articleshow/135975309.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "892aa115d2d7",
             "feed": "lokmat",
-            "title": "'दम होता तर जिल्हा बँकेची निवडणूक स्वतंत्र लढायची होती'; सातारा जिल्हा बँक निवडीवरून मंत्री जयकुमार गोरेंचा शंभुराज देसाईंवर निशाणा",
+            "title": "रे रोडच्या झोपडीतून परवीन चांद थेट अमेरिकेतील विद्यापीठात; वार्षिक ५६,९५० डॉलरची शिष्यवृत्ती",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-19T00:17:18",
-            "url": "https://www.lokmat.com/satara/if-i-had-the-courage-i-would-have-fought-the-district-bank-election-independently-minister-jayakumar-gore-targets-shambhuraj-desai-over-the-satara-district-bank-election-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/jaikumar-gore-shambhuraj-desai_2026111823031.jpg",
+            "published": "2026-11-19T07:44:11",
+            "url": "https://www.lokmat.com/mumbai/parveen-chand-goes-straight-from-ray-road-slum-to-american-university-receives-56950-annual-scholarship-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/parveen-chand-1911_2026111823055.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bed605a90733",
-            "feed": "esakal",
-            "title": "Solapur DCC Bank : सोलापूर जिल्हा बँकेच्या निवडणुकीत मंगळवेढ्यातून सिद्धेश्वर आवताडे यांची बिनविरोध निवड; खडतरे-कांबळे लढतीकडे राजकीय वर्तुळाचे लक्ष",
+            "id": "121cf34481b0",
+            "feed": "lokmat",
+            "title": "आठ तासांची कामाची वेळ, साप्ताहिक विश्रांती; महाराष्ट्र वेतन नियम लागू; कामगारांना आर्थिक बळ",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-18T23:09:39",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/solapur-district-bank-election-siddheshwar-avtade-unopposed-khadtare-kamble-ysi02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-18/kstnl1rp/Abhi-2026-11-18T230843.451.jpg",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "c6472a1f98cb",
-            "feed": "esakal",
-            "title": "Maharashtra Wage Rules: सुट्टीच्या दिवशी काम केल्यास मिळणार दुप्पट पैसे? महाराष्ट्रातील नव्या वेतन नियमांत काय?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-18T22:49:56",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/maharashtra-new-wage-rules-2026-48-hour-workweek-double-overtime-pay-agn97",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-18/3ko9qla7/Maharashtra-Wage-Rules-2026-Explained-48-Hour-Work-Limit-Salary-Deduction-Cap-and-More.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "b995782bf21f",
-            "feed": "maharashtratimes",
-            "title": "Satara News : पेटता फटाका मंत्र्यांच्या ताफ्यातील गाडीत जाऊन पडला, धूर येऊ लागताच पळापळ, सातारा जिल्हा बँकेच्या अध्यक्ष-उपाध्यक्ष निवडीनंतर काय घडलं?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-18T22:45:07",
-            "url": "https://maharashtratimes.com/maharashtra/satara/fire-broke-out-in-ministers-convoy-vehicle-after-election-of-satara-banks-president-and-vice-president/articleshow/135968220.cms",
-            "image": "",
+            "published": "2026-11-19T07:33:57",
+            "url": "https://www.lokmat.com/maharashtra/eight-hour-working-hours-weekly-rest-maharashtra-wage-rules-implemented-financial-strength-for-workers-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/office-1911_2026111823053.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "bcd372d83bd2",
+            "id": "53c3e6621efb",
             "feed": "esakal",
-            "title": "Ramling Tiger : आष्टी, पाटोद्यात थैमान घालणार पट्टेदार 'रामलिंग वाघ' पोहोचला बीड तालुक्यातील बाळाघाटच्या डोंगरपट्ट्यात! ​बेलखंडी परिसरात आढळले ताजे पायाचे ठसे",
+            "title": "Pune News: मतदार यादीत नाव नाही? चिंता नको! २८ लाख ६८ हजार नागरिकांना नावनोंदणीची संधी; ३० नोव्हेंबरपर्यंत मुदत",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "maharashtra"
             },
-            "published": "2026-11-18T22:40:56",
-            "url": "https://www.esakal.com/marathwada/striped-tiger-ramling-that-wreaked-havoc-in-ashti-and-patoda-reaches-balaghat-hill-range-in-beed-taluka-fresh-pugmarks-found-in-belkhandi-area-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-18/0elm686h/The-striped-Ramling-Tiger-captured-on-a-Forest-Department-trekking-CCTV-camera.",
+            "published": "2026-11-19T07:33:50",
+            "url": "https://www.esakal.com/pune/voter-registration-maharashtra-2026-opportunity-for-2868-lakh-excluded-voters-to-add-names-to-electoral-roll-until-november-30-sdj87",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/58aj0h6h/sudhir-jadhav-satara-1.jpg",
             "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "15c8b5f7b310",
-            "feed": "maharashtratimes",
-            "title": "पंचांग 19 November 2026: वाशी योग, त्रिग्रही योग, रवि योग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ",
+            "id": "75732419dfa2",
+            "feed": "lokmat",
+            "title": "विपरीत मालव्य राजयोग: ८ राशींना मोठा फायदा, बँक बॅलन्स वाढ; यश-प्रगती, सुख-समृद्धी लाभ!",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-19T00:54:08",
-            "url": "https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-19-november-2026-in-marathi-vashi-yog-trigraha-yog-and-shubha-muhurta/articleshow/135968933.cms",
-            "image": "",
+            "published": "2026-11-19T07:35:11",
+            "url": "https://www.lokmat.com/photos/bhakti/viprit-malavya-rajyog-2026-big-benefits-for-8-zodiac-sign-increase-in-bank-balance-success-progress-happiness-prosperity-a719/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/surya-mangal-shukra_2026111823054.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "3df49f94e0f1",
+            "id": "53960c829924",
             "feed": "esakal",
-            "title": "Pavana Dam News : पवना धरणग्रस्तांच्या पुनर्वसनासह बंदिस्त जलवाहिनी प्रकल्पाच्या प्रश्नावर १९ नोव्हेंबरला महसूलमंत्री चंद्रशेखर बावनकुळे यांच्यासोबत महत्त्वाची बैठक होणार",
+            "title": "Akwan Cyclone Live News : अक्वान चक्रीवादळाचा महाराष्ट्रावर कसा परिणाम होणार? ताशी १०० किमी वेग, चक्रीवादळ धुमाकूळ घालणार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-18T23:40:37",
-            "url": "https://www.esakal.com/pimpri-chinchwad/pavana-dam-affected-farmers-rehabilitation-closed-pipeline-project-meeting-bawankule-ysi02",
-            "image": "https://cf-images.assettype.com/esakal/2023-05/0a4323fc-8da2-46ce-b7a7-fe19a8f4620b/2.jpg",
+            "published": "2026-11-19T07:26:40",
+            "url": "https://www.esakal.com/desh/akwan-cyclone-update-100-kmph-wind-speed-maharashtra-impact-srs92",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/hysl0a8f/sandeep-shirguppe-2026-11-19T072605.630.jpg",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         },
         {
-            "id": "599ff130358b",
+            "id": "e81fec2944e4",
             "feed": "lokmat",
-            "title": "दुबईतून चालवले जातेय मोठे सायबर फसवणूक रॅकेट! देशभरात पसरलेल्या या जाळ्यात तब्बल १२,००० सिम कार्डचा वापर; एका सिमची किंमत ऐकून व्हाल थक्क",
+            "title": "खरेदीची ‘सुवर्ण’संधी! सोने ४४ हजारांनी तर चांदी वर्षभरात २.१५ लाखांनी स्वस्त",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "india"
             },
-            "published": "2026-11-18T23:36:12",
-            "url": "https://www.lokmat.com/national/a-major-cyber-fraud-racket-is-being-run-from-dubai-as-many-as-12000-sim-cards-are-used-in-this-network-spread-across-the-country-you-will-be-shocked-to-hear-the-price-of-one-sim-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/dubai-cyber-fraud-network-12000-sim-cards-pimpri_2026111823017.jpg",
+            "published": "2026-11-19T07:20:22",
+            "url": "https://www.lokmat.com/national/golden-opportunity-to-buy-gold-cheaper-by-rs-44000-and-silver-cheaper-by-rs-215-lakh-in-a-year-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/gold-rates-2303m_2026111823049.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "d35297329ff9",
-            "feed": "esakal",
-            "title": "घरात पाळण्यासाठी सर्वात चांगला कुत्रा कोणता?",
+            "id": "7e0560479dee",
+            "feed": "lokmat",
+            "title": "Kartiki Ekadashi 2026: मनाच्या गाभाऱ्यात पांडुरंगाचे दर्शन कसे घ्यावे? ह.भ.प. बाबामहाराज सातारकर यांनी दाखवला अध्यात्माचा मार्ग!",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-18T23:09:32",
-            "url": "https://www.esakal.com/ampstories/web-story/best-dogs-to-keep-at-home-in-india-top-family-friendly-dog-breeds-temperament-care-snk89",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-18/oa24nppp/ttt-3.jpg",
+            "published": "2026-11-19T07:10:01",
+            "url": "https://www.lokmat.com/bhakti/kartiki-ekadashi-2026-how-to-have-the-darshan-of-pandurang-in-the-depths-of-the-mind-hbp-baba-maharaj-satarkar-showed-the-path-of-spirituality-a679/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/prabodhini-ekadashi-bijmantra_2026111822705.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         },
         {
-            "id": "4ff73979ac45",
+            "id": "46430f7220b7",
             "feed": "maharashtratimes",
-            "title": "आजचे राशिभविष्य 19 नोव्हेंबर 2026 : गुरु देणार या राशींना आज आर्थिक पाठबळ,धनलाभाचे बनणार योग ! पहा तुमचे आजचे राशिभविष्य काय सांगते !",
+            "title": "Zeenat Aman On Mazhar Khan : लग्नाच्या पहिल्याच वर्षी समजलेलं तो मला धोका देतोय, तरी 12 वर्ष संसार केला; झीनत अमान यांनी सांगितल्या वैवाहिक वेदना",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": null
             },
-            "published": "2026-11-18T23:04:00",
-            "url": "https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-19-november-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/135965683.cms",
+            "published": "2026-11-19T07:07:11",
+            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/zeenat-aman-cheated-by-first-husband-mazhar-khan-actress-shared-worst-married-life/articleshow/135974909.cms",
             "image": "",
             "isBreaking": false,
-            "category_reason": "default"
+            "category_reason": "url"
         }
     ],
     "world": [
+        {
+            "id": "8166ecc483a0",
+            "feed": "lokmat",
+            "title": "भारत आर्थिक संकटाच्या उंबरठ्यावर, बेरोजगारीचा गंभीर प्रश्न; शिक्षण व्यवस्थेतही त्रुटी- राहुल गांधी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "world"
+            },
+            "published": "2026-11-19T06:00:14",
+            "url": "https://www.lokmat.com/international/india-on-the-brink-of-economic-crisis-serious-problem-of-unemployment-flaws-in-education-system-too-rahul-gandhi-a747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rahul-gandhi-manifesto-1609sds_2026111823042.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "92cec520efaa",
             "feed": "esakal",
@@ -228,72 +244,56 @@
             "image": "https://cf-images.assettype.com/esakal/2026-11-18/1pc0x1i8/Latest-Marathi-Breaking-News-2026-11-18T190134.227.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        },
-        {
-            "id": "5299a15452b5",
-            "feed": "esakal",
-            "title": "भारतातल्या या स्टेशनवरून रेल्वे जाते थेट परदेशात! तुम्हाला माहीत आहे का नाव?",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-18T18:29:49",
-            "url": "https://www.esakal.com/ampstories/web-story/indian-railway-stations-connected-to-foreign-countries-international-train-routes-nepal-bangladesh-pakistan-aht00",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-18/7qwv0s23/Indian-Railway-Stations-Connected-to-Foreign-Countries-1.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ],
     "sports": [
         {
-            "id": "fd6b661d35b3",
-            "feed": "maharashtratimes",
-            "title": "Asia Cup Rising Stars 2026 : स्पर्धेला 19 नोव्हेंबरपासून सुरुवात, अभिषेक-वैभव फटकेबाजीसाठी तयार, भारताचा पहिला सामना केव्हा?",
+            "id": "06a457ed3808",
+            "feed": "lokmat",
+            "title": "IND vs NZ 1st Test : फॉरवर्ड शॉर्ट लेगला 'यशस्वी' ड्युटी; अन् गिल-जैस्वालची 'जादू की झप्पी'! (VIDEO)",
             "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-18T23:56:15",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/asia-cup-rising-stars-2026-will-start-form-19th-november-total-8-teams-included-competition-held-at-doha-katar-tilak-varma-lead-india-know-all-details/articleshow/135969616.cms",
-            "image": "",
+            "published": "2026-11-19T07:30:20",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-1st-test-yashasvi-jaiswals-sharp-catch-at-forward-short-leg-helps-jasprit-bumrah-dismiss-daryl-mitchell-reactions-of-shubman-gill-goes-viral-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ind-vs-nz-1st-test-yashasvi-jaiswals-sharp-catch-at-forward-short-leg-shubman-gill-goes-viral-m_2026111823050.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "f185c1365978",
-            "feed": "maharashtratimes",
-            "title": "Wtc Final 2027 : मिशन वर्ल्ड टेस्ट चॅम्पियनशीप फायनल, टीम इंडियाला अंतिम फेरीसाठी किती सामने जिंकावे लागणार?",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "sports"
-            },
-            "published": "2026-11-18T23:46:16",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/nz-vs-ind-series-2026-team-india-how-many-matches-do-we-need-to-win-to-qualify-for-wtc-2025-2027-final-know-scenario/articleshow/135969414.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "dccfe4c9808f",
+            "id": "ea7afa47ad64",
             "feed": "esakal",
-            "title": "धोनीने IPL मध्ये किती फोर अन् किती सिक्स मारले? पाहा संपूर्ण कामगिरी",
+            "title": "IND vs NZ: ODI मालिका जिंकली, पण भारतीय संघाला ICC चा मोठा दणका! ठोठावला मोठा दंड, पण का?",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
-                "category": null
+                "category": "sports"
             },
-            "published": "2026-11-18T22:46:10",
-            "url": "https://www.esakal.com/ampstories/web-story/ms-dhoni-total-fours-and-sixes-ipl-career-complete-statistics-psk96",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-18/3lhr9379/MS-Dhoni-1.jpg",
+            "published": "2026-11-19T07:08:01",
+            "url": "https://www.esakal.com/krida/cricket/india-fined-35-percent-match-fee-slow-over-rate-fifth-odi-new-zealand-mount-maunganui-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/fxcgwjux/India-ODI-Team.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "feed"
+        },
+        {
+            "id": "90830bbf6629",
+            "feed": "esakal",
+            "title": "IND vs NZ, 1st Test: रचिन रवींद्रला DRS अभावी जीवदान, पण अखेर OUT! डॅरिल मिचेलचाही जैस्वालने घेतला भारी कॅच; लंचपर्यंत भारताचं वर्चस्व",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-11-19T06:02:52",
+            "url": "https://www.esakal.com/krida/cricket/jasprit-bumrah-akash-deep-rachin-ravindra-missed-review-ind-vs-nz-wellington-1st-test-lunch-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/m431wao0/India-vs-New-Zealand-1st-Test-Lunch.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "business": [
