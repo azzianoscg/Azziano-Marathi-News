@@ -1,296 +1,296 @@
 {
-    "lastUpdated": "19-11-2026 | 04:25 PM IST",
+    "lastUpdated": "20-11-2026 | 12:45 AM IST",
     "maharashtra": [
         {
-            "id": "ea22ae1cb8f0",
+            "id": "05a1f045dca0",
+            "feed": "esakal",
+            "title": "Gold Silver Rate : दिवाळीनंतर खरेदीदारांना दिलासा! सोने, चांदीत घसरणीचा कल कायम; भाव आणखी कमी होण्याचा अंदाज",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-19T23:44:49",
+            "url": "https://www.esakal.com/jalgaon/relief-for-buyers-post-diwali-downward-trend-in-gold-and-silver-continues-prices-expected-to-drop-further-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-03-22/aiblwihs/Latest-Marathi-Breaking-News-2026-03-22T112855.656.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "4a689327aa8b",
+            "feed": "esakal",
+            "title": "Grampanchyat Election : ग्रामपंचायत निवडणुका आता नवीन वर्षातच; एसआयआरची प्रक्रिया पूर्ण झाल्यावरच सुरुवात",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-19T23:30:08",
+            "url": "https://www.esakal.com/satara/gram-panchayat-elections-now-only-in-the-new-year-process-to-begin-after-completion-of-sir-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/cauts2bp/Grampanchyat-Election",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "020f99e4da36",
             "feed": "lokmat",
-            "title": "Kolhapur- Gadhinglaj United Cup Tournament: गोव्याचा साऊथ फुटबॉल क्लब 'युनायटेड'चा मानकरी",
+            "title": "पावणेचार कोटींच्या लुटीचे छत्तीसगड, एमपी कनेक्शन! शिवनी हवालाकांड चर्चेत : दोन्ही ठिकाणी सोहनचे नाव",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-19T16:19:44",
-            "url": "https://www.lokmat.com/kolhapur/in-the-final-match-of-the-gadhinglaj-united-football-tournament-south-united-football-club-from-goa-secured-an-exciting-2-and-1-victory-over-the-fc-team-from-mangaluru-a746/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/goa-gadhilaj-football_2026111823469.jpg",
+            "published": "2026-11-19T23:29:15",
+            "url": "https://www.lokmat.com/nagpur/chhattisgarh-mp-connection-of-loot-worth-four-and-a-half-crores-shivni-hawala-case-in-discussion-sohans-name-in-both-places-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ngpr-crime-news_2026111823760.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "34dfbea512f9",
-            "feed": "lokmat",
-            "title": "भाजपाकडून शिंदेसेनेला मोठा धक्का, रवींद्र चव्हाणंच्या उपस्थितीत माजी आमदाराचा भाजपात प्रवेश",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-19T16:16:23",
-            "url": "https://www.lokmat.com/maharashtra/big-blow-to-shinde-sena-from-bjp-former-mla-srinivas-vanaga-took-up-the-lotus-in-the-presence-of-ravindra-chavan-a301/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shrinivas-vanga-1_2026111823462.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "5f7e781b4ab3",
+            "id": "cb13331c1c06",
             "feed": "esakal",
-            "title": "पुण्यात झाडं न लावताच वाळली, साडेबारा कोटी खर्च; वृक्षारोपणात घोटाळ्याचा आरोप, वनमंत्री म्हणाले, 'कुणी केलं माहिती घेणार'",
+            "title": "Dairy Farm Flyover : पिंपरी डेअरी फार्म उड्डाणपुलाजवळ राँग साइड वाहतुकीचा धोका लक्षात घेऊन महापालिकेच्या पत्रानंतर वाहतूक पोलिस आणि वॉर्डन नियुक्त",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-19T16:14:26",
-            "url": "https://www.esakal.com/pune/pune-tree-plantation-scam-rs-12-crore-spent-trees-missing-forest-minister-promises-probe-into-alleged-irregularities-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-19/orwctspz/ganesh-naik.jpg",
+            "published": "2026-11-19T23:23:23",
+            "url": "https://www.esakal.com/pune/pimpri-dairy-farm-flyover-wrong-side-driving-traffic-police-action-ysi02",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/tac0ysn1/2.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "a14215632934",
+            "id": "64cc8b1d4547",
             "feed": "esakal",
-            "title": "बचत गटांच्या रोजगारावर सेंट्रल किचनचे सावट",
+            "title": "Sugarcane Production : मुरमाड दोन एकरांमध्ये २२६ टन उसाचे उत्पादन; पारगावमधील ताकवणे बंधूंचा दौंड तालुक्यात उच्चांक",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "maharashtra"
             },
-            "published": "2026-11-19T16:07:13",
-            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i97060-txt-thane-20261119103713",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-19/9kmk4wgx/mumbai_fallback_image.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e7814f4656fa",
-            "feed": "esakal",
-            "title": "डॉ. भीमराव आंबेडकर शनिवारी मुरबाडमध्ये",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-19T16:07:12",
-            "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i97066-txt-thane-20261119103712",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-19/cvftoi5e/mumbai_fallback_image.jpg",
+            "published": "2026-11-19T23:16:08",
+            "url": "https://www.esakal.com/pune/226-tonnes-of-sugarcane-harvested-on-two-acres-of-murum-soil-takawane-brothers-from-pargaon-set-record-in-daund-taluka-khutbav-pjp78",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/nmvh62am/nilesh-and-tushar-takwane",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "india": [
         {
-            "id": "edc7c3aa4e03",
+            "id": "1a24c34d3e6e",
             "feed": "lokmat",
-            "title": "Bhendi Fry : कुरकुरीत खमंग भेंडी फ्राय करण्याची सोपी रेसिपी , एकदा खाल्ली की परत कराल ..",
+            "title": "१६१४ कोटींचे प्रकल्प शेजारच्या राज्यांत गेले; संतप्त मुख्यमंत्री थलपथी विजय 'ॲक्शन मोडवर', १५ अधिकाऱ्यांना केले बडतर्फ",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "india"
+            },
+            "published": "2026-11-19T23:46:30",
+            "url": "https://www.lokmat.com/national/projects-worth-1614-crores-went-to-neighboring-states-angry-chief-minister-thalapathy-vijay-on-action-mode-dismissed-15-officials-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/tamilnadu-cm-thalapathy-vijay_2026111823752.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "52f2922233ef",
+            "feed": "lokmat",
+            "title": "हात खराब न करता टॉयलेट स्वच्छ करण्याची खास ट्रिक! चकाचक दिसेल टॉयलेट-डाग निघतील",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-19T16:21:46",
-            "url": "https://www.lokmat.com/sakhi/food/bhendi-fry-an-easy-recipe-for-crispy-and-delicious-okra-fry-a1009/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/bhendi-fry-recipes-3_2026111823474.jpeg",
+            "published": "2026-11-19T23:40:02",
+            "url": "https://www.lokmat.com/sakhi/social-viral/a-special-trick-to-clean-the-toilet-without-getting-your-hands-dirty-a648/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/whatsapp-image-2026-11-19-at-3.56.50-pm_2026111823754.jpeg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "fcdeeb89f85f",
+            "id": "2ccdf0df2869",
             "feed": "esakal",
-            "title": "10 आजारांवर रामबाण उपाय ठरते 'हे' एक धान्य!",
+            "title": "Chikhali News : चिखलीतील वीज समस्या सोडवण्यासाठी महावितरणचा पुढाकार, नवीन ट्रान्सफॉर्मर आणि केबल बदलण्याची कामे होणार",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-19T16:20:16",
-            "url": "https://www.esakal.com/ampstories/web-story/winter-healthy-grain-bajra-benefits-asb02",
-            "image": "https://cf-images.assettype.com/esakal/2024-12-30/5sospn5t/asb2002-2.jpg",
+            "published": "2026-11-19T23:36:36",
+            "url": "https://www.esakal.com/pimpri-chinchwad/chikhali-new-switching-station-msedcl-75-crore-power-infrastructure-ysi02",
+            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/0once_20again_20from_1594030202.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "04c03409dfaa",
+            "id": "7ae0e0b081ce",
             "feed": "lokmat",
-            "title": "ऐश्वर्या रायइतकीच सुंदर आहे तिची वहिनी; ग्लॅमरस लूकनं वेधलं सर्वांचं लक्ष; फॅशन इव्हेंटमधील फोटो व्हायरल",
+            "title": "हिंगणघाट येथे पाेलिसांनी केला देह व्यापाराचा पर्दाफाश! पंढरी नगरीत पोलिसांची धाड: दोन महिला पोलिसांच्या ताब्यात",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-19T16:18:51",
-            "url": "https://www.lokmat.com/filmy/bollywood/aishwarya-bachchan-sister-in-law-shrima-rai-glamorous-black-silver-dress-fashion-event-look-a988/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/aishwarya-bachchan-sister-in-law-shrima-rai-glamorous-black-silver-dress-fashion-event-look_2026111823470.jpeg",
+            "published": "2026-11-19T23:23:04",
+            "url": "https://www.lokmat.com/vardha/police-bust-prostitution-racket-in-hinganghat-police-raid-in-pandhari-town-two-women-in-police-custody-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vardha-crime-news_2026111823757.jpg",
             "isBreaking": false,
             "category_reason": "default"
         },
         {
-            "id": "d69e17bdf95c",
+            "id": "770c14f1b67f",
             "feed": "esakal",
-            "title": "Marathi News Live Updates : उपमुख्यमंत्री एकनाथ शिंदेंच्या हेलिकॉप्टरमध्ये बिघाड",
+            "title": "Pimpri Chinchwad : जानेवारी २०२७ अखेर पिंपरी चिंचवडला मिळणार भामा आसखेड धरणाचे पाणी, प्रतिदिन १६७ एमएलडी पाणीपुरवठ्याचे नियोजन",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-19T16:16:55",
-            "url": "https://www.esakal.com/desh/latest-marathi-news-live-today-19-november-2026-cyclone-akvan-dadar-railway-station-chaityabhoomi-shaina-nc-balasaheb-thackeray-uddhav-thackeray-eknath-shinde-sonia-gandhi-jilha-bank-nivadnuk-weather-forecast-devendra-fadnavis-mumbai-pune-drought",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-05/qglr7h4m/Latest-Marathi-News-Live-Update",
+            "published": "2026-11-19T23:04:55",
+            "url": "https://www.esakal.com/pimpri-chinchwad/pimpri-chinchwad-bhama-askhed-dam-water-supply-january-2027-ysi02",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/u4p3h61w/Abhi-2026-11-19T230045.652.jpg",
             "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "0cc032c4d533",
-            "feed": "maharashtratimes",
-            "title": "Marathi Actress: काळानुसार बदलली मराठी  नायिकेची प्रतिमा,  सौंदर्य, भूमिका; आयुष्याचा वेगळाच प्लॅन अन् झाल्या अभिनेत्री, मराठी नायिकांनी शेअर केले खास किस्से",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": null
-            },
-            "published": "2026-11-19T16:16:14",
-            "url": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/chitrapataka-2026-varsha-usgaonkar-sayali-sanjeev-chhaya-kadam-marathi-3-gen-actress-share-journey/articleshow/135985496.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "url"
+            "category_reason": "default"
         }
     ],
     "world": [
         {
-            "id": "d54e7ef7b907",
-            "feed": "lokmat",
-            "title": "\"इराणला अण्वस्त्र बनवू देणार नाही, अमेरिकेकडून...!\"; ट्रम्प यांची जिनपिंग यांच्याकडे मोठी मागणी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-19T16:22:46",
-            "url": "https://www.lokmat.com/international/donald-trump-says-america-will-not-allow-iran-to-make-a-nuclear-bomb-demand-china-buy-more-us-agriculture-to-jinping-a653/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/trump-xi-jinping-putin-meeting-shenzhen-marathi-news_2026111823472.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "27bff3d6517d",
-            "feed": "lokmat",
-            "title": "अजित डोवाल यांना समन्स बजावण्यासाठी अमेरिका घेणार भारतीय कोर्टाची मदत; नेमकं प्रकरण काय",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": "world"
-            },
-            "published": "2026-11-19T15:57:39",
-            "url": "https://www.lokmat.com/international/us-court-seeks-indian-courts-help-to-serve-summons-on-ajit-doval-and-former-raw-chief-samant-goel-a1001/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ajit-doval-court-notice_2026111823446.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "148543fa1d64",
+            "id": "5c4988d2dc73",
             "feed": "maharashtratimes",
-            "title": "Bangladesh Violence: हिंसा, बॉम्ब स्फोट अन् डॉन टू डस्क लॉकडाऊन; बांग्लादेश पुन्हा पेटला; माजी PM च्या घराला आग",
+            "title": "एक चित्राची किंमत 1776 कोटी रुपये, एवढ्या पैश्यांत आली असती दोन विमानं, जगप्रसिद्ध चित्रकाराच्या पेंटिंगचा विक्रमी लिलाव",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "world"
             },
-            "published": "2026-11-19T15:34:15",
-            "url": "https://maharashtratimes.com/international/international-news/bangladesh-dhaka-violence-awami-league-lockdown-muhammad-yunus-ancestral-home-attack/articleshow/135985180.cms",
+            "published": "2026-11-19T22:56:30",
+            "url": "https://maharashtratimes.com/international/international-news/vincent-van-gogh-painting-sold-in-auction-190-milion-dollar-buy-2-airplanes/articleshow/135999638.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "164c2da7bc2d",
-            "feed": "lokmat",
-            "title": "रजनीकांत यांची कुटुंबासोबत ग्रीसमध्ये भटकंती, 'थलायवा'च्या पत्नीला पाहिलंत का? अशी आहे लव्हस्टोरी",
-            "source": {
-                "id": "lokmat",
-                "name": "Lokmat",
-                "website": "https://www.lokmat.com",
-                "category": null
-            },
-            "published": "2026-11-19T15:21:36",
-            "url": "https://www.lokmat.com/filmy/photos/south-movies/rajinikanth-enjoying-with-family-in-greece-know-who-is-his-wife-lata-rajinikanth-a945/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/rajinikanth-wife-4_2026111823379.jpg",
-            "isBreaking": false,
-            "category_reason": "keyword"
-        },
-        {
-            "id": "b49ae661713d",
+            "id": "7511caba2154",
             "feed": "esakal",
-            "title": "कोण आहेत शायना एनसी? भाजपमधून राजकीय कारकिर्दीला सुरुवात, व्यवसायाने फॅशन डिझायनर",
+            "title": "Sheikh Hasina: शेख हसीना यांच्या मायदेशी परतण्याच्या घोषणेनंतर बांगलादेशात हिंसाचार; पंतप्रधान म्हणाले, आता खूप झाले...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-19T14:44:19",
-            "url": "https://www.esakal.com/ampstories/web-story/who-is-shaina-nc-fashion-designer-and-politician-who-began-her-political-career-with-the-bharatiya-janata-party-ssy93",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-19/12s0j6uy/shaina-NC-6.jpg",
+            "published": "2026-11-19T22:43:32",
+            "url": "https://www.esakal.com/global/bangladesh-violence-sheikh-hasina-return-announcement-pm-tarique-rahman-warning-snk89",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/1mqt8aw8/Latest-Marathi-Breaking-News-2026-11-19T224147.408.jpg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
+        },
+        {
+            "id": "ab5e74cb6db2",
+            "feed": "maharashtratimes",
+            "title": "त्याला विचारल्याशिवाय दाऊद एकही निर्णय घ्यायचा नाही! मुंबईशी कनेक्शन असलेला इस्लाम बाबा कोण?",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-11-19T20:36:55",
+            "url": "https://maharashtratimes.com/international/international-news/dawood-ibrahim-took-approvals-from-islam-baba-claims-former-fbi-agent-kamran-faridi/articleshow/135996449.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "c5bc56eafa7f",
+            "feed": "esakal",
+            "title": "Bus Tanker Fire : प्रवासी बस अन् एलपीजी गॅस टँकरची समोरासमोर भीषण धडक; १० जणांचा होरपळून मृत्यू, २७ प्रवासी गंभीर जखमी",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-19T20:36:44",
+            "url": "https://www.esakal.com/global/pakistan-balochistan-gwadar-passenger-bus-lpg-gas-tanker-collision-fire-accident-news-today-marathi-2026-vsw03",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/2fjfidxm/Esakal-4.jpg",
+            "isBreaking": false,
+            "category_reason": "url"
+        },
+        {
+            "id": "81b1fcf72289",
+            "feed": "maharashtratimes",
+            "title": "Canada Crime News: कॅनडात भारतीय तरुणाला संपवलं; पेटत्या कारमध्ये तुषारची बॉडी सापडली",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "world"
+            },
+            "published": "2026-11-19T19:48:40",
+            "url": "https://maharashtratimes.com/international/international-news/indian-origin-tushar-shrama-killed-in-canada-body-found-in-burning-car/articleshow/135993815.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
         }
     ],
     "sports": [
         {
-            "id": "baf6129788ed",
+            "id": "611939228835",
             "feed": "lokmat",
-            "title": "डब्लूटीसी २०२५-२७ मध्ये टीम इंडियासाठी सर्वाधिक धावा कुणी केल्या? जाणून घ्या टॉप ५ फलंदाजांची नावे",
+            "title": "WTC Points Table : न्यूझीलंडला मागे टाकत दक्षिण आफ्रिका अव्वल! टीम इंडिया कितव्या स्थानावर?",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-19T15:46:08",
-            "url": "https://www.lokmat.com/cricket/photos/india-top-run-scorers-in-2025-27-world-test-championship-cycle-shubman-gill-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-rishabh-pant-a1012/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/shubman-gill-and-rishabh-pant_2026111823418.jpg",
+            "published": "2026-11-20T00:21:06",
+            "url": "https://www.lokmat.com/cricket/photos/wtc-points-table-south-africa-overtakes-new-zealand-to-top-the-table-what-is-team-indias-position-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wtc-points-table-m-7_2026111823768.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "458116b056ae",
+            "id": "39c02bcb8902",
             "feed": "esakal",
-            "title": "SA vs BAN 1st Test : १२ धावांचे लक्ष्य अन् दक्षिण आफ्रिकेचा ९ चेंडूंत विजय! WTC Final च्या शर्यतीत मोठी उलथापालथ, भारताच्या स्वप्नांना धक्का; समजून घ्या गणित",
+            "title": "Travis Head: १९ नोव्हेंबरचा तो काळा दिवस भारतीय चाहते विसरले नाहीत; ट्रेव्हिस हेडने ३ वर्षांनंतर पोस्ट करत पुन्हा आठवण करून दिली",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": "sports"
             },
-            "published": "2026-11-19T15:43:26",
-            "url": "https://www.esakal.com/krida/cricket/ban-vs-sa-1st-test-south-africa-beat-bangladesh-india-wtc-final-2027-hopes-suffer-major-blow-check-points-table-svg87",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-19/j11nhlfm/South-Africa-beat-Bangladesh-in-first-Test-by-9-wickets",
+            "published": "2026-11-19T19:40:27",
+            "url": "https://www.esakal.com/krida/cricket/travis-head-birthday-post-19-november-2023-india-vs-australia-world-cup-final-viral-social-media-reaction-vsb99",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-19/svnjzi6b/Henry-Nicholls-2.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "fa2866f28c06",
+            "id": "bba501176662",
             "feed": "maharashtratimes",
-            "title": "india vs nz test : आता तुम्हीच सांगा OUT की NOT OUT?  ज्या अपीलनंतर कॅप्टन गिल थेट अंपायरला भिडला; काय झालेलं?",
+            "title": "Shoaib Akhtar : 'आम्ही तर बाटलीच्या झाकणाने बॉल टॅम्परिंग करायचो'; शोएब अख्तरने पाकिस्तानला जगासमोर उघडं पाडलं, विरोधी संघाचंही सांगितलं नाव",
             "source": {
                 "id": "maharashtratimes",
                 "name": "Maharashtra Times",
                 "website": "https://maharashtratimes.com",
                 "category": "sports"
             },
-            "published": "2026-11-19T14:56:12",
-            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-nz-1st-test-lenn-phillips-controversial-decision-on-jasprit-bumrah-bowling-watch-video/articleshow/135982002.cms",
+            "published": "2026-11-19T18:54:26",
+            "url": "https://maharashtratimes.com/sports/cricket/cricket-news/pakistani-bowler-shoaib-akhtar-has-revealed-he-used-ball-tampering-using-bottle-cap-in-england/articleshow/135992781.cms",
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
@@ -298,52 +298,52 @@
     ],
     "business": [
         {
-            "id": "ca4ec3b04650",
+            "id": "a6a7372dbf23",
             "feed": "lokmat",
-            "title": "Vegetable Market : शेतातील घामाचे दाम सोडा, उत्पादन खर्चही निघेना! टोमॅटो २८५ रुपये, कोबी १ रुपया किलो",
+            "title": "आता लिंबू तोडताना हाताला काटे टोचणार नाहीत; 'या' नवीन यंत्राद्वारे फळे थेट पिशवीत होणार जमा",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-19T16:17:11",
-            "url": "https://www.lokmat.com/agriculture/market-yard/latest-news-vegetable-market-let-alone-the-price-of-sweat-in-the-field-the-production-cost-is-not-even-covered-tomatoes-rs-285-cabbage-rs-1-per-kg-a1003/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/vegitable-market-1_2026111823466.jpg",
+            "published": "2026-11-19T20:37:11",
+            "url": "https://www.lokmat.com/agriculture/smart-farming/now-you-wont-have-to-prick-your-hands-while-picking-lemons-this-new-machine-will-collect-the-fruits-directly-into-the-bag-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-mpkv-rahuri_2026111823727.jpeg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "31e9b964b7b3",
+            "id": "9d61cf89e552",
             "feed": "lokmat",
-            "title": "रात्री झोपताना घरातील वायफाय सुरूच ठेवताय? तुमच्या झोपेवर होतोय गंभीर परिणाम? वाचा सविस्तर",
+            "title": "Motorola: ड्युअल कॅमेऱ्यासह भन्नाट फीचर्स, मोटोरोलाचा पहिला वाइड फोल्डेबल फोन लवकरच बाजारात!",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-19T16:13:05",
-            "url": "https://www.lokmat.com/photos/tech/are-you-leaving-your-home-wifi-on-while-sleeping-at-night-it-is-seriously-affecting-your-sleep-read-in-detail-a941/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/wifi-sleep-problem_2026111823464.jpg",
+            "published": "2026-11-19T19:58:44",
+            "url": "https://www.lokmat.com/tech/motorola-new-wide-foldable-phone-leaked-169-display-165hz-refresh-rate-5000mah-battery-a1012/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/motorola-new-wide-foldable-phone_2026111823712.jpg",
             "isBreaking": false,
             "category_reason": "url"
         },
         {
-            "id": "201a35e0008d",
-            "feed": "esakal",
-            "title": "SIP Investment: SIP मध्ये पैसा कमवायचा असेल तर किती वर्षे गुंतवणूक करावी? 7 वर्षांचा नियम काय? रीपोर्टमधून मोठा खुलासा!",
+            "id": "e28d36b3692f",
+            "feed": "lokmat",
+            "title": "राज्याच्या कोणत्या कांदा मार्केट मध्ये मिळतोय वाढीव दर? वाचा आजचे कांदा बाजारभाव",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": null
             },
-            "published": "2026-11-19T16:00:31",
-            "url": "https://www.esakal.com/sakal-money/personal-finance/sip-investment-7-year-rule-how-long-to-invest-sip-returns-risk-5-year-7-year-10-year-sip-study-vsd00",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-19/aiplpzri/Copy-of-Copy-of-banner-2026-11-19T142557.852.jpg",
+            "published": "2026-11-19T19:49:45",
+            "url": "https://www.lokmat.com/agriculture/market-yard/in-which-onion-market-of-the-state-is-the-price-increased-read-todays-onion-market-price-a999/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/34-34-34-34-34-onion-market-rate_2026111823618.jpeg",
             "isBreaking": false,
-            "category_reason": "keyword"
+            "category_reason": "url"
         }
     ]
 }
