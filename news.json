@@ -1,6 +1,38 @@
 {
-    "lastUpdated": "20-11-2026 | 11:38 PM IST",
+    "lastUpdated": "21-11-2026 | 06:00 AM IST",
     "maharashtra": [
+        {
+            "id": "630cf16df343",
+            "feed": "lokmat",
+            "title": "अंबरनाथमध्ये दिवसाढवळ्या ड्रग्ज विक्री सुरूच; सिद्धार्थनगर येथील प्रवेशद्वारावर नशेखोरांची गर्दी",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-21T05:51:05",
+            "url": "https://www.lokmat.com/thane/drug-sales-continue-in-broad-daylight-in-ambernath-crowd-of-drug-addicts-at-the-entrance-of-siddharthnagar-a858-c747/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/ambernath-drugs-2111_2026111824537.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "9f40cab12f0e",
+            "feed": "lokmat",
+            "title": "भांडुप-कांजूरमार्गदरम्यान रेल्वे वाहतूक विस्कळीत; प्रवाशांची रुळांवरून पायपीट",
+            "source": {
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
+                "category": "maharashtra"
+            },
+            "published": "2026-11-21T00:03:31",
+            "url": "https://www.lokmat.com/mumbai/rail-traffic-disrupted-between-bhandup-kanjur-route-passengers-walk-on-tracks-a941/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/kanjurmarg-train-main_2026111824515.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f732330abe90",
             "feed": "esakal",
@@ -48,41 +80,73 @@
             "image": "https://cf-images.assettype.com/esakal/2026-11-19/cst6wnx2/Hemant-Sapkal",
             "isBreaking": false,
             "category_reason": "url"
-        },
+        }
+    ],
+    "india": [
         {
-            "id": "ce730c56e704",
-            "feed": "maharashtratimes",
-            "title": "Solapur News : ट्रेनमध्ये चिक्की दिली तर खाऊ नका; महिलेचं संतापजनक कृत्य, लोहमार्ग पोलिसांची धडाकेबाज कारवाई",
-            "source": {
-                "id": "maharashtratimes",
-                "name": "Maharashtra Times",
-                "website": "https://maharashtratimes.com",
-                "category": "maharashtra"
-            },
-            "published": "2026-11-20T22:53:34",
-            "url": "https://maharashtratimes.com/maharashtra/solapur/woman-arrested-by-solapur-railway-police-for-stealing-jewellery-in-train/articleshow/136034608.cms",
-            "image": "",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "b83d19ec5f4f",
+            "id": "372e266ca714",
             "feed": "esakal",
-            "title": "Solapur Crime : मामाच्या गावी भाच्याची करामत! अक्कलकोटवरून मामाच्या गावी सोलापुरात आलेल्या भाचाने चोरल्या १५ दुचाकी",
+            "title": "हौस ऑफ बांबू : उगीच कां ‘भांड’ता? गांजिता?...",
             "source": {
                 "id": "esakal",
                 "name": "eSakal",
                 "website": "https://www.esakal.com",
                 "category": null
             },
-            "published": "2026-11-20T22:42:35",
-            "url": "https://www.esakal.com/paschim-maharashtra/solapur/nephews-mischief-in-uncles-town-coming-from-akkalkot-to-solapur-nephew-steals-15-two-wheelers-crime-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-03-19/avtg5c0x/Crime",
+            "published": "2026-11-21T05:36:00",
+            "url": "https://www.esakal.com/sampadakiya/satirical/100th-marathi-sahitya-sammelan-president-election-sharankumar-limbale-ysi02",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-20/9gzj0air/Abhi-2026-11-20T191839.279.jpg",
+            "isBreaking": false,
+            "category_reason": "keyword"
+        },
+        {
+            "id": "7117c15c6c4a",
+            "feed": "maharashtratimes",
+            "title": "अंकभविष्य 21 November 2026: मूलांक 4 सकारात्मक विचार करा! मूलांक 8 शुभ कार्याची सुरूवात! जाणून घ्या, अंकशास्त्रानुसार तुमचे राशिभविष्य",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": null
+            },
+            "published": "2026-11-21T04:00:00",
+            "url": "https://maharashtratimes.com/astro/numerology/numerology-horoscope-21-november-2026-kartiki-ekadashi-tusli-vivaha-daily-astrology-ank-bhavishya-prediction-in-marathi/articleshow/136035372.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
+        {
+            "id": "a1546dfca692",
+            "feed": "esakal",
+            "title": "Punjab MSME : पंजाबमध्ये १६.३६ लाख सूक्ष्म, लघु व मध्यम उद्योग; ८८.५६ लाखांहून अधिक जणांना रोजगार",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-21T03:00:00",
+            "url": "https://www.esakal.com/desh/punjab-msme-growth-16-36-lakh-industries-employment-generation-ysi02",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-20/7oqyedgo/Abhi-2026-11-20T200906.427.jpg",
             "isBreaking": false,
             "category_reason": "url"
-        }
-    ],
-    "india": [
+        },
+        {
+            "id": "ea6100351604",
+            "feed": "esakal",
+            "title": "हिवाळ्यात त्वचा कोरडी आणि निस्तेज झालीये? ‘हे’ घरगुती उपाय करून पाहा!",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": null
+            },
+            "published": "2026-11-21T00:09:21",
+            "url": "https://www.esakal.com/ampstories/web-story/winter-skin-care-tips-home-remedies-for-dry-dull-skin-and-sun-tanning-in-winter-aht00",
+            "image": "https://cf-images.assettype.com/esakal/2025-11-14/uto9e99p/Dry-skin",
+            "isBreaking": false,
+            "category_reason": "default"
+        },
         {
             "id": "bab1eb4b51c6",
             "feed": "esakal",
@@ -96,70 +160,6 @@
             "published": "2026-11-20T23:36:52",
             "url": "https://www.esakal.com/pimpri-chinchwad/wakad-school-relocation-controversy-bhumkar-school-high-voltage-power-lines-ysi02",
             "image": "https://cf-images.assettype.com/esakal/2026-11-20/f97p5t28/Abhi-2026-11-20T233121.148.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "7e456981caae",
-            "feed": "esakal",
-            "title": "Hinjawadi Metro: हिंजवडी मेट्रो स्थानकांजवळ वाहनतळांची प्रतीक्षा कधी संपणार? बालेवाडी-बाणेरमधील पार्किंगचे काम अपूर्ण, इतर ठिकाणी नियोजन कागदावरच",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-20T23:25:09",
-            "url": "https://www.esakal.com/pimpri-chinchwad/hinjawadi-metro-parking-problem-wakad-baner-pmrda-parking-facility-ysi02",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-20/5fw1s6sa/Abhi-2026-11-20T232103.760.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "87ca70f6ac33",
-            "feed": "esakal",
-            "title": "IFFI 2026 : महोत्सवामागे वसुधैव कुटुंबकम् हाच विचार; गोव्याचे मुख्यमंत्री प्रमोद सावंत यांचे प्रतिपादन, इफ्फीचे शानदार उद्घाटन",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-20T23:22:09",
-            "url": "https://www.esakal.com/premier/iffi-2026-event-vasudhaiva-kutumbakam-core-idea-behind-festival-goa-cm-pramod-sawant-asserts-grand-inauguration-entertainment-pjp78",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-20/h2v2bka5/IFFI-2026-Inauguration",
-            "isBreaking": false,
-            "category_reason": "url"
-        },
-        {
-            "id": "f039a4d8cbbd",
-            "feed": "esakal",
-            "title": "YCM Hospital : वायसीएम रुग्णालयातील औषधांच्या गुणवत्तेवर प्रश्नचिन्ह; अन्न व औषध प्रशासनाने १ कोटी ९० लाखांचा औषधसाठा केला जप्त",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-20T23:14:37",
-            "url": "https://www.esakal.com/pimpri-chinchwad/ycm-hospital-drug-quality-issue-fda-seizes-medicines-worth-1-90-crore-ysi02",
-            "image": "https://cf-images.assettype.com/esakal/import/s3fs-public/news-story/cover-images/4YCM_Hospital_0.jpg",
-            "isBreaking": false,
-            "category_reason": "default"
-        },
-        {
-            "id": "5a7fd074196b",
-            "feed": "esakal",
-            "title": "Garbage Processing Centre : पिंपरी चिंचवडमध्ये स्वच्छ सर्वेक्षणातील यशानंतरही कचऱ्याचा प्रश्न कायम; नगरसेवकांनी ठेकेदार आणि महापालिका प्रशासनाला धरले धारेवर",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-20T23:07:19",
-            "url": "https://www.esakal.com/pimpri-chinchwad/pimpri-chinchwad-garbage-management-issue-corporators-target-contractors-administration-ysi02",
-            "image": "https://cf-images.assettype.com/esakal/2024-08-26/yv3dk4a1/Garbage%20vehicles",
             "isBreaking": false,
             "category_reason": "default"
         }
@@ -248,55 +248,71 @@
     ],
     "sports": [
         {
-            "id": "628009dd3a20",
+            "id": "85622507f6e3",
+            "feed": "esakal",
+            "title": "IND vs NZ, 1st Test, 3rd Day: केएल राहुल शतकाच्या उंबरठ्यावर, पडिक्कलचेही अर्धशतक; लंचब्रेकपर्यंत काय घडलं?",
+            "source": {
+                "id": "esakal",
+                "name": "eSakal",
+                "website": "https://www.esakal.com",
+                "category": "sports"
+            },
+            "published": "2026-11-21T05:58:55",
+            "url": "https://www.esakal.com/krida/cricket/india-vs-newzeal-and-1st-test-day-3-kl-rahul-near-hundred-devdutt-padikkal-half-century-lunch-update-psk96",
+            "image": "https://cf-images.assettype.com/esakal/2026-11-21/4wnbklkl/KL-Rahul-Devdutt-Padikkal-India-vs-New-Zealand-1st-Test.jpg",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
+        {
+            "id": "bf25a0b4b750",
             "feed": "lokmat",
-            "title": "IND vs PAK : भारत-पाक क्रिकेटमधील नवा वाद! आधी ‘ट्रॉफी चोर’चा टॅग, आता मॅच न खेळताच चॅम्पियन घोषित केल्याने राडा!",
+            "title": "IND vs NZ 1st Test Day 3 : पडिक्कलचा हिट शो कायम! KL राहुलसोबत जोडी जमली, पठ्ठ्यानं न्यूझीलंडविरुद्धही ठोकली फिफ्टी",
             "source": {
                 "id": "lokmat",
                 "name": "Lokmat",
                 "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-20T23:12:50",
-            "url": "https://www.lokmat.com/cricket/news/india-blind-cricket-team-rejects-pakistans-controversial-asia-cup-title-2026-demands-recognition-as-joint-winners-a1004/",
-            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/india-blind-cricket-team-rejects-pakistans-controversial-asia-cup-title-m_2026111824495.jpg",
+            "published": "2026-11-21T05:26:15",
+            "url": "https://www.lokmat.com/cricket/news/ind-vs-nz-1st-test-day-3-india-batter-devdutt-padikkal-brings-up-his-fifty-off-98-balls-against-new-zealand-at-basin-reserve-in-wellington-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/devdutt-padikkal-brings-up-his-fifty-off-98-balls-against-new-zealand-m_2026111824535.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         },
         {
-            "id": "7b676549433b",
-            "feed": "esakal",
-            "title": "Tilak Varma Century: तिलक वर्माचा नेपाळवर तुफानी हल्ला! ११३ चेंडूंत ठोकलं बाहुबली शतक, चौकार-षटकारांच्या आतषबाजीने गोलंदाजांची दाणादाण",
+            "id": "38798f5639f2",
+            "feed": "lokmat",
+            "title": "तिलकच्या नेतृत्वात भारत अ संघाचा ऐतिहासिक विजय; List A मध्ये ३०० हून अधिक धावांनी जिंकणारे ८ संघ",
             "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
+                "id": "lokmat",
+                "name": "Lokmat",
+                "website": "https://www.lokmat.com",
                 "category": "sports"
             },
-            "published": "2026-11-20T22:55:00",
-            "url": "https://www.esakal.com/krida/cricket/tilak-varma-century-against-nepal-india-a-107-runs-kumar-kushagra-117-rising-stars-asia-cup-2026-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-20/x6sek32x/tilak-varma-3.jpg",
-            "isBreaking": false,
-            "category_reason": "feed"
-        },
-        {
-            "id": "e10c2e6c6406",
-            "feed": "esakal",
-            "title": "India A Beat Nepal: आधी तिलक कुशाग्राची शतकांची आतषबाजी, मग प्रिन्स यादव हर्षित राणाचा कहर; भारत 'अ' संघाचा नेपाळवर ३०६ धावांनी दणदणीत विजय",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": "sports"
-            },
-            "published": "2026-11-20T21:54:12",
-            "url": "https://www.esakal.com/krida/cricket/india-a-beat-nepal-by-306-runs-rising-stars-asia-cup-2026-tilak-varma-kumar-kushagra-prince-yadav-harshit-rana-vsb99",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-20/63hv92ae/ind-vs-nepal.jpg",
+            "published": "2026-11-21T04:49:16",
+            "url": "https://www.lokmat.com/cricket/photos/tilak-varma-led-india-a-script-historic-306-run-win-enter-top-8-in-list-a-crickets-biggest-wins-by-runs-a1004/",
+            "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/largest-margin-of-victory-by-runs-in-list-a-m-9_2026111824532.jpg",
             "isBreaking": false,
             "category_reason": "feed"
         }
     ],
     "business": [
+        {
+            "id": "4d87f880f2d4",
+            "feed": "maharashtratimes",
+            "title": "वडिलांच्या आठवणींसाठी नीता अंबानी करणार खास नृत्य; 'द ग्रेट इंडियन म्युझिकल'मध्ये दिसणार कलाविष्कार",
+            "source": {
+                "id": "maharashtratimes",
+                "name": "Maharashtra Times",
+                "website": "https://maharashtratimes.com",
+                "category": "business"
+            },
+            "published": "2026-11-20T23:42:22",
+            "url": "https://maharashtratimes.com/business/business-news/nita-ambani-special-dance-performance-dedicated-sp-to-father-at-the-great-indian-musical/articleshow/136037008.cms",
+            "image": "",
+            "isBreaking": false,
+            "category_reason": "feed"
+        },
         {
             "id": "f57c1b589b84",
             "feed": "maharashtratimes",
@@ -328,22 +344,6 @@
             "image": "",
             "isBreaking": false,
             "category_reason": "feed"
-        },
-        {
-            "id": "a578549f2a4d",
-            "feed": "esakal",
-            "title": "डिसेंबर महिना ठरणार लकी! ६ राशींचे अच्छे दिन; नोकरीच्या नव्या संधींसह, रखडलेली कामंही होणार पूर्ण",
-            "source": {
-                "id": "esakal",
-                "name": "eSakal",
-                "website": "https://www.esakal.com",
-                "category": null
-            },
-            "published": "2026-11-20T21:49:07",
-            "url": "https://www.esakal.com/culture-and-religion/december-2026-horoscope-6-zodiac-signs-to-get-career-money-and-business-benefits-spb94",
-            "image": "https://cf-images.assettype.com/esakal/2026-11-20/hboi8jzy/December-2026-horoscope",
-            "isBreaking": false,
-            "category_reason": "keyword"
         }
     ]
 }
